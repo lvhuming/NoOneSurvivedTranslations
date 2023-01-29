@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
 "POT-Creation-Date: 2023-01-26 02:33\n"
-"PO-Revision-Date: 2023-01-26 12:43+0100\n"
+"PO-Revision-Date: 2023-01-28 17:27+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: de\n"
@@ -423,7 +423,7 @@ msgstr "Schnee"
 #: Text
 msgctxt ",13214985457425F5E5AE71A38AC18920"
 msgid "加入"
-msgstr "dazu kommen"
+msgstr "Nimm am Spiel teil"
 
 #. Key:	1382DB5845EF08EFE9234285EB77306A
 #. SourceLocation:	/Game/Blueprint/UMG/ChatSystem/WBP_ChatMessage.WBP_ChatMessage_C:WidgetTree.TextBlock.Text
@@ -1417,7 +1417,7 @@ msgstr "Suchzeit"
 #: Text
 msgctxt ",4492781C4F5E797D00FE94AE878EF46C"
 msgid "化学反应台"
-msgstr "chemische Reaktionsplattform"
+msgstr "Chemische Reaktionsplattform"
 
 #. Key:	4561C12A4DF8189CD64E2EB0ED0F2A01
 #. SourceLocation:	/Game/Blueprint/ACF/Manager/E_Season.E_Season.DisplayNameMap(1 - Value).DisplayNameMap
@@ -1642,7 +1642,7 @@ msgstr "Im Auto"
 #: Text
 msgctxt ",5159A35C4632DF45C427CC9981E0117D"
 msgid "滤芯"
-msgstr "filter Element"
+msgstr "Filter Element"
 
 #. Key:	5266199243DBCAB57A9139B087C1733C
 #. SourceLocation:	/Game/HDCKBuildingSystem/Table/E_SelectTypeChild.E_SelectTypeChild.DisplayNameMap(4 - Value).DisplayNameMap
@@ -1993,7 +1993,7 @@ msgstr "Boden"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_7.Text
 msgctxt ",64D4745841D9C12BDAB22087FE6B4313"
 msgid "机械+"
-msgstr "Mechanisch+"
+msgstr "Mechanisch"
 
 #. Key:	64F708BA409C70B2302CF6B3F697174E
 #. SourceLocation:	/Game/Blueprint/ACF/Data/TableAsset/FoodAssetTable.FoodAssetTable.机修（一卷）.Name_33_B65BC8D64E83EF46F5F21FA5566C3997
@@ -2233,7 +2233,7 @@ msgstr "Machete aus Stahl"
 #: /Game/Blueprint/ACF/Item/Weapon/Spear/BP_SpearShoot_bASE.Default__BP_SpearShoot_Base_C.ItemInfo.Name
 msgctxt ",6E50C50F4EF16D2056CDECB988181CCB"
 msgid "木矛"
-msgstr "hölzerner Speer"
+msgstr "Holz Speer"
 
 #. Key:	6EB645364114559991F1D789D93D42E9
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_34.In Text
@@ -2322,7 +2322,7 @@ msgstr "PRÜFUNG"
 #: [Script Bytecode]
 msgctxt ",7209EEC74B6D1B8D26F00A87132B5F14"
 msgid "可繁殖"
-msgstr "fruchtbar"
+msgstr "Fruchtbar"
 
 #. Key:	721E365A451AAAA64D44B390CD6312C9
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/FaceUI/WBP_Select.Default__WBP_Select_C.In Text
@@ -2462,7 +2462,7 @@ msgstr "Boden"
 #: Text
 msgctxt ",78654B7C40CB825C0C5430BC0293D7F9"
 msgid "农业工具台"
-msgstr "landwirtschaftlicher Werkzeugtisch"
+msgstr "Landwirtschaftlicher Werkzeugtisch"
 
 #. Key:	788171F949D09004E54914B48D5E5FD4
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_10.Text
@@ -2737,7 +2737,7 @@ msgstr "Kraftstoffgenerator"
 #: Text
 msgctxt ",85149FD54B55F3B6218485B6BA8F72FD"
 msgid "精细零件"
-msgstr "feine Teile"
+msgstr "Feine Teile"
 
 #. Key:	85DE22324C7068D83740A99089B247E1
 #. SourceLocation:	/Game/Blueprint/UMG/EscMenu/WBP_Setting.Default__WBP_Setting_C.Setting(0).Setting
@@ -2803,7 +2803,7 @@ msgstr "Möbel"
 #: /Game/Blueprint/UMG/NPCUMG/WBP_JYDetail.WBP_JYDetail_C:WidgetTree.TextBlock_74.Text
 msgctxt ",896977E14C8A6A85B1393192A07E580F"
 msgid "确认交易"
-msgstr "Transaktion bestätigen"
+msgstr "Transaktion Bestätigen"
 
 #. Key:	89B6EC0E40C217402E0E0998BA850636
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_SPX.WBP_SPX_C:WidgetTree.Water.Text
@@ -2892,7 +2892,7 @@ msgstr "29"
 #: /Game/Blueprint/UMG/EscMenu/WBP_Dead.WBP_Dead_C:WidgetTree.TextBlock_89.Text
 msgctxt ",90AEE0354358F92731434F81DD54BB24"
 msgid "重生"
-msgstr "Wiedergeburt"
+msgstr "Wiederauferstehung"
 
 #. Key:	90D7107E43831E7B09B97ABCB3F4AD74
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_90.In Text
@@ -2943,7 +2943,7 @@ msgstr "Unverzichtbar für den Hausbau"
 #: /Game/Blueprint/UMG/Furniture/WBP_SPX.WBP_SPX_C:WidgetTree.Sy.Text
 msgctxt ",9410660E4A342FA06D31A7956C47847E"
 msgid "预计成熟时间"
-msgstr "voraussichtliche Reifezeit"
+msgstr "Voraussichtliche Reifezeit"
 
 #. Key:	9484FAA046CFCFCBC04BD4A1D1BC6415
 #. SourceLocation:	/Game/Blueprint/UMG/State/WBP_Status.WBP_Status_C:WidgetTree.Time.Text
@@ -3024,7 +3024,7 @@ msgstr "Kopfverteidigung"
 #: Text
 msgctxt ",98BCDB424BE26E715DFD64AD69017AD9"
 msgid "木箱架"
-msgstr "holzkiste regal"
+msgstr "Kastenrahmen aus Holz"
 
 #. Key:	990659C84BB9A39ED0C5DA92F26B3EF6
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_GameSetting.WBP_GameSetting_C:WidgetTree.ShowTex_12.Text
@@ -3115,7 +3115,7 @@ msgstr "Öffnen Sie das Gebäudemenü und wählen Sie Timber Foundation"
 #: [Script Bytecode]
 msgctxt ",9E632F8949F56E68D88F799607625386"
 msgid "重生中..."
-msgstr "Wiedergeburt..."
+msgstr "Wiederauferstehung..."
 
 #. Key:	9EC234B04FEF2CF93F8F16A86C209716
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_ZJ.Furniture_ZJ_C:ExecuteUbergraph_Furniture_ZJ [Script Bytecode]
@@ -3900,7 +3900,7 @@ msgstr "als Auferstehungspunkt gesetzt"
 #: Text
 msgctxt ",C95B9D5D497F1BBE79830CA3E08DA455"
 msgid "饲养圈"
-msgstr "Zuchtstift"
+msgstr "Tiergehege"
 
 #. Key:	C99F683B4CADB5E20B857EAF962FD2C7
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_16.Text
@@ -4620,7 +4620,7 @@ msgstr "NULL"
 #: Value).DisplayNameMap
 msgctxt ",EB8E102A411B40A3B1DC2A871517A726"
 msgid "searching"
-msgstr "suchen"
+msgstr "Suchen"
 
 #. Key:	EC510E034A21173FA2F1D897E1562A29
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/DJ/BP_GunAccessory_DJ_9MM_02.Default__BP_GunAccessory_DJ_9MM_02_C.ItemInfo.Description
@@ -4857,7 +4857,7 @@ msgstr "{0}{1}"
 #: Text
 msgctxt ",F618CC164355622BE74E469B9F2F7BDA"
 msgid "电熔炉"
-msgstr "elektrischer Ofen"
+msgstr "Elektrischer Ofen"
 
 #. Key:	F63346F142E610BC067F80A6514EA901
 #. SourceLocation:	/Game/Blueprint/UMG/ScreenMessage/WBP_CarMessage.WBP_CarMessage_C:WidgetTree.UnitLabel.Text
@@ -6350,7 +6350,7 @@ msgstr "Eisentor"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B79"
 msgid "拒马"
-msgstr "Pferd ablehnen"
+msgstr "Angespitzte Holzpfähle"
 
 #. Key:	B8
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6679,7 +6679,7 @@ msgstr "Weste"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,A8"
 msgid "军用背心"
-msgstr "militärische Weste"
+msgstr "Militärische Weste"
 
 #. Key:	A9
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7029,7 +7029,7 @@ msgstr "Weizen"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F20"
 msgid "蜂蜜"
-msgstr "Schatz"
+msgstr "Honig"
 
 #. Key:	F21
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7274,14 +7274,14 @@ msgstr "Köstlicher reichhaltiger Eintopf"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F52"
 msgid "美味派"
-msgstr "leckerer Kuchen"
+msgstr "Leckerer Kuchen"
 
 #. Key:	F53
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F53"
 msgid "美味全餐"
-msgstr "leckere vollwertige Mahlzeit"
+msgstr "Leckere vollwertige Mahlzeit"
 
 #. Key:	F54
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7358,21 +7358,21 @@ msgstr "Kaffee trinken"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F63"
 msgid "小塑料瓶"
-msgstr "kleine Plastikflasche"
+msgstr "Kleine Plastikflasche"
 
 #. Key:	F64
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F64"
 msgid "大塑料瓶"
-msgstr "große Plastikflasche"
+msgstr "Große Plastikflasche"
 
 #. Key:	F65
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F65"
 msgid "铝壶"
-msgstr "Topf aus Aluminium"
+msgstr "Feldflasche"
 
 #. Key:	F66
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7666,14 +7666,14 @@ msgstr "Scharfschützengewehrschaft"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,G13"
 msgid "762扩容弹夹"
-msgstr "762 Erweiterungsmagazin"
+msgstr "7,62 Erweiterungsmagazin"
 
 #. Key:	G14
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,G14"
 msgid "556扩容弹夹"
-msgstr "556 Erweiterungsmagazin"
+msgstr "5,56 Erweiterungsmagazin"
 
 #. Key:	G15
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7687,14 +7687,14 @@ msgstr "9mm Erweiterungsmagazin"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,G16"
 msgid "垂直握把"
-msgstr "vertikaler Griff"
+msgstr "Vertikaler Vordergriff"
 
 #. Key:	G17
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,G17"
 msgid "三角握把"
-msgstr "dreieckiger Griff"
+msgstr "Angewinkelter Vordergriff"
 
 #. Key:	G2
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7757,14 +7757,14 @@ msgstr "Holographischer Anblick"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M1"
 msgid "原木"
-msgstr "Protokoll"
+msgstr "Baumstamm"
 
 #. Key:	M10
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M10"
 msgid "精细布料"
-msgstr "feiner Stoff"
+msgstr "Feiner Stoff"
 
 #. Key:	M11
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7918,14 +7918,14 @@ msgstr "Holzstock"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M30"
 msgid "简易零件"
-msgstr "einfache Teile"
+msgstr "Einfache Teile"
 
 #. Key:	M31
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M31"
 msgid "精巧零件"
-msgstr "empfindliche Teile"
+msgstr "Empfindliche Teile"
 
 #. Key:	M32
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8072,7 +8072,7 @@ msgstr "Holzkohle"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M50"
 msgid "电动缝纫机图纸"
-msgstr "elektrische nähmaschine zeichnung"
+msgstr "Elektrische Nähmaschine Zeichnung"
 
 #. Key:	M51
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8128,7 +8128,7 @@ msgstr "Wandler"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M58"
 msgid "电机"
-msgstr "Motor-"
+msgstr "Motor"
 
 #. Key:	M59
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8751,7 +8751,7 @@ msgstr "Lucille"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W26"
 msgid "铁矛"
-msgstr "eiserner Speer"
+msgstr "Eisen Speer"
 
 #. Key:	W27
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9178,7 +9178,7 @@ msgstr "Rüstung"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,Auto"
 msgid "自动"
-msgstr "automatisch"
+msgstr "Automatisch"
 
 #. Key:	autumn
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -9192,14 +9192,14 @@ msgstr "Herbst"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Back"
 msgid "返回"
-msgstr "Rückkehr"
+msgstr "Zurück"
 
 #. Key:	BackAmmo
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,BackAmmo"
 msgid "退弹"
-msgstr "Prallen"
+msgstr "Entleeren"
 
 #. Key:	BackGame
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -9350,7 +9350,7 @@ msgstr "Möbel"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,BuildingOutDoor"
 msgid "户外"
-msgstr "draussen"
+msgstr "Draussen"
 
 #. Key:	BuildingRoof
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -9714,7 +9714,7 @@ msgstr "Tiefe"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,destroyBuild"
 msgid "拆除"
-msgstr "niederreißen"
+msgstr "Abreißen"
 
 #. Key:	destroyHammer
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -9756,14 +9756,14 @@ msgstr "Magazin"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,DJZLJX01"
 msgid "点击这里继续"
-msgstr "Klicken Sie hier um fortzufahren"
+msgstr "Klicken Sie hier um, fortzufahren"
 
 #. Key:	DK
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,DK"
 msgid "断开"
-msgstr "trennen"
+msgstr "Trennen"
 
 #. Key:	DL
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -9826,7 +9826,7 @@ msgstr "Wasser trinken"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Drop"
 msgid "丢弃"
-msgstr "wegschmeißen"
+msgstr "Wegschmeißen"
 
 #. Key:	DropItem
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -9931,7 +9931,7 @@ msgstr "Augenform"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,fangru"
 msgid "放入"
-msgstr "in ein legen"
+msgstr "In ein Legen"
 
 #. Key:	fayue
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -9994,7 +9994,7 @@ msgstr "suche..."
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Finding"
 msgid "长按搜索"
-msgstr "lang drücken, um zu suchen"
+msgstr "Lang drücken, um zu suchen"
 
 #. Key:	FireTime
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10057,7 +10057,7 @@ msgstr "Leistung"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,FSR4"
 msgid "超性能"
-msgstr "super leistung"
+msgstr "Super Leistung"
 
 #. Key:	FSZL
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10148,21 +10148,21 @@ msgstr "Beziehungswachstum:"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,H"
 msgid "后"
-msgstr "der Rücken"
+msgstr "Der Rücken"
 
 #. Key:	HammerAltWheel
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,HammerAltWheel"
 msgid "前后偏移"
-msgstr "vorne und hinten versetzt"
+msgstr "Vorne und hinten versetzt"
 
 #. Key:	HammerCtrlWheel
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,HammerCtrlWheel"
 msgid "左右偏移"
-msgstr "links und rechts versetzt"
+msgstr "Links und rechts versetzt"
 
 #. Key:	HammerG
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10190,7 +10190,7 @@ msgstr "Gebäudemenü öffnen/schließen"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,HammerRight"
 msgid "取消（重置偏移）"
-msgstr "abbrechen (Offset zurücksetzen)"
+msgstr "Abbrechen (Offset zurücksetzen)"
 
 #. Key:	HammerShift
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10463,7 +10463,7 @@ msgstr "besteigbar"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,KR"
 msgid "我感觉热"
-msgstr "mir ist heiß"
+msgstr "Mir ist heiß"
 
 #. Key:	KRX
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -10929,7 +10929,7 @@ msgstr "Kein Feuer oder Zutaten"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,NotLink"
 msgid "未连接"
-msgstr "nicht verbunden"
+msgstr "Nicht verbunden"
 
 #. Key:	NotLinkDCZ
 #. SourceLocation:	/Game/LocalizationText/UI.UI
