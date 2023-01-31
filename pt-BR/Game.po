@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
 "POT-Creation-Date: 2023-01-19 01:56\n"
-"PO-Revision-Date: 2023-01-29 10:45-0300\n"
+"PO-Revision-Date: 2023-01-30 23:23-0300\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: pt_BR\n"
@@ -648,7 +648,7 @@ msgstr "Dicas"
 #: - Value).DisplayNameMap
 msgctxt ",1A5943304B1C4E435E9732A73F4A03F5"
 msgid "RedDot"
-msgstr "Mira Red Dot"
+msgstr "Acessório de Arma - Mira Red Dot"
 
 #. Key:	1A99018D4B477A08E00FB4931F57A181
 #. SourceLocation:	/Game/Blueprint/UMG/Inventory/WBP_ItemToolTip.WBP_ItemToolTip_C:WidgetTree.TBFY.Text
@@ -8052,98 +8052,98 @@ msgstr "Metalurgia (Volume 1)"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,G1"
 msgid "手枪消音器"
-msgstr "Silenciador - Pistola"
+msgstr "Acessório de Arma - Silenciador (Pistola)"
 
 #. Key:	G10
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,G10"
 msgid "步枪枪托"
-msgstr "Coronha - Rifle de Assalto"
+msgstr "Acessório de Arma - Guarda-mão (Rifle de Assalto) "
 
 #. Key:	G11
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,G11"
 msgid "冲锋枪枪托"
-msgstr "Coronha - Metralhadora"
+msgstr "Acessório de Arma - Coronha (Metralhadora)"
 
 #. Key:	G12
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,G12"
 msgid "狙击枪枪托"
-msgstr "Coronha - Rifle de Precisão"
+msgstr "Acessório de Arma - Coronha (Rifle de Precisão)"
 
 #. Key:	G13
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,G13"
 msgid "762扩容弹夹"
-msgstr "Carregador Estendido (7.62mm) - Rifle de Assalto"
+msgstr "Acessório de Arma - Carregador Estendido 7.62mm (Rifle de Assalto)"
 
 #. Key:	G14
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,G14"
 msgid "556扩容弹夹"
-msgstr "Carregador Estendido (5.56mm) - Rifle de Assalto"
+msgstr "Acessório de Arma - Carregador Estendido 5.56mm (Rifle de Assalto)"
 
 #. Key:	G15
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,G15"
 msgid "9mm扩容弹夹"
-msgstr "Carregador Estendido (9mm) - Pistola"
+msgstr "Acessório de Arma - Carregador Estendido 9mm (Pistola)"
 
 #. Key:	G16
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,G16"
 msgid "垂直握把"
-msgstr "Grip Tático Vertical"
+msgstr "Acessório de Arma - Grip Tático Vertical"
 
 #. Key:	G17
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,G17"
 msgid "三角握把"
-msgstr "Grip Tático Triangular"
+msgstr "Acessório de Arma - Grip Tático Triangular"
 
 #. Key:	G2
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,G2"
 msgid "步枪消音器"
-msgstr "Silenciador - Espingarda"
+msgstr "Acessório de Arma - Silenciador (Espingarda)"
 
 #. Key:	G3
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,G3"
 msgid "步枪补偿器"
-msgstr "Compensador - Rifle de Assalto"
+msgstr "Acessório de Arma - Compensador (Rifle de Assalto)"
 
 #. Key:	G4
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,G4"
 msgid "冲锋枪消音器"
-msgstr "Silenciador - Metralhadora"
+msgstr "Acessório de Arma - Silenciador (Metralhadora)"
 
 #. Key:	G5
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,G5"
 msgid "冲锋枪补偿器"
-msgstr "Compensador - Metralhadora"
+msgstr "Acessório de Arma - Compensador (Metralhadora)"
 
 #. Key:	G6
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,G6"
 msgid "狙击枪消音器"
-msgstr "Silenciador - Rifle de Precisão"
+msgstr "Acessório de Arma - Silenciador (Rifle de Precisão)"
 
 #. Key:	G7
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8157,14 +8157,14 @@ msgstr "Compensador - Rifle de Precisão"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,G8"
 msgid "红点瞄准镜"
-msgstr "Mira - Reflexiva"
+msgstr "Acessório de Arma - Mira Reflexiva"
 
 #. Key:	G9
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,G9"
 msgid "全息瞄准镜"
-msgstr "Mira - Holográfica"
+msgstr "Acessório de Arma - Mira Holográfica"
 
 #. Key:	M1
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9995,7 +9995,7 @@ msgstr "Confirmar"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,consume"
 msgid "消耗物品："
-msgstr "Consumíveis: "
+msgstr "Materiais"
 
 #. Key:	ControlSet
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10986,7 +10986,7 @@ msgstr "Formato do Rosto"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,LXXH"
 msgid "练习消耗："
-msgstr "Consumo:"
+msgstr "Materiais:"
 
 #. Key:	LZXG
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11126,7 +11126,7 @@ msgstr "Nenhum Item Correspondente"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,MZ"
 msgid "名字 ： "
-msgstr "Nome : "
+msgstr "Nome: "
 
 #. Key:	MZDDX
 #. SourceLocation:	/Game/LocalizationText/UI.UI
