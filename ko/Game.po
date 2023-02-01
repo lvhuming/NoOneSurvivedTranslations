@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
 "POT-Creation-Date: 2023-01-26 02:33\n"
-"PO-Revision-Date: 2023-01-29 16:24+0900\n"
+"PO-Revision-Date: 2023-01-30 22:41+0900\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ko\n"
@@ -540,7 +540,7 @@ msgstr "긴 양손 칼"
 #: /Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_1.TipMessage_41_0D1B7B6342180F0BD1D386A6C8ADE0B3
 msgctxt ",19AC3E7F4171121FDAC351BEE6BAD32D"
 msgid "负重"
-msgstr "무게"
+msgstr "확인"
 
 #. Key:	19C478A9460A7FCF7A9C9A987249F571
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_RYFDJ.WBP_RYFDJ_C:WidgetTree.TextRY.Text
@@ -4041,7 +4041,7 @@ msgstr "모델 01"
 #: /Game/Blueprint/UMG/Make/WBP_MakeDetailShow.WBP_MakeDetailShow_C:WidgetTree.FZ.Text
 msgctxt ",CF9CE28D415251343B2738AAC697FAF5"
 msgid "负重"
-msgstr "무게"
+msgstr "확인"
 
 #. Key:	checknuild
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -4876,7 +4876,7 @@ msgstr "이 아이템은 여기에 장착할 수 없습니다"
 #: /Game/Blueprint/UMG/Inventory/WBP_ItemToolTip.WBP_ItemToolTip_C:WidgetTree.FZ.Text
 msgctxt ",F6ADCB9746F1B2F3403FB6B6ED56A446"
 msgid "负重"
-msgstr "무게"
+msgstr "확인"
 
 #. Key:	F719C4924ABDCB3C94506984F66D8846
 #. SourceLocation:	/Game/Blueprint/UMG/EscMenu/WBP_KeyInputAxis.WBP_KeyInputAxis_C:WidgetTree.InputKeySelector_0.NoKeySpecifiedText
@@ -5213,7 +5213,7 @@ msgstr "무게를 견딜 수 있는 짧은 도리 및 대들보."
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",Input"
 msgid "请输入..."
-msgstr "검색..."
+msgstr "이름지정..."
 
 #. Key:	Null
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -7369,7 +7369,7 @@ msgstr "큰 플라스틱 병"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F65"
 msgid "铝壶"
-msgstr "알루미늄 냄비"
+msgstr "수통"
 
 #. Key:	F66
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8559,7 +8559,7 @@ msgstr "영양액"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,T25"
 msgid "开锁工具"
-msgstr "락 핏"
+msgstr "락 픽"
 
 #. Key:	T26
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8790,7 +8790,7 @@ msgstr "강철 도끼"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W31"
 msgid "钢镐"
-msgstr "스틸 픽"
+msgstr "강철 곡괭이"
 
 #. Key:	W32
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9578,7 +9578,7 @@ msgstr "씻어내기"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Close"
 msgid "关闭"
-msgstr "닫힘"
+msgstr "닫기"
 
 #. Key:	confirm
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -9907,7 +9907,7 @@ msgstr "장비"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,ETip"
 msgid "拾取 "
-msgstr "찾다"
+msgstr "줍기"
 
 #. Key:	EX
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10334,7 +10334,7 @@ msgstr "상호작용 2"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,JINRU"
 msgid "进入"
-msgstr "입력하다"
+msgstr "사용하기"
 
 #. Key:	JN
 #. SourceLocation:	/Game/LocalizationText/UIStudy.UIStudy
@@ -10404,7 +10404,7 @@ msgstr "스위치"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,KGQ"
 msgid "开锁器："
-msgstr "락 핏:"
+msgstr "락 픽:"
 
 #. Key:	KH
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10737,7 +10737,7 @@ msgstr "이름 : "
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,MZDDX"
 msgid "未找到有用物品"
-msgstr "유용한 항목을 찾을 수 없습니다"
+msgstr "쓸만한게없습니다."
 
 #. Key:	nailihuifu
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10786,7 +10786,7 @@ msgstr "사라"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,ND"
 msgid "难    度："
-msgstr "어려움:"
+msgstr "난이도:"
 
 #. Key:	ND01
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11192,7 +11192,7 @@ msgstr "꺼내다"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,Quit"
 msgid "退出"
-msgstr "그만두다"
+msgstr "그만두기"
 
 #. Key:	QUITGAME
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11726,7 +11726,7 @@ msgstr "머리 방어"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,TC"
 msgid "退出"
-msgstr "그만두다"
+msgstr "그만두기"
 
 #. Key:	TD
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11912,7 +11912,7 @@ msgstr "목이 잘 마르지않는다"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,TZKSQ"
 msgid "调整开锁器位置"
-msgstr "잠금 해제 위치 조정"
+msgstr "락 픽 위치 조정"
 
 #. Key:	TZLGF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -12574,7 +12574,7 @@ msgstr "식생 밀도"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,ZD"
 msgid "转动"
-msgstr "회전하다"
+msgstr "회전하기"
 
 #. Key:	ZLSD
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
