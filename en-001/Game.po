@@ -1320,7 +1320,7 @@ msgstr "The foundation is made of wood, which looks strong and can hold quite a 
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_13.In Text
 msgctxt ",42CCDC264FCA7E5F57C774A68D1FA7C2"
 msgid "干电池"
-msgstr "Dry battery"
+msgstr "Small battery"
 
 #. Key:	4348953248D241725A36BD85949AE223
 #. SourceLocation:	/Game/HDCKBuildingSystem/Table/BuildTable.BuildTable.NewRow_11.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
@@ -1481,7 +1481,7 @@ msgstr "The foundation is made of cement, which looks strong and can bear a cons
 #: /Game/HDCKBuildingSystem/Table/E_SelectType.E_SelectType.DisplayNameMap(1 - Value).DisplayNameMap
 msgctxt ",4D63587648FCF9D34033C9A96CC1E408"
 msgid "make"
-msgstr "Make"
+msgstr "Craft"
 
 #. Key:	4DE2155C45DCE36BF49919A06DAD7B06
 #. SourceLocation:	/Game/Blueprint/UMG/ChatSystem/WBP_ChatMenu.WBP_ChatMenu_C:WidgetTree.TextBlock_76.Text
@@ -1985,7 +1985,7 @@ msgstr "SitDownLeft"
 #: /Game/Blueprint/UMG/Make/WBP_Makeing.Default__WBP_Makeing_C.In Text
 msgctxt ",68B1DF4E431AA9BF5648A5A255AFF703"
 msgid "制作中..."
-msgstr "Making..."
+msgstr "Crafting..."
 
 #. Key:	68C9E409451FED0266E41994790B58AA
 #. SourceLocation:	/Game/Blueprint/UMG/Inventory/WBP_AddButton.WBP_AddButton_C:OnDrop [Script Bytecode]
@@ -2489,7 +2489,7 @@ msgstr "Nutrient solution"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_100.In Text
 msgctxt ",7FA65542446148104FC12EA47B74C222"
 msgid "电线"
-msgstr "Electric wire"
+msgstr "Electrical wire"
 
 #. Key:	7FA6EFF7413C33D5AF9AE28A0B1B7D72
 #. SourceLocation:	/Game/Blueprint/ACF/Manager/E_Weather.E_Weather.DisplayNameMap(2 - Value).DisplayNameMap
@@ -7690,7 +7690,7 @@ msgstr "Skin"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M39"
 msgid "电线"
-msgstr "Electric wire"
+msgstr "Electrical wire"
 
 #. Key:	M4
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8012,7 +8012,7 @@ msgstr "Barrel of fuel"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M80"
 msgid "干电池"
-msgstr "Dry battery"
+msgstr "Small battery"
 
 #. Key:	M81
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9398,7 +9398,7 @@ msgstr "Withered"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,decompose"
 msgid "拆解"
-msgstr "Dismantling"
+msgstr "Dismantle"
 
 #. Key:	decomposeing
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10112,7 +10112,7 @@ msgstr "Switch"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,KGQ"
 msgid "开锁器："
-msgstr "Unlocker:"
+msgstr "Lockpicks:"
 
 #. Key:	KH
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10224,7 +10224,7 @@ msgstr "Flashlight"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,LightTip"
 msgid "缺少干电池"
-msgstr "Missing dry batteries"
+msgstr "Missing small batteries"
 
 #. Key:	LIUXUE
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10315,14 +10315,14 @@ msgstr "Main interface"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Make"
 msgid "制作"
-msgstr "Make"
+msgstr "Craft"
 
 #. Key:	Makeing
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Makeing"
 msgid "制作中..."
-msgstr "Making..."
+msgstr "Crafting..."
 
 #. Key:	MakeListFull
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10973,7 +10973,7 @@ msgstr "Sharp weapons"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,RWTD"
 msgid "人物特点："
-msgstr "Character characteristics:"
+msgstr "Attributes:"
 
 #. Key:	RYMessage
 #. SourceLocation:	/Game/LocalizationText/UI.UI
