@@ -1,7 +1,7 @@
 # NoOneSurvivedTranslations
 This repository contains .po  files, with text of the game.
 
-##Instructions
+## Instructions
 1) You need to download the free PoEdit software to edit the .po files. (https://poedit.net/)
 2) Create a fork of this Repository
 3) Edit the .po file for your language in your repository, and save the changes.
