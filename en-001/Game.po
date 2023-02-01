@@ -2860,7 +2860,7 @@ msgstr "Wooden box rack"
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_GameSetting.WBP_GameSetting_C:WidgetTree.ShowTex_12.Text
 msgctxt ",990659C84BB9A39ED0C5DA92F26B3EF6"
 msgid "尸潮规模"
-msgstr "Corpse Tide Scale"
+msgstr "Zombie Wave Scale"
 
 #. Key:	997299584F3A56724AEEECA4B30B17F9
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_CarInventory01.WBP_CarInventory01_C:ExecuteUbergraph_WBP_CarInventory01 [Script Bytecode]
@@ -5555,14 +5555,14 @@ msgstr "Concrete beam"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B13"
 msgid "水泥横梁(两格)"
-msgstr "Concrete Beams (two grids)"
+msgstr "Concrete beams (two grids)"
 
 #. Key:	B14
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B14"
 msgid "水泥横梁(四格)"
-msgstr "Cement Beams (Four Grids)"
+msgstr "Cement beams (Four Grids)"
 
 #. Key:	B15
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -5793,7 +5793,7 @@ msgstr "Fuel generator"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B44"
 msgid "火力发电机"
-msgstr "thermal generator"
+msgstr "Thermal generator"
 
 #. Key:	B45
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -5814,7 +5814,7 @@ msgstr "Melting furnace"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B47"
 msgid "电熔炉"
-msgstr "Electric Furnace"
+msgstr "Electric furnace"
 
 #. Key:	B48
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -7389,7 +7389,7 @@ msgstr "5.56 Expansion Magazine"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,G15"
 msgid "9mm扩容弹夹"
-msgstr "9mm expansion magazine"
+msgstr "9mm Expansion Magazine"
 
 #. Key:	G16
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8075,7 +8075,7 @@ msgstr "Adult ram"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M89"
 msgid "成年母羊"
-msgstr "Adult ewe"
+msgstr "Adult Sheep"
 
 #. Key:	M9
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8096,14 +8096,14 @@ msgstr "Little ram"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M91"
 msgid "小母羊"
-msgstr "Ewe"
+msgstr "Sheep"
 
 #. Key:	M92
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M92"
 msgid "成年公鸡"
-msgstr "Adult cock"
+msgstr "Adult rooster"
 
 #. Key:	M93
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8117,7 +8117,7 @@ msgstr "Adult hen"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M94"
 msgid "小公鸡"
-msgstr "Little cock"
+msgstr "Little rooster"
 
 #. Key:	M95
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8803,7 +8803,7 @@ msgstr "Some items can be dismantled to obtain materials with a small hammer."
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,13"
 msgid "卡住啦！使用退出菜单的脱离卡死功能。"
-msgstr "Stuck! Use the escape stuck function of the exit menu."
+msgstr "Stuck! Use the escape stuck function in the exit menu."
 
 #. Key:	14
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -9552,7 +9552,7 @@ msgstr "Please select the number of discards:"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,DRYX"
 msgid "单人游戏"
-msgstr "Single-player game"
+msgstr "Singleplayer game"
 
 #. Key:	DTMH
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -9776,7 +9776,7 @@ msgstr "Reflection Quality"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Ftip"
 msgid "使用"
-msgstr "Use "
+msgstr "Use"
 
 #. Key:	FX
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10063,7 +10063,7 @@ msgstr "Skill proficiency increases"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,JoinGame"
 msgid "加入游戏"
-msgstr " Join game"
+msgstr "Join game"
 
 #. Key:	journal
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10189,7 +10189,7 @@ msgstr "Visual Distance Quality"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,KTDetail"
 msgid "病毒抗体\r\n抗体为0就会死亡"
-msgstr "Virus antibody\r\nIf the antibody is 0; You will die"
+msgstr "Virus antibody\r\nIf your antibody reaches 0; You will die"
 
 #. Key:	Language
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10651,7 +10651,7 @@ msgstr "I'm not in the mood to watch this right now!"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,NotNeedMaterial"
 msgid "没有所需材料"
-msgstr "No required materials"
+msgstr "Missing required materials"
 
 #. Key:	NotRead
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10756,7 +10756,7 @@ msgstr "Hold in hand"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Open"
 msgid "打开"
-msgstr "Open "
+msgstr "Open"
 
 #. Key:	OpenLock
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10854,7 +10854,7 @@ msgstr "Muzzle"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,QRGG"
 msgid "应用"
-msgstr "Application"
+msgstr "Apply"
 
 #. Key:	QRTC
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10903,7 +10903,7 @@ msgstr "Quit"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,QUITGAME"
 msgid "退出游戏"
-msgstr " exit the game"
+msgstr "Exit the game"
 
 #. Key:	QX
 #. SourceLocation:	/Game/LocalizationText/UIStudy.UIStudy
@@ -10987,7 +10987,7 @@ msgstr "Too little fuel inside"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SAVE"
 msgid "你可以建造一个床加快时间流逝\r\n\r\n游戏全程自动存档"
-msgstr "You can build a bed to speed up the passage of time\r\n\r\nThe game is automatically archived throughout the game"
+msgstr "You can build a bed to speed up the passage of time\r\n\r\nThe game is automatically saved throughout the game"
 
 #. Key:	Save
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11036,21 +11036,21 @@ msgstr "Survival Manual"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,SCJG"
 msgid "尸潮进攻"
-msgstr "Corpse Tide Attack"
+msgstr "Zombie Wave Attack"
 
 #. Key:	SCJGR
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SCJGR"
 msgid "尸潮进攻日，无法入睡！"
-msgstr "On the day of the corpse tide attack, I can't sleep!"
+msgstr "On the day of the zombie wave attack, I can't sleep!"
 
 #. Key:	scjgzq
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,scjgzq"
 msgid "尸潮进攻周期"
-msgstr "Corpse Tide Attack Cycle"
+msgstr "Zombie Wave Attack Cycle"
 
 #. Key:	ScreenSet
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11120,7 +11120,7 @@ msgstr "Size"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SJ"
 msgid "采集"
-msgstr ""
+msgstr "Collection"
 
 #. Key:	SkinColor
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11176,7 +11176,7 @@ msgstr "I want to learn from you"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SS02"
 msgid "我不想学了"
-msgstr "I don't want to learn anything rightnow"
+msgstr "I don't want to learn anything right now"
 
 #. Key:	SS04
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11729,7 +11729,7 @@ msgstr "Not good at fighting"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZWQZ"
 msgid "武器大师"
-msgstr "Master of Weapons "
+msgstr "Master of Weapons"
 
 #. Key:	TZWSF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -11785,7 +11785,7 @@ msgstr "UI sound effects"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Use"
 msgid "使用"
-msgstr "Use "
+msgstr "Use"
 
 #. Key:	useDDFRJ
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11897,7 +11897,7 @@ msgstr "(dirty water)"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,WaterNull"
 msgid "(空)"
-msgstr "(null)"
+msgstr "(empty)"
 
 #. Key:	WaterSource
 #. SourceLocation:	/Game/LocalizationText/UI.UI
