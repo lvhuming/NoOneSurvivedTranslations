@@ -1607,7 +1607,7 @@ msgstr "RoofEndTringer"
 #: /Game/Blueprint/UMG/WBP_GetWater.WBP_GetWater_C:WidgetTree.TextBlock_57.Text
 msgctxt ",5604627744E8324B0E9AAB96BB219D3A"
 msgid "拖入容器装水"
-msgstr "Drag into the container for water"
+msgstr "Drag container here to fill"
 
 #. Key:	569DFDE54CD2C05CA841E4AED49216C0
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_SPX.WBP_SPX_C:WidgetTree.development.ToolTipText
@@ -8054,14 +8054,14 @@ msgstr "Adult sow"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M86"
 msgid "小公猪"
-msgstr "Little boar"
+msgstr "Baby boar"
 
 #. Key:	M87
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M87"
 msgid "小母猪"
-msgstr "Gilt"
+msgstr "Baby Pig"
 
 #. Key:	M88
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8089,7 +8089,7 @@ msgstr "Fabric"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M90"
 msgid "小公羊"
-msgstr "Little ram"
+msgstr "Baby ram"
 
 #. Key:	M91
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8117,14 +8117,14 @@ msgstr "Adult hen"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M94"
 msgid "小公鸡"
-msgstr "Little rooster"
+msgstr "Baby rooster"
 
 #. Key:	M95
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M95"
 msgid "小母鸡"
-msgstr "Pullet"
+msgstr "Baby Chicken"
 
 #. Key:	M96
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8803,7 +8803,7 @@ msgstr "Some items can be dismantled to obtain materials with a small hammer."
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,13"
 msgid "卡住啦！使用退出菜单的脱离卡死功能。"
-msgstr "Stuck! Use the escape stuck function in the exit menu."
+msgstr "Stuck? Use the Stuck Character function in the escape menu."
 
 #. Key:	14
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -9174,7 +9174,7 @@ msgstr "Please enter a valid archive name or an archive with the same name exist
 #: /Game/LocalizationText/UIStudy.UIStudy
 msgctxt "UI,CF"
 msgid "裁缝"
-msgstr "Tailor"
+msgstr "Tailoring"
 
 #. Key:	ChangAn
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -9370,7 +9370,7 @@ msgstr "Damage"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Day"
 msgid "天"
-msgstr "Day"
+msgstr "Day(s)"
 
 #. Key:	DBD
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -9510,7 +9510,7 @@ msgstr "Power:"
 #: /Game/LocalizationText/UIStudy.UIStudy
 msgctxt "UI,DQ"
 msgid "钝器"
-msgstr "Blunt weapon"
+msgstr "Blunt weapons"
 
 #. Key:	Drink
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -9580,7 +9580,7 @@ msgstr "Durability:"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,DX"
 msgid "蹲下"
-msgstr "Squat"
+msgstr "Crouch"
 
 #. Key:	DZCD
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10021,7 +10021,7 @@ msgstr "Angle"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,JDL"
 msgid "击倒"
-msgstr "Knock down"
+msgstr "Knockdown"
 
 #. Key:	JH1
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10966,7 +10966,7 @@ msgstr "Melting time:"
 #: /Game/LocalizationText/UIStudy.UIStudy
 msgctxt "UI,RQ"
 msgid "锐器"
-msgstr "Sharps"
+msgstr "Sharp weapons"
 
 #. Key:	RWTD
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11260,7 +11260,7 @@ msgstr "I want to make a deal with you"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SSJSSL01"
 msgid "丧尸击杀数量："
-msgstr "Number of Zombies Killed:"
+msgstr "Number of Zombies Killed: "
 
 #. Key:	SSND01
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11449,7 +11449,7 @@ msgstr "Thirsty"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,TipFks"
 msgid "脱离卡死冷却中"
-msgstr "Free from stuck cooling"
+msgstr "Stuck Character on Cooldown"
 
 #. Key:	TipName
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
