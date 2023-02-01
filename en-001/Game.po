@@ -403,7 +403,7 @@ msgstr "Snow"
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_JoinGame.WBP_JoinGame_C:WidgetTree.WBP_Join.In Text
 msgctxt ",13214985457425F5E5AE71A38AC18920"
 msgid "加入"
-msgstr "Join in"
+msgstr "Join"
 
 #. Key:	1382DB5845EF08EFE9234285EB77306A
 #. SourceLocation:	/Game/Blueprint/UMG/ChatSystem/WBP_ChatMessage.WBP_ChatMessage_C:WidgetTree.TextBlock.Text
@@ -809,7 +809,7 @@ msgstr "Bricks"
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_LoadGame.WBP_LoadGame_C:WidgetTree.TextBlock.Text
 msgctxt ",264F21F94A312BE3982CE79C37D102D3"
 msgid "恢复存档"
-msgstr "Restore archive"
+msgstr "Restore Save"
 
 #. Key:	269B80324FC87D5B8DEDDDB22B6B7A09
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_42.In Text
@@ -1215,7 +1215,7 @@ msgstr "Skill details page"
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_LoadGame.WBP_LoadGame_C:WidgetTree.WBP_BackSave.In Text
 msgctxt ",3A6879B749414322EB2621BDD1017E66"
 msgid "恢复存档"
-msgstr "Restore archive"
+msgstr "Restore save"
 
 #. Key:	3B8DEE5B4473233FCF93628DED40F9B2
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton.In Text
@@ -1320,7 +1320,7 @@ msgstr "The foundation is made of wood, which looks strong and can hold quite a 
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_13.In Text
 msgctxt ",42CCDC264FCA7E5F57C774A68D1FA7C2"
 msgid "干电池"
-msgstr "Dry battery"
+msgstr "Small battery"
 
 #. Key:	4348953248D241725A36BD85949AE223
 #. SourceLocation:	/Game/HDCKBuildingSystem/Table/BuildTable.BuildTable.NewRow_11.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
@@ -1481,7 +1481,7 @@ msgstr "The foundation is made of cement, which looks strong and can bear a cons
 #: /Game/HDCKBuildingSystem/Table/E_SelectType.E_SelectType.DisplayNameMap(1 - Value).DisplayNameMap
 msgctxt ",4D63587648FCF9D34033C9A96CC1E408"
 msgid "make"
-msgstr "Make"
+msgstr "Craft"
 
 #. Key:	4DE2155C45DCE36BF49919A06DAD7B06
 #. SourceLocation:	/Game/Blueprint/UMG/ChatSystem/WBP_ChatMenu.WBP_ChatMenu_C:WidgetTree.TextBlock_76.Text
@@ -1607,7 +1607,7 @@ msgstr "RoofEndTringer"
 #: /Game/Blueprint/UMG/WBP_GetWater.WBP_GetWater_C:WidgetTree.TextBlock_57.Text
 msgctxt ",5604627744E8324B0E9AAB96BB219D3A"
 msgid "拖入容器装水"
-msgstr "Drag into the container for water"
+msgstr "Drag container here to fill"
 
 #. Key:	569DFDE54CD2C05CA841E4AED49216C0
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_SPX.WBP_SPX_C:WidgetTree.development.ToolTipText
@@ -1985,7 +1985,7 @@ msgstr "SitDownLeft"
 #: /Game/Blueprint/UMG/Make/WBP_Makeing.Default__WBP_Makeing_C.In Text
 msgctxt ",68B1DF4E431AA9BF5648A5A255AFF703"
 msgid "制作中..."
-msgstr "Making..."
+msgstr "Crafting..."
 
 #. Key:	68C9E409451FED0266E41994790B58AA
 #. SourceLocation:	/Game/Blueprint/UMG/Inventory/WBP_AddButton.WBP_AddButton_C:OnDrop [Script Bytecode]
@@ -2489,7 +2489,7 @@ msgstr "Nutrient solution"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_100.In Text
 msgctxt ",7FA65542446148104FC12EA47B74C222"
 msgid "电线"
-msgstr "Electric wire"
+msgstr "Electrical wire"
 
 #. Key:	7FA6EFF7413C33D5AF9AE28A0B1B7D72
 #. SourceLocation:	/Game/Blueprint/ACF/Manager/E_Weather.E_Weather.DisplayNameMap(2 - Value).DisplayNameMap
@@ -3609,7 +3609,7 @@ msgstr "1"
 #: /Game/Blueprint/ACF/Player/HDCK_GameMode.HDCK_GameMode_C:ExecuteUbergraph_HDCK_GameMode [Script Bytecode]
 msgctxt ",C4C9089841ED96447C2336ADFE055AE0"
 msgid "存档失败！！！"
-msgstr "Archive failed! ! !"
+msgstr "Save failed! ! !"
 
 #. Key:	C503D8D4432665A9708A219FA438AF85
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_57.In Text
@@ -4071,7 +4071,7 @@ msgstr "Crowbar"
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_LoadGame.WBP_LoadGame_C:WidgetTree.TextBlock_98.Text
 msgctxt ",DFB9E2BA411799A5BE6B59A3F156E17B"
 msgid "读取"
-msgstr "Read"
+msgstr "Save"
 
 #. Key:	DFDC7D0B43D1E23D901A57BD71F2458D
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_48.In Text
@@ -4113,7 +4113,7 @@ msgstr "5%"
 #: /Game/Blueprint/UMG/MainUI/Child/TipDelSlot.TipDelSlot_C:WidgetTree.TextBlock_107.Text
 msgctxt ",E0BDBA2A4577298FB1E9F9939B39A11B"
 msgid "确认删除存档吗？"
-msgstr "Are you sure you want to delete the archive?"
+msgstr "Are you sure you want to delete your save?"
 
 #. Key:	E14242274DBF33A81F07A280CB8FA63E
 #. SourceLocation:	/Game/Blueprint/ACF/Tutorial/WBP_TutorialTip7.WBP_TutorialTip7_C:WidgetTree.TextBlock_2.Text
@@ -7690,7 +7690,7 @@ msgstr "Skin"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M39"
 msgid "电线"
-msgstr "Electric wire"
+msgstr "Electrical wire"
 
 #. Key:	M4
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8012,7 +8012,7 @@ msgstr "Barrel of fuel"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M80"
 msgid "干电池"
-msgstr "Dry battery"
+msgstr "Small battery"
 
 #. Key:	M81
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8054,14 +8054,14 @@ msgstr "Adult sow"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M86"
 msgid "小公猪"
-msgstr "Little boar"
+msgstr "Baby boar"
 
 #. Key:	M87
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M87"
 msgid "小母猪"
-msgstr "Gilt"
+msgstr "Baby Pig"
 
 #. Key:	M88
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8089,7 +8089,7 @@ msgstr "Fabric"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M90"
 msgid "小公羊"
-msgstr "Little ram"
+msgstr "Baby ram"
 
 #. Key:	M91
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8117,14 +8117,14 @@ msgstr "Adult hen"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M94"
 msgid "小公鸡"
-msgstr "Little rooster"
+msgstr "Baby rooster"
 
 #. Key:	M95
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M95"
 msgid "小母鸡"
-msgstr "Pullet"
+msgstr "Baby Chicken"
 
 #. Key:	M96
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8803,7 +8803,7 @@ msgstr "Some items can be dismantled to obtain materials with a small hammer."
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,13"
 msgid "卡住啦！使用退出菜单的脱离卡死功能。"
-msgstr "Stuck! Use the escape stuck function in the exit menu."
+msgstr "Stuck? Use the Stuck Character function in the escape menu."
 
 #. Key:	14
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -8922,7 +8922,7 @@ msgstr "Return"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,BackSave"
 msgid "你确定要用这个存档覆盖之前的存档吗？\r\n注意覆盖以后之前的存档无法恢复"
-msgstr "Are you sure you want to overwrite the previous save with this one?\r\nNote that the previous archive cannot be restored after overwriting"
+msgstr "Are you sure you want to overwrite the previous save with this one?\r\nNote that the previous save cannot be restored after overwriting"
 
 #. Key:	BCG
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -9160,21 +9160,21 @@ msgstr "Charging source"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,CDMC021"
 msgid "存档名称"
-msgstr "Archive name"
+msgstr "Save name"
 
 #. Key:	CDTS
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,CDTS"
 msgid "请输入一个有效存档名称或者有相同名称的存档存在"
-msgstr "Please enter a valid archive name or an archive with the same name exists"
+msgstr "Please enter a valid save name or an save with the same name exists"
 
 #. Key:	CF
 #. SourceLocation:	/Game/LocalizationText/UIStudy.UIStudy
 #: /Game/LocalizationText/UIStudy.UIStudy
 msgctxt "UI,CF"
 msgid "裁缝"
-msgstr "Tailor"
+msgstr "Tailoring"
 
 #. Key:	ChangAn
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -9370,7 +9370,7 @@ msgstr "Damage"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Day"
 msgid "天"
-msgstr "Day"
+msgstr "Day(s)"
 
 #. Key:	DBD
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -9398,7 +9398,7 @@ msgstr "Withered"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,decompose"
 msgid "拆解"
-msgstr "Dismantling"
+msgstr "Dismantle"
 
 #. Key:	decomposeing
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -9510,7 +9510,7 @@ msgstr "Power:"
 #: /Game/LocalizationText/UIStudy.UIStudy
 msgctxt "UI,DQ"
 msgid "钝器"
-msgstr "Blunt weapon"
+msgstr "Blunt weapons"
 
 #. Key:	Drink
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -9552,7 +9552,7 @@ msgstr "Please select the number of discards:"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,DRYX"
 msgid "单人游戏"
-msgstr "Singleplayer game"
+msgstr "Singleplayer"
 
 #. Key:	DTMH
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -9580,7 +9580,7 @@ msgstr "Durability:"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,DX"
 msgid "蹲下"
-msgstr "Squat"
+msgstr "Crouch"
 
 #. Key:	DZCD
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10021,7 +10021,7 @@ msgstr "Angle"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,JDL"
 msgid "击倒"
-msgstr "Knock down"
+msgstr "Knockdown"
 
 #. Key:	JH1
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10112,7 +10112,7 @@ msgstr "Switch"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,KGQ"
 msgid "开锁器："
-msgstr "Unlocker:"
+msgstr "Lockpicks:"
 
 #. Key:	KH
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10224,7 +10224,7 @@ msgstr "Flashlight"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,LightTip"
 msgid "缺少干电池"
-msgstr "Missing dry batteries"
+msgstr "Missing small batteries"
 
 #. Key:	LIUXUE
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10315,14 +10315,14 @@ msgstr "Main interface"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Make"
 msgid "制作"
-msgstr "Make"
+msgstr "Craft"
 
 #. Key:	Makeing
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Makeing"
 msgid "制作中..."
-msgstr "Making..."
+msgstr "Crafting..."
 
 #. Key:	MakeListFull
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10966,14 +10966,14 @@ msgstr "Melting time:"
 #: /Game/LocalizationText/UIStudy.UIStudy
 msgctxt "UI,RQ"
 msgid "锐器"
-msgstr "Sharps"
+msgstr "Sharp weapons"
 
 #. Key:	RWTD
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,RWTD"
 msgid "人物特点："
-msgstr "Character characteristics:"
+msgstr "Attributes:"
 
 #. Key:	RYMessage
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10987,7 +10987,7 @@ msgstr "Too little fuel inside"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SAVE"
 msgid "你可以建造一个床加快时间流逝\r\n\r\n游戏全程自动存档"
-msgstr "You can build a bed to speed up the passage of time\r\n\r\nThe game is automatically saved throughout the game"
+msgstr "You can craft a bed to sleep and pass time.\r\n\r\nThe game is automatically saved as you play the game."
 
 #. Key:	Save
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11260,7 +11260,7 @@ msgstr "I want to make a deal with you"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SSJSSL01"
 msgid "丧尸击杀数量："
-msgstr "Number of Zombies Killed:"
+msgstr "Number of Zombies Killed: "
 
 #. Key:	SSND01
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11442,14 +11442,14 @@ msgstr "Hair"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,thirsty"
 msgid "口渴"
-msgstr "Thirsty"
+msgstr "Thirst"
 
 #. Key:	TipFks
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,TipFks"
 msgid "脱离卡死冷却中"
-msgstr "Free from stuck cooling"
+msgstr "Stuck Character on Cooldown"
 
 #. Key:	TipName
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
