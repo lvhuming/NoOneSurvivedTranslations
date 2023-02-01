@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-01-26 02:33\n"
-"PO-Revision-Date: 2023-01-26 02:33\n"
+"POT-Creation-Date: 2023-02-01 12:05\n"
+"PO-Revision-Date: 2023-02-01 12:05\n"
 "Language-Team: \n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -278,6 +278,13 @@ msgstr "badawczy..."
 msgctxt ",0BDFF3E44ADF1D4E97787E869B4DF710"
 msgid "燃烧时间：0"
 msgstr "Czas spalania: 0"
+
+#. Key:	0C5BBFF5443FDAB830CB348101393933
+#. SourceLocation:	/Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(10).Mappings.PlayerMappableOptions.DisplayName
+#: /Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(10).Mappings.PlayerMappableOptions.DisplayName
+msgctxt ",0C5BBFF5443FDAB830CB348101393933"
+msgid "IA_FireMode"
+msgstr "IA_FireMode"
 
 #. Key:	0C797E8E40ACBD720B57B4B33B461ADD
 #. SourceLocation:	/Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_7.TipMessage_41_0D1B7B6342180F0BD1D386A6C8ADE0B3
@@ -622,6 +629,13 @@ msgctxt ",1C8E2E414E42E2C00C40C680D11AF214"
 msgid "睡觉"
 msgstr "spać"
 
+#. Key:	1CAC243149F48B43C8D50F8D440FC9C1
+#. SourceLocation:	/Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(18).Mappings.PlayerMappableOptions.DisplayName
+#: /Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(18).Mappings.PlayerMappableOptions.DisplayName
+msgctxt ",1CAC243149F48B43C8D50F8D440FC9C1"
+msgid "IA_OpenLight"
+msgstr "IA_OpenLight"
+
 #. Key:	1CCC10BB4AD081DB620F09A1FD46FBFB
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_15.Text
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_15.Text
@@ -706,19 +720,19 @@ msgctxt ",2011D93346060F727514E3B743DC3280"
 msgid "钢稿"
 msgstr "stalowy projekt"
 
+#. Key:	202EDB70475FF7E9B7BA48A409EA5344
+#. SourceLocation:	/Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(14).Mappings.PlayerMappableOptions.DisplayName
+#: /Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(14).Mappings.PlayerMappableOptions.DisplayName
+msgctxt ",202EDB70475FF7E9B7BA48A409EA5344"
+msgid "IA_OpenMap"
+msgstr "IA_OpenMap"
+
 #. Key:	2106FC62413F2CDFB6EC42B1F1F2C390
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_CarInventory01.WBP_CarInventory01_C:WidgetTree.TextBlock_84.Text
 #: /Game/Blueprint/UMG/Furniture/WBP_CarInventory01.WBP_CarInventory01_C:WidgetTree.TextBlock_84.Text
 msgctxt ",2106FC62413F2CDFB6EC42B1F1F2C390"
 msgid "耐久度："
 msgstr "Trwałość:"
-
-#. Key:	212FFBA3493769C9C4FA938375E1614C
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_sniper_SVD.Default__ACFGunBase_sniper_SVD_C.ItemInfo.Name
-#: /Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_sniper_SVD.Default__ACFGunBase_sniper_SVD_C.ItemInfo.Name
-msgctxt ",212FFBA3493769C9C4FA938375E1614C"
-msgid "SVD"
-msgstr "SVD"
 
 #. Key:	2191E6F14098A0C04EFC4FA4B26ECAE8
 #. SourceLocation:	/Game/Blueprint/UMG/ScreenMessage/WBP_GunMessage.WBP_GunMessage_C:ExecuteUbergraph_WBP_GunMessage [Script Bytecode]
@@ -979,6 +993,13 @@ msgctxt ",2E3B7D0B496CE27913B296A3FCDA5298"
 msgid "空格攀爬"
 msgstr "wspinać się w kosmos"
 
+#. Key:	2E4E281C4C60905365BABAB530907CF2
+#. SourceLocation:	/Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(9).Mappings.PlayerMappableOptions.DisplayName
+#: /Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(9).Mappings.PlayerMappableOptions.DisplayName
+msgctxt ",2E4E281C4C60905365BABAB530907CF2"
+msgid "IA_Interacted1"
+msgstr "IA_Interacted1"
+
 #. Key:	2EB1A0AE4779B42D5BD7DA9800EA980A
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/QT/BP_GunAccessory_CF_QT02.Default__BP_GunAccessory_CF_QT02_C.ItemInfo.Description
 #: /Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/QT/BP_GunAccessory_CF_QT02.Default__BP_GunAccessory_CF_QT02_C.ItemInfo.Description
@@ -992,6 +1013,13 @@ msgstr "Wzór 02"
 msgctxt ",2EB96FCB4A14794A9B78639DE8BB5D7C"
 msgid "取水口"
 msgstr "pobór wody"
+
+#. Key:	2EC9902C478615FCA75C28A0E31A6F3B
+#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_Shotgun_870AC.Default__ACFGunBase_Shotgun_870AC_C.ItemInfo.Name
+#: /Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_Shotgun_870AC.Default__ACFGunBase_Shotgun_870AC_C.ItemInfo.Name
+msgctxt ",2EC9902C478615FCA75C28A0E31A6F3B"
+msgid "870AC"
+msgstr "870 AC"
 
 #. Key:	2ECDFCFA49898CD10A445C8EF1757C70
 #. SourceLocation:	/Game/Blueprint/ACF/Tutorial/WBP_TutorialTip0.WBP_TutorialTip0_C:WidgetTree.TextBlock_140.Text
@@ -1280,6 +1308,13 @@ msgctxt ",3FD998734A21E21A308E56B1BD772319"
 msgid "地基或地板"
 msgstr "fundament lub podłoga"
 
+#. Key:	400FA9E84271FAB20F1FD0A7D5CD5502
+#. SourceLocation:	/Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(11).Mappings.PlayerMappableOptions.DisplayName
+#: /Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(11).Mappings.PlayerMappableOptions.DisplayName
+msgctxt ",400FA9E84271FAB20F1FD0A7D5CD5502"
+msgid "IA_Sprint"
+msgstr "IA_Sprint"
+
 #. Key:	4012F6B548F849403A5585B1A5DA68FD
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_67.In Text
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_67.In Text
@@ -1335,6 +1370,13 @@ msgstr "zacieniony lub niezdolny do wytwarzania energii elektrycznej przy bezsł
 msgctxt ",4362834A4E275D8A564F3388D39CBEFC"
 msgid "SVD"
 msgstr "SVD"
+
+#. Key:	43648A1246EE1121DDCFF5840B44EEFE
+#. SourceLocation:	/Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(19).Mappings.PlayerMappableOptions.DisplayName
+#: /Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(19).Mappings.PlayerMappableOptions.DisplayName
+msgctxt ",43648A1246EE1121DDCFF5840B44EEFE"
+msgid "IA_Inventory"
+msgstr "IA_Inwentarz"
 
 #. Key:	43D1BDAC430C12636432F9B0A31832E9
 #. SourceLocation:	/Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_14.TipMessage_41_0D1B7B6342180F0BD1D386A6C8ADE0B3
@@ -1826,6 +1868,13 @@ msgctxt ",5F1FF7664946FD9791DDC1926A41D2E4"
 msgid "1"
 msgstr "1"
 
+#. Key:	5F9199AF4ADCD500D8C44CA3AF46C2BA
+#. SourceLocation:	/Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(12).Mappings.PlayerMappableOptions.DisplayName
+#: /Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(12).Mappings.PlayerMappableOptions.DisplayName
+msgctxt ",5F9199AF4ADCD500D8C44CA3AF46C2BA"
+msgid "IA_Jump"
+msgstr "IA_skok"
+
 #. Key:	60277ABC407AE90BFDCF32B2D7C4F032
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_32.Text
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_32.Text
@@ -1860,6 +1909,13 @@ msgstr "zwiększenie obrażeń"
 msgctxt ",6218189848D827944348CA9BD6A0DCC1"
 msgid "食物"
 msgstr "jedzenie"
+
+#. Key:	624E2BB84562A36C89BA4B8C51A5AA70
+#. SourceLocation:	/Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(6).Mappings.PlayerMappableOptions.DisplayName
+#: /Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(6).Mappings.PlayerMappableOptions.DisplayName
+msgctxt ",624E2BB84562A36C89BA4B8C51A5AA70"
+msgid "IA_Handbrake"
+msgstr "IA_Hamulec ręczny"
 
 #. Key:	629AAA57465DF8D3DEBECAAC6C7D08A3
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_GameSetting.WBP_GameSetting_C:WidgetTree.ShowTex_13.Text
@@ -2064,6 +2120,13 @@ msgctxt ",6BCC8EA647892C6DDF2E86BC4A37CA07"
 msgid "现在尝试捡起前面的武器，并把它们在不同的栏位进行交换"
 msgstr "Teraz spróbuj podnieść poprzednie bronie i zamień je w różnych slotach"
 
+#. Key:	6BDE3B1B4C6870EFB6DFB3AC23B4C08E
+#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_sniper_SVD.Default__ACFGunBase_sniper_SVD_C.ItemInfo.Name
+#: /Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_sniper_SVD.Default__ACFGunBase_sniper_SVD_C.ItemInfo.Name
+msgctxt ",6BDE3B1B4C6870EFB6DFB3AC23B4C08E"
+msgid "SVD"
+msgstr "SVD"
+
 #. Key:	6BE962314A8FBC6002DBB2BC5D649223
 #. SourceLocation:	/Game/Blueprint/UMG/Gun/WBP_GunM4A1.WBP_GunM4A1_C:WidgetTree.ItemName.Text
 #: /Game/Blueprint/UMG/Gun/WBP_GunM4A1.WBP_GunM4A1_C:WidgetTree.ItemName.Text
@@ -2253,6 +2316,13 @@ msgctxt ",756CC8554E4BAFF8379FF09A6CECA4CE"
 msgid "型号01"
 msgstr "Model 01"
 
+#. Key:	7572461249F713BE05E50E836073F2DF
+#. SourceLocation:	/Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(26).Mappings.PlayerMappableOptions.DisplayName
+#: /Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(26).Mappings.PlayerMappableOptions.DisplayName
+msgctxt ",7572461249F713BE05E50E836073F2DF"
+msgid "IA_CarLight"
+msgstr "IA_Światło samochodu"
+
 #. Key:	75CFDAC646F085C121F5B189F2C74BBD
 #. SourceLocation:	/Game/Blueprint/UMG/Inventory/WBP_WorldItemButton.WBP_WorldItemButton_C:WidgetTree.Num.Text
 #: /Game/Blueprint/UMG/Inventory/WBP_WorldItemButton.WBP_WorldItemButton_C:WidgetTree.Num.Text
@@ -2274,6 +2344,13 @@ msgctxt ",761F4D984F10527EA231C0B8CB66BEA4"
 msgid "下雪"
 msgstr "śnieg"
 
+#. Key:	7654F8864727F325AF41A085E05A9BA3
+#. SourceLocation:	/Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(17).Mappings.PlayerMappableOptions.DisplayName
+#: /Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(17).Mappings.PlayerMappableOptions.DisplayName
+msgctxt ",7654F8864727F325AF41A085E05A9BA3"
+msgid "IA_Reload"
+msgstr "IA_Przeładuj"
+
 #. Key:	76AB6D6C4BB02B632778CAB4C55641E7
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_62.In Text
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_62.In Text
@@ -2287,13 +2364,6 @@ msgstr "stacja magazynowania wody"
 msgctxt ",76EED28C44F6D66538B4C99266E28A6E"
 msgid "1"
 msgstr "1"
-
-#. Key:	7725EE9F4777E8F1DABB0DB27EB4E422
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/LongBlunt/BP_LongBluntStick_G.Default__BP_LongBluntStick_G_C.ItemInfo.Description
-#: /Game/Blueprint/ACF/Item/Weapon/LongBlunt/BP_LongBluntStick_G.Default__BP_LongBluntStick_G_C.ItemInfo.Description
-msgctxt ",7725EE9F4777E8F1DABB0DB27EB4E422"
-msgid "露茜儿++"
-msgstr "Łucja++"
 
 #. Key:	773514DA428374A3C878C2A4D195D279
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/WB/BP_GunAccessory_WB_SJ02.Default__BP_GunAccessory_WB_SJ02_C.ItemInfo.Description
@@ -2673,6 +2743,13 @@ msgctxt ",8AB657134BC71D80A664569881FBD37B"
 msgid "Null"
 msgstr "Zero"
 
+#. Key:	8B9D09E44B07C72FE272C5906CB6FA3E
+#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/LongBlunt/BP_LongBluntStick_G.Default__BP_LongBluntStick_G_C.ItemInfo.Description
+#: /Game/Blueprint/ACF/Item/Weapon/LongBlunt/BP_LongBluntStick_G.Default__BP_LongBluntStick_G_C.ItemInfo.Description
+msgctxt ",8B9D09E44B07C72FE272C5906CB6FA3E"
+msgid "露茜儿++"
+msgstr "Łucja++"
+
 #. Key:	8C4494664EE8ADA1ABA9EC8FC937971C
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/E_AimType.E_AimType.DisplayNameMap(3 - Value).DisplayNameMap
 #: /Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/E_AimType.E_AimType.DisplayNameMap(3 - Value).DisplayNameMap
@@ -2743,12 +2820,12 @@ msgctxt ",9100D96D4063969FA14D27937E72AC6D"
 msgid "感冒药"
 msgstr "Lek na przeziębienie"
 
-#. Key:	91FF2310440E4C0B3EDA64998B153170
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_sniper_SKS.Default__ACFGunBase_sniper_SKS_C.ItemInfo.Name
-#: /Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_sniper_SKS.Default__ACFGunBase_sniper_SKS_C.ItemInfo.Name
-msgctxt ",91FF2310440E4C0B3EDA64998B153170"
-msgid "SKS"
-msgstr "SKS"
+#. Key:	91EE84C24F7DF68788F8C3A12FC7EB2E
+#. SourceLocation:	/Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(24).Mappings.PlayerMappableOptions.DisplayName
+#: /Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(24).Mappings.PlayerMappableOptions.DisplayName
+msgctxt ",91EE84C24F7DF68788F8C3A12FC7EB2E"
+msgid "IA_Use5"
+msgstr "IA_Use5"
 
 #. Key:	926AF14B4D7F5B9C55338BAD27D3934A
 #. SourceLocation:	/Game/Blueprint/UMG/Inventory/GridInventory/WBP_Item.WBP_Item_C:WidgetTree.Num.Text
@@ -2868,6 +2945,13 @@ msgstr "Skala przypływu zwłok"
 msgctxt ",997299584F3A56724AEEECA4B30B17F9"
 msgid "没有修理工具！"
 msgstr "Brak narzędzi do naprawy!"
+
+#. Key:	99C38A1E45C6826D574A1389F47237C4
+#. SourceLocation:	/Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(23).Mappings.PlayerMappableOptions.DisplayName
+#: /Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(23).Mappings.PlayerMappableOptions.DisplayName
+msgctxt ",99C38A1E45C6826D574A1389F47237C4"
+msgid "IA_Use4"
+msgstr "IA_Use4"
 
 #. Key:	9A7ABEAA4E2C05AB00E7988389E19EB0
 #. SourceLocation:	/Game/Blueprint/UMG/EscMenu/WBP_Dead.WBP_Dead_C:ExecuteUbergraph_WBP_Dead [Script Bytecode]
@@ -3009,6 +3093,13 @@ msgctxt ",A20C51E94B5BBB6D3301BB9431B4CF0E"
 msgid "抗热性"
 msgstr "wytrzymałość cieplna"
 
+#. Key:	A3D7304A40749AFCC176D785B918C7A6
+#. SourceLocation:	/Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(13).Mappings.PlayerMappableOptions.DisplayName
+#: /Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(13).Mappings.PlayerMappableOptions.DisplayName
+msgctxt ",A3D7304A40749AFCC176D785B918C7A6"
+msgid "IA_ActionMenu"
+msgstr "IA_Menu akcji"
+
 #. Key:	A3EEE2ED4151882C6AADCC9C40E8CEE1
 #. SourceLocation:	/Game/Blueprint/ACF/Data/TableAsset/WeaponTable.WeaponTable.SKS狙击枪.ItemInfo_66_F92A1A3B448C3413FD56918B4BFB9241.Name
 #: /Game/Blueprint/ACF/Data/TableAsset/WeaponTable.WeaponTable.SKS狙击枪.ItemInfo_66_F92A1A3B448C3413FD56918B4BFB9241.Name
@@ -3092,13 +3183,6 @@ msgstr "stacja gotowania"
 msgctxt ",A986B3D14B33762D4721F68A12C306D5"
 msgid "RoofIntersection"
 msgstr "Przecięcie dachu"
-
-#. Key:	A99BDFA24D24401BAEC0A6A8284F2950
-#. SourceLocation:	/Game/Blueprint/UMG/InteractiveMessage/WBP_NormalCenterMessage.WBP_NormalCenterMessage_C:WidgetTree.FTextBlock_1.Text
-#: /Game/Blueprint/UMG/InteractiveMessage/WBP_NormalCenterMessage.WBP_NormalCenterMessage_C:WidgetTree.FTextBlock_1.Text
-msgctxt ",A99BDFA24D24401BAEC0A6A8284F2950"
-msgid "F"
-msgstr "F"
 
 #. Key:	AA46408A4903F4640EFF4DB0535DF1D9
 #. SourceLocation:	/Game/Blueprint/UMG/WBP_Show.WBP_Show_C:WidgetTree.TextBlock_76.Text
@@ -3289,6 +3373,13 @@ msgctxt ",B180E35F4A221AECBDE4279275533DD1"
 msgid "注意右上角闪烁的图标，这里是人物状态"
 msgstr "Zwróć uwagę na migającą ikonę w prawym górnym rogu, oto status postaci"
 
+#. Key:	B1C717F34C20552CAE3AB688EB154809
+#. SourceLocation:	/Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(25).Mappings.PlayerMappableOptions.DisplayName
+#: /Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(25).Mappings.PlayerMappableOptions.DisplayName
+msgctxt ",B1C717F34C20552CAE3AB688EB154809"
+msgid "IA_Use6"
+msgstr "IA_Use6"
+
 #. Key:	B22CE20D4E7F232EA78E36BA6EFA3738
 #. SourceLocation:	/Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(1 - Value).DisplayNameMap
 #: /Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(1 - Value).DisplayNameMap
@@ -3323,6 +3414,13 @@ msgstr "Film"
 msgctxt ",B2D45E494DEBDD6462C30B94D73CA7C1"
 msgid "DLSS"
 msgstr "DLSS"
+
+#. Key:	B386CF404F60721A328D959B4FF25C97
+#. SourceLocation:	/Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(8).Mappings.PlayerMappableOptions.DisplayName
+#: /Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(8).Mappings.PlayerMappableOptions.DisplayName
+msgctxt ",B386CF404F60721A328D959B4FF25C97"
+msgid "IA_Interacted2"
+msgstr "IA_Interacted2"
 
 #. Key:	B3A0E2EC48F04B81F76C6E938D15A734
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/E_FireMode.E_FireMode.DisplayNameMap(0 - Value).DisplayNameMap
@@ -3372,6 +3470,13 @@ msgstr "Podnieś młot budowlany"
 msgctxt ",B5E30E844D9DAB3740F010AE9E26C525"
 msgid "按下Esc退出，开始真正的生存吧"
 msgstr "Naciśnij Esc, aby wyjść i rozpocząć prawdziwe przetrwanie"
+
+#. Key:	B6010C16439371D4C6BA94A4171DBB18
+#. SourceLocation:	/Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(20).Mappings.PlayerMappableOptions.DisplayName
+#: /Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(20).Mappings.PlayerMappableOptions.DisplayName
+msgctxt ",B6010C16439371D4C6BA94A4171DBB18"
+msgid "IA_Use1"
+msgstr "IA_Use1"
 
 #. Key:	B622F1434FD69B2C080878B79A141547
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/ShortSharp/BP_ShortSharpBase.Default__BP_ShortSharpBase_C.ItemInfo.Name
@@ -3429,6 +3534,13 @@ msgctxt ",B8B69A364203615D8A5018B102D4B9C1"
 msgid "纺织机"
 msgstr "maszyna tekstylna"
 
+#. Key:	B8C353004A5F835C2E2DB38D3494A18E
+#. SourceLocation:	/Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(15).Mappings.PlayerMappableOptions.DisplayName
+#: /Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(15).Mappings.PlayerMappableOptions.DisplayName
+msgctxt ",B8C353004A5F835C2E2DB38D3494A18E"
+msgid "IA_Crouch"
+msgstr "IA_Crouch"
+
 #. Key:	B8DF58C94EDF690F7BE9EDB76D1EE91A
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_36.Text
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_36.Text
@@ -3456,6 +3568,13 @@ msgstr "Plastikowy"
 msgctxt ",B902044F444A770F5D16FEBFFB185A39"
 msgid "水不够！"
 msgstr "Za mało wody!"
+
+#. Key:	B9B422134628E2BA2A3A5C958D118A62
+#. SourceLocation:	/Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(22).Mappings.PlayerMappableOptions.DisplayName
+#: /Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(22).Mappings.PlayerMappableOptions.DisplayName
+msgctxt ",B9B422134628E2BA2A3A5C958D118A62"
+msgid "IA_Use3"
+msgstr "IA_Use3"
 
 #. Key:	B9D7AFBD4A45230EE8CB6D8FB180E276
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(4 - Value).DisplayNameMap
@@ -3569,6 +3688,13 @@ msgctxt ",C1CF8D7D4567787F135DFC9C77F6EEB0"
 msgid "机修（三卷）"
 msgstr "Naprawa maszyn (trzy tomy)"
 
+#. Key:	C29D3E5148224D541E5261AAA1EE196A
+#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_sniper_SKS.Default__ACFGunBase_sniper_SKS_C.ItemInfo.Name
+#: /Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_sniper_SKS.Default__ACFGunBase_sniper_SKS_C.ItemInfo.Name
+msgctxt ",C29D3E5148224D541E5261AAA1EE196A"
+msgid "SKS"
+msgstr "SKS"
+
 #. Key:	C2FB8F65467776E7AEB688BC648150A4
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Bow/BP_ArrowBase.Default__BP_ArrowBase_C.ItemInfo.Name
 #: /Game/Blueprint/ACF/Item/Weapon/Bow/BP_ArrowBase.Default__BP_ArrowBase_C.ItemInfo.Name
@@ -3646,13 +3772,6 @@ msgctxt ",C63B559A430C8967E980F183A98EDD89"
 msgid "钝器+"
 msgstr "Tępy +"
 
-#. Key:	C6F2900D49551E8DDA715CA2260FE3C0
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Materials/AutoCreate/BP_Mat_DZLNQ01.Default__BP_Mat_DZLNQ01_C.ItemInfo.Description
-#: /Game/Blueprint/ACF/Item/Materials/AutoCreate/BP_Mat_DZLNQ01.Default__BP_Mat_DZLNQ01_C.ItemInfo.Description
-msgctxt ",C6F2900D49551E8DDA715CA2260FE3C0"
-msgid "上门印有董小姐的头像，或许有什么神秘的加持。"
-msgstr "Na drzwiach jest wydrukowane zdjęcie pani Dong, może jest jakieś tajemnicze błogosławieństwo."
-
 #. Key:	C8909F544D82D283B4CBAF86C0E811D3
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/E_FireMode.E_FireMode.DisplayNameMap(1 - Value).DisplayNameMap
 #: /Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/E_FireMode.E_FireMode.DisplayNameMap(1 - Value).DisplayNameMap
@@ -3666,6 +3785,13 @@ msgstr "Potrójne Włosy"
 msgctxt ",C91B92F140E95FFF8720FCB5C77715EF"
 msgid "设置为复活点"
 msgstr "ustaw jako punkt zmartwychwstania"
+
+#. Key:	C94462E5444E21989A70DA934494F485
+#. SourceLocation:	/Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(0).Mappings.PlayerMappableOptions.DisplayName
+#: /Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(0).Mappings.PlayerMappableOptions.DisplayName
+msgctxt ",C94462E5444E21989A70DA934494F485"
+msgid "IA_OpenBuildingMenu"
+msgstr "IA_OpenBuildingMenu"
 
 #. Key:	C95B9D5D497F1BBE79830CA3E08DA455
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_30.In Text
@@ -3715,13 +3841,6 @@ msgstr "jedzenie"
 msgctxt ",CBF68092493CCA912229F3994ABAF6DA"
 msgid "20/30Ah"
 msgstr "20/30Ah"
-
-#. Key:	CC0602FA4986D47E186795BB50DF3D50
-#. SourceLocation:	/Game/Blueprint/ACF/Data/TableAsset/MaterialTable.MaterialTable.冷凝器.ItemInfo_66_F92A1A3B448C3413FD56918B4BFB9241.Description
-#: /Game/Blueprint/ACF/Data/TableAsset/MaterialTable.MaterialTable.冷凝器.ItemInfo_66_F92A1A3B448C3413FD56918B4BFB9241.Description
-msgctxt ",CC0602FA4986D47E186795BB50DF3D50"
-msgid "上门印有董小姐的头像，或许有什么神秘的加持。"
-msgstr "Na drzwiach wydrukowano zdjęcie Miss Dong, może jest jakieś tajemnicze błogosławieństwo."
 
 #. Key:	CC819A1447895FD466FEF7AA1DE2B9F7
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_LoadGame.WBP_LoadGame_C:WidgetTree.WBP_Del.In Text
@@ -4297,6 +4416,13 @@ msgctxt ",E8B6EDFE452CE11F69B4D49227417DC4"
 msgid "口渴-"
 msgstr "Spragniony-"
 
+#. Key:	E8C8CCB144B38610F0562CAC8A724AFA
+#. SourceLocation:	/Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(21).Mappings.PlayerMappableOptions.DisplayName
+#: /Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(21).Mappings.PlayerMappableOptions.DisplayName
+msgctxt ",E8C8CCB144B38610F0562CAC8A724AFA"
+msgid "IA_Use2"
+msgstr "IA_Use2"
+
 #. Key:	E8EA4D5B4493329CF32982ABD630233C
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Wattle_WoodDoor.Wattle_WoodDoor_C:ShowUI [Script Bytecode]
 #: /Game/HDCKBuildingSystem/MeshBP/Wattle_WoodDoor.Wattle_WoodDoor_C:ShowUI [Script Bytecode]
@@ -4450,13 +4576,6 @@ msgstr "wilgoć"
 msgctxt ",F129924B4E7FED6DE53839AA9F668B19"
 msgid "物品简介栏（会被覆盖）"
 msgstr "Kolumna profilu przedmiotu (zostanie nadpisana)"
-
-#. Key:	F160B21145FE57A056580E9B6B80AFB8
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_Shotgun_870AC.Default__ACFGunBase_Shotgun_870AC_C.ItemInfo.Name
-#: /Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_Shotgun_870AC.Default__ACFGunBase_Shotgun_870AC_C.ItemInfo.Name
-msgctxt ",F160B21145FE57A056580E9B6B80AFB8"
-msgid "870AC"
-msgstr "870 AC"
 
 #. Key:	F19BD91C44C6F6CBC9085E9FAA02D371
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/FaceUI/WBP_SlideMorph.WBP_SlideMorph_C:WidgetTree.Text.Text
@@ -4668,13 +4787,6 @@ msgctxt ",FB4AA59C4F7B31F2F8C325B64FCF6379"
 msgid "淋浴间"
 msgstr "Prysznic"
 
-#. Key:	FB96DF1C49A8D25CFB137E95902966DA
-#. SourceLocation:	/Game/Blueprint/UMG/InteractiveMessage/WBP_NormalCenterMessage.WBP_NormalCenterMessage_C:WidgetTree.ETextBlock.Text
-#: /Game/Blueprint/UMG/InteractiveMessage/WBP_NormalCenterMessage.WBP_NormalCenterMessage_C:WidgetTree.ETextBlock.Text
-msgctxt ",FB96DF1C49A8D25CFB137E95902966DA"
-msgid "E"
-msgstr "ORAZ"
-
 #. Key:	FC41E7F4409AA042268DA480D2C3C17D
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/E_AimType.E_AimType.DisplayNameMap(0 - Value).DisplayNameMap
 #: /Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/E_AimType.E_AimType.DisplayNameMap(0 - Value).DisplayNameMap
@@ -4786,6 +4898,13 @@ msgstr "Naciśnij Tab, aby otworzyć plecak"
 msgctxt ",FFAED73E43A4E58BDAFD03B5F6FFB55A"
 msgid "取出燃料"
 msgstr "wyjąć paliwo"
+
+#. Key:	FFE8A66A42DC7F05EC1CED97A6CEF7A2
+#. SourceLocation:	/Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(5).Mappings.PlayerMappableOptions.DisplayName
+#: /Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(5).Mappings.PlayerMappableOptions.DisplayName
+msgctxt ",FFE8A66A42DC7F05EC1CED97A6CEF7A2"
+msgid "IA_BuildingG"
+msgstr "IA_BudynekG"
 
 #. Key:	Floor
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -9127,6 +9246,13 @@ msgctxt "UI,BZ"
 msgid "鼻子"
 msgstr "nos"
 
+#. Key:	caiji
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,caiji"
+msgid "采集"
+msgstr "kolekcja"
+
 #. Key:	cancel
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
@@ -9141,12 +9267,33 @@ msgctxt "UI,capacity"
 msgid "容量："
 msgstr "Pojemność:"
 
+#. Key:	CAR
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,CAR"
+msgid "车辆控制"
+msgstr "kontrola pojazdu"
+
 #. Key:	carbohydrate
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,carbohydrate"
 msgid "碳水化合物"
 msgstr "węglowodan"
+
+#. Key:	CARHANG
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,CARHANG"
+msgid "车辆手刹"
+msgstr "hamulec ręczny pojazdu"
+
+#. Key:	CARLINGHT
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,CARLINGHT"
+msgid "车灯"
+msgstr "reflektory"
 
 #. Key:	CDDX
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10100,6 +10247,27 @@ msgctxt "UI,JXX"
 msgid "机修"
 msgstr "Naprawa maszyn"
 
+#. Key:	JZBZKG
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,JZBZKG"
+msgid "建造捕捉开关"
+msgstr "Zbuduj przełączniki przyciągania"
+
+#. Key:	JZCD
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,JZCD"
+msgid "建造菜单"
+msgstr "menu budowy"
+
+#. Key:	JZKZ
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,JZKZ"
+msgid "建筑控制"
+msgstr "kontrola budynku"
+
 #. Key:	KG
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
@@ -10968,6 +11136,13 @@ msgctxt "UI,RQ"
 msgid "锐器"
 msgstr "śruty"
 
+#. Key:	RWKZ
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,RWKZ"
+msgid "人物控制"
+msgstr "kontrola postaci"
+
 #. Key:	RWTD
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
 #: /Game/LocalizationText/Screen.Screen
@@ -11786,6 +11961,48 @@ msgstr "Efekty dźwiękowe interfejsu użytkownika"
 msgctxt "UI,Use"
 msgid "使用"
 msgstr "posługiwać się"
+
+#. Key:	USE1
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,USE1"
+msgid "快捷栏1"
+msgstr "pasek skrótów 1"
+
+#. Key:	USE2
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,USE2"
+msgid "快捷栏2"
+msgstr "pasek skrótów 2"
+
+#. Key:	USE3
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,USE3"
+msgid "快捷栏3"
+msgstr "pasek skrótów 3"
+
+#. Key:	USE4
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,USE4"
+msgid "快捷栏4"
+msgstr "pasek skrótów 4"
+
+#. Key:	USE5
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,USE5"
+msgid "快捷栏5"
+msgstr "pasek skrótów 5"
+
+#. Key:	USE6
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,USE6"
+msgid "快捷栏6"
+msgstr "pasek skrótów 6"
 
 #. Key:	useDDFRJ
 #. SourceLocation:	/Game/LocalizationText/UI.UI
