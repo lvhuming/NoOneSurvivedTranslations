@@ -1292,14 +1292,14 @@ msgstr "Вес: 300/600"
 #: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(14 - Value).DisplayNameMap
 msgctxt ",3F0080734A17ED2949B3E7A69E6074FA"
 msgid "HandGuard"
-msgstr "Цевье"
+msgstr "накладка"
 
 #. Key:	3FB2451B4FF120B2FAA709ABF555A02A
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_46.In Text
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_46.In Text
 msgctxt ",3FB2451B4FF120B2FAA709ABF555A02A"
 msgid "铁棍"
-msgstr "Железный стержень"
+msgstr "Железная бита"
 
 #. Key:	3FD998734A21E21A308E56B1BD772319
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/Furniture_Base.Default__Furniture_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
@@ -1649,7 +1649,7 @@ msgstr "RoofEndTringer"
 #: /Game/Blueprint/UMG/WBP_GetWater.WBP_GetWater_C:WidgetTree.TextBlock_57.Text
 msgctxt ",5604627744E8324B0E9AAB96BB219D3A"
 msgid "拖入容器装水"
-msgstr "Перетащите в емкость для воды"
+msgstr "поместите емкость для воды"
 
 #. Key:	569DFDE54CD2C05CA841E4AED49216C0
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_SPX.WBP_SPX_C:WidgetTree.development.ToolTipText
@@ -3560,7 +3560,7 @@ msgstr "помидор"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_68.In Text
 msgctxt ",B8EC20624117CFE11537B1B46FE1FEEC"
 msgid "塑料"
-msgstr "пластик"
+msgstr "пластмасса"
 
 #. Key:	B902044F444A770F5D16FEBFFB185A39
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_YSSJQ.Furniture_YSSJQ_C:ExecuteUbergraph_Furniture_YSSJQ [Script Bytecode]
@@ -3798,7 +3798,7 @@ msgstr "IA_OpenBuildingMenu"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_30.In Text
 msgctxt ",C95B9D5D497F1BBE79830CA3E08DA455"
 msgid "饲养圈"
-msgstr "Ручка для разведения"
+msgstr "Загон для разведения"
 
 #. Key:	C99F683B4CADB5E20B857EAF962FD2C7
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_16.Text
@@ -4064,7 +4064,7 @@ msgstr "Крыша"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_89.In Text
 msgctxt ",D9DDCEFB423648DEE630F5AAAFEE978B"
 msgid "钢棍"
-msgstr "стальной стержень"
+msgstr "стальная бита"
 
 #. Key:	D9EB4FA148BE9A866B7468B3096116F5
 #. SourceLocation:	/Game/Blueprint/UMG/Make/WBP_MakeDetailShow.WBP_MakeDetailShow_C:WidgetTree.FZX.Text
@@ -4260,7 +4260,7 @@ msgstr "Мебель"
 #: /Game/Blueprint/UMG/Furniture/WBP_ShowDCZ.WBP_ShowDCZ_C:WidgetTree.Name.Text
 msgctxt ",E2E0964B4D190CE50F62B589079F730D"
 msgid "电池组"
-msgstr "Батарея"
+msgstr "Аккумуляторный блок"
 
 #. Key:	E31C6DA3490AA4EB9661B184FAD08B65
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_19.Text
@@ -4883,7 +4883,7 @@ msgstr "для соединения внешнего угла крыши"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_53.In Text
 msgctxt ",FF2F50414387532F4542DC831B775CDC"
 msgid "电池组"
-msgstr "Батарея"
+msgstr "Аккумуляторный блок"
 
 #. Key:	FF7908124DFD99DC2113E299B7A4DF92
 #. SourceLocation:	/Game/Blueprint/ACF/Tutorial/WBP_TutorialTip1.WBP_TutorialTip1_C:WidgetTree.TextBlock_2.Text
@@ -5506,7 +5506,7 @@ msgstr "Длинные балки, выдерживают вес."
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",VerticalBeam"
 msgid "木材立柱"
-msgstr "деревянные стойки"
+msgstr "деревянная колонна"
 
 #. Key:	VerticalBeamAdsorbent
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5520,7 +5520,7 @@ msgstr "фундаменты, балки, стойки"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",VerticalBeamBase"
 msgid "立柱"
-msgstr "столбец"
+msgstr "столб, колонна"
 
 #. Key:	VerticalBeamDetail
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5597,7 +5597,7 @@ msgstr "Каменная стена (треугольник 1/3) не модел
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",WallWindow"
 msgid "石材墙体(带窗洞)"
-msgstr "Каменная стена (с отверстием для окна)"
+msgstr "Каменная стена (с оконным проемом)"
 
 #. Key:	window1
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5667,21 +5667,21 @@ msgstr "Цементная колонна (1/3)"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B12"
 msgid "水泥横梁"
-msgstr "бетонная балка"
+msgstr "Цементная балка"
 
 #. Key:	B13
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B13"
 msgid "水泥横梁(两格)"
-msgstr "Бетонные балки (две сетки)"
+msgstr "Цементная балка (две сетки)"
 
 #. Key:	B14
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B14"
 msgid "水泥横梁(四格)"
-msgstr "Цементные балки (четыре сетки)"
+msgstr "Цементная балка (четыре сетки)"
 
 #. Key:	B15
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -5821,14 +5821,14 @@ msgstr "костер"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B32"
 msgid "木箱"
-msgstr "Деревянная коробка"
+msgstr "Деревянный ящик"
 
 #. Key:	B33
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B33"
 msgid "木箱架"
-msgstr "каркас из деревянного ящика"
+msgstr "Стойка для деревянных ящиков"
 
 #. Key:	B34
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -5842,7 +5842,7 @@ msgstr "Верстак"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B35"
 msgid "机械加工台"
-msgstr "обрабатывающий стол"
+msgstr "технологический верстак"
 
 #. Key:	B36
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -5863,7 +5863,7 @@ msgstr "коллектор дождевой воды"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B38"
 msgid "水井"
-msgstr "хорошо"
+msgstr "колодец"
 
 #. Key:	B39
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6017,7 +6017,7 @@ msgstr "электрическая швейная машина"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B58"
 msgid "烟熏架"
-msgstr "курительная стойка"
+msgstr "коптильня"
 
 #. Key:	B59
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6101,7 +6101,7 @@ msgstr "соломенная циновка"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B69"
 msgid "床"
-msgstr "пол"
+msgstr "Кровать"
 
 #. Key:	B7
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6178,7 +6178,7 @@ msgstr "железные ворота"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B79"
 msgid "拒马"
-msgstr "отказаться от лошади"
+msgstr "Деревянные шипы"
 
 #. Key:	B8
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6213,7 +6213,7 @@ msgstr "номер дома"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B83"
 msgid "原木架"
-msgstr "лесопильная рама"
+msgstr "стойка для бревен"
 
 #. Key:	B84
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6227,28 +6227,28 @@ msgstr "стойка для палочек"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B85"
 msgid "石头框"
-msgstr "каменная рама"
+msgstr "корзина для камней"
 
 #. Key:	B86
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B86"
 msgid "木板架"
-msgstr "деревянная полка"
+msgstr "стойка для досок"
 
 #. Key:	B87
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B87"
 msgid "手拖车"
-msgstr "ручной трейлер"
+msgstr "Ручная тележка"
 
 #. Key:	B88
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B88"
 msgid "饲养圈"
-msgstr "Ручка для разведения"
+msgstr "Загон для разведения"
 
 #. Key:	B9
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6521,7 +6521,7 @@ msgstr "шляпа от солнца"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F1"
 msgid "萝卜"
-msgstr "редька"
+msgstr "морковь"
 
 #. Key:	F10
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7200,7 +7200,7 @@ msgstr "большая пластиковая бутылка"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F65"
 msgid "铝壶"
-msgstr "алюминиевый котелок"
+msgstr "алюминиевая емкость"
 
 #. Key:	F66
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7431,28 +7431,28 @@ msgstr "портной (1 том)"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F95"
 msgid "裁缝（二卷）"
-msgstr "Портной (2 том)"
+msgstr "портной (2 том)"
 
 #. Key:	F96
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F96"
 msgid "裁缝（三卷）"
-msgstr "Портной (3 том)"
+msgstr "портной (3 том)"
 
 #. Key:	F97
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F97"
 msgid "裁缝（四卷）"
-msgstr "Портной (4 том)"
+msgstr "портной (4 том)"
 
 #. Key:	F98
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F98"
 msgid "裁缝（五卷）"
-msgstr "Портной (5 том)"
+msgstr "портной (5 том)"
 
 #. Key:	F99
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7585,7 +7585,7 @@ msgstr "голографический прицел"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M1"
 msgid "原木"
-msgstr "журнал"
+msgstr "бревно"
 
 #. Key:	M10
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7774,14 +7774,14 @@ msgstr "порох"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M34"
 msgid "塑料"
-msgstr "пластик"
+msgstr "пластмасса"
 
 #. Key:	M35
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M35"
 msgid "橡胶"
-msgstr "ластик"
+msgstr "резина"
 
 #. Key:	M36
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7830,7 +7830,7 @@ msgstr "ящик для инструментов"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M41"
 msgid "机械加工台图纸"
-msgstr "Чертежи для верстака"
+msgstr "Чертежи для технологического верстака"
 
 #. Key:	M42
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7844,7 +7844,7 @@ msgstr "чертежи теплового генератора"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M43"
 msgid "太阳能组图纸"
-msgstr "Рисунки солнечной группы"
+msgstr "Чертеж солнечной электростанции"
 
 #. Key:	M44
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7858,7 +7858,7 @@ msgstr "Чертежи станции хранения воды"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M45"
 msgid "金属弓图纸"
-msgstr "металлические банты рисунки"
+msgstr "Чертеж металлического лука"
 
 #. Key:	M46
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8131,7 +8131,7 @@ msgstr "бочковое топливо"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M80"
 msgid "干电池"
-msgstr "сухой аккумулятор"
+msgstr "батарейка"
 
 #. Key:	M81
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8565,7 +8565,7 @@ msgstr "железный ручной нож"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W24"
 msgid "铁棍"
-msgstr "Железный стержень"
+msgstr "Железная бита"
 
 #. Key:	W25
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8670,7 +8670,7 @@ msgstr "стальной двуручный нож"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W38"
 msgid "钢棍"
-msgstr "стальной стержень"
+msgstr "стальная бита"
 
 #. Key:	W39
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8712,7 +8712,7 @@ msgstr "коктейль Молотова"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W43"
 msgid "土制手雷"
-msgstr "Земляная граната"
+msgstr "Граната"
 
 #. Key:	W44
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8922,7 +8922,7 @@ msgstr "Некоторые предметы можно разобрать для
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,13"
 msgid "卡住啦！使用退出菜单的脱离卡死功能。"
-msgstr "Застрял? Используй меню выхода из застравания в меню игры."
+msgstr "Застрял? Используй "выбраться из тупика" в меню игры"
 
 #. Key:	14
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -9132,7 +9132,7 @@ msgstr "ограждение"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Buildingadsorbent"
 msgid "可吸附："
-msgstr "Адсорбируемый:"
+msgstr "Соединяется с:"
 
 #. Key:	BuildingAll
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -9146,7 +9146,7 @@ msgstr "все"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,BuildingBearing"
 msgid "承重："
-msgstr "Подшипник нагрузки:"
+msgstr "Ставится на:"
 
 #. Key:	BuildingCraft
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -9321,7 +9321,7 @@ msgstr "Пожалуйста введите действительное имя 
 #: /Game/LocalizationText/UIStudy.UIStudy
 msgctxt "UI,CF"
 msgid "裁缝"
-msgstr "портной"
+msgstr "Портной"
 
 #. Key:	ChangAn
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -9377,7 +9377,7 @@ msgstr "взрослый кабан"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Chongdian"
 msgid "充电"
-msgstr "Зарядка"
+msgstr "зарядка"
 
 #. Key:	CHUANGKOU
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -9433,7 +9433,7 @@ msgstr "мыться"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Close"
 msgid "关闭"
-msgstr "закрытие"
+msgstr "закрыть "
 
 #. Key:	confirm
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -9461,7 +9461,7 @@ msgstr "настройки управления"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,cook"
 msgid "烹饪"
-msgstr "приготовление еды"
+msgstr "Приготовление еды"
 
 #. Key:	craft
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -9678,7 +9678,7 @@ msgstr "Пить воду"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Drop"
 msgid "丢弃"
-msgstr "выбрасывать"
+msgstr "выбросить"
 
 #. Key:	DropItem
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -9755,14 +9755,14 @@ msgstr "есть"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Equip"
 msgid "装备"
-msgstr "оборудование"
+msgstr "экипировать"
 
 #. Key:	ETip
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,ETip"
 msgid "拾取 "
-msgstr "подбирать"
+msgstr "подобрать "
 
 #. Key:	EX
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -9923,7 +9923,7 @@ msgstr "качество отражения"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Ftip"
 msgid "使用"
-msgstr "использовать"
+msgstr "использовать "
 
 #. Key:	FX
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -9965,7 +9965,7 @@ msgstr "закрытие"
 #: /Game/LocalizationText/UIStudy.UIStudy
 msgctxt "UI,GC"
 msgid "工程学"
-msgstr "инженерия"
+msgstr "Инженерия"
 
 #. Key:	GL
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10091,7 +10091,7 @@ msgstr "высокая"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,HJY"
 msgid "环境音"
-msgstr "окружающий звук"
+msgstr "звук окружения"
 
 #. Key:	HMZL
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10126,7 +10126,7 @@ msgstr "борода"
 #: /Game/LocalizationText/UIStudy.UIStudy
 msgctxt "UI,HX"
 msgid "电气化"
-msgstr "электрификация "
+msgstr "Электрификация "
 
 #. Key:	hygiene
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -10238,7 +10238,7 @@ msgstr "Присоединиться к многопользовательско
 #: /Game/LocalizationText/UIStudy.UIStudy
 msgctxt "UI,JX"
 msgid "机械"
-msgstr "механический"
+msgstr "Механика"
 
 #. Key:	JXX
 #. SourceLocation:	/Game/LocalizationText/UIStudy.UIStudy
@@ -10378,7 +10378,7 @@ msgstr "яркость"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Level"
 msgid "等级"
-msgstr "оценка"
+msgstr " уровень"
 
 #. Key:	Light
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10413,7 +10413,7 @@ msgstr "соединять"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,load"
 msgid "加载"
-msgstr "нагрузка"
+msgstr "Загрузить"
 
 #. Key:	LoadGame
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10861,7 +10861,7 @@ msgstr "Текущее топливо:"
 #: /Game/LocalizationText/UIStudy.UIStudy
 msgctxt "UI,NY"
 msgid "农业"
-msgstr "сельское хозяйство"
+msgstr "Сельское хозяйство"
 
 #. Key:	NYCD
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10952,7 +10952,7 @@ msgstr "Обратите внимание, что эта операция уда
 #: /Game/LocalizationText/UIStudy.UIStudy
 msgctxt "UI,PR"
 msgid "烹饪"
-msgstr "приготовление еды"
+msgstr "Приготовление еды"
 
 #. Key:	protein
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -12044,14 +12044,14 @@ msgstr "Изготовлено в химическом реакторе"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,useJGT"
 msgid "使用加工台制作"
-msgstr "Изготовлено с использованием обрабатывающего стола"
+msgstr "Изготовлено с использованием верстака"
 
 #. Key:	useJXJGT
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,useJXJGT"
 msgid "使用机械加工台制作"
-msgstr "Сделано с обрабатывающим столом"
+msgstr "Сделано на технологическом верстаке"
 
 #. Key:	useMTL
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12366,14 +12366,14 @@ msgstr "расстояние между глазами"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,YINXIAO"
 msgid "音效"
-msgstr "звуковой эффект"
+msgstr "звук эффектов"
 
 #. Key:	YJ
 #. SourceLocation:	/Game/LocalizationText/UIStudy.UIStudy
 #: /Game/LocalizationText/UIStudy.UIStudy
 msgctxt "UI,YJ"
 msgid "冶金"
-msgstr "металлургия"
+msgstr "Металлургия"
 
 #. Key:	YJSW
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -12401,7 +12401,7 @@ msgstr "Год"
 #: /Game/LocalizationText/UIStudy.UIStudy
 msgctxt "UI,YX"
 msgid "医学"
-msgstr "медицина"
+msgstr "Медицина"
 
 #. Key:	YXND
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -12492,7 +12492,7 @@ msgstr "блокировка частоты кадров"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,ZS"
 msgid "赠送"
-msgstr "отдавать"
+msgstr "Отдать"
 
 #. Key:	ZSZL
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -12555,7 +12555,7 @@ msgstr "Профессия"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,ZYL"
 msgid "总音量"
-msgstr "общий объем"
+msgstr "общая громкость"
 
 #. Key:	ZZ
 #. SourceLocation:	/Game/LocalizationText/UI.UI
