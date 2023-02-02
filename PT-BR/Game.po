@@ -557,7 +557,7 @@ msgstr "Escolher Menu"
 #: /Game/Blueprint/UMG/WBP_BaseBook.WBP_BaseBook_C:WidgetTree.WBP_BookTipButton_2.Text
 msgctxt ",1A40AF1F49F684AB1D72FEAC52991062"
 msgid "信息"
-msgstr "Dicas"
+msgstr "Configurações"
 
 #. Key:	1A5943304B1C4E435E9732A73F4A03F5
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/E_AimType.E_AimType.DisplayNameMap(1 - Value).DisplayNameMap
@@ -1628,7 +1628,7 @@ msgstr "Tecnologia AMD FSR2"
 #: /Game/Blueprint/ACF/Item/Food/AutoCreate/BP_Food_CSCG.Default__BP_Food_CSCG_C.ItemInfo.Name
 msgctxt ",53D622B84E8BEF01604E3CB6B4003A5E"
 msgid "蔬菜干"
-msgstr "Legumes Desitrados"
+msgstr "Legumes Desidratados"
 
 #. Key:	54D9A0A84222690CD2FF328C0F08BAFF
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_40.In Text
@@ -3175,7 +3175,7 @@ msgstr "Digite uma Senha"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_77.In Text
 msgctxt ",A8E8CFFB476DD19AE2F12BA0D0D8658C"
 msgid "烹饪台"
-msgstr "Cozinha"
+msgstr "Fogão"
 
 #. Key:	A986B3D14B33762D4721F68A12C306D5
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(11 - Value).DisplayNameMap
@@ -4260,7 +4260,7 @@ msgstr "Mobília"
 #: /Game/Blueprint/UMG/Furniture/WBP_ShowDCZ.WBP_ShowDCZ_C:WidgetTree.Name.Text
 msgctxt ",E2E0964B4D190CE50F62B589079F730D"
 msgid "电池组"
-msgstr "Pilha"
+msgstr "Bancada de Baterias"
 
 #. Key:	E31C6DA3490AA4EB9661B184FAD08B65
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_19.Text
@@ -4785,7 +4785,7 @@ msgstr "Modelo 01"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_65.In Text
 msgctxt ",FB4AA59C4F7B31F2F8C325B64FCF6379"
 msgid "淋浴间"
-msgstr "Banheiro"
+msgstr "Chuveiro"
 
 #. Key:	FC41E7F4409AA042268DA480D2C3C17D
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/E_AimType.E_AimType.DisplayNameMap(0 - Value).DisplayNameMap
@@ -4883,7 +4883,7 @@ msgstr "Para conectar telhados de canto externo."
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_53.In Text
 msgctxt ",FF2F50414387532F4542DC831B775CDC"
 msgid "电池组"
-msgstr "Pilha"
+msgstr "Bancada de Baterias"
 
 #. Key:	FF7908124DFD99DC2113E299B7A4DF92
 #. SourceLocation:	/Game/Blueprint/ACF/Tutorial/WBP_TutorialTip1.WBP_TutorialTip1_C:WidgetTree.TextBlock_2.Text
@@ -5898,7 +5898,7 @@ msgstr "Purificador de Água"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B42"
 msgid "电池组"
-msgstr "Pilha"
+msgstr "Bancada de Baterias"
 
 #. Key:	B43
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6234,7 +6234,7 @@ msgstr "Cesto de Pedras"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B86"
 msgid "木板架"
-msgstr "Suporte para Tabúas"
+msgstr "Suporte para Tábuas"
 
 #. Key:	B87
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6780,7 +6780,7 @@ msgstr "Ovos Cozidos"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F132"
 msgid "菜药膳"
-msgstr "Receita: Salada de Vegetais"
+msgstr "Receita: Salada de Legumes"
 
 #. Key:	F133
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7207,14 +7207,14 @@ msgstr "Cantil"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F66"
 msgid "蔬菜肉罐头"
-msgstr "Lata de Carne com Vegetal"
+msgstr "Lata de Carne com Legumes"
 
 #. Key:	F67
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F67"
 msgid "水果肉罐头"
-msgstr "Lata de Poupa de Frutas"
+msgstr "Lata de Polpa de Frutas"
 
 #. Key:	F68
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7242,14 +7242,14 @@ msgstr "Morango"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F70"
 msgid "美味蔬菜肉罐头"
-msgstr "Lata de Carne com Vegetal"
+msgstr "Lata de Carne com Legumes"
 
 #. Key:	F71
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F71"
 msgid "美味水果肉罐头"
-msgstr "Deliciosa carne de frutas enlatadas"
+msgstr "Deliciosa Lata de Carne com Frutas"
 
 #. Key:	F72
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8474,7 +8474,7 @@ msgstr "Usado principalmente para iluminação"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W12"
 msgid "粗木弓"
-msgstr "Arco de Madeira Rústico"
+msgstr "Arco de Madeira"
 
 #. Key:	W13
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9272,7 +9272,7 @@ msgstr "Capacidade:"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,CAR"
 msgid "车辆控制"
-msgstr "Controle de Veículo"
+msgstr "Controle do Veículo"
 
 #. Key:	carbohydrate
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -9867,7 +9867,7 @@ msgstr "Reparar"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,FKS"
 msgid "脱离卡死"
-msgstr "Menos Travamentos"
+msgstr "Destravar Personagem"
 
 #. Key:	FRCU01
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10378,7 +10378,7 @@ msgstr "Brilho"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Level"
 msgid "等级"
-msgstr "Nível"
+msgstr " Nível"
 
 #. Key:	Light
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11141,7 +11141,7 @@ msgstr "Lâminas"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,RWKZ"
 msgid "人物控制"
-msgstr "Controle de Personagem"
+msgstr "Controle do Personagem"
 
 #. Key:	RWTD
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -12380,7 +12380,7 @@ msgstr "Metalurgia"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,YJSW"
 msgid "永久死亡"
-msgstr "Permadeath"
+msgstr "Morte Permanente"
 
 #. Key:	YJSWTS
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
