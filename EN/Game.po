@@ -767,7 +767,7 @@ msgstr "Heat resistance"
 #: /Game/Blueprint/ACF/Item/Book/AutoCreate/BP_Book_JXX05.Default__BP_Book_JXX05_C.ItemInfo.Name
 msgctxt ",2308D6F3490886F47608A29FECC708F2"
 msgid "机修（五卷）"
-msgstr "Machine Repair (Five Volumes)"
+msgstr "Machine Repair (Volume 5)"
 
 #. Key:	230BE6704851B95546575994C2020192
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_0.Text
@@ -1068,7 +1068,7 @@ msgstr "Cold resistance"
 #: /Game/Blueprint/ACF/Item/Book/AutoCreate/BP_Book_JXX04.Default__BP_Book_JXX04_C.ItemInfo.Name
 msgctxt ",3297DACB4D7AD7F6D94F9FAA441FCB59"
 msgid "机修（四卷）"
-msgstr "Machine Repair (Four Volumes)"
+msgstr "Machine Repair (Volume 4)"
 
 #. Key:	32F2C50042D534BEAA1662A2087AC8CA
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_CarInventory01.WBP_CarInventory01_C:WidgetTree.Repir.ToolTipText
@@ -1929,7 +1929,7 @@ msgstr "Virus fatality rate"
 #: /Game/Blueprint/ACF/Data/TableAsset/FoodAssetTable.FoodAssetTable.机修（四卷）.Name_33_B65BC8D64E83EF46F5F21FA5566C3997
 msgctxt ",62C8A03B4DD8D04AB4D1039910593300"
 msgid "机修（四卷）"
-msgstr "Machine Repair (Volume Four)"
+msgstr "Machine Repair (Volume 4)"
 
 #. Key:	64546D1342B88BDB72FB6EA193794E48
 #. SourceLocation:	/Game/Blueprint/UMG/Make/WBP_MakeDetailShow.WBP_MakeDetailShow_C:WidgetTree.FY.Text
@@ -2608,7 +2608,7 @@ msgstr "Machining table"
 #: /Game/Blueprint/ACF/Data/TableAsset/FoodAssetTable.FoodAssetTable.机修（五卷）.Name_33_B65BC8D64E83EF46F5F21FA5566C3997
 msgctxt ",82540EE94040D3082E3DEDB3815DC2C0"
 msgid "机修（五卷）"
-msgstr "Machine Repair (Volume Five)"
+msgstr "Machine Repair (Volume 5)"
 
 #. Key:	82953B6242A3C383327AA28D77B8DB49
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_4.Text
@@ -2671,7 +2671,7 @@ msgstr "Sun"
 #: /Game/Blueprint/ACF/Data/TableAsset/FoodAssetTable.FoodAssetTable.机修（二卷）.Name_33_B65BC8D64E83EF46F5F21FA5566C3997
 msgctxt ",862FBCEC4E05AF3CB5CB8CA91715E3CA"
 msgid "机修（二卷）"
-msgstr "Machine Repair (Volume Two)"
+msgstr "Machine Repair (Volume 2)"
 
 #. Key:	867940C94407F9B1E6580C8C164DED1C
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_DCZDetail.WBP_DCZDetail_C:WidgetTree.TextBlock_233.Text
@@ -3658,7 +3658,7 @@ msgstr "Iron ingots"
 #: /Game/Blueprint/ACF/Item/Book/AutoCreate/BP_Book_JXX03.Default__BP_Book_JXX03_C.ItemInfo.Name
 msgctxt ",BFBAF5F04F9C05F03B1C6FA074EC422E"
 msgid "机修（三卷）"
-msgstr "Machine Repair (Three Volumes)"
+msgstr "Machine Repair (Volume 3)"
 
 #. Key:	C0AECA14478D1D438B3C3098A107B0DE
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_30.Text
@@ -4834,7 +4834,7 @@ msgstr "Power generation"
 #: /Game/Blueprint/ACF/Item/Book/AutoCreate/BP_Book_JXX01.Default__BP_Book_JXX01_C.ItemInfo.Name
 msgctxt ",FE2E91AB497D0DE91BAAE09A668CB143"
 msgid "机修（一卷）"
-msgstr "Machine Repair (One Volume)"
+msgstr "Machine Repair (Volume 1)"
 
 #. Key:	FE7437FF40D4A9F45ABAAF9E4D512372
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_43.In Text
@@ -7424,7 +7424,7 @@ msgstr "Mechanical (Volume 5)"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F94"
 msgid "裁缝（一卷）"
-msgstr "Tailoring (volume 1)"
+msgstr "Tailoring (Volume 1)"
 
 #. Key:	F95
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9055,7 +9055,7 @@ msgstr "Nasolabial fold"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,BJY"
 msgid "背景音"
-msgstr "Background sound"
+msgstr "Music Volume"
 
 #. Key:	BL
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10091,7 +10091,7 @@ msgstr "High"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,HJY"
 msgid "环境音"
-msgstr "Ambient sound"
+msgstr "Ambient Volume"
 
 #. Key:	HMZL
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10105,7 +10105,7 @@ msgstr "Picture Quality"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Hour"
 msgid "小时"
-msgstr "Hour"
+msgstr " Hour"
 
 #. Key:	HSD
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10378,7 +10378,7 @@ msgstr "Brightness"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Level"
 msgid "等级"
-msgstr "Grade"
+msgstr " grade"
 
 #. Key:	Light
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11953,7 +11953,7 @@ msgstr "Self-discipline"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,UI"
 msgid "UI音效"
-msgstr "UI sound effects"
+msgstr "UI Volume"
 
 #. Key:	Use
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12366,7 +12366,7 @@ msgstr "Eye distance"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,YINXIAO"
 msgid "音效"
-msgstr "Sound effect"
+msgstr "Effects Volume"
 
 #. Key:	YJ
 #. SourceLocation:	/Game/LocalizationText/UIStudy.UIStudy
@@ -12555,7 +12555,7 @@ msgstr "Profession"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,ZYL"
 msgid "总音量"
-msgstr "Total volume"
+msgstr "Master Volume"
 
 #. Key:	ZZ
 #. SourceLocation:	/Game/LocalizationText/UI.UI
