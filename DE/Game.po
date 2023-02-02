@@ -1000,6 +1000,13 @@ msgctxt ",2E3B7D0B496CE27913B296A3FCDA5298"
 msgid "空格攀爬"
 msgstr "Kletterfläche"
 
+#. Key:	2E4E281C4C60905365BABAB530907CF2
+#. SourceLocation:	/Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(9).Mappings.PlayerMappableOptions.DisplayName
+#: /Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(9).Mappings.PlayerMappableOptions.DisplayName
+msgctxt ",2E4E281C4C60905365BABAB530907CF2"
+msgid "IA_Interacted1"
+msgstr "IA_interagiert1"
+
 #. Key:	2EB1A0AE4779B42D5BD7DA9800EA980A
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/QT/BP_GunAccessory_CF_QT02.Default__BP_GunAccessory_CF_QT02_C.ItemInfo.Description
 #: /Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/QT/BP_GunAccessory_CF_QT02.Default__BP_GunAccessory_CF_QT02_C.ItemInfo.Description
@@ -3717,6 +3724,13 @@ msgstr "einfache Artikelherstellung"
 msgctxt ",C1CF8D7D4567787F135DFC9C77F6EEB0"
 msgid "机修（三卷）"
 msgstr "Maschinenreparatur (Band 3)"
+
+#. Key:	C29D3E5148224D541E5261AAA1EE196A
+#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_sniper_SKS.Default__ACFGunBase_sniper_SKS_C.ItemInfo.Name
+#: /Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_sniper_SKS.Default__ACFGunBase_sniper_SKS_C.ItemInfo.Name
+msgctxt ",C29D3E5148224D541E5261AAA1EE196A"
+msgid "SKS"
+msgstr "SKS"
 
 #. Key:	C2FB8F65467776E7AEB688BC648150A4
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Bow/BP_ArrowBase.Default__BP_ArrowBase_C.ItemInfo.Name
@@ -12033,6 +12047,48 @@ msgstr "UI-Soundeffekte"
 msgctxt "UI,Use"
 msgid "使用"
 msgstr "verwenden "
+
+#. Key:	USE1
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,USE1"
+msgid "快捷栏1"
+msgstr "Shortcut-Leiste 1"
+
+#. Key:	USE2
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,USE2"
+msgid "快捷栏2"
+msgstr "Shortcut-Leiste 2"
+
+#. Key:	USE3
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,USE3"
+msgid "快捷栏3"
+msgstr "Shortcut-Leiste 3"
+
+#. Key:	USE4
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,USE4"
+msgid "快捷栏4"
+msgstr "Shortcut-Leiste 4"
+
+#. Key:	USE5
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,USE5"
+msgid "快捷栏5"
+msgstr "Shortcut-Leiste 5"
+
+#. Key:	USE6
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,USE6"
+msgid "快捷栏6"
+msgstr "Shortcut-Leiste 6"
 
 #. Key:	useDDFRJ
 #. SourceLocation:	/Game/LocalizationText/UI.UI
