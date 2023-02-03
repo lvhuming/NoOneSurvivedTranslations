@@ -1838,7 +1838,7 @@ msgstr "Ausdauer-Kappe"
 #: /Game/Blueprint/UMG/WBP_BaseCharacter.WBP_BaseCharacter_C:WidgetTree.JDL.Text
 msgctxt ",5CEE296242EF06A6C8AF7BB44F1ACBA6"
 msgid "击倒率"
-msgstr "Knockdown-Rate"
+msgstr "maximale Ausdauer"
 
 #. Key:	5E098A8946EBB7A59DF5BD89A73B1B12
 #. SourceLocation:	/Game/Blueprint/UMG/EscMenu/ScreenSwitch.ScreenSwitch.DisplayNameMap(0 - Value).DisplayNameMap
@@ -1950,7 +1950,7 @@ msgstr "Boden"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_7.Text
 msgctxt ",64D4745841D9C12BDAB22087FE6B4313"
 msgid "机械+"
-msgstr "Mechanisch"
+msgstr "Mechanisch "
 
 #. Key:	64F708BA409C70B2302CF6B3F697174E
 #. SourceLocation:	/Game/Blueprint/ACF/Data/TableAsset/FoodAssetTable.FoodAssetTable.机修（一卷）.Name_33_B65BC8D64E83EF46F5F21FA5566C3997
@@ -4533,7 +4533,7 @@ msgstr "Modell 01"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_39.Text
 msgctxt ",EDD6F13A40AEDE6E8CED81A715877201"
 msgid "保存"
-msgstr "behalten"
+msgstr "übernehmen"
 
 #. Key:	EDEA71F5499188B93E4EF9B0CE0AD262
 #. SourceLocation:	/Game/Blueprint/UMG/EscMenu/ScreenSwitch.ScreenSwitch.DisplayNameMap(1 - Value).DisplayNameMap
@@ -6206,7 +6206,7 @@ msgstr "Straßenschild"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B82"
 msgid "门牌"
-msgstr "Hausnummer"
+msgstr "Schild"
 
 #. Key:	B83
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -9097,7 +9097,7 @@ msgstr "Abbau..."
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Buff"
 msgid "Buff："
-msgstr "Polieren:"
+msgstr "Buff:"
 
 #. Key:	BuffTime
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -9342,7 +9342,7 @@ msgstr "Nachrüsten"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,changwuqi"
 msgid "长武器"
-msgstr "lange Waffe"
+msgstr "Lange Waffe"
 
 #. Key:	CheckSYDL
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10000,7 +10000,7 @@ msgstr "Beziehungswachstum:"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,H"
 msgid "后"
-msgstr "Hinten"
+msgstr "Nach Hinten"
 
 #. Key:	HammerAltWheel
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10238,7 +10238,7 @@ msgstr "Nehmen Sie an einem Multiplayer-Spiel teil"
 #: /Game/LocalizationText/UIStudy.UIStudy
 msgctxt "UI,JX"
 msgid "机械"
-msgstr "mechanisch"
+msgstr "mechanisch "
 
 #. Key:	JXX
 #. SourceLocation:	/Game/LocalizationText/UIStudy.UIStudy
@@ -10735,7 +10735,7 @@ msgstr "Malaria"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,NLSX"
 msgid "耐力上限"
-msgstr "Ausdauer-Kappe"
+msgstr "maximale Ausdauer"
 
 #. Key:	NoFireOrMat
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10973,7 +10973,7 @@ msgstr "Zahl der Toten"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,Q"
 msgid "前"
-msgstr "nach vorne"
+msgstr "Nach vorne"
 
 #. Key:	QARYJ
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11071,7 +11071,7 @@ msgstr "Verlassen"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,QUITGAME"
 msgid "退出游戏"
-msgstr "Beenden Sie das Spiel"
+msgstr " verlässt das Spiel."
 
 #. Key:	QX
 #. SourceLocation:	/Game/LocalizationText/UIStudy.UIStudy
@@ -11134,7 +11134,7 @@ msgstr "Schmelzzeit:"
 #: /Game/LocalizationText/UIStudy.UIStudy
 msgctxt "UI,RQ"
 msgid "锐器"
-msgstr "scharfes S"
+msgstr "Waffenschaden"
 
 #. Key:	RWKZ
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11960,7 +11960,7 @@ msgstr "UI-Soundeffekte"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Use"
 msgid "使用"
-msgstr "verwenden"
+msgstr "verwenden "
 
 #. Key:	USE1
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12443,7 +12443,7 @@ msgstr "Steifheitswiderstand"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,YZL"
 msgid "硬直"
-msgstr "Steifigkeit"
+msgstr "Wiederstandskraft"
 
 #. Key:	Z
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
