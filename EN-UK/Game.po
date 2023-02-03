@@ -1887,7 +1887,7 @@ msgstr "Spring"
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_GameSetting.WBP_GameSetting_C:WidgetTree.ShowTex_10.Text
 msgctxt ",607BE83C437C938E6210A89A4E185196"
 msgid "物资刷新"
-msgstr "Material Refresh"
+msgstr "Loot Respawn Interval"
 
 #. Key:	60C920AE4EEC3040FA97A59FA380B13C
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_ServerSetting.WBP_ServerSetting_C:WidgetTree.ShowTex_4.Text
@@ -3973,7 +3973,7 @@ msgstr "Failed to join!"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_28.In Text
 msgctxt ",D35518064C2D768EC2C3538AA59470B8"
 msgid "水培箱"
-msgstr "Water culture box"
+msgstr "Hydroponics Box"
 
 #. Key:	D3E6F2304D378E9FF9B1678623A9E744
 #. SourceLocation:	/Game/Blueprint/AI/ZombieState.ZombieState.DisplayNameMap(0 - Value).DisplayNameMap
@@ -4309,7 +4309,7 @@ msgstr "10/10"
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_GameSetting.WBP_GameSetting_C:WidgetTree.ShowTex_11.Text
 msgctxt ",E51278044D668F0A8930B08C5B984311"
 msgid "商人物资刷新"
-msgstr "Merchant supplies refresh"
+msgstr "Merchant Restock Interval"
 
 #. Key:	E55D360946BFB010A48B85A3400EDE5D
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Throw/BP_Throw_Base.Default__BP_Throw_Base_C.ItemInfo.Name
@@ -6038,7 +6038,7 @@ msgstr "Timber Wall (Triangle)"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B60"
 msgid "水培箱"
-msgstr "Water culture box"
+msgstr "Hydroponics Box"
 
 #. Key:	B61
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -9069,7 +9069,7 @@ msgstr "Bridge of the nose"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,blood"
 msgid "血腥断肢"
-msgstr "Bloody Amputation"
+msgstr "Gore"
 
 #. Key:	BP
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10084,7 +10084,7 @@ msgstr "Health"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,Height"
 msgid "高度"
-msgstr "High"
+msgstr "Height"
 
 #. Key:	HJY
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10553,7 +10553,7 @@ msgstr "Eyebrow"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,mood"
 msgid "心态"
-msgstr "Mentality"
+msgstr "Mood"
 
 #. Key:	More
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10966,7 +10966,7 @@ msgstr "Protein"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,PSSL"
 msgid "跑尸数量"
-msgstr "Number of dead bodies"
+msgstr "Number of running Zombies"
 
 #. Key:	Q
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11603,7 +11603,7 @@ msgstr "Quit"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,TD"
 msgid "特点"
-msgstr "Features"
+msgstr "Attributes"
 
 #. Key:	TF
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -12205,7 +12205,7 @@ msgstr "Not repaired"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,WZSL"
 msgid "物资数量"
-msgstr "Material quantity"
+msgstr "Loot Quantity"
 
 #. Key:	WZSL01
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -12226,21 +12226,21 @@ msgstr "Normal"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,WZSL03"
 msgid "多"
-msgstr "Many"
+msgstr "Often"
 
 #. Key:	WZSL04
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,WZSL04"
 msgid "极多"
-msgstr "A lot"
+msgstr "Abundant"
 
 #. Key:	XBCD
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,XBCD"
 msgid "下巴长度"
-msgstr "chin length"
+msgstr "Chin length"
 
 #. Key:	XBDX
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
