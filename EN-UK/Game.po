@@ -151,7 +151,7 @@ msgstr "Oil extractor core"
 #: /Game/Blueprint/UMG/Inventory/WBP_ItemToolTip.WBP_ItemToolTip_C:WidgetTree.YZKX.Text
 msgctxt ",06DE10CA423346DE4BF690AA53181AEE"
 msgid "硬直抗性"
-msgstr "Stiff resistance"
+msgstr "Armor Protection"
 
 #. Key:	06F2232E4D634350A46619B26E85B877
 #. SourceLocation:	/Game/Blueprint/UMG/InteractiveMessage/WBP_Key.WBP_Key_C:WidgetTree.TextBlock_26.Text
@@ -305,7 +305,7 @@ msgstr "Malaria, reduced stamina cap and regeneration"
 #: /Game/Blueprint/UMG/WBP_BaseCharacter.WBP_BaseCharacter_C:WidgetTree.YZKX.Text
 msgctxt ",0EAC4CF84F900A49A09DE09F240307B5"
 msgid "硬直抗性"
-msgstr "Stiff resistance"
+msgstr "Armor Protection"
 
 #. Key:	0EC8AC2A406B6453ED52418F305B612D
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_CreateNewCharacter.WBP_CreateNewCharacter_C:ExecuteUbergraph_WBP_CreateNewCharacter [Script Bytecode]
@@ -3602,7 +3602,7 @@ msgstr "Shotgun shell"
 #: /Game/Blueprint/UMG/ScreenMessage/WBP_CarMessage.WBP_CarMessage_C:WidgetTree.UnitLabel_2.Text
 msgctxt ",BB154E9F4CD911E0A5B38BA239AA67F0"
 msgid "燃油"
-msgstr "Fuel oil"
+msgstr "Fuel"
 
 #. Key:	BBE72FFA4841C18D570FA8A38CE5ABC3
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_56.In Text
@@ -4071,7 +4071,7 @@ msgstr "Steel rod"
 #: /Game/Blueprint/UMG/Make/WBP_MakeDetailShow.WBP_MakeDetailShow_C:WidgetTree.FZX.Text
 msgctxt ",D9EB4FA148BE9A866B7468B3096116F5"
 msgid "防抓性"
-msgstr "Anti-scratch"
+msgstr "Scratch Resistance"
 
 #. Key:	D9F39C7546A5C1735F3ED7AB191B0663
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_23.Text
@@ -4162,7 +4162,7 @@ msgstr "F"
 #: /Game/Blueprint/UMG/Make/WBP_MakeDetailShow.WBP_MakeDetailShow_C:WidgetTree.YZKX.Text
 msgctxt ",DE9208FC46FDC129FB0D8ABAB00801F3"
 msgid "硬直抗性"
-msgstr "Stiffness resistance"
+msgstr "Armor Protection"
 
 #. Key:	DEB9042443EF069BF71FC19D24BE6A33
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_41.Text
@@ -4645,7 +4645,7 @@ msgstr "Not enough water!"
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_GameSetting.Default__WBP_GameSetting_C.SSQDSelect(3).SSQDSelect
 msgctxt ",F43A38CA419B4DC62020BDA1712DC2C8"
 msgid "极强"
-msgstr "Extremely strong"
+msgstr "Very Strong"
 
 #. Key:	F4BF7A6C48622D449AFBF195173F9A89
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/WBP_RoomSlot.WBP_RoomSlot_C:ExecuteUbergraph_WBP_RoomSlot [Script Bytecode]
@@ -4701,7 +4701,7 @@ msgstr "Electric furnace"
 #: /Game/Blueprint/UMG/ScreenMessage/WBP_CarMessage.WBP_CarMessage_C:WidgetTree.UnitLabel.Text
 msgctxt ",F63346F142E610BC067F80A6514EA901"
 msgid "车损"
-msgstr "Car damage"
+msgstr "Health"
 
 #. Key:	F698474D4774B3EAED811995AC987E07
 #. SourceLocation:	/Game/Blueprint/UMG/Inventory/WBP_AddRYButton.WBP_AddRYButton_C:OnDrop [Script Bytecode]
@@ -6010,7 +6010,7 @@ msgstr "Dressing table"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B57"
 msgid "电动缝纫机"
-msgstr "Rlectric sewing machine"
+msgstr "Electric sewing machine"
 
 #. Key:	B58
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6465,7 +6465,7 @@ msgstr "Military boots"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,A36"
 msgid "盔甲鞋"
-msgstr "Armour shoes"
+msgstr "Armor shoes"
 
 #. Key:	A37
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -6493,7 +6493,7 @@ msgstr "Backpacks"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,A6"
 msgid "T-shirt"
-msgstr ""
+msgstr "T-Shirt"
 
 #. Key:	A7
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8887,7 +8887,7 @@ msgstr "The corresponding dishes can be obtained by heating the cans separately.
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,08"
 msgid "越好的箭矢回收成功率越高。"
-msgstr "The better the arrow recovery, the higher the success rate."
+msgstr "The better the arrow quality, the higher the recovery success rate."
 
 #. Key:	09
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -8999,7 +8999,7 @@ msgstr "Add to smelting queue"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Armor"
 msgid "护甲"
-msgstr "Armour"
+msgstr "Armor"
 
 #. Key:	Auto
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -9251,7 +9251,7 @@ msgstr "Nose"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,caiji"
 msgid "采集"
-msgstr "collection"
+msgstr "Collection"
 
 #. Key:	cancel
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -9314,7 +9314,7 @@ msgstr "Save name"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,CDTS"
 msgid "请输入一个有效存档名称或者有相同名称的存档存在"
-msgstr "Please enter a valid save name or an save with the same name exists"
+msgstr "Please enter a valid save name or a save with the same name exists"
 
 #. Key:	CF
 #. SourceLocation:	/Game/LocalizationText/UIStudy.UIStudy
@@ -9741,7 +9741,7 @@ msgstr "Action menu"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,DZL"
 msgid "断肢"
-msgstr "Mutilation"
+msgstr "Dismember"
 
 #. Key:	Eat
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -9762,7 +9762,7 @@ msgstr "Equip"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,ETip"
 msgid "拾取 "
-msgstr "PickUp "
+msgstr "Pick Up "
 
 #. Key:	EX
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -9783,7 +9783,7 @@ msgstr "Eye shape"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,fangru"
 msgid "放入"
-msgstr "put into a"
+msgstr "Store"
 
 #. Key:	fayue
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10028,7 +10028,7 @@ msgstr "Turn snapping on/off"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,HammerLeft"
 msgid "建造/长按拆除"
-msgstr "Build / hold to demolish"
+msgstr "Build/hold to demolish"
 
 #. Key:	HammerMiddle
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11057,7 +11057,7 @@ msgstr "Full screen windowed"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,quchu"
 msgid "取出"
-msgstr "Take out"
+msgstr "Take"
 
 #. Key:	Quit
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11253,7 +11253,7 @@ msgstr "Tone"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,SetTipMessage"
 msgid "设置应用完成,某些选项可能需要在游戏重启后生效"
-msgstr "The settings application is complete, some options may need to take effect after restarting the game"
+msgstr "The settings have been applied, some options may need to take effect after restarting the game"
 
 #. Key:	Settting
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11449,14 +11449,14 @@ msgstr "Weak"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,SSND02"
 msgid "一般"
-msgstr "Generally"
+msgstr "Average"
 
 #. Key:	SSND03
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,SSND03"
 msgid "强"
-msgstr "Powerful"
+msgstr "Strong"
 
 #. Key:	SSQD
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11498,7 +11498,7 @@ msgstr "Endurance"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,Start"
 msgid "        丧尸病毒爆发，你躲在避难所生活了三年，但是避难所的资源也逐渐消耗殆尽，你遭到了放逐，接下来你只能靠自己在末世生存下去..."
-msgstr "        The zombie virus broke out, you lived in the shelter for three years, but the resources of the shelter were gradually exhausted, you were exiled, and then you can only survive in the apocalypse by yourself..."
+msgstr "        After a zombie outbreak, you sought refuge in a shelter for three years, but as resources dwindled, you were forced to leave and now must fend for yourself."
 
 #. Key:	StartDl
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12436,14 +12436,14 @@ msgstr "Template"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,YZKX"
 msgid "硬直抵抗"
-msgstr "Stiff resistance"
+msgstr "Armor Protection"
 
 #. Key:	YZL
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,YZL"
 msgid "硬直"
-msgstr "Rigidity"
+msgstr "Tenacity"
 
 #. Key:	Z
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
