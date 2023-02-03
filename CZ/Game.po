@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
 "POT-Creation-Date: 2023-01-26 02:33\n"
-"PO-Revision-Date: 2023-02-02 10:34+0100\n"
+"PO-Revision-Date: 2023-02-03 08:04+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: cs\n"
@@ -78,7 +78,7 @@ msgstr "Obnova se nepodařila!"
 #: In Text
 msgctxt ",0346655D46C4AF76A1D1B3943060F0AB"
 msgid "NIS锐化"
-msgstr "Ostření NIS"
+msgstr "NIS ostření"
 
 #. Key:	03C4AFA9436A2A9CEA6F87A9A52041FC
 #. SourceLocation:	/Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(13 - Value).DisplayNameMap
@@ -341,7 +341,7 @@ msgstr "Brokovnice 870AC"
 #: /Game/Blueprint/ACF/Tutorial/WBP_TutorialTip5.WBP_TutorialTip5_C:WidgetTree.TextBlock_2.Text
 msgctxt ",0FC7B32D443EA06EF7F13BB5DC4C9447"
 msgid "房屋的承重是需要梁柱的，你需要先规划梁柱，才可以建造墙体屋顶"
-msgstr "Nosnost domu vyžaduje trámy a sloupy.Před stavbou stěn a střechy je třeba naplánovat trámy a sloupy."
+msgstr "Nosnost domu vyžaduje trámy a sloupy. Před stavbou stěn a střechy je třeba naplánovat sloupy a trámy."
 
 #. Key:	102D232D42B74EA177476CB075A9B8A8
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(22 - Value).DisplayNameMap
@@ -407,7 +407,7 @@ msgstr "1"
 #: /Game/Blueprint/ACF/Item/Base/Base_Tool.Default__Base_Tool_C.ItemInfo.Description
 msgctxt ",12821CAB41336D8F078E9D8B13F41986"
 msgid "常用于砍伐木头，必要时候页可以用来防身。"
-msgstr "Často se používá k sekání stromů, v případě potřeby lze místo použít k sebeobraně."
+msgstr "Používá se k sekání stromů, v případě potřeby lze použít k sebeobraně."
 
 #. Key:	12C0B13F40681758244398A58FCF8834
 #. SourceLocation:	/Game/Blueprint/ACF/Manager/E_Weather.E_Weather.DisplayNameMap(1 - Value).DisplayNameMap
@@ -707,7 +707,7 @@ msgstr "Mechanika (2 stupeň)"
 #: In Text
 msgctxt ",1E1424C246AA03A9636E0398AD8C1852"
 msgid "开镜鼠标灵敏度"
-msgstr "Citlivost myši"
+msgstr "Citlivost myši zaměřovače"
 
 #. Key:	1E15A74C4CFCF57B6BF8899EB8A30A50
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Materials/AutoCreate/BP_Mat_Sheep01.Default__BP_Mat_Sheep01_C.ItemInfo.Name
@@ -1267,7 +1267,7 @@ msgstr "Pronásledování"
 #: /Game/Blueprint/ACF/Tutorial/WBP_TutorialTip2.WBP_TutorialTip2_C:WidgetTree.TextBlock_53.Text
 msgctxt ",3A5A7CF64A92AEA9CFD151ADFA977830"
 msgid "技能详情页"
-msgstr "Strona ze szczegółami umiejętności"
+msgstr "Stránka s detaily dovedností"
 
 #. Key:	3A6879B749414322EB2621BDD1017E66
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_LoadGame.WBP_LoadGame_C:WidgetTree.WBP_BackSave.In Text
@@ -2106,7 +2106,7 @@ msgstr "Tuto položku zde nelze vložit"
 #: [Script Bytecode]
 msgctxt ",6A59891A49F01853E899699020895B73"
 msgid "没有饲料！"
-msgstr "Nekrmit!"
+msgstr "Bez krmiva!"
 
 #. Key:	6A5A27E642FFA5DC1AF28299BBF84DCA
 #. SourceLocation:	/Game/Blueprint/ACF/ZZ/E_GlassMode.E_GlassMode.DisplayNameMap(0 - Value).DisplayNameMap
@@ -2166,7 +2166,7 @@ msgstr "Vztah: 50"
 #: /Game/Blueprint/ACF/Item/Tool/BP_ToolAxe.Default__BP_ToolAxe_C.ItemInfo.Description
 msgctxt ",6B6E2B914267363D168051958D0E1DF6"
 msgid "主要用于砍树，必要时候也可以用来防身。"
-msgstr "Používá se hlavně ke kácení stromů a v případě potřeby ji lze použít i k sebeobraně."
+msgstr "Používá se ke kácení stromů a v případě potřeby ji lze použít i k sebeobraně."
 
 #. Key:	6BCC8EA647892C6DDF2E86BC4A37CA07
 #. SourceLocation:	/Game/Blueprint/ACF/Tutorial/WBP_TutorialTip1.WBP_TutorialTip1_C:WidgetTree.TextBlock_1.Text
@@ -2255,7 +2255,7 @@ msgstr "Položky v okolí"
 #: /Game/Blueprint/ACF/Tutorial/WBP_TutorialTip6.WBP_TutorialTip6_C:WidgetTree.TextBlock_2.Text
 msgctxt ",6F0E9F7E437D2F62860D7DBCB2CCA2B1"
 msgid "尝试在科技树中解锁工作台，并解锁木板建造"
-msgstr "Zkuste odemknout pracovní stoly v technologickém stromu a odemknout konstrukci z prken."
+msgstr "Zkuste odemknout pracovní stůl v technologickém stromu a odemknout konstrukci z prken."
 
 #. Key:	700402F4456BC61A64D4C8B0B01C8B25
 #. SourceLocation:	/Game/Blueprint/Car/InCarMode.InCarMode.DisplayNameMap(2 - Value).DisplayNameMap
@@ -2299,7 +2299,7 @@ msgstr "Zima"
 #: /Game/Blueprint/ACF/Tutorial/WBP_TutorialTip8.WBP_TutorialTip8_C:WidgetTree.TextBlock_3.Text
 msgctxt ",716F5EBE49D73209F99CFA883796B315"
 msgid "使用稿子击碎石头"
-msgstr "Použít-  nářadí k rozbití kamene"
+msgstr "Použít nářadí k rozbití kamene"
 
 #. Key:	719B3E1D4C94FB1547CDD4BD2E54B1B5
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_CarInventory.WBP_CarInventory_C:WidgetTree.TextBlock_84.Text
@@ -2390,7 +2390,7 @@ msgstr "1"
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_GameSetting.WBP_GameSetting_C:WidgetTree.TextBlock_4.Text
 msgctxt ",7617FC3A4D3F680AB0BBEBACBADB140C"
 msgid "倍"
-msgstr "Čas"
+msgstr "Násobení"
 
 #. Key:	761F4D984F10527EA231C0B8CB66BEA4
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_31.Text
@@ -2656,7 +2656,7 @@ msgstr "Resetovat pozici"
 #: /Game/Blueprint/ACF/Tutorial/WBP_TutorialTip7.WBP_TutorialTip7_C:WidgetTree.TextBlock_3.Text
 msgctxt ",811B025545D9BE8290B8D983D2645CAE"
 msgid "提升枪械技能或安装配件可有效改善后坐力"
-msgstr "Zlepšení dovedností se střelnou zbraní nebo instalace příslušenství může účinně zlepšit zpětný ráz."
+msgstr "Zlepšení dovedností se střelnou zbraní nebo instalace komponentů může účinně zlepšit zpětný ráz."
 
 #. Key:	81A960174CE991FE49649189E5DD74B2
 #. SourceLocation:	/Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_5.TipMessage_41_0D1B7B6342180F0BD1D386A6C8ADE0B3
@@ -2855,7 +2855,7 @@ msgstr "1"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_5.Text
 msgctxt ",8C948C4F4A27919FDC5B268A65FFF9F4"
 msgid "医学+"
-msgstr "Medicína+"
+msgstr "Lékařství+"
 
 #. Key:	8D4C253441E4A1B23D31ABBE84ABCBF1
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_23.In Text
@@ -2908,7 +2908,7 @@ msgstr "Ocelové kladivo"
 #: Text
 msgctxt ",9100D96D4063969FA14D27937E72AC6D"
 msgid "感冒药"
-msgstr "Lék na nachlazení"
+msgstr "Lék proti nachlazení a chřipce"
 
 #. Key:	91FF2310440E4C0B3EDA64998B153170
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_sniper_SKS.Default__ACFGunBase_sniper_SKS_C.ItemInfo.Name
@@ -3039,7 +3039,7 @@ msgstr "Nastavení útočných vln zombie"
 #: [Script Bytecode]
 msgctxt ",997299584F3A56724AEEECA4B30B17F9"
 msgid "没有修理工具！"
-msgstr "Žádné nářadí na opravu!"
+msgstr "Žádné materiál na opravu!"
 
 #. Key:	9A7ABEAA4E2C05AB00E7988389E19EB0
 #. SourceLocation:	/Game/Blueprint/UMG/EscMenu/WBP_Dead.WBP_Dead_C:ExecuteUbergraph_WBP_Dead [Script Bytecode]
@@ -3062,7 +3062,7 @@ msgstr "Při zvýšení infekčnosti viru potřebujete více protilátek."
 #: [Script Bytecode]
 msgctxt ",9B6E782A4617B9BA87703EB8BE12EB15"
 msgid "游戏版本不一致！"
-msgstr "Verze hry nesprávná!"
+msgstr "Verze hry je nesprávná!"
 
 #. Key:	9C8DC67F48B1B4F6E7242FB302464676
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_29.In Text
@@ -3324,7 +3324,7 @@ msgstr "Rychlost"
 #: [Script Bytecode]
 msgctxt ",AAB9D5FF4458F2D4E9935FB728FDA69C"
 msgid "燃料："
-msgstr "palivo:"
+msgstr "Palivo:"
 
 #. Key:	AABC005949F38ECF029CCB98AA9B1B58
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_36.In Text
@@ -3355,7 +3355,7 @@ msgstr "Krabice pro ukládání předmětů bez jejich ztráty."
 #: Text
 msgctxt ",AC0F2FD840D825001A5E109409157C69"
 msgid "钢双手刀"
-msgstr "Ocelový dvouruční nůž"
+msgstr "Ocelový obouruční nůž"
 
 #. Key:	AC84840B4539E7BC652898AC86BCECF8
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/QK/BP_GunAccessoryQK_JJ_BC01.Default__BP_GunAccessoryQK_JJ_BC01_C.ItemInfo.Description
@@ -3679,7 +3679,7 @@ msgstr "Málo vody!"
 #: - Value).DisplayNameMap
 msgctxt ",B9D7AFBD4A45230EE8CB6D8FB180E276"
 msgid "HorizontalBeam"
-msgstr "Horizontální paprsek"
+msgstr "Horizontální nosník"
 
 #. Key:	BA61CA90482606E8AE102EAA35CFD199
 #. SourceLocation:	/Game/Blueprint/UMG/NPCUMG/WBP_JYDetail.WBP_JYDetail_C:WidgetTree.MyT.Text
@@ -3701,7 +3701,7 @@ msgstr "Brokovnicová kulka"
 #: /Game/Blueprint/UMG/ScreenMessage/WBP_CarMessage.WBP_CarMessage_C:WidgetTree.UnitLabel_2.Text
 msgctxt ",BB154E9F4CD911E0A5B38BA239AA67F0"
 msgid "燃油"
-msgstr "Topný olej"
+msgstr "Množství paliva"
 
 #. Key:	BBE72FFA4841C18D570FA8A38CE5ABC3
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_56.In Text
@@ -3761,7 +3761,7 @@ msgstr "Železný ingot"
 #: /Game/Blueprint/ACF/Item/Book/AutoCreate/BP_Book_JXX03.Default__BP_Book_JXX03_C.ItemInfo.Name
 msgctxt ",BFBAF5F04F9C05F03B1C6FA074EC422E"
 msgid "机修（三卷）"
-msgstr "Mechanika (3stupeň)"
+msgstr "Mechanika (3.stupeň)"
 
 #. Key:	C0AECA14478D1D438B3C3098A107B0DE
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_30.Text
@@ -3965,14 +3965,14 @@ msgstr "Odstranit"
 #: /Game/Blueprint/ACF/Item/Weapon/ShortBlunt/BP_ShortBluntBase.Default__BP_ShortBluntBase_C.ItemInfo.Name
 msgctxt ",CCA911E24A891D88411C579C713650AF"
 msgid "短单斧"
-msgstr "Krátká jednoduchá sekera"
+msgstr "Krátká sekera"
 
 #. Key:	CCBFH
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",CCBFH"
 msgid "拆除不返还材料,但获得工程经验"
-msgstr "Žádný materiál se nevrací k demolici, ale získávají se zkušenosti."
+msgstr "Žádný materiál se nevrací, ale získávají se zkušenosti."
 
 #. Key:	CCEA1679435409D6C3183B863520690B
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_92.In Text
@@ -4047,7 +4047,7 @@ msgstr "Zatížení"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",checknuild"
 msgid "无承重结构或有物品阻止建造"
-msgstr "Žádná nosná konstrukce nebo něco, co brání výstavbě."
+msgstr "Není nosná konstrukce, nebo něco brání výstavbě."
 
 #. Key:	D043E12D482ACE499BF8358CC1C2D9D1
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/WB/BP_GunAccessory_WB_SJ01.Default__BP_GunAccessory_WB_SJ01_C.ItemInfo.Description
@@ -4165,7 +4165,7 @@ msgstr "Běžné dřevo"
 #: /Game/Blueprint/UMG/Furniture/WBP_YZ.WBP_YZ_C:WidgetTree.Image_177.ToolTipText
 msgctxt ",D7B75BC9443B7B5148D2E9976E0E11BF"
 msgid "将两只性别不同且可繁殖的同种动物单独放在一个饲养栏里面，动物就有几率繁殖"
-msgstr "Umístěte dvě zvířata stejného druhu s různým pohlavím a mohou se rozmnožovat v jednom chovném kotci a zvířata mají šanci se rozmnožit."
+msgstr "Umístěte dvě zvířata stejného druhu s různým pohlavím a mohou se rozmnožovat v jednom chovném kotci, zvířata mají šanci se rozmnožit."
 
 #. Key:	D7FC708C4BA2295B2E317CA2612C1A73
 #. SourceLocation:	/Game/Blueprint/ACF/Tutorial/WBP_TutorialTip6.WBP_TutorialTip6_C:WidgetTree.TextBlock_1.Text
@@ -4374,7 +4374,7 @@ msgstr "Jste si jisti, že chcete uloženou pozici odstranit?"
 #: /Game/Blueprint/ACF/Tutorial/WBP_TutorialTip7.WBP_TutorialTip7_C:WidgetTree.TextBlock_2.Text
 msgctxt ",E14242274DBF33A81F07A280CB8FA63E"
 msgid "长按鼠标右键是第三人称瞄准，单击鼠标右键是第一人称精确瞄准"
-msgstr "Stisknutím a podržením pravého tlačítka myši zaměříte z třetí osoby a kliknutím pravým tlačítkem myši zaměříte přesně z pohledu první osoby."
+msgstr "Stisknutím a podržením pravého tlačítka myši zaměříte z třetí osoby a kliknutím pravým tlačítkem myši zaměříte z pohledu první osoby."
 
 #. Key:	E16F5BCF44D95B80F815FE9A3268E147
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_CarInventory01.WBP_CarInventory01_C:WidgetTree.TextRY.Text
@@ -4411,7 +4411,7 @@ msgstr "Protein-"
 #: Text
 msgctxt ",E32F7EBE45F0A70080AA5794DE3DD882"
 msgid "铁矛"
-msgstr "Železný Ingot"
+msgstr "Železné kopí"
 
 #. Key:	E3406AF84800668795F5B3B077058216
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_15.In Text
@@ -4749,7 +4749,7 @@ msgstr "Zrušit"
 #: /Game/Blueprint/ACF/Tutorial/WBP_TutorialTip1.WBP_TutorialTip1_C:WidgetTree.TextBlock.Text
 msgctxt ",F2B173ED4B109BFEC501D4AE3C3DB117"
 msgid "注意下方武器栏位，前两格是长武器栏位，后面四格是短武器栏位"
-msgstr "Všimněte si níže uvedených slotů pro zbraně: první dva sloty jsou sloty pro dlouhé zbraně a poslední čtyři sloty jsou sloty pro krátké zbraně."
+msgstr "Všimněte si níže uvedených slotů pro zbraně: první dva sloty jsou sloty pro dlouhé zbraně a další čtyři sloty pro krátké zbraně."
 
 #. Key:	F302E02F4A257C60ED0E7C8A726B7B18
 #. SourceLocation:	/Game/HDCKBuildingSystem/Table/E_SelectTypeChild.E_SelectTypeChild.DisplayNameMap(0 - Value).DisplayNameMap
@@ -4757,7 +4757,7 @@ msgstr "Všimněte si níže uvedených slotů pro zbraně: první dva sloty jso
 #: - Value).DisplayNameMap
 msgctxt ",F302E02F4A257C60ED0E7C8A726B7B18"
 msgid "Beam"
-msgstr "Paprsek"
+msgstr "Nosník"
 
 #. Key:	F370F6994C20551E3A9968870FACCF36
 #. SourceLocation:	/Game/Blueprint/UMG/Inventory/WBP_UseMenu.WBP_UseMenu_C:ExecuteUbergraph_WBP_UseMenu [Script Bytecode]
@@ -4765,7 +4765,7 @@ msgstr "Paprsek"
 #: [Script Bytecode]
 msgctxt ",F370F6994C20551E3A9968870FACCF36"
 msgid "丢弃物品"
-msgstr "Vyřazené položky"
+msgstr "Vyřazené předměty"
 
 #. Key:	F379E18A4638559A34899CA1B9FEEAF5
 #. SourceLocation:	/Game/Blueprint/UMG/Inventory/WBP_ItemToolTip.WBP_ItemToolTip_C:WidgetTree.KHX.Text
@@ -6434,7 +6434,7 @@ msgstr "Betonová podlaha"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,A1"
 msgid "简易布包"
-msgstr "Jednoduchá látková taška"
+msgstr "Jednoduchý batoh"
 
 #. Key:	A10
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -6644,7 +6644,7 @@ msgstr "Pancéřové boty"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,A37"
 msgid "肩灯"
-msgstr "Svítilna"
+msgstr "Baterka na rameno"
 
 #. Key:	A4
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8156,7 +8156,7 @@ msgstr "Elektrický sporák"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M61"
 msgid "冷凝器"
-msgstr "Topná vložka"
+msgstr "Kondezátor"
 
 #. Key:	M62
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8373,7 +8373,7 @@ msgstr "Dospělá Ovce"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M9"
 msgid "布料"
-msgstr "Látka"
+msgstr "Tkanina"
 
 #. Key:	M90
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8632,7 +8632,7 @@ msgstr "Stavební kladivo"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W10"
 msgid "火把"
-msgstr "Svítilna"
+msgstr "Pochodeň"
 
 #. Key:	W11
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8751,7 +8751,7 @@ msgstr "Lucille"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W26"
 msgid "铁矛"
-msgstr "Železný Ingot"
+msgstr "Železné kopí "
 
 #. Key:	W27
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8835,7 +8835,7 @@ msgstr "Ocelová mačeta"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W37"
 msgid "钢双手刀"
-msgstr "Ocelový dvouruční nůž"
+msgstr "Ocelový obouruční nůž"
 
 #. Key:	W38
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8891,7 +8891,7 @@ msgstr "Domácí granát"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W44"
 msgid "沙鹰"
-msgstr "Desert Eagle"
+msgstr "Magnum 44"
 
 #. Key:	W45
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9329,7 +9329,7 @@ msgstr "Nosnost:"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,BuildingCraft"
 msgid "合成"
-msgstr "Syntéza"
+msgstr "Naučeno"
 
 #. Key:	BuildingDestroy
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -9413,7 +9413,7 @@ msgstr "Stěna"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,BX"
 msgid "鼻型"
-msgstr "Nos"
+msgstr "Tvar nosu"
 
 #. Key:	BZ
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -9581,7 +9581,7 @@ msgstr "Umýt se"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Close"
 msgid "关闭"
-msgstr "Zavřít"
+msgstr "Vypnout"
 
 #. Key:	confirm
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -9665,7 +9665,7 @@ msgstr "Zranění"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Day"
 msgid "天"
-msgstr "Nebo"
+msgstr "Dny"
 
 #. Key:	DBD
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -9763,7 +9763,7 @@ msgstr "Pro pokračování klikněte zde"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,DK"
 msgid "断开"
-msgstr "Odpojení"
+msgstr "Odpojit"
 
 #. Key:	DL
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -9889,7 +9889,7 @@ msgstr "Menu Akce"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,DZL"
 msgid "断肢"
-msgstr "amputace končetiny"
+msgstr "Amputace končetiny"
 
 #. Key:	Eat
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -9917,14 +9917,14 @@ msgstr "vyzvednout"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,EX"
 msgid "耳型"
-msgstr "typ ucha"
+msgstr "Typ ucha"
 
 #. Key:	EYEX
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,EYEX"
 msgid "眼型"
-msgstr "typ oka"
+msgstr "Typ oka"
 
 #. Key:	fangru
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10043,7 +10043,7 @@ msgstr "Kvalita"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,FSR2"
 msgid "平衡"
-msgstr "Přehled"
+msgstr "Vyrovnaný"
 
 #. Key:	FSR3
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10071,7 +10071,7 @@ msgstr "Reflexní kvalita"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Ftip"
 msgid "使用"
-msgstr "Použít- "
+msgstr "Použít "
 
 #. Key:	FX
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10106,7 +10106,7 @@ msgstr "Jas"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,GB"
 msgid "关闭"
-msgstr "Zavřít"
+msgstr "Vypnout"
 
 #. Key:	GC
 #. SourceLocation:	/Game/LocalizationText/UIStudy.UIStudy
@@ -10509,7 +10509,7 @@ msgstr "Jas"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Level"
 msgid "等级"
-msgstr "Třída"
+msgstr " Stupeň "
 
 #. Key:	Light
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11097,7 +11097,7 @@ msgstr "Protein"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,PSSL"
 msgid "跑尸数量"
-msgstr "Počet zabitých "
+msgstr "Rychlost Zombie"
 
 #. Key:	Q
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11558,7 +11558,7 @@ msgstr "Mám tu pro tebe něco na výměnu."
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SS14"
 msgid "我想和你做笔交易"
-msgstr "Chci s vámi uzavřít dohodu"
+msgstr "Chci s vámi obchodovat"
 
 #. Key:	SSJSSL01
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11784,8 +11784,8 @@ msgid ""
 "体力\r\n"
 "每减少30点体力，伤害降低25%（不影响枪械）"
 msgstr ""
-"Výdrž\r\n"
-"Poškození se snižuje o 25 % za každých 30 bodů snížení výdrže (nemá vliv na střelné zbraně)."
+"Fyzická síla\r\n"
+"Poškození se snižuje o 25 % za každých 30 bodů, snížení síly (nemá vliv na střelné zbraně)."
 
 #. Key:	toLen
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11799,14 +11799,14 @@ msgstr "Text je dlouhý!"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,TPSCSL"
 msgid "尸潮生成数量"
-msgstr "Počet generovaných vln zombie"
+msgstr "Počet generovaných zombie ve vlnách"
 
 #. Key:	TQEnd
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,TQEnd"
 msgid "关闭"
-msgstr "Zavřít"
+msgstr "Vypnout"
 
 #. Key:	TQStart
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11862,14 +11862,14 @@ msgstr "Ovlivňuje život, limit výdrže"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZFYF"
 msgid "细皮嫩肉"
-msgstr "Jemná kůže a křehká dužina"
+msgstr "Jemná kůže"
 
 #. Key:	TZFYZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZFYZ"
 msgid "皮糙肉厚"
-msgstr "Tlustá kůže a tlusté maso"
+msgstr "Hrubá kůže "
 
 #. Key:	TZFZF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -12100,7 +12100,7 @@ msgstr "Zvuk uživatelského rozhraní"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Use"
 msgid "使用"
-msgstr "Použít- "
+msgstr "Použít "
 
 #. Key:	useDDFRJ
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12496,14 +12496,14 @@ msgstr "Resetování všech dovedností po smrti"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,YNDSJ"
 msgid "一年的时间"
-msgstr "Rok"
+msgstr "Počet dní na rok"
 
 #. Key:	YX
 #. SourceLocation:	/Game/LocalizationText/UIStudy.UIStudy
 #: /Game/LocalizationText/UIStudy.UIStudy
 msgctxt "UI,YX"
 msgid "医学"
-msgstr "Léky"
+msgstr "Lékařství"
 
 #. Key:	YXND
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -12538,14 +12538,14 @@ msgstr "Šablony"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,YZKX"
 msgid "硬直抵抗"
-msgstr "Odolnost proti nákaze"
+msgstr "Odolnost-Oblečení"
 
 #. Key:	YZL
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,YZL"
 msgid "硬直"
-msgstr "Rezistence"
+msgstr "Odolnost-Reakce postavy"
 
 #. Key:	Z
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
