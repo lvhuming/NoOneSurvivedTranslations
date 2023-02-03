@@ -2979,7 +2979,7 @@ msgstr "A versão do jogo é inconsistente!"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_29.In Text
 msgctxt ",9C8DC67F48B1B4F6E7242FB302464676"
 msgid "酿酒桶"
-msgstr "Barril de Vinho"
+msgstr "Barril de Fermentação"
 
 #. Key:	9D3F81C54102184380CBC1AE93CB0064
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/WBP_Main.WBP_Main_C:ExecuteUbergraph_WBP_Main [Script Bytecode]
@@ -4260,7 +4260,7 @@ msgstr "Mobília"
 #: /Game/Blueprint/UMG/Furniture/WBP_ShowDCZ.WBP_ShowDCZ_C:WidgetTree.Name.Text
 msgctxt ",E2E0964B4D190CE50F62B589079F730D"
 msgid "电池组"
-msgstr "Bancada de Baterias"
+msgstr "Mesa de Baterias"
 
 #. Key:	E31C6DA3490AA4EB9661B184FAD08B65
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_19.Text
@@ -4435,7 +4435,7 @@ msgstr "{0}{1}"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_6.Text
 msgctxt ",E968D2B9404C381673D22FBDED974E1F"
 msgid "电气化学+"
-msgstr "Eletroquímica+"
+msgstr "Elétrica+"
 
 #. Key:	E987BA7A4F40FB8392162989C15EBC20
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_93.In Text
@@ -4694,7 +4694,7 @@ msgstr "{0}{1}"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_58.In Text
 msgctxt ",F618CC164355622BE74E469B9F2F7BDA"
 msgid "电熔炉"
-msgstr "Forno Elétrico"
+msgstr "Forja Elétrica"
 
 #. Key:	F63346F142E610BC067F80A6514EA901
 #. SourceLocation:	/Game/Blueprint/UMG/ScreenMessage/WBP_CarMessage.WBP_CarMessage_C:WidgetTree.UnitLabel.Text
@@ -4883,7 +4883,7 @@ msgstr "Para conectar telhados de canto externo."
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_53.In Text
 msgctxt ",FF2F50414387532F4542DC831B775CDC"
 msgid "电池组"
-msgstr "Bancada de Baterias"
+msgstr "Mesa de Baterias"
 
 #. Key:	FF7908124DFD99DC2113E299B7A4DF92
 #. SourceLocation:	/Game/Blueprint/ACF/Tutorial/WBP_TutorialTip1.WBP_TutorialTip1_C:WidgetTree.TextBlock_2.Text
@@ -5898,7 +5898,7 @@ msgstr "Purificador de Água"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B42"
 msgid "电池组"
-msgstr "Bancada de Baterias"
+msgstr "Mesa de Baterias"
 
 #. Key:	B43
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6059,7 +6059,7 @@ msgstr "Colméia"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B63"
 msgid "酿酒桶"
-msgstr "Barril de Vinho"
+msgstr "Barril de Fermentação"
 
 #. Key:	B64
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6675,7 +6675,7 @@ msgstr "Lata de Ração de Cachorro"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F119"
 msgid "蔬菜罐头"
-msgstr "Lata de Legumes"
+msgstr "Lata de Yakisoba"
 
 #. Key:	F12
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -6724,7 +6724,7 @@ msgstr "Cerveja"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F125"
 msgid "玉米酒"
-msgstr "Vinho de Milho"
+msgstr "Cachaça de Milho"
 
 #. Key:	F126
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -6780,28 +6780,28 @@ msgstr "Ovos Cozidos"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F132"
 msgid "菜药膳"
-msgstr "Receita: Salada de Legumes"
+msgstr "Filé com Ervas"
 
 #. Key:	F133
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F133"
 msgid "美味菜药膳"
-msgstr "Receita: Carne e Legumes"
+msgstr "Receita de Filé com Ervas"
 
 #. Key:	F134
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F134"
 msgid "肉药膳"
-msgstr "Receita: Carne e Ervas"
+msgstr "Filé com Ervas Finas"
 
 #. Key:	F135
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F135"
 msgid "美味肉药膳"
-msgstr "Receita: Carne e Ervas"
+msgstr "Receita de Filé com Ervas Finas"
 
 #. Key:	F14
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -6899,14 +6899,14 @@ msgstr "Churrasco"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F26"
 msgid "烤蔬菜"
-msgstr "Legumes Assados"
+msgstr "Legumes Cozidos"
 
 #. Key:	F27
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F27"
 msgid "失败料理"
-msgstr "Falha ao Cozinhar"
+msgstr "Gororoba"
 
 #. Key:	F28
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -6934,21 +6934,21 @@ msgstr "Milho"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F30"
 msgid "炖菜"
-msgstr "Ensopado Tradicional"
+msgstr "Ensopado de Legumes"
 
 #. Key:	F31
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F31"
 msgid "蜜汁炖菜"
-msgstr "Ensopado de Mel"
+msgstr "Lombo na Mostarda e Mel"
 
 #. Key:	F32
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F32"
 msgid "菜汤"
-msgstr "Sopa de Legumes"
+msgstr "Sopa Verde"
 
 #. Key:	F33
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -6962,7 +6962,7 @@ msgstr "Frutas em Calda"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F34"
 msgid "炖水果"
-msgstr "Salada de Frutas"
+msgstr "Compota de Frutas em Calda"
 
 #. Key:	F35
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -6976,28 +6976,28 @@ msgstr "Salada de Frutas"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F36"
 msgid "蔬菜炖肉"
-msgstr "Sopa de Macarrão e Legumes"
+msgstr "Yakisoba"
 
 #. Key:	F37
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F37"
 msgid "水果炖肉"
-msgstr "Ensopado de Frutas"
+msgstr "Chili Picante"
 
 #. Key:	F38
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F38"
 msgid "蜜汁炖肉"
-msgstr "Ensopado de Mel"
+msgstr "Lombo ao Molho de Mostarda e Mel"
 
 #. Key:	F39
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F39"
 msgid "浓郁炖肉"
-msgstr "Ensopado de Carne"
+msgstr "Feijoada"
 
 #. Key:	F4
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7039,42 +7039,42 @@ msgstr "Sanduíche"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F44"
 msgid "美味蜜汁炖菜"
-msgstr "Ensopado de Mel"
+msgstr "Lombo ao Molho de Mostarda e Mel Gourmet"
 
 #. Key:	F45
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F45"
 msgid "美味炖菜"
-msgstr "Ensopado Tradicional"
+msgstr "Yakisoba Gourmet"
 
 #. Key:	F46
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F46"
 msgid "美味蜜汁水果"
-msgstr "Suco de Frutas"
+msgstr "Suco de Frutas Gourmet"
 
 #. Key:	F47
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F47"
 msgid "美味炖水果"
-msgstr "Compota de Frutas"
+msgstr "Compota de Frutas Gourmet"
 
 #. Key:	F48
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F48"
 msgid "美味蔬菜炖肉"
-msgstr "Sopa Tradicional"
+msgstr "Yakisoba Gourmet"
 
 #. Key:	F49
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F49"
 msgid "美味水果炖肉"
-msgstr "Ensopado de Frutas"
+msgstr "Chili Picante Gourmet"
 
 #. Key:	F5
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7088,14 +7088,14 @@ msgstr "Tomate"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F50"
 msgid "美味蜜汁炖肉"
-msgstr "Ensopado de Mel"
+msgstr "Caldo de Mel Gourmet"
 
 #. Key:	F51
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F51"
 msgid "美味浓郁炖肉"
-msgstr "Ensopado Tradicional"
+msgstr "Feijoada Gourmet"
 
 #. Key:	F52
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7204,31 +7204,31 @@ msgstr "Cantil"
 
 #. Key:	F66
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
-#: /Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo (Lata Verde)
 msgctxt "ItemInfo,F66"
 msgid "蔬菜肉罐头"
-msgstr "Lata de Carne com Legumes"
+msgstr "Lata de Carne com Chili"
 
 #. Key:	F67
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F67"
 msgid "水果肉罐头"
-msgstr "Lata de Polpa de Frutas"
+msgstr "Lata de Chili Picante"
 
 #. Key:	F68
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F68"
 msgid "蜜汁肉罐头"
-msgstr "Lata de Carne ao Molho de Mel"
+msgstr "Lata de Lombo na Mostarda e Mel"
 
 #. Key:	F69
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F69"
 msgid "浓郁肉罐头"
-msgstr "Lata de Carne"
+msgstr "Lata de Feijoada Brasileira"
 
 #. Key:	F7
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7242,28 +7242,28 @@ msgstr "Morango"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F70"
 msgid "美味蔬菜肉罐头"
-msgstr "Lata de Carne com Legumes"
+msgstr "Lata de Carne com Legumes Gourmet"
 
 #. Key:	F71
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F71"
 msgid "美味水果肉罐头"
-msgstr "Deliciosa Lata de Carne com Frutas"
+msgstr "Lata de Chili Picante Gourmet"
 
 #. Key:	F72
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F72"
 msgid "美味蜜汁肉罐头"
-msgstr "Lata de Carne ao Molho de Mel"
+msgstr "Lombo na Mostarda e Mel Gourmet"
 
 #. Key:	F73
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F73"
 msgid "美味浓郁肉罐头"
-msgstr "Lata de Carne"
+msgstr "Lata de Carne Gourmet"
 
 #. Key:	F74
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7347,35 +7347,35 @@ msgstr "Medicina (Volume 5)"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F84"
 msgid "电气化学科（一卷）"
-msgstr "Eletroquímica (Volume 1)"
+msgstr "Elétrica (Volume 1)"
 
 #. Key:	F85
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F85"
 msgid "电气化学科（二卷）"
-msgstr "Eletroquímica (Volume 2)"
+msgstr "Elétrica (Volume 2)"
 
 #. Key:	F86
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F86"
 msgid "电气化学科（三卷）"
-msgstr "Eletroquímica (Volume 3)"
+msgstr "Elétrica (Volume 3)"
 
 #. Key:	F87
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F87"
 msgid "电气化学科（四卷）"
-msgstr "Eletroquímica (Volume 4)"
+msgstr "Elétrica (Volume 4)"
 
 #. Key:	F88
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F88"
 msgid "电气化学科（五卷）"
-msgstr "Eletroquímica (Volume 5)"
+msgstr "Elétrica (Volume 5)"
 
 #. Key:	F89
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -10126,7 +10126,7 @@ msgstr "Barba"
 #: /Game/LocalizationText/UIStudy.UIStudy
 msgctxt "UI,HX"
 msgid "电气化"
-msgstr "Eletroquímica"
+msgstr "Elétrica"
 
 #. Key:	hygiene
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -12380,7 +12380,7 @@ msgstr "Metalurgia"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,YJSW"
 msgid "永久死亡"
-msgstr "Morte Permanente"
+msgstr "Morte Permanente (Permadeath)"
 
 #. Key:	YJSWTS
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -12563,4 +12563,3 @@ msgstr "Volume Total"
 msgctxt "UI,ZZ"
 msgid "一小包种子"
 msgstr "Pacote de Sementes Pequeno"
-
