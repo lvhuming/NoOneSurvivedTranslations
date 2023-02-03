@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-02-01 12:05\n"
-"PO-Revision-Date: 2023-02-01 12:05\n"
+"POT-Creation-Date: 2023-02-03 01:56\n"
+"PO-Revision-Date: 2023-02-03 01:56\n"
 "Language-Team: \n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -109,7 +109,7 @@ msgstr "Wasseraufnahme"
 #: /Game/Blueprint/UMG/Furniture/WBP_StoneFire.WBP_StoneFire_C:WidgetTree.WBP_AddButton.ToolTipText
 msgctxt ",04FCF26444412C856D5A75A17C9A112E"
 msgid "拖入可燃物，比如树枝，原木"
-msgstr "Ziehen Sie brennbare Materialien wie Zweige, Baumstämme ein"
+msgstr "Ziehen Sie brennbare Materialien wie Zweige, Baumstämme hinein"
 
 #. Key:	051EB7E247B1A161EC90F1903338C060
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/WBP_SaveSlot.WBP_SaveSlot_C:WidgetTree.Time.Text
@@ -186,7 +186,7 @@ msgstr "1"
 #: /Game/Blueprint/UMG/Furniture/WBP_PZX.WBP_PZX_C:WidgetTree.TextBlock_115.Text
 msgctxt ",083B1BA040DBE2557CB0B19B0D70C5E1"
 msgid "铲掉"
-msgstr "Schaufel ab"
+msgstr "entwurzeln"
 
 #. Key:	08932B364A170FBCBE3BC5A1DD392BF1
 #. SourceLocation:	/Game/Blueprint/UMG/InteractiveMessage/Interactive.Interactive.DisplayNameMap(3 - Value).DisplayNameMap
@@ -733,13 +733,6 @@ msgstr "IA_OpenMap"
 msgctxt ",2106FC62413F2CDFB6EC42B1F1F2C390"
 msgid "耐久度："
 msgstr "Haltbarkeit:"
-
-#. Key:	212FFBA3493769C9C4FA938375E1614C
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_sniper_SVD.Default__ACFGunBase_sniper_SVD_C.ItemInfo.Name
-#: /Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_sniper_SVD.Default__ACFGunBase_sniper_SVD_C.ItemInfo.Name
-msgctxt ",212FFBA3493769C9C4FA938375E1614C"
-msgid "SVD"
-msgstr "SVD"
 
 #. Key:	2191E6F14098A0C04EFC4FA4B26ECAE8
 #. SourceLocation:	/Game/Blueprint/UMG/ScreenMessage/WBP_GunMessage.WBP_GunMessage_C:ExecuteUbergraph_WBP_GunMessage [Script Bytecode]
@@ -1845,7 +1838,7 @@ msgstr "Ausdauer-Kappe"
 #: /Game/Blueprint/UMG/WBP_BaseCharacter.WBP_BaseCharacter_C:WidgetTree.JDL.Text
 msgctxt ",5CEE296242EF06A6C8AF7BB44F1ACBA6"
 msgid "击倒率"
-msgstr "Knockdown-Rate"
+msgstr "maximale Ausdauer"
 
 #. Key:	5E098A8946EBB7A59DF5BD89A73B1B12
 #. SourceLocation:	/Game/Blueprint/UMG/EscMenu/ScreenSwitch.ScreenSwitch.DisplayNameMap(0 - Value).DisplayNameMap
@@ -1957,7 +1950,7 @@ msgstr "Boden"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_7.Text
 msgctxt ",64D4745841D9C12BDAB22087FE6B4313"
 msgid "机械+"
-msgstr "Mechanisch"
+msgstr "Mechanisch "
 
 #. Key:	64F708BA409C70B2302CF6B3F697174E
 #. SourceLocation:	/Game/Blueprint/ACF/Data/TableAsset/FoodAssetTable.FoodAssetTable.机修（一卷）.Name_33_B65BC8D64E83EF46F5F21FA5566C3997
@@ -2372,15 +2365,6 @@ msgctxt ",76EED28C44F6D66538B4C99266E28A6E"
 msgid "1"
 msgstr "1"
 
-
-#. Key:	7725EE9F4777E8F1DABB0DB27EB4E422
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/LongBlunt/BP_LongBluntStick_G.Default__BP_LongBluntStick_G_C.ItemInfo.Description
-#: /Game/Blueprint/ACF/Item/Weapon/LongBlunt/BP_LongBluntStick_G.Default__BP_LongBluntStick_G_C.ItemInfo.Description
-#, fuzzy
-msgctxt ",7725EE9F4777E8F1DABB0DB27EB4E422"
-msgid "露茜儿++"
-msgstr "Lucille++"
-
 #. Key:	773514DA428374A3C878C2A4D195D279
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/WB/BP_GunAccessory_WB_SJ02.Default__BP_GunAccessory_WB_SJ02_C.ItemInfo.Description
 #: /Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/WB/BP_GunAccessory_WB_SJ02.Default__BP_GunAccessory_WB_SJ02_C.ItemInfo.Description
@@ -2637,22 +2621,8 @@ msgstr "Waffen"
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/WBP_Main.WBP_Main_C:WidgetTree.TextBlock_0.Text
 #: /Game/Blueprint/UMG/MainUI/WBP_Main.WBP_Main_C:WidgetTree.TextBlock_0.Text
 msgctxt ",836EB7AB40D4C893FD6B23A855BE4F36"
-msgid ""
-"公告：\r\n"
-"\r\n"
-"因为游戏采用了最新的UnrealEngine5引擎，为了获得最好的游戏体验，请将显卡驱动升级到最新版本。\r\n"
-"\r\n"
-"否则你可能会看到模型显示不完整等情况。\r\n"
-"\r\n"
-"感谢！"
-msgstr ""
-"Bekanntmachung:\r\n"
-"\r\n"
-"Da das Spiel die neueste UnrealEngine5-Engine verwendet, aktualisieren Sie bitte den Grafikkartentreiber auf die neueste Version, um das beste Spielerlebnis zu erhalten.\r\n"
-"\r\n"
-"Andernfalls sehen Sie möglicherweise die Modellanzeige unvollständig usw.\r\n"
-"\r\n"
-"dankbar!"
+msgid "公告：\r\n\r\n因为游戏采用了最新的UnrealEngine5引擎，为了获得最好的游戏体验，请将显卡驱动升级到最新版本。\r\n\r\n否则你可能会看到模型显示不完整等情况。\r\n\r\n感谢！"
+msgstr "Bekanntmachung:\r\n\r\nDa das Spiel die neueste UnrealEngine5-Engine verwendet, aktualisieren Sie bitte den Grafikkartentreiber auf die neueste Version, um das beste Spielerlebnis zu erhalten.\r\n\r\nAndernfalls sehen Sie möglicherweise die Modellanzeige unvollständig usw.\r\n\r\ndankbar!"
 
 #. Key:	83F46BF04B9C9DD831186F9C5C08D9AA
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(6 - Value).DisplayNameMap
@@ -2850,12 +2820,12 @@ msgctxt ",9100D96D4063969FA14D27937E72AC6D"
 msgid "感冒药"
 msgstr "Erkältungsmedizin"
 
-#. Key:	91FF2310440E4C0B3EDA64998B153170
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_sniper_SKS.Default__ACFGunBase_sniper_SKS_C.ItemInfo.Name
-#: /Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_sniper_SKS.Default__ACFGunBase_sniper_SKS_C.ItemInfo.Name
-msgctxt ",91FF2310440E4C0B3EDA64998B153170"
-msgid "SKS"
-msgstr "SKS"
+#. Key:	91EE84C24F7DF68788F8C3A12FC7EB2E
+#. SourceLocation:	/Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(24).Mappings.PlayerMappableOptions.DisplayName
+#: /Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(24).Mappings.PlayerMappableOptions.DisplayName
+msgctxt ",91EE84C24F7DF68788F8C3A12FC7EB2E"
+msgid "IA_Use5"
+msgstr "IA_Use5"
 
 #. Key:	926AF14B4D7F5B9C55338BAD27D3934A
 #. SourceLocation:	/Game/Blueprint/UMG/Inventory/GridInventory/WBP_Item.WBP_Item_C:WidgetTree.Num.Text
@@ -3213,13 +3183,6 @@ msgstr "Kochstation"
 msgctxt ",A986B3D14B33762D4721F68A12C306D5"
 msgid "RoofIntersection"
 msgstr "Dachkreuzung"
-
-#. Key:	A99BDFA24D24401BAEC0A6A8284F2950
-#. SourceLocation:	/Game/Blueprint/UMG/InteractiveMessage/WBP_NormalCenterMessage.WBP_NormalCenterMessage_C:WidgetTree.FTextBlock_1.Text
-#: /Game/Blueprint/UMG/InteractiveMessage/WBP_NormalCenterMessage.WBP_NormalCenterMessage_C:WidgetTree.FTextBlock_1.Text
-msgctxt ",A99BDFA24D24401BAEC0A6A8284F2950"
-msgid "F"
-msgstr "F"
 
 #. Key:	AA46408A4903F4640EFF4DB0535DF1D9
 #. SourceLocation:	/Game/Blueprint/UMG/WBP_Show.WBP_Show_C:WidgetTree.TextBlock_76.Text
@@ -3809,13 +3772,6 @@ msgctxt ",C63B559A430C8967E980F183A98EDD89"
 msgid "钝器+"
 msgstr "Stumpf +"
 
-#. Key:	C6F2900D49551E8DDA715CA2260FE3C0
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Materials/AutoCreate/BP_Mat_DZLNQ01.Default__BP_Mat_DZLNQ01_C.ItemInfo.Description
-#: /Game/Blueprint/ACF/Item/Materials/AutoCreate/BP_Mat_DZLNQ01.Default__BP_Mat_DZLNQ01_C.ItemInfo.Description
-msgctxt ",C6F2900D49551E8DDA715CA2260FE3C0"
-msgid "上门印有董小姐的头像，或许有什么神秘的加持。"
-msgstr "An der Tür ist ein Bild von Frau Dong aufgedruckt, vielleicht gibt es einen mysteriösen Segen."
-
 #. Key:	C8909F544D82D283B4CBAF86C0E811D3
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/E_FireMode.E_FireMode.DisplayNameMap(1 - Value).DisplayNameMap
 #: /Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/E_FireMode.E_FireMode.DisplayNameMap(1 - Value).DisplayNameMap
@@ -3885,13 +3841,6 @@ msgstr "Lebensmittel"
 msgctxt ",CBF68092493CCA912229F3994ABAF6DA"
 msgid "20/30Ah"
 msgstr "20/30 Ah"
-
-#. Key:	CC0602FA4986D47E186795BB50DF3D50
-#. SourceLocation:	/Game/Blueprint/ACF/Data/TableAsset/MaterialTable.MaterialTable.冷凝器.ItemInfo_66_F92A1A3B448C3413FD56918B4BFB9241.Description
-#: /Game/Blueprint/ACF/Data/TableAsset/MaterialTable.MaterialTable.冷凝器.ItemInfo_66_F92A1A3B448C3413FD56918B4BFB9241.Description
-msgctxt ",CC0602FA4986D47E186795BB50DF3D50"
-msgid "上门印有董小姐的头像，或许有什么神秘的加持。"
-msgstr "An der Tür ist ein Bild von Miss Dong aufgedruckt, vielleicht gibt es einen mysteriösen Segen."
 
 #. Key:	CC819A1447895FD466FEF7AA1DE2B9F7
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_LoadGame.WBP_LoadGame_C:WidgetTree.WBP_Del.In Text
@@ -4184,12 +4133,8 @@ msgstr "RichtigSchlaf"
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/WBP_Main.WBP_Main_C:WidgetTree.Nanite.Text
 #: /Game/Blueprint/UMG/MainUI/WBP_Main.WBP_Main_C:WidgetTree.Nanite.Text
 msgctxt ",DDC0910C4C17BE48AB063FBF2F21022D"
-msgid ""
-"检测到您的电脑不支持Nanite，请升级显卡驱动！\r\n"
-"否则将会出现模型显示不完整等问题。"
-msgstr ""
-"Es wurde festgestellt, dass Ihr Computer Nanite nicht unterstützt, bitte aktualisieren Sie den Grafikkartentreiber!\r\n"
-"Andernfalls kommt es zu Problemen wie einer unvollständigen Darstellung des Modells."
+msgid "检测到您的电脑不支持Nanite，请升级显卡驱动！\r\n否则将会出现模型显示不完整等问题。"
+msgstr "Es wurde festgestellt, dass Ihr Computer Nanite nicht unterstützt, bitte aktualisieren Sie den Grafikkartentreiber!\r\nAndernfalls kommt es zu Problemen wie einer unvollständigen Darstellung des Modells."
 
 #. Key:	DDDC1B0B4000A52C9EBD15869577EA8E
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_CarInventory.WBP_CarInventory_C:WidgetTree.Health.Text
@@ -4588,7 +4533,7 @@ msgstr "Modell 01"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_39.Text
 msgctxt ",EDD6F13A40AEDE6E8CED81A715877201"
 msgid "保存"
-msgstr "behalten"
+msgstr "übernehmen"
 
 #. Key:	EDEA71F5499188B93E4EF9B0CE0AD262
 #. SourceLocation:	/Game/Blueprint/UMG/EscMenu/ScreenSwitch.ScreenSwitch.DisplayNameMap(1 - Value).DisplayNameMap
@@ -4841,13 +4786,6 @@ msgstr "Modell 01"
 msgctxt ",FB4AA59C4F7B31F2F8C325B64FCF6379"
 msgid "淋浴间"
 msgstr "Duschraum"
-
-#. Key:	FB96DF1C49A8D25CFB137E95902966DA
-#. SourceLocation:	/Game/Blueprint/UMG/InteractiveMessage/WBP_NormalCenterMessage.WBP_NormalCenterMessage_C:WidgetTree.ETextBlock.Text
-#: /Game/Blueprint/UMG/InteractiveMessage/WBP_NormalCenterMessage.WBP_NormalCenterMessage_C:WidgetTree.ETextBlock.Text
-msgctxt ",FB96DF1C49A8D25CFB137E95902966DA"
-msgid "E"
-msgstr "UND"
 
 #. Key:	FC41E7F4409AA042268DA480D2C3C17D
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/E_AimType.E_AimType.DisplayNameMap(0 - Value).DisplayNameMap
@@ -8984,7 +8922,7 @@ msgstr "Einige Gegenstände können zerlegt werden, um Materialien mit einem kle
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,13"
 msgid "卡住啦！使用退出菜单的脱离卡死功能。"
-msgstr "Gesteckt! Verwenden Sie die Escape-Stuck-Funktion des Exit-Menüs."
+msgstr "Stuck! Verwenden Sie die Escape-Stuck-Funktion des Exit-Menüs."
 
 #. Key:	14
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -9102,12 +9040,8 @@ msgstr "Zurück"
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,BackSave"
-msgid ""
-"你确定要用这个存档覆盖之前的存档吗？\r\n"
-"注意覆盖以后之前的存档无法恢复"
-msgstr ""
-"Möchten Sie den vorherigen Speicherstand wirklich mit diesem überschreiben?\r\n"
-"Beachten Sie, dass das vorherige Archiv nach dem Überschreiben nicht wiederhergestellt werden kann"
+msgid "你确定要用这个存档覆盖之前的存档吗？\r\n注意覆盖以后之前的存档无法恢复"
+msgstr "Möchten Sie den vorherigen Speicherstand wirklich mit diesem überschreiben?\r\nBeachten Sie, dass das vorherige Archiv nach dem Überschreiben nicht wiederhergestellt werden kann"
 
 #. Key:	BCG
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -9163,7 +9097,7 @@ msgstr "Abbau..."
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Buff"
 msgid "Buff："
-msgstr "Polieren:"
+msgstr "Buff:"
 
 #. Key:	BuffTime
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10306,6 +10240,7 @@ msgctxt "UI,JX"
 msgid "机械"
 msgstr "Mechanisch"
 
+
 #. Key:	JXX
 #. SourceLocation:	/Game/LocalizationText/UIStudy.UIStudy
 #: /Game/LocalizationText/UIStudy.UIStudy
@@ -10422,12 +10357,8 @@ msgstr "Qualität der visuellen Distanz"
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,KTDetail"
-msgid ""
-"病毒抗体\r\n"
-"抗体为0就会死亡"
-msgstr ""
-"Virus-Antikörper\r\n"
-"Wenn der Antikörper 0 ist, werden sie sterben"
+msgid "病毒抗体\r\n抗体为0就会死亡"
+msgstr "Virus-Antikörper\r\nWenn der Antikörper 0 ist, werden sie sterben"
 
 #. Key:	Language
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10805,7 +10736,7 @@ msgstr "Malaria"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,NLSX"
 msgid "耐力上限"
-msgstr "Ausdauer-Kappe"
+msgstr "maximale Ausdauer"
 
 #. Key:	NoFireOrMat
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11022,7 +10953,7 @@ msgstr "Beachten Sie, dass dieser Vorgang den Inhalt des Topfes löscht"
 #: /Game/LocalizationText/UIStudy.UIStudy
 msgctxt "UI,PR"
 msgid "烹饪"
-msgstr "Kochen "
+msgstr "Kochen"
 
 #. Key:	protein
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -11231,14 +11162,8 @@ msgstr "Zu wenig Kraftstoff drin"
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SAVE"
-msgid ""
-"你可以建造一个床加快时间流逝\r\n"
-"\r\n"
-"游戏全程自动存档"
-msgstr ""
-"Sie können ein Bett bauen, um die Zeit zu beschleunigen\r\n"
-"\r\n"
-"Das Spiel wird während des gesamten Spiels automatisch gespeichert."
+msgid "你可以建造一个床加快时间流逝\r\n\r\n游戏全程自动存档"
+msgstr "Sie können ein Bett bauen, um die Zeit zu beschleunigen\r\n\r\nDas Spiel wird während des gesamten Spiels automatisch gespeichert."
 
 #. Key:	Save
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11629,14 +11554,8 @@ msgstr "Sommer"
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SW11"
-msgid ""
-"在打开箱子的状态下，左键单击物品可以快速转移。\r\n"
-"\r\n"
-"拖动物品中按下R旋转物品方向。"
-msgstr ""
-"Klicken Sie beim Öffnen der Kiste mit der linken Maustaste auf den Gegenstand, um ihn schnell zu übertragen.\r\n"
-"\r\n"
-"Drücken Sie R, während Sie das Element ziehen, um die Richtung des Elements zu drehen."
+msgid "在打开箱子的状态下，左键单击物品可以快速转移。\r\n\r\n拖动物品中按下R旋转物品方向。"
+msgstr "Klicken Sie beim Öffnen der Kiste mit der linken Maustaste auf den Gegenstand, um ihn schnell zu übertragen.\r\n\r\nDrücken Sie R, während Sie das Element ziehen, um die Richtung des Elements zu drehen."
 
 #. Key:	SY
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11726,12 +11645,8 @@ msgstr "Wird aus Erz geschmolzen oder durch Zerlegen von Gegenständen erhalten,
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TLDetail"
-msgid ""
-"体力\r\n"
-"每减少30点体力，伤害降低25%（不影响枪械）"
-msgstr ""
-"Körperliche Stärke\r\n"
-"Je 30 HP-Punkte wird der Schaden um 25 % verringert (betrifft keine Schusswaffen)"
+msgid "体力\r\n每减少30点体力，伤害降低25%（不影响枪械）"
+msgstr "Körperliche Stärke\r\nJe 30 HP-Punkte wird der Schaden um 25 % verringert (betrifft keine Schusswaffen)"
 
 #. Key:	toLen
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12276,12 +12191,8 @@ msgstr "Waffenherstellung"
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,wsDetail"
-msgid ""
-"卫生\r\n"
-"影响丧尸发现几率，影响伤口感染几率，过低影响心情回复"
-msgstr ""
-"Die Gesundheit\r\n"
-"Beeinflusst die Wahrscheinlichkeit, dass Zombies entdeckt werden, beeinflusst die Wahrscheinlichkeit einer Wundinfektion und beeinflusst die Erholung der Stimmung, wenn sie zu niedrig ist"
+msgid "卫生\r\n影响丧尸发现几率，影响伤口感染几率，过低影响心情回复"
+msgstr "Die Gesundheit\r\nBeeinflusst die Wahrscheinlichkeit, dass Zombies entdeckt werden, beeinflusst die Wahrscheinlichkeit einer Wundinfektion und beeinflusst die Erholung der Stimmung, wenn sie zu niedrig ist"
 
 #. Key:	WXL
 #. SourceLocation:	/Game/LocalizationText/UI.UI
