@@ -1831,7 +1831,7 @@ msgstr "SVD-Scharfschützengewehr"
 #: /Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_6.TipMessage_41_0D1B7B6342180F0BD1D386A6C8ADE0B3
 msgctxt ",5CB0A2B9434116D064FC0780EE57DE6A"
 msgid "耐力上限"
-msgstr "Ausdauer-Kappe"
+msgstr "Ausdauergrenze"
 
 #. Key:	5CEE296242EF06A6C8AF7BB44F1ACBA6
 #. SourceLocation:	/Game/Blueprint/UMG/WBP_BaseCharacter.WBP_BaseCharacter_C:WidgetTree.JDL.Text
@@ -9692,7 +9692,7 @@ msgstr "Weggeworfene Gegenstände"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,DropTip"
 msgid "请选择丢弃数量："
-msgstr "Bitte wählen Sie die Anzahl der Verwerfungen aus:"
+msgstr "Bitte wählen Sie die Anzahl der zu entfernenden Gegenstände aus:"
 
 #. Key:	DRYX
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10435,7 +10435,7 @@ msgstr "Gesperrt"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,LumenLight"
 msgid "Lumen全局光照"
-msgstr "Lumen Global Illumination"
+msgstr "Globale Beleuchtung"
 
 #. Key:	LumenQuial
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10477,7 +10477,7 @@ msgstr "Partikeleffekt"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Main"
 msgid "主界面"
-msgstr "Haupt-Schnittstelle"
+msgstr "Hauptmenü"
 
 #. Key:	Make
 #. SourceLocation:	/Game/LocalizationText/UI.UI
