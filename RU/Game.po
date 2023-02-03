@@ -522,7 +522,7 @@ msgstr "длинный двуручный нож"
 #: /Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_1.TipMessage_41_0D1B7B6342180F0BD1D386A6C8ADE0B3
 msgctxt ",19AC3E7F4171121FDAC351BEE6BAD32D"
 msgid "负重"
-msgstr "нагрузка"
+msgstr "загрузка"
 
 #. Key:	19C478A9460A7FCF7A9C9A987249F571
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_RYFDJ.WBP_RYFDJ_C:WidgetTree.TextRY.Text
@@ -816,7 +816,7 @@ msgstr "усиление малярии"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_33.In Text
 msgctxt ",258B8DCA4A30A8C003E35AA9CED8333D"
 msgid "砖块"
-msgstr "кирпичи"
+msgstr "кирпич"
 
 #. Key:	264F21F94A312BE3982CE79C37D102D3
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_LoadGame.WBP_LoadGame_C:WidgetTree.TextBlock.Text
@@ -2496,7 +2496,7 @@ msgstr "переключать"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_1.In Text
 msgctxt ",7CF1FA4449F3464AF0C74796614B54EC"
 msgid "简易零件"
-msgstr "Простые части"
+msgstr "простые детали"
 
 #. Key:	7DACF9794BC2AAAAC48B419D1D4BD315
 #. SourceLocation:	/Game/Blueprint/UMG/Inventory/WBP_AddButton.WBP_AddButton_C:OnDrop [Script Bytecode]
@@ -3126,7 +3126,7 @@ msgstr "Полностью автоматический"
 #: /Game/Blueprint/UMG/ScreenMessage/WBP_GunMessage.WBP_GunMessage_C:ExecuteUbergraph_WBP_GunMessage [Script Bytecode]
 msgctxt ",A44DFAB2422A13E46691CBA995DFA56F"
 msgid "三连发"
-msgstr "три очереди"
+msgstr "Тройной выстрел"
 
 #. Key:	A4794C1D43A639CE329F498AA2BBCB83
 #. SourceLocation:	/Game/HDCKBuildingSystem/Table/E_SelectTypeChild.E_SelectTypeChild.DisplayNameMap(9 - Value).DisplayNameMap
@@ -3924,7 +3924,7 @@ msgstr "Модель 01"
 #: /Game/Blueprint/UMG/Make/WBP_MakeDetailShow.WBP_MakeDetailShow_C:WidgetTree.FZ.Text
 msgctxt ",CF9CE28D415251343B2738AAC697FAF5"
 msgid "负重"
-msgstr "нагрузка"
+msgstr "загрузка"
 
 #. Key:	checknuild
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -4155,14 +4155,14 @@ msgstr "дульный компенсатор"
 #: /Game/Blueprint/UMG/InteractiveMessage/WBP_BuildMaterialMessage.WBP_BuildMaterialMessage_C:WidgetTree.WBP_Key_1.ShowText
 msgctxt ",DE277B1B4A5CE7805A70C19466C08D22"
 msgid "F"
-msgstr "Ф"
+msgstr "F"
 
 #. Key:	DE9208FC46FDC129FB0D8ABAB00801F3
 #. SourceLocation:	/Game/Blueprint/UMG/Make/WBP_MakeDetailShow.WBP_MakeDetailShow_C:WidgetTree.YZKX.Text
 #: /Game/Blueprint/UMG/Make/WBP_MakeDetailShow.WBP_MakeDetailShow_C:WidgetTree.YZKX.Text
 msgctxt ",DE9208FC46FDC129FB0D8ABAB00801F3"
 msgid "硬直抗性"
-msgstr "Сопротивление жесткости"
+msgstr "Сопротивление замедлению"
 
 #. Key:	DEB9042443EF069BF71FC19D24BE6A33
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_41.Text
@@ -4701,7 +4701,7 @@ msgstr "электрическая печь"
 #: /Game/Blueprint/UMG/ScreenMessage/WBP_CarMessage.WBP_CarMessage_C:WidgetTree.UnitLabel.Text
 msgctxt ",F63346F142E610BC067F80A6514EA901"
 msgid "车损"
-msgstr "повреждение автомобиля"
+msgstr "прочность"
 
 #. Key:	F698474D4774B3EAED811995AC987E07
 #. SourceLocation:	/Game/Blueprint/UMG/Inventory/WBP_AddRYButton.WBP_AddRYButton_C:OnDrop [Script Bytecode]
@@ -6472,7 +6472,7 @@ msgstr "бронированная обувь"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,A37"
 msgid "肩灯"
-msgstr "плечевой свет"
+msgstr "плечевой фонарь"
 
 #. Key:	A4
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -6640,7 +6640,7 @@ msgstr "Мастер оружия (5 том)"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F114"
 msgid "烹饪（一卷）"
-msgstr "приготовление (один рулет)"
+msgstr "Кулинария (1 том)"
 
 #. Key:	F115
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -6906,7 +6906,7 @@ msgstr "жареные овощи"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F27"
 msgid "失败料理"
-msgstr "приготовление пищи"
+msgstr "не удалось приготовить"
 
 #. Key:	F28
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7053,7 +7053,7 @@ msgstr "вкусное рагу"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F46"
 msgid "美味蜜汁水果"
-msgstr "Вкусный медовый сок Фрукты"
+msgstr "Вкусный фруктовый медовый сок"
 
 #. Key:	F47
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7515,7 +7515,7 @@ msgstr "9-мм расширительный магазин"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,G16"
 msgid "垂直握把"
-msgstr "вертикальный захват"
+msgstr "рукоятка вертикальная"
 
 #. Key:	G17
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7669,7 +7669,7 @@ msgstr "Обыкновенную древесину можно использо�
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M20"
 msgid "砖块"
-msgstr "кирпичи"
+msgstr "кирпич"
 
 #. Key:	M21
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7753,7 +7753,7 @@ msgstr "простые детали"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M31"
 msgid "精巧零件"
-msgstr "тонкие части"
+msgstr "тонкие детали"
 
 #. Key:	M32
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7900,7 +7900,7 @@ msgstr "уголь"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M50"
 msgid "电动缝纫机图纸"
-msgstr "электрическая швейная машина чертеж"
+msgstr "чертеж электрической швейной машины"
 
 #. Key:	M51
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8152,7 +8152,7 @@ msgstr "ремонтные инструменты"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M83"
 msgid "饲料"
-msgstr "подача"
+msgstr "корм"
 
 #. Key:	M84
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8180,7 +8180,7 @@ msgstr "маленький кабан"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M87"
 msgid "小母猪"
-msgstr "золоченый"
+msgstr "поросенок"
 
 #. Key:	M88
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9601,7 +9601,7 @@ msgstr "поле расстояния"
 #: /Game/LocalizationText/GUN.GUN
 msgctxt "UI,DJ"
 msgid "弹夹"
-msgstr "клип"
+msgstr "+магазин"
 
 #. Key:	DJZLJX01
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -9727,7 +9727,7 @@ msgstr "Прочность:"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,DX"
 msgid "蹲下"
-msgstr "приземистый"
+msgstr "присесть"
 
 #. Key:	DZCD
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -9888,14 +9888,14 @@ msgstr "Он полон!"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,FSR1"
 msgid "质量"
-msgstr "качественный"
+msgstr "качество"
 
 #. Key:	FSR2
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,FSR2"
 msgid "平衡"
-msgstr "остаток средств"
+msgstr "баланс"
 
 #. Key:	FSR3
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -9958,7 +9958,7 @@ msgstr "яркость"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,GB"
 msgid "关闭"
-msgstr "закрытие"
+msgstr "выкл"
 
 #. Key:	GC
 #. SourceLocation:	/Game/LocalizationText/UIStudy.UIStudy
@@ -10252,7 +10252,7 @@ msgstr "Ремонт машин"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,JZBZKG"
 msgid "建造捕捉开关"
-msgstr "Создание переключателей Snap"
+msgstr "Убрать привязку к сетке"
 
 #. Key:	JZCD
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10532,7 +10532,7 @@ msgstr "максимальная выносливость"
 #: /Game/LocalizationText/GUN.GUN
 msgctxt "UI,MJ"
 msgid "瞄具"
-msgstr "Достопримечательности"
+msgstr "прицел"
 
 #. Key:	MLZ
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10966,7 +10966,7 @@ msgstr "белок"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,PSSL"
 msgid "跑尸数量"
-msgstr "Количество трупов"
+msgstr "Количество активных зомби"
 
 #. Key:	Q
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11015,7 +11015,7 @@ msgstr "глобальное качество освещения"
 #: /Game/LocalizationText/GUN.GUN
 msgctxt "UI,QK"
 msgid "枪口"
-msgstr "морда"
+msgstr "ствол"
 
 #. Key:	QRGG
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11057,7 +11057,7 @@ msgstr "полноэкранное окно"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,quchu"
 msgid "取出"
-msgstr "взять"
+msgstr " взять "
 
 #. Key:	Quit
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11575,7 +11575,7 @@ msgstr "Прыжок"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Take"
 msgid "取出"
-msgstr "взять"
+msgstr " взять "
 
 #. Key:	Talk
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12128,7 +12128,7 @@ msgstr "источник воды"
 #: /Game/LocalizationText/GUN.GUN
 msgctxt "UI,WB"
 msgid "握把"
-msgstr "схватить"
+msgstr "рукоятка"
 
 #. Key:	WDXS
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12345,7 +12345,7 @@ msgstr "Бэкон занимает 200 секунд"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,Y"
 msgid "右"
-msgstr "Правильно"
+msgstr "вправо"
 
 #. Key:	YanJ
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -12436,21 +12436,21 @@ msgstr "шаблон"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,YZKX"
 msgid "硬直抵抗"
-msgstr "сопротивление прочности"
+msgstr "Защита брони"
 
 #. Key:	YZL
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,YZL"
 msgid "硬直"
-msgstr "Прочность"
+msgstr "Замедлить"
 
 #. Key:	Z
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,Z"
 msgid "左"
-msgstr "оставил"
+msgstr "влево"
 
 #. Key:	ZB
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
