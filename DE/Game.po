@@ -823,7 +823,7 @@ msgstr "Ziegel"
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_LoadGame.WBP_LoadGame_C:WidgetTree.TextBlock.Text
 msgctxt ",264F21F94A312BE3982CE79C37D102D3"
 msgid "恢复存档"
-msgstr "Archiv wiederherstellen"
+msgstr "Speicherstand wiederherstellen"
 
 #. Key:	269B80324FC87D5B8DEDDDB22B6B7A09
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_42.In Text
@@ -1243,7 +1243,7 @@ msgstr "Skill-Detailseite"
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_LoadGame.WBP_LoadGame_C:WidgetTree.WBP_BackSave.In Text
 msgctxt ",3A6879B749414322EB2621BDD1017E66"
 msgid "恢复存档"
-msgstr "Archiv wiederherstellen"
+msgstr "Speicherstand wiederherstellen"
 
 #. Key:	3B8DEE5B4473233FCF93628DED40F9B2
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton.In Text
@@ -3735,7 +3735,7 @@ msgstr "1"
 #: /Game/Blueprint/ACF/Player/HDCK_GameMode.HDCK_GameMode_C:ExecuteUbergraph_HDCK_GameMode [Script Bytecode]
 msgctxt ",C4C9089841ED96447C2336ADFE055AE0"
 msgid "存档失败！！！"
-msgstr "Archivierung fehlgeschlagen! ! !"
+msgstr "Speichern fehlgeschlagen! ! !"
 
 #. Key:	C503D8D4432665A9708A219FA438AF85
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_57.In Text
@@ -4078,7 +4078,7 @@ msgstr "Kratzfest"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_23.Text
 msgctxt ",D9F39C7546A5C1735F3ED7AB191B0663"
 msgid "卫生-"
-msgstr "Die Gesundheit-"
+msgstr "Sauberkeit-"
 
 #. Key:	DA01CCEB4FCE0A10153ADBA352E6C952
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_88.In Text
@@ -4232,7 +4232,7 @@ msgstr "5%"
 #: /Game/Blueprint/UMG/MainUI/Child/TipDelSlot.TipDelSlot_C:WidgetTree.TextBlock_107.Text
 msgctxt ",E0BDBA2A4577298FB1E9F9939B39A11B"
 msgid "确认删除存档吗？"
-msgstr "Möchten Sie das Archiv wirklich löschen?"
+msgstr "Möchten Sie den Speicherstand wirklich löschen?"
 
 #. Key:	E14242274DBF33A81F07A280CB8FA63E
 #. SourceLocation:	/Game/Blueprint/ACF/Tutorial/WBP_TutorialTip7.WBP_TutorialTip7_C:WidgetTree.TextBlock_2.Text
@@ -7837,7 +7837,7 @@ msgstr "Zeichnungen von Bearbeitungstischen"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M42"
 msgid "火力发电机图纸"
-msgstr "Zeichnungen von Thermogeneratoren"
+msgstr "Zeichnungen von Festbrennstoff Generator"
 
 #. Key:	M43
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8180,7 +8180,7 @@ msgstr "Kleiner Eber"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M87"
 msgid "小母猪"
-msgstr "Vergoldet"
+msgstr "Ferkel"
 
 #. Key:	M88
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8768,7 +8768,7 @@ msgstr "Steinmesser"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W50"
 msgid "Italian霰弹枪"
-msgstr "Italian Schrotflinte"
+msgstr "Benelli M4"
 
 #. Key:	W51
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9041,7 +9041,7 @@ msgstr "Zurück"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,BackSave"
 msgid "你确定要用这个存档覆盖之前的存档吗？\r\n注意覆盖以后之前的存档无法恢复"
-msgstr "Möchten Sie den vorherigen Speicherstand wirklich mit diesem überschreiben?\r\nBeachten Sie, dass das vorherige Archiv nach dem Überschreiben nicht wiederhergestellt werden kann"
+msgstr "Möchten Sie den vorherigen Speicherstand wirklich mit diesem überschreiben?\r\nBeachten Sie, dass der vorherige Speicherstand nach dem Überschreiben nicht wiederhergestellt werden kann"
 
 #. Key:	BCG
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -9307,14 +9307,14 @@ msgstr "Ladequelle"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,CDMC021"
 msgid "存档名称"
-msgstr "Archivname"
+msgstr "Speicherstand Name"
 
 #. Key:	CDTS
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,CDTS"
 msgid "请输入一个有效存档名称或者有相同名称的存档存在"
-msgstr "Bitte geben Sie einen gültigen Archivnamen ein oder es existiert ein gleichnamiges Archiv"
+msgstr "Bitte geben Sie einen gültigen Speicherstand Name ein oder es existiert ein gleichnamiger Speicherstand"
 
 #. Key:	CF
 #. SourceLocation:	/Game/LocalizationText/UIStudy.UIStudy
@@ -9433,7 +9433,7 @@ msgstr "Reinigen"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Close"
 msgid "关闭"
-msgstr "Schließen"
+msgstr "Schließen "
 
 #. Key:	confirm
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -9461,7 +9461,7 @@ msgstr "Steuerungseinstellungen"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,cook"
 msgid "烹饪"
-msgstr "Kochen"
+msgstr "Kochen "
 
 #. Key:	craft
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -9748,7 +9748,7 @@ msgstr "Verstümmelung"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Eat"
 msgid "吃"
-msgstr "Essen"
+msgstr "konsumieren"
 
 #. Key:	Equip
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10133,7 +10133,7 @@ msgstr "Elektrotechnik"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,hygiene"
 msgid "卫生"
-msgstr "Die Gesundheit"
+msgstr "Sauberkeit"
 
 #. Key:	hymr
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10953,7 +10953,7 @@ msgstr "Beachten Sie, dass dieser Vorgang den Inhalt des Topfes löscht"
 #: /Game/LocalizationText/UIStudy.UIStudy
 msgctxt "UI,PR"
 msgid "烹饪"
-msgstr "Kochen"
+msgstr "Kochen "
 
 #. Key:	protein
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -11170,7 +11170,7 @@ msgstr "Sie können ein Bett bauen, um die Zeit zu beschleunigen\r\n\r\nDas Spie
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Save"
 msgid "保存"
-msgstr "speichern"
+msgstr "Speichern"
 
 #. Key:	SaveDay
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11576,7 +11576,7 @@ msgstr "Springen"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Take"
 msgid "取出"
-msgstr "Mitnahme"
+msgstr "Mitnehmen"
 
 #. Key:	Talk
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11667,7 +11667,7 @@ msgstr "Anzahl der Zombie-Spawns"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,TQEnd"
 msgid "关闭"
-msgstr "Schließen"
+msgstr "Schließen "
 
 #. Key:	TQStart
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12192,7 +12192,7 @@ msgstr "Waffenherstellung"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,wsDetail"
 msgid "卫生\r\n影响丧尸发现几率，影响伤口感染几率，过低影响心情回复"
-msgstr "Die Gesundheit\r\nBeeinflusst die Wahrscheinlichkeit, dass Zombies entdeckt werden, beeinflusst die Wahrscheinlichkeit einer Wundinfektion und beeinflusst die Erholung der Motivation, wenn sie zu niedrig ist"
+msgstr "Die Sauberkeit\r\nBeeinflusst die Wahrscheinlichkeit, dass Zombies entdeckt werden, beeinflusst die Wahrscheinlichkeit einer Wundinfektion und beeinflusst die Erholung der Motivation, wenn sie zu niedrig ist"
 
 #. Key:	WXL
 #. SourceLocation:	/Game/LocalizationText/UI.UI
