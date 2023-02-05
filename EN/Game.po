@@ -326,7 +326,7 @@ msgstr "Team 1"
 #: /Game/Blueprint/ACF/Item/Weapon/ACFGunBase_Shotgun.Default__ACFGunBase_Shotgun_C.ItemInfo.Name
 msgctxt ",0F76833445170B88C4F8CD8F4B1A28D2"
 msgid "870AC霰弹枪"
-msgstr "870AC Shotgun"
+msgstr "R870 Shotgun"
 
 #. Key:	0FC7B32D443EA06EF7F13BB5DC4C9447
 #. SourceLocation:	/Game/Blueprint/ACF/Tutorial/WBP_TutorialTip5.WBP_TutorialTip5_C:WidgetTree.TextBlock_2.Text
@@ -935,7 +935,7 @@ msgstr "Team 6"
 #: /Game/Blueprint/ACF/Item/Weapon/ACFGunBase.Default__ACFGunBase_C.ItemInfo.Name
 msgctxt ",2ABFDD2D4693426742BDACAE5D72DACC"
 msgid "M4步枪"
-msgstr "M4 Rifle"
+msgstr "M4 Assault Rifle"
 
 #. Key:	2AEDF97B456853ED929F229E28ED97D4
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/StartUIEnum.StartUIEnum.DisplayNameMap(1 - Value).DisplayNameMap
@@ -1369,7 +1369,7 @@ msgstr "Shaded or unable to generate electricity in sunless weather"
 #: /Game/Blueprint/ACF/Data/TableAsset/WeaponTable.WeaponTable.SVD狙击枪.ItemInfo_66_F92A1A3B448C3413FD56918B4BFB9241.Name
 msgctxt ",4362834A4E275D8A564F3388D39CBEFC"
 msgid "SVD"
-msgstr "SVD"
+msgstr "SVD Sniper Rifle"
 
 #. Key:	43648A1246EE1121DDCFF5840B44EEFE
 #. SourceLocation:	/Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(19).Mappings.PlayerMappableOptions.DisplayName
@@ -1719,7 +1719,7 @@ msgstr "Model 02"
 #: /Game/Blueprint/ACF/Item/Weapon/ACFGunBase_SMG.Default__ACFGunBase_SMG_C.ItemInfo.Name
 msgctxt ",590B39C941F02271DB34EF8E862671DA"
 msgid "MP7A1冲锋枪"
-msgstr "MP7A1 submachine gun"
+msgstr "MP7 SMG"
 
 #. Key:	597318344B733EB7EA60D2A7DB6A2858
 #. SourceLocation:	/Game/Blueprint/UMG/ScreenMessage/WBP_CarMessage.WBP_CarMessage_C:WidgetTree.UnitLabel_1.Text
@@ -1824,7 +1824,7 @@ msgstr "Take out"
 #: /Game/Blueprint/ACF/Item/Weapon/ACFGunBase_sniper.Default__ACFGunBase_sniper_C.ItemInfo.Name
 msgctxt ",5C90679C41738D02720A629F7544A608"
 msgid "SVD狙击步枪"
-msgstr "SVD sniper rifle"
+msgstr "SVD Sniper rifle"
 
 #. Key:	5CB0A2B9434116D064FC0780EE57DE6A
 #. SourceLocation:	/Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_6.TipMessage_41_0D1B7B6342180F0BD1D386A6C8ADE0B3
@@ -2125,14 +2125,14 @@ msgstr "Now try to pick up the previous weapons and swap them in different slots
 #: /Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_sniper_SVD.Default__ACFGunBase_sniper_SVD_C.ItemInfo.Name
 msgctxt ",6BDE3B1B4C6870EFB6DFB3AC23B4C08E"
 msgid "SVD"
-msgstr "SVD"
+msgstr "SVD Sniper Rifle"
 
 #. Key:	6BE962314A8FBC6002DBB2BC5D649223
 #. SourceLocation:	/Game/Blueprint/UMG/Gun/WBP_GunM4A1.WBP_GunM4A1_C:WidgetTree.ItemName.Text
 #: /Game/Blueprint/UMG/Gun/WBP_GunM4A1.WBP_GunM4A1_C:WidgetTree.ItemName.Text
 msgctxt ",6BE962314A8FBC6002DBB2BC5D649223"
 msgid "M4A1"
-msgstr "M4A1"
+msgstr "M4 Assault Rifle"
 
 #. Key:	6C007083466970C3B2190CAC9FC2112C
 #. SourceLocation:	/Game/Blueprint/ACF/Player/HDCK_GameState.Default__HDCK_GameState_C:Team Manager.Teams(2 - Value).Teams.DisplayName
@@ -2699,7 +2699,7 @@ msgstr "Silver ingot"
 #: /Game/Blueprint/ACF/Item/Weapon/ACFGunBase_HandGun.Default__ACFGunBase_HandGun_C.ItemInfo.Name
 msgctxt ",892DE0C84B6887D6EFA69E8C79F48754"
 msgid "G18手枪"
-msgstr "G18 pistol"
+msgstr "18C Pistol"
 
 #. Key:	895DDEAA447AEEB87FC85BA41F762B94
 #. SourceLocation:	/Game/HDCKBuildingSystem/Table/E_SelectType.E_SelectType.DisplayNameMap(2 - Value).DisplayNameMap
@@ -3105,7 +3105,7 @@ msgstr "IA_ActionMenu"
 #: /Game/Blueprint/ACF/Data/TableAsset/WeaponTable.WeaponTable.SKS狙击枪.ItemInfo_66_F92A1A3B448C3413FD56918B4BFB9241.Name
 msgctxt ",A3EEE2ED4151882C6AADCC9C40E8CEE1"
 msgid "SKS"
-msgstr "SKS"
+msgstr "SKS Rifle"
 
 #. Key:	A40DC20449F773A942EBF6AA0B8E95F6
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Tool/Item_NotUse_Tool_Base.Default__Item_NotUse_Tool_Base_C.ItemInfo.Name
@@ -8719,7 +8719,7 @@ msgstr "Earthen grenade"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W44"
 msgid "沙鹰"
-msgstr "Desert eagle"
+msgstr "DE Pistol"
 
 #. Key:	W45
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8768,7 +8768,7 @@ msgstr "Stone knife"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W50"
 msgid "Italian霰弹枪"
-msgstr "Italian shotgun"
+msgstr "BM4 Shotgun"
 
 #. Key:	W51
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -11470,7 +11470,7 @@ msgstr "Zombie strength"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SSS03"
 msgid "学习"
-msgstr "Study"
+msgstr "Study "
 
 #. Key:	SSSL
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
