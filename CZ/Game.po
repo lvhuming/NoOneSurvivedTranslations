@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
 "POT-Creation-Date: 2023-01-26 02:33\n"
-"PO-Revision-Date: 2023-02-04 08:57+0100\n"
+"PO-Revision-Date: 2023-02-05 15:08+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: cs\n"
@@ -334,7 +334,7 @@ msgstr "Tým 1"
 #: /Game/Blueprint/ACF/Item/Weapon/ACFGunBase_Shotgun.Default__ACFGunBase_Shotgun_C.ItemInfo.Name
 msgctxt ",0F76833445170B88C4F8CD8F4B1A28D2"
 msgid "870AC霰弹枪"
-msgstr "Brokovnice 870AC"
+msgstr "Brokovnice R870"
 
 #. Key:	0FC7B32D443EA06EF7F13BB5DC4C9447
 #. SourceLocation:	/Game/Blueprint/ACF/Tutorial/WBP_TutorialTip5.WBP_TutorialTip5_C:WidgetTree.TextBlock_2.Text
@@ -750,7 +750,7 @@ msgstr "Trvanlivost:"
 #: /Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_sniper_SVD.Default__ACFGunBase_sniper_SVD_C.ItemInfo.Name
 msgctxt ",212FFBA3493769C9C4FA938375E1614C"
 msgid "SVD"
-msgstr "SVD"
+msgstr "Odstřelovací puška SVD"
 
 #. Key:	2191E6F14098A0C04EFC4FA4B26ECAE8
 #. SourceLocation:	/Game/Blueprint/UMG/ScreenMessage/WBP_GunMessage.WBP_GunMessage_C:ExecuteUbergraph_WBP_GunMessage [Script Bytecode]
@@ -966,7 +966,7 @@ msgstr "Tým 6"
 #: /Game/Blueprint/ACF/Item/Weapon/ACFGunBase.Default__ACFGunBase_C.ItemInfo.Name
 msgctxt ",2ABFDD2D4693426742BDACAE5D72DACC"
 msgid "M4步枪"
-msgstr "Puška M4"
+msgstr "Útočná Puška M4"
 
 #. Key:	2AEDF97B456853ED929F229E28ED97D4
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/StartUIEnum.StartUIEnum.DisplayNameMap(1 - Value).DisplayNameMap
@@ -1402,7 +1402,7 @@ msgstr "Nemožnost vyrábět elektřinu kvůli stínu nebo za bezslunečného po
 #: /Game/Blueprint/ACF/Data/TableAsset/WeaponTable.WeaponTable.SVD狙击枪.ItemInfo_66_F92A1A3B448C3413FD56918B4BFB9241.Name
 msgctxt ",4362834A4E275D8A564F3388D39CBEFC"
 msgid "SVD"
-msgstr "SVD"
+msgstr "Odstřelovací puška SVD"
 
 #. Key:	43D1BDAC430C12636432F9B0A31832E9
 #. SourceLocation:	/Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_14.TipMessage_41_0D1B7B6342180F0BD1D386A6C8ADE0B3
@@ -1768,7 +1768,7 @@ msgstr "Vzor 02"
 #: /Game/Blueprint/ACF/Item/Weapon/ACFGunBase_SMG.Default__ACFGunBase_SMG_C.ItemInfo.Name
 msgctxt ",590B39C941F02271DB34EF8E862671DA"
 msgid "MP7A1冲锋枪"
-msgstr "Samopal MP7A1"
+msgstr "Samopal MP7 SMG"
 
 #. Key:	597318344B733EB7EA60D2A7DB6A2858
 #. SourceLocation:	/Game/Blueprint/UMG/ScreenMessage/WBP_CarMessage.WBP_CarMessage_C:WidgetTree.UnitLabel_1.Text
@@ -2180,7 +2180,7 @@ msgstr "Nyní se pokuste zvednout zbraně před vámi a vyměnit je v různých 
 #: /Game/Blueprint/UMG/Gun/WBP_GunM4A1.WBP_GunM4A1_C:WidgetTree.ItemName.Text
 msgctxt ",6BE962314A8FBC6002DBB2BC5D649223"
 msgid "M4A1"
-msgstr "M4A1"
+msgstr "Útočná Puška M4"
 
 #. Key:	6C007083466970C3B2190CAC9FC2112C
 #. SourceLocation:	/Game/Blueprint/ACF/Player/HDCK_GameState.Default__HDCK_GameState_C:Team Manager.Teams(2 - Value).Teams.DisplayName
@@ -2788,7 +2788,7 @@ msgstr "Stříbrný ingot"
 #: /Game/Blueprint/ACF/Item/Weapon/ACFGunBase_HandGun.Default__ACFGunBase_HandGun_C.ItemInfo.Name
 msgctxt ",892DE0C84B6887D6EFA69E8C79F48754"
 msgid "G18手枪"
-msgstr "Pistole G18"
+msgstr "Pistole 18C"
 
 #. Key:	895DDEAA447AEEB87FC85BA41F762B94
 #. SourceLocation:	/Game/HDCKBuildingSystem/Table/E_SelectType.E_SelectType.DisplayNameMap(2 - Value).DisplayNameMap
@@ -2915,7 +2915,7 @@ msgstr "Lék proti nachlazení a chřipce"
 #: /Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_sniper_SKS.Default__ACFGunBase_sniper_SKS_C.ItemInfo.Name
 msgctxt ",91FF2310440E4C0B3EDA64998B153170"
 msgid "SKS"
-msgstr "SKS"
+msgstr "Puška SKS"
 
 #. Key:	926AF14B4D7F5B9C55338BAD27D3934A
 #. SourceLocation:	/Game/Blueprint/UMG/Inventory/GridInventory/WBP_Item.WBP_Item_C:WidgetTree.Num.Text
@@ -3196,7 +3196,7 @@ msgstr "Odolnost vůči teplu"
 #: /Game/Blueprint/ACF/Data/TableAsset/WeaponTable.WeaponTable.SKS狙击枪.ItemInfo_66_F92A1A3B448C3413FD56918B4BFB9241.Name
 msgctxt ",A3EEE2ED4151882C6AADCC9C40E8CEE1"
 msgid "SKS"
-msgstr "SKS"
+msgstr "Puška SKS"
 
 #. Key:	A40DC20449F773A942EBF6AA0B8E95F6
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Tool/Item_NotUse_Tool_Base.Default__Item_NotUse_Tool_Base_C.ItemInfo.Name
@@ -3345,7 +3345,6 @@ msgstr "Napij se"
 #. Key:	ABE10B784F6D55A4DA2F40A4FBEC2520
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_DPBase.Default__Furniture_DPBase_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_DPBase.Default__Furniture_DPBase_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-#, fuzzy
 msgctxt ",ABE10B784F6D55A4DA2F40A4FBEC2520"
 msgid "用于保管物品的箱子，不会丢失物品。"
 msgstr "Krabice pro ukládání předmětů bez jejich ztráty."
@@ -3354,7 +3353,6 @@ msgstr "Krabice pro ukládání předmětů bez jejich ztráty."
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_82.In Text
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_82.In
 #: Text
-#, fuzzy
 msgctxt ",AC0F2FD840D825001A5E109409157C69"
 msgid "钢双手刀"
 msgstr "Ocelová mačeta"
@@ -3377,7 +3375,6 @@ msgstr "Mast"
 #. Key:	AD4470F042494F4CB4D3D6BBC4310391
 #. SourceLocation:	/Game/Blueprint/UMG/EscMenu/WBP_NvidiaDLSS.WBP_NvidiaDLSS_C:WidgetTree.TextBlock_5.Text
 #: /Game/Blueprint/UMG/EscMenu/WBP_NvidiaDLSS.WBP_NvidiaDLSS_C:WidgetTree.TextBlock_5.Text
-#, fuzzy
 msgctxt ",AD4470F042494F4CB4D3D6BBC4310391"
 msgid "高质量"
 msgstr "Vysoká kvalita"
@@ -5700,7 +5697,6 @@ msgstr "Sloup"
 #. Key:	VerticalBeamDetail
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
-#, fuzzy
 msgctxt ",VerticalBeamDetail"
 msgid "可以承受重量。"
 msgstr "Pro velkou zátěž."
@@ -5715,7 +5711,6 @@ msgstr "Kamenný sloup"
 #. Key:	VerticalBeamStoneDetail
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
-#, fuzzy
 msgctxt ",VerticalBeamStoneDetail"
 msgid "可以承受重量。"
 msgstr "Pro velkou zátěž."
@@ -6446,7 +6441,7 @@ msgstr "Jednoduchý batoh"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,A10"
 msgid "遮阳帽"
-msgstr "Sluneční clona"
+msgstr "Kšiltovka"
 
 #. Key:	A11
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -6663,7 +6658,7 @@ msgstr "Vojenský batoh"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,A5"
 msgid "登山包"
-msgstr "Velký Batoh"
+msgstr "Velký batoh"
 
 #. Key:	A6
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8896,7 +8891,7 @@ msgstr "Domácí granát"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W44"
 msgid "沙鹰"
-msgstr "Magnum 44"
+msgstr "DE Pistol"
 
 #. Key:	W45
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8945,7 +8940,7 @@ msgstr "Kamenný nůž"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W50"
 msgid "Italian霰弹枪"
-msgstr "Italská brokovnice"
+msgstr "Brokovnice BM4"
 
 #. Key:	W51
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9586,7 +9581,7 @@ msgstr "Umýt se"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Close"
 msgid "关闭"
-msgstr "Vypnout"
+msgstr "Zavřít "
 
 #. Key:	confirm
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10174,7 +10169,7 @@ msgstr "Posun vlevo a vpravo"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,HammerG"
 msgid "打开/关闭捕捉"
-msgstr "Zapnutí/vypnutí zachycování"
+msgstr "Zapnutí/vypnutí zachytávání"
 
 #. Key:	HammerLeft
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10321,7 +10316,7 @@ msgstr "Úhel"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,JDL"
 msgid "击倒"
-msgstr "srazit k zemi"
+msgstr "Srazit k zemi"
 
 #. Key:	JH1
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11060,7 +11055,7 @@ msgstr "Držte v ruce"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Open"
 msgid "打开"
-msgstr "Otevřít-"
+msgstr "Otevřít "
 
 #. Key:	OpenLock
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11993,7 +11988,7 @@ msgstr "Potíže s učením"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZRAXXZ"
 msgid "热爱学习"
-msgstr "Snadno se učí"
+msgstr "Rychle se učí"
 
 #. Key:	TZSDF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
