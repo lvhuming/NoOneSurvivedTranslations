@@ -823,7 +823,7 @@ msgstr "Ziegel"
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_LoadGame.WBP_LoadGame_C:WidgetTree.TextBlock.Text
 msgctxt ",264F21F94A312BE3982CE79C37D102D3"
 msgid "恢复存档"
-msgstr "Archiv wiederherstellen"
+msgstr "Speicherstand wiederherstellen"
 
 #. Key:	269B80324FC87D5B8DEDDDB22B6B7A09
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_42.In Text
@@ -1243,7 +1243,7 @@ msgstr "Skill-Detailseite"
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_LoadGame.WBP_LoadGame_C:WidgetTree.WBP_BackSave.In Text
 msgctxt ",3A6879B749414322EB2621BDD1017E66"
 msgid "恢复存档"
-msgstr "Archiv wiederherstellen"
+msgstr "Speicherstand wiederherstellen"
 
 #. Key:	3B8DEE5B4473233FCF93628DED40F9B2
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton.In Text
@@ -1803,7 +1803,7 @@ msgstr "Vorne links"
 #: /Game/Blueprint/UMG/Make/WBP_MakeDetailShow.WBP_MakeDetailShow_C:WidgetTree.KHX.Text
 msgctxt ",5B7270DA4A77C9E47E0B7A8F65ECBB39"
 msgid "抗寒性"
-msgstr "Kalter Widerstand"
+msgstr "Kältewiederstand"
 
 #. Key:	5BA1AD984DEC7D629B4A33AFA86FAC5E
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_64.In Text
@@ -1950,7 +1950,7 @@ msgstr "Boden"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_7.Text
 msgctxt ",64D4745841D9C12BDAB22087FE6B4313"
 msgid "机械+"
-msgstr "Mechanisch "
+msgstr "Maschinenbau "
 
 #. Key:	64F708BA409C70B2302CF6B3F697174E
 #. SourceLocation:	/Game/Blueprint/ACF/Data/TableAsset/FoodAssetTable.FoodAssetTable.机修（一卷）.Name_33_B65BC8D64E83EF46F5F21FA5566C3997
@@ -2489,7 +2489,7 @@ msgstr "Kämpfe um Erfahrung zu sammeln"
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_KG.Furniture_KG_C:ShowUI [Script Bytecode]
 msgctxt ",7CCCED78433FBE0BEEEFD09131C4426E"
 msgid "切换"
-msgstr "wechseln"
+msgstr "AN / AUS"
 
 #. Key:	7CF1FA4449F3464AF0C74796614B54EC
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_1.In Text
@@ -3735,7 +3735,7 @@ msgstr "1"
 #: /Game/Blueprint/ACF/Player/HDCK_GameMode.HDCK_GameMode_C:ExecuteUbergraph_HDCK_GameMode [Script Bytecode]
 msgctxt ",C4C9089841ED96447C2336ADFE055AE0"
 msgid "存档失败！！！"
-msgstr "Archivierung fehlgeschlagen! ! !"
+msgstr "Speichern fehlgeschlagen! ! !"
 
 #. Key:	C503D8D4432665A9708A219FA438AF85
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_57.In Text
@@ -4078,7 +4078,7 @@ msgstr "Kratzfest"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_23.Text
 msgctxt ",D9F39C7546A5C1735F3ED7AB191B0663"
 msgid "卫生-"
-msgstr "Die Gesundheit-"
+msgstr "Sauberkeit-"
 
 #. Key:	DA01CCEB4FCE0A10153ADBA352E6C952
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_88.In Text
@@ -4232,7 +4232,7 @@ msgstr "5%"
 #: /Game/Blueprint/UMG/MainUI/Child/TipDelSlot.TipDelSlot_C:WidgetTree.TextBlock_107.Text
 msgctxt ",E0BDBA2A4577298FB1E9F9939B39A11B"
 msgid "确认删除存档吗？"
-msgstr "Möchten Sie das Archiv wirklich löschen?"
+msgstr "Möchten Sie den Speicherstand wirklich löschen?"
 
 #. Key:	E14242274DBF33A81F07A280CB8FA63E
 #. SourceLocation:	/Game/Blueprint/ACF/Tutorial/WBP_TutorialTip7.WBP_TutorialTip7_C:WidgetTree.TextBlock_2.Text
@@ -4617,7 +4617,7 @@ msgstr "Weggeworfene Gegenstände"
 #: /Game/Blueprint/UMG/Inventory/WBP_ItemToolTip.WBP_ItemToolTip_C:WidgetTree.KHX.Text
 msgctxt ",F379E18A4638559A34899CA1B9FEEAF5"
 msgid "抗寒性"
-msgstr "Kalter Widerstand"
+msgstr "Kältewiederstand"
 
 #. Key:	F3BDDD104B77947183BF8B94D26442DE
 #. SourceLocation:	/Game/Blueprint/UMG/EscMenu/WBP_Setting.Default__WBP_Setting_C.Setting(2).Setting
@@ -4701,7 +4701,7 @@ msgstr "Elektrischer Ofen"
 #: /Game/Blueprint/UMG/ScreenMessage/WBP_CarMessage.WBP_CarMessage_C:WidgetTree.UnitLabel.Text
 msgctxt ",F63346F142E610BC067F80A6514EA901"
 msgid "车损"
-msgstr "Autoschaden"
+msgstr "Zustand"
 
 #. Key:	F698474D4774B3EAED811995AC987E07
 #. SourceLocation:	/Game/Blueprint/UMG/Inventory/WBP_AddRYButton.WBP_AddRYButton_C:OnDrop [Script Bytecode]
@@ -7837,7 +7837,7 @@ msgstr "Zeichnungen von Bearbeitungstischen"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M42"
 msgid "火力发电机图纸"
-msgstr "Zeichnungen von Thermogeneratoren"
+msgstr "Zeichnungen von Festbrennstoff Generator"
 
 #. Key:	M43
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7977,14 +7977,14 @@ msgstr "Kleine Flasche Benzin"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M60"
 msgid "电炉"
-msgstr "Elektrischer Ofen"
+msgstr "Elektrischer Schmelzofen"
 
 #. Key:	M61
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M61"
 msgid "冷凝器"
-msgstr "Kondensator"
+msgstr "Wärmetauscher"
 
 #. Key:	M62
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8145,7 +8145,7 @@ msgstr "Waffenöl"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M82"
 msgid "缝补工具"
-msgstr "Reparaturwerkzeuge"
+msgstr "Nähset"
 
 #. Key:	M83
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8180,7 +8180,7 @@ msgstr "Kleiner Eber"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M87"
 msgid "小母猪"
-msgstr "Vergoldet"
+msgstr "Ferkel"
 
 #. Key:	M88
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8299,7 +8299,7 @@ msgstr "Salbe"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,T13"
 msgid "胃药"
-msgstr "Magen Medizin"
+msgstr "Magentabletten"
 
 #. Key:	T14
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8768,7 +8768,7 @@ msgstr "Steinmesser"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W50"
 msgid "Italian霰弹枪"
-msgstr "Italian Schrotflinte"
+msgstr "Benelli M4"
 
 #. Key:	W51
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9041,7 +9041,7 @@ msgstr "Zurück"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,BackSave"
 msgid "你确定要用这个存档覆盖之前的存档吗？\r\n注意覆盖以后之前的存档无法恢复"
-msgstr "Möchten Sie den vorherigen Speicherstand wirklich mit diesem überschreiben?\r\nBeachten Sie, dass das vorherige Archiv nach dem Überschreiben nicht wiederhergestellt werden kann"
+msgstr "Möchten Sie den vorherigen Speicherstand wirklich mit diesem überschreiben?\r\nBeachten Sie, dass der vorherige Speicherstand nach dem Überschreiben nicht wiederhergestellt werden kann"
 
 #. Key:	BCG
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -9307,14 +9307,14 @@ msgstr "Ladequelle"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,CDMC021"
 msgid "存档名称"
-msgstr "Archivname"
+msgstr "Speicherstand Name"
 
 #. Key:	CDTS
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,CDTS"
 msgid "请输入一个有效存档名称或者有相同名称的存档存在"
-msgstr "Bitte geben Sie einen gültigen Archivnamen ein oder es existiert ein gleichnamiges Archiv"
+msgstr "Bitte geben Sie einen gültigen Speicherstand Name ein oder es existiert ein gleichnamiger Speicherstand"
 
 #. Key:	CF
 #. SourceLocation:	/Game/LocalizationText/UIStudy.UIStudy
@@ -9419,7 +9419,7 @@ msgstr "Fenstermodus"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Clear"
 msgid "清空"
-msgstr "Leer"
+msgstr "Entleeren"
 
 #. Key:	ClearBody
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -9433,7 +9433,7 @@ msgstr "Reinigen"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Close"
 msgid "关闭"
-msgstr "Schließen"
+msgstr "Schließen "
 
 #. Key:	confirm
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -9461,7 +9461,7 @@ msgstr "Steuerungseinstellungen"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,cook"
 msgid "烹饪"
-msgstr "Kochen"
+msgstr "Kochen "
 
 #. Key:	craft
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -9545,7 +9545,7 @@ msgstr "Verwelkt"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,decompose"
 msgid "拆解"
-msgstr "Abbau"
+msgstr "Zerlegen"
 
 #. Key:	decomposeing
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -9678,7 +9678,7 @@ msgstr "Wasser trinken"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Drop"
 msgid "丢弃"
-msgstr "Wegschmeißen"
+msgstr "Ablegen"
 
 #. Key:	DropItem
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -9748,21 +9748,21 @@ msgstr "Verstümmelung"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Eat"
 msgid "吃"
-msgstr "Essen"
+msgstr "konsumieren"
 
 #. Key:	Equip
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Equip"
 msgid "装备"
-msgstr "Ausrüstung"
+msgstr "Ausrüsten"
 
 #. Key:	ETip
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,ETip"
 msgid "拾取 "
-msgstr "Aufsammeln"
+msgstr "Aufsammeln "
 
 #. Key:	EX
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -9783,7 +9783,7 @@ msgstr "Augenform"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,fangru"
 msgid "放入"
-msgstr "Einsetzen"
+msgstr "Einlagern"
 
 #. Key:	fayue
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -9797,7 +9797,7 @@ msgstr "Entwicklung"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,FB"
 msgid "缝补"
-msgstr "Nähen"
+msgstr "Flicken"
 
 #. Key:	FBL
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10126,14 +10126,14 @@ msgstr "Bart"
 #: /Game/LocalizationText/UIStudy.UIStudy
 msgctxt "UI,HX"
 msgid "电气化"
-msgstr "Elektrifizierung"
+msgstr "Elektrotechnik"
 
 #. Key:	hygiene
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,hygiene"
 msgid "卫生"
-msgstr "Die Gesundheit"
+msgstr "Sauberkeit"
 
 #. Key:	hymr
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10210,7 +10210,7 @@ msgstr "Die Fertigkeitskompetenz steigt"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,JoinGame"
 msgid "加入游戏"
-msgstr "Nimm am Spiel teil"
+msgstr " Nimm am Spiel teil"
 
 #. Key:	journal
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10238,7 +10238,7 @@ msgstr "Nehmen Sie an einem Multiplayer-Spiel teil"
 #: /Game/LocalizationText/UIStudy.UIStudy
 msgctxt "UI,JX"
 msgid "机械"
-msgstr "Mechanisch"
+msgstr "Maschinenbau"
 
 
 #. Key:	JXX
@@ -10414,7 +10414,7 @@ msgstr "Verbinden"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,load"
 msgid "加载"
-msgstr "Belastung"
+msgstr "Laden"
 
 #. Key:	LoadGame
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10435,7 +10435,7 @@ msgstr "Gesperrt"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,LumenLight"
 msgid "Lumen全局光照"
-msgstr "Globale Beleuchtung"
+msgstr "Lumen Globale Beleuchtung"
 
 #. Key:	LumenQuial
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10554,7 +10554,7 @@ msgstr "Augenbraue"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,mood"
 msgid "心态"
-msgstr "Mentalität"
+msgstr "Motivation"
 
 #. Key:	More
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10953,7 +10953,7 @@ msgstr "Beachten Sie, dass dieser Vorgang den Inhalt des Topfes löscht"
 #: /Game/LocalizationText/UIStudy.UIStudy
 msgctxt "UI,PR"
 msgid "烹饪"
-msgstr "Kochen"
+msgstr "Kochen "
 
 #. Key:	protein
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -11009,7 +11009,7 @@ msgstr "Wangenknochen"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,QJGZZL"
 msgid "全局光照质量"
-msgstr "globale Beleuchtungsqualität"
+msgstr "Lumen Globale Beleuchtungsqualität"
 
 #. Key:	QK
 #. SourceLocation:	/Game/LocalizationText/GUN.GUN
@@ -11058,7 +11058,7 @@ msgstr "Vollbild-Fensterung"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,quchu"
 msgid "取出"
-msgstr "mitnehmen "
+msgstr "Mitnehmen "
 
 #. Key:	Quit
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11170,7 +11170,7 @@ msgstr "Sie können ein Bett bauen, um die Zeit zu beschleunigen\r\n\r\nDas Spie
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Save"
 msgid "保存"
-msgstr "speichern"
+msgstr "Speichern"
 
 #. Key:	SaveDay
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11324,7 +11324,7 @@ msgstr "Toneinstellungen"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Split"
 msgid "拆分"
-msgstr "Teilt"
+msgstr "Aufteilen"
 
 #. Key:	spring
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11506,28 +11506,28 @@ msgstr "Der Zombievirus ist ausgebrochen, du hast drei Jahre im Schutzbunker gel
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,StartDl"
 msgid "开始发电"
-msgstr "Beginnen Sie mit der Stromerzeugung"
+msgstr "Stromproduktion starten"
 
 #. Key:	StartWater
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,StartWater"
 msgid "开始抽水"
-msgstr "Beginne zu pumpen"
+msgstr "Pumpen starten"
 
 #. Key:	StopDL
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,StopDL"
 msgid "停止发电"
-msgstr "Hör auf Strom zu erzeugen"
+msgstr "Stromproduktion stoppen"
 
 #. Key:	StopWater
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,StopWater"
 msgid "停止抽水"
-msgstr "Aufhören zu pumpen"
+msgstr "Pumpen stoppen"
 
 #. Key:	StudyEnd
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11576,7 +11576,7 @@ msgstr "Springen"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Take"
 msgid "取出"
-msgstr "Mitnahme"
+msgstr "Mitnehmen"
 
 #. Key:	Talk
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11667,7 +11667,7 @@ msgstr "Anzahl der Zombie-Spawns"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,TQEnd"
 msgid "关闭"
-msgstr "Schließen"
+msgstr "Schließen "
 
 #. Key:	TQStart
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12192,7 +12192,7 @@ msgstr "Waffenherstellung"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,wsDetail"
 msgid "卫生\r\n影响丧尸发现几率，影响伤口感染几率，过低影响心情回复"
-msgstr "Die Gesundheit\r\nBeeinflusst die Wahrscheinlichkeit, dass Zombies entdeckt werden, beeinflusst die Wahrscheinlichkeit einer Wundinfektion und beeinflusst die Erholung der Stimmung, wenn sie zu niedrig ist"
+msgstr "Die Sauberkeit\r\nBeeinflusst die Wahrscheinlichkeit, dass Zombies entdeckt werden, beeinflusst die Wahrscheinlichkeit einer Wundinfektion und beeinflusst die Erholung der Motivation, wenn sie zu niedrig ist"
 
 #. Key:	WXL
 #. SourceLocation:	/Game/LocalizationText/UI.UI
