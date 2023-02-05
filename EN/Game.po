@@ -585,7 +585,7 @@ msgstr "ceiling lamp"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_37.Text
 msgctxt ",1B84894446F973C99A4BDCBAD915BF17"
 msgid "Zombie进攻"
-msgstr "Zombie offense"
+msgstr "Zombie Wave"
 
 #. Key:	1B85FB3F4B6E685DBA702D9EFCF5328A
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_ServerSetting.WBP_ServerSetting_C:WidgetTree.ShowTex.Text
@@ -1404,7 +1404,7 @@ msgstr "Summer"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_27.Text
 msgctxt ",4561C52B440C86BCBAF41DA5A5C99F38"
 msgid "建筑物直接完成"
-msgstr "Building directly completed"
+msgstr "Creative mode (toggle)"
 
 #. Key:	45E4773D490169AB850A808635B4B555
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_PZX.WBP_PZX_C:WidgetTree.development.Text
@@ -3805,7 +3805,7 @@ msgstr "Breeding pen"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_16.Text
 msgctxt ",C99F683B4CADB5E20B857EAF962FD2C7"
 msgid "体质+"
-msgstr "Physique+"
+msgstr "Constitution+"
 
 #. Key:	C9A43F9D4630EFB881767A9C232AB113
 #. SourceLocation:	/Game/Blueprint/UMG/State/WBP_Status.WBP_Status_C:WidgetTree.TextBlock_5.Text
@@ -4743,7 +4743,7 @@ msgstr "Tool"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_26.Text
 msgctxt ",F91FBBF54EFCC09A5F2A2F82AC17BF67"
 msgid "病毒抗体-"
-msgstr "Antibody to virus-"
+msgstr "Antibody virus-"
 
 #. Key:	F9AE1443479D5044F8044295EDD7944A
 #. SourceLocation:	/Game/Blueprint/UMG/Inventory/WBP_CSZWaterButton.WBP_CSZWaterButton_C:OnDrop [Script Bytecode]
@@ -7186,14 +7186,14 @@ msgstr "Coffee drink"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F63"
 msgid "小塑料瓶"
-msgstr "Small plastic bottle"
+msgstr "Small plastic bottle "
 
 #. Key:	F64
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F64"
 msgid "大塑料瓶"
-msgstr "Big plastic bottle"
+msgstr "Big plastic bottle "
 
 #. Key:	F65
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -12142,7 +12142,7 @@ msgstr "Temperature display"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,WeaponNotUse"
 msgid "当前类型武器已装备满"
-msgstr "The current type of weapon is fully equipped"
+msgstr "The current type of weapon is already equipped"
 
 #. Key:	weidget
 #. SourceLocation:	/Game/LocalizationText/UI.UI
