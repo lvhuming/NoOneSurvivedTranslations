@@ -95,7 +95,7 @@ msgstr "1"
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_ServerSetting.WBP_ServerSetting_C:WidgetTree.TextBlock_68.Text
 msgctxt ",0414C204455F4F019180F78CF6ACBF9A"
 msgid "服务器设置："
-msgstr "Configurações do servidor:"
+msgstr "Configurações do Servidor"
 
 #. Key:	0476690A4D67DD3DCB9A5DA167631A0D
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_CSZ.WBP_CSZ_C:WidgetTree.TextBlock_2.Text
@@ -564,7 +564,7 @@ msgstr "Configurações"
 #: /Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/E_AimType.E_AimType.DisplayNameMap(1 - Value).DisplayNameMap
 msgctxt ",1A5943304B1C4E435E9732A73F4A03F5"
 msgid "RedDot"
-msgstr "Acessório de Arma - Mira Red Dot"
+msgstr "Acessório - Mira Red Dot"
 
 #. Key:	1A99018D4B477A08E00FB4931F57A181
 #. SourceLocation:	/Game/Blueprint/UMG/Inventory/WBP_ItemToolTip.WBP_ItemToolTip_C:WidgetTree.TBFY.Text
@@ -655,7 +655,7 @@ msgstr "Culinária+"
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_ServerSetting.WBP_ServerSetting_C:WidgetTree.ShowTex_3.Text
 msgctxt ",1CF0746C40F2A113503AC6AB4357271C"
 msgid "房间名称："
-msgstr "Nome da Sala: "
+msgstr "Nome da Sala"
 
 #. Key:	1D10CBC14B32479868B84389F49601B1
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/FaceUI/WBP_FaceSelectButton.Default__WBP_FaceSelectButton_C.In Text
@@ -984,7 +984,7 @@ msgstr "Equipe 7"
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_ServerSetting.WBP_ServerSetting_C:WidgetTree.ShowTex_1.Text
 msgctxt ",2DE0B5EF440755EA73CCBF8E236A6626"
 msgid "服务器密码："
-msgstr "Senha do Servidor: "
+msgstr "Senha do Servidor"
 
 #. Key:	2E3B7D0B496CE27913B296A3FCDA5298
 #. SourceLocation:	/Game/Blueprint/Ladder/BP_Ladder.BP_Ladder_C:ShowUI [Script Bytecode]
@@ -1271,7 +1271,7 @@ msgstr "Machado"
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_ServerSetting.WBP_ServerSetting_C:WidgetTree.ShowTex_2.Text
 msgctxt ",3D8D64F348C5C0E386AFEDB9DE2DFD13"
 msgid "进入服务器需要密码："
-msgstr "Senha do Servidor: "
+msgstr ""
 
 #. Key:	3E32C7E445C9DFD121EC18A80D22C168
 #. SourceLocation:	/Game/HDCKBuildingSystem/Table/E_SelectTypeChild.E_SelectTypeChild.DisplayNameMap(6 - Value).DisplayNameMap
@@ -1887,14 +1887,14 @@ msgstr "Primavera"
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_GameSetting.WBP_GameSetting_C:WidgetTree.ShowTex_10.Text
 msgctxt ",607BE83C437C938E6210A89A4E185196"
 msgid "物资刷新"
-msgstr "Atualização de Material"
+msgstr "Respawn de Loot"
 
 #. Key:	60C920AE4EEC3040FA97A59FA380B13C
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_ServerSetting.WBP_ServerSetting_C:WidgetTree.ShowTex_4.Text
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_ServerSetting.WBP_ServerSetting_C:WidgetTree.ShowTex_4.Text
 msgctxt ",60C920AE4EEC3040FA97A59FA380B13C"
 msgid "仅限好友加入："
-msgstr "Apenas amigos podem participar:"
+msgstr "Sala Privada"
 
 #. Key:	6132AC50448990F25BA07BB77ED4C836
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_40.Text
@@ -2090,7 +2090,7 @@ msgstr "Caixa"
 #: /Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/E_AimType.E_AimType.DisplayNameMap(5 - Value).DisplayNameMap
 msgctxt ",6AF5DE114014DFDC3C66DF9CA70085B1"
 msgid "8B"
-msgstr "Acessório de Arma - Mira 8B"
+msgstr "Acessório - Mira 8B"
 
 #. Key:	6B154759470BA3F08F615E920930379E
 #. SourceLocation:	/Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_11.TipMessage_41_0D1B7B6342180F0BD1D386A6C8ADE0B3
@@ -2335,7 +2335,7 @@ msgstr "1"
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_GameSetting.WBP_GameSetting_C:WidgetTree.TextBlock_4.Text
 msgctxt ",7617FC3A4D3F680AB0BBEBACBADB140C"
 msgid "倍"
-msgstr "Vezes"
+msgstr " X"
 
 #. Key:	761F4D984F10527EA231C0B8CB66BEA4
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_31.Text
@@ -2937,7 +2937,7 @@ msgstr "Suporte de Caixa de Madeira"
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_GameSetting.WBP_GameSetting_C:WidgetTree.ShowTex_12.Text
 msgctxt ",990659C84BB9A39ED0C5DA92F26B3EF6"
 msgid "尸潮规模"
-msgstr "Escala da Horda"
+msgstr "Multiplicador de Horda"
 
 #. Key:	997299584F3A56724AEEECA4B30B17F9
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_CarInventory01.WBP_CarInventory01_C:ExecuteUbergraph_WBP_CarInventory01 [Script Bytecode]
@@ -3343,7 +3343,7 @@ msgstr "Deve ser colocado no chão"
 #: /Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/E_AimType.E_AimType.DisplayNameMap(2 - Value).DisplayNameMap
 msgctxt ",B0942D1946775C199F77B7B8C29F350F"
 msgid "QX"
-msgstr "Acessório de Arma - Mira QX"
+msgstr "Acessório - Mira QX"
 
 #. Key:	B09AB7414F2903DE09B2F8A4CE4DF3C4
 #. SourceLocation:	/Game/Blueprint/ACF/Manager/E_Season.E_Season.DisplayNameMap(0 - Value).DisplayNameMap
@@ -3714,7 +3714,7 @@ msgstr "Sobre"
 #: /Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/E_AimType.E_AimType.DisplayNameMap(4 - Value).DisplayNameMap
 msgctxt ",C430F0E844B731D19998729E70349790"
 msgid "4B"
-msgstr "Acessório de Arma - Mira 4B"
+msgstr "Acessório - Mira 4B"
 
 #. Key:	C4521E8D4385E37EFF5F1CB5B7252E04
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Food/AutoCreate/BP_Food_YaoCaoTea.Default__BP_Food_YaoCaoTea_C.ItemInfo.Name
@@ -3777,7 +3777,7 @@ msgstr "Armas Contundentes+"
 #: /Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/E_FireMode.E_FireMode.DisplayNameMap(1 - Value).DisplayNameMap
 msgctxt ",C8909F544D82D283B4CBAF86C0E811D3"
 msgid "TripleHair"
-msgstr "Acessório de Arma: Mira Tripla"
+msgstr "Acessório: Mira Tripla"
 
 #. Key:	C91B92F140E95FFF8720FCB5C77715EF
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_Bed.WBP_Bed_C:WidgetTree.TextBlock.Text
@@ -4148,7 +4148,7 @@ msgstr "20"
 #: /Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/QK/BP_GunAccessoryQK_Base.Default__BP_GunAccessoryQK_Base_C.ItemInfo.Name
 msgctxt ",DE21265443F9742F80DB9DA060647590"
 msgid "枪口补偿器"
-msgstr "Acessório de Arma - Compensador"
+msgstr "Acessório - Compensador"
 
 #. Key:	DE277B1B4A5CE7805A70C19466C08D22
 #. SourceLocation:	/Game/Blueprint/UMG/InteractiveMessage/WBP_BuildMaterialMessage.WBP_BuildMaterialMessage_C:WidgetTree.WBP_Key_1.ShowText
@@ -4309,7 +4309,7 @@ msgstr "10/10"
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_GameSetting.WBP_GameSetting_C:WidgetTree.ShowTex_11.Text
 msgctxt ",E51278044D668F0A8930B08C5B984311"
 msgid "商人物资刷新"
-msgstr "Respawn de Suprimentos do Comerciante"
+msgstr "Respawn do Comerciante"
 
 #. Key:	E55D360946BFB010A48B85A3400EDE5D
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Throw/BP_Throw_Base.Default__BP_Throw_Base_C.ItemInfo.Name
@@ -4652,7 +4652,7 @@ msgstr "Extremamente Forte"
 #: /Game/Blueprint/UMG/MainUI/WBP_RoomSlot.WBP_RoomSlot_C:ExecuteUbergraph_WBP_RoomSlot [Script Bytecode]
 msgctxt ",F4BF7A6C48622D449AFBF195173F9A89"
 msgid "玩家数量："
-msgstr "Número de Jogadores: "
+msgstr "Número de Jogadores"
 
 #. Key:	F53C86D14E0BC9C66FEA7885EECEEA87
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_80.In Text
@@ -7466,119 +7466,119 @@ msgstr "Metalurgia (Volume 1)"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,G1"
 msgid "手枪消音器"
-msgstr "Acessório de Arma - Silenciador (Pistola)"
+msgstr "Acessório - Silenciador (Pistola)"
 
 #. Key:	G10
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,G10"
 msgid "步枪枪托"
-msgstr "Acessório de Arma - Guarda-mão (Rifle de Assalto) "
+msgstr "Acessório - Guarda-mão (Rifle de Assalto) "
 
 #. Key:	G11
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,G11"
 msgid "冲锋枪枪托"
-msgstr "Acessório de Arma - Coronha (Metralhadora)"
+msgstr "Acessório - Coronha (Metralhadora)"
 
 #. Key:	G12
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,G12"
 msgid "狙击枪枪托"
-msgstr "Acessório de Arma - Coronha (Rifle de Precisão)"
+msgstr "Acessório - Coronha (Sniper)"
 
 #. Key:	G13
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,G13"
 msgid "762扩容弹夹"
-msgstr "Acessório de Arma - Carregador Estendido 7.62mm (Rifle de Assalto)"
+msgstr "Acessório - Carregador Estendido 7.62mm (Rifle de Assalto)"
 
 #. Key:	G14
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,G14"
 msgid "556扩容弹夹"
-msgstr "Acessório de Arma - Carregador Estendido 5.56mm (Rifle de Assalto)"
+msgstr "Acessório - Carregador Estendido 5.56mm (Rifle de Assalto)"
 
 #. Key:	G15
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,G15"
 msgid "9mm扩容弹夹"
-msgstr "Acessório de Arma - Carregador Estendido 9mm (Pistola)"
+msgstr "Acessório - Carregador Estendido 9mm (Pistola)"
 
 #. Key:	G16
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,G16"
 msgid "垂直握把"
-msgstr "Acessório de Arma - Grip Tático Vertical"
+msgstr "Acessório - Grip Tático Vertical"
 
 #. Key:	G17
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,G17"
 msgid "三角握把"
-msgstr "Acessório de Arma - Grip Tático Triangular"
+msgstr "Acessório - Grip Tático Triangular"
 
 #. Key:	G2
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,G2"
 msgid "步枪消音器"
-msgstr "Acessório de Arma - Silenciador (Espingarda)"
+msgstr "Acessório - Silenciador (Espingarda)"
 
 #. Key:	G3
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,G3"
 msgid "步枪补偿器"
-msgstr "Acessório de Arma - Compensador (Rifle de Assalto)"
+msgstr "Acessório - Compensador (Rifle de Assalto)"
 
 #. Key:	G4
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,G4"
 msgid "冲锋枪消音器"
-msgstr "Acessório de Arma - Silenciador (Metralhadora)"
+msgstr "Acessório - Silenciador (Metralhadora)"
 
 #. Key:	G5
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,G5"
 msgid "冲锋枪补偿器"
-msgstr "Acessório de Arma - Compensador (Metralhadora)"
+msgstr "Acessório - Compensador (Metralhadora)"
 
 #. Key:	G6
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,G6"
 msgid "狙击枪消音器"
-msgstr "Acessório de Arma - Silenciador (Rifle de Precisão)"
+msgstr "Acessório - Silenciador (Sniper)"
 
 #. Key:	G7
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,G7"
 msgid "狙击枪补偿器"
-msgstr "Compensador - Rifle de Precisão"
+msgstr "Acessório - Compensador (Sniper)"
 
 #. Key:	G8
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,G8"
 msgid "红点瞄准镜"
-msgstr "Acessório de Arma - Mira Reflexiva"
+msgstr "Acessório - Mira Reflexiva"
 
 #. Key:	G9
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,G9"
 msgid "全息瞄准镜"
-msgstr "Acessório de Arma - Mira Holográfica"
+msgstr "Acessório - Mira Holográfica"
 
 #. Key:	M1
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9517,7 +9517,7 @@ msgstr "Dano"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Day"
 msgid "天"
-msgstr "Dia"
+msgstr " Dias"
 
 #. Key:	DBD
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -9748,7 +9748,7 @@ msgstr "Chance de Mutilação"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Eat"
 msgid "吃"
-msgstr "Comer"
+msgstr "Consumir"
 
 #. Key:	Equip
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10665,21 +10665,21 @@ msgstr "Dificuldade: "
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,ND01"
 msgid "休闲"
-msgstr "Modo Casual"
+msgstr "Normal"
 
 #. Key:	ND02
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,ND02"
 msgid "灾变"
-msgstr "Modo Catástrofe (Difícil)"
+msgstr "Difícil"
 
 #. Key:	ND03
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,ND03"
 msgid "无人生还"
-msgstr "Ninguém Sobreviveu"
+msgstr "Hardcore"
 
 #. Key:	Need
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10966,7 +10966,7 @@ msgstr "Proteínas"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,PSSL"
 msgid "跑尸数量"
-msgstr "Número de Cadáveres"
+msgstr "Zumbis Corredores"
 
 #. Key:	Q
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11477,7 +11477,7 @@ msgstr "Aprender - "
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,SSSL"
 msgid "丧尸数量"
-msgstr "Número de Zumbis"
+msgstr "Multiplicador de Respawn"
 
 #. Key:	ST
 #. SourceLocation:	/Game/LocalizationText/UIStudy.UIStudy
@@ -12128,7 +12128,7 @@ msgstr "Fonte de Água"
 #: /Game/LocalizationText/GUN.GUN
 msgctxt "UI,WB"
 msgid "握把"
-msgstr "Acessório de Arma - Grip Tático"
+msgstr "Acessório - Grip Tático"
 
 #. Key:	WDXS
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12205,7 +12205,7 @@ msgstr "Não Reparado"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,WZSL"
 msgid "物资数量"
-msgstr "Quantidade de Material"
+msgstr "Quantidade de Loot"
 
 #. Key:	WZSL01
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -12226,14 +12226,14 @@ msgstr "Normal"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,WZSL03"
 msgid "多"
-msgstr "Muitos"
+msgstr "Alta"
 
 #. Key:	WZSL04
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,WZSL04"
 msgid "极多"
-msgstr "Muito"
+msgstr "Normal"
 
 #. Key:	XBCD
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -12380,7 +12380,7 @@ msgstr "Metalurgia"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,YJSW"
 msgid "永久死亡"
-msgstr "Morte Permanente (Permadeath)"
+msgstr "Morte Permanente"
 
 #. Key:	YJSWTS
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -12394,7 +12394,7 @@ msgstr "Redefinir habilidades após a morte"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,YNDSJ"
 msgid "一年的时间"
-msgstr "Um Ano Depois"
+msgstr "Duração do Ano"
 
 #. Key:	YX
 #. SourceLocation:	/Game/LocalizationText/UIStudy.UIStudy
@@ -12415,7 +12415,7 @@ msgstr "Nível de Dificuldade"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,YXSZ"
 msgid "游戏设置："
-msgstr "Configurações do Jogo:"
+msgstr "Configurações do Jogo"
 
 #. Key:	YY
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
