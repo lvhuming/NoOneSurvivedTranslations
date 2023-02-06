@@ -382,7 +382,7 @@ msgstr "RoofEnd"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_28.Text
 msgctxt ",1213557B462F0178A0FFDBB916902739"
 msgid "时间过去一个小时"
-msgstr "Time past an hour"
+msgstr "Time +1 Hour"
 
 #. Key:	124E388D4F52DAC525AAD8B98D669128
 #. SourceLocation:	/Game/Blueprint/UMG/ScreenMessage/WBP_CarMessage.WBP_CarMessage_C:WidgetTree.Gear.Text
@@ -809,7 +809,7 @@ msgstr "All"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_43.Text
 msgctxt ",257D695A47DEEA3FFC5862BD1084FDE4"
 msgid "增加疟疾"
-msgstr "Increased malaria"
+msgstr "Infect with Malaria"
 
 #. Key:	258B8DCA4A30A8C003E35AA9CED8333D
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_33.In Text
@@ -2517,7 +2517,7 @@ msgstr "Model 01"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_18.Text
 msgctxt ",7E0D35D04487BF2FCA42F68796859048"
 msgid "生命值-"
-msgstr "life value-"
+msgstr "Health-"
 
 #. Key:	7E1AF86D4DF1A90B75698E8CE26CA187
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/Furniture_Base.Furniture_Base_C:ShowUI [Script Bytecode]
@@ -2622,7 +2622,7 @@ msgstr "Arms"
 #: /Game/Blueprint/UMG/MainUI/WBP_Main.WBP_Main_C:WidgetTree.TextBlock_0.Text
 msgctxt ",836EB7AB40D4C893FD6B23A855BE4F36"
 msgid "公告：\r\n\r\n因为游戏采用了最新的UnrealEngine5引擎，为了获得最好的游戏体验，请将显卡驱动升级到最新版本。\r\n\r\n否则你可能会看到模型显示不完整等情况。\r\n\r\n感谢！"
-msgstr "Announcement:\r\n\r\nBecause the game uses the latest UnrealEngine5 engine, in order to get the best gaming experience, please upgrade the graphics card driver to the latest version.\r\n\r\nOtherwise you may see the model display incomplete etc.\r\n\r\nThank you!"
+msgstr "Announcement:\r\n\r\nThe game uses the latest UnrealEngine5 engine, in order to get the best gaming experience, please upgrade your graphics card driver to the latest version.\r\n\r\nOtherwise you may see models display incorrectly, and experience other visual issues.\r\n\r\nThank you!"
 
 #. Key:	83F46BF04B9C9DD831186F9C5C08D9AA
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(6 - Value).DisplayNameMap
@@ -3518,7 +3518,7 @@ msgstr "Incubator"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_29.Text
 msgctxt ",B87C1302490FEB17850EACA7A4DC8025"
 msgid "时间过去一天"
-msgstr "Time past day"
+msgstr "Time +1 Day"
 
 #. Key:	B8A8A98F45439FF5C4B080AD967B6AD8
 #. SourceLocation:	/Game/Blueprint/UMG/NPCUMG/WBP_jy.WBP_jy_C:WidgetTree.Name.Text
@@ -4260,7 +4260,7 @@ msgstr "Furniture"
 #: /Game/Blueprint/UMG/Furniture/WBP_ShowDCZ.WBP_ShowDCZ_C:WidgetTree.Name.Text
 msgctxt ",E2E0964B4D190CE50F62B589079F730D"
 msgid "电池组"
-msgstr "Battery"
+msgstr "Battery table"
 
 #. Key:	E31C6DA3490AA4EB9661B184FAD08B65
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_19.Text
@@ -4883,7 +4883,7 @@ msgstr "For connecting outer corner roofs."
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_53.In Text
 msgctxt ",FF2F50414387532F4542DC831B775CDC"
 msgid "电池组"
-msgstr "Battery"
+msgstr "Battery table"
 
 #. Key:	FF7908124DFD99DC2113E299B7A4DF92
 #. SourceLocation:	/Game/Blueprint/ACF/Tutorial/WBP_TutorialTip1.WBP_TutorialTip1_C:WidgetTree.TextBlock_2.Text
@@ -5898,7 +5898,7 @@ msgstr "Water Purifier"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B42"
 msgid "电池组"
-msgstr "Battery"
+msgstr "Battery table"
 
 #. Key:	B43
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -9748,7 +9748,7 @@ msgstr "Dismember"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Eat"
 msgid "吃"
-msgstr "Eat"
+msgstr "Consume"
 
 #. Key:	Equip
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -9986,7 +9986,7 @@ msgstr "Infect"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,GX"
 msgid "关系："
-msgstr "Relation:"
+msgstr "Relationship:"
 
 #. Key:	GXZC
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11162,7 +11162,7 @@ msgstr "Too little fuel inside"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SAVE"
 msgid "你可以建造一个床加快时间流逝\r\n\r\n游戏全程自动存档"
-msgstr "You can craft a bed to sleep and pass time.\r\n\r\nThe game is automatically saved as you play the game."
+msgstr "You can craft a bed to sleep, pass time, and set a respawn point.\r\n\r\nThe game is automatically saved as you play the game."
 
 #. Key:	Save
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11554,7 +11554,7 @@ msgstr "Summer"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SW11"
 msgid "在打开箱子的状态下，左键单击物品可以快速转移。\r\n\r\n拖动物品中按下R旋转物品方向。"
-msgstr "In the state of opening the box, left click on the item to quickly transfer.\r\n\r\nPress R while dragging the item to rotate the item direction."
+msgstr "After opening the box, left click on the item to quickly transfer.\r\n\r\nPress R while dragging the item to rotate the item direction."
 
 #. Key:	SY
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12338,7 +12338,7 @@ msgstr "Learning conditions:"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,XZSJ"
 msgid "熏肉需要200秒"
-msgstr "Bacon takes 200 seconds"
+msgstr "Jerky takes 200 seconds"
 
 #. Key:	Y
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
