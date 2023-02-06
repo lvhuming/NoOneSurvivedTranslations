@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
 "POT-Creation-Date: 2023-01-26 02:33\n"
-"PO-Revision-Date: 2023-02-01 23:30+0900\n"
+"PO-Revision-Date: 2023-02-05 20:54+0900\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ko\n"
@@ -305,7 +305,7 @@ msgstr "말라리아에 감염될 확률"
 #: /Game/Blueprint/ACF/Player/HDCK_CharacterBP.Default__HDCK_CharacterBP_C.TimeBuffDetail(0).TimeBuffDetail.TipMessage_56_5402F47A4785659B27440099C7CA676D
 msgctxt ",0D2F9EF34F24FE1D4DE8229B65941BC4"
 msgid "疟疾，减少耐力上限和回复"
-msgstr "말라리아, 최대체력 및 회복량 감소"
+msgstr "말라리아, 최대지구력 및 회복량 감소"
 
 #. Key:	0EAC4CF84F900A49A09DE09F240307B5
 #. SourceLocation:	/Game/Blueprint/UMG/WBP_BaseCharacter.WBP_BaseCharacter_C:WidgetTree.YZKX.Text
@@ -504,7 +504,7 @@ msgstr "페니실린"
 #: /Game/Blueprint/ACF/Data/TableAsset/WeaponTable.WeaponTable.870AC霰弹枪.ItemInfo_66_F92A1A3B448C3413FD56918B4BFB9241.Name
 msgctxt ",179396904C8A16B4EA4444A1DBC55A1E"
 msgid "870AC"
-msgstr "870AC"
+msgstr "R870 산탄총"
 
 #. Key:	17B6B9D34796D38A9172D2AB4AFFD345
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_JoinGame.WBP_JoinGame_C:WidgetTree.WBP_Search.In Text
@@ -540,7 +540,7 @@ msgstr "긴 양손 칼"
 #: /Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_1.TipMessage_41_0D1B7B6342180F0BD1D386A6C8ADE0B3
 msgctxt ",19AC3E7F4171121FDAC351BEE6BAD32D"
 msgid "负重"
-msgstr "확인"
+msgstr "무게"
 
 #. Key:	19C478A9460A7FCF7A9C9A987249F571
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_RYFDJ.WBP_RYFDJ_C:WidgetTree.TextRY.Text
@@ -751,7 +751,7 @@ msgstr "내구성:"
 #: /Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_sniper_SVD.Default__ACFGunBase_sniper_SVD_C.ItemInfo.Name
 msgctxt ",212FFBA3493769C9C4FA938375E1614C"
 msgid "SVD"
-msgstr "SVD"
+msgstr "SVD 저격 소총"
 
 #. Key:	2191E6F14098A0C04EFC4FA4B26ECAE8
 #. SourceLocation:	/Game/Blueprint/UMG/ScreenMessage/WBP_GunMessage.WBP_GunMessage_C:ExecuteUbergraph_WBP_GunMessage [Script Bytecode]
@@ -1403,7 +1403,7 @@ msgstr "그늘이 지거나 햇빛이 없는 날씨는 전기를 생산할 수 �
 #: /Game/Blueprint/ACF/Data/TableAsset/WeaponTable.WeaponTable.SVD狙击枪.ItemInfo_66_F92A1A3B448C3413FD56918B4BFB9241.Name
 msgctxt ",4362834A4E275D8A564F3388D39CBEFC"
 msgid "SVD"
-msgstr "SVD"
+msgstr "SVD 저격 소총"
 
 #. Key:	43D1BDAC430C12636432F9B0A31832E9
 #. SourceLocation:	/Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_14.TipMessage_41_0D1B7B6342180F0BD1D386A6C8ADE0B3
@@ -1619,7 +1619,7 @@ msgstr "자동"
 #: /Game/Blueprint/ACF/Player/HDCK_CharacterBP.Default__HDCK_CharacterBP_C.TimeBuffDetail(1).TimeBuffDetail.TipMessage_56_5402F47A4785659B27440099C7CA676D
 msgctxt ",508A302D479171AD2AFCB5BDF7BF0BD4"
 msgid "感染，大幅度持续掉血"
-msgstr "감염, 출혈 지속"
+msgstr "감염! (지속적인 생명력감소)"
 
 #. Key:	50923B86404D68B1F149ABBED6BFC293
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_61.In Text
@@ -1643,7 +1643,7 @@ msgstr "차 안"
 #: Text
 msgctxt ",5159A35C4632DF45C427CC9981E0117D"
 msgid "滤芯"
-msgstr "필터 요소"
+msgstr "정수 필터"
 
 #. Key:	5266199243DBCAB57A9139B087C1733C
 #. SourceLocation:	/Game/HDCKBuildingSystem/Table/E_SelectTypeChild.E_SelectTypeChild.DisplayNameMap(4 - Value).DisplayNameMap
@@ -1769,7 +1769,7 @@ msgstr "모델 02"
 #: /Game/Blueprint/ACF/Item/Weapon/ACFGunBase_SMG.Default__ACFGunBase_SMG_C.ItemInfo.Name
 msgctxt ",590B39C941F02271DB34EF8E862671DA"
 msgid "MP7A1冲锋枪"
-msgstr "MP7A1 기관단총"
+msgstr "MP7 기관단총"
 
 #. Key:	597318344B733EB7EA60D2A7DB6A2858
 #. SourceLocation:	/Game/Blueprint/UMG/ScreenMessage/WBP_CarMessage.WBP_CarMessage_C:WidgetTree.UnitLabel_1.Text
@@ -1887,7 +1887,7 @@ msgstr "SVD 저격 소총"
 #: /Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_6.TipMessage_41_0D1B7B6342180F0BD1D386A6C8ADE0B3
 msgctxt ",5CB0A2B9434116D064FC0780EE57DE6A"
 msgid "耐力上限"
-msgstr "최대 체력"
+msgstr "최대 지구력"
 
 #. Key:	5CEE296242EF06A6C8AF7BB44F1ACBA6
 #. SourceLocation:	/Game/Blueprint/UMG/WBP_BaseCharacter.WBP_BaseCharacter_C:WidgetTree.JDL.Text
@@ -1938,7 +1938,7 @@ msgstr "봄"
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_GameSetting.WBP_GameSetting_C:WidgetTree.ShowTex_10.Text
 msgctxt ",607BE83C437C938E6210A89A4E185196"
 msgid "物资刷新"
-msgstr "재료 새로고침"
+msgstr "필드 재료리셋"
 
 #. Key:	60C920AE4EEC3040FA97A59FA380B13C
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_ServerSetting.WBP_ServerSetting_C:WidgetTree.ShowTex_4.Text
@@ -2024,7 +2024,7 @@ msgstr "첨단 화학 반응 장비"
 #: /Game/Blueprint/ACF/Player/HDCK_CharacterBP.Default__HDCK_CharacterBP_C.TimeBuffDetail(2).TimeBuffDetail.TipMessage_56_5402F47A4785659B27440099C7CA676D
 msgctxt ",6633F35B4A96FB574842B3896808D3CB"
 msgid "流血，持续掉血"
-msgstr "출혈, 지속적인 출혈"
+msgstr "출혈! (지속적인 생명력감소)"
 
 #. Key:	6637FA9A490D558CD9C89DAD12BCB992
 #. SourceLocation:	/Game/Blueprint/UMG/WBP_ToopText.WBP_ToopText_C:WidgetTree.TextBlock_36.Text
@@ -2068,7 +2068,7 @@ msgstr "목표 생성 지점"
 #: Text
 msgctxt ",67D08D9140C4E55E2C3B48B1ACD99534"
 msgid ".44子弹"
-msgstr ".44 총알"
+msgstr ".44 탄약"
 
 #. Key:	68475427496E27E22A3F4DB608EF5675
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_25.In Text
@@ -2153,7 +2153,7 @@ msgstr "8B"
 #: /Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_11.TipMessage_41_0D1B7B6342180F0BD1D386A6C8ADE0B3
 msgctxt ",6B154759470BA3F08F615E920930379E"
 msgid "疾跑耐力消耗"
-msgstr "달리기시 체력 소모량"
+msgstr "달리기시 지구력 소모량"
 
 #. Key:	6B5672FE4B8FDF39CD26C8B2527E9E21
 #. SourceLocation:	/Game/Blueprint/UMG/NPCUMG/WBP_jy.WBP_jy_C:WidgetTree.GX.Text
@@ -2181,7 +2181,7 @@ msgstr "이제 앞에 있는 무기를 주워 다른 칸으로 교체해 보세�
 #: /Game/Blueprint/UMG/Gun/WBP_GunM4A1.WBP_GunM4A1_C:WidgetTree.ItemName.Text
 msgctxt ",6BE962314A8FBC6002DBB2BC5D649223"
 msgid "M4A1"
-msgstr "M4A1"
+msgstr "M4 소총"
 
 #. Key:	6C007083466970C3B2190CAC9FC2112C
 #. SourceLocation:	/Game/Blueprint/ACF/Player/HDCK_GameState.Default__HDCK_GameState_C:Team Manager.Teams(2 - Value).Teams.DisplayName
@@ -2789,7 +2789,7 @@ msgstr "은괴"
 #: /Game/Blueprint/ACF/Item/Weapon/ACFGunBase_HandGun.Default__ACFGunBase_HandGun_C.ItemInfo.Name
 msgctxt ",892DE0C84B6887D6EFA69E8C79F48754"
 msgid "G18手枪"
-msgstr "G18 권총"
+msgstr "18C 권총"
 
 #. Key:	895DDEAA447AEEB87FC85BA41F762B94
 #. SourceLocation:	/Game/HDCKBuildingSystem/Table/E_SelectType.E_SelectType.DisplayNameMap(2 - Value).DisplayNameMap
@@ -2916,7 +2916,7 @@ msgstr "감기약"
 #: /Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_sniper_SKS.Default__ACFGunBase_sniper_SKS_C.ItemInfo.Name
 msgctxt ",91FF2310440E4C0B3EDA64998B153170"
 msgid "SKS"
-msgstr "SKS"
+msgstr "SKS 소총"
 
 #. Key:	926AF14B4D7F5B9C55338BAD27D3934A
 #. SourceLocation:	/Game/Blueprint/UMG/Inventory/GridInventory/WBP_Item.WBP_Item_C:WidgetTree.Num.Text
@@ -3197,7 +3197,7 @@ msgstr "내열성"
 #: /Game/Blueprint/ACF/Data/TableAsset/WeaponTable.WeaponTable.SKS狙击枪.ItemInfo_66_F92A1A3B448C3413FD56918B4BFB9241.Name
 msgctxt ",A3EEE2ED4151882C6AADCC9C40E8CEE1"
 msgid "SKS"
-msgstr "SKS"
+msgstr "SKS 소총"
 
 #. Key:	A40DC20449F773A942EBF6AA0B8E95F6
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Tool/Item_NotUse_Tool_Base.Default__Item_NotUse_Tool_Base_C.ItemInfo.Name
@@ -3561,7 +3561,7 @@ msgstr "지붕"
 #: Text
 msgctxt ",B53BE0D643F0BC85688ACCAC6E911CA2"
 msgid "762子弹"
-msgstr "762 총알"
+msgstr "7.62 탄약"
 
 #. Key:	B57A00354900F30D42BACFBCF9434A53
 #. SourceLocation:	/Game/Blueprint/UMG/ChatSystem/WBP_ChatMenu.WBP_ChatMenu_C:WidgetTree.MessageBox.HintText
@@ -3695,7 +3695,7 @@ msgstr "0"
 #: Text
 msgctxt ",BB0420A948E6FE459983A0AF89A6845D"
 msgid "霰弹枪子弹"
-msgstr "샷건 총알"
+msgstr "샷건 탄약"
 
 #. Key:	BB154E9F4CD911E0A5B38BA239AA67F0
 #. SourceLocation:	/Game/Blueprint/UMG/ScreenMessage/WBP_CarMessage.WBP_CarMessage_C:WidgetTree.UnitLabel_2.Text
@@ -3981,7 +3981,7 @@ msgstr "철거는 자재를 반환하지 않지만 엔지니어링 경험치을 
 #: Text
 msgctxt ",CCEA1679435409D6C3183B863520690B"
 msgid "556子弹"
-msgstr "총알 556개"
+msgstr "탄약 556개"
 
 #. Key:	CCFH
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -4041,7 +4041,7 @@ msgstr "모델 01"
 #: /Game/Blueprint/UMG/Make/WBP_MakeDetailShow.WBP_MakeDetailShow_C:WidgetTree.FZ.Text
 msgctxt ",CF9CE28D415251343B2738AAC697FAF5"
 msgid "负重"
-msgstr "확인"
+msgstr "무게"
 
 #. Key:	checknuild
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -4449,7 +4449,7 @@ msgstr "10/10"
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_GameSetting.WBP_GameSetting_C:WidgetTree.ShowTex_11.Text
 msgctxt ",E51278044D668F0A8930B08C5B984311"
 msgid "商人物资刷新"
-msgstr "상인의 물품 새로고침"
+msgstr "상인의 물품 리셋주기"
 
 #. Key:	E55D360946BFB010A48B85A3400EDE5D
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Throw/BP_Throw_Base.Default__BP_Throw_Base_C.ItemInfo.Name
@@ -4485,7 +4485,7 @@ msgstr "앉기오른쪽"
 #: /Game/Blueprint/UMG/Furniture/WBP_Cook.WBP_Cook_C:WidgetTree.TextBlock.Text
 msgctxt ",E639CD39475055443B13FEA8EE9690E5"
 msgid "清理"
-msgstr "씻기"
+msgstr "비우기"
 
 #. Key:	E6E3B15A4925B249E7A292B862DF098A
 #. SourceLocation:	/Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_7.TZZ_25_C35A51E443EAFDA67203CFBC1ACCE357
@@ -4582,7 +4582,7 @@ msgstr "전기화학+"
 #: Text
 msgctxt ",E987BA7A4F40FB8392162989C15EBC20"
 msgid "9mm子弹"
-msgstr "9mm 총알"
+msgstr "9mm 탄약"
 
 #. Key:	E9A10E33421DF89FF3203C8259441E89
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(0 - Value).DisplayNameMap
@@ -4729,7 +4729,7 @@ msgstr "항목 프로필 열(덮어쓰기됨)"
 #: /Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_Shotgun_870AC.Default__ACFGunBase_Shotgun_870AC_C.ItemInfo.Name
 msgctxt ",F160B21145FE57A056580E9B6B80AFB8"
 msgid "870AC"
-msgstr "870AC"
+msgstr "R870 산탄총"
 
 #. Key:	F19BD91C44C6F6CBC9085E9FAA02D371
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/FaceUI/WBP_SlideMorph.WBP_SlideMorph_C:WidgetTree.Text.Text
@@ -4876,7 +4876,7 @@ msgstr "이 아이템은 여기에 장착할 수 없습니다"
 #: /Game/Blueprint/UMG/Inventory/WBP_ItemToolTip.WBP_ItemToolTip_C:WidgetTree.FZ.Text
 msgctxt ",F6ADCB9746F1B2F3403FB6B6ED56A446"
 msgid "负重"
-msgstr "확인"
+msgstr "무게"
 
 #. Key:	F719C4924ABDCB3C94506984F66D8846
 #. SourceLocation:	/Game/Blueprint/UMG/EscMenu/WBP_KeyInputAxis.WBP_KeyInputAxis_C:WidgetTree.InputKeySelector_0.NoKeySpecifiedText
@@ -5030,7 +5030,7 @@ msgstr "속성 페이지"
 #: Bytecode]
 msgctxt ",FEB00EB14CB0582FD5EC4192D7C1185F"
 msgid "当前格子已经装备了其他物品"
-msgstr "현재 그리드에 이미 다른 아이템이 준비되어 있습니다."
+msgstr "현재 슬롯에 이미 다른 아이템이 장착되어 있습니다."
 
 #. Key:	FEB21BCC4870D846278BA9A227875DA1
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_ServerSetting.WBP_ServerSetting_C:WidgetTree.RoomName.Text
@@ -5871,7 +5871,7 @@ msgstr "벽돌 벽(문 구멍 있음)"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B17"
 msgid "砖墙(带窗洞)"
-msgstr "벽돌 벽(창문 구멍 있음)"
+msgstr "벽돌 벽(창문 틀 있음)"
 
 #. Key:	B18
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -5969,7 +5969,7 @@ msgstr "계단"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B3"
 msgid "木材墙体(带窗洞)"
-msgstr "목재 벽(창문 구멍 있음)"
+msgstr "목재 벽(창문 틀 있음)"
 
 #. Key:	B30
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -7061,7 +7061,7 @@ msgstr "말린 야채"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F25"
 msgid "烤肉"
-msgstr "불고기"
+msgstr "바베큐"
 
 #. Key:	F26
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7663,14 +7663,14 @@ msgstr "저격 소총 주식"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,G13"
 msgid "762扩容弹夹"
-msgstr "762 확장 매거진"
+msgstr "7.62 확장 매거진"
 
 #. Key:	G14
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,G14"
 msgid "556扩容弹夹"
-msgstr "556 확장 매거진"
+msgstr "5.56 확장 매거진"
 
 #. Key:	G15
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8321,7 +8321,7 @@ msgstr "수선 도구"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M83"
 msgid "饲料"
-msgstr "재료"
+msgstr "사료"
 
 #. Key:	M84
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8699,7 +8699,7 @@ msgstr "잠긴 상자나 문을 열때 사용할수있습니다."
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W2"
 msgid "将中心点对准建筑，进行捕捉"
-msgstr "스냅할 건물에 중심점을 맞춥니다."
+msgstr "제작 및 설계를위한 기초적인도구입니다."
 
 #. Key:	W20
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8839,7 +8839,7 @@ msgstr "강철 양손 칼"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W38"
 msgid "钢棍"
-msgstr "강철나사가 박힌 배트"
+msgstr "강철못이 박힌 배트"
 
 #. Key:	W39
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8888,7 +8888,7 @@ msgstr "수류탄"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W44"
 msgid "沙鹰"
-msgstr "데저트 이글"
+msgstr "DE 피스톨"
 
 #. Key:	W45
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8937,21 +8937,21 @@ msgstr "돌 칼"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W50"
 msgid "Italian霰弹枪"
-msgstr "이탈리아 산탄총"
+msgstr "BM4 산탄총"
 
 #. Key:	W51
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W51"
 msgid "762弹药"
-msgstr "762 탄약"
+msgstr "7.62 탄약"
 
 #. Key:	W52
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W52"
 msgid "556弹药"
-msgstr "556 탄약"
+msgstr "5.56 탄약"
 
 #. Key:	W53
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9063,7 +9063,7 @@ msgstr "좋은 화살일수록 화살 회수율이 증가합니다."
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,09"
 msgid "使用动作菜单躺下或者坐下可以快速恢复耐力，较慢回复体力。"
-msgstr "액션 메뉴키를 사용하여 눕거나 앉으면 체력 및 스태미너를 회복할수있습니다."
+msgstr "액션 메뉴키를 사용하여 눕거나 앉으면 체력 및 지구력을 회복할수있습니다."
 
 #. Key:	10
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -9473,7 +9473,7 @@ msgstr "재단사"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,ChangAn"
 msgid "长按"
-msgstr "누르다"
+msgstr "꾹누르기"
 
 #. Key:	Change
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -9662,7 +9662,7 @@ msgstr "데미지"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Day"
 msgid "天"
-msgstr "하늘"
+msgstr "일"
 
 #. Key:	DBD
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -9711,7 +9711,7 @@ msgstr "깊이"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,destroyBuild"
 msgid "拆除"
-msgstr "허물다"
+msgstr "허물기"
 
 #. Key:	destroyHammer
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10271,7 +10271,7 @@ msgstr "수염"
 #: /Game/LocalizationText/UIStudy.UIStudy
 msgctxt "UI,HX"
 msgid "电气化"
-msgstr "전기화"
+msgstr "전기화학"
 
 #. Key:	hygiene
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -10653,7 +10653,7 @@ msgstr "최대 문자 수에 도달"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,MaxStam"
 msgid "最大耐力"
-msgstr "최대 체력"
+msgstr "최대 지구력"
 
 #. Key:	MJ
 #. SourceLocation:	/Game/LocalizationText/GUN.GUN
@@ -10744,7 +10744,7 @@ msgstr "쓸만한게없습니다."
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,nailihuifu"
 msgid "耐力回复"
-msgstr "체력 회복"
+msgstr "지구력 회복"
 
 #. Key:	Name
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10863,7 +10863,7 @@ msgstr "말라리아"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,NLSX"
 msgid "耐力上限"
-msgstr "체력 상한"
+msgstr "지구력 상한"
 
 #. Key:	NoFireOrMat
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11052,7 +11052,7 @@ msgstr "손에 들기"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Open"
 msgid "打开"
-msgstr "열려 있음"
+msgstr "열기"
 
 #. Key:	OpenLock
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11150,7 +11150,7 @@ msgstr "총구"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,QRGG"
 msgid "应用"
-msgstr "신청"
+msgstr "적용"
 
 #. Key:	QRTC
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11615,7 +11615,7 @@ msgstr "신체"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,Stamina"
 msgid "耐力"
-msgstr "체력"
+msgstr "지구력"
 
 #. Key:	Start
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11779,7 +11779,7 @@ msgid ""
 "每减少30点体力，伤害降低25%（不影响枪械）"
 msgstr ""
 "체력\r\n"
-"HP 30포인트마다 받는데미지 25% 감소(적과 아군의 화기에는 영향 없음)"
+"30포인트마다 받는데미지 25% 감소(적과 아군의 화기에는 영향 없음)"
 
 #. Key:	toLen
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11849,7 +11849,7 @@ msgstr "바이러스 킬러"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZdetail"
 msgid "影响生命，耐力上限"
-msgstr "생명력, 최대 체력에 영향을 미칩니다."
+msgstr "생명력, 최대 지구력에 영향을 미칩니다."
 
 #. Key:	TZFYF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -11947,7 +11947,7 @@ msgstr "무한한 힘"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZNLF"
 msgid "耐力不好"
-msgstr "약한 체력"
+msgstr "적은 지구력"
 
 #. Key:	TZNLZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -12301,7 +12301,7 @@ msgstr "수리되지 않은"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,WZSL"
 msgid "物资数量"
-msgstr "재료 수량"
+msgstr "필드 재료수급"
 
 #. Key:	WZSL01
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -12448,14 +12448,14 @@ msgstr "오른쪽"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,YanJ"
 msgid "眼睛"
-msgstr "시야"
+msgstr "눈동자"
 
 #. Key:	YANJU
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,YANJU"
 msgid "眼距"
-msgstr "시야 거리"
+msgstr "눈동자 거리"
 
 #. Key:	YINXIAO
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -12476,14 +12476,14 @@ msgstr "야금"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,YJSW"
 msgid "永久死亡"
-msgstr "영원한 죽음"
+msgstr "무결점"
 
 #. Key:	YJSWTS
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,YJSWTS"
 msgid "死亡以后重置所有技能"
-msgstr "사망 후 모든 스킬 초기화"
+msgstr "사망시 모든 스킬및숙련도 초기화"
 
 #. Key:	YNDSJ
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
