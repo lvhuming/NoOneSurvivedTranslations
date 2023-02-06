@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
 "POT-Creation-Date: 2023-01-26 02:33\n"
-"PO-Revision-Date: 2023-02-05 15:08+0100\n"
+"PO-Revision-Date: 2023-02-06 06:41+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: cs\n"
@@ -467,7 +467,7 @@ msgstr "Obrana"
 #: - Value).DisplayNameMap
 msgctxt ",156B0CCB494B40FB415BECB3C72F876F"
 msgid "Floor"
-msgstr "Patro"
+msgstr "Podlaha"
 
 #. Key:	15C84B214899728C578578975B46BEC5
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/DJ/BP_GunAccessory_DJ_556_02.Default__BP_GunAccessory_DJ_556_02_C.ItemInfo.Description
@@ -503,7 +503,7 @@ msgstr "Penicilín"
 #: /Game/Blueprint/ACF/Data/TableAsset/WeaponTable.WeaponTable.870AC霰弹枪.ItemInfo_66_F92A1A3B448C3413FD56918B4BFB9241.Name
 msgctxt ",179396904C8A16B4EA4444A1DBC55A1E"
 msgid "870AC"
-msgstr "870AC"
+msgstr "Brokovnice R870"
 
 #. Key:	17B6B9D34796D38A9172D2AB4AFFD345
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_JoinGame.WBP_JoinGame_C:WidgetTree.WBP_Search.In Text
@@ -1117,7 +1117,7 @@ msgstr "Prázdné"
 #: - Value).DisplayNameMap
 msgctxt ",337ED83240330270AB32E8803A60AB7F"
 msgid "Floor"
-msgstr "Patro"
+msgstr "Podlaha"
 
 #. Key:	33A4C5C84762B0FABA98AD81D6662884
 #. SourceLocation:	/Game/Blueprint/AI/SpawnAi/BP_AIOSpawnerHDCK.BP_AIOSpawnerHDCK_C:GenerateSpawnPoints [Script Bytecode]
@@ -1908,7 +1908,7 @@ msgstr "Sada obrazovek"
 #: /Game/Blueprint/UMG/EscMenu/WBP_Setting.Default__WBP_Setting_C.Setting(3).Setting
 msgctxt ",5E1ED50C47DD8CFA5174619CFC27D2F2"
 msgid "极高"
-msgstr "Extrémně vysoko"
+msgstr "Extrémně vysoká"
 
 #. Key:	5EBECD7B4AE8560B73AA0A93ABBB9CAB
 #. SourceLocation:	/Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(6 - Value).DisplayNameMap
@@ -2016,7 +2016,7 @@ msgstr "Malý"
 #: Text
 msgctxt ",65C9E9B844AB55AA2894D49ED495FF2B"
 msgid "高级化学反应设备"
-msgstr "Pokročilé zařízení pro chemické reakce"
+msgstr "Chemická laboratoř"
 
 #. Key:	6633F35B4A96FB574842B3896808D3CB
 #. SourceLocation:	/Game/Blueprint/ACF/Player/HDCK_CharacterBP.Default__HDCK_CharacterBP_C.TimeBuffDetail(2).TimeBuffDetail.TipMessage_56_5402F47A4785659B27440099C7CA676D
@@ -3086,7 +3086,7 @@ msgstr "Založení hry se nepovedlo!"
 #: - Value).DisplayNameMap
 msgctxt ",9DAE78634ECE4283CB9DEF8A66D92169"
 msgid "HandGuardStairs"
-msgstr "HandGuardSchody"
+msgstr "Zábradlí"
 
 #. Key:	9DC0733440738ACF45E75B8E41637647
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/DJ/BP_GunAccessory_DJ_762_02.Default__BP_GunAccessory_DJ_762_02_C.ItemInfo.Description
@@ -3694,7 +3694,7 @@ msgstr "0"
 #: Text
 msgctxt ",BB0420A948E6FE459983A0AF89A6845D"
 msgid "霰弹枪子弹"
-msgstr "Brokovnicová kulka"
+msgstr "Náboje do Brokovnice"
 
 #. Key:	BB154E9F4CD911E0A5B38BA239AA67F0
 #. SourceLocation:	/Game/Blueprint/UMG/ScreenMessage/WBP_CarMessage.WBP_CarMessage_C:WidgetTree.UnitLabel_2.Text
@@ -3995,7 +3995,7 @@ msgstr "Demontáž a vrácení všech materiálů"
 #: Text
 msgctxt ",CD1F85B4472D5C4EA8B1FCAF5325B0AB"
 msgid "吊灯"
-msgstr "Lustr"
+msgstr "Stropní světlo"
 
 #. Key:	CD4B5FDD4E0BF834CC0C6BBF34EE31EB
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_97.In Text
@@ -4367,7 +4367,7 @@ msgstr "5%"
 #: /Game/Blueprint/UMG/MainUI/Child/TipDelSlot.TipDelSlot_C:WidgetTree.TextBlock_107.Text
 msgctxt ",E0BDBA2A4577298FB1E9F9939B39A11B"
 msgid "确认删除存档吗？"
-msgstr "Jste si jisti, že chcete uloženou pozici odstranit?"
+msgstr "Jste si jisti, že chcete odstranit uloženou pozici?"
 
 #. Key:	E14242274DBF33A81F07A280CB8FA63E
 #. SourceLocation:	/Game/Blueprint/ACF/Tutorial/WBP_TutorialTip7.WBP_TutorialTip7_C:WidgetTree.TextBlock_2.Text
@@ -4728,7 +4728,7 @@ msgstr "Sloupec profilu položky (bude přepsán)"
 #: /Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_Shotgun_870AC.Default__ACFGunBase_Shotgun_870AC_C.ItemInfo.Name
 msgctxt ",F160B21145FE57A056580E9B6B80AFB8"
 msgid "870AC"
-msgstr "870 AC"
+msgstr "Brokovnice R870"
 
 #. Key:	F19BD91C44C6F6CBC9085E9FAA02D371
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/FaceUI/WBP_SlideMorph.WBP_SlideMorph_C:WidgetTree.Text.Text
@@ -5671,7 +5671,7 @@ msgstr "Příčný nosník (dvě oddělení)"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",TwoHorizontalBeamDetail"
 msgid "较长横梁，可以承受重量。"
-msgstr "Dlouhé nosníky pro velkou váhu."
+msgstr "Dlouhé nosníky pro velkou nosnost."
 
 #. Key:	VerticalBeam
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -6161,7 +6161,7 @@ msgstr "Chemická stanice"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B54"
 msgid "高级化学反应设备"
-msgstr "Pokročilé zařízení pro chemické reakce"
+msgstr "Chemická laboratoř"
 
 #. Key:	B55
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -8058,7 +8058,7 @@ msgstr "Výkres farmaceutické laboratoře"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M49"
 msgid "高级化学反应设备图纸"
-msgstr "Výkres pokročilého zařízení pro chemické reakce"
+msgstr "Výkres chemická laboratoř"
 
 #. Key:	M5
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8359,14 +8359,14 @@ msgstr "Malá prasnice"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M88"
 msgid "成年公羊"
-msgstr "Dospělý Beran"
+msgstr "Dospělý beran"
 
 #. Key:	M89
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M89"
 msgid "成年母羊"
-msgstr "Dospělá Ovce"
+msgstr "Dospělá ovce"
 
 #. Key:	M9
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8394,14 +8394,14 @@ msgstr "Malá ovce"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M92"
 msgid "成年公鸡"
-msgstr "Dospělý Kohout"
+msgstr "Dospělý kohout"
 
 #. Key:	M93
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M93"
 msgid "成年母鸡"
-msgstr "Dospělá Slepice"
+msgstr "Dospělá slepice"
 
 #. Key:	M94
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8415,7 +8415,7 @@ msgstr "Malý Kohout"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M95"
 msgid "小母鸡"
-msgstr "Mladá Slepice"
+msgstr "Mladá slepice"
 
 #. Key:	M96
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -10565,7 +10565,7 @@ msgstr "Zamknuté"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,LumenLight"
 msgid "Lumen全局光照"
-msgstr "Lumen globální osvětlení"
+msgstr "Globální osvětlení"
 
 #. Key:	LumenQuial
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10635,7 +10635,7 @@ msgstr "Výrobní fronta je plná!"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,MakeTime"
 msgid "制作时间："
-msgstr "čas výroby:"
+msgstr "Čas výroby:"
 
 #. Key:	Male
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10712,7 +10712,7 @@ msgstr "Multiplayer"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,MWSW"
 msgid "美味食物"
-msgstr "chutné jídlo?"
+msgstr "Chutné jídlo?"
 
 #. Key:	MX
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10726,7 +10726,7 @@ msgstr "Tvar obočí"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,MYDYWP"
 msgid "没有对应物品"
-msgstr "chybí vhodná položka!"
+msgstr "Chybí vhodná položka!"
 
 #. Key:	MZ
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10782,7 +10782,7 @@ msgstr "Mikrofon"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Name04"
 msgid "Sarah"
-msgstr "Sara"
+msgstr "Sára"
 
 #. Key:	ND
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10978,7 +10978,7 @@ msgstr "Aktuální stav je nedostupný!"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,NowRL"
 msgid "当前燃料："
-msgstr "Aktuální palivo:"
+msgstr "Současné palivo:"
 
 #. Key:	NowRY
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12121,7 +12121,7 @@ msgstr "Vyrábí se na elektrickém sporáku"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,useGJHXFYSB"
 msgid "在高级化学反应设备制作"
-msgstr "Vyrobeno v zařízení pro chemické reakce"
+msgstr "Vyrobeno v chemické laboratoři"
 
 #. Key:	useHammerBuild
 #. SourceLocation:	/Game/LocalizationText/UI.UI
