@@ -5029,14 +5029,14 @@ msgstr "Treppengeländer"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",HorizontalBeam"
 msgid "横梁"
-msgstr "Balken"
+msgstr "Horizontaler Balken"
 
 #. Key:	HorizontalBeamDetail
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",HorizontalBeamDetail"
 msgid "短横梁，可以承受重量。"
-msgstr "Kurze Träger, die das Gewicht tragen können."
+msgstr "Kurzer Querbalken, um das Gewicht zu halten"
 
 #. Key:	Input
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5064,7 +5064,7 @@ msgstr "Holztreppe (außen)"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",OutdoorsStairsDetail"
 msgid "木头制成的户外专用楼梯"
-msgstr "Spezielle Außentreppen aus Holz"
+msgstr "Treppe aus Holz für den Außenbereich"
 
 #. Key:	QT
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5099,7 +5099,7 @@ msgstr "Steinfundament"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RockFoundationDetail"
 msgid "看起来很结实，可以承受相当多的重量。"
-msgstr "Sieht stabil aus und hält einiges aus."
+msgstr "Es scheint sehr robust zu sein und kann eine beträchtliche Menge an Gewicht aushalten."
 
 #. Key:	RockOutdoorsStairs
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5148,28 +5148,28 @@ msgstr "Steindach (45 Grad)"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",Roof45_02Detail"
 msgid "有很好的遮风挡雨作用。"
-msgstr "Es hat einen guten Schutz vor Wind und Regen."
+msgstr "Es bietet einen guten Schutz vor Wind und Regen."
 
 #. Key:	Roof45Adsorbent
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",Roof45Adsorbent"
 msgid "横梁，立柱"
-msgstr "Balken, Säule"
+msgstr "Querbalken, Säule"
 
 #. Key:	Roof45Bring
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",Roof45Bring"
 msgid "横梁或立柱"
-msgstr "Balken oder Stütze"
+msgstr "Querbalken oder Säule"
 
 #. Key:	Roof45Detail
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",Roof45Detail"
 msgid "茅草屋顶，可以一定程度起到遮风挡雨的作用。"
-msgstr "Reetdächer können bis zu einem gewissen Grad vor Wind und Regen schützen."
+msgstr "Strohdächer, die einen gewissen Schutz vor Wind und Regen bieten."
 
 #. Key:	RoofBase
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5183,7 +5183,7 @@ msgstr "Dach"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofCorner20"
 msgid "茅草屋顶(20度连接角)"
-msgstr "Reetdach (20 Grad Anschlusswinkel)"
+msgstr "Strohdach (20 Grad Anschlusswinkel)"
 
 #. Key:	RoofCorner20_02
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5197,7 +5197,7 @@ msgstr "Steindach (20 Grad Anschlusswinkel)"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofCorner45"
 msgid "茅草屋顶(45度连接角)"
-msgstr "Reetdach (45 Grad Anschlusswinkel)"
+msgstr "Strohdach (45 Grad Anschlusswinkel)"
 
 #. Key:	RoofCorner45_02
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5211,7 +5211,7 @@ msgstr "Steindach (45 Grad Anschlusswinkel)"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofCorner45Detail"
 msgid "用于连接内转角屋顶。"
-msgstr "Zum Verbinden von Inneneckdächern."
+msgstr "Wird zur Verbindung von Innenecken von Dächern verwendet."
 
 #. Key:	RoofEnd01
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5225,7 +5225,7 @@ msgstr "Strohdach (klein)"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofEnd01_02"
 msgid "石材屋檐(小)"
-msgstr "Steintraufe (klein)"
+msgstr "Traufe aus Stein (klein)"
 
 #. Key:	RoofEnd01Adsorbent
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5302,7 +5302,7 @@ msgstr "Steintraufe (horizontal)"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofEndVertical"
 msgid "茅草屋檐(45度竖向)"
-msgstr "Dachtraufe (45 Grad vertikal)"
+msgstr "Strohdach (45 Grad senkrecht)"
 
 #. Key:	RoofEndVertical_02
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5323,7 +5323,7 @@ msgstr "An der Dachkante befestigt."
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofIntersection20"
 msgid "茅草屋顶(20度连接)"
-msgstr "Reetdach (20-Grad-Verbindung)"
+msgstr "Reetdach (20 Grad Verbindung)"
 
 #. Key:	RoofIntersection20_02
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5337,7 +5337,7 @@ msgstr "Steindach (20 Grad Anschluss)"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofIntersection45"
 msgid "茅草屋顶(45度连接)"
-msgstr "Strohdach (45-Grad-Verbindung)"
+msgstr "Strohdach (45 Grad Verbindung)"
 
 #. Key:	RoofIntersection45_02
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5351,7 +5351,7 @@ msgstr "Steindach (45 Grad Anschluss)"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofIntersection45Detail"
 msgid "用于连接外转角屋顶。"
-msgstr "Zum Anschluss von Außeneckdächern."
+msgstr "Zur Verbindung von Außeneckdächern"
 
 #. Key:	RoofTop_Stone_01
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5400,14 +5400,14 @@ msgstr "Steindach (Einzelgitter-T-Stück)"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofTop_Wood_01"
 msgid "茅草屋顶(单格)"
-msgstr "Reetdach (Einzelgitter)"
+msgstr "Strohdach (Einzelgitter)"
 
 #. Key:	RoofTop_Wood_02
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofTop_Wood_02"
 msgid "茅草屋顶(单格转角)"
-msgstr "Reetdach (einzelne Ecke)"
+msgstr "Strohdach (einzelne Ecke)"
 
 #. Key:	RoofTop_Wood_03
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5421,21 +5421,21 @@ msgstr "Strohdach (Einzelkreuz)"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofTop_Wood_04"
 msgid "茅草屋顶(单格结尾)"
-msgstr "Reetdach (einseitig)"
+msgstr "Strohdach (einseitig)"
 
 #. Key:	RoofTop_Wood_05
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofTop_Wood_05"
 msgid "茅草屋顶(单格无连接)"
-msgstr "Reetdach (Einzelzelle ohne Anschluss)"
+msgstr "Stroh (Einzelzelle ohne Anschluss)"
 
 #. Key:	RoofTop_Wood_06
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofTop_Wood_06"
 msgid "茅草屋顶(单格三通)"
-msgstr "Reetdach (einfaches Gitter-T-Stück)"
+msgstr "Stroh (einfaches Gitter-T-Stück)"
 
 #. Key:	Stairs
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5449,7 +5449,7 @@ msgstr "Lange Treppe"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",Stairs02"
 msgid "楼梯(较小)"
-msgstr "Treppe (kleiner)"
+msgstr "Treppe (klein)"
 
 #. Key:	Stairs02Baring
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5470,14 +5470,14 @@ msgstr "Treppe (Ecke)"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",Stairs03Baring"
 msgid "地面或地基或地板"
-msgstr "Boden oder Fundament oder Boden"
+msgstr "Boden oder Fundament oder Fußboden"
 
 #. Key:	StairsBaring
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",StairsBaring"
 msgid "横梁，地基或地面或地板"
-msgstr "Balken, Fundament oder Boden oder Boden"
+msgstr "Balken, Fundament oder Boden"
 
 #. Key:	StairsDetail
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5491,28 +5491,28 @@ msgstr "Treppen aus Holz."
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",TwoHorizontalBeam"
 msgid "横梁(两格)"
-msgstr "Balken (zwei Gitter)"
+msgstr "Horizontaler Balken (zwei Gitter)"
 
 #. Key:	TwoHorizontalBeamDetail
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",TwoHorizontalBeamDetail"
 msgid "较长横梁，可以承受重量。"
-msgstr "Lange Balken, können das Gewicht tragen."
+msgstr "Längere Balken, um das Gewicht zu tragen"
 
 #. Key:	VerticalBeam
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",VerticalBeam"
 msgid "木材立柱"
-msgstr "Holzpfosten"
+msgstr "Holzsäulen"
 
 #. Key:	VerticalBeamAdsorbent
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",VerticalBeamAdsorbent"
 msgid "地基，横梁，短柱"
-msgstr "Fundamente, Balken, Stubs"
+msgstr "Fundamente, Balken, kurze Säulen"
 
 #. Key:	VerticalBeamBase
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5526,7 +5526,7 @@ msgstr "Säule"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",VerticalBeamDetail"
 msgid "可以承受重量。"
-msgstr "Kann das Gewicht tragen."
+msgstr "Kann das Gewicht tragen"
 
 #. Key:	VerticalBeamStone
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5596,14 +5596,14 @@ msgstr "Steinmauer (Dreieck 1/3) nicht modelliert"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",WallWindow"
 msgid "石材墙体(带窗洞)"
-msgstr "Steinmauer (mit Fensterloch)"
+msgstr "Steinmauer (mit Fensteröffnungen)"
 
 #. Key:	window1
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",window1"
 msgid "窗洞"
-msgstr "Fensterloch"
+msgstr "Fensteröffnungen"
 
 #. Key:	WoodFloor
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5617,7 +5617,7 @@ msgstr "Holzboden"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",WoodFloorAdsorbent"
 msgid "横梁，其他地板"
-msgstr "Balken, andere Böden"
+msgstr "Balken, andere Fußböden"
 
 #. Key:	WoodFloorDetail
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5673,14 +5673,14 @@ msgstr "Betonträger"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B13"
 msgid "水泥横梁(两格)"
-msgstr "Betonträger (zwei Gitter)"
+msgstr "Querbalken aus Zement (zwei Gitter)"
 
 #. Key:	B14
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B14"
 msgid "水泥横梁(四格)"
-msgstr "Zementbalken (vier Gitter)"
+msgstr "Querbalken aus Zement (vier Gitter)"
 
 #. Key:	B15
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -5694,28 +5694,28 @@ msgstr "Ziegelwand"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B16"
 msgid "砖墙(带门洞)"
-msgstr "Backsteinwand (mit Türöffnung)"
+msgstr "Ziegelmauer (mit Türöffnung)"
 
 #. Key:	B17
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B17"
 msgid "砖墙(带窗洞)"
-msgstr "Backsteinmauer (mit Fensteröffnung)"
+msgstr "Ziegelmauer (mit Fensteröffnung)"
 
 #. Key:	B18
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B18"
 msgid "砖墙(1/3)"
-msgstr "Backsteinmauer (1/3)"
+msgstr "Ziegelmauer (1/3)"
 
 #. Key:	B19
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B19"
 msgid "砖墙(正三角)"
-msgstr "Backsteinmauer (regelmäßiges Dreieck)"
+msgstr "Ziegelmauer (gleichmäßiges Dreieck)"
 
 #. Key:	B2
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -5736,7 +5736,7 @@ msgstr "Backsteinmauer (dreieckig)"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B21"
 msgid "砖墙(三角1/3)"
-msgstr "Backsteinmauer (dreieckig 1/3)"
+msgstr "Ziegelmauer (dreieckig 1/3)"
 
 #. Key:	B22
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -5771,7 +5771,7 @@ msgstr "Eisentor"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B26"
 msgid "茅草屋顶(45度连接)"
-msgstr "Reetdach (45-Grad-Fuge)"
+msgstr "Stroh (45-Grad-Fuge)"
 
 #. Key:	B27
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -5890,7 +5890,7 @@ msgstr "Duschraum"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B41"
 msgid "净水器"
-msgstr "Waschbecken"
+msgstr "Wasseraufbereiter"
 
 #. Key:	B42
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -5911,14 +5911,14 @@ msgstr "Kraftstoffgenerator"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B44"
 msgid "火力发电机"
-msgstr "Festbrennstoff Generator"
+msgstr "Thermischer Stromgenerator"
 
 #. Key:	B45
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B45"
 msgid "太阳能发电站"
-msgstr "Solarkraftwerk"
+msgstr "Solarstromanlage"
 
 #. Key:	B46
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -5932,14 +5932,14 @@ msgstr "Schmelzofen"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B47"
 msgid "电熔炉"
-msgstr "Elektrischer Ofen"
+msgstr "Elektrischer Schmelzofen"
 
 #. Key:	B48
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B48"
 msgid "木炭炉"
-msgstr "Kohleofen"
+msgstr "Holzkohleofen"
 
 #. Key:	B49
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -5967,7 +5967,7 @@ msgstr "Kühlschrank"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B51"
 msgid "制药桌"
-msgstr "Apothekertisch"
+msgstr "Pharmazeutischer Tisch"
 
 #. Key:	B52
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6002,7 +6002,7 @@ msgstr "Textilmaschine"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B56"
 msgid "制衣台"
-msgstr "Schminktisch"
+msgstr "Schneidertisch"
 
 #. Key:	B57
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
