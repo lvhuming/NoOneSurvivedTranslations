@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
 "POT-Creation-Date: 2023-01-26 02:33\n"
-"PO-Revision-Date: 2023-02-07 10:41+0100\n"
+"PO-Revision-Date: 2023-02-07 19:33+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: cs\n"
@@ -41,7 +41,7 @@ msgstr "Zábradlí"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_24.Text
 msgctxt ",014F3B6240A63915DEDF3CA9D50249E4"
 msgid "心情-"
-msgstr "Pocity"
+msgstr "Nálada-"
 
 #. Key:	017C13554A303CDB96F5DAA161E199F6
 #. SourceLocation:	/Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_8.TipMessage_41_0D1B7B6342180F0BD1D386A6C8ADE0B3
@@ -151,7 +151,7 @@ msgstr "Železná mačeta"
 #: Text
 msgctxt ",069FBCBF40327BC41FD9779E8015C85B"
 msgid "石油提取器核心"
-msgstr "Jádro extraktoru oleje"
+msgstr "Vrtná souprava"
 
 #. Key:	06DE10CA423346DE4BF690AA53181AEE
 #. SourceLocation:	/Game/Blueprint/UMG/Inventory/WBP_ItemToolTip.WBP_ItemToolTip_C:WidgetTree.YZKX.Text
@@ -393,7 +393,7 @@ msgstr "Konec střechy"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_28.Text
 msgctxt ",1213557B462F0178A0FFDBB916902739"
 msgid "时间过去一个小时"
-msgstr "Hodina uplynula"
+msgstr "Hodina+"
 
 #. Key:	124E388D4F52DAC525AAD8B98D669128
 #. SourceLocation:	/Game/Blueprint/UMG/ScreenMessage/WBP_CarMessage.WBP_CarMessage_C:WidgetTree.Gear.Text
@@ -474,7 +474,7 @@ msgstr "Podlaha"
 #: /Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/DJ/BP_GunAccessory_DJ_556_02.Default__BP_GunAccessory_DJ_556_02_C.ItemInfo.Description
 msgctxt ",15C84B214899728C578578975B46BEC5"
 msgid "型号02"
-msgstr "Wzor 02"
+msgstr "Vzor 02"
 
 #. Key:	15D9FC6D405518521E6F85AE7A97F9E9
 #. SourceLocation:	/Game/Blueprint/ACF/Data/TableAsset/WeaponTable.WeaponTable.钢棍.ItemInfo_66_F92A1A3B448C3413FD56918B4BFB9241.Description
@@ -831,7 +831,7 @@ msgstr "Vše"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_43.Text
 msgctxt ",257D695A47DEEA3FFC5862BD1084FDE4"
 msgid "增加疟疾"
-msgstr "Zvyšující se výskyt malárie"
+msgstr "Zvýšená malárie"
 
 #. Key:	258B8DCA4A30A8C003E35AA9CED8333D
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_33.In Text
@@ -1148,7 +1148,7 @@ msgstr "Spustit hru"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_38.Text
 msgctxt ",3557C6854B1448213BC35D9085C8312C"
 msgid "显示帧率"
-msgstr "Zobrazení snímkové frekvence"
+msgstr "Zobrazení FPS"
 
 #. Key:	35E6F36A420B9FDD3D238EADC6996DC0
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/SelectCharacter/WBP_SelectCharacterBegin.WBP_SelectCharacterBegin_C:WidgetTree.TextBlock_38.Text
@@ -1432,7 +1432,7 @@ msgstr "Léto"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_27.Text
 msgctxt ",4561C52B440C86BCBAF41DA5A5C99F38"
 msgid "建筑物直接完成"
-msgstr "Stavba dokončena"
+msgstr "Stavění bez surovin"
 
 #. Key:	45E4773D490169AB850A808635B4B555
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_PZX.WBP_PZX_C:WidgetTree.development.Text
@@ -1454,7 +1454,7 @@ msgstr "Aktuální souřadnice: {0}, {1}"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_1.Text
 msgctxt ",46159C994865A551AA6AD5A39D194A56"
 msgid "枪械配件"
-msgstr "Příslušenství pro střelné zbraně"
+msgstr "Příslušenství"
 
 #. Key:	46B50F714E10C8FD62349C9785EEC24C
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_81.In Text
@@ -2248,7 +2248,7 @@ msgstr "Tavicí pec"
 #: /Game/Blueprint/UMG/Inventory/WBP_NearItem.WBP_NearItem_C:WidgetTree.TextBlock_64.Text
 msgctxt ",6ECDCD6547F64E0F3BC1CB9AFA92C6B8"
 msgid "附近物品"
-msgstr "Položky v okolí"
+msgstr "Předměty v okolí"
 
 #. Key:	6F0E9F7E437D2F62860D7DBCB2CCA2B1
 #. SourceLocation:	/Game/Blueprint/ACF/Tutorial/WBP_TutorialTip6.WBP_TutorialTip6_C:WidgetTree.TextBlock_2.Text
@@ -2729,7 +2729,7 @@ msgstr "Rajče"
 #: Text
 msgctxt ",84947F6A4429C4DEC1463097ADF556FA"
 msgid "燃油发电机"
-msgstr "Generátor paliva"
+msgstr "Palivový generátor"
 
 #. Key:	85149FD54B55F3B6218485B6BA8F72FD
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_60.In Text
@@ -3407,7 +3407,7 @@ msgstr "11"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_21.Text
 msgctxt ",ADA8FB224CFB4350F86A52847F14CFEB"
 msgid "碳水-"
-msgstr "Sacharidy-"
+msgstr "Cukry-"
 
 #. Key:	AE1B094F45E6A5C70705589D4AE91A03
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_SY_List.WBP_SY_List_C:ExecuteUbergraph_WBP_SY_List [Script Bytecode]
@@ -3603,7 +3603,7 @@ msgstr "Výdrž-"
 #: Value).DisplayNameMap
 msgctxt ",B75273964C8DC04BECCD7D948C4211FE"
 msgid "CreateGame"
-msgstr "Založ Hru"
+msgstr "Založ hru"
 
 #. Key:	B8084BE1473092BD2666BCB97BBD4309
 #. SourceLocation:	/Game/HDCKBuildingSystem/Table/E_SelectTypeChild.E_SelectTypeChild.DisplayNameMap(7 - Value).DisplayNameMap
@@ -3626,7 +3626,7 @@ msgstr "Kultivační box"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_29.Text
 msgctxt ",B87C1302490FEB17850EACA7A4DC8025"
 msgid "时间过去一天"
-msgstr "čas jednoho dne"
+msgstr "Den+"
 
 #. Key:	B8A8A98F45439FF5C4B080AD967B6AD8
 #. SourceLocation:	/Game/Blueprint/UMG/NPCUMG/WBP_jy.WBP_jy_C:WidgetTree.Name.Text
@@ -3648,7 +3648,7 @@ msgstr "Tkalcovský stav"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_36.Text
 msgctxt ",B8DF58C94EDF690F7BE9EDB76D1EE91A"
 msgid "晴天"
-msgstr "Slunný"
+msgstr "Slunečno"
 
 #. Key:	B8E4FB784CB796736595349A49002997
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_PZX.WBP_PZX_C:WidgetTree.Name.Text
@@ -3694,7 +3694,7 @@ msgstr "0"
 #: Text
 msgctxt ",BB0420A948E6FE459983A0AF89A6845D"
 msgid "霰弹枪子弹"
-msgstr "Náboje do Brokovnice"
+msgstr "Náboje do brokovnice"
 
 #. Key:	BB154E9F4CD911E0A5B38BA239AA67F0
 #. SourceLocation:	/Game/Blueprint/UMG/ScreenMessage/WBP_CarMessage.WBP_CarMessage_C:WidgetTree.UnitLabel_2.Text
@@ -3900,7 +3900,7 @@ msgstr "Nastavit jako bod znovuzrození"
 #: Text
 msgctxt ",C95B9D5D497F1BBE79830CA3E08DA455"
 msgid "饲养圈"
-msgstr "Krmné kotce"
+msgstr "Zvířecí výběh"
 
 #. Key:	C99F683B4CADB5E20B857EAF962FD2C7
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_16.Text
@@ -4092,7 +4092,7 @@ msgstr "Nepodařilo se připojit!"
 #: Text
 msgctxt ",D35518064C2D768EC2C3538AA59470B8"
 msgid "水培箱"
-msgstr "Hydroponická nádrž"
+msgstr "Hydroponický truhlík"
 
 #. Key:	D3E6F2304D378E9FF9B1678623A9E744
 #. SourceLocation:	/Game/Blueprint/AI/ZombieState.ZombieState.DisplayNameMap(0 - Value).DisplayNameMap
@@ -4300,7 +4300,7 @@ msgstr "Odolnost proti nákaze"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_41.Text
 msgctxt ",DEB9042443EF069BF71FC19D24BE6A33"
 msgid "断肢增加"
-msgstr "Zvýšený počet zlomených končetin"
+msgstr "Zvýšené zlomeniny"
 
 #. Key:	DEE485DE4FE5DF283FA39FAD921CA4A4
 #. SourceLocation:	/Game/Blueprint/ACF/Player/HDCK_GameState.Default__HDCK_GameState_C:Team Manager.Teams(3 - Value).Teams.DisplayName
@@ -4403,7 +4403,7 @@ msgstr "Baterie"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_19.Text
 msgctxt ",E31C6DA3490AA4EB9661B184FAD08B65"
 msgid "蛋白质-"
-msgstr "Protein-"
+msgstr "Bílkoviny-"
 
 #. Key:	E32F7EBE45F0A70080AA5794DE3DD882
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_50.In Text
@@ -4573,7 +4573,7 @@ msgstr "{0}{1}"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_6.Text
 msgctxt ",E968D2B9404C381673D22FBDED974E1F"
 msgid "电气化学+"
-msgstr "Elektrochemie+"
+msgstr "Elektrifikace+"
 
 #. Key:	E987BA7A4F40FB8392162989C15EBC20
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_93.In Text
@@ -4795,7 +4795,7 @@ msgstr "Proutěné dveře"
 #: [Script Bytecode]
 msgctxt ",F3F8E148409A7CD56F64519CED4DC8A7"
 msgid "水不够！"
-msgstr "Málo Vody!"
+msgstr "Málo vody!"
 
 #. Key:	F43A38CA419B4DC62020BDA1712DC2C8
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_GameSetting.Default__WBP_GameSetting_C.SSQDSelect(3).SSQDSelect
@@ -5937,7 +5937,7 @@ msgstr "Skleněné okno"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B25"
 msgid "铁门"
-msgstr "Ocelová Brána"
+msgstr "Ocelová brána"
 
 #. Key:	B26
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6042,7 +6042,7 @@ msgstr "Studna"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B39"
 msgid "储水站"
-msgstr "Vodojem"
+msgstr "Vodárna"
 
 #. Key:	B4
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6077,7 +6077,7 @@ msgstr "Baterie"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B43"
 msgid "燃油发电机"
-msgstr "Generátor paliva"
+msgstr "Palivový generátor"
 
 #. Key:	B44
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6147,7 +6147,7 @@ msgstr "Farmaceutický stůl"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B52"
 msgid "制药仪器"
-msgstr "Farmaceutický stůl"
+msgstr "Farmaceutická laboratoř"
 
 #. Key:	B53
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6196,7 +6196,7 @@ msgstr "Udírna"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B59"
 msgid "培植箱"
-msgstr "Kultivační box"
+msgstr "Zahradní truhlík"
 
 #. Key:	B6
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6343,7 +6343,7 @@ msgstr "Železné oplocení"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B78"
 msgid "铁制大门"
-msgstr "Ocelová Brána"
+msgstr "Ocelová brána"
 
 #. Key:	B79
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6686,7 +6686,7 @@ msgstr "Vojenská vesta"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,A9"
 msgid "防晒帽"
-msgstr "Ochranná čepice proti slunci"
+msgstr "Klobouček"
 
 #. Key:	F1
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7442,35 +7442,35 @@ msgstr "Chutná a bohatá masová konzerva"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F74"
 msgid "养殖与种田（一卷）"
-msgstr "Zemědělství a farmářství (1.stupeň)"
+msgstr "Zemědělství (1.stupeň)"
 
 #. Key:	F75
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F75"
 msgid "养殖与种田（二卷）"
-msgstr "Zemědělství a farmářství (2.stupeň)"
+msgstr "Zemědělství (2.stupeň)"
 
 #. Key:	F76
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F76"
 msgid "养殖与种田（三卷）"
-msgstr "Zemědělství a farmářství (3.stupeň)"
+msgstr "Zemědělství (3.stupeň)"
 
 #. Key:	F77
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F77"
 msgid "养殖与种田（四卷）"
-msgstr "Zemědělství a farmářství (4.stupeň)"
+msgstr "Zemědělství (4.stupeň)"
 
 #. Key:	F78
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F78"
 msgid "养殖与种田（五卷）"
-msgstr "Zemědělství a farmářství (5.stupeň)"
+msgstr "Zemědělství (5.stupeň)"
 
 #. Key:	F79
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7778,7 +7778,7 @@ msgstr "Alkohol"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M12"
 msgid "腐烂食物"
-msgstr "Hnijící potraviny"
+msgstr "Shnilé jídlo"
 
 #. Key:	M13
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7932,7 +7932,7 @@ msgstr "Lepší elektronika"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M32"
 msgid "弹壳"
-msgstr "Nábojová kazeta"
+msgstr "Nábojnice"
 
 #. Key:	M33
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8044,7 +8044,7 @@ msgstr "Proces výroby nábojů"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M47"
 msgid "石油提取器维护指南"
-msgstr "Průvodce údržbou extraktoru oleje"
+msgstr "Výkres vrtné soupravy"
 
 #. Key:	M48
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8156,7 +8156,7 @@ msgstr "Elektrický sporák"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M61"
 msgid "冷凝器"
-msgstr "Kondezátor"
+msgstr "Kondenzátor"
 
 #. Key:	M62
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8331,7 +8331,7 @@ msgstr "Krmivo"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M84"
 msgid "成年公猪"
-msgstr "Dospěle prase"
+msgstr "Dospělé prase"
 
 #. Key:	M85
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8457,7 +8457,7 @@ msgstr "Obvaz"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,T11"
 msgid "包扎流血伤口"
-msgstr "Obvazování krvácející rány"
+msgstr "Zastavuje krvácení"
 
 #. Key:	T12
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8569,7 +8569,7 @@ msgstr "Paklíče"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,T26"
 msgid "油井核心"
-msgstr "Jádro ropného vrtu"
+msgstr "Vrtná souprava"
 
 #. Key:	T3
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9024,7 +9024,7 @@ msgstr "Zásahy tupými zbraněmi do zničitelných objektů způsobují větš�
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,03"
 msgid "快跑会快速消耗碳水化合物，蛋白质，口渴度。"
-msgstr "Při rychlém běhu se spalují sacharidy, protein a tekutiny."
+msgstr "Při rychlém běhu se spalují cukry, bílkoviny a tekutiny."
 
 #. Key:	04
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -9441,7 +9441,7 @@ msgstr "Kapacita:"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,carbohydrate"
 msgid "碳水化合物"
-msgstr "Sacharidy"
+msgstr "Cukry"
 
 #. Key:	CDDX
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -9504,7 +9504,7 @@ msgstr "Zkontrolujte prosím stav vody nebo elektřiny!"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,CheckWater"
 msgid "水不够了！"
-msgstr "Málo Vody!"
+msgstr "Málo vody!"
 
 #. Key:	CheckWaterSource
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10071,7 +10071,7 @@ msgstr "Reflexní kvalita"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Ftip"
 msgid "使用"
-msgstr "Použít "
+msgstr "Otevřít "
 
 #. Key:	FX
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10684,7 +10684,7 @@ msgstr "Obočí"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,mood"
 msgid "心态"
-msgstr "Stav mysli"
+msgstr "Nálada"
 
 #. Key:	More
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11090,7 +11090,7 @@ msgstr "Vaření"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,protein"
 msgid "蛋白质"
-msgstr "Protein"
+msgstr "Bílkoviny"
 
 #. Key:	PSSL
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11188,7 +11188,7 @@ msgstr "Zobrazení okna na celou obrazovku"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,quchu"
 msgid "取出"
-msgstr "Vzít"
+msgstr "Prohledat"
 
 #. Key:	Quit
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -12114,7 +12114,7 @@ msgstr "Šité na elektrickém šicím stroji"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,useDRL"
 msgid "使用电熔炉制作"
-msgstr "Vyrábí se na elektrickém sporáku"
+msgstr "Vyrábí se v elektrické peci"
 
 #. Key:	useGJHXFYSB
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12142,7 +12142,7 @@ msgstr "Vyrobeno v chemickém stolu"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,useJGT"
 msgid "使用加工台制作"
-msgstr "Vyrobeno pomocí obráběcích stolů"
+msgstr "Vyrobeno na obráběcím stolu"
 
 #. Key:	useJXJGT
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12184,7 +12184,7 @@ msgstr "Vyrobené na farmaceutickém stole"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,useZYZ"
 msgid "在制药桌制作"
-msgstr "Vyrobené na farmaceutickém stole"
+msgstr "Vyrobené ve farmaceutické laboratoři"
 
 #. Key:	viralinfection
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
