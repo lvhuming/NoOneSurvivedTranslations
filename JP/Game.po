@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
 "POT-Creation-Date: 2023-02-01 12:05\n"
-"PO-Revision-Date: 2023-02-07 12:24+0900\n"
+"PO-Revision-Date: 2023-02-08 00:54+0900\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -713,7 +713,7 @@ msgstr "ロールを削除してもよろしいですか?"
 #: /Game/Blueprint/ACF/Item/Book/AutoCreate/BP_Book_JXX02.Default__BP_Book_JXX02_C.ItemInfo.Name
 msgctxt ",1E0E1014475CBA9F745970B164487715"
 msgid "机修（二卷）"
-msgstr "機械修理 (全 2 巻)"
+msgstr "機械修理 (第2巻)"
 
 #. Key:	1E1424C246AA03A9636E0398AD8C1852
 #. SourceLocation:	/Game/Blueprint/UMG/EscMenu/WBP_ControlSetting.WBP_ControlSetting_C:WidgetTree.WBP_SlideMouse_1.Show In Text
@@ -728,14 +728,14 @@ msgstr "スコープ マウスの感度"
 #: /Game/Blueprint/ACF/Item/Materials/AutoCreate/BP_Mat_Sheep01.Default__BP_Mat_Sheep01_C.ItemInfo.Name
 msgctxt ",1E15A74C4CFCF57B6BF8899EB8A30A50"
 msgid "羊毛"
-msgstr "ウール"
+msgstr "羊毛"
 
 #. Key:	1E9BEF8048FA538CA273F0868BC0ADCC
 #. SourceLocation:	/Game/Blueprint/UMG/WBP_BaseCharacter.WBP_BaseCharacter_C:WidgetTree.FY.Text
 #: /Game/Blueprint/UMG/WBP_BaseCharacter.WBP_BaseCharacter_C:WidgetTree.FY.Text
 msgctxt ",1E9BEF8048FA538CA273F0868BC0ADCC"
 msgid "防御"
-msgstr "防衛"
+msgstr "防御"
 
 #. Key:	1F99F44C4E0061BF010728B9C1DBDC30
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Ammo/BP_GunAmmoBase.Default__BP_GunAmmoBase_C.ItemInfo.Name
@@ -787,7 +787,7 @@ msgstr "タブ"
 #: - Value).DisplayNameMap
 msgctxt ",22C074F44EED2C76F551E9A06B6F8261"
 msgid "VerticalBeam"
-msgstr "垂直ビーム"
+msgstr "垂直の梁"
 
 #. Key:	22CFC8EA45FAA84098796A9EE5C5D49A
 #. SourceLocation:	/Game/Blueprint/UMG/Make/WBP_MakeDetailShow.WBP_MakeDetailShow_C:WidgetTree.KRX.Text
@@ -801,7 +801,7 @@ msgstr "耐熱性"
 #: /Game/Blueprint/ACF/Item/Book/AutoCreate/BP_Book_JXX05.Default__BP_Book_JXX05_C.ItemInfo.Name
 msgctxt ",2308D6F3490886F47608A29FECC708F2"
 msgid "机修（五卷）"
-msgstr "機械修理 (全5巻)"
+msgstr "機械修理 (第5巻)"
 
 #. Key:	230BE6704851B95546575994C2020192
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_0.Text
@@ -1116,7 +1116,7 @@ msgstr "耐寒性"
 #: /Game/Blueprint/ACF/Item/Book/AutoCreate/BP_Book_JXX04.Default__BP_Book_JXX04_C.ItemInfo.Name
 msgctxt ",3297DACB4D7AD7F6D94F9FAA441FCB59"
 msgid "机修（四卷）"
-msgstr "機械修理 (全4巻)"
+msgstr "機械修理 (第4巻)"
 
 #. Key:	32F2C50042D534BEAA1662A2087AC8CA
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_CarInventory01.WBP_CarInventory01_C:WidgetTree.Repir.ToolTipText
@@ -1198,7 +1198,7 @@ msgstr "アイアンスレッジハンマー"
 #: /Game/Blueprint/UMG/EscMenu/WBP_Setting.Default__WBP_Setting_C.Setting(1).Setting
 msgctxt ",36C199AA4147C714D62C5BA149D79EC9"
 msgid "中"
-msgstr "真ん中"
+msgstr "通常"
 
 #. Key:	36C4F9A84440F50C83D09B9C1C6813B6
 #. SourceLocation:	/Game/Blueprint/ACF/Tutorial/WBP_TutorialTip7.WBP_TutorialTip7_C:WidgetTree.TextBlock.Text
@@ -1430,7 +1430,7 @@ msgstr "乾電池"
 #: /Game/HDCKBuildingSystem/Table/BuildTable.BuildTable.NewRow_11.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 msgctxt ",4348953248D241725A36BD85949AE223"
 msgid "受遮挡或在没有太阳的天气无法发电"
-msgstr "日の当たらない天候で日陰または発電不能"
+msgstr "日の当たらない天候または日陰では発電不能"
 
 #. Key:	4362834A4E275D8A564F3388D39CBEFC
 #. SourceLocation:	/Game/Blueprint/ACF/Data/TableAsset/WeaponTable.WeaponTable.SVD狙击枪.ItemInfo_66_F92A1A3B448C3413FD56918B4BFB9241.Name
@@ -1950,7 +1950,7 @@ msgstr "スクリーンセット"
 #: /Game/Blueprint/UMG/EscMenu/WBP_Setting.Default__WBP_Setting_C.Setting(3).Setting
 msgctxt ",5E1ED50C47DD8CFA5174619CFC27D2F2"
 msgid "极高"
-msgstr "非常に高い"
+msgstr "最高品質"
 
 #. Key:	5EBECD7B4AE8560B73AA0A93ABBB9CAB
 #. SourceLocation:	/Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(6 - Value).DisplayNameMap
@@ -2028,7 +2028,7 @@ msgstr "ウイルス致死率"
 #: /Game/Blueprint/ACF/Data/TableAsset/FoodAssetTable.FoodAssetTable.机修（四卷）.Name_33_B65BC8D64E83EF46F5F21FA5566C3997
 msgctxt ",62C8A03B4DD8D04AB4D1039910593300"
 msgid "机修（四卷）"
-msgstr "機械の修理 (第 4 巻)"
+msgstr "機械修理 (第4巻)"
 
 #. Key:	64546D1342B88BDB72FB6EA193794E48
 #. SourceLocation:	/Game/Blueprint/UMG/Make/WBP_MakeDetailShow.WBP_MakeDetailShow_C:WidgetTree.FY.Text
@@ -2056,7 +2056,7 @@ msgstr "メカニカル+"
 #: /Game/Blueprint/ACF/Data/TableAsset/FoodAssetTable.FoodAssetTable.机修（一卷）.Name_33_B65BC8D64E83EF46F5F21FA5566C3997
 msgctxt ",64F708BA409C70B2302CF6B3F697174E"
 msgid "机修（一卷）"
-msgstr "機械の修理 (第 1 巻)"
+msgstr "機械修理（第1巻）"
 
 #. Key:	6523432E4262C6830C222AA7F6EEC59C
 #. SourceLocation:	/Game/Blueprint/ACF/ZZ/E_GlassMode.E_GlassMode.DisplayNameMap(2 - Value).DisplayNameMap
@@ -2726,7 +2726,7 @@ msgstr "リセット位置"
 #: /Game/Blueprint/ACF/Tutorial/WBP_TutorialTip7.WBP_TutorialTip7_C:WidgetTree.TextBlock_3.Text
 msgctxt ",811B025545D9BE8290B8D983D2645CAE"
 msgid "提升枪械技能或安装配件可有效改善后坐力"
-msgstr "銃器のスキルを向上させるか、アクセサリをインストールすると、効果的に反動を改善できます"
+msgstr "銃器のスキルを向上させるか、アクセサリを装着すると、効果的に反動を改善できます"
 
 #. Key:	81A960174CE991FE49649189E5DD74B2
 #. SourceLocation:	/Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_5.TipMessage_41_0D1B7B6342180F0BD1D386A6C8ADE0B3
@@ -2748,7 +2748,7 @@ msgstr "加工台"
 #: /Game/Blueprint/ACF/Data/TableAsset/FoodAssetTable.FoodAssetTable.机修（五卷）.Name_33_B65BC8D64E83EF46F5F21FA5566C3997
 msgctxt ",82540EE94040D3082E3DEDB3815DC2C0"
 msgid "机修（五卷）"
-msgstr "機械の修理 (第 5 巻)"
+msgstr "機械修理 (第5巻)"
 
 #. Key:	82953B6242A3C383327AA28D77B8DB49
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_4.Text
@@ -2776,7 +2776,7 @@ msgstr ""
 "\r\n"
 "そうしないと、モデルの表示が不完全になる場合があります。\r\n"
 "\r\n"
-"ありがたい！"
+"ありがとう！"
 
 #. Key:	83F46BF04B9C9DD831186F9C5C08D9AA
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(6 - Value).DisplayNameMap
@@ -2814,7 +2814,7 @@ msgstr "細かい部品"
 #: /Game/Blueprint/UMG/EscMenu/WBP_Setting.Default__WBP_Setting_C.Setting(0).Setting
 msgctxt ",85DE22324C7068D83740A99089B247E1"
 msgid "低"
-msgstr "低い"
+msgstr "低品質"
 
 #. Key:	85E931624EF75217A5C60E9E1AD65FEA
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_PZX.WBP_PZX_C:WidgetTree.Sun.Text
@@ -2828,7 +2828,7 @@ msgstr "太陽"
 #: /Game/Blueprint/ACF/Data/TableAsset/FoodAssetTable.FoodAssetTable.机修（二卷）.Name_33_B65BC8D64E83EF46F5F21FA5566C3997
 msgctxt ",862FBCEC4E05AF3CB5CB8CA91715E3CA"
 msgid "机修（二卷）"
-msgstr "機械の修理 (第 2 巻)"
+msgstr "機械修理 (第2巻)"
 
 #. Key:	867940C94407F9B1E6580C8C164DED1C
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_DCZDetail.WBP_DCZDetail_C:WidgetTree.TextBlock_233.Text
@@ -2903,14 +2903,14 @@ msgstr "ハンマー"
 #: - Value).DisplayNameMap
 msgctxt ",8AB657134BC71D80A664569881FBD37B"
 msgid "Null"
-msgstr "ヌル"
+msgstr "無"
 
 #. Key:	8B9D09E44B07C72FE272C5906CB6FA3E
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/LongBlunt/BP_LongBluntStick_G.Default__BP_LongBluntStick_G_C.ItemInfo.Description
 #: /Game/Blueprint/ACF/Item/Weapon/LongBlunt/BP_LongBluntStick_G.Default__BP_LongBluntStick_G_C.ItemInfo.Description
 msgctxt ",8B9D09E44B07C72FE272C5906CB6FA3E"
 msgid "露茜儿++"
-msgstr "ルーシー++"
+msgstr "ルシール++"
 
 #. Key:	8C4494664EE8ADA1ABA9EC8FC937971C
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/E_AimType.E_AimType.DisplayNameMap(3 - Value).DisplayNameMap
@@ -2940,7 +2940,7 @@ msgstr "医学+"
 #: Text
 msgctxt ",8D4C253441E4A1B23D31ABBE84ABCBF1"
 msgid "雨水收集器"
-msgstr "雨水コレクター"
+msgstr "雨水収集機"
 
 #. Key:	8DB992364730261D2222EBB5E748538F
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/WBP_RoomSlot.WBP_RoomSlot_C:WidgetTree.pING.Text
@@ -3013,7 +3013,7 @@ msgstr "モデル02"
 #: /Game/HDCKBuildingSystem/Table/BuildTable.BuildTable.OutStairs.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 msgctxt ",92DF8E7948C1E23BAAB968B3066CA1A9"
 msgid "建房必备"
-msgstr "家づくりに欠かせない"
+msgstr "家を建てるのに必要"
 
 #. Key:	9410660E4A342FA06D31A7956C47847E
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_SPX.WBP_SPX_C:WidgetTree.Sy.Text
@@ -3294,7 +3294,7 @@ msgstr "SKS"
 #: /Game/Blueprint/ACF/Item/Tool/Item_NotUse_Tool_Base.Default__Item_NotUse_Tool_Base_C.ItemInfo.Name
 msgctxt ",A40DC20449F773A942EBF6AA0B8E95F6"
 msgid "石头"
-msgstr "結石"
+msgstr "石"
 
 #. Key:	A42B7F1648E577F99CD8BD8A411702B9
 #. SourceLocation:	/Game/Blueprint/UMG/ScreenMessage/WBP_GunMessage.WBP_GunMessage_C:ExecuteUbergraph_WBP_GunMessage [Script Bytecode]
@@ -3310,7 +3310,7 @@ msgstr "全自動"
 #: [Script Bytecode]
 msgctxt ",A44DFAB2422A13E46691CBA995DFA56F"
 msgid "三连发"
-msgstr "3つのバースト"
+msgstr "３点バースト"
 
 #. Key:	A4794C1D43A639CE329F498AA2BBCB83
 #. SourceLocation:	/Game/HDCKBuildingSystem/Table/E_SelectTypeChild.E_SelectTypeChild.DisplayNameMap(9 - Value).DisplayNameMap
@@ -3613,7 +3613,7 @@ msgstr "不十分な修理材料"
 #: /Game/Blueprint/UMG/EscMenu/WBP_Setting.Default__WBP_Setting_C.Setting(4).Setting
 msgctxt ",B26BCE4F477D124639B825B4015374E5"
 msgid "电影"
-msgstr "映画"
+msgstr "Ultra"
 
 #. Key:	B2D45E494DEBDD6462C30B94D73CA7C1
 #. SourceLocation:	/Game/Blueprint/UMG/EscMenu/WBP_NvidiaDLSS.WBP_NvidiaDLSS_C:WidgetTree.ShowTex.Text
@@ -3658,7 +3658,7 @@ msgstr "屋根"
 #: Text
 msgctxt ",B53BE0D643F0BC85688ACCAC6E911CA2"
 msgid "762子弹"
-msgstr "7.62口径の弾薬"
+msgstr "7.62mmの弾薬"
 
 #. Key:	B57A00354900F30D42BACFBCF9434A53
 #. SourceLocation:	/Game/Blueprint/UMG/ChatSystem/WBP_ChatMenu.WBP_ChatMenu_C:WidgetTree.MessageBox.HintText
@@ -3746,7 +3746,7 @@ msgstr "あごひげを生やした"
 #: Text
 msgctxt ",B8B69A364203615D8A5018B102D4B9C1"
 msgid "纺织机"
-msgstr "繊維機械"
+msgstr "紡績機械"
 
 #. Key:	B8C353004A5F835C2E2DB38D3494A18E
 #. SourceLocation:	/Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(15).Mappings.PlayerMappableOptions.DisplayName
@@ -3880,7 +3880,7 @@ msgstr "鉄のインゴット"
 #: /Game/Blueprint/ACF/Item/Book/AutoCreate/BP_Book_JXX03.Default__BP_Book_JXX03_C.ItemInfo.Name
 msgctxt ",BFBAF5F04F9C05F03B1C6FA074EC422E"
 msgid "机修（三卷）"
-msgstr "機械の修理 (第 3 巻)"
+msgstr "機械修理 (第3巻)"
 
 #. Key:	C0AECA14478D1D438B3C3098A107B0DE
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_30.Text
@@ -3908,7 +3908,7 @@ msgstr "シンプルなアイテム作り"
 #: /Game/Blueprint/ACF/Data/TableAsset/FoodAssetTable.FoodAssetTable.机修（三卷）.Name_33_B65BC8D64E83EF46F5F21FA5566C3997
 msgctxt ",C1CF8D7D4567787F135DFC9C77F6EEB0"
 msgid "机修（三卷）"
-msgstr "機械修理 (第 3 巻)"
+msgstr "機械修理 (第3巻)"
 
 #. Key:	C29D3E5148224D541E5261AAA1EE196A
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_sniper_SKS.Default__ACFGunBase_sniper_SKS_C.ItemInfo.Name
@@ -4099,7 +4099,7 @@ msgstr "解体は材料を返さないが、エンジニアリングの経験を
 #: Text
 msgctxt ",CCEA1679435409D6C3183B863520690B"
 msgid "556子弹"
-msgstr "556発"
+msgstr "5.56mmの弾薬"
 
 #. Key:	CCFH
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -4195,7 +4195,7 @@ msgstr "接続"
 #: Bytecode]
 msgctxt ",D2A4C2124089937029EA4F95DC46D778"
 msgid "此物品无法装备在这"
-msgstr "このアイテムはここでは装備できません"
+msgstr "このアイテムはここには装備できません"
 
 #. Key:	D32A4D03413139E3B6FDB1B424B6207F
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_JoinGame.WBP_JoinGame_C:ExecuteUbergraph_WBP_JoinGame [Script Bytecode]
@@ -4405,7 +4405,7 @@ msgstr "マズルコンペンセイター"
 #: /Game/Blueprint/UMG/InteractiveMessage/WBP_BuildMaterialMessage.WBP_BuildMaterialMessage_C:WidgetTree.WBP_Key_1.ShowText
 msgctxt ",DE277B1B4A5CE7805A70C19466C08D22"
 msgid "F"
-msgstr "ふ"
+msgstr "F"
 
 #. Key:	DE9208FC46FDC129FB0D8ABAB00801F3
 #. SourceLocation:	/Game/Blueprint/UMG/Make/WBP_MakeDetailShow.WBP_MakeDetailShow_C:WidgetTree.YZKX.Text
@@ -4707,7 +4707,7 @@ msgstr "電気化学+"
 #: Text
 msgctxt ",E987BA7A4F40FB8392162989C15EBC20"
 msgid "9mm子弹"
-msgstr "9mm弾"
+msgstr "9mmの弾薬"
 
 #. Key:	E9A10E33421DF89FF3203C8259441E89
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(0 - Value).DisplayNameMap
@@ -4876,7 +4876,7 @@ msgstr "以下の武器スロットに注意してください.最初の 2 つ�
 #: - Value).DisplayNameMap
 msgctxt ",F302E02F4A257C60ED0E7C8A726B7B18"
 msgid "Beam"
-msgstr "ビーム"
+msgstr "梁"
 
 #. Key:	F370F6994C20551E3A9968870FACCF36
 #. SourceLocation:	/Game/Blueprint/UMG/Inventory/WBP_UseMenu.WBP_UseMenu_C:ExecuteUbergraph_WBP_UseMenu [Script Bytecode]
@@ -4898,7 +4898,7 @@ msgstr "耐寒性"
 #: /Game/Blueprint/UMG/EscMenu/WBP_Setting.Default__WBP_Setting_C.Setting(2).Setting
 msgctxt ",F3BDDD104B77947183BF8B94D26442DE"
 msgid "高"
-msgstr "高い"
+msgstr "高品質"
 
 #. Key:	F3E6CCF3436FDB6BE9F2049AED4DD2AF
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(24 - Value).DisplayNameMap
@@ -5216,7 +5216,7 @@ msgstr "財団"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",FourHorizontalBeam"
 msgid "横梁(四格)"
-msgstr "ビーム (4 グリッド)"
+msgstr "梁(4 グリッド)"
 
 #. Key:	FourHorizontalBeamDetail
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5230,14 +5230,14 @@ msgstr "大きな家を建てるには、重量に耐えられる長い梁が欠
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",GuardRail"
 msgid "护栏"
-msgstr "ガードレール"
+msgstr "柵"
 
 #. Key:	GuardRail2
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",GuardRail2"
 msgid "护栏(半格)"
-msgstr "ガードレール（ハーフグリッド）"
+msgstr "柵（ハーフグリッド）"
 
 #. Key:	GuardRailAdsorbent
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5783,14 +5783,14 @@ msgstr "木でできた階段。"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",TwoHorizontalBeam"
 msgid "横梁(两格)"
-msgstr "ビーム (2 つのグリッド)"
+msgstr "梁 (2 つのグリッド)"
 
 #. Key:	TwoHorizontalBeamDetail
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",TwoHorizontalBeamDetail"
 msgid "较长横梁，可以承受重量。"
-msgstr "長いビームは、重量に耐えることができます。"
+msgstr "長い梁は、重量に耐えることができます。"
 
 #. Key:	VerticalBeam
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -6322,7 +6322,7 @@ msgstr "栽培箱"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B6"
 msgid "木材墙体(三角)"
-msgstr "ティンバーウォール（三角）"
+msgstr "木造壁（三角）"
 
 #. Key:	B60
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6826,28 +6826,28 @@ msgstr "桃"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F100"
 msgid "冶金（二卷）"
-msgstr "冶金学(第2巻）"
+msgstr "冶金(第2巻）"
 
 #. Key:	F101
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F101"
 msgid "冶金（三卷）"
-msgstr "冶金学(第3巻）"
+msgstr "冶金(第3巻）"
 
 #. Key:	F102
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F102"
 msgid "冶金（四卷）"
-msgstr "冶金学(第4巻）"
+msgstr "冶金(第4巻）"
 
 #. Key:	F103
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F103"
 msgid "冶金（五卷）"
-msgstr "冶金学 (第5巻)"
+msgstr "冶金 (第5巻)"
 
 #. Key:	F104
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -6889,7 +6889,7 @@ msgstr "エンジニアリング(第5巻）"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F109"
 msgid "武器大师（一卷）"
-msgstr "マスター・オブ・ウェポンズ (第1巻)"
+msgstr "武器製造 (第1巻)"
 
 #. Key:	F11
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -6903,28 +6903,28 @@ msgstr "りんご"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F110"
 msgid "武器大师（二卷）"
-msgstr "マスター・オブ・ウェポンズ (第2巻)"
+msgstr "武器製造 (第2巻)"
 
 #. Key:	F111
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F111"
 msgid "武器大师（三卷）"
-msgstr "マスター・オブ・ウェポンズ (第3巻)"
+msgstr "武器製造 (第3巻)"
 
 #. Key:	F112
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F112"
 msgid "武器大师（四卷）"
-msgstr "マスター・オブ・ウェポンズ (第4巻)"
+msgstr "武器製造 (第4巻)"
 
 #. Key:	F113
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F113"
 msgid "武器大师（五卷）"
-msgstr "マスター・オブ・ウェポンズ (第5巻)"
+msgstr "武器製造(第5巻)"
 
 #. Key:	F114
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7001,7 +7001,7 @@ msgstr "圧縮ビスケット"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F123"
 msgid "杂志"
-msgstr "マガジン"
+msgstr "雑誌"
 
 #. Key:	F124
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7197,7 +7197,7 @@ msgstr "ロースト野菜"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F27"
 msgid "失败料理"
-msgstr "失敗料理"
+msgstr "失敗した料理"
 
 #. Key:	F28
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7414,7 +7414,7 @@ msgstr "グルメサンドイッチ"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F55"
 msgid "干(净水)"
-msgstr "乾いた（きれいな水）"
+msgstr "空っぽ（きれいな水）"
 
 #. Key:	F56
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7561,35 +7561,35 @@ msgstr "美味しい肉の缶詰"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F74"
 msgid "养殖与种田（一卷）"
-msgstr "繁殖と農業（第 1 巻）"
+msgstr "畜産と農業（第 1 巻）"
 
 #. Key:	F75
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F75"
 msgid "养殖与种田（二卷）"
-msgstr "繁殖と農業 (第 2 巻)"
+msgstr "畜産と農業（第 2 巻）"
 
 #. Key:	F76
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F76"
 msgid "养殖与种田（三卷）"
-msgstr "繁殖と農業 (第 3 巻)"
+msgstr "畜産と農業（第 3 巻）"
 
 #. Key:	F77
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F77"
 msgid "养殖与种田（四卷）"
-msgstr "繁殖と農業 (第 4 巻)"
+msgstr "畜産と農業（第 4 巻）"
 
 #. Key:	F78
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F78"
 msgid "养殖与种田（五卷）"
-msgstr "繁殖と農業 (第 5 巻)"
+msgstr "畜産と農業（第 5 巻）"
 
 #. Key:	F79
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7673,7 +7673,7 @@ msgstr "電気化学 (第 5 巻)"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F89"
 msgid "机械（一卷）"
-msgstr "機械類（第 1 巻）"
+msgstr "機械（第 1 巻）"
 
 #. Key:	F9
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7687,7 +7687,7 @@ msgstr "ラズベリー"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F90"
 msgid "机械（二卷）"
-msgstr "機械類（第 2 巻）"
+msgstr "機械（第 2 巻）"
 
 #. Key:	F91
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7715,42 +7715,42 @@ msgstr "機械（第 5 巻）"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F94"
 msgid "裁缝（一卷）"
-msgstr "テーラー (第 1 巻)"
+msgstr "裁縫（第 1 巻）"
 
 #. Key:	F95
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F95"
 msgid "裁缝（二卷）"
-msgstr "テーラー（第 2 巻）"
+msgstr "裁縫（第 2 巻）"
 
 #. Key:	F96
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F96"
 msgid "裁缝（三卷）"
-msgstr "テーラー (第 3 巻)"
+msgstr "裁縫（第 3 巻）"
 
 #. Key:	F97
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F97"
 msgid "裁缝（四卷）"
-msgstr "テーラー (第 4 巻)"
+msgstr "裁縫（第 4 巻）"
 
 #. Key:	F98
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F98"
 msgid "裁缝（五卷）"
-msgstr "テーラー（第 5 巻）"
+msgstr "裁縫（第 5 巻）"
 
 #. Key:	F99
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F99"
 msgid "冶金（一卷）"
-msgstr "冶金学 (第 1 巻)"
+msgstr "冶金（第 1 巻）"
 
 #. Key:	G1
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7785,14 +7785,14 @@ msgstr "スナイパーライフルストック"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,G13"
 msgid "762扩容弹夹"
-msgstr "7.62拡張マガジン"
+msgstr "7.62mm拡張マガジン"
 
 #. Key:	G14
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,G14"
 msgid "556扩容弹夹"
-msgstr "5.56拡張マガジン"
+msgstr "5.56mm拡張マガジン"
 
 #. Key:	G15
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7960,14 +7960,14 @@ msgstr "通常の木材は、建設、ツールの作成に使用できます。
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M20"
 msgid "砖块"
-msgstr "れんが"
+msgstr "レンガ"
 
 #. Key:	M21
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M21"
 msgid "石头"
-msgstr "結石"
+msgstr "石"
 
 #. Key:	M22
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8513,28 +8513,28 @@ msgstr "雌羊"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M92"
 msgid "成年公鸡"
-msgstr "大人のチンポ"
+msgstr "大人の鶏（オス）"
 
 #. Key:	M93
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M93"
 msgid "成年母鸡"
-msgstr "大人の鶏"
+msgstr "大人の鶏（メス）"
 
 #. Key:	M94
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M94"
 msgid "小公鸡"
-msgstr "小さなチンポ"
+msgstr "小さな鶏（オス）"
 
 #. Key:	M95
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M95"
 msgid "小母鸡"
-msgstr "プーレット"
+msgstr "小さな鶏（メス）"
 
 #. Key:	M96
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8569,7 +8569,7 @@ msgstr "ポット"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,T10"
 msgid "绑带"
-msgstr "吊り革"
+msgstr "包帯"
 
 #. Key:	T11
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9024,14 +9024,14 @@ msgstr ".44口径の弾丸を使用"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W46"
 msgid "使用7.62口径弹药"
-msgstr "7.62口径の弾薬を使用"
+msgstr "7.62mmの弾薬を使用"
 
 #. Key:	W47
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W47"
 msgid "使用5.56口径弹药"
-msgstr "5.56口径の弾薬を使用"
+msgstr "5.56mmの弾薬を使用"
 
 #. Key:	W48
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9066,21 +9066,21 @@ msgstr "イタリアの散弾銃"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W51"
 msgid "762弹药"
-msgstr "7.62口径の弾薬"
+msgstr "7.62mmの弾薬"
 
 #. Key:	W52
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W52"
 msgid "556弹药"
-msgstr "5.56口径の弾薬"
+msgstr "5.56mmの弾薬"
 
 #. Key:	W53
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W53"
 msgid "9mm弹药"
-msgstr "5.56口径の弾薬"
+msgstr "9mmの弾薬"
 
 #. Key:	W54
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9318,7 +9318,7 @@ msgstr "戻る"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,BackAmmo"
 msgid "退弹"
-msgstr "跳ねる、弾む"
+msgstr "弾薬を取り出す"
 
 #. Key:	BackGame
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -9420,7 +9420,7 @@ msgstr "床"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,BuildGuard"
 msgid "护栏"
-msgstr "ガードレール"
+msgstr "柵"
 
 #. Key:	Buildingadsorbent
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -9567,7 +9567,7 @@ msgstr "容量："
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,CAR"
 msgid "车辆控制"
-msgstr "車両制御"
+msgstr "車両操作"
 
 #. Key:	carbohydrate
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -9595,7 +9595,7 @@ msgstr "ヘッドライト"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,CDDX"
 msgid "充电源"
-msgstr "充電ソース"
+msgstr "充電リソース"
 
 #. Key:	CDMC021
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -9616,7 +9616,7 @@ msgstr "有効なアーカイブ名を入力してください。または、同
 #: /Game/LocalizationText/UIStudy.UIStudy
 msgctxt "UI,CF"
 msgid "裁缝"
-msgstr "テーラー"
+msgstr "裁縫"
 
 #. Key:	ChangAn
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -9630,7 +9630,7 @@ msgstr "プレス"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Change"
 msgid "改装"
-msgstr "レトロフィット"
+msgstr "改造"
 
 #. Key:	changwuqi
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -9749,7 +9749,7 @@ msgstr "消耗品:"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,ControlSet"
 msgid "控制设置"
-msgstr "制御設定"
+msgstr "操作設定"
 
 #. Key:	cook
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10162,7 +10162,7 @@ msgstr "修理"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,FKS"
 msgid "脱离卡死"
-msgstr "渋滞から抜け出す"
+msgstr "スタック解除"
 
 #. Key:	FRCU01
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10789,7 +10789,7 @@ msgstr "作る"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Makeing"
 msgid "制作中..."
-msgstr "作る..."
+msgstr "製作中..."
 
 #. Key:	MakeListFull
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11321,7 +11321,7 @@ msgstr "銃口"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,QRGG"
 msgid "应用"
-msgstr "応用"
+msgstr "適用"
 
 #. Key:	QRTC
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
