@@ -1,35 +1,37 @@
-﻿# Game Japanese translation.
 # Copyright Epic Games, Inc. All Rights Reserved.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
 "POT-Creation-Date: 2023-02-01 12:05\n"
-"PO-Revision-Date: 2023-02-01 12:05\n"
+"PO-Revision-Date: 2023-02-07 12:24+0900\n"
+"Last-Translator: \n"
 "Language-Team: \n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.2.2\n"
 
 #. Key:	005986EF48789316B83C53885CBD1FB8
 #. SourceLocation:	/Game/Blueprint/UMG/Inventory/WBP_UseMenu.WBP_UseMenu_C:WidgetTree.TextBlock_9.Text
 #: /Game/Blueprint/UMG/Inventory/WBP_UseMenu.WBP_UseMenu_C:WidgetTree.TextBlock_9.Text
 msgctxt ",005986EF48789316B83C53885CBD1FB8"
-msgid "清洗"
+msgid "洗濯"
 msgstr "クリーニング"
 
 #. Key:	00986F3D49F50B3B8F6203A93FD5D846
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_SPX.WBP_SPX_C:WidgetTree.development.Text
 #: /Game/Blueprint/UMG/Furniture/WBP_SPX.WBP_SPX_C:WidgetTree.development.Text
 msgctxt ",00986F3D49F50B3B8F6203A93FD5D846"
-msgid "发育"
+msgid "発達"
 msgstr "発達"
 
 #. Key:	01471E2242A1A96EA568E09F19D72C20
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(13 - Value).DisplayNameMap
-#: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(13 - Value).DisplayNameMap
+#: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(13
+#: - Value).DisplayNameMap
 msgctxt ",01471E2242A1A96EA568E09F19D72C20"
 msgid "GuardRail"
 msgstr "ガードレール"
@@ -64,21 +66,24 @@ msgstr "20"
 
 #. Key:	029F18BD46A2F021A1DFC69AEB53CA02
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Bow/BP_ArrowBase.BP_ArrowBase_C:ExecuteUbergraph_BP_ArrowBase [Script Bytecode]
-#: /Game/Blueprint/ACF/Item/Weapon/Bow/BP_ArrowBase.BP_ArrowBase_C:ExecuteUbergraph_BP_ArrowBase [Script Bytecode]
+#: /Game/Blueprint/ACF/Item/Weapon/Bow/BP_ArrowBase.BP_ArrowBase_C:ExecuteUbergraph_BP_ArrowBase
+#: [Script Bytecode]
 msgctxt ",029F18BD46A2F021A1DFC69AEB53CA02"
 msgid "回收失败！"
-msgstr "リカバリに失敗しました!"
+msgstr "リカバリ-に失敗しました!"
 
 #. Key:	0346655D46C4AF76A1D1B3943060F0AB
 #. SourceLocation:	/Game/Blueprint/UMG/EscMenu/WBP_ScreenSetting.WBP_ScreenSetting_C:WidgetTree.WBP_NIS.Show In Text
-#: /Game/Blueprint/UMG/EscMenu/WBP_ScreenSetting.WBP_ScreenSetting_C:WidgetTree.WBP_NIS.Show In Text
+#: /Game/Blueprint/UMG/EscMenu/WBP_ScreenSetting.WBP_ScreenSetting_C:WidgetTree.WBP_NIS.Show
+#: In Text
 msgctxt ",0346655D46C4AF76A1D1B3943060F0AB"
 msgid "NIS锐化"
 msgstr "NIS シャープニング"
 
 #. Key:	03C4AFA9436A2A9CEA6F87A9A52041FC
 #. SourceLocation:	/Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(13 - Value).DisplayNameMap
-#: /Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(13 - Value).DisplayNameMap
+#: /Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(13 -
+#: Value).DisplayNameMap
 msgctxt ",03C4AFA9436A2A9CEA6F87A9A52041FC"
 msgid "Ladder"
 msgstr "はしご"
@@ -134,14 +139,16 @@ msgstr "1"
 
 #. Key:	067DCE7B4743216420B91882A3EB41B2
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_5.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_5.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_5.In
+#: Text
 msgctxt ",067DCE7B4743216420B91882A3EB41B2"
 msgid "铁双手刀"
 msgstr "鉄の両手ナイフ"
 
 #. Key:	069FBCBF40327BC41FD9779E8015C85B
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_73.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_73.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_73.In
+#: Text
 msgctxt ",069FBCBF40327BC41FD9779E8015C85B"
 msgid "石油提取器核心"
 msgstr "オイル抽出コア"
@@ -169,7 +176,8 @@ msgstr "武器製造+"
 
 #. Key:	071CC0AD44E91A58C8A6BBA56F0A6884
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(21 - Value).DisplayNameMap
-#: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(21 - Value).DisplayNameMap
+#: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(21
+#: - Value).DisplayNameMap
 msgctxt ",071CC0AD44E91A58C8A6BBA56F0A6884"
 msgid "OutStairs"
 msgstr "アウトステアーズ"
@@ -190,7 +198,8 @@ msgstr "シャベルオフ"
 
 #. Key:	08932B364A170FBCBE3BC5A1DD392BF1
 #. SourceLocation:	/Game/Blueprint/UMG/InteractiveMessage/Interactive.Interactive.DisplayNameMap(3 - Value).DisplayNameMap
-#: /Game/Blueprint/UMG/InteractiveMessage/Interactive.Interactive.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/Blueprint/UMG/InteractiveMessage/Interactive.Interactive.DisplayNameMap(3
+#: - Value).DisplayNameMap
 msgctxt ",08932B364A170FBCBE3BC5A1DD392BF1"
 msgid "BuildMaterial"
 msgstr "ビルドマテリアル"
@@ -200,7 +209,7 @@ msgstr "ビルドマテリアル"
 #: /Game/Blueprint/UMG/InteractiveMessage/WBP_Key.Default__WBP_Key_C.ShowText
 msgctxt ",089EEA3E46AA1CBAAFBAFFA80CA856BE"
 msgid "E"
-msgstr "と"
+msgstr "E"
 
 #. Key:	0928DBE0408A27E207C2D29145B40B53
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_17.Text
@@ -211,7 +220,8 @@ msgstr "完全な状態+"
 
 #. Key:	096D56544FDEF1DB6D35EF95D685CC18
 #. SourceLocation:	/Game/Blueprint/ACF/Player/HDCK_CharacterBP.HDCK_CharacterBP_C:ExecuteUbergraph_HDCK_CharacterBP [Script Bytecode]
-#: /Game/Blueprint/ACF/Player/HDCK_CharacterBP.HDCK_CharacterBP_C:ExecuteUbergraph_HDCK_CharacterBP [Script Bytecode]
+#: /Game/Blueprint/ACF/Player/HDCK_CharacterBP.HDCK_CharacterBP_C:ExecuteUbergraph_HDCK_CharacterBP
+#: [Script Bytecode]
 msgctxt ",096D56544FDEF1DB6D35EF95D685CC18"
 msgid "保存成功！"
 msgstr "保存に成功しました！"
@@ -225,14 +235,16 @@ msgstr "401日目"
 
 #. Key:	0A1B65064219DCA393D97DADDE5CB235
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_ZJ.Furniture_ZJ_C:ExecuteUbergraph_Furniture_ZJ [Script Bytecode]
-#: /Game/HDCKBuildingSystem/MeshBP/Furniture_ZJ.Furniture_ZJ_C:ExecuteUbergraph_Furniture_ZJ [Script Bytecode]
+#: /Game/HDCKBuildingSystem/MeshBP/Furniture_ZJ.Furniture_ZJ_C:ExecuteUbergraph_Furniture_ZJ
+#: [Script Bytecode]
 msgctxt ",0A1B65064219DCA393D97DADDE5CB235"
 msgid "取出饲料"
 msgstr "餌を取り出す"
 
 #. Key:	0A8AEE964987DE886D432BA25A0AD042
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(17 - Value).DisplayNameMap
-#: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(17 - Value).DisplayNameMap
+#: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(17
+#: - Value).DisplayNameMap
 msgctxt ",0A8AEE964987DE886D432BA25A0AD042"
 msgid "WallHanging"
 msgstr "壁掛け"
@@ -260,7 +272,8 @@ msgstr "耐熱性"
 
 #. Key:	0B9FB4204723F5010819DCAE9A4DD653
 #. SourceLocation:	/Game/Blueprint/UMG/EscMenu/WBP_ScreenSetting.WBP_ScreenSetting_C:WidgetTree.WBP_Dyna.Show In Text
-#: /Game/Blueprint/UMG/EscMenu/WBP_ScreenSetting.WBP_ScreenSetting_C:WidgetTree.WBP_Dyna.Show In Text
+#: /Game/Blueprint/UMG/EscMenu/WBP_ScreenSetting.WBP_ScreenSetting_C:WidgetTree.WBP_Dyna.Show
+#: In Text
 msgctxt ",0B9FB4204723F5010819DCAE9A4DD653"
 msgid "动态分辨率"
 msgstr "動的解像度"
@@ -309,14 +322,16 @@ msgstr "硬い抵抗"
 
 #. Key:	0EC8AC2A406B6453ED52418F305B612D
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_CreateNewCharacter.WBP_CreateNewCharacter_C:ExecuteUbergraph_WBP_CreateNewCharacter [Script Bytecode]
-#: /Game/Blueprint/UMG/MainUI/Child/WBP_CreateNewCharacter.WBP_CreateNewCharacter_C:ExecuteUbergraph_WBP_CreateNewCharacter [Script Bytecode]
+#: /Game/Blueprint/UMG/MainUI/Child/WBP_CreateNewCharacter.WBP_CreateNewCharacter_C:ExecuteUbergraph_WBP_CreateNewCharacter
+#: [Script Bytecode]
 msgctxt ",0EC8AC2A406B6453ED52418F305B612D"
 msgid "已经有一个相同名字的角色或ID无效"
-msgstr ""
+msgstr "同じ名前または ID が既に存在します"
 
 #. Key:	0EE4296D4AE97E2F2B01F4A0EC0AB712
 #. SourceLocation:	/Game/Blueprint/ACF/Player/HDCK_GameState.Default__HDCK_GameState_C:Team Manager.Teams(0 - Value).Teams.DisplayName
-#: /Game/Blueprint/ACF/Player/HDCK_GameState.Default__HDCK_GameState_C:Team Manager.Teams(0 - Value).Teams.DisplayName
+#: /Game/Blueprint/ACF/Player/HDCK_GameState.Default__HDCK_GameState_C:Team
+#: Manager.Teams(0 - Value).Teams.DisplayName
 msgctxt ",0EE4296D4AE97E2F2B01F4A0EC0AB712"
 msgid "Team 1"
 msgstr "チーム1"
@@ -337,14 +352,16 @@ msgstr "家の耐荷重には梁と柱が必要です.壁と屋根を建てる�
 
 #. Key:	102D232D42B74EA177476CB075A9B8A8
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(22 - Value).DisplayNameMap
-#: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(22 - Value).DisplayNameMap
+#: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(22
+#: - Value).DisplayNameMap
 msgctxt ",102D232D42B74EA177476CB075A9B8A8"
 msgid "YJ"
 msgstr "YJ"
 
 #. Key:	1095273E45CC503C8A481CACF4CD13AA
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(20 - Value).DisplayNameMap
-#: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(20 - Value).DisplayNameMap
+#: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(20
+#: - Value).DisplayNameMap
 msgctxt ",1095273E45CC503C8A481CACF4CD13AA"
 msgid "Wattle"
 msgstr "ワトル"
@@ -372,7 +389,8 @@ msgstr "防衛"
 
 #. Key:	11F3AB6849DC8617F502B08F7704F966
 #. SourceLocation:	/Game/HDCKBuildingSystem/Table/E_SelectTypeChild.E_SelectTypeChild.DisplayNameMap(8 - Value).DisplayNameMap
-#: /Game/HDCKBuildingSystem/Table/E_SelectTypeChild.E_SelectTypeChild.DisplayNameMap(8 - Value).DisplayNameMap
+#: /Game/HDCKBuildingSystem/Table/E_SelectTypeChild.E_SelectTypeChild.DisplayNameMap(8
+#: - Value).DisplayNameMap
 msgctxt ",11F3AB6849DC8617F502B08F7704F966"
 msgid "RoofEnd"
 msgstr "ルーフエンド"
@@ -400,14 +418,16 @@ msgstr "木を切るのによく使われ、ページは必要に応じて護身
 
 #. Key:	12C0B13F40681758244398A58FCF8834
 #. SourceLocation:	/Game/Blueprint/ACF/Manager/E_Weather.E_Weather.DisplayNameMap(1 - Value).DisplayNameMap
-#: /Game/Blueprint/ACF/Manager/E_Weather.E_Weather.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/Blueprint/ACF/Manager/E_Weather.E_Weather.DisplayNameMap(1 -
+#: Value).DisplayNameMap
 msgctxt ",12C0B13F40681758244398A58FCF8834"
 msgid "Snow"
 msgstr "雪"
 
 #. Key:	13214985457425F5E5AE71A38AC18920
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_JoinGame.WBP_JoinGame_C:WidgetTree.WBP_Join.In Text
-#: /Game/Blueprint/UMG/MainUI/Child/WBP_JoinGame.WBP_JoinGame_C:WidgetTree.WBP_Join.In Text
+#: /Game/Blueprint/UMG/MainUI/Child/WBP_JoinGame.WBP_JoinGame_C:WidgetTree.WBP_Join.In
+#: Text
 msgctxt ",13214985457425F5E5AE71A38AC18920"
 msgid "加入"
 msgstr "参加する"
@@ -428,7 +448,8 @@ msgstr "給水口"
 
 #. Key:	1470933545C7CA2F2EB2BCA1D91B3008
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_71.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_71.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_71.In
+#: Text
 msgctxt ",1470933545C7CA2F2EB2BCA1D91B3008"
 msgid "制药仪"
 msgstr "製薬機器"
@@ -449,7 +470,8 @@ msgstr "防衛"
 
 #. Key:	156B0CCB494B40FB415BECB3C72F876F
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(5 - Value).DisplayNameMap
-#: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(5 - Value).DisplayNameMap
+#: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(5
+#: - Value).DisplayNameMap
 msgctxt ",156B0CCB494B40FB415BECB3C72F876F"
 msgid "Floor"
 msgstr "床"
@@ -477,7 +499,8 @@ msgstr "モデル01"
 
 #. Key:	16BC7F2545C7B3F99940CC83C9FC978C
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_66.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_66.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_66.In
+#: Text
 msgctxt ",16BC7F2545C7B3F99940CC83C9FC978C"
 msgid "青霉素"
 msgstr "ペニシリン"
@@ -491,7 +514,8 @@ msgstr "870AC"
 
 #. Key:	17B6B9D34796D38A9172D2AB4AFFD345
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_JoinGame.WBP_JoinGame_C:WidgetTree.WBP_Search.In Text
-#: /Game/Blueprint/UMG/MainUI/Child/WBP_JoinGame.WBP_JoinGame_C:WidgetTree.WBP_Search.In Text
+#: /Game/Blueprint/UMG/MainUI/Child/WBP_JoinGame.WBP_JoinGame_C:WidgetTree.WBP_Search.In
+#: Text
 msgctxt ",17B6B9D34796D38A9172D2AB4AFFD345"
 msgid "搜索"
 msgstr "探す"
@@ -533,7 +557,8 @@ msgstr "現在の燃料: 10/50L"
 
 #. Key:	1A0854374F1628CECF3A55984034F8FF
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_70.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_70.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_70.In
+#: Text
 msgctxt ",1A0854374F1628CECF3A55984034F8FF"
 msgid "精细面料"
 msgstr "上質な生地"
@@ -547,7 +572,8 @@ msgstr "耐スクラッチ性"
 
 #. Key:	1A1FCEF24CE7BF18B46A2488B22B1E7D
 #. SourceLocation:	/Game/Blueprint/UMG/InteractiveMessage/Interactive.Interactive.DisplayNameMap(2 - Value).DisplayNameMap
-#: /Game/Blueprint/UMG/InteractiveMessage/Interactive.Interactive.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/Blueprint/UMG/InteractiveMessage/Interactive.Interactive.DisplayNameMap(2
+#: - Value).DisplayNameMap
 msgctxt ",1A1FCEF24CE7BF18B46A2488B22B1E7D"
 msgid "PickMenu"
 msgstr "ピックメニュー"
@@ -561,7 +587,8 @@ msgstr "情報"
 
 #. Key:	1A5943304B1C4E435E9732A73F4A03F5
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/E_AimType.E_AimType.DisplayNameMap(1 - Value).DisplayNameMap
-#: /Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/E_AimType.E_AimType.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/E_AimType.E_AimType.DisplayNameMap(1
+#: - Value).DisplayNameMap
 msgctxt ",1A5943304B1C4E435E9732A73F4A03F5"
 msgid "RedDot"
 msgstr "赤い点"
@@ -603,14 +630,16 @@ msgstr "斧を使って木を切り倒す"
 
 #. Key:	1C3DB35D4F2B6E130888F98241FD456F
 #. SourceLocation:	/Game/HDCKBuildingSystem/Table/E_SelectTypeChild.E_SelectTypeChild.DisplayNameMap(10 - Value).DisplayNameMap
-#: /Game/HDCKBuildingSystem/Table/E_SelectTypeChild.E_SelectTypeChild.DisplayNameMap(10 - Value).DisplayNameMap
+#: /Game/HDCKBuildingSystem/Table/E_SelectTypeChild.E_SelectTypeChild.DisplayNameMap(10
+#: - Value).DisplayNameMap
 msgctxt ",1C3DB35D4F2B6E130888F98241FD456F"
 msgid "All"
 msgstr "全て"
 
 #. Key:	1C48FE3F4EC13198BE806B9B56AF1CD4
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/StartUIEnum.StartUIEnum.DisplayNameMap(2 - Value).DisplayNameMap
-#: /Game/Blueprint/UMG/MainUI/StartUIEnum.StartUIEnum.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/Blueprint/UMG/MainUI/StartUIEnum.StartUIEnum.DisplayNameMap(2 -
+#: Value).DisplayNameMap
 msgctxt ",1C48FE3F4EC13198BE806B9B56AF1CD4"
 msgid "Setting"
 msgstr "設定"
@@ -659,7 +688,8 @@ msgstr "部屋名："
 
 #. Key:	1D10CBC14B32479868B84389F49601B1
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/FaceUI/WBP_FaceSelectButton.Default__WBP_FaceSelectButton_C.In Text
-#: /Game/Blueprint/UMG/MainUI/Child/FaceUI/WBP_FaceSelectButton.Default__WBP_FaceSelectButton_C.In Text
+#: /Game/Blueprint/UMG/MainUI/Child/FaceUI/WBP_FaceSelectButton.Default__WBP_FaceSelectButton_C.In
+#: Text
 msgctxt ",1D10CBC14B32479868B84389F49601B1"
 msgid "123"
 msgstr "123"
@@ -687,7 +717,8 @@ msgstr "機械修理 (全 2 巻)"
 
 #. Key:	1E1424C246AA03A9636E0398AD8C1852
 #. SourceLocation:	/Game/Blueprint/UMG/EscMenu/WBP_ControlSetting.WBP_ControlSetting_C:WidgetTree.WBP_SlideMouse_1.Show In Text
-#: /Game/Blueprint/UMG/EscMenu/WBP_ControlSetting.WBP_ControlSetting_C:WidgetTree.WBP_SlideMouse_1.Show In Text
+#: /Game/Blueprint/UMG/EscMenu/WBP_ControlSetting.WBP_ControlSetting_C:WidgetTree.WBP_SlideMouse_1.Show
+#: In Text
 msgctxt ",1E1424C246AA03A9636E0398AD8C1852"
 msgid "开镜鼠标灵敏度"
 msgstr "スコープ マウスの感度"
@@ -715,7 +746,8 @@ msgstr "アロー基本クラス"
 
 #. Key:	2011D93346060F727514E3B743DC3280
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_87.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_87.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_87.In
+#: Text
 msgctxt ",2011D93346060F727514E3B743DC3280"
 msgid "钢稿"
 msgstr "スチールドラフト"
@@ -736,7 +768,8 @@ msgstr "耐久性:"
 
 #. Key:	2191E6F14098A0C04EFC4FA4B26ECAE8
 #. SourceLocation:	/Game/Blueprint/UMG/ScreenMessage/WBP_GunMessage.WBP_GunMessage_C:ExecuteUbergraph_WBP_GunMessage [Script Bytecode]
-#: /Game/Blueprint/UMG/ScreenMessage/WBP_GunMessage.WBP_GunMessage_C:ExecuteUbergraph_WBP_GunMessage [Script Bytecode]
+#: /Game/Blueprint/UMG/ScreenMessage/WBP_GunMessage.WBP_GunMessage_C:ExecuteUbergraph_WBP_GunMessage
+#: [Script Bytecode]
 msgctxt ",2191E6F14098A0C04EFC4FA4B26ECAE8"
 msgid "单发"
 msgstr "シングルショット"
@@ -750,7 +783,8 @@ msgstr "タブ"
 
 #. Key:	22C074F44EED2C76F551E9A06B6F8261
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(1 - Value).DisplayNameMap
-#: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(1
+#: - Value).DisplayNameMap
 msgctxt ",22C074F44EED2C76F551E9A06B6F8261"
 msgid "VerticalBeam"
 msgstr "垂直ビーム"
@@ -792,14 +826,16 @@ msgstr "モデル02"
 
 #. Key:	24791B5F496A7379DD1A5DABE8249766
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_24.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_24.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_24.In
+#: Text
 msgctxt ",24791B5F496A7379DD1A5DABE8249766"
 msgid "制衣台"
 msgstr "化粧台"
 
 #. Key:	255B70D241CAF1A285F57FA01C58F0BF
 #. SourceLocation:	/Game/HDCKBuildingSystem/Table/E_SelectType.E_SelectType.DisplayNameMap(3 - Value).DisplayNameMap
-#: /Game/HDCKBuildingSystem/Table/E_SelectType.E_SelectType.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/HDCKBuildingSystem/Table/E_SelectType.E_SelectType.DisplayNameMap(3 -
+#: Value).DisplayNameMap
 msgctxt ",255B70D241CAF1A285F57FA01C58F0BF"
 msgid "all"
 msgstr "全て"
@@ -813,7 +849,8 @@ msgstr "マラリアの増加"
 
 #. Key:	258B8DCA4A30A8C003E35AA9CED8333D
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_33.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_33.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_33.In
+#: Text
 msgctxt ",258B8DCA4A30A8C003E35AA9CED8333D"
 msgid "砖块"
 msgstr "れんが"
@@ -827,7 +864,8 @@ msgstr "アーカイブの復元"
 
 #. Key:	269B80324FC87D5B8DEDDDB22B6B7A09
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_42.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_42.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_42.In
+#: Text
 msgctxt ",269B80324FC87D5B8DEDDDB22B6B7A09"
 msgid "铁斧"
 msgstr "鉄の斧"
@@ -848,7 +886,8 @@ msgstr "10/10"
 
 #. Key:	26FAE7D34C614A3E6A0B6AAE6343108F
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_96.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_96.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_96.In
+#: Text
 msgctxt ",26FAE7D34C614A3E6A0B6AAE6343108F"
 msgid "水泥"
 msgstr "セメント"
@@ -869,14 +908,16 @@ msgstr "リスト"
 
 #. Key:	2825D84B46503305B687FE865D440131
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_63.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_63.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_63.In
+#: Text
 msgctxt ",2825D84B46503305B687FE865D440131"
 msgid "钻井工具"
 msgstr "掘削ツール"
 
 #. Key:	2868B9554C079D0EFF670480D6C82D38
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_ZJ.Furniture_ZJ_C:ExecuteUbergraph_Furniture_ZJ [Script Bytecode]
-#: /Game/HDCKBuildingSystem/MeshBP/Furniture_ZJ.Furniture_ZJ_C:ExecuteUbergraph_Furniture_ZJ [Script Bytecode]
+#: /Game/HDCKBuildingSystem/MeshBP/Furniture_ZJ.Furniture_ZJ_C:ExecuteUbergraph_Furniture_ZJ
+#: [Script Bytecode]
 msgctxt ",2868B9554C079D0EFF670480D6C82D38"
 msgid "添加饲料"
 msgstr "フィードを追加"
@@ -890,14 +931,16 @@ msgstr "パスワードが正しくありません。"
 
 #. Key:	291BB8524A3F9AE1C2CFC684DAC4CE1D
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_83.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_83.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_83.In
+#: Text
 msgctxt ",291BB8524A3F9AE1C2CFC684DAC4CE1D"
 msgid "钢箭"
 msgstr "鋼の矢"
 
 #. Key:	2964AD47479FD74660CD0D8804857F13
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/StartUIEnum.StartUIEnum.DisplayNameMap(3 - Value).DisplayNameMap
-#: /Game/Blueprint/UMG/MainUI/StartUIEnum.StartUIEnum.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/Blueprint/UMG/MainUI/StartUIEnum.StartUIEnum.DisplayNameMap(3 -
+#: Value).DisplayNameMap
 msgctxt ",2964AD47479FD74660CD0D8804857F13"
 msgid "CreateCharacter"
 msgstr "キャラクター作成"
@@ -911,7 +954,8 @@ msgstr "Steam を起動してゲームを確認してください!"
 
 #. Key:	2A74F3F94EDE3FED86E7ACAD9041D481
 #. SourceLocation:	/Game/Blueprint/UMG/EscMenu/ScreenSwitch.ScreenSwitch.DisplayNameMap(2 - Value).DisplayNameMap
-#: /Game/Blueprint/UMG/EscMenu/ScreenSwitch.ScreenSwitch.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/Blueprint/UMG/EscMenu/ScreenSwitch.ScreenSwitch.DisplayNameMap(2 -
+#: Value).DisplayNameMap
 msgctxt ",2A74F3F94EDE3FED86E7ACAD9041D481"
 msgid "ControlSet"
 msgstr "コントロールセット"
@@ -925,7 +969,8 @@ msgstr "0 はなしを意味します"
 
 #. Key:	2A956A2A4408BCF9A24AE18FC7A69E73
 #. SourceLocation:	/Game/Blueprint/ACF/Player/HDCK_GameState.Default__HDCK_GameState_C:Team Manager.Teams(5 - Value).Teams.DisplayName
-#: /Game/Blueprint/ACF/Player/HDCK_GameState.Default__HDCK_GameState_C:Team Manager.Teams(5 - Value).Teams.DisplayName
+#: /Game/Blueprint/ACF/Player/HDCK_GameState.Default__HDCK_GameState_C:Team
+#: Manager.Teams(5 - Value).Teams.DisplayName
 msgctxt ",2A956A2A4408BCF9A24AE18FC7A69E73"
 msgid "Team 6"
 msgstr "チーム6"
@@ -939,7 +984,8 @@ msgstr "M4ライフル"
 
 #. Key:	2AEDF97B456853ED929F229E28ED97D4
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/StartUIEnum.StartUIEnum.DisplayNameMap(1 - Value).DisplayNameMap
-#: /Game/Blueprint/UMG/MainUI/StartUIEnum.StartUIEnum.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/Blueprint/UMG/MainUI/StartUIEnum.StartUIEnum.DisplayNameMap(1 -
+#: Value).DisplayNameMap
 msgctxt ",2AEDF97B456853ED929F229E28ED97D4"
 msgid "SelectCharacter"
 msgstr "キャラクター選択"
@@ -974,7 +1020,8 @@ msgstr "99"
 
 #. Key:	2DAB35E643134B1AA825ACA13C74DE1F
 #. SourceLocation:	/Game/Blueprint/ACF/Player/HDCK_GameState.Default__HDCK_GameState_C:Team Manager.Teams(6 - Value).Teams.DisplayName
-#: /Game/Blueprint/ACF/Player/HDCK_GameState.Default__HDCK_GameState_C:Team Manager.Teams(6 - Value).Teams.DisplayName
+#: /Game/Blueprint/ACF/Player/HDCK_GameState.Default__HDCK_GameState_C:Team
+#: Manager.Teams(6 - Value).Teams.DisplayName
 msgctxt ",2DAB35E643134B1AA825ACA13C74DE1F"
 msgid "Team 7"
 msgstr "チーム7"
@@ -1044,7 +1091,8 @@ msgstr "テーラー+"
 
 #. Key:	3051ED674341FDB383BE0B83E0E7BD19
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_41.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_41.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_41.In
+#: Text
 msgctxt ",3051ED674341FDB383BE0B83E0E7BD19"
 msgid "铁制匕首"
 msgstr "アイアンダガー"
@@ -1075,7 +1123,7 @@ msgstr "機械修理 (全4巻)"
 #: /Game/Blueprint/UMG/Furniture/WBP_CarInventory01.WBP_CarInventory01_C:WidgetTree.Repir.ToolTipText
 msgctxt ",32F2C50042D534BEAA1662A2087AC8CA"
 msgid "放入汽车修理套件维修"
-msgstr "車の修理キットに入れて修理する"
+msgstr "車の修理キットを入れて修理する"
 
 #. Key:	330C2123417837492F10DB97418C4923
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Tool/Item_NotUse_Tool_Base.Default__Item_NotUse_Tool_Base_C.ItemInfo.Description
@@ -1089,32 +1137,36 @@ msgstr "通常の石は、道具の構築や作成に使用できます。"
 #: /Game/Blueprint/UMG/Furniture/WBP_DCZDetail.WBP_DCZDetail_C:WidgetTree.NULL.Text
 msgctxt ",3376BBAD4F44547365C93295807CA25A"
 msgid "空"
-msgstr "ヌル"
+msgstr "日"
 
 #. Key:	337ED83240330270AB32E8803A60AB7F
 #. SourceLocation:	/Game/HDCKBuildingSystem/Table/E_SelectTypeChild.E_SelectTypeChild.DisplayNameMap(1 - Value).DisplayNameMap
-#: /Game/HDCKBuildingSystem/Table/E_SelectTypeChild.E_SelectTypeChild.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/HDCKBuildingSystem/Table/E_SelectTypeChild.E_SelectTypeChild.DisplayNameMap(1
+#: - Value).DisplayNameMap
 msgctxt ",337ED83240330270AB32E8803A60AB7F"
 msgid "Floor"
 msgstr "床"
 
 #. Key:	33A4C5C84762B0FABA98AD81D6662884
 #. SourceLocation:	/Game/Blueprint/AI/SpawnAi/BP_AIOSpawnerHDCK.BP_AIOSpawnerHDCK_C:GenerateSpawnPoints [Script Bytecode]
-#: /Game/Blueprint/AI/SpawnAi/BP_AIOSpawnerHDCK.BP_AIOSpawnerHDCK_C:GenerateSpawnPoints [Script Bytecode]
+#: /Game/Blueprint/AI/SpawnAi/BP_AIOSpawnerHDCK.BP_AIOSpawnerHDCK_C:GenerateSpawnPoints
+#: [Script Bytecode]
 msgctxt ",33A4C5C84762B0FABA98AD81D6662884"
 msgid "Generate Spawn Points"
 msgstr "スポーンポイントを生成する"
 
 #. Key:	345B92054EC055355AB3009E0BE9AED8
 #. SourceLocation:	/Game/HDCKBuildingSystem/Table/E_SelectTypeChild.E_SelectTypeChild.DisplayNameMap(5 - Value).DisplayNameMap
-#: /Game/HDCKBuildingSystem/Table/E_SelectTypeChild.E_SelectTypeChild.DisplayNameMap(5 - Value).DisplayNameMap
+#: /Game/HDCKBuildingSystem/Table/E_SelectTypeChild.E_SelectTypeChild.DisplayNameMap(5
+#: - Value).DisplayNameMap
 msgctxt ",345B92054EC055355AB3009E0BE9AED8"
 msgid "Roof45"
 msgstr "ルーフ45"
 
 #. Key:	34BA075949BEF9CEFE77D392D7825102
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/WBP_StartButton.Default__WBP_StartButton_C.In Text
-#: /Game/Blueprint/UMG/MainUI/WBP_StartButton.Default__WBP_StartButton_C.In Text
+#: /Game/Blueprint/UMG/MainUI/WBP_StartButton.Default__WBP_StartButton_C.In
+#: Text
 msgctxt ",34BA075949BEF9CEFE77D392D7825102"
 msgid "开始游戏"
 msgstr "ゲームを始める"
@@ -1135,7 +1187,8 @@ msgstr "ゲームを開始するキャラクターを選択してください"
 
 #. Key:	3693ACEA4D78D3294171D2A821973F01
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_49.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_49.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_49.In
+#: Text
 msgctxt ",3693ACEA4D78D3294171D2A821973F01"
 msgid "铁大锤"
 msgstr "アイアンスレッジハンマー"
@@ -1170,21 +1223,24 @@ msgstr "硬直的"
 
 #. Key:	375BB32D483FA7F99E421AA279D0382A
 #. SourceLocation:	/Game/Blueprint/AI/SpawnAi/BP_AIOSpawnerHDCK.BP_AIOSpawnerHDCK_C:ClearSpawnPoints [Script Bytecode]
-#: /Game/Blueprint/AI/SpawnAi/BP_AIOSpawnerHDCK.BP_AIOSpawnerHDCK_C:ClearSpawnPoints [Script Bytecode]
+#: /Game/Blueprint/AI/SpawnAi/BP_AIOSpawnerHDCK.BP_AIOSpawnerHDCK_C:ClearSpawnPoints
+#: [Script Bytecode]
 msgctxt ",375BB32D483FA7F99E421AA279D0382A"
 msgid "Clear Spawn Points"
 msgstr "スポーンポイントをクリア"
 
 #. Key:	37FE7E904821DCB687C7288664B6AC33
 #. SourceLocation:	/Game/Blueprint/Car/InCarMode.InCarMode.DisplayNameMap(4 - Value).DisplayNameMap
-#: /Game/Blueprint/Car/InCarMode.InCarMode.DisplayNameMap(4 - Value).DisplayNameMap
+#: /Game/Blueprint/Car/InCarMode.InCarMode.DisplayNameMap(4 -
+#: Value).DisplayNameMap
 msgctxt ",37FE7E904821DCB687C7288664B6AC33"
 msgid "BackRight"
 msgstr "戻る右"
 
 #. Key:	388674CD4EA9D79EE9A298AE82D138E3
 #. SourceLocation:	/Game/Blueprint/UMG/ScreenMessage/WBP_CarMessage.WBP_CarMessage_C:UpdateShow [Script Bytecode]
-#: /Game/Blueprint/UMG/ScreenMessage/WBP_CarMessage.WBP_CarMessage_C:UpdateShow [Script Bytecode]
+#: /Game/Blueprint/UMG/ScreenMessage/WBP_CarMessage.WBP_CarMessage_C:UpdateShow
+#: [Script Bytecode]
 msgctxt ",388674CD4EA9D79EE9A298AE82D138E3"
 msgid "N"
 msgstr "N"
@@ -1212,21 +1268,24 @@ msgstr "主に石を割るために使用され、必要に応じて自己防衛
 
 #. Key:	3949BD354C0840CBF08A628DDE1B0141
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_84.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_84.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_84.In
+#: Text
 msgctxt ",3949BD354C0840CBF08A628DDE1B0141"
 msgid "汽油弹"
 msgstr "ガソリン爆弾"
 
 #. Key:	39898A094039C28F8C3B64893ED6CB03
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_6.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_6.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_6.In
+#: Text
 msgctxt ",39898A094039C28F8C3B64893ED6CB03"
 msgid "铁箭"
 msgstr "アイアンアロー"
 
 #. Key:	3A309EDE4B14D13B25BC2D97F0C97C71
 #. SourceLocation:	/Game/Blueprint/AI/ZombieState.ZombieState.DisplayNameMap(2 - Value).DisplayNameMap
-#: /Game/Blueprint/AI/ZombieState.ZombieState.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/Blueprint/AI/ZombieState.ZombieState.DisplayNameMap(2 -
+#: Value).DisplayNameMap
 msgctxt ",3A309EDE4B14D13B25BC2D97F0C97C71"
 msgid "chasing"
 msgstr "追いかける"
@@ -1240,7 +1299,8 @@ msgstr "スキル詳細ページ"
 
 #. Key:	3A6879B749414322EB2621BDD1017E66
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_LoadGame.WBP_LoadGame_C:WidgetTree.WBP_BackSave.In Text
-#: /Game/Blueprint/UMG/MainUI/Child/WBP_LoadGame.WBP_LoadGame_C:WidgetTree.WBP_BackSave.In Text
+#: /Game/Blueprint/UMG/MainUI/Child/WBP_LoadGame.WBP_LoadGame_C:WidgetTree.WBP_BackSave.In
+#: Text
 msgctxt ",3A6879B749414322EB2621BDD1017E66"
 msgid "恢复存档"
 msgstr "アーカイブの復元"
@@ -1254,7 +1314,8 @@ msgstr "加工台"
 
 #. Key:	3BDD98F042F6D5D8B6C8A98E13FD0D5B
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_3.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_3.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_3.In
+#: Text
 msgctxt ",3BDD98F042F6D5D8B6C8A98E13FD0D5B"
 msgid "烟熏房"
 msgstr "スモークハウス"
@@ -1275,7 +1336,8 @@ msgstr "サーバーに入るにはパスワードが必要です。"
 
 #. Key:	3E32C7E445C9DFD121EC18A80D22C168
 #. SourceLocation:	/Game/HDCKBuildingSystem/Table/E_SelectTypeChild.E_SelectTypeChild.DisplayNameMap(6 - Value).DisplayNameMap
-#: /Game/HDCKBuildingSystem/Table/E_SelectTypeChild.E_SelectTypeChild.DisplayNameMap(6 - Value).DisplayNameMap
+#: /Game/HDCKBuildingSystem/Table/E_SelectTypeChild.E_SelectTypeChild.DisplayNameMap(6
+#: - Value).DisplayNameMap
 msgctxt ",3E32C7E445C9DFD121EC18A80D22C168"
 msgid "Roof20"
 msgstr "ルーフ20"
@@ -1289,14 +1351,16 @@ msgstr "重量: 300/600"
 
 #. Key:	3F0080734A17ED2949B3E7A69E6074FA
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(14 - Value).DisplayNameMap
-#: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(14 - Value).DisplayNameMap
+#: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(14
+#: - Value).DisplayNameMap
 msgctxt ",3F0080734A17ED2949B3E7A69E6074FA"
 msgid "HandGuard"
 msgstr "ハンドガード"
 
 #. Key:	3FB2451B4FF120B2FAA709ABF555A02A
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_46.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_46.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_46.In
+#: Text
 msgctxt ",3FB2451B4FF120B2FAA709ABF555A02A"
 msgid "铁棍"
 msgstr "鉄棒"
@@ -1317,7 +1381,8 @@ msgstr "IA_スプリント"
 
 #. Key:	4012F6B548F849403A5585B1A5DA68FD
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_67.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_67.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_67.In
+#: Text
 msgctxt ",4012F6B548F849403A5585B1A5DA68FD"
 msgid "病毒阻断剂"
 msgstr "ウイルスブロッカー"
@@ -1331,14 +1396,16 @@ msgstr "斧"
 
 #. Key:	40A426BC44ED8982E71BDFA1475AF42C
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/SelectCharacter/WBP_SelectCharacterBegin.WBP_SelectCharacterBegin_C:ExecuteUbergraph_WBP_SelectCharacterBegin [Script Bytecode]
-#: /Game/Blueprint/UMG/MainUI/SelectCharacter/WBP_SelectCharacterBegin.WBP_SelectCharacterBegin_C:ExecuteUbergraph_WBP_SelectCharacterBegin [Script Bytecode]
+#: /Game/Blueprint/UMG/MainUI/SelectCharacter/WBP_SelectCharacterBegin.WBP_SelectCharacterBegin_C:ExecuteUbergraph_WBP_SelectCharacterBegin
+#: [Script Bytecode]
 msgctxt ",40A426BC44ED8982E71BDFA1475AF42C"
 msgid "请至少创建一个角色以后在加入游戏！"
 msgstr "ゲームに参加する前に、少なくとも1つのキャラクターを作成してください！"
 
 #. Key:	41047B6440E796F3F16665AA70140F5F
 #. SourceLocation:	/Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(11 - Value).DisplayNameMap
-#: /Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(11 - Value).DisplayNameMap
+#: /Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(11 -
+#: Value).DisplayNameMap
 msgctxt ",41047B6440E796F3F16665AA70140F5F"
 msgid "Drive"
 msgstr "ドライブ"
@@ -1352,7 +1419,8 @@ msgstr "土台は木でできており、見た目も頑丈で、かなりの重
 
 #. Key:	42CCDC264FCA7E5F57C774A68D1FA7C2
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_13.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_13.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_13.In
+#: Text
 msgctxt ",42CCDC264FCA7E5F57C774A68D1FA7C2"
 msgid "干电池"
 msgstr "乾電池"
@@ -1387,14 +1455,16 @@ msgstr "検索時間"
 
 #. Key:	4492781C4F5E797D00FE94AE878EF46C
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_11.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_11.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_11.In
+#: Text
 msgctxt ",4492781C4F5E797D00FE94AE878EF46C"
 msgid "化学反应台"
 msgstr "化学反応プラットフォーム"
 
 #. Key:	4561C12A4DF8189CD64E2EB0ED0F2A01
 #. SourceLocation:	/Game/Blueprint/ACF/Manager/E_Season.E_Season.DisplayNameMap(1 - Value).DisplayNameMap
-#: /Game/Blueprint/ACF/Manager/E_Season.E_Season.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/Blueprint/ACF/Manager/E_Season.E_Season.DisplayNameMap(1 -
+#: Value).DisplayNameMap
 msgctxt ",4561C12A4DF8189CD64E2EB0ED0F2A01"
 msgid "summer"
 msgstr "夏"
@@ -1415,7 +1485,8 @@ msgstr "発達"
 
 #. Key:	460E18EE4FC349EA101BCE80D2BBDE01
 #. SourceLocation:	/Game/Blueprint/UMG/MiniMap/WBP_MiniMap.WBP_MiniMap_C:ExecuteUbergraph_WBP_MiniMap [Script Bytecode]
-#: /Game/Blueprint/UMG/MiniMap/WBP_MiniMap.WBP_MiniMap_C:ExecuteUbergraph_WBP_MiniMap [Script Bytecode]
+#: /Game/Blueprint/UMG/MiniMap/WBP_MiniMap.WBP_MiniMap_C:ExecuteUbergraph_WBP_MiniMap
+#: [Script Bytecode]
 msgctxt ",460E18EE4FC349EA101BCE80D2BBDE01"
 msgid "当前坐标：{0} , {1}"
 msgstr "現在の座標: {0}、{1}"
@@ -1429,7 +1500,8 @@ msgstr "銃器付属品"
 
 #. Key:	46B50F714E10C8FD62349C9785EEC24C
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_81.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_81.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_81.In
+#: Text
 msgctxt ",46B50F714E10C8FD62349C9785EEC24C"
 msgid "弹壳"
 msgstr "カートリッジケース"
@@ -1443,17 +1515,19 @@ msgstr "給水口"
 
 #. Key:	47FDA78141550306051F879F194FCAE1
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_55.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_55.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_55.In
+#: Text
 msgctxt ",47FDA78141550306051F879F194FCAE1"
 msgid "冰箱"
 msgstr "冷蔵庫"
 
 #. Key:	49A22B424EACAFBF37D3A19B23FE7067
 #. SourceLocation:	/Game/Blueprint/UMG/Make/WBP_MakeDetail.WBP_MakeDetail_C:ExecuteUbergraph_WBP_MakeDetail [Script Bytecode]
-#: /Game/Blueprint/UMG/Make/WBP_MakeDetail.WBP_MakeDetail_C:ExecuteUbergraph_WBP_MakeDetail [Script Bytecode]
+#: /Game/Blueprint/UMG/Make/WBP_MakeDetail.WBP_MakeDetail_C:ExecuteUbergraph_WBP_MakeDetail
+#: [Script Bytecode]
 msgctxt ",49A22B424EACAFBF37D3A19B23FE7067"
 msgid "材料不足"
-msgstr "不十分な材料"
+msgstr "材料不足"
 
 #. Key:	4A4A9A1F465FDFFE836727AA9A544C50
 #. SourceLocation:	/Game/Blueprint/UMG/EscMenu/WBP_SlideWithValue.WBP_SlideWithValue_C:WidgetTree.Num.Text
@@ -1471,14 +1545,16 @@ msgstr "速度"
 
 #. Key:	4B00BAA641A5EBFF728733A6A97A8C27
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(9 - Value).DisplayNameMap
-#: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(9 - Value).DisplayNameMap
+#: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(9
+#: - Value).DisplayNameMap
 msgctxt ",4B00BAA641A5EBFF728733A6A97A8C27"
 msgid "RoofEndVertical"
 msgstr "ルーフエンド垂直"
 
 #. Key:	4B309AF04581FB1AA1B77CBD92B0A9EA
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(19 - Value).DisplayNameMap
-#: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(19 - Value).DisplayNameMap
+#: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(19
+#: - Value).DisplayNameMap
 msgctxt ",4B309AF04581FB1AA1B77CBD92B0A9EA"
 msgid "Door"
 msgstr "ドア"
@@ -1506,7 +1582,8 @@ msgstr "ゲームを保存する"
 
 #. Key:	4C77DAF3497EBD62E6BD7CBE2D0D394A
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_69.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_69.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_69.In
+#: Text
 msgctxt ",4C77DAF3497EBD62E6BD7CBE2D0D394A"
 msgid "燃油"
 msgstr "燃料"
@@ -1520,7 +1597,8 @@ msgstr "土台はセメントでできており、見た目も頑丈で、かな
 
 #. Key:	4D63587648FCF9D34033C9A96CC1E408
 #. SourceLocation:	/Game/HDCKBuildingSystem/Table/E_SelectType.E_SelectType.DisplayNameMap(1 - Value).DisplayNameMap
-#: /Game/HDCKBuildingSystem/Table/E_SelectType.E_SelectType.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/HDCKBuildingSystem/Table/E_SelectType.E_SelectType.DisplayNameMap(1 -
+#: Value).DisplayNameMap
 msgctxt ",4D63587648FCF9D34033C9A96CC1E408"
 msgid "make"
 msgstr "作る"
@@ -1534,7 +1612,8 @@ msgstr "送信"
 
 #. Key:	4E6DDE3D44A78378A8AEA4A2389E7683
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_10.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_10.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_10.In
+#: Text
 msgctxt ",4E6DDE3D44A78378A8AEA4A2389E7683"
 msgid "木板"
 msgstr "ボード"
@@ -1555,7 +1634,8 @@ msgstr "モデル02"
 
 #. Key:	4F4F9BDD48DA5B255182B78835F86EB9
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_7.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_7.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_7.In
+#: Text
 msgctxt ",4F4F9BDD48DA5B255182B78835F86EB9"
 msgid "铝瓶"
 msgstr "アルミボトル"
@@ -1569,7 +1649,8 @@ msgstr "ヘッドディフェンス"
 
 #. Key:	4FB41E114459F569BCE7BC99E7DB61C6
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/E_FireMode.E_FireMode.DisplayNameMap(2 - Value).DisplayNameMap
-#: /Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/E_FireMode.E_FireMode.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/E_FireMode.E_FireMode.DisplayNameMap(2
+#: - Value).DisplayNameMap
 msgctxt ",4FB41E114459F569BCE7BC99E7DB61C6"
 msgid "Auto"
 msgstr "自動"
@@ -1583,28 +1664,32 @@ msgstr "感染症、大量の継続的な失血"
 
 #. Key:	50923B86404D68B1F149ABBED6BFC293
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_61.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_61.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_61.In
+#: Text
 msgctxt ",50923B86404D68B1F149ABBED6BFC293"
 msgid "密封排气机"
 msgstr "密閉排気"
 
 #. Key:	50FA87E6460DCEB7FA6D9EA808DF7DA2
 #. SourceLocation:	/Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(12 - Value).DisplayNameMap
-#: /Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(12 - Value).DisplayNameMap
+#: /Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(12 -
+#: Value).DisplayNameMap
 msgctxt ",50FA87E6460DCEB7FA6D9EA808DF7DA2"
 msgid "InCar"
 msgstr "車の中"
 
 #. Key:	5159A35C4632DF45C427CC9981E0117D
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_98.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_98.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_98.In
+#: Text
 msgctxt ",5159A35C4632DF45C427CC9981E0117D"
 msgid "滤芯"
 msgstr "フィルターエレメント"
 
 #. Key:	5266199243DBCAB57A9139B087C1733C
 #. SourceLocation:	/Game/HDCKBuildingSystem/Table/E_SelectTypeChild.E_SelectTypeChild.DisplayNameMap(4 - Value).DisplayNameMap
-#: /Game/HDCKBuildingSystem/Table/E_SelectTypeChild.E_SelectTypeChild.DisplayNameMap(4 - Value).DisplayNameMap
+#: /Game/HDCKBuildingSystem/Table/E_SelectTypeChild.E_SelectTypeChild.DisplayNameMap(4
+#: - Value).DisplayNameMap
 msgctxt ",5266199243DBCAB57A9139B087C1733C"
 msgid "Stairs"
 msgstr "階段"
@@ -1632,14 +1717,16 @@ msgstr "乾燥野菜"
 
 #. Key:	54D9A0A84222690CD2FF328C0F08BAFF
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_40.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_40.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_40.In
+#: Text
 msgctxt ",54D9A0A84222690CD2FF328C0F08BAFF"
 msgid "玻璃"
 msgstr "ガラス"
 
 #. Key:	55B2EB4A427FFF5A0E77FDB40B875153
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(25 - Value).DisplayNameMap
-#: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(25 - Value).DisplayNameMap
+#: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(25
+#: - Value).DisplayNameMap
 msgctxt ",55B2EB4A427FFF5A0E77FDB40B875153"
 msgid "RoofEndTringer"
 msgstr "ルーフエンドトリンガー"
@@ -1660,14 +1747,16 @@ msgstr "収穫に影響を与える"
 
 #. Key:	56A903D8474E2C86F33532A8231EB1CA
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_79.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_79.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_79.In
+#: Text
 msgctxt ",56A903D8474E2C86F33532A8231EB1CA"
 msgid "复合弓"
 msgstr "複合弓"
 
 #. Key:	5795910C491155CD31B6869BE54DD0FB
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(12 - Value).DisplayNameMap
-#: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(12 - Value).DisplayNameMap
+#: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(12
+#: - Value).DisplayNameMap
 msgctxt ",5795910C491155CD31B6869BE54DD0FB"
 msgid "outdoorsStairs"
 msgstr "屋外階段"
@@ -1681,7 +1770,8 @@ msgstr "土台はセメントでできており、見た目も頑丈で、かな
 
 #. Key:	57D29AF64B249E6B779C5C809CA3B4CD
 #. SourceLocation:	/Game/Blueprint/UMG/Inventory/WBP_ItemToolTip.WBP_ItemToolTip_C:SetFoodShow [Script Bytecode]
-#: /Game/Blueprint/UMG/Inventory/WBP_ItemToolTip.WBP_ItemToolTip_C:SetFoodShow [Script Bytecode]
+#: /Game/Blueprint/UMG/Inventory/WBP_ItemToolTip.WBP_ItemToolTip_C:SetFoodShow
+#: [Script Bytecode]
 msgctxt ",57D29AF64B249E6B779C5C809CA3B4CD"
 msgid "生命回复"
 msgstr "ライフ回復"
@@ -1695,7 +1785,8 @@ msgstr "夏"
 
 #. Key:	58CA3377422B02C724EF7E8B702B1083
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_85.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_85.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_85.In
+#: Text
 msgctxt ",58CA3377422B02C724EF7E8B702B1083"
 msgid "钢撬棍"
 msgstr "スチールバール"
@@ -1730,7 +1821,8 @@ msgstr "キロ/時"
 
 #. Key:	597545DD4D4780FBCD5F29BD2EF818C9
 #. SourceLocation:	/Game/Blueprint/UMG/EscMenu/ScreenSwitch.ScreenSwitch.DisplayNameMap(3 - Value).DisplayNameMap
-#: /Game/Blueprint/UMG/EscMenu/ScreenSwitch.ScreenSwitch.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/Blueprint/UMG/EscMenu/ScreenSwitch.ScreenSwitch.DisplayNameMap(3 -
+#: Value).DisplayNameMap
 msgctxt ",597545DD4D4780FBCD5F29BD2EF818C9"
 msgid "Null"
 msgstr "ヌル"
@@ -1772,28 +1864,32 @@ msgstr "なし"
 
 #. Key:	5B20C11C40F75CC9326BD7AF00546A6C
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_2.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_2.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_2.In
+#: Text
 msgctxt ",5B20C11C40F75CC9326BD7AF00546A6C"
 msgid "铁锅"
 msgstr "中華なべ"
 
 #. Key:	5B2DED4A4728AC95D0842DB821EF72E3
 #. SourceLocation:	/Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(10 - Value).DisplayNameMap
-#: /Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(10 - Value).DisplayNameMap
+#: /Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(10 -
+#: Value).DisplayNameMap
 msgctxt ",5B2DED4A4728AC95D0842DB821EF72E3"
 msgid "Loop"
 msgstr "ループ"
 
 #. Key:	5B360E93460F8D8C091AE28009A197B1
 #. SourceLocation:	/Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(9 - Value).DisplayNameMap
-#: /Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(9 - Value).DisplayNameMap
+#: /Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(9 -
+#: Value).DisplayNameMap
 msgctxt ",5B360E93460F8D8C091AE28009A197B1"
 msgid "SitDownFront"
 msgstr "前に座る"
 
 #. Key:	5B53C1EF463DB509CD48E7A4DDD3F482
 #. SourceLocation:	/Game/Blueprint/Car/InCarMode.InCarMode.DisplayNameMap(1 - Value).DisplayNameMap
-#: /Game/Blueprint/Car/InCarMode.InCarMode.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/Blueprint/Car/InCarMode.InCarMode.DisplayNameMap(1 -
+#: Value).DisplayNameMap
 msgctxt ",5B53C1EF463DB509CD48E7A4DDD3F482"
 msgid "FrontLeft"
 msgstr "前方左側"
@@ -1807,7 +1903,8 @@ msgstr "耐寒性"
 
 #. Key:	5BA1AD984DEC7D629B4A33AFA86FAC5E
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_64.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_64.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_64.In
+#: Text
 msgctxt ",5BA1AD984DEC7D629B4A33AFA86FAC5E"
 msgid "净水器"
 msgstr "浄水器"
@@ -1842,7 +1939,8 @@ msgstr "ノックダウン率"
 
 #. Key:	5E098A8946EBB7A59DF5BD89A73B1B12
 #. SourceLocation:	/Game/Blueprint/UMG/EscMenu/ScreenSwitch.ScreenSwitch.DisplayNameMap(0 - Value).DisplayNameMap
-#: /Game/Blueprint/UMG/EscMenu/ScreenSwitch.ScreenSwitch.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/Blueprint/UMG/EscMenu/ScreenSwitch.ScreenSwitch.DisplayNameMap(0 -
+#: Value).DisplayNameMap
 msgctxt ",5E098A8946EBB7A59DF5BD89A73B1B12"
 msgid "ScreenSet"
 msgstr "スクリーンセット"
@@ -1856,7 +1954,8 @@ msgstr "非常に高い"
 
 #. Key:	5EBECD7B4AE8560B73AA0A93ABBB9CAB
 #. SourceLocation:	/Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(6 - Value).DisplayNameMap
-#: /Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(6 - Value).DisplayNameMap
+#: /Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(6 -
+#: Value).DisplayNameMap
 msgctxt ",5EBECD7B4AE8560B73AA0A93ABBB9CAB"
 msgid "ClearBody"
 msgstr "クリアボディ"
@@ -1961,14 +2060,16 @@ msgstr "機械の修理 (第 1 巻)"
 
 #. Key:	6523432E4262C6830C222AA7F6EEC59C
 #. SourceLocation:	/Game/Blueprint/ACF/ZZ/E_GlassMode.E_GlassMode.DisplayNameMap(2 - Value).DisplayNameMap
-#: /Game/Blueprint/ACF/ZZ/E_GlassMode.E_GlassMode.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/Blueprint/ACF/ZZ/E_GlassMode.E_GlassMode.DisplayNameMap(2 -
+#: Value).DisplayNameMap
 msgctxt ",6523432E4262C6830C222AA7F6EEC59C"
 msgid "Small"
 msgstr "小さな"
 
 #. Key:	65C9E9B844AB55AA2894D49ED495FF2B
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_72.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_72.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_72.In
+#: Text
 msgctxt ",65C9E9B844AB55AA2894D49ED495FF2B"
 msgid "高级化学反应设备"
 msgstr "高度な化学反応装置"
@@ -2010,28 +2111,32 @@ msgstr "1"
 
 #. Key:	67B206F74AEBD4BF94272B8A8AC36B7F
 #. SourceLocation:	/Game/Blueprint/AI/SpawnAi/BP_AIOSpawnerHDCK.BP_AIOSpawnerHDCK_C:ProjectSpawnPoints [Script Bytecode]
-#: /Game/Blueprint/AI/SpawnAi/BP_AIOSpawnerHDCK.BP_AIOSpawnerHDCK_C:ProjectSpawnPoints [Script Bytecode]
+#: /Game/Blueprint/AI/SpawnAi/BP_AIOSpawnerHDCK.BP_AIOSpawnerHDCK_C:ProjectSpawnPoints
+#: [Script Bytecode]
 msgctxt ",67B206F74AEBD4BF94272B8A8AC36B7F"
 msgid "Project Spawn Points"
 msgstr "プロジェクト スポーン ポイント"
 
 #. Key:	67D08D9140C4E55E2C3B48B1ACD99534
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_94.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_94.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_94.In
+#: Text
 msgctxt ",67D08D9140C4E55E2C3B48B1ACD99534"
 msgid ".44子弹"
 msgstr ".44弾"
 
 #. Key:	68475427496E27E22A3F4DB608EF5675
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_25.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_25.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_25.In
+#: Text
 msgctxt ",68475427496E27E22A3F4DB608EF5675"
 msgid "开关"
 msgstr "スイッチ"
 
 #. Key:	689295C64E66E89108EF7C9FA9DEB8E9
 #. SourceLocation:	/Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(7 - Value).DisplayNameMap
-#: /Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(7 - Value).DisplayNameMap
+#: /Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(7 -
+#: Value).DisplayNameMap
 msgctxt ",689295C64E66E89108EF7C9FA9DEB8E9"
 msgid "SitDownLeft"
 msgstr "左に座る"
@@ -2045,21 +2150,24 @@ msgstr "作る..."
 
 #. Key:	68C9E409451FED0266E41994790B58AA
 #. SourceLocation:	/Game/Blueprint/UMG/Inventory/WBP_AddButton.WBP_AddButton_C:OnDrop [Script Bytecode]
-#: /Game/Blueprint/UMG/Inventory/WBP_AddButton.WBP_AddButton_C:OnDrop [Script Bytecode]
+#: /Game/Blueprint/UMG/Inventory/WBP_AddButton.WBP_AddButton_C:OnDrop [Script
+#: Bytecode]
 msgctxt ",68C9E409451FED0266E41994790B58AA"
 msgid "此物品无法装备在这"
 msgstr "このアイテムはここでは装備できません"
 
 #. Key:	6A59891A49F01853E899699020895B73
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_ZJ.Furniture_ZJ_C:ExecuteUbergraph_Furniture_ZJ [Script Bytecode]
-#: /Game/HDCKBuildingSystem/MeshBP/Furniture_ZJ.Furniture_ZJ_C:ExecuteUbergraph_Furniture_ZJ [Script Bytecode]
+#: /Game/HDCKBuildingSystem/MeshBP/Furniture_ZJ.Furniture_ZJ_C:ExecuteUbergraph_Furniture_ZJ
+#: [Script Bytecode]
 msgctxt ",6A59891A49F01853E899699020895B73"
 msgid "没有饲料！"
 msgstr "餌なし！"
 
 #. Key:	6A5A27E642FFA5DC1AF28299BBF84DCA
 #. SourceLocation:	/Game/Blueprint/ACF/ZZ/E_GlassMode.E_GlassMode.DisplayNameMap(0 - Value).DisplayNameMap
-#: /Game/Blueprint/ACF/ZZ/E_GlassMode.E_GlassMode.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/Blueprint/ACF/ZZ/E_GlassMode.E_GlassMode.DisplayNameMap(0 -
+#: Value).DisplayNameMap
 msgctxt ",6A5A27E642FFA5DC1AF28299BBF84DCA"
 msgid "Big"
 msgstr "大きい"
@@ -2073,21 +2181,24 @@ msgstr "ここに動物をドラッグ アンド ドロップします"
 
 #. Key:	6ACC187246C8636B5F5FADB57DD4DFE7
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_86.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_86.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_86.In
+#: Text
 msgctxt ",6ACC187246C8636B5F5FADB57DD4DFE7"
 msgid "双手斧"
 msgstr "両手斧"
 
 #. Key:	6AE2E4CF40302FB852C269B2BADC28CF
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(23 - Value).DisplayNameMap
-#: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(23 - Value).DisplayNameMap
+#: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(23
+#: - Value).DisplayNameMap
 msgctxt ",6AE2E4CF40302FB852C269B2BADC28CF"
 msgid "Box"
 msgstr "箱"
 
 #. Key:	6AF5DE114014DFDC3C66DF9CA70085B1
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/E_AimType.E_AimType.DisplayNameMap(5 - Value).DisplayNameMap
-#: /Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/E_AimType.E_AimType.DisplayNameMap(5 - Value).DisplayNameMap
+#: /Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/E_AimType.E_AimType.DisplayNameMap(5
+#: - Value).DisplayNameMap
 msgctxt ",6AF5DE114014DFDC3C66DF9CA70085B1"
 msgid "8B"
 msgstr "8B"
@@ -2136,14 +2247,16 @@ msgstr "M4A1"
 
 #. Key:	6C007083466970C3B2190CAC9FC2112C
 #. SourceLocation:	/Game/Blueprint/ACF/Player/HDCK_GameState.Default__HDCK_GameState_C:Team Manager.Teams(2 - Value).Teams.DisplayName
-#: /Game/Blueprint/ACF/Player/HDCK_GameState.Default__HDCK_GameState_C:Team Manager.Teams(2 - Value).Teams.DisplayName
+#: /Game/Blueprint/ACF/Player/HDCK_GameState.Default__HDCK_GameState_C:Team
+#: Manager.Teams(2 - Value).Teams.DisplayName
 msgctxt ",6C007083466970C3B2190CAC9FC2112C"
 msgid "Team 3"
 msgstr "チーム 3"
 
 #. Key:	6CA11261447D0192D8528A82365941F5
 #. SourceLocation:	/Game/Blueprint/UMG/EscMenu/WBP_ControlSetting.WBP_ControlSetting_C:WidgetTree.WBP_KeyInputAction_10.Show In Text
-#: /Game/Blueprint/UMG/EscMenu/WBP_ControlSetting.WBP_ControlSetting_C:WidgetTree.WBP_KeyInputAction_10.Show In Text
+#: /Game/Blueprint/UMG/EscMenu/WBP_ControlSetting.WBP_ControlSetting_C:WidgetTree.WBP_KeyInputAction_10.Show
+#: In Text
 msgctxt ",6CA11261447D0192D8528A82365941F5"
 msgid "地图"
 msgstr "地図"
@@ -2164,14 +2277,16 @@ msgstr "切断率"
 
 #. Key:	6D94E4B4492BEF00197AA29E81E62172
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/WBP_Main.WBP_Main_C:WidgetTree.WBP_StartButton_2.In Text
-#: /Game/Blueprint/UMG/MainUI/WBP_Main.WBP_Main_C:WidgetTree.WBP_StartButton_2.In Text
+#: /Game/Blueprint/UMG/MainUI/WBP_Main.WBP_Main_C:WidgetTree.WBP_StartButton_2.In
+#: Text
 msgctxt ",6D94E4B4492BEF00197AA29E81E62172"
 msgid "新手训练营（教程）"
 msgstr "ブートキャンプ (チュートリアル)"
 
 #. Key:	6E207D5C4ABA892FF99D9CA6C701C20E
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_76.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_76.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_76.In
+#: Text
 msgctxt ",6E207D5C4ABA892FF99D9CA6C701C20E"
 msgid "钢砍刀"
 msgstr "鋼鉈"
@@ -2185,7 +2300,8 @@ msgstr "木の槍"
 
 #. Key:	6EB645364114559991F1D789D93D42E9
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_34.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_34.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_34.In
+#: Text
 msgctxt ",6EB645364114559991F1D789D93D42E9"
 msgid "熔炼炉"
 msgstr "溶解炉"
@@ -2206,7 +2322,8 @@ msgstr "技術ツリーで作業台のロックを解除し、板の建物のロ
 
 #. Key:	700402F4456BC61A64D4C8B0B01C8B25
 #. SourceLocation:	/Game/Blueprint/Car/InCarMode.InCarMode.DisplayNameMap(2 - Value).DisplayNameMap
-#: /Game/Blueprint/Car/InCarMode.InCarMode.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/Blueprint/Car/InCarMode.InCarMode.DisplayNameMap(2 -
+#: Value).DisplayNameMap
 msgctxt ",700402F4456BC61A64D4C8B0B01C8B25"
 msgid "FrontRight"
 msgstr "前右"
@@ -2234,7 +2351,8 @@ msgstr "肥料"
 
 #. Key:	70C442BB43EDD72D718B818E1FB9D761
 #. SourceLocation:	/Game/Blueprint/ACF/Manager/E_Season.E_Season.DisplayNameMap(3 - Value).DisplayNameMap
-#: /Game/Blueprint/ACF/Manager/E_Season.E_Season.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/Blueprint/ACF/Manager/E_Season.E_Season.DisplayNameMap(3 -
+#: Value).DisplayNameMap
 msgctxt ",70C442BB43EDD72D718B818E1FB9D761"
 msgid "winter"
 msgstr "冬"
@@ -2255,21 +2373,24 @@ msgstr "耐久性:"
 
 #. Key:	71C52F624196AA3F224A628A6674109E
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/FaceUI/WBP_SlideMorph.Default__WBP_SlideMorph_C.In Text
-#: /Game/Blueprint/UMG/MainUI/Child/FaceUI/WBP_SlideMorph.Default__WBP_SlideMorph_C.In Text
+#: /Game/Blueprint/UMG/MainUI/Child/FaceUI/WBP_SlideMorph.Default__WBP_SlideMorph_C.In
+#: Text
 msgctxt ",71C52F624196AA3F224A628A6674109E"
 msgid "TEST"
 msgstr "テスト"
 
 #. Key:	7209EEC74B6D1B8D26F00A87132B5F14
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_SY_List.WBP_SY_List_C:ExecuteUbergraph_WBP_SY_List [Script Bytecode]
-#: /Game/Blueprint/UMG/Furniture/WBP_SY_List.WBP_SY_List_C:ExecuteUbergraph_WBP_SY_List [Script Bytecode]
+#: /Game/Blueprint/UMG/Furniture/WBP_SY_List.WBP_SY_List_C:ExecuteUbergraph_WBP_SY_List
+#: [Script Bytecode]
 msgctxt ",7209EEC74B6D1B8D26F00A87132B5F14"
 msgid "可繁殖"
 msgstr "肥沃な"
 
 #. Key:	721E365A451AAAA64D44B390CD6312C9
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/FaceUI/WBP_Select.Default__WBP_Select_C.In Text
-#: /Game/Blueprint/UMG/MainUI/Child/FaceUI/WBP_Select.Default__WBP_Select_C.In Text
+#: /Game/Blueprint/UMG/MainUI/Child/FaceUI/WBP_Select.Default__WBP_Select_C.In
+#: Text
 msgctxt ",721E365A451AAAA64D44B390CD6312C9"
 msgid "TEST"
 msgstr "テスト"
@@ -2279,32 +2400,36 @@ msgstr "テスト"
 #: /Game/Blueprint/UMG/Inventory/WBP_UseMenu.Default__WBP_UseMenu_C.Item.ItemInfo.Name
 msgctxt ",72AC933F467C149A38442398EA98D0F0"
 msgid "NULL"
-msgstr "ヌル"
+msgstr "無"
 
 #. Key:	735E15A146BDA95257D282903C633040
 #. SourceLocation:	/Game/Blueprint/UMG/ScreenMessage/WBP_CarMessage.WBP_CarMessage_C:UpdateShow [Script Bytecode]
-#: /Game/Blueprint/UMG/ScreenMessage/WBP_CarMessage.WBP_CarMessage_C:UpdateShow [Script Bytecode]
+#: /Game/Blueprint/UMG/ScreenMessage/WBP_CarMessage.WBP_CarMessage_C:UpdateShow
+#: [Script Bytecode]
 msgctxt ",735E15A146BDA95257D282903C633040"
 msgid "R"
 msgstr "R"
 
 #. Key:	746C15D045E29D89B01FB4B3C07BEA54
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_12.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_12.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_12.In
+#: Text
 msgctxt ",746C15D045E29D89B01FB4B3C07BEA54"
 msgid "制药桌"
 msgstr "薬局のテーブル"
 
 #. Key:	7547155D4FB7AE0D0F8FAA876F856384
 #. SourceLocation:	/Game/HDCKBuildingSystem/Table/E_SelectTypeChild.E_SelectTypeChild.DisplayNameMap(2 - Value).DisplayNameMap
-#: /Game/HDCKBuildingSystem/Table/E_SelectTypeChild.E_SelectTypeChild.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/HDCKBuildingSystem/Table/E_SelectTypeChild.E_SelectTypeChild.DisplayNameMap(2
+#: - Value).DisplayNameMap
 msgctxt ",7547155D4FB7AE0D0F8FAA876F856384"
 msgid "Guard"
 msgstr "ガード"
 
 #. Key:	7556F55248A5B262C683419CC680B365
 #. SourceLocation:	/Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(3 - Value).DisplayNameMap
-#: /Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(3 -
+#: Value).DisplayNameMap
 msgctxt ",7556F55248A5B262C683419CC680B365"
 msgid "LeftSleep"
 msgstr "左睡眠"
@@ -2353,7 +2478,8 @@ msgstr "IA_リロード"
 
 #. Key:	76AB6D6C4BB02B632778CAB4C55641E7
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_62.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_62.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_62.In
+#: Text
 msgctxt ",76AB6D6C4BB02B632778CAB4C55641E7"
 msgid "储水站"
 msgstr "貯水ステーション"
@@ -2402,7 +2528,8 @@ msgstr "床"
 
 #. Key:	78654B7C40CB825C0C5430BC0293D7F9
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_26.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_26.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_26.In
+#: Text
 msgctxt ",78654B7C40CB825C0C5430BC0293D7F9"
 msgid "农业工具台"
 msgstr "農具台"
@@ -2423,7 +2550,8 @@ msgstr "1"
 
 #. Key:	798DAD7A4D66BDA2695E86B48A98DB57
 #. SourceLocation:	/Game/Blueprint/ACF/ZZ/E_GlassMode.E_GlassMode.DisplayNameMap(1 - Value).DisplayNameMap
-#: /Game/Blueprint/ACF/ZZ/E_GlassMode.E_GlassMode.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/Blueprint/ACF/ZZ/E_GlassMode.E_GlassMode.DisplayNameMap(1 -
+#: Value).DisplayNameMap
 msgctxt ",798DAD7A4D66BDA2695E86B48A98DB57"
 msgid "Medium"
 msgstr "中くらい"
@@ -2444,14 +2572,16 @@ msgstr "1"
 
 #. Key:	7A72B9944A7970D7782372B180F97741
 #. SourceLocation:	/Game/Blueprint/ACF/Manager/E_Weather.E_Weather.DisplayNameMap(0 - Value).DisplayNameMap
-#: /Game/Blueprint/ACF/Manager/E_Weather.E_Weather.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/Blueprint/ACF/Manager/E_Weather.E_Weather.DisplayNameMap(0 -
+#: Value).DisplayNameMap
 msgctxt ",7A72B9944A7970D7782372B180F97741"
 msgid "Rain"
 msgstr "雨"
 
 #. Key:	7A7B37B14D17BF08CE96FE8C76CE1D2A
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_59.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_59.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_59.In
+#: Text
 msgctxt ",7A7B37B14D17BF08CE96FE8C76CE1D2A"
 msgid "钢匕首"
 msgstr "鋼の短剣"
@@ -2486,21 +2616,24 @@ msgstr "経験を積むための戦い"
 
 #. Key:	7CCCED78433FBE0BEEEFD09131C4426E
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_KG.Furniture_KG_C:ShowUI [Script Bytecode]
-#: /Game/HDCKBuildingSystem/MeshBP/Furniture_KG.Furniture_KG_C:ShowUI [Script Bytecode]
+#: /Game/HDCKBuildingSystem/MeshBP/Furniture_KG.Furniture_KG_C:ShowUI [Script
+#: Bytecode]
 msgctxt ",7CCCED78433FBE0BEEEFD09131C4426E"
 msgid "切换"
 msgstr "切り替える"
 
 #. Key:	7CF1FA4449F3464AF0C74796614B54EC
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_1.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_1.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_1.In
+#: Text
 msgctxt ",7CF1FA4449F3464AF0C74796614B54EC"
 msgid "简易零件"
 msgstr "シンプルなパーツ"
 
 #. Key:	7DACF9794BC2AAAAC48B419D1D4BD315
 #. SourceLocation:	/Game/Blueprint/UMG/Inventory/WBP_AddButton.WBP_AddButton_C:OnDrop [Script Bytecode]
-#: /Game/Blueprint/UMG/Inventory/WBP_AddButton.WBP_AddButton_C:OnDrop [Script Bytecode]
+#: /Game/Blueprint/UMG/Inventory/WBP_AddButton.WBP_AddButton_C:OnDrop [Script
+#: Bytecode]
 msgctxt ",7DACF9794BC2AAAAC48B419D1D4BD315"
 msgid "太潮湿了"
 msgstr "濡れすぎ"
@@ -2521,14 +2654,16 @@ msgstr "人生の価値-"
 
 #. Key:	7E1AF86D4DF1A90B75698E8CE26CA187
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/Furniture_Base.Furniture_Base_C:ShowUI [Script Bytecode]
-#: /Game/HDCKBuildingSystem/Blueprints/Base/Furniture_Base.Furniture_Base_C:ShowUI [Script Bytecode]
+#: /Game/HDCKBuildingSystem/Blueprints/Base/Furniture_Base.Furniture_Base_C:ShowUI
+#: [Script Bytecode]
 msgctxt ",7E1AF86D4DF1A90B75698E8CE26CA187"
 msgid "{0}{1}"
 msgstr "{0}{1}"
 
 #. Key:	7E7248354EC7FC5C08FA02B9D0C2E912
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(8 - Value).DisplayNameMap
-#: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(8 - Value).DisplayNameMap
+#: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(8
+#: - Value).DisplayNameMap
 msgctxt ",7E7248354EC7FC5C08FA02B9D0C2E912"
 msgid "RoofEndHorizontal"
 msgstr "ルーフエンド水平"
@@ -2549,28 +2684,32 @@ msgstr "1年目"
 
 #. Key:	7F778F9A4C77D562BB0348A07191D920
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_102.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_102.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_102.In
+#: Text
 msgctxt ",7F778F9A4C77D562BB0348A07191D920"
 msgid "营养液"
 msgstr "養液"
 
 #. Key:	7FA65542446148104FC12EA47B74C222
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_100.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_100.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_100.In
+#: Text
 msgctxt ",7FA65542446148104FC12EA47B74C222"
 msgid "电线"
 msgstr "電線"
 
 #. Key:	7FA6EFF7413C33D5AF9AE28A0B1B7D72
 #. SourceLocation:	/Game/Blueprint/ACF/Manager/E_Weather.E_Weather.DisplayNameMap(2 - Value).DisplayNameMap
-#: /Game/Blueprint/ACF/Manager/E_Weather.E_Weather.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/Blueprint/ACF/Manager/E_Weather.E_Weather.DisplayNameMap(2 -
+#: Value).DisplayNameMap
 msgctxt ",7FA6EFF7413C33D5AF9AE28A0B1B7D72"
 msgid "NULL"
-msgstr "ヌル"
+msgstr "無"
 
 #. Key:	8065C70E447004CD1D1875984086C95F
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/FaceUI/WBP_SelectByMaxNum.Default__WBP_SelectByMaxNum_C.In Text
-#: /Game/Blueprint/UMG/MainUI/Child/FaceUI/WBP_SelectByMaxNum.Default__WBP_SelectByMaxNum_C.In Text
+#: /Game/Blueprint/UMG/MainUI/Child/FaceUI/WBP_SelectByMaxNum.Default__WBP_SelectByMaxNum_C.In
+#: Text
 msgctxt ",8065C70E447004CD1D1875984086C95F"
 msgid "TEST"
 msgstr "テスト"
@@ -2598,7 +2737,8 @@ msgstr "力"
 
 #. Key:	81AB2C40433BB1ED045FCEA35270BF88
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_51.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_51.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_51.In
+#: Text
 msgctxt ",81AB2C40433BB1ED045FCEA35270BF88"
 msgid "机械加工台"
 msgstr "加工台"
@@ -2621,12 +2761,27 @@ msgstr "武器"
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/WBP_Main.WBP_Main_C:WidgetTree.TextBlock_0.Text
 #: /Game/Blueprint/UMG/MainUI/WBP_Main.WBP_Main_C:WidgetTree.TextBlock_0.Text
 msgctxt ",836EB7AB40D4C893FD6B23A855BE4F36"
-msgid "公告：\r\n\r\n因为游戏采用了最新的UnrealEngine5引擎，为了获得最好的游戏体验，请将显卡驱动升级到最新版本。\r\n\r\n否则你可能会看到模型显示不完整等情况。\r\n\r\n感谢！"
-msgstr "発表：\r\n\r\nゲームは最新の UnrealEngine5 エンジンを使用しているため、最高のゲーム体験を得るには、グラフィック カード ドライバーを最新バージョンにアップグレードしてください。\r\n\r\nそうしないと、モデルの表示が不完全になる場合があります。\r\n\r\nありがたい！"
+msgid ""
+"公告：\r\n"
+"\r\n"
+"因为游戏采用了最新的UnrealEngine5引擎，为了获得最好的游戏体验，请将显卡驱动升级到最新版本。\r\n"
+"\r\n"
+"否则你可能会看到模型显示不完整等情况。\r\n"
+"\r\n"
+"感谢！"
+msgstr ""
+"発表：\r\n"
+"\r\n"
+"ゲームは最新の UnrealEngine5 エンジンを使用しているため、最高のゲーム体験を得るには、グラフィック カード ドライバーを最新バージョンにアップグレードしてください。\r\n"
+"\r\n"
+"そうしないと、モデルの表示が不完全になる場合があります。\r\n"
+"\r\n"
+"ありがたい！"
 
 #. Key:	83F46BF04B9C9DD831186F9C5C08D9AA
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(6 - Value).DisplayNameMap
-#: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(6 - Value).DisplayNameMap
+#: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(6
+#: - Value).DisplayNameMap
 msgctxt ",83F46BF04B9C9DD831186F9C5C08D9AA"
 msgid "Stairs"
 msgstr "階段"
@@ -2640,14 +2795,16 @@ msgstr "トマト"
 
 #. Key:	84947F6A4429C4DEC1463097ADF556FA
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_52.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_52.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_52.In
+#: Text
 msgctxt ",84947F6A4429C4DEC1463097ADF556FA"
 msgid "燃油发电机"
 msgstr "燃料発生器"
 
 #. Key:	85149FD54B55F3B6218485B6BA8F72FD
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_60.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_60.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_60.In
+#: Text
 msgctxt ",85149FD54B55F3B6218485B6BA8F72FD"
 msgid "精细零件"
 msgstr "細かい部品"
@@ -2682,14 +2839,16 @@ msgstr "力："
 
 #. Key:	8710C0014D4869B4CBF99993FFD25E15
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_19.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_19.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_19.In
+#: Text
 msgctxt ",8710C0014D4869B4CBF99993FFD25E15"
 msgid "肾上腺素"
 msgstr "エピネフリン"
 
 #. Key:	89132394498B7996A54198A9006A847B
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_39.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_39.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_39.In
+#: Text
 msgctxt ",89132394498B7996A54198A9006A847B"
 msgid "银锭"
 msgstr "銀のインゴット"
@@ -2703,7 +2862,8 @@ msgstr "G18ピストル"
 
 #. Key:	895DDEAA447AEEB87FC85BA41F762B94
 #. SourceLocation:	/Game/HDCKBuildingSystem/Table/E_SelectType.E_SelectType.DisplayNameMap(2 - Value).DisplayNameMap
-#: /Game/HDCKBuildingSystem/Table/E_SelectType.E_SelectType.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/HDCKBuildingSystem/Table/E_SelectType.E_SelectType.DisplayNameMap(2 -
+#: Value).DisplayNameMap
 msgctxt ",895DDEAA447AEEB87FC85BA41F762B94"
 msgid "furniture"
 msgstr "家具"
@@ -2731,14 +2891,16 @@ msgstr "モデル02"
 
 #. Key:	8A4DDA014B1E6C0933545687B5ACE492
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_45.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_45.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_45.In
+#: Text
 msgctxt ",8A4DDA014B1E6C0933545687B5ACE492"
 msgid "铁锤"
 msgstr "ハンマー"
 
 #. Key:	8AB657134BC71D80A664569881FBD37B
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(3 - Value).DisplayNameMap
-#: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(3
+#: - Value).DisplayNameMap
 msgctxt ",8AB657134BC71D80A664569881FBD37B"
 msgid "Null"
 msgstr "ヌル"
@@ -2752,10 +2914,11 @@ msgstr "ルーシー++"
 
 #. Key:	8C4494664EE8ADA1ABA9EC8FC937971C
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/E_AimType.E_AimType.DisplayNameMap(3 - Value).DisplayNameMap
-#: /Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/E_AimType.E_AimType.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/E_AimType.E_AimType.DisplayNameMap(3
+#: - Value).DisplayNameMap
 msgctxt ",8C4494664EE8ADA1ABA9EC8FC937971C"
 msgid "Null"
-msgstr "ヌル"
+msgstr "無"
 
 #. Key:	8C76F3354A03EDF4BFBD1FB712E3A7F4
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_JGT.WBP_JGT_C:WidgetTree.Num.Text
@@ -2773,7 +2936,8 @@ msgstr "医学+"
 
 #. Key:	8D4C253441E4A1B23D31ABBE84ABCBF1
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_23.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_23.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_23.In
+#: Text
 msgctxt ",8D4C253441E4A1B23D31ABBE84ABCBF1"
 msgid "雨水收集器"
 msgstr "雨水コレクター"
@@ -2787,7 +2951,8 @@ msgstr "ピン："
 
 #. Key:	8DED359C41C835C4C2586FA282F39432
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/StartUIEnum.StartUIEnum.DisplayNameMap(0 - Value).DisplayNameMap
-#: /Game/Blueprint/UMG/MainUI/StartUIEnum.StartUIEnum.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/Blueprint/UMG/MainUI/StartUIEnum.StartUIEnum.DisplayNameMap(0 -
+#: Value).DisplayNameMap
 msgctxt ",8DED359C41C835C4C2586FA282F39432"
 msgid "MutilGame"
 msgstr "マルチゲーム"
@@ -2808,14 +2973,16 @@ msgstr "再生"
 
 #. Key:	90D7107E43831E7B09B97ABCB3F4AD74
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_90.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_90.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_90.In
+#: Text
 msgctxt ",90D7107E43831E7B09B97ABCB3F4AD74"
 msgid "钢大锤"
 msgstr "鋼鉄ハンマー"
 
 #. Key:	9100D96D4063969FA14D27937E72AC6D
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_18.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_18.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_18.In
+#: Text
 msgctxt ",9100D96D4063969FA14D27937E72AC6D"
 msgid "感冒药"
 msgstr "風邪薬"
@@ -2885,21 +3052,24 @@ msgstr "冬"
 
 #. Key:	95D2AB6D4DEDC268E40A2199E26B5E9C
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(2 - Value).DisplayNameMap
-#: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(2
+#: - Value).DisplayNameMap
 msgctxt ",95D2AB6D4DEDC268E40A2199E26B5E9C"
 msgid "Wall"
 msgstr "壁"
 
 #. Key:	96A579794EEC7D6D09E3E5BC34E85AB6
 #. SourceLocation:	/Game/Blueprint/ACF/Player/HDCK_GameState.Default__HDCK_GameState_C:Team Manager.Teams(4 - Value).Teams.DisplayName
-#: /Game/Blueprint/ACF/Player/HDCK_GameState.Default__HDCK_GameState_C:Team Manager.Teams(4 - Value).Teams.DisplayName
+#: /Game/Blueprint/ACF/Player/HDCK_GameState.Default__HDCK_GameState_C:Team
+#: Manager.Teams(4 - Value).Teams.DisplayName
 msgctxt ",96A579794EEC7D6D09E3E5BC34E85AB6"
 msgid "Team 5"
 msgstr "チーム5"
 
 #. Key:	96E719AC40808FB6414CAD900BEBD063
 #. SourceLocation:	/Game/Blueprint/ACF/Player/HDCK_GameState.Default__HDCK_GameState_C:Team Manager.Teams(8 - Value).Teams.DisplayName
-#: /Game/Blueprint/ACF/Player/HDCK_GameState.Default__HDCK_GameState_C:Team Manager.Teams(8 - Value).Teams.DisplayName
+#: /Game/Blueprint/ACF/Player/HDCK_GameState.Default__HDCK_GameState_C:Team
+#: Manager.Teams(8 - Value).Teams.DisplayName
 msgctxt ",96E719AC40808FB6414CAD900BEBD063"
 msgid "Team 9"
 msgstr "チーム9"
@@ -2927,7 +3097,8 @@ msgstr "ヘッドディフェンス"
 
 #. Key:	98BCDB424BE26E715DFD64AD69017AD9
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_14.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_14.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_14.In
+#: Text
 msgctxt ",98BCDB424BE26E715DFD64AD69017AD9"
 msgid "木箱架"
 msgstr "木箱ラック"
@@ -2941,7 +3112,8 @@ msgstr "コープスタイドスケール"
 
 #. Key:	997299584F3A56724AEEECA4B30B17F9
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_CarInventory01.WBP_CarInventory01_C:ExecuteUbergraph_WBP_CarInventory01 [Script Bytecode]
-#: /Game/Blueprint/UMG/Furniture/WBP_CarInventory01.WBP_CarInventory01_C:ExecuteUbergraph_WBP_CarInventory01 [Script Bytecode]
+#: /Game/Blueprint/UMG/Furniture/WBP_CarInventory01.WBP_CarInventory01_C:ExecuteUbergraph_WBP_CarInventory01
+#: [Script Bytecode]
 msgctxt ",997299584F3A56724AEEECA4B30B17F9"
 msgid "没有修理工具！"
 msgstr "修復ツールはありません！"
@@ -2955,7 +3127,8 @@ msgstr "IA_使用4"
 
 #. Key:	9A7ABEAA4E2C05AB00E7988389E19EB0
 #. SourceLocation:	/Game/Blueprint/UMG/EscMenu/WBP_Dead.WBP_Dead_C:ExecuteUbergraph_WBP_Dead [Script Bytecode]
-#: /Game/Blueprint/UMG/EscMenu/WBP_Dead.WBP_Dead_C:ExecuteUbergraph_WBP_Dead [Script Bytecode]
+#: /Game/Blueprint/UMG/EscMenu/WBP_Dead.WBP_Dead_C:ExecuteUbergraph_WBP_Dead
+#: [Script Bytecode]
 msgctxt ",9A7ABEAA4E2C05AB00E7988389E19EB0"
 msgid "在第{0}天"
 msgstr "{0}日"
@@ -2969,28 +3142,32 @@ msgstr "ウイルスの感染力を高めるには、より多くの抗体が必
 
 #. Key:	9B6E782A4617B9BA87703EB8BE12EB15
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_JoinGame.WBP_JoinGame_C:ExecuteUbergraph_WBP_JoinGame [Script Bytecode]
-#: /Game/Blueprint/UMG/MainUI/Child/WBP_JoinGame.WBP_JoinGame_C:ExecuteUbergraph_WBP_JoinGame [Script Bytecode]
+#: /Game/Blueprint/UMG/MainUI/Child/WBP_JoinGame.WBP_JoinGame_C:ExecuteUbergraph_WBP_JoinGame
+#: [Script Bytecode]
 msgctxt ",9B6E782A4617B9BA87703EB8BE12EB15"
 msgid "游戏版本不一致！"
 msgstr "ゲームのバージョンが矛盾しています！"
 
 #. Key:	9C8DC67F48B1B4F6E7242FB302464676
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_29.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_29.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_29.In
+#: Text
 msgctxt ",9C8DC67F48B1B4F6E7242FB302464676"
 msgid "酿酒桶"
 msgstr "ワイン樽"
 
 #. Key:	9D3F81C54102184380CBC1AE93CB0064
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/WBP_Main.WBP_Main_C:ExecuteUbergraph_WBP_Main [Script Bytecode]
-#: /Game/Blueprint/UMG/MainUI/WBP_Main.WBP_Main_C:ExecuteUbergraph_WBP_Main [Script Bytecode]
+#: /Game/Blueprint/UMG/MainUI/WBP_Main.WBP_Main_C:ExecuteUbergraph_WBP_Main
+#: [Script Bytecode]
 msgctxt ",9D3F81C54102184380CBC1AE93CB0064"
 msgid "房间创建失败！"
 msgstr "ルームの作成に失敗しました!"
 
 #. Key:	9DAE78634ECE4283CB9DEF8A66D92169
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(15 - Value).DisplayNameMap
-#: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(15 - Value).DisplayNameMap
+#: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(15
+#: - Value).DisplayNameMap
 msgctxt ",9DAE78634ECE4283CB9DEF8A66D92169"
 msgid "HandGuardStairs"
 msgstr "ハンドガード階段"
@@ -3014,18 +3191,20 @@ msgstr "ライフリミット"
 #: /Game/Blueprint/ACF/Tutorial/WBP_TutorialTip4.WBP_TutorialTip4_C:WidgetTree.TextBlock_2.Text
 msgctxt ",9E4555E2446FA6BB1EAA7BBB6F27FD8A"
 msgid "打开建筑菜单面板，选择木材地基"
-msgstr "建物メニュー パネルを開き、Timber Foundation を選択します。"
+msgstr "建物メニュー パネルを開き、木材基礎 を選択します。"
 
 #. Key:	9E632F8949F56E68D88F799607625386
 #. SourceLocation:	/Game/Blueprint/UMG/EscMenu/WBP_Dead.WBP_Dead_C:ExecuteUbergraph_WBP_Dead [Script Bytecode]
-#: /Game/Blueprint/UMG/EscMenu/WBP_Dead.WBP_Dead_C:ExecuteUbergraph_WBP_Dead [Script Bytecode]
+#: /Game/Blueprint/UMG/EscMenu/WBP_Dead.WBP_Dead_C:ExecuteUbergraph_WBP_Dead
+#: [Script Bytecode]
 msgctxt ",9E632F8949F56E68D88F799607625386"
 msgid "重生中..."
 msgstr "再生..."
 
 #. Key:	9EC234B04FEF2CF93F8F16A86C209716
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_ZJ.Furniture_ZJ_C:ExecuteUbergraph_Furniture_ZJ [Script Bytecode]
-#: /Game/HDCKBuildingSystem/MeshBP/Furniture_ZJ.Furniture_ZJ_C:ExecuteUbergraph_Furniture_ZJ [Script Bytecode]
+#: /Game/HDCKBuildingSystem/MeshBP/Furniture_ZJ.Furniture_ZJ_C:ExecuteUbergraph_Furniture_ZJ
+#: [Script Bytecode]
 msgctxt ",9EC234B04FEF2CF93F8F16A86C209716"
 msgid "饲料满了！"
 msgstr "フィードがいっぱいです！"
@@ -3039,7 +3218,8 @@ msgstr "メッセージ"
 
 #. Key:	9EE4C84344479B243BE1FBAE5B7374FB
 #. SourceLocation:	/Game/HDCKBuildingSystem/Table/E_SelectType.E_SelectType.DisplayNameMap(4 - Value).DisplayNameMap
-#: /Game/HDCKBuildingSystem/Table/E_SelectType.E_SelectType.DisplayNameMap(4 - Value).DisplayNameMap
+#: /Game/HDCKBuildingSystem/Table/E_SelectType.E_SelectType.DisplayNameMap(4 -
+#: Value).DisplayNameMap
 msgctxt ",9EE4C84344479B243BE1FBAE5B7374FB"
 msgid "outdoors"
 msgstr "屋外"
@@ -3053,7 +3233,8 @@ msgstr "耐スクラッチ性"
 
 #. Key:	9FB9053B45B10609D8C03B8B8A0645ED
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_38.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_38.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_38.In
+#: Text
 msgctxt ",9FB9053B45B10609D8C03B8B8A0645ED"
 msgid "铝锭"
 msgstr "アルミインゴット"
@@ -3074,7 +3255,8 @@ msgstr "モデル01"
 
 #. Key:	A0FD51544305999642F5E3AC450379F3
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_99.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_99.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_99.In
+#: Text
 msgctxt ",A0FD51544305999642F5E3AC450379F3"
 msgid "工具箱"
 msgstr "ツールボックス"
@@ -3116,28 +3298,32 @@ msgstr "結石"
 
 #. Key:	A42B7F1648E577F99CD8BD8A411702B9
 #. SourceLocation:	/Game/Blueprint/UMG/ScreenMessage/WBP_GunMessage.WBP_GunMessage_C:ExecuteUbergraph_WBP_GunMessage [Script Bytecode]
-#: /Game/Blueprint/UMG/ScreenMessage/WBP_GunMessage.WBP_GunMessage_C:ExecuteUbergraph_WBP_GunMessage [Script Bytecode]
+#: /Game/Blueprint/UMG/ScreenMessage/WBP_GunMessage.WBP_GunMessage_C:ExecuteUbergraph_WBP_GunMessage
+#: [Script Bytecode]
 msgctxt ",A42B7F1648E577F99CD8BD8A411702B9"
 msgid "全自动"
 msgstr "全自動"
 
 #. Key:	A44DFAB2422A13E46691CBA995DFA56F
 #. SourceLocation:	/Game/Blueprint/UMG/ScreenMessage/WBP_GunMessage.WBP_GunMessage_C:ExecuteUbergraph_WBP_GunMessage [Script Bytecode]
-#: /Game/Blueprint/UMG/ScreenMessage/WBP_GunMessage.WBP_GunMessage_C:ExecuteUbergraph_WBP_GunMessage [Script Bytecode]
+#: /Game/Blueprint/UMG/ScreenMessage/WBP_GunMessage.WBP_GunMessage_C:ExecuteUbergraph_WBP_GunMessage
+#: [Script Bytecode]
 msgctxt ",A44DFAB2422A13E46691CBA995DFA56F"
 msgid "三连发"
 msgstr "3つのバースト"
 
 #. Key:	A4794C1D43A639CE329F498AA2BBCB83
 #. SourceLocation:	/Game/HDCKBuildingSystem/Table/E_SelectTypeChild.E_SelectTypeChild.DisplayNameMap(9 - Value).DisplayNameMap
-#: /Game/HDCKBuildingSystem/Table/E_SelectTypeChild.E_SelectTypeChild.DisplayNameMap(9 - Value).DisplayNameMap
+#: /Game/HDCKBuildingSystem/Table/E_SelectTypeChild.E_SelectTypeChild.DisplayNameMap(9
+#: - Value).DisplayNameMap
 msgctxt ",A4794C1D43A639CE329F498AA2BBCB83"
 msgid "Other"
 msgstr "他の"
 
 #. Key:	A512AB59440D6CE6105B21BAFC609ABC
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_20.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_20.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_20.In
+#: Text
 msgctxt ",A512AB59440D6CE6105B21BAFC609ABC"
 msgid "医疗包"
 msgstr "医療キット"
@@ -3151,7 +3337,8 @@ msgstr "鍋で3つの異なる食材を調理してみる"
 
 #. Key:	A62AEC1B44C9FEE0F527279A6A1B7EFD
 #. SourceLocation:	/Game/HDCKBuildingSystem/Table/E_SelectTypeChild.E_SelectTypeChild.DisplayNameMap(3 - Value).DisplayNameMap
-#: /Game/HDCKBuildingSystem/Table/E_SelectTypeChild.E_SelectTypeChild.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/HDCKBuildingSystem/Table/E_SelectTypeChild.E_SelectTypeChild.DisplayNameMap(3
+#: - Value).DisplayNameMap
 msgctxt ",A62AEC1B44C9FEE0F527279A6A1B7EFD"
 msgid "Wall"
 msgstr "壁"
@@ -3172,14 +3359,16 @@ msgstr "パスワードを入力してください"
 
 #. Key:	A8E8CFFB476DD19AE2F12BA0D0D8658C
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_77.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_77.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_77.In
+#: Text
 msgctxt ",A8E8CFFB476DD19AE2F12BA0D0D8658C"
 msgid "烹饪台"
 msgstr "クッキングステーション"
 
 #. Key:	A986B3D14B33762D4721F68A12C306D5
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(11 - Value).DisplayNameMap
-#: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(11 - Value).DisplayNameMap
+#: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(11
+#: - Value).DisplayNameMap
 msgctxt ",A986B3D14B33762D4721F68A12C306D5"
 msgid "RoofIntersection"
 msgstr "屋根交差点"
@@ -3193,7 +3382,8 @@ msgstr "ゲームを保存しています。プログラムを閉じないでく
 
 #. Key:	AA700A424A1CC79F89745D8B8E66743F
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_44.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_44.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_44.In
+#: Text
 msgctxt ",AA700A424A1CC79F89745D8B8E66743F"
 msgid "反曲弓"
 msgstr "反曲弓"
@@ -3214,21 +3404,24 @@ msgstr "速度"
 
 #. Key:	AAB9D5FF4458F2D4E9935FB728FDA69C
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_CarInventory01.WBP_CarInventory01_C:Update [Script Bytecode]
-#: /Game/Blueprint/UMG/Furniture/WBP_CarInventory01.WBP_CarInventory01_C:Update [Script Bytecode]
+#: /Game/Blueprint/UMG/Furniture/WBP_CarInventory01.WBP_CarInventory01_C:Update
+#: [Script Bytecode]
 msgctxt ",AAB9D5FF4458F2D4E9935FB728FDA69C"
 msgid "燃料："
 msgstr "燃料："
 
 #. Key:	AABC005949F38ECF029CCB98AA9B1B58
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_36.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_36.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_36.In
+#: Text
 msgctxt ",AABC005949F38ECF029CCB98AA9B1B58"
 msgid "铜锭"
 msgstr "銅インゴット"
 
 #. Key:	AB6BD8F84FE5E1ACA7EBEF8875C626FF
 #. SourceLocation:	/Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(5 - Value).DisplayNameMap
-#: /Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(5 - Value).DisplayNameMap
+#: /Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(5 -
+#: Value).DisplayNameMap
 msgctxt ",AB6BD8F84FE5E1ACA7EBEF8875C626FF"
 msgid "DrinkWater"
 msgstr "水を飲む"
@@ -3242,7 +3435,8 @@ msgstr "アイテムを紛失せずに保管するためのボックス。"
 
 #. Key:	AC0F2FD840D825001A5E109409157C69
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_82.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_82.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_82.In
+#: Text
 msgctxt ",AC0F2FD840D825001A5E109409157C69"
 msgid "钢双手刀"
 msgstr "鋼鉄の両手ナイフ"
@@ -3256,7 +3450,8 @@ msgstr "モデル01"
 
 #. Key:	ACEA426B4B009B3EE05519BE089B19E3
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_16.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_16.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_16.In
+#: Text
 msgctxt ",ACEA426B4B009B3EE05519BE089B19E3"
 msgid "药膏"
 msgstr "軟膏"
@@ -3270,14 +3465,16 @@ msgstr "高品質"
 
 #. Key:	AD47B6074A741186454472B5956049C7
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_17.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_17.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_17.In
+#: Text
 msgctxt ",AD47B6074A741186454472B5956049C7"
 msgid "胃药"
 msgstr "胃薬"
 
 #. Key:	AD7688EF49F4225BD7F664B4DFD3E937
 #. SourceLocation:	/Game/Blueprint/ACF/Player/HDCK_GameState.Default__HDCK_GameState_C:Team Manager.Teams(1 - Value).Teams.DisplayName
-#: /Game/Blueprint/ACF/Player/HDCK_GameState.Default__HDCK_GameState_C:Team Manager.Teams(1 - Value).Teams.DisplayName
+#: /Game/Blueprint/ACF/Player/HDCK_GameState.Default__HDCK_GameState_C:Team
+#: Manager.Teams(1 - Value).Teams.DisplayName
 msgctxt ",AD7688EF49F4225BD7F664B4DFD3E937"
 msgid "Team 2"
 msgstr "チーム 2"
@@ -3298,7 +3495,8 @@ msgstr "炭水化物-"
 
 #. Key:	AE1B094F45E6A5C70705589D4AE91A03
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_SY_List.WBP_SY_List_C:ExecuteUbergraph_WBP_SY_List [Script Bytecode]
-#: /Game/Blueprint/UMG/Furniture/WBP_SY_List.WBP_SY_List_C:ExecuteUbergraph_WBP_SY_List [Script Bytecode]
+#: /Game/Blueprint/UMG/Furniture/WBP_SY_List.WBP_SY_List_C:ExecuteUbergraph_WBP_SY_List
+#: [Script Bytecode]
 msgctxt ",AE1B094F45E6A5C70705589D4AE91A03"
 msgid "动物状态："
 msgstr "動物の状態:"
@@ -3319,14 +3517,16 @@ msgstr "家具"
 
 #. Key:	AF75A83048C0E517520452859496B929
 #. SourceLocation:	/Game/Blueprint/UMG/InteractiveMessage/Interactive.Interactive.DisplayNameMap(1 - Value).DisplayNameMap
-#: /Game/Blueprint/UMG/InteractiveMessage/Interactive.Interactive.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/Blueprint/UMG/InteractiveMessage/Interactive.Interactive.DisplayNameMap(1
+#: - Value).DisplayNameMap
 msgctxt ",AF75A83048C0E517520452859496B929"
 msgid "Build"
 msgstr "建てる"
 
 #. Key:	B03B93224C4D45A9866F91B301208B92
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_54.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_54.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_54.In
+#: Text
 msgctxt ",B03B93224C4D45A9866F91B301208B92"
 msgid "温室"
 msgstr "温室"
@@ -3340,28 +3540,32 @@ msgstr "地面に置く必要があります"
 
 #. Key:	B0942D1946775C199F77B7B8C29F350F
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/E_AimType.E_AimType.DisplayNameMap(2 - Value).DisplayNameMap
-#: /Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/E_AimType.E_AimType.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/E_AimType.E_AimType.DisplayNameMap(2
+#: - Value).DisplayNameMap
 msgctxt ",B0942D1946775C199F77B7B8C29F350F"
 msgid "QX"
 msgstr "QX"
 
 #. Key:	B09AB7414F2903DE09B2F8A4CE4DF3C4
 #. SourceLocation:	/Game/Blueprint/ACF/Manager/E_Season.E_Season.DisplayNameMap(0 - Value).DisplayNameMap
-#: /Game/Blueprint/ACF/Manager/E_Season.E_Season.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/Blueprint/ACF/Manager/E_Season.E_Season.DisplayNameMap(0 -
+#: Value).DisplayNameMap
 msgctxt ",B09AB7414F2903DE09B2F8A4CE4DF3C4"
 msgid "spring"
 msgstr "バネ"
 
 #. Key:	B152AA774A142C9661298C9C8168B441
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_75.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_75.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_75.In
+#: Text
 msgctxt ",B152AA774A142C9661298C9C8168B441"
 msgid "钢锭"
 msgstr "鋼塊"
 
 #. Key:	B15D04364C87BE5BFEE9C6BC4DB45FE4
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_103.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_103.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_103.In
+#: Text
 msgctxt ",B15D04364C87BE5BFEE9C6BC4DB45FE4"
 msgid "汽车修理套件"
 msgstr "車の修理キット"
@@ -3382,21 +3586,24 @@ msgstr "IA_使用6"
 
 #. Key:	B22CE20D4E7F232EA78E36BA6EFA3738
 #. SourceLocation:	/Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(1 - Value).DisplayNameMap
-#: /Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(1 -
+#: Value).DisplayNameMap
 msgctxt ",B22CE20D4E7F232EA78E36BA6EFA3738"
 msgid "SleepDown"
 msgstr "スリープダウン"
 
 #. Key:	B232FF894251F2654E4C9A86C4D1351A
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_21.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_21.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_21.In
+#: Text
 msgctxt ",B232FF894251F2654E4C9A86C4D1351A"
 msgid "酒精"
 msgstr "アルコール"
 
 #. Key:	B26469FE4CE2CBC7FE94F4BDA847DB84
 #. SourceLocation:	/Game/Blueprint/Car/BP_CartBase.BP_CartBase_C:ExecuteUbergraph_BP_CartBase [Script Bytecode]
-#: /Game/Blueprint/Car/BP_CartBase.BP_CartBase_C:ExecuteUbergraph_BP_CartBase [Script Bytecode]
+#: /Game/Blueprint/Car/BP_CartBase.BP_CartBase_C:ExecuteUbergraph_BP_CartBase
+#: [Script Bytecode]
 msgctxt ",B26469FE4CE2CBC7FE94F4BDA847DB84"
 msgid "维修材料不足"
 msgstr "不十分な修理材料"
@@ -3424,7 +3631,8 @@ msgstr "IA_Interacted2"
 
 #. Key:	B3A0E2EC48F04B81F76C6E938D15A734
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/E_FireMode.E_FireMode.DisplayNameMap(0 - Value).DisplayNameMap
-#: /Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/E_FireMode.E_FireMode.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/E_FireMode.E_FireMode.DisplayNameMap(0
+#: - Value).DisplayNameMap
 msgctxt ",B3A0E2EC48F04B81F76C6E938D15A734"
 msgid "Single"
 msgstr "独身"
@@ -3438,17 +3646,19 @@ msgstr "命は儚い"
 
 #. Key:	B4746EE4424481DB831589BEEC0DE8D4
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(7 - Value).DisplayNameMap
-#: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(7 - Value).DisplayNameMap
+#: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(7
+#: - Value).DisplayNameMap
 msgctxt ",B4746EE4424481DB831589BEEC0DE8D4"
 msgid "Roof"
 msgstr "屋根"
 
 #. Key:	B53BE0D643F0BC85688ACCAC6E911CA2
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_91.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_91.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_91.In
+#: Text
 msgctxt ",B53BE0D643F0BC85688ACCAC6E911CA2"
 msgid "762子弹"
-msgstr "762発"
+msgstr "7.62口径の弾薬"
 
 #. Key:	B57A00354900F30D42BACFBCF9434A53
 #. SourceLocation:	/Game/Blueprint/UMG/ChatSystem/WBP_ChatMenu.WBP_ChatMenu_C:WidgetTree.MessageBox.HintText
@@ -3494,21 +3704,24 @@ msgstr "体力-"
 
 #. Key:	B75273964C8DC04BECCD7D948C4211FE
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/StartUIEnum.StartUIEnum.DisplayNameMap(4 - Value).DisplayNameMap
-#: /Game/Blueprint/UMG/MainUI/StartUIEnum.StartUIEnum.DisplayNameMap(4 - Value).DisplayNameMap
+#: /Game/Blueprint/UMG/MainUI/StartUIEnum.StartUIEnum.DisplayNameMap(4 -
+#: Value).DisplayNameMap
 msgctxt ",B75273964C8DC04BECCD7D948C4211FE"
 msgid "CreateGame"
 msgstr "ゲームを作る"
 
 #. Key:	B8084BE1473092BD2666BCB97BBD4309
 #. SourceLocation:	/Game/HDCKBuildingSystem/Table/E_SelectTypeChild.E_SelectTypeChild.DisplayNameMap(7 - Value).DisplayNameMap
-#: /Game/HDCKBuildingSystem/Table/E_SelectTypeChild.E_SelectTypeChild.DisplayNameMap(7 - Value).DisplayNameMap
+#: /Game/HDCKBuildingSystem/Table/E_SelectTypeChild.E_SelectTypeChild.DisplayNameMap(7
+#: - Value).DisplayNameMap
 msgctxt ",B8084BE1473092BD2666BCB97BBD4309"
 msgid "RoofSingle"
 msgstr "ルーフシングル"
 
 #. Key:	B86415A9412B5370EA8A299FB90EB38A
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_8.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_8.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_8.In
+#: Text
 msgctxt ",B86415A9412B5370EA8A299FB90EB38A"
 msgid "培植箱"
 msgstr "インキュベータ"
@@ -3529,7 +3742,8 @@ msgstr "あごひげを生やした"
 
 #. Key:	B8B69A364203615D8A5018B102D4B9C1
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_9.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_9.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_9.In
+#: Text
 msgctxt ",B8B69A364203615D8A5018B102D4B9C1"
 msgid "纺织机"
 msgstr "繊維機械"
@@ -3557,14 +3771,16 @@ msgstr "トマト"
 
 #. Key:	B8EC20624117CFE11537B1B46FE1FEEC
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_68.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_68.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_68.In
+#: Text
 msgctxt ",B8EC20624117CFE11537B1B46FE1FEEC"
 msgid "塑料"
 msgstr "プラスチック"
 
 #. Key:	B902044F444A770F5D16FEBFFB185A39
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_YSSJQ.Furniture_YSSJQ_C:ExecuteUbergraph_Furniture_YSSJQ [Script Bytecode]
-#: /Game/HDCKBuildingSystem/MeshBP/Furniture_YSSJQ.Furniture_YSSJQ_C:ExecuteUbergraph_Furniture_YSSJQ [Script Bytecode]
+#: /Game/HDCKBuildingSystem/MeshBP/Furniture_YSSJQ.Furniture_YSSJQ_C:ExecuteUbergraph_Furniture_YSSJQ
+#: [Script Bytecode]
 msgctxt ",B902044F444A770F5D16FEBFFB185A39"
 msgid "水不够！"
 msgstr "水が足りない！"
@@ -3578,7 +3794,8 @@ msgstr "IA_Use3"
 
 #. Key:	B9D7AFBD4A45230EE8CB6D8FB180E276
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(4 - Value).DisplayNameMap
-#: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(4 - Value).DisplayNameMap
+#: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(4
+#: - Value).DisplayNameMap
 msgctxt ",B9D7AFBD4A45230EE8CB6D8FB180E276"
 msgid "HorizontalBeam"
 msgstr "水平ビーム"
@@ -3592,7 +3809,8 @@ msgstr "0"
 
 #. Key:	BB0420A948E6FE459983A0AF89A6845D
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_95.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_95.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_95.In
+#: Text
 msgctxt ",BB0420A948E6FE459983A0AF89A6845D"
 msgid "霰弹枪子弹"
 msgstr "散弾銃の弾丸"
@@ -3606,7 +3824,8 @@ msgstr "燃料油"
 
 #. Key:	BBE72FFA4841C18D570FA8A38CE5ABC3
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_56.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_56.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_56.In
+#: Text
 msgctxt ",BBE72FFA4841C18D570FA8A38CE5ABC3"
 msgid "太阳能发电站"
 msgstr "太陽光発電所"
@@ -3627,7 +3846,8 @@ msgstr "燃焼時間: 0"
 
 #. Key:	BD842DC74740211786574F86C27997A7
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(18 - Value).DisplayNameMap
-#: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(18 - Value).DisplayNameMap
+#: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(18
+#: - Value).DisplayNameMap
 msgctxt ",BD842DC74740211786574F86C27997A7"
 msgid "Window"
 msgstr "窓"
@@ -3641,14 +3861,16 @@ msgstr "斧"
 
 #. Key:	BF4A31134BC5C653FED53AB484D14C15
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_35.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_35.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_35.In
+#: Text
 msgctxt ",BF4A31134BC5C653FED53AB484D14C15"
 msgid "木炭炉"
 msgstr "木炭炉"
 
 #. Key:	BF4C2992461B4E7927F03DAEB925755D
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_37.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_37.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_37.In
+#: Text
 msgctxt ",BF4C2992461B4E7927F03DAEB925755D"
 msgid "铁锭"
 msgstr "鉄のインゴット"
@@ -3658,7 +3880,7 @@ msgstr "鉄のインゴット"
 #: /Game/Blueprint/ACF/Item/Book/AutoCreate/BP_Book_JXX03.Default__BP_Book_JXX03_C.ItemInfo.Name
 msgctxt ",BFBAF5F04F9C05F03B1C6FA074EC422E"
 msgid "机修（三卷）"
-msgstr "機械の修理 (全 3 巻)"
+msgstr "機械の修理 (第 3 巻)"
 
 #. Key:	C0AECA14478D1D438B3C3098A107B0DE
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_30.Text
@@ -3686,7 +3908,7 @@ msgstr "シンプルなアイテム作り"
 #: /Game/Blueprint/ACF/Data/TableAsset/FoodAssetTable.FoodAssetTable.机修（三卷）.Name_33_B65BC8D64E83EF46F5F21FA5566C3997
 msgctxt ",C1CF8D7D4567787F135DFC9C77F6EEB0"
 msgid "机修（三卷）"
-msgstr "機械修理 (全 3 巻)"
+msgstr "機械修理 (第 3 巻)"
 
 #. Key:	C29D3E5148224D541E5261AAA1EE196A
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_sniper_SKS.Default__ACFGunBase_sniper_SKS_C.ItemInfo.Name
@@ -3704,14 +3926,16 @@ msgstr "アロー基本クラス"
 
 #. Key:	C3166548498C19FB67C5DD992BB3F901
 #. SourceLocation:	/Game/Blueprint/UMG/NPCUMG/WBP_SelectButton.Default__WBP_SelectButton_C.In Text
-#: /Game/Blueprint/UMG/NPCUMG/WBP_SelectButton.Default__WBP_SelectButton_C.In Text
+#: /Game/Blueprint/UMG/NPCUMG/WBP_SelectButton.Default__WBP_SelectButton_C.In
+#: Text
 msgctxt ",C3166548498C19FB67C5DD992BB3F901"
 msgid "关于那件事"
 msgstr "そのことについて"
 
 #. Key:	C430F0E844B731D19998729E70349790
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/E_AimType.E_AimType.DisplayNameMap(4 - Value).DisplayNameMap
-#: /Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/E_AimType.E_AimType.DisplayNameMap(4 - Value).DisplayNameMap
+#: /Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/E_AimType.E_AimType.DisplayNameMap(4
+#: - Value).DisplayNameMap
 msgctxt ",C430F0E844B731D19998729E70349790"
 msgid "4B"
 msgstr "4B"
@@ -3732,14 +3956,16 @@ msgstr "1"
 
 #. Key:	C4C9089841ED96447C2336ADFE055AE0
 #. SourceLocation:	/Game/Blueprint/ACF/Player/HDCK_GameMode.HDCK_GameMode_C:ExecuteUbergraph_HDCK_GameMode [Script Bytecode]
-#: /Game/Blueprint/ACF/Player/HDCK_GameMode.HDCK_GameMode_C:ExecuteUbergraph_HDCK_GameMode [Script Bytecode]
+#: /Game/Blueprint/ACF/Player/HDCK_GameMode.HDCK_GameMode_C:ExecuteUbergraph_HDCK_GameMode
+#: [Script Bytecode]
 msgctxt ",C4C9089841ED96447C2336ADFE055AE0"
 msgid "存档失败！！！"
 msgstr "アーカイブに失敗しました! ! !"
 
 #. Key:	C503D8D4432665A9708A219FA438AF85
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_57.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_57.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_57.In
+#: Text
 msgctxt ",C503D8D4432665A9708A219FA438AF85"
 msgid "火力发电机"
 msgstr "熱発生器"
@@ -3774,7 +4000,8 @@ msgstr "ブラント +"
 
 #. Key:	C8909F544D82D283B4CBAF86C0E811D3
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/E_FireMode.E_FireMode.DisplayNameMap(1 - Value).DisplayNameMap
-#: /Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/E_FireMode.E_FireMode.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/E_FireMode.E_FireMode.DisplayNameMap(1
+#: - Value).DisplayNameMap
 msgctxt ",C8909F544D82D283B4CBAF86C0E811D3"
 msgid "TripleHair"
 msgstr "トリプルヘア"
@@ -3795,7 +4022,8 @@ msgstr "IA_OpenBuildingMenu"
 
 #. Key:	C95B9D5D497F1BBE79830CA3E08DA455
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_30.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_30.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_30.In
+#: Text
 msgctxt ",C95B9D5D497F1BBE79830CA3E08DA455"
 msgid "饲养圈"
 msgstr "飼育舎"
@@ -3823,7 +4051,8 @@ msgstr "美味しいフルーツ煮込み"
 
 #. Key:	CA38F5DF4EFCC8AEEFBAC7803C1FB9D0
 #. SourceLocation:	/Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(2 - Value).DisplayNameMap
-#: /Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(2 -
+#: Value).DisplayNameMap
 msgctxt ",CA38F5DF4EFCC8AEEFBAC7803C1FB9D0"
 msgid "NULL"
 msgstr "ヌル"
@@ -3844,7 +4073,8 @@ msgstr "20/30Ah"
 
 #. Key:	CC819A1447895FD466FEF7AA1DE2B9F7
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_LoadGame.WBP_LoadGame_C:WidgetTree.WBP_Del.In Text
-#: /Game/Blueprint/UMG/MainUI/Child/WBP_LoadGame.WBP_LoadGame_C:WidgetTree.WBP_Del.In Text
+#: /Game/Blueprint/UMG/MainUI/Child/WBP_LoadGame.WBP_LoadGame_C:WidgetTree.WBP_Del.In
+#: Text
 msgctxt ",CC819A1447895FD466FEF7AA1DE2B9F7"
 msgid "删除"
 msgstr "消去"
@@ -3865,7 +4095,8 @@ msgstr "解体は材料を返さないが、エンジニアリングの経験を
 
 #. Key:	CCEA1679435409D6C3183B863520690B
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_92.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_92.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_92.In
+#: Text
 msgctxt ",CCEA1679435409D6C3183B863520690B"
 msgid "556子弹"
 msgstr "556発"
@@ -3879,21 +4110,24 @@ msgstr "すべての資料を取り外して返却する"
 
 #. Key:	CD1F85B4472D5C4EA8B1FCAF5325B0AB
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_31.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_31.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_31.In
+#: Text
 msgctxt ",CD1F85B4472D5C4EA8B1FCAF5325B0AB"
 msgid "吊灯"
 msgstr "シャンデリア"
 
 #. Key:	CD4B5FDD4E0BF834CC0C6BBF34EE31EB
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_97.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_97.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_97.In
+#: Text
 msgctxt ",CD4B5FDD4E0BF834CC0C6BBF34EE31EB"
 msgid "钢矛"
 msgstr "鋼の槍"
 
 #. Key:	CD8164CD4F5BF40D20BADEA4545E0217
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_74.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_74.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_74.In
+#: Text
 msgctxt ",CD8164CD4F5BF40D20BADEA4545E0217"
 msgid "电动缝纫机"
 msgstr "電動ミシン"
@@ -3907,7 +4141,8 @@ msgstr "病気、出血している傷がここに現れます"
 
 #. Key:	CEBF552A463D24310A176E80B43C8173
 #. SourceLocation:	/Game/Blueprint/ACF/Player/HDCK_CharacterBP.HDCK_CharacterBP_C:ExecuteUbergraph_HDCK_CharacterBP [Script Bytecode]
-#: /Game/Blueprint/ACF/Player/HDCK_CharacterBP.HDCK_CharacterBP_C:ExecuteUbergraph_HDCK_CharacterBP [Script Bytecode]
+#: /Game/Blueprint/ACF/Player/HDCK_CharacterBP.HDCK_CharacterBP_C:ExecuteUbergraph_HDCK_CharacterBP
+#: [Script Bytecode]
 msgctxt ",CEBF552A463D24310A176E80B43C8173"
 msgid "制作完成"
 msgstr "製造完了"
@@ -3956,35 +4191,40 @@ msgstr "接続"
 
 #. Key:	D2A4C2124089937029EA4F95DC46D778
 #. SourceLocation:	/Game/Blueprint/UMG/Inventory/WBP_ItemButton.WBP_ItemButton_C:OnDrop [Script Bytecode]
-#: /Game/Blueprint/UMG/Inventory/WBP_ItemButton.WBP_ItemButton_C:OnDrop [Script Bytecode]
+#: /Game/Blueprint/UMG/Inventory/WBP_ItemButton.WBP_ItemButton_C:OnDrop [Script
+#: Bytecode]
 msgctxt ",D2A4C2124089937029EA4F95DC46D778"
 msgid "此物品无法装备在这"
 msgstr "このアイテムはここでは装備できません"
 
 #. Key:	D32A4D03413139E3B6FDB1B424B6207F
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_JoinGame.WBP_JoinGame_C:ExecuteUbergraph_WBP_JoinGame [Script Bytecode]
-#: /Game/Blueprint/UMG/MainUI/Child/WBP_JoinGame.WBP_JoinGame_C:ExecuteUbergraph_WBP_JoinGame [Script Bytecode]
+#: /Game/Blueprint/UMG/MainUI/Child/WBP_JoinGame.WBP_JoinGame_C:ExecuteUbergraph_WBP_JoinGame
+#: [Script Bytecode]
 msgctxt ",D32A4D03413139E3B6FDB1B424B6207F"
 msgid "加入失败！"
 msgstr "参加できませんでした。"
 
 #. Key:	D35518064C2D768EC2C3538AA59470B8
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_28.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_28.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_28.In
+#: Text
 msgctxt ",D35518064C2D768EC2C3538AA59470B8"
 msgid "水培箱"
 msgstr "水培箱"
 
 #. Key:	D3E6F2304D378E9FF9B1678623A9E744
 #. SourceLocation:	/Game/Blueprint/AI/ZombieState.ZombieState.DisplayNameMap(0 - Value).DisplayNameMap
-#: /Game/Blueprint/AI/ZombieState.ZombieState.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/Blueprint/AI/ZombieState.ZombieState.DisplayNameMap(0 -
+#: Value).DisplayNameMap
 msgctxt ",D3E6F2304D378E9FF9B1678623A9E744"
 msgid "patrol"
 msgstr "パトロール"
 
 #. Key:	D3F4867C49BE41AD60AAD09F37BE9FB5
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_78.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_78.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_78.In
+#: Text
 msgctxt ",D3F4867C49BE41AD60AAD09F37BE9FB5"
 msgid "钢斧"
 msgstr "鋼の斧"
@@ -3998,7 +4238,8 @@ msgstr "スクロール ホイールを使用してスナップ位置を切り�
 
 #. Key:	D55BDFB74B2921B7A8ABB6A7019CDEBA
 #. SourceLocation:	/Game/Blueprint/Car/InCarMode.InCarMode.DisplayNameMap(3 - Value).DisplayNameMap
-#: /Game/Blueprint/Car/InCarMode.InCarMode.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/Blueprint/Car/InCarMode.InCarMode.DisplayNameMap(3 -
+#: Value).DisplayNameMap
 msgctxt ",D55BDFB74B2921B7A8ABB6A7019CDEBA"
 msgid "BackLeft"
 msgstr "戻る左"
@@ -4022,7 +4263,7 @@ msgstr "車の前部でFを押して車を引っ張り、もう一度押すと�
 #: /Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_2.TipMessage_41_0D1B7B6342180F0BD1D386A6C8ADE0B3
 msgctxt ",D6A16FE4487F8C9FE0DFA48D534C86ED"
 msgid "对方交易价值"
-msgstr "相手方取引額"
+msgstr "相手の取引額"
 
 #. Key:	D76214F74A757E44AFF28B98B526FE65
 #. SourceLocation:	/Game/Blueprint/UMG/EscMenu/WBP_KeyInputAction.WBP_KeyInputAction_C:WidgetTree.InputKeySelector_0.NoKeySpecifiedText
@@ -4054,14 +4295,16 @@ msgstr "ワークベンチは自動的にタスクを完了します。後ろに
 
 #. Key:	D9BFDCBF49522F6BD0A0AE9DFE3A46D0
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(10 - Value).DisplayNameMap
-#: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(10 - Value).DisplayNameMap
+#: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(10
+#: - Value).DisplayNameMap
 msgctxt ",D9BFDCBF49522F6BD0A0AE9DFE3A46D0"
 msgid "RoofEnd"
 msgstr "ルーフエンド"
 
 #. Key:	D9DDCEFB423648DEE630F5AAAFEE978B
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_89.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_89.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_89.In
+#: Text
 msgctxt ",D9DDCEFB423648DEE630F5AAAFEE978B"
 msgid "钢棍"
 msgstr "スチールロッド"
@@ -4082,7 +4325,8 @@ msgstr "健康-"
 
 #. Key:	DA01CCEB4FCE0A10153ADBA352E6C952
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_88.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_88.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_88.In
+#: Text
 msgctxt ",DA01CCEB4FCE0A10153ADBA352E6C952"
 msgid "钢锤"
 msgstr "スチールハンマー"
@@ -4096,7 +4340,8 @@ msgstr "チップ"
 
 #. Key:	DB0F32AF4ACC7F1528ED8C81776FB230
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_22.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_22.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_22.In
+#: Text
 msgctxt ",DB0F32AF4ACC7F1528ED8C81776FB230"
 msgid "火药"
 msgstr "火薬"
@@ -4124,7 +4369,8 @@ msgstr "名前："
 
 #. Key:	DC68ED544682D3FE6758C2A9A2AA1821
 #. SourceLocation:	/Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(4 - Value).DisplayNameMap
-#: /Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(4 - Value).DisplayNameMap
+#: /Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(4 -
+#: Value).DisplayNameMap
 msgctxt ",DC68ED544682D3FE6758C2A9A2AA1821"
 msgid "RightSleep"
 msgstr "右睡眠"
@@ -4133,8 +4379,12 @@ msgstr "右睡眠"
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/WBP_Main.WBP_Main_C:WidgetTree.Nanite.Text
 #: /Game/Blueprint/UMG/MainUI/WBP_Main.WBP_Main_C:WidgetTree.Nanite.Text
 msgctxt ",DDC0910C4C17BE48AB063FBF2F21022D"
-msgid "检测到您的电脑不支持Nanite，请升级显卡驱动！\r\n否则将会出现模型显示不完整等问题。"
-msgstr "お使いのコンピュータは Nanite をサポートしていないことが検出されました。グラフィック カード ドライバをアップグレードしてください!\r\nそうしないと、モデルの表示が不完全になるなどの問題が発生します。"
+msgid ""
+"检测到您的电脑不支持Nanite，请升级显卡驱动！\r\n"
+"否则将会出现模型显示不完整等问题。"
+msgstr ""
+"お使いのコンピュータは Nanite をサポートしていないことが検出されました。グラフィック カード ドライバをアップグレードしてください!\r\n"
+"そうしないと、モデルの表示が不完全になるなどの問題が発生します。"
 
 #. Key:	DDDC1B0B4000A52C9EBD15869577EA8E
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_CarInventory.WBP_CarInventory_C:WidgetTree.Health.Text
@@ -4173,14 +4423,16 @@ msgstr "骨折した手足の数の増加"
 
 #. Key:	DEE485DE4FE5DF283FA39FAD921CA4A4
 #. SourceLocation:	/Game/Blueprint/ACF/Player/HDCK_GameState.Default__HDCK_GameState_C:Team Manager.Teams(3 - Value).Teams.DisplayName
-#: /Game/Blueprint/ACF/Player/HDCK_GameState.Default__HDCK_GameState_C:Team Manager.Teams(3 - Value).Teams.DisplayName
+#: /Game/Blueprint/ACF/Player/HDCK_GameState.Default__HDCK_GameState_C:Team
+#: Manager.Teams(3 - Value).Teams.DisplayName
 msgctxt ",DEE485DE4FE5DF283FA39FAD921CA4A4"
 msgid "Team 4"
 msgstr "チーム 4"
 
 #. Key:	DFB8B90B40E48F2039D785B02D71920D
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_47.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_47.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_47.In
+#: Text
 msgctxt ",DFB8B90B40E48F2039D785B02D71920D"
 msgid "铁撬棍"
 msgstr "バール"
@@ -4194,14 +4446,16 @@ msgstr "読む"
 
 #. Key:	DFDC7D0B43D1E23D901A57BD71F2458D
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_48.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_48.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_48.In
+#: Text
 msgctxt ",DFDC7D0B43D1E23D901A57BD71F2458D"
 msgid "铁稿"
 msgstr "アイアンドラフト"
 
 #. Key:	DFED45D04D8BC0C7F64D7EBC8024251D
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/StartUIEnum.StartUIEnum.DisplayNameMap(5 - Value).DisplayNameMap
-#: /Game/Blueprint/UMG/MainUI/StartUIEnum.StartUIEnum.DisplayNameMap(5 - Value).DisplayNameMap
+#: /Game/Blueprint/UMG/MainUI/StartUIEnum.StartUIEnum.DisplayNameMap(5 -
+#: Value).DisplayNameMap
 msgctxt ",DFED45D04D8BC0C7F64D7EBC8024251D"
 msgid "Main"
 msgstr "主要"
@@ -4250,7 +4504,8 @@ msgstr "燃料: 10/50L"
 
 #. Key:	E1DE8CFB4115A7723A5FB9973E62A4EA
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(16 - Value).DisplayNameMap
-#: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(16 - Value).DisplayNameMap
+#: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(16
+#: - Value).DisplayNameMap
 msgctxt ",E1DE8CFB4115A7723A5FB9973E62A4EA"
 msgid "Furniture"
 msgstr "家具"
@@ -4271,21 +4526,24 @@ msgstr "タンパク質-"
 
 #. Key:	E32F7EBE45F0A70080AA5794DE3DD882
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_50.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_50.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_50.In
+#: Text
 msgctxt ",E32F7EBE45F0A70080AA5794DE3DD882"
 msgid "铁矛"
 msgstr "アイアンスピア"
 
 #. Key:	E3406AF84800668795F5B3B077058216
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_15.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_15.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_15.In
+#: Text
 msgctxt ",E3406AF84800668795F5B3B077058216"
 msgid "橡胶"
 msgstr "ゴム"
 
 #. Key:	E376091E40319FE2B0FB1A9381571D45
 #. SourceLocation:	/Game/Blueprint/ACF/Manager/E_Season.E_Season.DisplayNameMap(2 - Value).DisplayNameMap
-#: /Game/Blueprint/ACF/Manager/E_Season.E_Season.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/Blueprint/ACF/Manager/E_Season.E_Season.DisplayNameMap(2 -
+#: Value).DisplayNameMap
 msgctxt ",E376091E40319FE2B0FB1A9381571D45"
 msgid "autumn"
 msgstr "秋"
@@ -4334,7 +4592,8 @@ msgstr "中心点をすでに建設済みまたは計画中の基礎に合わせ
 
 #. Key:	E62544084551738BF6BBC5ADAD378D67
 #. SourceLocation:	/Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(8 - Value).DisplayNameMap
-#: /Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(8 - Value).DisplayNameMap
+#: /Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(8 -
+#: Value).DisplayNameMap
 msgctxt ",E62544084551738BF6BBC5ADAD378D67"
 msgid "SitDownRight"
 msgstr "右に座る"
@@ -4355,21 +4614,24 @@ msgstr "鉄の胃"
 
 #. Key:	E77D8F944F7C72FBD89CE9A17C211C5D
 #. SourceLocation:	/Game/Blueprint/UMG/Inventory/WBP_PZXAddButton.WBP_PZXAddButton_C:OnDrop [Script Bytecode]
-#: /Game/Blueprint/UMG/Inventory/WBP_PZXAddButton.WBP_PZXAddButton_C:OnDrop [Script Bytecode]
+#: /Game/Blueprint/UMG/Inventory/WBP_PZXAddButton.WBP_PZXAddButton_C:OnDrop
+#: [Script Bytecode]
 msgctxt ",E77D8F944F7C72FBD89CE9A17C211C5D"
 msgid "此物品无法装备在这"
 msgstr "このアイテムはここでは装備できません"
 
 #. Key:	E77D91584AE589CDBA6024A6641358F7
 #. SourceLocation:	/Game/Blueprint/UMG/Inventory/WBP_UseButton.WBP_UseButton_C:OnDrop [Script Bytecode]
-#: /Game/Blueprint/UMG/Inventory/WBP_UseButton.WBP_UseButton_C:OnDrop [Script Bytecode]
+#: /Game/Blueprint/UMG/Inventory/WBP_UseButton.WBP_UseButton_C:OnDrop [Script
+#: Bytecode]
 msgctxt ",E77D91584AE589CDBA6024A6641358F7"
 msgid "此物品无法装备在这"
 msgstr "このアイテムはここでは装備できません"
 
 #. Key:	E81FD1D8493C6CD9E2470F97A822FFEA
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_27.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_27.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_27.In
+#: Text
 msgctxt ",E81FD1D8493C6CD9E2470F97A822FFEA"
 msgid "蜂箱"
 msgstr "蜂の巣"
@@ -4390,7 +4652,8 @@ msgstr "Tab を押してバックパックを開きます"
 
 #. Key:	E8905D1E42454041017677A710675B84
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_32.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_32.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_32.In
+#: Text
 msgctxt ",E8905D1E42454041017677A710675B84"
 msgid "路灯"
 msgstr "街路灯"
@@ -4425,7 +4688,8 @@ msgstr "IA_使用2"
 
 #. Key:	E8EA4D5B4493329CF32982ABD630233C
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Wattle_WoodDoor.Wattle_WoodDoor_C:ShowUI [Script Bytecode]
-#: /Game/HDCKBuildingSystem/MeshBP/Wattle_WoodDoor.Wattle_WoodDoor_C:ShowUI [Script Bytecode]
+#: /Game/HDCKBuildingSystem/MeshBP/Wattle_WoodDoor.Wattle_WoodDoor_C:ShowUI
+#: [Script Bytecode]
 msgctxt ",E8EA4D5B4493329CF32982ABD630233C"
 msgid "{0}{1}"
 msgstr "{0}{1}"
@@ -4439,14 +4703,16 @@ msgstr "電気化学+"
 
 #. Key:	E987BA7A4F40FB8392162989C15EBC20
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_93.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_93.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_93.In
+#: Text
 msgctxt ",E987BA7A4F40FB8392162989C15EBC20"
 msgid "9mm子弹"
 msgstr "9mm弾"
 
 #. Key:	E9A10E33421DF89FF3203C8259441E89
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(0 - Value).DisplayNameMap
-#: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(0
+#: - Value).DisplayNameMap
 msgctxt ",E9A10E33421DF89FF3203C8259441E89"
 msgid "Foundation"
 msgstr "財団"
@@ -4460,21 +4726,24 @@ msgstr "モデル01"
 
 #. Key:	EABEB8F94C3CF50885B764895DA08A38
 #. SourceLocation:	/Game/Blueprint/Car/InCarMode.InCarMode.DisplayNameMap(0 - Value).DisplayNameMap
-#: /Game/Blueprint/Car/InCarMode.InCarMode.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/Blueprint/Car/InCarMode.InCarMode.DisplayNameMap(0 -
+#: Value).DisplayNameMap
 msgctxt ",EABEB8F94C3CF50885B764895DA08A38"
 msgid "NULL"
-msgstr "ヌル"
+msgstr "無"
 
 #. Key:	EB42CFCC441BE99FB908DEA37C6609D4
 #. SourceLocation:	/Game/Blueprint/UMG/InteractiveMessage/Interactive.Interactive.DisplayNameMap(0 - Value).DisplayNameMap
-#: /Game/Blueprint/UMG/InteractiveMessage/Interactive.Interactive.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/Blueprint/UMG/InteractiveMessage/Interactive.Interactive.DisplayNameMap(0
+#: - Value).DisplayNameMap
 msgctxt ",EB42CFCC441BE99FB908DEA37C6609D4"
 msgid "NULL"
-msgstr "ヌル"
+msgstr "無"
 
 #. Key:	EB8E102A411B40A3B1DC2A871517A726
 #. SourceLocation:	/Game/Blueprint/AI/ZombieState.ZombieState.DisplayNameMap(1 - Value).DisplayNameMap
-#: /Game/Blueprint/AI/ZombieState.ZombieState.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/Blueprint/AI/ZombieState.ZombieState.DisplayNameMap(1 -
+#: Value).DisplayNameMap
 msgctxt ",EB8E102A411B40A3B1DC2A871517A726"
 msgid "searching"
 msgstr "検索する"
@@ -4502,7 +4771,8 @@ msgstr "シャベルオフ"
 
 #. Key:	ED362C3F47934E84F061EFA97E3FB2B8
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_101.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_101.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_101.In
+#: Text
 msgctxt ",ED362C3F47934E84F061EFA97E3FB2B8"
 msgid "水井"
 msgstr "良い"
@@ -4537,14 +4807,16 @@ msgstr "保存"
 
 #. Key:	EDEA71F5499188B93E4EF9B0CE0AD262
 #. SourceLocation:	/Game/Blueprint/UMG/EscMenu/ScreenSwitch.ScreenSwitch.DisplayNameMap(1 - Value).DisplayNameMap
-#: /Game/Blueprint/UMG/EscMenu/ScreenSwitch.ScreenSwitch.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/Blueprint/UMG/EscMenu/ScreenSwitch.ScreenSwitch.DisplayNameMap(1 -
+#: Value).DisplayNameMap
 msgctxt ",EDEA71F5499188B93E4EF9B0CE0AD262"
 msgid "SoundSet"
 msgstr "サウンドセット"
 
 #. Key:	EF14908E4E8701B13C2A61911CC79713
 #. SourceLocation:	/Game/HDCKBuildingSystem/Table/E_SelectType.E_SelectType.DisplayNameMap(0 - Value).DisplayNameMap
-#: /Game/HDCKBuildingSystem/Table/E_SelectType.E_SelectType.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/HDCKBuildingSystem/Table/E_SelectType.E_SelectType.DisplayNameMap(0 -
+#: Value).DisplayNameMap
 msgctxt ",EF14908E4E8701B13C2A61911CC79713"
 msgid "structure"
 msgstr "構造"
@@ -4600,14 +4872,16 @@ msgstr "以下の武器スロットに注意してください.最初の 2 つ�
 
 #. Key:	F302E02F4A257C60ED0E7C8A726B7B18
 #. SourceLocation:	/Game/HDCKBuildingSystem/Table/E_SelectTypeChild.E_SelectTypeChild.DisplayNameMap(0 - Value).DisplayNameMap
-#: /Game/HDCKBuildingSystem/Table/E_SelectTypeChild.E_SelectTypeChild.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/HDCKBuildingSystem/Table/E_SelectTypeChild.E_SelectTypeChild.DisplayNameMap(0
+#: - Value).DisplayNameMap
 msgctxt ",F302E02F4A257C60ED0E7C8A726B7B18"
 msgid "Beam"
 msgstr "ビーム"
 
 #. Key:	F370F6994C20551E3A9968870FACCF36
 #. SourceLocation:	/Game/Blueprint/UMG/Inventory/WBP_UseMenu.WBP_UseMenu_C:ExecuteUbergraph_WBP_UseMenu [Script Bytecode]
-#: /Game/Blueprint/UMG/Inventory/WBP_UseMenu.WBP_UseMenu_C:ExecuteUbergraph_WBP_UseMenu [Script Bytecode]
+#: /Game/Blueprint/UMG/Inventory/WBP_UseMenu.WBP_UseMenu_C:ExecuteUbergraph_WBP_UseMenu
+#: [Script Bytecode]
 msgctxt ",F370F6994C20551E3A9968870FACCF36"
 msgid "丢弃物品"
 msgstr "廃棄物"
@@ -4628,14 +4902,16 @@ msgstr "高い"
 
 #. Key:	F3E6CCF3436FDB6BE9F2049AED4DD2AF
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(24 - Value).DisplayNameMap
-#: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(24 - Value).DisplayNameMap
+#: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(24
+#: - Value).DisplayNameMap
 msgctxt ",F3E6CCF3436FDB6BE9F2049AED4DD2AF"
 msgid "WattleDoor"
 msgstr "ワトルドア"
 
 #. Key:	F3F8E148409A7CD56F64519CED4DC8A7
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_ZJ.Furniture_ZJ_C:ExecuteUbergraph_Furniture_ZJ [Script Bytecode]
-#: /Game/HDCKBuildingSystem/MeshBP/Furniture_ZJ.Furniture_ZJ_C:ExecuteUbergraph_Furniture_ZJ [Script Bytecode]
+#: /Game/HDCKBuildingSystem/MeshBP/Furniture_ZJ.Furniture_ZJ_C:ExecuteUbergraph_Furniture_ZJ
+#: [Script Bytecode]
 msgctxt ",F3F8E148409A7CD56F64519CED4DC8A7"
 msgid "水不够！"
 msgstr "水が足りない！"
@@ -4649,28 +4925,32 @@ msgstr "非常に強い"
 
 #. Key:	F4BF7A6C48622D449AFBF195173F9A89
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/WBP_RoomSlot.WBP_RoomSlot_C:ExecuteUbergraph_WBP_RoomSlot [Script Bytecode]
-#: /Game/Blueprint/UMG/MainUI/WBP_RoomSlot.WBP_RoomSlot_C:ExecuteUbergraph_WBP_RoomSlot [Script Bytecode]
+#: /Game/Blueprint/UMG/MainUI/WBP_RoomSlot.WBP_RoomSlot_C:ExecuteUbergraph_WBP_RoomSlot
+#: [Script Bytecode]
 msgctxt ",F4BF7A6C48622D449AFBF195173F9A89"
 msgid "玩家数量："
 msgstr "プレイヤー数:"
 
 #. Key:	F53C86D14E0BC9C66FEA7885EECEEA87
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_80.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_80.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_80.In
+#: Text
 msgctxt ",F53C86D14E0BC9C66FEA7885EECEEA87"
 msgid "土制炸弹"
 msgstr "自家製爆弾"
 
 #. Key:	F54A6ED54766ABB0AC79688C14B3C300
 #. SourceLocation:	/Game/HDCKBuildingSystem/Table/E_SelectType.E_SelectType.DisplayNameMap(5 - Value).DisplayNameMap
-#: /Game/HDCKBuildingSystem/Table/E_SelectType.E_SelectType.DisplayNameMap(5 - Value).DisplayNameMap
+#: /Game/HDCKBuildingSystem/Table/E_SelectType.E_SelectType.DisplayNameMap(5 -
+#: Value).DisplayNameMap
 msgctxt ",F54A6ED54766ABB0AC79688C14B3C300"
 msgid "roof"
 msgstr "屋根"
 
 #. Key:	F54AD1C94DE2938B11E300B69703B3B7
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_4.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_4.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_4.In
+#: Text
 msgctxt ",F54AD1C94DE2938B11E300B69703B3B7"
 msgid "壁灯"
 msgstr "壁灯"
@@ -4684,14 +4964,16 @@ msgstr "Cを押してしゃがむか、ダブルタップしてロールしま�
 
 #. Key:	F5C4EE8C4E6DC7143610D6BC67865049
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_KG.Furniture_KG_C:ShowUI [Script Bytecode]
-#: /Game/HDCKBuildingSystem/MeshBP/Furniture_KG.Furniture_KG_C:ShowUI [Script Bytecode]
+#: /Game/HDCKBuildingSystem/MeshBP/Furniture_KG.Furniture_KG_C:ShowUI [Script
+#: Bytecode]
 msgctxt ",F5C4EE8C4E6DC7143610D6BC67865049"
 msgid "{0}{1}"
 msgstr "{0}{1}"
 
 #. Key:	F618CC164355622BE74E469B9F2F7BDA
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_58.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_58.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_58.In
+#: Text
 msgctxt ",F618CC164355622BE74E469B9F2F7BDA"
 msgid "电熔炉"
 msgstr "電気炉"
@@ -4705,7 +4987,8 @@ msgstr "車の損傷"
 
 #. Key:	F698474D4774B3EAED811995AC987E07
 #. SourceLocation:	/Game/Blueprint/UMG/Inventory/WBP_AddRYButton.WBP_AddRYButton_C:OnDrop [Script Bytecode]
-#: /Game/Blueprint/UMG/Inventory/WBP_AddRYButton.WBP_AddRYButton_C:OnDrop [Script Bytecode]
+#: /Game/Blueprint/UMG/Inventory/WBP_AddRYButton.WBP_AddRYButton_C:OnDrop
+#: [Script Bytecode]
 msgctxt ",F698474D4774B3EAED811995AC987E07"
 msgid "此物品无法装备在这"
 msgstr "このアイテムはここでは装備できません"
@@ -4726,7 +5009,8 @@ msgstr "1"
 
 #. Key:	F7638EBF42495192049CCA9B81841321
 #. SourceLocation:	/Game/Blueprint/ACF/Player/HDCK_GameState.Default__HDCK_GameState_C:Team Manager.Teams(7 - Value).Teams.DisplayName
-#: /Game/Blueprint/ACF/Player/HDCK_GameState.Default__HDCK_GameState_C:Team Manager.Teams(7 - Value).Teams.DisplayName
+#: /Game/Blueprint/ACF/Player/HDCK_GameState.Default__HDCK_GameState_C:Team
+#: Manager.Teams(7 - Value).Teams.DisplayName
 msgctxt ",F7638EBF42495192049CCA9B81841321"
 msgid "Team 8"
 msgstr "チーム 8"
@@ -4747,7 +5031,8 @@ msgstr "ウイルスに対する抗体-"
 
 #. Key:	F9AE1443479D5044F8044295EDD7944A
 #. SourceLocation:	/Game/Blueprint/UMG/Inventory/WBP_CSZWaterButton.WBP_CSZWaterButton_C:OnDrop [Script Bytecode]
-#: /Game/Blueprint/UMG/Inventory/WBP_CSZWaterButton.WBP_CSZWaterButton_C:OnDrop [Script Bytecode]
+#: /Game/Blueprint/UMG/Inventory/WBP_CSZWaterButton.WBP_CSZWaterButton_C:OnDrop
+#: [Script Bytecode]
 msgctxt ",F9AE1443479D5044F8044295EDD7944A"
 msgid "此物品无法装备在这"
 msgstr "このアイテムはここでは装備できません"
@@ -4782,21 +5067,24 @@ msgstr "モデル01"
 
 #. Key:	FB4AA59C4F7B31F2F8C325B64FCF6379
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_65.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_65.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_65.In
+#: Text
 msgctxt ",FB4AA59C4F7B31F2F8C325B64FCF6379"
 msgid "淋浴间"
 msgstr "シャワー室"
 
 #. Key:	FC41E7F4409AA042268DA480D2C3C17D
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/E_AimType.E_AimType.DisplayNameMap(0 - Value).DisplayNameMap
-#: /Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/E_AimType.E_AimType.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/E_AimType.E_AimType.DisplayNameMap(0
+#: - Value).DisplayNameMap
 msgctxt ",FC41E7F4409AA042268DA480D2C3C17D"
 msgid "Default"
 msgstr "デフォルト"
 
 #. Key:	FD23C90B4B0BEDE8A18429A85A651B61
 #. SourceLocation:	/Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(0 - Value).DisplayNameMap
-#: /Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(0 -
+#: Value).DisplayNameMap
 msgctxt ",FD23C90B4B0BEDE8A18429A85A651B61"
 msgid "SitDown"
 msgstr "座って下さい"
@@ -4834,11 +5122,12 @@ msgstr "発電"
 #: /Game/Blueprint/ACF/Item/Book/AutoCreate/BP_Book_JXX01.Default__BP_Book_JXX01_C.ItemInfo.Name
 msgctxt ",FE2E91AB497D0DE91BAAE09A668CB143"
 msgid "机修（一卷）"
-msgstr "機械修理（1巻）"
+msgstr "機械修理（第1巻）"
 
 #. Key:	FE7437FF40D4A9F45ABAAF9E4D512372
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_43.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_43.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_43.In
+#: Text
 msgctxt ",FE7437FF40D4A9F45ABAAF9E4D512372"
 msgid "铁砍刀"
 msgstr "鉄の鉈"
@@ -4852,7 +5141,8 @@ msgstr "プロパティページ"
 
 #. Key:	FEB00EB14CB0582FD5EC4192D7C1185F
 #. SourceLocation:	/Game/Blueprint/UMG/Inventory/WBP_UseMenu.WBP_UseMenu_C:UseItem [Script Bytecode]
-#: /Game/Blueprint/UMG/Inventory/WBP_UseMenu.WBP_UseMenu_C:UseItem [Script Bytecode]
+#: /Game/Blueprint/UMG/Inventory/WBP_UseMenu.WBP_UseMenu_C:UseItem [Script
+#: Bytecode]
 msgctxt ",FEB00EB14CB0582FD5EC4192D7C1185F"
 msgid "当前格子已经装备了其他物品"
 msgstr "現在のグリッドにはすでに他のアイテムが装備されています"
@@ -4880,7 +5170,8 @@ msgstr "外角屋根の連結用。"
 
 #. Key:	FF2F50414387532F4542DC831B775CDC
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_53.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_53.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_53.In
+#: Text
 msgctxt ",FF2F50414387532F4542DC831B775CDC"
 msgid "电池组"
 msgstr "バッテリー"
@@ -5030,14 +5321,14 @@ msgstr "階段の手すり"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",HorizontalBeam"
 msgid "横梁"
-msgstr "ビーム"
+msgstr "梁"
 
 #. Key:	HorizontalBeamDetail
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",HorizontalBeamDetail"
 msgid "短横梁，可以承受重量。"
-msgstr "重量に耐えられる短いビーム。"
+msgstr "重量に耐えられる短い梁。"
 
 #. Key:	Input
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5135,7 +5426,7 @@ msgstr "石屋根（20度）"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",Roof45"
 msgid "茅草屋顶(45度)"
-msgstr "茅葺屋根（45度）"
+msgstr "かやぶき屋根（45度）"
 
 #. Key:	Roof45_02
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5170,7 +5461,7 @@ msgstr "梁または柱"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",Roof45Detail"
 msgid "茅草屋顶，可以一定程度起到遮风挡雨的作用。"
-msgstr "茅葺き屋根は風雨をある程度防ぐことができます。"
+msgstr "かやぶき屋根は風雨をある程度防ぐことができます。"
 
 #. Key:	RoofBase
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5219,7 +5510,7 @@ msgstr "内側コーナールーフの連結用。"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofEnd01"
 msgid "茅草屋檐(小)"
-msgstr "茅葺き軒（小）"
+msgstr "かやぶき屋根（小）"
 
 #. Key:	RoofEnd01_02
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5247,7 +5538,7 @@ msgstr "水平または垂直軒"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofEnd02"
 msgid "茅草屋檐(连接)"
-msgstr "かやぶき軒（つなぎ）"
+msgstr "かやぶき屋根（つなぎ）"
 
 #. Key:	RoofEnd02_02
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5261,7 +5552,7 @@ msgstr "石軒（つなぎ）"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofEnd2_20"
 msgid "茅草屋檐(20度竖向)"
-msgstr "かやぶき軒（垂直20度）"
+msgstr "かやぶき屋根（垂直20度）"
 
 #. Key:	RoofEnd2_20_02
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5275,7 +5566,7 @@ msgstr "石庇（縦20度）"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofEnd3Intersection"
 msgid "茅草屋檐(连接横向)"
-msgstr "茅葺き軒（横つなぎ）"
+msgstr "かやぶき屋根（横つなぎ）"
 
 #. Key:	RoofEnd3Intersection_02
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5289,7 +5580,7 @@ msgstr "石庇（横つなぎ）"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofEndHorizontal"
 msgid "茅草屋檐(横)"
-msgstr "茅葺き軒（横）"
+msgstr "かやぶき屋根（横）"
 
 #. Key:	RoofEndHorizontal_02
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5429,14 +5720,14 @@ msgstr "かやぶき屋根（片端）"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofTop_Wood_05"
 msgid "茅草屋顶(单格无连接)"
-msgstr "茅葺き屋根（連接なし単セル）"
+msgstr "かやぶき屋根（連接なし単セル）"
 
 #. Key:	RoofTop_Wood_06
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofTop_Wood_06"
 msgid "茅草屋顶(单格三通)"
-msgstr "茅葺き屋根（単格子ティー）"
+msgstr "かやぶき屋根（単格子ティー）"
 
 #. Key:	Stairs
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5632,7 +5923,7 @@ msgstr "それを絞ってください。"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",WoodFoundation"
 msgid "木材地基"
-msgstr "ウッドファンデーション"
+msgstr "木材基礎"
 
 #. Key:	WoodFoundationDetail
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5772,14 +6063,14 @@ msgstr "鉄の門"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B26"
 msgid "茅草屋顶(45度连接)"
-msgstr "茅葺屋根（45度目地）"
+msgstr "かやぶき屋根（45度目地）"
 
 #. Key:	B27
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B27"
 msgid "茅草屋檐(三角)"
-msgstr "茅葺き軒（三角）"
+msgstr "かやぶき軒（三角）"
 
 #. Key:	B28
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -5947,7 +6238,7 @@ msgstr "木炭炉"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B49"
 msgid "烹饪台"
-msgstr "クッキングステーション"
+msgstr "調理台"
 
 #. Key:	B5
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -5996,7 +6287,7 @@ msgstr "先端化学反応装置"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B55"
 msgid "纺织机"
-msgstr "繊維機械"
+msgstr "裁縫機械"
 
 #. Key:	B56
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6017,7 +6308,7 @@ msgstr "電気ミシン"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B58"
 msgid "烟熏架"
-msgstr "喫煙ラック"
+msgstr "燻製ラック"
 
 #. Key:	B59
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6094,7 +6385,7 @@ msgstr "スイッチ"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B68"
 msgid "草席"
-msgstr "筵"
+msgstr "草のベッド"
 
 #. Key:	B69
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6493,7 +6784,7 @@ msgstr "バックパック"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,A6"
 msgid "T-shirt"
-msgstr ""
+msgstr "Ｔシャツ"
 
 #. Key:	A7
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -6535,70 +6826,70 @@ msgstr "桃"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F100"
 msgid "冶金（二卷）"
-msgstr "冶金（2巻）"
+msgstr "冶金学(第2巻）"
 
 #. Key:	F101
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F101"
 msgid "冶金（三卷）"
-msgstr "冶金学 (3 巻)"
+msgstr "冶金学(第3巻）"
 
 #. Key:	F102
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F102"
 msgid "冶金（四卷）"
-msgstr "冶金学（全4巻）"
+msgstr "冶金学(第4巻）"
 
 #. Key:	F103
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F103"
 msgid "冶金（五卷）"
-msgstr "冶金学 (全 5 巻)"
+msgstr "冶金学 (第5巻)"
 
 #. Key:	F104
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F104"
 msgid "工程学（一卷）"
-msgstr "エンジニアリング（1冊）"
+msgstr "エンジニアリング(第1巻）"
 
 #. Key:	F105
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F105"
 msgid "工程学（二卷）"
-msgstr "エンジニアリング (全 2 巻)"
+msgstr "エンジニアリング(第2巻）"
 
 #. Key:	F106
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F106"
 msgid "工程学（三卷）"
-msgstr "エンジニアリング（全3巻）"
+msgstr "エンジニアリング(第3巻）"
 
 #. Key:	F107
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F107"
 msgid "工程学（四卷）"
-msgstr "エンジニアリング（全4巻）"
+msgstr "エンジニアリング(第4巻）"
 
 #. Key:	F108
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F108"
 msgid "工程学（五卷）"
-msgstr "エンジニアリング (全 5 巻)"
+msgstr "エンジニアリング(第5巻）"
 
 #. Key:	F109
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F109"
 msgid "武器大师（一卷）"
-msgstr "武器の達人 (ボリューム 1)"
+msgstr "マスター・オブ・ウェポンズ (第1巻)"
 
 #. Key:	F11
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -6619,49 +6910,49 @@ msgstr "マスター・オブ・ウェポンズ (第2巻)"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F111"
 msgid "武器大师（三卷）"
-msgstr "マスター・オブ・ウェポンズ (全3巻)"
+msgstr "マスター・オブ・ウェポンズ (第3巻)"
 
 #. Key:	F112
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F112"
 msgid "武器大师（四卷）"
-msgstr "マスター・オブ・アームズ (全4巻)"
+msgstr "マスター・オブ・ウェポンズ (第4巻)"
 
 #. Key:	F113
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F113"
 msgid "武器大师（五卷）"
-msgstr "武器の達人 (全5巻)"
+msgstr "マスター・オブ・ウェポンズ (第5巻)"
 
 #. Key:	F114
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F114"
 msgid "烹饪（一卷）"
-msgstr "調理（1ロール）"
+msgstr "調理(第1巻)"
 
 #. Key:	F115
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F115"
 msgid "烹饪（二卷）"
-msgstr "クッキング（全2巻）"
+msgstr "調理(第2巻)"
 
 #. Key:	F116
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F116"
 msgid "烹饪（四卷）"
-msgstr "クッキング（全4巻）"
+msgstr "調理(第4巻)"
 
 #. Key:	F117
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F117"
 msgid "烹饪（五卷）"
-msgstr "クッキング（全5巻）"
+msgstr "調理(第5巻)"
 
 #. Key:	F118
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -6822,7 +7113,7 @@ msgstr "ウサギ"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F150"
 msgid "烹饪（三卷）"
-msgstr "クッキング（全3巻）"
+msgstr "調理(第3巻)"
 
 #. Key:	F16
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -6857,7 +7148,7 @@ msgstr "小麦"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F20"
 msgid "蜂蜜"
-msgstr "ハニー"
+msgstr "蜂蜜"
 
 #. Key:	F21
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7270,7 +7561,7 @@ msgstr "美味しい肉の缶詰"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F74"
 msgid "养殖与种田（一卷）"
-msgstr "繁殖と農業（1巻）"
+msgstr "繁殖と農業（第 1 巻）"
 
 #. Key:	F75
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7284,28 +7575,28 @@ msgstr "繁殖と農業 (第 2 巻)"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F76"
 msgid "养殖与种田（三卷）"
-msgstr "繁殖と農業 (全 3 巻)"
+msgstr "繁殖と農業 (第 3 巻)"
 
 #. Key:	F77
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F77"
 msgid "养殖与种田（四卷）"
-msgstr "繁殖と農業 (全 4 巻)"
+msgstr "繁殖と農業 (第 4 巻)"
 
 #. Key:	F78
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F78"
 msgid "养殖与种田（五卷）"
-msgstr "繁殖と農業 (全 5 巻)"
+msgstr "繁殖と農業 (第 5 巻)"
 
 #. Key:	F79
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F79"
 msgid "医学（一卷）"
-msgstr "薬（一冊）"
+msgstr "医学（第 1 巻）"
 
 #. Key:	F8
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7319,35 +7610,35 @@ msgstr "キュウリ"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F80"
 msgid "医学（二卷）"
-msgstr "医学（2巻）"
+msgstr "医学（第 2 巻）"
 
 #. Key:	F81
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F81"
 msgid "医学（三卷）"
-msgstr "医学（全3巻）"
+msgstr "医学（第 3 巻）"
 
 #. Key:	F82
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F82"
 msgid "医学（四卷）"
-msgstr "医学（全4巻）"
+msgstr "医学（第 4 巻）"
 
 #. Key:	F83
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F83"
 msgid "医学（五卷）"
-msgstr "医学（全5巻）"
+msgstr "医学（第 5 巻）"
 
 #. Key:	F84
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F84"
 msgid "电气化学科（一卷）"
-msgstr "電気化学（一冊）"
+msgstr "電気化学（第 1 巻）"
 
 #. Key:	F85
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7361,28 +7652,28 @@ msgstr "電気化学 (第 2 巻)"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F86"
 msgid "电气化学科（三卷）"
-msgstr "電気化学 (全 3 巻)"
+msgstr "電気化学 (第 3 巻)"
 
 #. Key:	F87
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F87"
 msgid "电气化学科（四卷）"
-msgstr "電気化学（全4巻）"
+msgstr "電気化学（第 4 巻）"
 
 #. Key:	F88
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F88"
 msgid "电气化学科（五卷）"
-msgstr "電気化学 (全 5 巻)"
+msgstr "電気化学 (第 5 巻)"
 
 #. Key:	F89
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F89"
 msgid "机械（一卷）"
-msgstr "機械類（一冊）"
+msgstr "機械類（第 1 巻）"
 
 #. Key:	F9
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7396,70 +7687,70 @@ msgstr "ラズベリー"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F90"
 msgid "机械（二卷）"
-msgstr "機械類（全2巻）"
+msgstr "機械類（第 2 巻）"
 
 #. Key:	F91
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F91"
 msgid "机械（三卷）"
-msgstr "機械（全3巻）"
+msgstr "機械（第 3 巻）"
 
 #. Key:	F92
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F92"
 msgid "机械（四卷）"
-msgstr "機械（全4巻）"
+msgstr "機械（第 4 巻）"
 
 #. Key:	F93
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F93"
 msgid "机械（五卷）"
-msgstr "機械（全5巻）"
+msgstr "機械（第 5 巻）"
 
 #. Key:	F94
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F94"
 msgid "裁缝（一卷）"
-msgstr "テーラー (ボリューム 1)"
+msgstr "テーラー (第 1 巻)"
 
 #. Key:	F95
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F95"
 msgid "裁缝（二卷）"
-msgstr "テーラー（全2巻）"
+msgstr "テーラー（第 2 巻）"
 
 #. Key:	F96
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F96"
 msgid "裁缝（三卷）"
-msgstr "テーラー (全 3 巻)"
+msgstr "テーラー (第 3 巻)"
 
 #. Key:	F97
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F97"
 msgid "裁缝（四卷）"
-msgstr "テーラー (全 4 巻)"
+msgstr "テーラー (第 4 巻)"
 
 #. Key:	F98
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F98"
 msgid "裁缝（五卷）"
-msgstr "テーラー（全5巻）"
+msgstr "テーラー（第 5 巻）"
 
 #. Key:	F99
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F99"
 msgid "冶金（一卷）"
-msgstr "冶金学 (ボリューム 1)"
+msgstr "冶金学 (第 1 巻)"
 
 #. Key:	G1
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7494,14 +7785,14 @@ msgstr "スナイパーライフルストック"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,G13"
 msgid "762扩容弹夹"
-msgstr "762拡張マガジン"
+msgstr "7.62拡張マガジン"
 
 #. Key:	G14
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,G14"
 msgid "556扩容弹夹"
-msgstr "556拡張マガジン"
+msgstr "5.56拡張マガジン"
 
 #. Key:	G15
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7585,7 +7876,7 @@ msgstr "ホログラフィックサイト"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M1"
 msgid "原木"
-msgstr "ログ"
+msgstr "原木"
 
 #. Key:	M10
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7788,7 +8079,7 @@ msgstr "ゴム"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M36"
 msgid "石油"
-msgstr "油"
+msgstr "石油"
 
 #. Key:	M37
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7816,7 +8107,7 @@ msgstr "電線"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M4"
 msgid "木板"
-msgstr "ボード"
+msgstr "木板"
 
 #. Key:	M40
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8775,21 +9066,21 @@ msgstr "イタリアの散弾銃"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W51"
 msgid "762弹药"
-msgstr "762 弾薬"
+msgstr "7.62口径の弾薬"
 
 #. Key:	W52
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W52"
 msgid "556弹药"
-msgstr "556弾薬"
+msgstr "5.56口径の弾薬"
 
 #. Key:	W53
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W53"
 msgid "9mm弹药"
-msgstr "9mm弾薬"
+msgstr "5.56口径の弾薬"
 
 #. Key:	W54
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9040,8 +9331,12 @@ msgstr "戻る"
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,BackSave"
-msgid "你确定要用这个存档覆盖之前的存档吗？\r\n注意覆盖以后之前的存档无法恢复"
-msgstr "前回の保存をこの保存で上書きしてもよろしいですか?\r\n上書き後、以前のアーカイブを復元することはできませんのでご注意ください"
+msgid ""
+"你确定要用这个存档覆盖之前的存档吗？\r\n"
+"注意覆盖以后之前的存档无法恢复"
+msgstr ""
+"前回の保存をこの保存で上書きしてもよろしいですか?\r\n"
+"上書き後、以前のアーカイブを復元することはできませんのでご注意ください"
 
 #. Key:	BCG
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -9517,7 +9812,7 @@ msgstr "危害"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Day"
 msgid "天"
-msgstr "空"
+msgstr "日"
 
 #. Key:	DBD
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10356,8 +10651,12 @@ msgstr "視距離の質"
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,KTDetail"
-msgid "病毒抗体\r\n抗体为0就会死亡"
-msgstr "ウイルス抗体\r\n抗体が0だと死ぬ"
+msgid ""
+"病毒抗体\r\n"
+"抗体为0就会死亡"
+msgstr ""
+"ウイルス抗体\r\n"
+"抗体が0だと死ぬ"
 
 #. Key:	Language
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10665,7 +10964,7 @@ msgstr "困難："
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,ND01"
 msgid "休闲"
-msgstr "レジャー"
+msgstr "易しい"
 
 #. Key:	ND02
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10826,14 +11125,14 @@ msgstr "必要な材料はありません"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,NotRead"
 msgid "我现在还看不懂这个或者这个我已经会了！"
-msgstr ""
+msgstr "私はまだこれを理解していないか、すでにこれを知っています!"
 
 #. Key:	NotUse
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,NotUse"
 msgid "正在使用中"
-msgstr "使用中で"
+msgstr "使用中です"
 
 #. Key:	NotUseState
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11161,8 +11460,14 @@ msgstr "内部の燃料が少なすぎる"
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SAVE"
-msgid "你可以建造一个床加快时间流逝\r\n\r\n游戏全程自动存档"
-msgstr "時間の経過を早めるためにベッドを作ることができます\r\n\r\nゲームはゲーム全体で自動的にアーカイブされます"
+msgid ""
+"你可以建造一个床加快时间流逝\r\n"
+"\r\n"
+"游戏全程自动存档"
+msgstr ""
+"時間の経過を早めるためにベッドを作ることができます\r\n"
+"\r\n"
+"ゲームはゲーム全体で自動的にアーカイブされます"
 
 #. Key:	Save
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11295,7 +11600,7 @@ msgstr "サイズ"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SJ"
 msgid "采集"
-msgstr ""
+msgstr "採集"
 
 #. Key:	SkinColor
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11553,8 +11858,14 @@ msgstr "夏"
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SW11"
-msgid "在打开箱子的状态下，左键单击物品可以快速转移。\r\n\r\n拖动物品中按下R旋转物品方向。"
-msgstr "箱を開けた状態でアイテムを左クリックすると素早く転送できます。\r\n\r\nR キーを押しながらアイテムをドラッグすると、アイテムの方向が回転します。"
+msgid ""
+"在打开箱子的状态下，左键单击物品可以快速转移。\r\n"
+"\r\n"
+"拖动物品中按下R旋转物品方向。"
+msgstr ""
+"箱を開けた状態でアイテムを左クリックすると素早く転送できます。\r\n"
+"\r\n"
+"R キーを押しながらアイテムをドラッグすると、アイテムの方向が回転します。"
 
 #. Key:	SY
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11644,8 +11955,12 @@ msgstr "鉱石から製錬するか、アイテムを分解して入手し、製
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TLDetail"
-msgid "体力\r\n每减少30点体力，伤害降低25%（不影响枪械）"
-msgstr "体力\r\nHP30ポイントごとに、ダメージが25%減少する(火器には影響しない)"
+msgid ""
+"体力\r\n"
+"每减少30点体力，伤害降低25%（不影响枪械）"
+msgstr ""
+"体力\r\n"
+"HP30ポイントごとに、ダメージが25%減少する(火器には影響しない)"
 
 #. Key:	toLen
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12114,7 +12429,7 @@ msgstr "（汚い水）"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,WaterNull"
 msgid "(空)"
-msgstr "（ヌル）"
+msgstr "（空）"
 
 #. Key:	WaterSource
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12190,8 +12505,12 @@ msgstr "兵器製造"
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,wsDetail"
-msgid "卫生\r\n影响丧尸发现几率，影响伤口感染几率，过低影响心情回复"
-msgstr "健康\r\nゾンビの発見の可能性に影響を与え、傷の感染の可能性に影響を与え、低すぎると気分の回復に影響を与えます"
+msgid ""
+"卫生\r\n"
+"影响丧尸发现几率，影响伤口感染几率，过低影响心情回复"
+msgstr ""
+"健康\r\n"
+"ゾンビの発見の可能性に影響を与え、傷の感染の可能性に影響を与え、低すぎると気分の回復に影響を与えます"
 
 #. Key:	WXL
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12563,4 +12882,3 @@ msgstr "全容積"
 msgctxt "UI,ZZ"
 msgid "一小包种子"
 msgstr "種子の小さなパケット"
-
