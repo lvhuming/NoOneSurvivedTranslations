@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
 "POT-Creation-Date: 2023-01-26 02:33\n"
-"PO-Revision-Date: 2023-02-07 19:33+0100\n"
+"PO-Revision-Date: 2023-02-08 09:39+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: cs\n"
@@ -19,7 +19,7 @@ msgstr ""
 #: /Game/Blueprint/UMG/Inventory/WBP_UseMenu.WBP_UseMenu_C:WidgetTree.TextBlock_9.Text
 msgctxt ",005986EF48789316B83C53885CBD1FB8"
 msgid "清洗"
-msgstr "Umývaní"
+msgstr "Umýt"
 
 #. Key:	00986F3D49F50B3B8F6203A93FD5D846
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_SPX.WBP_SPX_C:WidgetTree.development.Text
@@ -297,7 +297,7 @@ msgstr "Čas pálení: 0"
 #: /Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_7.TipMessage_41_0D1B7B6342180F0BD1D386A6C8ADE0B3
 msgctxt ",0C797E8E40ACBD720B57B4B33B461ADD"
 msgid "疟疾几率"
-msgstr "Pravděpodobnost výskytu malárie"
+msgstr "Odolnost vůči malárii"
 
 #. Key:	0D2F9EF34F24FE1D4DE8229B65941BC4
 #. SourceLocation:	/Game/Blueprint/ACF/Player/HDCK_CharacterBP.Default__HDCK_CharacterBP_C.TimeBuffDetail(0).TimeBuffDetail.TipMessage_56_5402F47A4785659B27440099C7CA676D
@@ -1059,7 +1059,7 @@ msgstr "Revolver"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_8.Text
 msgctxt ",2F46E1564B04071A0A7C099CB780BDDF"
 msgid "裁缝+"
-msgstr "Krejčí+"
+msgstr "Krejčovství+"
 
 #. Key:	3051ED674341FDB383BE0B83E0E7BD19
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_41.In Text
@@ -1462,7 +1462,7 @@ msgstr "Příslušenství"
 #: Text
 msgctxt ",46B50F714E10C8FD62349C9785EEC24C"
 msgid "弹壳"
-msgstr "Nábojová schránka"
+msgstr "Nábojnice"
 
 #. Key:	47EBB11749CBF554F52B1DB52622AD20
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_CSZ.WBP_CSZ_C:WidgetTree.TextBlock_0.Text
@@ -1603,7 +1603,7 @@ msgstr "Hliníková láhev"
 #: /Game/Blueprint/UMG/WBP_BaseCharacter.WBP_BaseCharacter_C:WidgetTree.TBFY.Text
 msgctxt ",4F6CA9F740AD80289ECEDDBB2EBB5BC8"
 msgid "头部防御"
-msgstr "Ochrana Hlavy"
+msgstr "Ochrana hlavy"
 
 #. Key:	4FB41E114459F569BCE7BC99E7DB61C6
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/E_FireMode.E_FireMode.DisplayNameMap(2 - Value).DisplayNameMap
@@ -3595,7 +3595,7 @@ msgstr "Krátký jednoruční nůž"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_25.Text
 msgctxt ",B63C9BF848D421CDC99F7A9777C7CCF3"
 msgid "体力-"
-msgstr "Výdrž-"
+msgstr "Energie-"
 
 #. Key:	B75273964C8DC04BECCD7D948C4211FE
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/StartUIEnum.StartUIEnum.DisplayNameMap(4 - Value).DisplayNameMap
@@ -3870,7 +3870,7 @@ msgstr "Přívod vody"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_14.Text
 msgctxt ",C63B559A430C8967E980F183A98EDD89"
 msgid "钝器+"
-msgstr "Tupé nástroje +"
+msgstr "Tupé zbraně +"
 
 #. Key:	C6F2900D49551E8DDA715CA2260FE3C0
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Materials/AutoCreate/BP_Mat_DZLNQ01.Default__BP_Mat_DZLNQ01_C.ItemInfo.Description
@@ -4656,7 +4656,7 @@ msgstr "Studna"
 #: /Game/Blueprint/ACF/Tutorial/WBP_TutorialTip4.WBP_TutorialTip4_C:WidgetTree.TextBlock_3.Text
 msgctxt ",ED3DEEE7483A3B7BD7809285213F3032"
 msgid "在这里尝试规划下地基试试"
-msgstr "Zkuste si naplánovat své základy zde"
+msgstr "Zkuste si zde naplánovat základy"
 
 #. Key:	ED70D7E14572183967F87E884BA931B8
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_YSSJQ.WBP_YSSJQ_C:WidgetTree.TextBlock_2.Text
@@ -4802,7 +4802,7 @@ msgstr "Málo vody!"
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_GameSetting.Default__WBP_GameSetting_C.SSQDSelect(3).SSQDSelect
 msgctxt ",F43A38CA419B4DC62020BDA1712DC2C8"
 msgid "极强"
-msgstr "extrémně silný"
+msgstr "Extrémní"
 
 #. Key:	F4BF7A6C48622D449AFBF195173F9A89
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/WBP_RoomSlot.WBP_RoomSlot_C:ExecuteUbergraph_WBP_RoomSlot [Script Bytecode]
@@ -9469,7 +9469,7 @@ msgstr "Zadejte prosím platný název archivu, nebo existuje archiv se stejným
 #: /Game/LocalizationText/UIStudy.UIStudy
 msgctxt "UI,CF"
 msgid "裁缝"
-msgstr "Krejčí"
+msgstr "Krejčovství"
 
 #. Key:	ChangAn
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -9805,7 +9805,7 @@ msgstr "Napájení:"
 #: /Game/LocalizationText/UIStudy.UIStudy
 msgctxt "UI,DQ"
 msgid "钝器"
-msgstr "Tupé zbraňe"
+msgstr "Tupé zbraně"
 
 #. Key:	Drink
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10386,7 +10386,7 @@ msgstr "Připojte se k multiplayeru"
 #: /Game/LocalizationText/UIStudy.UIStudy
 msgctxt "UI,JX"
 msgid "机械"
-msgstr "Stroje"
+msgstr "Strojní zařízení"
 
 #. Key:	JXX
 #. SourceLocation:	/Game/LocalizationText/UIStudy.UIStudy
@@ -10754,7 +10754,7 @@ msgstr "Získávání vytrvalosti"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Name"
 msgid "名称："
-msgstr "Název:"
+msgstr "Jméno:"
 
 #. Key:	NAME01
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11069,7 +11069,7 @@ msgstr "Odblokovat"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,physicalstrength"
 msgid "体力"
-msgstr "Výdrž"
+msgstr "Fyzická síla"
 
 #. Key:	Pot01
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11209,7 +11209,7 @@ msgstr "Ukončení hry"
 #: /Game/LocalizationText/UIStudy.UIStudy
 msgctxt "UI,QX"
 msgid "枪械"
-msgstr "Střelná zbraň"
+msgstr "Střelné zbraně"
 
 #. Key:	QXBY
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11572,21 +11572,21 @@ msgstr "Počet zabitých zombie:"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,SSND01"
 msgid "弱"
-msgstr "Slabý"
+msgstr "Slabé"
 
 #. Key:	SSND02
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,SSND02"
 msgid "一般"
-msgstr "Obecné"
+msgstr "Normální"
 
 #. Key:	SSND03
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,SSND03"
 msgid "强"
-msgstr "Silný"
+msgstr "Silné"
 
 #. Key:	SSQD
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11767,7 +11767,7 @@ msgstr "Odpojení od zaseknutého chlazení"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,TipName"
 msgid "请输入一个名字！"
-msgstr "Napiš název!"
+msgstr "Napiš jméno!"
 
 #. Key:	TLD
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11784,8 +11784,8 @@ msgid ""
 "体力\r\n"
 "每减少30点体力，伤害降低25%（不影响枪械）"
 msgstr ""
-"Výdrž\r\n"
-"Poškození se snižuje o 25 % za každých 30 bodů snížené výdrže (nemá vliv na střelné zbraně)."
+"Energie\r\n"
+"Poškození se snižuje o 25 % za každých 30 bodů snížené energie (nemá vliv na střelné zbraně)."
 
 #. Key:	toLen
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11834,7 +11834,7 @@ msgstr "Kategorie:"
 #: /Game/LocalizationText/UIStudy.UIStudy
 msgctxt "UI,TZ"
 msgid "体质"
-msgstr "Výdrž"
+msgstr "Vitalita"
 
 #. Key:	TZBDF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -11855,7 +11855,7 @@ msgstr "Likvidátor virů"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZdetail"
 msgid "影响生命，耐力上限"
-msgstr "Ovlivňuje zdraví a výdrž"
+msgstr "Ovlivňuje zdraví a energii"
 
 #. Key:	TZFYF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -12051,14 +12051,14 @@ msgstr "Mistr zbraní"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZWSF"
 msgid "邋遢"
-msgstr "Lajdácký"
+msgstr "Špindíra"
 
 #. Key:	TZWSZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZWSZ"
 msgid "注重卫生"
-msgstr "Zaměřte se na hygienu"
+msgstr "Čistotný"
 
 #. Key:	TZXXF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
