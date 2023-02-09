@@ -333,7 +333,7 @@ msgstr "Espingarda R870"
 #: /Game/Blueprint/ACF/Tutorial/WBP_TutorialTip5.WBP_TutorialTip5_C:WidgetTree.TextBlock_2.Text
 msgctxt ",0FC7B32D443EA06EF7F13BB5DC4C9447"
 msgid "房屋的承重是需要梁柱的，你需要先规划梁柱，才可以建造墙体屋顶"
-msgstr "A estrutura da construção vigas e pilares. Portanto, é necessário planejar antes de construir paredes e telhados."
+msgstr "A estrutura da construção precisa de vigas e pilares. Portanto, é necessário planejar antes de construir paredes e telhados."
 
 #. Key:	102D232D42B74EA177476CB075A9B8A8
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(22 - Value).DisplayNameMap
@@ -431,14 +431,14 @@ msgstr "Saída de Água"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_71.In Text
 msgctxt ",1470933545C7CA2F2EB2BCA1D91B3008"
 msgid "制药仪"
-msgstr "Laboratório Médico Avançado"
+msgstr "Laboratório Médico"
 
 #. Key:	147BD87446DA956F29E07B807DB1FEF0
 #. SourceLocation:	/Game/Blueprint/UMG/UIBase/WBP_BookTipButton.Default__WBP_BookTipButton_C.Text
 #: /Game/Blueprint/UMG/UIBase/WBP_BookTipButton.Default__WBP_BookTipButton_C.Text
 msgctxt ",147BD87446DA956F29E07B807DB1FEF0"
 msgid "INVENTORY"
-msgstr "Inventário"
+msgstr "INVENTÁRIO"
 
 #. Key:	154ED8D64C85BD6A6CC743B96F98EB2D
 #. SourceLocation:	/Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_0.TipMessage_41_0D1B7B6342180F0BD1D386A6C8ADE0B3
@@ -508,7 +508,7 @@ msgstr "Necessário para Construção"
 #: /Game/Blueprint/ACF/Tutorial/WBP_TutorialTip0.WBP_TutorialTip0_C:WidgetTree.TextBlock.Text
 msgctxt ",18D5F7B74B0E79F884A695A19024F3EF"
 msgid "按下空格跳过或翻越障碍物"
-msgstr "Pressione a tecla Espaço para pular ou escalar/subir em objetos"
+msgstr "Presiona la tecla Espacio para saltar o escalar objetos"
 
 #. Key:	194EB3E8475C76C56AC9DCB7390C606E
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/LongSharp/BP_LongSharpBase.Default__BP_LongSharpBase_C.ItemInfo.Name
@@ -592,7 +592,7 @@ msgstr "Ataque de Zumbis"
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_ServerSetting.WBP_ServerSetting_C:WidgetTree.ShowTex.Text
 msgctxt ",1B85FB3F4B6E685DBA702D9EFCF5328A"
 msgid "最大玩家数量："
-msgstr "Número de Jogadores: "
+msgstr "Máximo de Jogadores: "
 
 #. Key:	1B8B871648287619C492CB925DC2E815
 #. SourceLocation:	/Game/Blueprint/ACF/Tutorial/WBP_TutorialTip8.WBP_TutorialTip8_C:WidgetTree.TextBlock_2.Text
@@ -634,7 +634,7 @@ msgstr "Dormir"
 #: /Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(18).Mappings.PlayerMappableOptions.DisplayName
 msgctxt ",1CAC243149F48B43C8D50F8D440FC9C1"
 msgid "IA_OpenLight"
-msgstr "Iluminação"
+msgstr "Iluminar"
 
 #. Key:	1CCC10BB4AD081DB620F09A1FD46FBFB
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_15.Text
@@ -746,7 +746,7 @@ msgstr "Modo Tiro Único"
 #: /Game/Blueprint/UMG/WBP_ScreenMessage1.WBP_ScreenMessage1_C:WidgetTree.TextBlock_181.Text
 msgctxt ",224244E146D5DA4CDA33559117B53DEF"
 msgid "Tab"
-msgstr "Aba"
+msgstr "Tabulador"
 
 #. Key:	22C074F44EED2C76F551E9A06B6F8261
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(1 - Value).DisplayNameMap
@@ -865,7 +865,7 @@ msgstr "+"
 #: /Game/Blueprint/UMG/Furniture/WBP_YZ.WBP_YZ_C:WidgetTree.WBP_List.In Text
 msgctxt ",27C35DA247B66F5B2B6BF7B3590E504A"
 msgid "列表"
-msgstr "a lista"
+msgstr "Lista"
 
 #. Key:	2825D84B46503305B687FE865D440131
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_63.In Text
@@ -1019,7 +1019,7 @@ msgstr "Entrada de Água"
 #: /Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_Shotgun_870AC.Default__ACFGunBase_Shotgun_870AC_C.ItemInfo.Name
 msgctxt ",2EC9902C478615FCA75C28A0E31A6F3B"
 msgid "870AC"
-msgstr "Espingarda Remington 870"
+msgstr "Espingarda R870"
 
 #. Key:	2ECDFCFA49898CD10A445C8EF1757C70
 #. SourceLocation:	/Game/Blueprint/ACF/Tutorial/WBP_TutorialTip0.WBP_TutorialTip0_C:WidgetTree.TextBlock_140.Text
@@ -1649,7 +1649,7 @@ msgstr "Extremidade do Telhado"
 #: /Game/Blueprint/UMG/WBP_GetWater.WBP_GetWater_C:WidgetTree.TextBlock_57.Text
 msgctxt ",5604627744E8324B0E9AAB96BB219D3A"
 msgid "拖入容器装水"
-msgstr "Arraste para o recipiente para encher de água"
+msgstr "Arraste o recipiente para encher de água"
 
 #. Key:	569DFDE54CD2C05CA841E4AED49216C0
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_SPX.WBP_SPX_C:WidgetTree.development.ToolTipText
@@ -1789,7 +1789,7 @@ msgstr "Ciclo"
 #: /Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(9 - Value).DisplayNameMap
 msgctxt ",5B360E93460F8D8C091AE28009A197B1"
 msgid "SitDownFront"
-msgstr "Dianteira"
+msgstr "Sentar a Frente"
 
 #. Key:	5B53C1EF463DB509CD48E7A4DDD3F482
 #. SourceLocation:	/Game/Blueprint/Car/InCarMode.InCarMode.DisplayNameMap(1 - Value).DisplayNameMap
@@ -1845,7 +1845,7 @@ msgstr "Chance de Queda"
 #: /Game/Blueprint/UMG/EscMenu/ScreenSwitch.ScreenSwitch.DisplayNameMap(0 - Value).DisplayNameMap
 msgctxt ",5E098A8946EBB7A59DF5BD89A73B1B12"
 msgid "ScreenSet"
-msgstr "Conjunto de telas"
+msgstr "Tela"
 
 #. Key:	5E1ED50C47DD8CFA5174619CFC27D2F2
 #. SourceLocation:	/Game/Blueprint/UMG/EscMenu/WBP_Setting.Default__WBP_Setting_C.Setting(3).Setting
