@@ -1600,7 +1600,7 @@ msgstr "В машине"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_98.In Text
 msgctxt ",5159A35C4632DF45C427CC9981E0117D"
 msgid "滤芯"
-msgstr "элемент фильтра"
+msgstr "фильтрующий модуль"
 
 #. Key:	5266199243DBCAB57A9139B087C1733C
 #. SourceLocation:	/Game/HDCKBuildingSystem/Table/E_SelectTypeChild.E_SelectTypeChild.DisplayNameMap(4 - Value).DisplayNameMap
@@ -3973,7 +3973,7 @@ msgstr "Не удалось присоединиться!"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_28.In Text
 msgctxt ",D35518064C2D768EC2C3538AA59470B8"
 msgid "水培箱"
-msgstr "ящик для водных культур"
+msgstr "грядка с автополивом"
 
 #. Key:	D3E6F2304D378E9FF9B1678623A9E744
 #. SourceLocation:	/Game/Blueprint/AI/ZombieState.ZombieState.DisplayNameMap(0 - Value).DisplayNameMap
@@ -4414,7 +4414,7 @@ msgstr "солнце"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_22.Text
 msgctxt ",E8B6EDFE452CE11F69B4D49227417DC4"
 msgid "口渴-"
-msgstr "Жаждущий-"
+msgstr "Вода-"
 
 #. Key:	E8C8CCB144B38610F0562CAC8A724AFA
 #. SourceLocation:	/Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(21).Mappings.PlayerMappableOptions.DisplayName
@@ -6024,7 +6024,7 @@ msgstr "коптильня"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B59"
 msgid "培植箱"
-msgstr "Коробка для выращивания"
+msgstr "грядка обыкновенная"
 
 #. Key:	B6
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6038,7 +6038,7 @@ msgstr "Деревянная стена (треугольник)"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B60"
 msgid "水培箱"
-msgstr "ящик для водных культур"
+msgstr "грядка с автополивом"
 
 #. Key:	B61
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6486,7 +6486,7 @@ msgstr "военная сумка"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,A5"
 msgid "登山包"
-msgstr "рюкзаки"
+msgstr "рюкзак"
 
 #. Key:	A6
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8446,7 +8446,7 @@ msgstr "Блок солнечных батарей 300Вт"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,T9"
 msgid "滤芯"
-msgstr "элемент фильтра"
+msgstr "фильтрующий модуль"
 
 #. Key:	W1
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -11743,7 +11743,7 @@ msgstr "перегруженный"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZFZZ"
 msgid "负重前行"
-msgstr "Перенести вперед"
+msgstr "переносимый вес"
 
 #. Key:	TZKCF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -11799,14 +11799,14 @@ msgstr "оптимизм"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZLLF"
 msgid "力气较小"
-msgstr "меньше мощности"
+msgstr "меньше сил"
 
 #. Key:	TZLLZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZLLZ"
 msgid "力大无穷"
-msgstr "бесконечная сила"
+msgstr "безграничная сила"
 
 #. Key:	TZNLF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -11932,7 +11932,7 @@ msgstr "беспечный"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZXXZ"
 msgid "细心"
-msgstr "осторожный"
+msgstr "внимательный"
 
 #. Key:	TZZLF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
