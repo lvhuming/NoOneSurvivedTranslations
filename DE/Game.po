@@ -3014,7 +3014,7 @@ msgstr "Lebensgrenze"
 #: /Game/Blueprint/ACF/Tutorial/WBP_TutorialTip4.WBP_TutorialTip4_C:WidgetTree.TextBlock_2.Text
 msgctxt ",9E4555E2446FA6BB1EAA7BBB6F27FD8A"
 msgid "打开建筑菜单面板，选择木材地基"
-msgstr "Öffnen Sie das Baumenü und wählen Sie Holzfundamente"
+msgstr "Öffne das Baumenü und wähle Holzfundamente"
 
 #. Key:	9E632F8949F56E68D88F799607625386
 #. SourceLocation:	/Game/Blueprint/UMG/EscMenu/WBP_Dead.WBP_Dead_C:ExecuteUbergraph_WBP_Dead [Script Bytecode]
@@ -3469,7 +3469,7 @@ msgstr "Bauhammer aufheben"
 #: /Game/Blueprint/ACF/Tutorial/WBP_TutorialTip7.WBP_TutorialTip7_C:WidgetTree.TextBlock_1.Text
 msgctxt ",B5E30E844D9DAB3740F010AE9E26C525"
 msgid "按下Esc退出，开始真正的生存吧"
-msgstr "Drücken Sie Esc, um das Spiel zu verlassen und mit dem echten Überleben zu beginnen"
+msgstr "Drücke ESC, um das Spiel zu verlassen und mit dem echten Überleben zu beginnen"
 
 #. Key:	B6010C16439371D4C6BA94A4171DBB18
 #. SourceLocation:	/Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(20).Mappings.PlayerMappableOptions.DisplayName
@@ -3518,7 +3518,7 @@ msgstr "Kultivierungsbox"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_29.Text
 msgctxt ",B87C1302490FEB17850EACA7A4DC8025"
 msgid "时间过去一天"
-msgstr "Ein Tag ist vergangen"
+msgstr "Ein Tag Vorlauf"
 
 #. Key:	B8A8A98F45439FF5C4B080AD967B6AD8
 #. SourceLocation:	/Game/Blueprint/UMG/NPCUMG/WBP_jy.WBP_jy_C:WidgetTree.Name.Text
@@ -4217,7 +4217,7 @@ msgstr "Tür"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",DoorHole"
 msgid "门洞"
-msgstr "Türöffnung"
+msgstr "Türrahmen"
 
 #. Key:	E0A8C10C4D611602E0E001BFDC5EA4DD
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_GameSetting.WBP_GameSetting_C:WidgetTree.TextBlock_140.Text
@@ -6786,7 +6786,7 @@ msgstr "Gemüsemahlzeit"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F133"
 msgid "美味菜药膳"
-msgstr "Leckeres Essen"
+msgstr "Schmackhaftes Essen"
 
 #. Key:	F134
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -6800,7 +6800,7 @@ msgstr "Fleischmahlzeit"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F135"
 msgid "美味肉药膳"
-msgstr "Schmackhaftes Fleischmahlzeit"
+msgstr "Schmackhafte Fleischmahlzeit"
 
 #. Key:	F14
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7087,7 +7087,7 @@ msgstr "Tomate"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F50"
 msgid "美味蜜汁炖肉"
-msgstr "Leckerer Honigeintopf"
+msgstr "Schmackhafter Honigeintopf"
 
 #. Key:	F51
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7465,7 +7465,7 @@ msgstr "Metallurgie (Band 1)"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,G1"
 msgid "手枪消音器"
-msgstr "Pistolenschalldämpfer"
+msgstr "Schalldämpfer für Pistolen"
 
 #. Key:	G10
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7528,7 +7528,7 @@ msgstr "Angewinkelter Vordergriff"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,G2"
 msgid "步枪消音器"
-msgstr "Gewehrschalldämpfer"
+msgstr "Schalldämpfer für Sturmgewehre"
 
 #. Key:	G3
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8536,7 +8536,7 @@ msgstr "Richten Sie den Mittelpunkt am zu fangenden Gebäude aus"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W20"
 msgid "铁锤"
-msgstr "Hammer"
+msgstr "Eisenhammer"
 
 #. Key:	W21
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9383,7 +9383,7 @@ msgstr "Aufladen"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,CHUANGKOU"
 msgid "窗口"
-msgstr "Fenster"
+msgstr "Bildmodus"
 
 #. Key:	CJ
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -9397,7 +9397,7 @@ msgstr "Erstellen"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,CJDRYX"
 msgid "创建多人游戏"
-msgstr "Erstellen Sie ein Multiplayer-Spiel"
+msgstr "Erstelle ein Multiplayer-Spiel"
 
 #. Key:	CJIng
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -9544,7 +9544,7 @@ msgstr "Verwelkt"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,decompose"
 msgid "拆解"
-msgstr "Zerlegen"
+msgstr "Abbau"
 
 #. Key:	decomposeing
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -9607,7 +9607,7 @@ msgstr "Magazin"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,DJZLJX01"
 msgid "点击这里继续"
-msgstr "Klicken Sie hier um, fortzufahren"
+msgstr "Klicke hier um, fortzufahren"
 
 #. Key:	DK
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -9845,7 +9845,7 @@ msgstr "Suche..."
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Finding"
 msgid "长按搜索"
-msgstr "Lange gedrückt halten um zu suchen"
+msgstr "gedrückt halten, um zu suchen"
 
 #. Key:	FireTime
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -9978,7 +9978,7 @@ msgstr "Energie"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,GR"
 msgid "感染"
-msgstr "Infizieren"
+msgstr "Behandlung von Infektionen"
 
 #. Key:	GX
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10343,7 +10343,7 @@ msgstr "Mir ist heiß"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,KRX"
 msgid "抗热"
-msgstr "Hitzebeständig"
+msgstr "Hitzewiderstand"
 
 #. Key:	KSJL
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10791,7 +10791,7 @@ msgstr "Kein Strom oder keine Zutaten"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,NotFireOrFood"
 msgid "没有火或者任何食材"
-msgstr "Kein Feuer oder andere Zutaten"
+msgstr "Kein Feuer oder keine Zutaten"
 
 #. Key:	NotLink
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10945,7 +10945,7 @@ msgstr "Körperliche Stärke"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Pot01"
 msgid "注意这个操作会删除锅内物品"
-msgstr "Beachten Sie, dass dieser Vorgang den Inhalt des Topfes löscht"
+msgstr "Beachte, dass dieser Vorgang den Inhalt des Topfes löscht"
 
 #. Key:	PR
 #. SourceLocation:	/Game/LocalizationText/UIStudy.UIStudy
@@ -11071,7 +11071,7 @@ msgstr "Verlassen"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,QUITGAME"
 msgid "退出游戏"
-msgstr "Verlässt das Spiel"
+msgstr "Spiel verlassen"
 
 #. Key:	QX
 #. SourceLocation:	/Game/LocalizationText/UIStudy.UIStudy
@@ -11161,8 +11161,14 @@ msgstr "Zu wenig Kraftstoff getankt"
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SAVE"
-msgid "你可以建造一个床加快时间流逝\r\n\r\n游戏全程自动存档"
-msgstr "Sie können ein Bett bauen, um die Zeit zu beschleunigen\r\n\r\nDas Spiel wird während des gesamten Spiels automatisch gespeichert."
+msgid ""
+"你可以建造一个床加快时间流逝\r\n"
+"\r\n"
+"游戏全程自动存档"
+msgstr ""
+"Sie können ein Bett bauen, um die Zeit zu beschleunigen\r\n"
+"\r\n"
+"Das Spiel wird während des gesamten Spiels automatisch gespeichert."
 
 #. Key:	Save
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11344,7 +11350,7 @@ msgstr "Händler"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SS001"
 msgid "我想和你学习"
-msgstr "Ich will von dir Lernen"
+msgstr "Ich will von dir lernen"
 
 #. Key:	SS02
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11414,7 +11420,7 @@ msgstr "Tschüss"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SS12"
 msgid "我想和你学习技能"
-msgstr "Ich möchte Fähigkeiten von Ihnen lernen"
+msgstr "Ich möchte Fähigkeiten von dir lernen"
 
 #. Key:	SS13
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11553,8 +11559,14 @@ msgstr "Sommer"
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SW11"
-msgid "在打开箱子的状态下，左键单击物品可以快速转移。\r\n\r\n拖动物品中按下R旋转物品方向。"
-msgstr "Klicken Sie beim Öffnen der Kiste mit der linken Maustaste auf den Gegenstand, um ihn schnell zu übertragen.\r\n\r\nDrücken Sie R, während Sie das Element ziehen, um den Gegenstand zu drehen."
+msgid ""
+"在打开箱子的状态下，左键单击物品可以快速转移。\r\n"
+"\r\n"
+"拖动物品中按下R旋转物品方向。"
+msgstr ""
+"Klicken Sie beim Öffnen der Kiste mit der linken Maustaste auf den Gegenstand, um ihn schnell zu übertragen.\r\n"
+"\r\n"
+"Drücken Sie R, während Sie das Element ziehen, um den Gegenstand zu drehen."
 
 #. Key:	SY
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11644,8 +11656,12 @@ msgstr "Wird aus Erz geschmolzen oder durch Zerlegen von Gegenständen erhalten,
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TLDetail"
-msgid "体力\r\n每减少30点体力，伤害降低25%（不影响枪械）"
-msgstr "Körperliche Stärke\r\nJe 30 HP-Punkte wird der Schaden um 25 % verringert (betrifft keine Schusswaffen)"
+msgid ""
+"体力\r\n"
+"每减少30点体力，伤害降低25%（不影响枪械）"
+msgstr ""
+"Körperliche Stärke\r\n"
+"Je 30 HP-Punkte wird der Schaden um 25 % verringert (betrifft keine Schusswaffen)"
 
 #. Key:	toLen
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11778,7 +11794,7 @@ msgstr "Geringes Durstgefühl"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,TZKSQ"
 msgid "调整开锁器位置"
-msgstr "Passen Sie die Entriegelungsposition an"
+msgstr "Passe die Entriegelungsposition an"
 
 #. Key:	TZLGF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -12030,7 +12046,7 @@ msgstr "Hergestellt mit fortschrittlicher chemischer Reaktionsausrüstung"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,useHammerBuild"
 msgid "使用建造锤建造"
-msgstr "Bauen Sie mit einem Bauhammer"
+msgstr "Baue mit einem Bauhammer"
 
 #. Key:	useHXFYT
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12190,8 +12206,12 @@ msgstr "Waffenherstellung"
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,wsDetail"
-msgid "卫生\r\n影响丧尸发现几率，影响伤口感染几率，过低影响心情回复"
-msgstr "Hygiene\r\n beeinträchtigt die Chance auf von Zombies enteckt zu werden, beeinträchtigt die Chance auf Wundinfektion, wenn sie zu niedrig ist beeinträchtigt sie die Stimmungslage"
+msgid ""
+"卫生\r\n"
+"影响丧尸发现几率，影响伤口感染几率，过低影响心情回复"
+msgstr ""
+"Hygiene\r\n"
+" beeinträchtigt die Chance auf von Zombies enteckt zu werden, beeinträchtigt die Chance auf Wundinfektion, wenn sie zu niedrig ist beeinträchtigt sie die Stimmungslage"
 
 #. Key:	WXL
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12563,4 +12583,3 @@ msgstr "Volle Lautstärke"
 msgctxt "UI,ZZ"
 msgid "一小包种子"
 msgstr "Kleine Packung Samen"
-
