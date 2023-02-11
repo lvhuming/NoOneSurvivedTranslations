@@ -39,7 +39,7 @@ msgstr "Ограждение"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_24.Text
 msgctxt ",014F3B6240A63915DEDF3CA9D50249E4"
 msgid "心情-"
-msgstr "Чувство-"
+msgstr "Настроение-"
 
 #. Key:	017C13554A303CDB96F5DAA161E199F6
 #. SourceLocation:	/Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_8.TipMessage_41_0D1B7B6342180F0BD1D386A6C8ADE0B3
@@ -186,7 +186,7 @@ msgstr "1"
 #: /Game/Blueprint/UMG/Furniture/WBP_PZX.WBP_PZX_C:WidgetTree.TextBlock_115.Text
 msgctxt ",083B1BA040DBE2557CB0B19B0D70C5E1"
 msgid "铲掉"
-msgstr "сгребать"
+msgstr "удалить"
 
 #. Key:	08932B364A170FBCBE3BC5A1DD392BF1
 #. SourceLocation:	/Game/Blueprint/UMG/InteractiveMessage/Interactive.Interactive.DisplayNameMap(3 - Value).DisplayNameMap
@@ -207,7 +207,7 @@ msgstr "И"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_17.Text
 msgctxt ",0928DBE0408A27E207C2D29145B40B53"
 msgid "满状态+"
-msgstr "полное состояние+"
+msgstr "макс. показатели+"
 
 #. Key:	096D56544FDEF1DB6D35EF95D685CC18
 #. SourceLocation:	/Game/Blueprint/ACF/Player/HDCK_CharacterBP.HDCK_CharacterBP_C:ExecuteUbergraph_HDCK_CharacterBP [Script Bytecode]
@@ -298,7 +298,7 @@ msgstr "Шанс малярии"
 #: /Game/Blueprint/ACF/Player/HDCK_CharacterBP.Default__HDCK_CharacterBP_C.TimeBuffDetail(0).TimeBuffDetail.TipMessage_56_5402F47A4785659B27440099C7CA676D
 msgctxt ",0D2F9EF34F24FE1D4DE8229B65941BC4"
 msgid "疟疾，减少耐力上限和回复"
-msgstr "Малярия, снижение предела выносливости и регенерации"
+msgstr "Малярия снижает предел выносливости и регенерации"
 
 #. Key:	0EAC4CF84F900A49A09DE09F240307B5
 #. SourceLocation:	/Game/Blueprint/UMG/WBP_BaseCharacter.WBP_BaseCharacter_C:WidgetTree.YZKX.Text
@@ -403,7 +403,7 @@ msgstr "Его часто используют для резки дерева, �
 #: /Game/Blueprint/ACF/Manager/E_Weather.E_Weather.DisplayNameMap(1 - Value).DisplayNameMap
 msgctxt ",12C0B13F40681758244398A58FCF8834"
 msgid "Snow"
-msgstr "Снег"
+msgstr "Снегопад"
 
 #. Key:	13214985457425F5E5AE71A38AC18920
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_JoinGame.WBP_JoinGame_C:WidgetTree.WBP_Join.In Text
@@ -620,7 +620,7 @@ msgstr "Параметр"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_20.Text
 msgctxt ",1C53B8C149A4115EE6BD2AAED1889ED4"
 msgid "工程学+"
-msgstr "Инжиниринг+"
+msgstr "Инженеринг+"
 
 #. Key:	1C8E2E414E42E2C00C40C680D11AF214
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_Bed.WBP_Bed_C:WidgetTree.TextBlock_140.Text
@@ -809,7 +809,7 @@ msgstr "все"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_43.Text
 msgctxt ",257D695A47DEEA3FFC5862BD1084FDE4"
 msgid "增加疟疾"
-msgstr "усиление малярии"
+msgstr "заразить малярией"
 
 #. Key:	258B8DCA4A30A8C003E35AA9CED8333D
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_33.In Text
@@ -1124,7 +1124,7 @@ msgstr "начало игры"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_38.Text
 msgctxt ",3557C6854B1448213BC35D9085C8312C"
 msgid "显示帧率"
-msgstr "Отображение частоты кадров"
+msgstr "Отображение FPS"
 
 #. Key:	35E6F36A420B9FDD3D238EADC6996DC0
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/SelectCharacter/WBP_SelectCharacterBegin.WBP_SelectCharacterBegin_C:WidgetTree.TextBlock_38.Text
@@ -1404,7 +1404,7 @@ msgstr "лето"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_27.Text
 msgctxt ",4561C52B440C86BCBAF41DA5A5C99F38"
 msgid "建筑物直接完成"
-msgstr "здание непосредственно завершено"
+msgstr "Творческий режим / выживание"
 
 #. Key:	45E4773D490169AB850A808635B4B555
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_PZX.WBP_PZX_C:WidgetTree.development.Text
@@ -1579,7 +1579,7 @@ msgstr "Авто"
 #: /Game/Blueprint/ACF/Player/HDCK_CharacterBP.Default__HDCK_CharacterBP_C.TimeBuffDetail(1).TimeBuffDetail.TipMessage_56_5402F47A4785659B27440099C7CA676D
 msgctxt ",508A302D479171AD2AFCB5BDF7BF0BD4"
 msgid "感染，大幅度持续掉血"
-msgstr "Инфекция, массивная непрерывная кровопотеря"
+msgstr "Инфекции приводят к сильной кровопотере"
 
 #. Key:	50923B86404D68B1F149ABBED6BFC293
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_61.In Text
@@ -2097,7 +2097,7 @@ msgstr "8Б"
 #: /Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_11.TipMessage_41_0D1B7B6342180F0BD1D386A6C8ADE0B3
 msgctxt ",6B154759470BA3F08F615E920930379E"
 msgid "疾跑耐力消耗"
-msgstr "Расход выносливости в спринте"
+msgstr "Расход выносливости во время бега"
 
 #. Key:	6B5672FE4B8FDF39CD26C8B2527E9E21
 #. SourceLocation:	/Game/Blueprint/UMG/NPCUMG/WBP_jy.WBP_jy_C:WidgetTree.GX.Text
@@ -2244,7 +2244,7 @@ msgstr "зима"
 #: /Game/Blueprint/ACF/Tutorial/WBP_TutorialTip8.WBP_TutorialTip8_C:WidgetTree.TextBlock_3.Text
 msgctxt ",716F5EBE49D73209F99CFA883796B315"
 msgid "使用稿子击碎石头"
-msgstr "Используйте скрипт, чтобы разбить камень"
+msgstr "Используйте кирку, чтобы разбить камень"
 
 #. Key:	719B3E1D4C94FB1547CDD4BD2E54B1B5
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_CarInventory.WBP_CarInventory_C:WidgetTree.TextBlock_84.Text
@@ -2335,7 +2335,7 @@ msgstr "1"
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_GameSetting.WBP_GameSetting_C:WidgetTree.TextBlock_4.Text
 msgctxt ",7617FC3A4D3F680AB0BBEBACBADB140C"
 msgid "倍"
-msgstr "раз"
+msgstr "Множитель"
 
 #. Key:	761F4D984F10527EA231C0B8CB66BEA4
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_31.Text
@@ -2517,7 +2517,7 @@ msgstr "Модель 01"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_18.Text
 msgctxt ",7E0D35D04487BF2FCA42F68796859048"
 msgid "生命值-"
-msgstr "жизненная ценность-"
+msgstr "Жизнь-"
 
 #. Key:	7E1AF86D4DF1A90B75698E8CE26CA187
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/Furniture_Base.Furniture_Base_C:ShowUI [Script Bytecode]
@@ -2965,7 +2965,7 @@ msgstr "В день {0}"
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_GameSetting.WBP_GameSetting_C:WidgetTree.SliderBD.ToolTipText
 msgctxt ",9ADCC17141C6AAA9B282CBA73B8AF4CC"
 msgid "提高病毒感染性，你需要更多抗体"
-msgstr "Чтобы повысить инфекционность вируса, нужно больше антител"
+msgstr "Чтобы снизить инфекцию от вируса, нужно много антител"
 
 #. Key:	9B6E782A4617B9BA87703EB8BE12EB15
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_JoinGame.WBP_JoinGame_C:ExecuteUbergraph_WBP_JoinGame [Script Bytecode]
@@ -3189,7 +3189,7 @@ msgstr "Пересечение крыши"
 #: /Game/Blueprint/UMG/WBP_Show.WBP_Show_C:WidgetTree.TextBlock_76.Text
 msgctxt ",AA46408A4903F4640EFF4DB0535DF1D9"
 msgid "游戏保存中，请勿关闭程序"
-msgstr "Игра сохраняется. Пожалуйста не закрывайте программу"
+msgstr "Идет сохранение. Не закрывайте игру"
 
 #. Key:	AA700A424A1CC79F89745D8B8E66743F
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_44.In Text
@@ -3448,7 +3448,7 @@ msgstr "Крыша"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_91.In Text
 msgctxt ",B53BE0D643F0BC85688ACCAC6E911CA2"
 msgid "762子弹"
-msgstr "762 пули"
+msgstr "7,62мм патроны"
 
 #. Key:	B57A00354900F30D42BACFBCF9434A53
 #. SourceLocation:	/Game/Blueprint/UMG/ChatSystem/WBP_ChatMenu.WBP_ChatMenu_C:WidgetTree.MessageBox.HintText
@@ -3518,7 +3518,7 @@ msgstr "инкубатор"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_29.Text
 msgctxt ",B87C1302490FEB17850EACA7A4DC8025"
 msgid "时间过去一天"
-msgstr "время прошедшего дня"
+msgstr "Время +1 день"
 
 #. Key:	B8A8A98F45439FF5C4B080AD967B6AD8
 #. SourceLocation:	/Game/Blueprint/UMG/NPCUMG/WBP_jy.WBP_jy_C:WidgetTree.Name.Text
@@ -3595,7 +3595,7 @@ msgstr "0"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_95.In Text
 msgctxt ",BB0420A948E6FE459983A0AF89A6845D"
 msgid "霰弹枪子弹"
-msgstr "Пуля для дробовика"
+msgstr "Патрон для дробовика"
 
 #. Key:	BB154E9F4CD911E0A5B38BA239AA67F0
 #. SourceLocation:	/Game/Blueprint/UMG/ScreenMessage/WBP_CarMessage.WBP_CarMessage_C:WidgetTree.UnitLabel_2.Text
@@ -4169,7 +4169,7 @@ msgstr "Сопротивл. оглушению"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_41.Text
 msgctxt ",DEB9042443EF069BF71FC19D24BE6A33"
 msgid "断肢增加"
-msgstr "увеличение количества сломанных конечностей"
+msgstr "Сломанные конечности +"
 
 #. Key:	DEE485DE4FE5DF283FA39FAD921CA4A4
 #. SourceLocation:	/Game/Blueprint/ACF/Player/HDCK_GameState.Default__HDCK_GameState_C:Team Manager.Teams(3 - Value).Teams.DisplayName
@@ -7823,7 +7823,7 @@ msgstr "доска"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M40"
 msgid "工具箱"
-msgstr "ящик для инструментов"
+msgstr "ящик с инструментами"
 
 #. Key:	M41
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7886,7 +7886,7 @@ msgstr "Чертежи фармацевтических инструментов
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M49"
 msgid "高级化学反应设备图纸"
-msgstr "Чертежи современного оборудования для химической реакции"
+msgstr "Чертежи современного оборудования для химических реакций"
 
 #. Key:	M5
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8397,7 +8397,7 @@ msgstr "отмычки"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,T26"
 msgid "油井核心"
-msgstr "Бур нефтяной скважины"
+msgstr "Нефтяной насос"
 
 #. Key:	T3
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8838,7 +8838,7 @@ msgstr "Используется для разбивания камней и с�
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,01"
 msgid "当食物新鲜度开始变黄，吃下去可能会感染疟疾，新鲜度越低感染的可能性越大。"
-msgstr "Когда свежесть пищи начинает желтеть, вы можете заразиться малярией после ее употребления. Чем ниже свежесть - тем больше вероятность заражения"
+msgstr "Когда полоска свежести пищи начинает желтеть, вы можете заразиться малярией после ее употребления. Чем ниже свежесть - тем больше вероятность заражения"
 
 #. Key:	02
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -8880,7 +8880,7 @@ msgstr "При использовании топора или кирки для 
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,07"
 msgid "将罐头单独加热可获得对应的菜品。"
-msgstr "Соответствующие блюда можно получить, нагревая банки по отдельности."
+msgstr "Разогревая консервированную еду, вы делаете блюда лучше"
 
 #. Key:	08
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -8915,7 +8915,7 @@ msgstr "Запертый шкаф или дверь можно открыть л
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,12"
 msgid "用小锤可以拆除某些物品获取材料。"
-msgstr "Некоторые предметы можно разобрать для получения материалов с помощью небольшого молотка"
+msgstr "Некоторые предметы можно разобрать с помощью молотка для получения материалов"
 
 #. Key:	13
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -8929,7 +8929,7 @@ msgstr "Застрял? Используй 'выбраться из тупика
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,14"
 msgid "人物前方近处有物体的话，可能会导致枪械无法瞄准。"
-msgstr "Если рядом с персонажем есть объект, это может привести к тому, что огнестрельное оружие не сможет прицелиться."
+msgstr "Если рядом с персонажем есть объект, это может привести к тому, что оружие дальнего боя не попадет в цель"
 
 #. Key:	15
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -9174,7 +9174,7 @@ msgstr "мебель"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,BuildingOutDoor"
 msgid "户外"
-msgstr "уличный"
+msgstr "улица"
 
 #. Key:	BuildingRoof
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -9279,7 +9279,7 @@ msgstr "управление транспортным средством"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,carbohydrate"
 msgid "碳水化合物"
-msgstr "углевод"
+msgstr "углеводы"
 
 #. Key:	CARHANG
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10357,7 +10357,7 @@ msgstr "качество визуального расстояния"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,KTDetail"
 msgid "病毒抗体\r\n抗体为0就会死亡"
-msgstr "вирусное антитело\r\nЕсли антитело равно 0, оно умрет."
+msgstr "вирусное антитело\r\nЕсли антитело равно 0, вы умрете"
 
 #. Key:	Language
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10553,7 +10553,7 @@ msgstr "Бровь"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,mood"
 msgid "心态"
-msgstr "мышление"
+msgstr "настроение"
 
 #. Key:	More
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11750,7 +11750,7 @@ msgstr "Перенести вперед"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZKCF"
 msgid "不擅交易"
-msgstr "Не силен в трейдинге"
+msgstr "Не силен в торговле"
 
 #. Key:	TZKCZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -11799,7 +11799,7 @@ msgstr "Оптимист"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZLLF"
 msgid "力气较小"
-msgstr "меньше мощности"
+msgstr "слабый"
 
 #. Key:	TZLLZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -11848,7 +11848,7 @@ msgstr "трудности в обучении"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZRAXXZ"
 msgid "热爱学习"
-msgstr "Люблю учиться"
+msgstr "Любит учиться"
 
 #. Key:	TZSDF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -11939,7 +11939,7 @@ msgstr "осторожный"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZZLF"
 msgid "嗜睡"
-msgstr "вялость"
+msgstr "сонливость"
 
 #. Key:	TZZLZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -12317,7 +12317,7 @@ msgstr "Ремонт прошел успешно"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,XLSQTQQ"
 msgid "使用油井核心修理"
-msgstr "Использовать ремонт бура скважины"
+msgstr "Осуществить ремонт нефтяного насоса"
 
 #. Key:	XSTJ
 #. SourceLocation:	/Game/LocalizationText/UI.UI
