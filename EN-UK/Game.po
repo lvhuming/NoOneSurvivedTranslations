@@ -1586,7 +1586,7 @@ msgstr "Infection, massive continuous bleeding"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_61.In Text
 msgctxt ",50923B86404D68B1F149ABBED6BFC293"
 msgid "密封排气机"
-msgstr "Sealed Exhaust"
+msgstr "Canning machine"
 
 #. Key:	50FA87E6460DCEB7FA6D9EA808DF7DA2
 #. SourceLocation:	/Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(12 - Value).DisplayNameMap
@@ -1831,7 +1831,7 @@ msgstr "SVD Sniper rifle"
 #: /Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_6.TipMessage_41_0D1B7B6342180F0BD1D386A6C8ADE0B3
 msgctxt ",5CB0A2B9434116D064FC0780EE57DE6A"
 msgid "耐力上限"
-msgstr "Endurance cap"
+msgstr "Stamina limit"
 
 #. Key:	5CEE296242EF06A6C8AF7BB44F1ACBA6
 #. SourceLocation:	/Game/Blueprint/UMG/WBP_BaseCharacter.WBP_BaseCharacter_C:WidgetTree.JDL.Text
@@ -3490,7 +3490,7 @@ msgstr "Short one-handed knife"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_25.Text
 msgctxt ",B63C9BF848D421CDC99F7A9777C7CCF3"
 msgid "体力-"
-msgstr "Physical strength-"
+msgstr "Exhaustion-"
 
 #. Key:	B75273964C8DC04BECCD7D948C4211FE
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/StartUIEnum.StartUIEnum.DisplayNameMap(4 - Value).DisplayNameMap
@@ -7466,7 +7466,7 @@ msgstr "Metallurgy (Volume 1)"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,G1"
 msgid "手枪消音器"
-msgstr "Pistol silencer"
+msgstr "Pistol suppressor"
 
 #. Key:	G10
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7529,7 +7529,7 @@ msgstr "Triangle grip"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,G2"
 msgid "步枪消音器"
-msgstr "Rifle silencer"
+msgstr "Rifle suppressor"
 
 #. Key:	G3
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7543,7 +7543,7 @@ msgstr "Rifle compensator"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,G4"
 msgid "冲锋枪消音器"
-msgstr "Submachine gun silencer"
+msgstr "Submachine gun suppressor"
 
 #. Key:	G5
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7557,7 +7557,7 @@ msgstr "Submachine gun compensator"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,G6"
 msgid "狙击枪消音器"
-msgstr "Sniper rifle silencer"
+msgstr "Sniper rifle suppressor"
 
 #. Key:	G7
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -10735,7 +10735,7 @@ msgstr "Malaria"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,NLSX"
 msgid "耐力上限"
-msgstr "Endurance cap"
+msgstr "Stamina limit"
 
 #. Key:	NoFireOrMat
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11491,7 +11491,7 @@ msgstr "Body"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,Stamina"
 msgid "耐力"
-msgstr "Endurance"
+msgstr "Stamina"
 
 #. Key:	Start
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11645,7 +11645,7 @@ msgstr "Smelted from ore, or obtained by dismantling items, which can be smelted
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TLDetail"
 msgid "体力\r\n每减少30点体力，伤害降低25%（不影响枪械）"
-msgstr "Physical strength\r\nFor every 30 points of HP, damage is reduced by 25% (does not affect firearms)"
+msgstr "Exhaustion\r\nFor every 30 points missing, damage is reduced by 25% (does not affect firearms)"
 
 #. Key:	toLen
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11820,7 +11820,7 @@ msgstr "Poor stamina"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZNLZ"
 msgid "耐力极好"
-msgstr "Excellent endurance"
+msgstr "Excellent Stamina"
 
 #. Key:	TZQSF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
