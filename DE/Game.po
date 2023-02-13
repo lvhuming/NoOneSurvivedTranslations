@@ -74,7 +74,7 @@ msgstr "Wiederherstellung fehlgeschlagen!"
 #: /Game/Blueprint/UMG/EscMenu/WBP_ScreenSetting.WBP_ScreenSetting_C:WidgetTree.WBP_NIS.Show In Text
 msgctxt ",0346655D46C4AF76A1D1B3943060F0AB"
 msgid "NIS锐化"
-msgstr "NIS-Schärfung"
+msgstr "NVIDIA Image Scaling-Schärfung"
 
 #. Key:	03C4AFA9436A2A9CEA6F87A9A52041FC
 #. SourceLocation:	/Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(13 - Value).DisplayNameMap
@@ -1516,7 +1516,7 @@ msgstr "Treibstoff"
 #: /Game/HDCKBuildingSystem/MeshBP/Foundation_SN.Default__Foundation_SN_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 msgctxt ",4CFDEABB453674874D3726BCC6F5775F"
 msgid "水泥制作的地基，看起来很结实，可以承受相当多的重量。"
-msgstr "Das Fundament aus Zement scheint sehr stabil zu sein und kann eine beträchtliche Menge an Gewicht aushalten."
+msgstr "Das Fundament aus Beton scheint sehr stabil zu sein und kann eine beträchtliche Menge an Gewicht aushalten."
 
 #. Key:	4D63587648FCF9D34033C9A96CC1E408
 #. SourceLocation:	/Game/HDCKBuildingSystem/Table/E_SelectType.E_SelectType.DisplayNameMap(1 - Value).DisplayNameMap
@@ -1677,7 +1677,7 @@ msgstr "Außentreppe"
 #: /Game/HDCKBuildingSystem/Table/BuildTable.BuildTable.SN_DJ.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 msgctxt ",57ABD74342F884D14ADE9FA7585DF620"
 msgid "水泥制作的地基，看起来很结实，可以承受相当多的重量。"
-msgstr "Das Fundament aus Zement scheint sehr stabil zu sein und kann eine beträchtliche Menge an Gewicht aushalten."
+msgstr "Das Fundament aus Beton scheint sehr stabil zu sein und kann eine beträchtliche Menge an Gewicht aushalten."
 
 #. Key:	57D29AF64B249E6B779C5C809CA3B4CD
 #. SourceLocation:	/Game/Blueprint/UMG/Inventory/WBP_ItemToolTip.WBP_ItemToolTip_C:SetFoodShow [Script Bytecode]
@@ -5652,35 +5652,35 @@ msgstr "Holzwand"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B10"
 msgid "水泥立柱"
-msgstr "Zementsäule"
+msgstr "Betonsäule"
 
 #. Key:	B11
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B11"
 msgid "水泥立柱(1/3)"
-msgstr "Zementsäule (1/3)"
+msgstr "Betonsäule (1/3)"
 
 #. Key:	B12
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B12"
 msgid "水泥横梁"
-msgstr "Zementträger"
+msgstr "Betonträger"
 
 #. Key:	B13
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B13"
 msgid "水泥横梁(两格)"
-msgstr "Querbalken aus Zement (zwei Gitter)"
+msgstr "Querbalken aus Beton (zwei Gitter)"
 
 #. Key:	B14
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B14"
 msgid "水泥横梁(四格)"
-msgstr "Querbalken aus Zement (vier Gitter)"
+msgstr "Querbalken aus Beton (vier Gitter)"
 
 #. Key:	B15
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6184,7 +6184,7 @@ msgstr "Angespitzte Holzpfähle"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B8"
 msgid "水泥地基"
-msgstr "Zementfundament"
+msgstr "Betonfundament"
 
 #. Key:	B80
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6254,7 +6254,7 @@ msgstr "Tiergehege"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B9"
 msgid "水泥地板"
-msgstr "Bodenbelag aus Zement"
+msgstr "Bodenbelag aus Beton"
 
 #. Key:	A1
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
