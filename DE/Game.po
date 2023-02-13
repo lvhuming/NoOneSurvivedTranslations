@@ -74,7 +74,7 @@ msgstr "Wiederherstellung fehlgeschlagen!"
 #: /Game/Blueprint/UMG/EscMenu/WBP_ScreenSetting.WBP_ScreenSetting_C:WidgetTree.WBP_NIS.Show In Text
 msgctxt ",0346655D46C4AF76A1D1B3943060F0AB"
 msgid "NIS锐化"
-msgstr "NVIDIA Image Scaling-Schärfung"
+msgstr "NIS-Schärfung"
 
 #. Key:	03C4AFA9436A2A9CEA6F87A9A52041FC
 #. SourceLocation:	/Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(13 - Value).DisplayNameMap
@@ -1516,7 +1516,7 @@ msgstr "Treibstoff"
 #: /Game/HDCKBuildingSystem/MeshBP/Foundation_SN.Default__Foundation_SN_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 msgctxt ",4CFDEABB453674874D3726BCC6F5775F"
 msgid "水泥制作的地基，看起来很结实，可以承受相当多的重量。"
-msgstr "Das Fundament aus Beton scheint sehr stabil zu sein und kann eine beträchtliche Menge an Gewicht aushalten."
+msgstr "Das Fundament aus Zement scheint sehr stabil zu sein und kann eine beträchtliche Menge an Gewicht aushalten."
 
 #. Key:	4D63587648FCF9D34033C9A96CC1E408
 #. SourceLocation:	/Game/HDCKBuildingSystem/Table/E_SelectType.E_SelectType.DisplayNameMap(1 - Value).DisplayNameMap
@@ -1586,7 +1586,7 @@ msgstr "Infektion, erheblicher und anhaltender Blutverlust"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_61.In Text
 msgctxt ",50923B86404D68B1F149ABBED6BFC293"
 msgid "密封排气机"
-msgstr "Konservendosen Verarbeitung"
+msgstr "Konservenmaschine"
 
 #. Key:	50FA87E6460DCEB7FA6D9EA808DF7DA2
 #. SourceLocation:	/Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(12 - Value).DisplayNameMap
@@ -1677,7 +1677,7 @@ msgstr "Außentreppe"
 #: /Game/HDCKBuildingSystem/Table/BuildTable.BuildTable.SN_DJ.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 msgctxt ",57ABD74342F884D14ADE9FA7585DF620"
 msgid "水泥制作的地基，看起来很结实，可以承受相当多的重量。"
-msgstr "Das Fundament aus Beton scheint sehr stabil zu sein und kann eine beträchtliche Menge an Gewicht aushalten."
+msgstr "Das Fundament aus Zement scheint sehr stabil zu sein und kann eine beträchtliche Menge an Gewicht aushalten."
 
 #. Key:	57D29AF64B249E6B779C5C809CA3B4CD
 #. SourceLocation:	/Game/Blueprint/UMG/Inventory/WBP_ItemToolTip.WBP_ItemToolTip_C:SetFoodShow [Script Bytecode]
@@ -2748,7 +2748,7 @@ msgstr "Null"
 #: /Game/Blueprint/ACF/Item/Weapon/LongBlunt/BP_LongBluntStick_G.Default__BP_LongBluntStick_G_C.ItemInfo.Description
 msgctxt ",8B9D09E44B07C72FE272C5906CB6FA3E"
 msgid "露茜儿++"
-msgstr "Baseballschläger aus Stahl"
+msgstr "Lucie++"
 
 #. Key:	8C4494664EE8ADA1ABA9EC8FC937971C
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/E_AimType.E_AimType.DisplayNameMap(3 - Value).DisplayNameMap
@@ -4924,7 +4924,7 @@ msgstr "Fundament"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",FourHorizontalBeam"
 msgid "横梁(四格)"
-msgstr "Horizontaler Balken (vier Gitter)"
+msgstr "Balken (vier Gitter)"
 
 #. Key:	FourHorizontalBeamDetail
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5323,7 +5323,7 @@ msgstr "An der Dachkante befestigt."
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofIntersection20"
 msgid "茅草屋顶(20度连接)"
-msgstr "Stroh dach (20 Grad Verbindung)"
+msgstr "Reetdach (20 Grad Verbindung)"
 
 #. Key:	RoofIntersection20_02
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5652,14 +5652,14 @@ msgstr "Holzwand"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B10"
 msgid "水泥立柱"
-msgstr "Betonsäule"
+msgstr "Zementsäule"
 
 #. Key:	B11
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B11"
 msgid "水泥立柱(1/3)"
-msgstr "Betonsäule (1/3)"
+msgstr "Zementsäule (1/3)"
 
 #. Key:	B12
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -5673,14 +5673,14 @@ msgstr "Betonträger"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B13"
 msgid "水泥横梁(两格)"
-msgstr "Querbalken aus Beton (zwei Gitter)"
+msgstr "Querbalken aus Zement (zwei Gitter)"
 
 #. Key:	B14
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B14"
 msgid "水泥横梁(四格)"
-msgstr "Querbalken aus Beton (vier Gitter)"
+msgstr "Querbalken aus Zement (vier Gitter)"
 
 #. Key:	B15
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -5729,7 +5729,7 @@ msgstr "Holzwand (mit Türöffnung)"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B20"
 msgid "砖墙(三角)"
-msgstr "Ziegelmauer (dreieckig)"
+msgstr "Backsteinmauer (dreieckig)"
 
 #. Key:	B21
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -5848,7 +5848,7 @@ msgstr "Bearbeitungstisch"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B36"
 msgid "密封排气机"
-msgstr "Konservenmaschine"
+msgstr "Konservendosen Verarbeitung"
 
 #. Key:	B37
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -5897,7 +5897,7 @@ msgstr "Wasseraufbereiter"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B42"
 msgid "电池组"
-msgstr "Batteriepack"
+msgstr "Batterie"
 
 #. Key:	B43
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6184,7 +6184,7 @@ msgstr "Angespitzte Holzpfähle"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B8"
 msgid "水泥地基"
-msgstr "Betonfundament"
+msgstr "Zementfundament"
 
 #. Key:	B80
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6268,7 +6268,7 @@ msgstr "Einfache Stofftasche"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,A10"
 msgid "遮阳帽"
-msgstr "Baseball Cap"
+msgstr "Sonnenhut"
 
 #. Key:	A11
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8564,7 +8564,7 @@ msgstr "Eisenmachete"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W24"
 msgid "铁棍"
-msgstr "Baseballschläger aus Eisen"
+msgstr "Brechstange aus Eisen"
 
 #. Key:	W25
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9425,7 +9425,7 @@ msgstr "Entleeren"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,ClearBody"
 msgid "清洗"
-msgstr "Waschen"
+msgstr "Reinigen"
 
 #. Key:	Close
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -9747,7 +9747,7 @@ msgstr "Amputation"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Eat"
 msgid "吃"
-msgstr "Konsumieren"
+msgstr "konsumieren"
 
 #. Key:	Equip
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10055,14 +10055,14 @@ msgstr "Offset nach oben und unten"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,HammerWheel"
 msgid "切换捕捉位置"
-msgstr "Fangposition umschalten"
+msgstr "Einrastposition umschalten"
 
 #. Key:	HammerZ
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,HammerZ"
 msgid "捕捉旋转"
-msgstr "Snap-Rotation"
+msgstr "Einrast-Rotation"
 
 #. Key:	HCLTJ
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10223,7 +10223,7 @@ msgstr "Holzstamm"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,JR"
 msgid "加热以后使用更佳"
-msgstr "Besser nach dem Erhitzen verwenden"
+msgstr "Besser nach dem Erhitzen verzerren"
 
 #. Key:	JRDRYX
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10252,21 +10252,21 @@ msgstr "Maschinenreparatur"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,JZBZKG"
 msgid "建造捕捉开关"
-msgstr "Einrasten An / Aus" 
+msgstr "Schnappschalter bauen"
 
 #. Key:	JZCD
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,JZCD"
 msgid "建造菜单"
-msgstr "Menü bauen"
+msgstr "Baumenü"
 
 #. Key:	JZKZ
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,JZKZ"
 msgid "建筑控制"
-msgstr "Baumenü"
+msgstr "Bauaufsicht"
 
 #. Key:	KG
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10392,7 +10392,7 @@ msgstr "Taschenlampe"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,LightTip"
 msgid "缺少干电池"
-msgstr "Fehlende Trockenbatterien"
+msgstr "Fehlende Batterie"
 
 #. Key:	LIUXUE
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10581,7 +10581,7 @@ msgstr "Multiplayer-Spiel"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,MWSW"
 msgid "美味食物"
-msgstr "Schmackhaftes Essen"
+msgstr "Leckeres Essen"
 
 #. Key:	MX
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10721,7 +10721,7 @@ msgstr "Neues Spiel"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,NewPack"
 msgid "新手礼包"
-msgstr "Geschenkpaket für Anfänger"
+msgstr "Startausrüstung (für Anfänger)"
 
 #. Key:	NJ
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10763,7 +10763,7 @@ msgstr "Ich verstehe das immer noch nicht oder ich weiß es schon!"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,notAdd"
 msgid "有物品阻止建造"
-msgstr "Es gibt einen Gegenstand, der den Bau verhindert"
+msgstr "Ein Gegenstand blockiert den Bau"
 
 #. Key:	NotBearing
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10882,7 +10882,7 @@ msgstr "Ernte"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,NYError"
 msgid "已经种植了其他植物"
-msgstr "Andere Pflanze wurde bereits gepflanzt"
+msgstr "Ist bereits bepflanzt"
 
 #. Key:	NYFL
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10945,7 +10945,7 @@ msgstr "Körperliche Stärke"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Pot01"
 msgid "注意这个操作会删除锅内物品"
-msgstr "Beachten Sie, dass dieser Vorgang den Inhalt des Topfes löscht"
+msgstr "Achtung! Damit wird der Inhalt zerstört"
 
 #. Key:	PR
 #. SourceLocation:	/Game/LocalizationText/UIStudy.UIStudy
@@ -11029,7 +11029,7 @@ msgstr "Anwenden"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,QRTC"
 msgid "确认退出吗？所有未保存的进度都将消失！"
-msgstr "Sie sind sicher, dass Sie beenden wollen? Alle ungespeicherten Fortschritte gehen verloren!"
+msgstr "Spiel beenden? Alle ungespeicherten Fortschritte gehen verloren!"
 
 #. Key:	QT
 #. SourceLocation:	/Game/LocalizationText/GUN.GUN
@@ -11071,14 +11071,14 @@ msgstr "Verlassen"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,QUITGAME"
 msgid "退出游戏"
-msgstr "Verlässt das Spiel"
+msgstr "Verlasse das Spiel"
 
 #. Key:	QX
 #. SourceLocation:	/Game/LocalizationText/UIStudy.UIStudy
 #: /Game/LocalizationText/UIStudy.UIStudy
 msgctxt "UI,QX"
 msgid "枪械"
-msgstr "Feuerwaffen"
+msgstr "Schusswaffen"
 
 #. Key:	QXBY
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11092,7 +11092,7 @@ msgstr "Wartung"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,QXdetail"
 msgid "减小枪械后坐力，影响精确瞄准时手部晃动"
-msgstr "Reduzieren Sie den Rückstoß der Schusswaffe und beeinflussen Sie das Zittern der Hand beim genauen Zielen"
+msgstr "Reduziert den Rückstoß der Schusswaffe und beeinflussen das Zittern der Hand beim genauen Zielen"
 
 #. Key:	QXHD
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11106,7 +11106,7 @@ msgstr "Schusswaffe nachladen"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,QYBY"
 msgid "缺少枪油"
-msgstr "Mangel an Waffenöl"
+msgstr "Kein Waffenöl!"
 
 #. Key:	Random
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11421,7 +11421,7 @@ msgstr "Ich möchte Fähigkeiten von dir lernen"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SS13"
 msgid "我这里有些好东西送给你"
-msgstr "Ich habe hier ein paar gute Sachen für dich"
+msgstr "Ich habe hier was gutes für dich"
 
 #. Key:	SS14
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11435,7 +11435,7 @@ msgstr "Ich möchte einen Deal mit dir machen"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SSJSSL01"
 msgid "丧尸击杀数量："
-msgstr "Anzahl der getöteten Zombies:"
+msgstr "Zombiekills:"
 
 #. Key:	SSND01
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11456,7 +11456,7 @@ msgstr "Allgemein"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,SSND03"
 msgid "强"
-msgstr "mächtig"
+msgstr "Mächtig"
 
 #. Key:	SSQD
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11498,7 +11498,7 @@ msgstr "Ausdauer"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,Start"
 msgid "        丧尸病毒爆发，你躲在避难所生活了三年，但是避难所的资源也逐渐消耗殆尽，你遭到了放逐，接下来你只能靠自己在末世生存下去..."
-msgstr "Der Zombievirus ist ausgebrochen, du hast drei Jahre im Schutzbunker gelebt, aber die Ressourcen des Schutzbunkers waren allmählich erschöpft, du wurdest verbannt, und dann kannst du die Apokalypse nur noch alleine überleben …"
+msgstr "Der Zombievirus ist ausgebrochen, du hast drei Jahre im Schutzbunker gelebt, aber die Ressourcen des Schutzbunkers waren allmählich erschöpft, du wurdest verbannt, und nun kannst du die Apokalypse nur noch alleine überleben …"
 
 #. Key:	StartDl
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11638,7 +11638,7 @@ msgstr "Bitte geben Sie einen Namen ein!"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,TLD"
 msgid "由矿石熔炼而成，或者是通过拆卸物品获得，可以熔炼成锭"
-msgstr "Wird aus Erz geschmolzen oder durch Zerlegen von Gegenständen erhalten, die zu Barren geschmolzen werden können"
+msgstr "Wird aus Erz geschmolzen oder durch Zerlegen von Gegenständen gewonnen, die dann zu Barren geschmolzen werden können"
 
 #. Key:	TLDetail
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -11967,56 +11967,56 @@ msgstr "verwenden "
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,USE1"
 msgid "快捷栏1"
-msgstr "Shortcut-Leiste 1"
+msgstr "Schnellzugriffs--Leiste 1"
 
 #. Key:	USE2
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,USE2"
 msgid "快捷栏2"
-msgstr "Shortcut-Leiste 2"
+msgstr "Schnellzugriffs--Leiste 2"
 
 #. Key:	USE3
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,USE3"
 msgid "快捷栏3"
-msgstr "Shortcut-Leiste 3"
+msgstr "Schnellzugriffs--Leiste 3"
 
 #. Key:	USE4
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,USE4"
 msgid "快捷栏4"
-msgstr "Shortcut-Leiste 4"
+msgstr "Schnellzugriffs--Leiste 4"
 
 #. Key:	USE5
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,USE5"
 msgid "快捷栏5"
-msgstr "Shortcut-Leiste 5"
+msgstr "Schnellzugriffs--Leiste 5"
 
 #. Key:	USE6
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,USE6"
 msgid "快捷栏6"
-msgstr "Shortcut-Leiste 6"
+msgstr "Schnellzugriffs-Leiste 6"
 
 #. Key:	useDDFRJ
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,useDDFRJ"
 msgid "在电动缝纫机制作"
-msgstr "Hergestellt mit einer elektrischen Nähmaschine"
+msgstr "Hergestellt an einer elektrischen Nähmaschine"
 
 #. Key:	useDRL
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,useDRL"
 msgid "使用电熔炉制作"
-msgstr "Mit elektrischem Schmelzofen hergestellt"
+msgstr "Wird im elektrischem Schmelzofen hergestellt"
 
 #. Key:	useGJHXFYSB
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12030,7 +12030,7 @@ msgstr "Hergestellt mit fortschrittlicher chemischer Reaktionsausrüstung"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,useHammerBuild"
 msgid "使用建造锤建造"
-msgstr "Bauen Sie mit einem Bauhammer"
+msgstr "Wird mit einen Bauhammer gebaut"
 
 #. Key:	useHXFYT
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12079,7 +12079,7 @@ msgstr "In einem Schmelzofen gebrannt"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,useZYY"
 msgid "在制药仪制作"
-msgstr "Hergestellt in einer pharmazeutischen Maschine"
+msgstr "Hergestellt an Pharmazeutischer Ausrüstung"
 
 #. Key:	useZYZ
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12191,7 +12191,7 @@ msgstr "Waffenherstellung"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,wsDetail"
 msgid "卫生\r\n影响丧尸发现几率，影响伤口感染几率，过低影响心情回复"
-msgstr "Hygiene\r\n beeinträchtigt die Chance auf von Zombies enteckt zu werden, beeinträchtigt die Chance auf Wundinfektion, wenn sie zu niedrig ist beeinträchtigt sie die Stimmungslage"
+msgstr "Hygiene\r\n beeinträchtigt die Chance von Zombies enteckt zu werden, eine niedrige Hygiene erhöht die Chance auf Wundinfektion und verschlechtert die Stimmung"
 
 #. Key:	WXL
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12233,7 +12233,7 @@ msgstr "Viel mehr"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,WZSL04"
 msgid "极多"
-msgstr "Sehr viel"
+msgstr "Üppig"
 
 #. Key:	XBCD
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -12366,7 +12366,7 @@ msgstr "Augenabstand"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,YINXIAO"
 msgid "音效"
-msgstr "Sound-Effekt"
+msgstr "Sound-Effekte"
 
 #. Key:	YJ
 #. SourceLocation:	/Game/LocalizationText/UIStudy.UIStudy
