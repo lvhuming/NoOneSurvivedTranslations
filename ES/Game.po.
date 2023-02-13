@@ -165,7 +165,7 @@ msgstr "Y"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_12.Text
 msgctxt ",07183D8644DE86CCA77C28A04ABFD006"
 msgid "武器制造+"
-msgstr "Fabricacion de Armas+"
+msgstr "Fabricacion de Armas+ "
 
 #. Key:	071CC0AD44E91A58C8A6BBA56F0A6884
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(21 - Value).DisplayNameMap
@@ -3882,7 +3882,7 @@ msgstr "Al desmontar devuelve todos los materiales"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_31.In Text
 msgctxt ",CD1F85B4472D5C4EA8B1FCAF5325B0AB"
 msgid "吊灯"
-msgstr "Candelabro"
+msgstr "Fluorescente"
 
 #. Key:	CD4B5FDD4E0BF834CC0C6BBF34EE31EB
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_97.In Text
@@ -5947,7 +5947,7 @@ msgstr "Horno de Carbón"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B49"
 msgid "烹饪台"
-msgstr "Cocina Eléctrica"
+msgstr "Hornillo"
 
 #. Key:	B5
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6731,7 +6731,7 @@ msgstr "Sake"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F126"
 msgid "果酒"
-msgstr "Licor de Fresa"
+msgstr "Licor de Frutas"
 
 #. Key:	F127
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7753,14 +7753,14 @@ msgstr "Partes Simples"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M31"
 msgid "精巧零件"
-msgstr "Partes Delicadas"
+msgstr "Partes Avanzadas"
 
 #. Key:	M32
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M32"
 msgid "弹壳"
-msgstr "Casquillo"
+msgstr "Fabricar Munición"
 
 #. Key:	M33
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7802,7 +7802,7 @@ msgstr "Fibras Vegetales"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M38"
 msgid "皮"
-msgstr "Piel"
+msgstr "Cuero"
 
 #. Key:	M39
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9335,7 +9335,7 @@ msgstr "Mantén pulsado"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Change"
 msgid "改装"
-msgstr "Reacondicionamiento"
+msgstr "Modificar"
 
 #. Key:	changwuqi
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -9783,7 +9783,7 @@ msgstr "Forma del ojo"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,fangru"
 msgid "放入"
-msgstr "Poner en "
+msgstr "Soltar"
 
 #. Key:	fayue
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10245,7 +10245,7 @@ msgstr "Maquinaria"
 #: /Game/LocalizationText/UIStudy.UIStudy
 msgctxt "UI,JXX"
 msgid "机修"
-msgstr "Reparación de Máquinas"
+msgstr "Mantenimiento"
 
 #. Key:	JZBZKG
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10462,7 +10462,7 @@ msgstr "Forma de la cara"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,LXXH"
 msgid "练习消耗："
-msgstr "Consumo de ejercicio:"
+msgstr "Recursos Necesarios:"
 
 #. Key:	LZXG
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10966,7 +10966,7 @@ msgstr "Proteínas"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,PSSL"
 msgid "跑尸数量"
-msgstr "Número de Zombies"
+msgstr "Multiplicador de número de Zombies"
 
 #. Key:	Q
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11057,7 +11057,7 @@ msgstr "Ventana de pantalla completa"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,quchu"
 msgid "取出"
-msgstr "Sacar"
+msgstr "Coger"
 
 #. Key:	Quit
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11813,14 +11813,14 @@ msgstr "Forzudo"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZNLF"
 msgid "耐力不好"
-msgstr "Tienes poca Resistencia"
+msgstr "Poca Resistencia"
 
 #. Key:	TZNLZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZNLZ"
 msgid "耐力极好"
-msgstr "Tienes una excelente Resistencia"
+msgstr "Excelente Resistencia"
 
 #. Key:	TZQSF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -12331,7 +12331,7 @@ msgstr "No se cumplen las condiciones de aprendizaje."
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,XXTJ"
 msgid "学习条件："
-msgstr "Condiciones de Aprendizaje:"
+msgstr "Requisitos de Aprendizaje:"
 
 #. Key:	XZSJ
 #. SourceLocation:	/Game/LocalizationText/UI.UI
