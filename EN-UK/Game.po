@@ -25,7 +25,7 @@ msgstr "Cleaning"
 #: /Game/Blueprint/UMG/Furniture/WBP_SPX.WBP_SPX_C:WidgetTree.development.Text
 msgctxt ",00986F3D49F50B3B8F6203A93FD5D846"
 msgid "发育"
-msgstr "Development"
+msgstr "Harvest Yield"
 
 #. Key:	01471E2242A1A96EA568E09F19D72C20
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(13 - Value).DisplayNameMap
@@ -186,7 +186,7 @@ msgstr "1"
 #: /Game/Blueprint/UMG/Furniture/WBP_PZX.WBP_PZX_C:WidgetTree.TextBlock_115.Text
 msgctxt ",083B1BA040DBE2557CB0B19B0D70C5E1"
 msgid "铲掉"
-msgstr "Shovel off"
+msgstr "Uproot"
 
 #. Key:	08932B364A170FBCBE3BC5A1DD392BF1
 #. SourceLocation:	/Game/Blueprint/UMG/InteractiveMessage/Interactive.Interactive.DisplayNameMap(3 - Value).DisplayNameMap
@@ -298,7 +298,7 @@ msgstr "Malaria chance"
 #: /Game/Blueprint/ACF/Player/HDCK_CharacterBP.Default__HDCK_CharacterBP_C.TimeBuffDetail(0).TimeBuffDetail.TipMessage_56_5402F47A4785659B27440099C7CA676D
 msgctxt ",0D2F9EF34F24FE1D4DE8229B65941BC4"
 msgid "疟疾，减少耐力上限和回复"
-msgstr "Malaria, reduced stamina cap and regeneration"
+msgstr "Malaria, reduces stamina cap and regeneration"
 
 #. Key:	0EAC4CF84F900A49A09DE09F240307B5
 #. SourceLocation:	/Game/Blueprint/UMG/WBP_BaseCharacter.WBP_BaseCharacter_C:WidgetTree.YZKX.Text
@@ -1411,7 +1411,7 @@ msgstr "Creative mode (toggle)"
 #: /Game/Blueprint/UMG/Furniture/WBP_PZX.WBP_PZX_C:WidgetTree.development.Text
 msgctxt ",45E4773D490169AB850A808635B4B555"
 msgid "发育"
-msgstr "Development"
+msgstr "Harvest Yield"
 
 #. Key:	460E18EE4FC349EA101BCE80D2BBDE01
 #. SourceLocation:	/Game/Blueprint/UMG/MiniMap/WBP_MiniMap.WBP_MiniMap_C:ExecuteUbergraph_WBP_MiniMap [Script Bytecode]
@@ -1544,7 +1544,7 @@ msgstr "Board"
 #: /Game/Blueprint/UMG/Furniture/WBP_PZX.WBP_PZX_C:WidgetTree.development.ToolTipText
 msgctxt ",4EEAE27F444C96820BAF08B142031780"
 msgid "影响收成"
-msgstr "Affect the harvest"
+msgstr "How much the plant will yield when harvested"
 
 #. Key:	4EED0D0C424E91685FBACD96576D8051
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/QK/BP_GunAccessoryQK_CF_BC02.Default__BP_GunAccessoryQK_CF_BC02_C.ItemInfo.Description
@@ -1656,7 +1656,7 @@ msgstr "Drag container here to fill"
 #: /Game/Blueprint/UMG/Furniture/WBP_SPX.WBP_SPX_C:WidgetTree.development.ToolTipText
 msgctxt ",569DFDE54CD2C05CA841E4AED49216C0"
 msgid "影响收成"
-msgstr "Affect the harvest"
+msgstr "How much the plant will yield when harvested"
 
 #. Key:	56A903D8474E2C86F33532A8231EB1CA
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_79.In Text
@@ -2097,7 +2097,7 @@ msgstr "8B"
 #: /Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_11.TipMessage_41_0D1B7B6342180F0BD1D386A6C8ADE0B3
 msgctxt ",6B154759470BA3F08F615E920930379E"
 msgid "疾跑耐力消耗"
-msgstr "Sprint stamina consumption"
+msgstr "Sprint consumes stamina"
 
 #. Key:	6B5672FE4B8FDF39CD26C8B2527E9E21
 #. SourceLocation:	/Game/Blueprint/UMG/NPCUMG/WBP_jy.WBP_jy_C:WidgetTree.GX.Text
@@ -2853,7 +2853,7 @@ msgstr "Essential for building a house"
 #: /Game/Blueprint/UMG/Furniture/WBP_SPX.WBP_SPX_C:WidgetTree.Sy.Text
 msgctxt ",9410660E4A342FA06D31A7956C47847E"
 msgid "预计成熟时间"
-msgstr "Estimated time until maturity"
+msgstr "Harvest time"
 
 #. Key:	9484FAA046CFCFCBC04BD4A1D1BC6415
 #. SourceLocation:	/Game/Blueprint/UMG/State/WBP_Status.WBP_Status_C:WidgetTree.Time.Text
@@ -3490,7 +3490,7 @@ msgstr "Short one-handed knife"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_25.Text
 msgctxt ",B63C9BF848D421CDC99F7A9777C7CCF3"
 msgid "体力-"
-msgstr "Exhaustion-"
+msgstr "Fatigue-"
 
 #. Key:	B75273964C8DC04BECCD7D948C4211FE
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/StartUIEnum.StartUIEnum.DisplayNameMap(4 - Value).DisplayNameMap
@@ -4113,7 +4113,7 @@ msgstr "Metallurgy+"
 #: /Game/Blueprint/UMG/Furniture/WBP_PZX.WBP_PZX_C:WidgetTree.Time.Text
 msgctxt ",DBEA5F13457CEB3820D1DA8A55A05FD8"
 msgid "预计成熟时间"
-msgstr "Estimated time until maturity"
+msgstr "Harvest time"
 
 #. Key:	DC5164BF446550844AEBE1B4BEEE2C71
 #. SourceLocation:	/Game/Blueprint/UMG/ChatSystem/WBP_ChatMessage.WBP_ChatMessage_C:WidgetTree.TextBlock_55.Text
@@ -4498,7 +4498,7 @@ msgstr "Material"
 #: /Game/Blueprint/UMG/Furniture/WBP_SPX.WBP_SPX_C:WidgetTree.TextBlock_115.Text
 msgctxt ",ECAB878844DB5540EF7B15AB40273797"
 msgid "铲掉"
-msgstr "Shovel off"
+msgstr "Uproot"
 
 #. Key:	ED362C3F47934E84F061EFA97E3FB2B8
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_101.In Text
@@ -6213,7 +6213,7 @@ msgstr "House number"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B83"
 msgid "原木架"
-msgstr "Log frame"
+msgstr "Log rack"
 
 #. Key:	B84
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6227,14 +6227,14 @@ msgstr "Stick rack"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B85"
 msgid "石头框"
-msgstr "Stone frame"
+msgstr "Stone rack"
 
 #. Key:	B86
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B86"
 msgid "木板架"
-msgstr "Board Frame"
+msgstr "Board rack"
 
 #. Key:	B87
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -8894,7 +8894,7 @@ msgstr "The better the arrow quality, the higher the recovery success rate."
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,09"
 msgid "使用动作菜单躺下或者坐下可以快速恢复耐力，较慢回复体力。"
-msgstr "Using the action menu to lie down or sit down can quickly restore stamina and slow recovery of stamina."
+msgstr "Using the action menu to lie down or sit down can quickly restore Fatigue, and Stamina."
 
 #. Key:	10
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -9790,7 +9790,7 @@ msgstr "Store"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,fayue"
 msgid "发育"
-msgstr "Development"
+msgstr "Harvest Yield"
 
 #. Key:	FB
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10910,7 +10910,7 @@ msgstr "Moisture"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,NYYJCS"
 msgid "预计成熟剩余时间"
-msgstr "Estimated time until maturity"
+msgstr "Harvest time"
 
 #. Key:	Onhand
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10938,7 +10938,7 @@ msgstr "Unlock"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,physicalstrength"
 msgid "体力"
-msgstr "Physical strength"
+msgstr "Fatigue Recovery"
 
 #. Key:	Pot01
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11645,7 +11645,7 @@ msgstr "Smelted from ore, or obtained by dismantling items, which can be smelted
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TLDetail"
 msgid "体力\r\n每减少30点体力，伤害降低25%（不影响枪械）"
-msgstr "Exhaustion\r\nFor every 30 points missing, damage is reduced by 25% (does not affect firearms)"
+msgstr "Fatigue\r\nFor every 30 points missing, damage is reduced by 25% (does not affect firearms)"
 
 #. Key:	toLen
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12520,14 +12520,14 @@ msgstr "Mouth"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,ZW01"
 msgid "影响植物发育，没有水会死亡"
-msgstr "Affects plant development, will die without water"
+msgstr "Affects plants yield, will die without water"
 
 #. Key:	ZW02
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,ZW02"
 msgid "影响植物发育，影响成熟时间"
-msgstr "Affects plant development, affects maturity time"
+msgstr "Affects plant yield and harvest time"
 
 #. Key:	ZWYSS
 #. SourceLocation:	/Game/LocalizationText/UI.UI
