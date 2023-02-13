@@ -39,7 +39,7 @@ msgstr "Ограждение"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_24.Text
 msgctxt ",014F3B6240A63915DEDF3CA9D50249E4"
 msgid "心情-"
-msgstr "Чувство-"
+msgstr "Настроение-"
 
 #. Key:	017C13554A303CDB96F5DAA161E199F6
 #. SourceLocation:	/Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_8.TipMessage_41_0D1B7B6342180F0BD1D386A6C8ADE0B3
@@ -186,7 +186,7 @@ msgstr "1"
 #: /Game/Blueprint/UMG/Furniture/WBP_PZX.WBP_PZX_C:WidgetTree.TextBlock_115.Text
 msgctxt ",083B1BA040DBE2557CB0B19B0D70C5E1"
 msgid "铲掉"
-msgstr "сгребать"
+msgstr "удалить"
 
 #. Key:	08932B364A170FBCBE3BC5A1DD392BF1
 #. SourceLocation:	/Game/Blueprint/UMG/InteractiveMessage/Interactive.Interactive.DisplayNameMap(3 - Value).DisplayNameMap
@@ -207,7 +207,7 @@ msgstr "И"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_17.Text
 msgctxt ",0928DBE0408A27E207C2D29145B40B53"
 msgid "满状态+"
-msgstr "полное состояние+"
+msgstr "макс. показатели+"
 
 #. Key:	096D56544FDEF1DB6D35EF95D685CC18
 #. SourceLocation:	/Game/Blueprint/ACF/Player/HDCK_CharacterBP.HDCK_CharacterBP_C:ExecuteUbergraph_HDCK_CharacterBP [Script Bytecode]
@@ -228,7 +228,7 @@ msgstr "День 401"
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_ZJ.Furniture_ZJ_C:ExecuteUbergraph_Furniture_ZJ [Script Bytecode]
 msgctxt ",0A1B65064219DCA393D97DADDE5CB235"
 msgid "取出饲料"
-msgstr "вынуть корм"
+msgstr "убрать корм"
 
 #. Key:	0A8AEE964987DE886D432BA25A0AD042
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(17 - Value).DisplayNameMap
@@ -249,7 +249,7 @@ msgstr "Модель 01"
 #: /Game/Blueprint/UMG/EscMenu/WBP_EscMenu.WBP_EscMenu_C:WidgetTree.TextBlock_55.Text
 msgctxt ",0B2F59094BD0F41F171D79A81E00FDE6"
 msgid "退出中，请稍后..."
-msgstr "Выход из системы, пожалуйста, подождите..."
+msgstr "Выход из игры, пожалуйста подождите..."
 
 #. Key:	0B7F4C1B45ADAE2851E196870F73FE68
 #. SourceLocation:	/Game/Blueprint/UMG/WBP_BaseCharacter.WBP_BaseCharacter_C:WidgetTree.KRX.Text
@@ -291,14 +291,14 @@ msgstr "IA_FireMode"
 #: /Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_7.TipMessage_41_0D1B7B6342180F0BD1D386A6C8ADE0B3
 msgctxt ",0C797E8E40ACBD720B57B4B33B461ADD"
 msgid "疟疾几率"
-msgstr "Шанс малярии"
+msgstr "Шанс дизентерии"
 
 #. Key:	0D2F9EF34F24FE1D4DE8229B65941BC4
 #. SourceLocation:	/Game/Blueprint/ACF/Player/HDCK_CharacterBP.Default__HDCK_CharacterBP_C.TimeBuffDetail(0).TimeBuffDetail.TipMessage_56_5402F47A4785659B27440099C7CA676D
 #: /Game/Blueprint/ACF/Player/HDCK_CharacterBP.Default__HDCK_CharacterBP_C.TimeBuffDetail(0).TimeBuffDetail.TipMessage_56_5402F47A4785659B27440099C7CA676D
 msgctxt ",0D2F9EF34F24FE1D4DE8229B65941BC4"
 msgid "疟疾，减少耐力上限和回复"
-msgstr "Малярия, снижение предела выносливости и регенерации"
+msgstr "Дизентерия снижает предел выносливости и регенерации"
 
 #. Key:	0EAC4CF84F900A49A09DE09F240307B5
 #. SourceLocation:	/Game/Blueprint/UMG/WBP_BaseCharacter.WBP_BaseCharacter_C:WidgetTree.YZKX.Text
@@ -403,7 +403,7 @@ msgstr "Его часто используют для резки дерева, �
 #: /Game/Blueprint/ACF/Manager/E_Weather.E_Weather.DisplayNameMap(1 - Value).DisplayNameMap
 msgctxt ",12C0B13F40681758244398A58FCF8834"
 msgid "Snow"
-msgstr "Снег"
+msgstr "Снегопад"
 
 #. Key:	13214985457425F5E5AE71A38AC18920
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_JoinGame.WBP_JoinGame_C:WidgetTree.WBP_Join.In Text
@@ -620,7 +620,7 @@ msgstr "Параметр"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_20.Text
 msgctxt ",1C53B8C149A4115EE6BD2AAED1889ED4"
 msgid "工程学+"
-msgstr "Инжиниринг+"
+msgstr "Инженеринг+"
 
 #. Key:	1C8E2E414E42E2C00C40C680D11AF214
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_Bed.WBP_Bed_C:WidgetTree.TextBlock_140.Text
@@ -774,7 +774,7 @@ msgstr "Ремонт машин (5 том)"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_0.Text
 msgctxt ",230BE6704851B95546575994C2020192"
 msgid "穿戴物品"
-msgstr "носить предметы"
+msgstr "одежда"
 
 #. Key:	233D5A434A78C427C610EC8FB48C8ED1
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_42.Text
@@ -795,7 +795,7 @@ msgstr "Модель 02"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_24.In Text
 msgctxt ",24791B5F496A7379DD1A5DABE8249766"
 msgid "制衣台"
-msgstr "Туалетный столик"
+msgstr "Стол портного"
 
 #. Key:	255B70D241CAF1A285F57FA01C58F0BF
 #. SourceLocation:	/Game/HDCKBuildingSystem/Table/E_SelectType.E_SelectType.DisplayNameMap(3 - Value).DisplayNameMap
@@ -809,7 +809,7 @@ msgstr "все"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_43.Text
 msgctxt ",257D695A47DEEA3FFC5862BD1084FDE4"
 msgid "增加疟疾"
-msgstr "усиление малярии"
+msgstr "склонность к дизентерии"
 
 #. Key:	258B8DCA4A30A8C003E35AA9CED8333D
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_33.In Text
@@ -823,7 +823,7 @@ msgstr "кирпич"
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_LoadGame.WBP_LoadGame_C:WidgetTree.TextBlock.Text
 msgctxt ",264F21F94A312BE3982CE79C37D102D3"
 msgid "恢复存档"
-msgstr "восстановить архив"
+msgstr "восстановить сохранение"
 
 #. Key:	269B80324FC87D5B8DEDDDB22B6B7A09
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_42.In Text
@@ -879,7 +879,7 @@ msgstr "буровой инструмент"
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_ZJ.Furniture_ZJ_C:ExecuteUbergraph_Furniture_ZJ [Script Bytecode]
 msgctxt ",2868B9554C079D0EFF670480D6C82D38"
 msgid "添加饲料"
-msgstr "добавить фид"
+msgstr "добавить корм"
 
 #. Key:	28FF919E49670ACE61590A92C65832EF
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/TipPasswordCheck.TipPasswordCheck_C:WidgetTree.PasswordNot.Text
@@ -1089,7 +1089,7 @@ msgstr "Обыкновенный камень можно использоват�
 #: /Game/Blueprint/UMG/Furniture/WBP_DCZDetail.WBP_DCZDetail_C:WidgetTree.NULL.Text
 msgctxt ",3376BBAD4F44547365C93295807CA25A"
 msgid "空"
-msgstr "нулевой"
+msgstr "пусто"
 
 #. Key:	337ED83240330270AB32E8803A60AB7F
 #. SourceLocation:	/Game/HDCKBuildingSystem/Table/E_SelectTypeChild.E_SelectTypeChild.DisplayNameMap(1 - Value).DisplayNameMap
@@ -1124,7 +1124,7 @@ msgstr "начало игры"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_38.Text
 msgctxt ",3557C6854B1448213BC35D9085C8312C"
 msgid "显示帧率"
-msgstr "Отображение частоты кадров"
+msgstr "Отображение FPS"
 
 #. Key:	35E6F36A420B9FDD3D238EADC6996DC0
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/SelectCharacter/WBP_SelectCharacterBegin.WBP_SelectCharacterBegin_C:WidgetTree.TextBlock_38.Text
@@ -1208,7 +1208,7 @@ msgstr "1233"
 #: /Game/Blueprint/ACF/Item/Tool/BP_ToolPickaxe.Default__BP_ToolPickaxe_C.ItemInfo.Description
 msgctxt ",3906A0864857BE406694849A0851429D"
 msgid "主要用于打碎石头，必要时候也可以用来防身。"
-msgstr "Он в основном используется для разбивания камней, а также при необходимости может использоваться для самообороны."
+msgstr "Используется для разбивания камней, а также может использоваться для самообороны"
 
 #. Key:	3949BD354C0840CBF08A628DDE1B0141
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_84.In Text
@@ -1243,7 +1243,7 @@ msgstr "Страница сведений о навыках"
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_LoadGame.WBP_LoadGame_C:WidgetTree.WBP_BackSave.In Text
 msgctxt ",3A6879B749414322EB2621BDD1017E66"
 msgid "恢复存档"
-msgstr "восстановить архив"
+msgstr "восстановить сохранение"
 
 #. Key:	3B8DEE5B4473233FCF93628DED40F9B2
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton.In Text
@@ -1404,7 +1404,7 @@ msgstr "лето"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_27.Text
 msgctxt ",4561C52B440C86BCBAF41DA5A5C99F38"
 msgid "建筑物直接完成"
-msgstr "здание непосредственно завершено"
+msgstr "Творческий режим / выживание"
 
 #. Key:	45E4773D490169AB850A808635B4B555
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_PZX.WBP_PZX_C:WidgetTree.development.Text
@@ -1425,7 +1425,7 @@ msgstr "Текущие координаты: {0}, {1}"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_1.Text
 msgctxt ",46159C994865A551AA6AD5A39D194A56"
 msgid "枪械配件"
-msgstr "аксессуары для огнестрельного оружия"
+msgstr "Обвесы"
 
 #. Key:	46B50F714E10C8FD62349C9785EEC24C
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_81.In Text
@@ -1579,7 +1579,7 @@ msgstr "Авто"
 #: /Game/Blueprint/ACF/Player/HDCK_CharacterBP.Default__HDCK_CharacterBP_C.TimeBuffDetail(1).TimeBuffDetail.TipMessage_56_5402F47A4785659B27440099C7CA676D
 msgctxt ",508A302D479171AD2AFCB5BDF7BF0BD4"
 msgid "感染，大幅度持续掉血"
-msgstr "Инфекция, массивная непрерывная кровопотеря"
+msgstr "Инфекции приводят к сильной кровопотере"
 
 #. Key:	50923B86404D68B1F149ABBED6BFC293
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_61.In Text
@@ -1887,7 +1887,7 @@ msgstr "весна"
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_GameSetting.WBP_GameSetting_C:WidgetTree.ShowTex_10.Text
 msgctxt ",607BE83C437C938E6210A89A4E185196"
 msgid "物资刷新"
-msgstr "Обновление материала"
+msgstr "Обновление лута"
 
 #. Key:	60C920AE4EEC3040FA97A59FA380B13C
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_ServerSetting.WBP_ServerSetting_C:WidgetTree.ShowTex_4.Text
@@ -2097,7 +2097,7 @@ msgstr "8Б"
 #: /Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_11.TipMessage_41_0D1B7B6342180F0BD1D386A6C8ADE0B3
 msgctxt ",6B154759470BA3F08F615E920930379E"
 msgid "疾跑耐力消耗"
-msgstr "Расход выносливости в спринте"
+msgstr "Расход выносливости во время бега"
 
 #. Key:	6B5672FE4B8FDF39CD26C8B2527E9E21
 #. SourceLocation:	/Game/Blueprint/UMG/NPCUMG/WBP_jy.WBP_jy_C:WidgetTree.GX.Text
@@ -2111,7 +2111,7 @@ msgstr "Отношения: 50"
 #: /Game/Blueprint/ACF/Item/Tool/BP_ToolAxe.Default__BP_ToolAxe_C.ItemInfo.Description
 msgctxt ",6B6E2B914267363D168051958D0E1DF6"
 msgid "主要用于砍树，必要时候也可以用来防身。"
-msgstr "Он в основном используется для вырубки деревьев, а также при необходимости может использоваться для самообороны."
+msgstr "Используется для вырубки деревьев, а также может использоваться для самообороны"
 
 #. Key:	6BCC8EA647892C6DDF2E86BC4A37CA07
 #. SourceLocation:	/Game/Blueprint/ACF/Tutorial/WBP_TutorialTip1.WBP_TutorialTip1_C:WidgetTree.TextBlock_1.Text
@@ -2244,7 +2244,7 @@ msgstr "зима"
 #: /Game/Blueprint/ACF/Tutorial/WBP_TutorialTip8.WBP_TutorialTip8_C:WidgetTree.TextBlock_3.Text
 msgctxt ",716F5EBE49D73209F99CFA883796B315"
 msgid "使用稿子击碎石头"
-msgstr "Используйте скрипт, чтобы разбить камень"
+msgstr "Используйте кирку, чтобы разбить камень"
 
 #. Key:	719B3E1D4C94FB1547CDD4BD2E54B1B5
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_CarInventory.WBP_CarInventory_C:WidgetTree.TextBlock_84.Text
@@ -2335,7 +2335,7 @@ msgstr "1"
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_GameSetting.WBP_GameSetting_C:WidgetTree.TextBlock_4.Text
 msgctxt ",7617FC3A4D3F680AB0BBEBACBADB140C"
 msgid "倍"
-msgstr "раз"
+msgstr "Множитель"
 
 #. Key:	761F4D984F10527EA231C0B8CB66BEA4
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_31.Text
@@ -2482,14 +2482,14 @@ msgstr "еда"
 #: /Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_12.TipMessage_41_0D1B7B6342180F0BD1D386A6C8ADE0B3
 msgctxt ",7C2B47074356869105F236B2DA55D6B5"
 msgid "战斗获取经验"
-msgstr "Сражайтесь, чтобы получить опыт"
+msgstr "Получаемый опыт от сражений"
 
 #. Key:	7CCCED78433FBE0BEEEFD09131C4426E
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_KG.Furniture_KG_C:ShowUI [Script Bytecode]
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_KG.Furniture_KG_C:ShowUI [Script Bytecode]
 msgctxt ",7CCCED78433FBE0BEEEFD09131C4426E"
 msgid "切换"
-msgstr "переключать"
+msgstr "вкл/выкл"
 
 #. Key:	7CF1FA4449F3464AF0C74796614B54EC
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_1.In Text
@@ -2517,7 +2517,7 @@ msgstr "Модель 01"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_18.Text
 msgctxt ",7E0D35D04487BF2FCA42F68796859048"
 msgid "生命值-"
-msgstr "жизненная ценность-"
+msgstr "Жизнь-"
 
 #. Key:	7E1AF86D4DF1A90B75698E8CE26CA187
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/Furniture_Base.Furniture_Base_C:ShowUI [Script Bytecode]
@@ -2678,7 +2678,7 @@ msgstr "Ремонт машин (2 том)"
 #: /Game/Blueprint/UMG/Furniture/WBP_DCZDetail.WBP_DCZDetail_C:WidgetTree.TextBlock_233.Text
 msgctxt ",867940C94407F9B1E6580C8C164DED1C"
 msgid "电量:"
-msgstr "Сила:"
+msgstr "Заряд:"
 
 #. Key:	8710C0014D4869B4CBF99993FFD25E15
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_19.In Text
@@ -2776,7 +2776,7 @@ msgstr "Медицина+"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_23.In Text
 msgctxt ",8D4C253441E4A1B23D31ABBE84ABCBF1"
 msgid "雨水收集器"
-msgstr "коллектор дождевой воды"
+msgstr "Сборщик дождевой воды"
 
 #. Key:	8DB992364730261D2222EBB5E748538F
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/WBP_RoomSlot.WBP_RoomSlot_C:WidgetTree.pING.Text
@@ -2965,7 +2965,7 @@ msgstr "В день {0}"
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_GameSetting.WBP_GameSetting_C:WidgetTree.SliderBD.ToolTipText
 msgctxt ",9ADCC17141C6AAA9B282CBA73B8AF4CC"
 msgid "提高病毒感染性，你需要更多抗体"
-msgstr "Чтобы повысить инфекционность вируса, нужно больше антител"
+msgstr "Чтобы снизить инфекционность вируса, нужно больше антител"
 
 #. Key:	9B6E782A4617B9BA87703EB8BE12EB15
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_JoinGame.WBP_JoinGame_C:ExecuteUbergraph_WBP_JoinGame [Script Bytecode]
@@ -3175,7 +3175,7 @@ msgstr "пожалуйста введите пароль"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_77.In Text
 msgctxt ",A8E8CFFB476DD19AE2F12BA0D0D8658C"
 msgid "烹饪台"
-msgstr "кулинарная станция"
+msgstr "Электроплита"
 
 #. Key:	A986B3D14B33762D4721F68A12C306D5
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(11 - Value).DisplayNameMap
@@ -3189,7 +3189,7 @@ msgstr "Пересечение крыши"
 #: /Game/Blueprint/UMG/WBP_Show.WBP_Show_C:WidgetTree.TextBlock_76.Text
 msgctxt ",AA46408A4903F4640EFF4DB0535DF1D9"
 msgid "游戏保存中，请勿关闭程序"
-msgstr "Игра сохраняется. Пожалуйста не закрывайте программу"
+msgstr "Идет сохранение. Не закрывайте игру"
 
 #. Key:	AA700A424A1CC79F89745D8B8E66743F
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_44.In Text
@@ -3217,7 +3217,7 @@ msgstr "скорость"
 #: /Game/Blueprint/UMG/Furniture/WBP_CarInventory01.WBP_CarInventory01_C:Update [Script Bytecode]
 msgctxt ",AAB9D5FF4458F2D4E9935FB728FDA69C"
 msgid "燃料："
-msgstr "топливо:"
+msgstr "Топливо: "
 
 #. Key:	AABC005949F38ECF029CCB98AA9B1B58
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_36.In Text
@@ -3273,7 +3273,7 @@ msgstr "высокого качества"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_17.In Text
 msgctxt ",AD47B6074A741186454472B5956049C7"
 msgid "胃药"
-msgstr "желудочная медицина"
+msgstr "антибиотики"
 
 #. Key:	AD7688EF49F4225BD7F664B4DFD3E937
 #. SourceLocation:	/Game/Blueprint/ACF/Player/HDCK_GameState.Default__HDCK_GameState_C:Team Manager.Teams(1 - Value).Teams.DisplayName
@@ -3434,7 +3434,7 @@ msgstr "Одинокий"
 #: /Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_3.TZF_27_2477A82448AA37EFCFBF4883BE709EF2
 msgctxt ",B4227B28456F62424876BF98D38BA59A"
 msgid "生命脆弱"
-msgstr "жизнь хрупка"
+msgstr "Малый запас НР"
 
 #. Key:	B4746EE4424481DB831589BEEC0DE8D4
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(7 - Value).DisplayNameMap
@@ -3448,7 +3448,7 @@ msgstr "Крыша"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_91.In Text
 msgctxt ",B53BE0D643F0BC85688ACCAC6E911CA2"
 msgid "762子弹"
-msgstr "762 пули"
+msgstr "7,62мм патроны"
 
 #. Key:	B57A00354900F30D42BACFBCF9434A53
 #. SourceLocation:	/Game/Blueprint/UMG/ChatSystem/WBP_ChatMenu.WBP_ChatMenu_C:WidgetTree.MessageBox.HintText
@@ -3518,7 +3518,7 @@ msgstr "инкубатор"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_29.Text
 msgctxt ",B87C1302490FEB17850EACA7A4DC8025"
 msgid "时间过去一天"
-msgstr "время прошедшего дня"
+msgstr "Время +1 день"
 
 #. Key:	B8A8A98F45439FF5C4B080AD967B6AD8
 #. SourceLocation:	/Game/Blueprint/UMG/NPCUMG/WBP_jy.WBP_jy_C:WidgetTree.Name.Text
@@ -3532,7 +3532,7 @@ msgstr "борода"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_9.In Text
 msgctxt ",B8B69A364203615D8A5018B102D4B9C1"
 msgid "纺织机"
-msgstr "текстильная машина"
+msgstr "Ткацкий станок"
 
 #. Key:	B8C353004A5F835C2E2DB38D3494A18E
 #. SourceLocation:	/Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(15).Mappings.PlayerMappableOptions.DisplayName
@@ -3595,7 +3595,7 @@ msgstr "0"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_95.In Text
 msgctxt ",BB0420A948E6FE459983A0AF89A6845D"
 msgid "霰弹枪子弹"
-msgstr "Пуля для дробовика"
+msgstr "Патрон для дробовика"
 
 #. Key:	BB154E9F4CD911E0A5B38BA239AA67F0
 #. SourceLocation:	/Game/Blueprint/UMG/ScreenMessage/WBP_CarMessage.WBP_CarMessage_C:WidgetTree.UnitLabel_2.Text
@@ -3644,7 +3644,7 @@ msgstr "топор"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_35.In Text
 msgctxt ",BF4A31134BC5C653FED53AB484D14C15"
 msgid "木炭炉"
-msgstr "угольная печь"
+msgstr "Каменная печь"
 
 #. Key:	BF4C2992461B4E7927F03DAEB925755D
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_37.In Text
@@ -3672,7 +3672,7 @@ msgstr "дождь"
 #: /Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_3.TZZ_25_C35A51E443EAFDA67203CFBC1ACCE357
 msgctxt ",C0C0173B4DBC2AE07D74ABBAEF6ABAD0"
 msgid "生命强悍"
-msgstr "жизнь сильна"
+msgstr "Много НР"
 
 #. Key:	C12D28E24DF61E9D26F30EA94EA043FF
 #. SourceLocation:	/Game/Blueprint/ACF/Tutorial/WBP_TutorialTip2.WBP_TutorialTip2_C:WidgetTree.TextBlock_1.Text
@@ -3861,7 +3861,7 @@ msgstr "короткий топор"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",CCBFH"
 msgid "拆除不返还材料,但获得工程经验"
-msgstr "Снос не возвращает материалы, но получает инженерный опыт"
+msgstr "Снос не возвращает материалы, но дает инженерный опыт"
 
 #. Key:	CCEA1679435409D6C3183B863520690B
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_92.In Text
@@ -3952,7 +3952,7 @@ msgstr "+"
 #: /Game/Blueprint/UMG/Furniture/WBP_ShowDCZ.WBP_ShowDCZ_C:WidgetTree.TextBlock_112.Text
 msgctxt ",D1E4D1B34D0AEAF6C9885DA1F48F94B2"
 msgid "连接"
-msgstr "соединять"
+msgstr "Подключить"
 
 #. Key:	D2A4C2124089937029EA4F95DC46D778
 #. SourceLocation:	/Game/Blueprint/UMG/Inventory/WBP_ItemButton.WBP_ItemButton_C:OnDrop [Script Bytecode]
@@ -4169,7 +4169,7 @@ msgstr "Сопротивл. оглушению"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_41.Text
 msgctxt ",DEB9042443EF069BF71FC19D24BE6A33"
 msgid "断肢增加"
-msgstr "увеличение количества сломанных конечностей"
+msgstr "Сломанные конечности +"
 
 #. Key:	DEE485DE4FE5DF283FA39FAD921CA4A4
 #. SourceLocation:	/Game/Blueprint/ACF/Player/HDCK_GameState.Default__HDCK_GameState_C:Team Manager.Teams(3 - Value).Teams.DisplayName
@@ -4190,7 +4190,7 @@ msgstr "лом"
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_LoadGame.WBP_LoadGame_C:WidgetTree.TextBlock_98.Text
 msgctxt ",DFB9E2BA411799A5BE6B59A3F156E17B"
 msgid "读取"
-msgstr "читать"
+msgstr "Загрузить"
 
 #. Key:	DFDC7D0B43D1E23D901A57BD71F2458D
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_48.In Text
@@ -4309,7 +4309,7 @@ msgstr "10/10"
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_GameSetting.WBP_GameSetting_C:WidgetTree.ShowTex_11.Text
 msgctxt ",E51278044D668F0A8930B08C5B984311"
 msgid "商人物资刷新"
-msgstr "Обновление торговых припасов"
+msgstr "Обновление предложений торговли"
 
 #. Key:	E55D360946BFB010A48B85A3400EDE5D
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Throw/BP_Throw_Base.Default__BP_Throw_Base_C.ItemInfo.Name
@@ -4645,7 +4645,7 @@ msgstr "Недостаточно воды!"
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_GameSetting.Default__WBP_GameSetting_C.SSQDSelect(3).SSQDSelect
 msgctxt ",F43A38CA419B4DC62020BDA1712DC2C8"
 msgid "极强"
-msgstr "чрезвычайно сильный"
+msgstr "очень сильные"
 
 #. Key:	F4BF7A6C48622D449AFBF195173F9A89
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/WBP_RoomSlot.WBP_RoomSlot_C:ExecuteUbergraph_WBP_RoomSlot [Script Bytecode]
@@ -4897,7 +4897,7 @@ msgstr "Нажмите Tab, чтобы открыть рюкзак"
 #: /Game/Blueprint/UMG/Furniture/WBP_CarInventory01.WBP_CarInventory01_C:WidgetTree.TextBlock_2.Text
 msgctxt ",FFAED73E43A4E58BDAFD03B5F6FFB55A"
 msgid "取出燃料"
-msgstr "извлечь топливо"
+msgstr "слить топливо"
 
 #. Key:	FFE8A66A42DC7F05EC1CED97A6CEF7A2
 #. SourceLocation:	/Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(5).Mappings.PlayerMappableOptions.DisplayName
@@ -5849,14 +5849,14 @@ msgstr "технологический верстак"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B36"
 msgid "密封排气机"
-msgstr "Выхлопная машина уплотнения"
+msgstr "Станок для консервирования"
 
 #. Key:	B37
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B37"
 msgid "雨水收集器"
-msgstr "коллектор дождевой воды"
+msgstr "Сборщик дождевой воды"
 
 #. Key:	B38
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -5940,14 +5940,14 @@ msgstr "Электрическая печь"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B48"
 msgid "木炭炉"
-msgstr "угольная печь"
+msgstr "Каменная печь"
 
 #. Key:	B49
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B49"
 msgid "烹饪台"
-msgstr "кулинарная станция"
+msgstr "Электроплита"
 
 #. Key:	B5
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -5996,14 +5996,14 @@ msgstr "Усовершенствованное оборудование для �
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B55"
 msgid "纺织机"
-msgstr "текстильная машина"
+msgstr "Ткацкий станок"
 
 #. Key:	B56
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B56"
 msgid "制衣台"
-msgstr "Туалетный столик"
+msgstr "Стол портного"
 
 #. Key:	B57
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6472,7 +6472,7 @@ msgstr "бронированная обувь"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,A37"
 msgid "肩灯"
-msgstr "плечевой фонарь"
+msgstr "наплечный фонарь"
 
 #. Key:	A4
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -6955,7 +6955,7 @@ msgstr "овощной суп"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F33"
 msgid "蜜汁水果"
-msgstr "плод пади"
+msgstr "Фруктовый нектар"
 
 #. Key:	F34
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7074,7 +7074,7 @@ msgstr "Вкусный Минестроне"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F49"
 msgid "美味水果炖肉"
-msgstr "Пикантное фруктовое рагу"
+msgstr "Вкусное овощное рагу"
 
 #. Key:	F5
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7165,7 +7165,7 @@ msgstr "гриб"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F60"
 msgid "有效治疗疟疾"
-msgstr "Эффективно лечит малярию"
+msgstr "Эффективно лечит дизентерию"
 
 #. Key:	F61
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7186,14 +7186,14 @@ msgstr "кофейный напиток"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F63"
 msgid "小塑料瓶"
-msgstr "маленькая пластиковая бутылка"
+msgstr "бутылка маленькая "
 
 #. Key:	F64
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F64"
 msgid "大塑料瓶"
-msgstr "большая пластиковая бутылка"
+msgstr "бутылка большая "
 
 #. Key:	F65
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7207,7 +7207,7 @@ msgstr "алюминиевая фляга"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F66"
 msgid "蔬菜肉罐头"
-msgstr "консервы овощные мясные"
+msgstr "консервы мясное рагу"
 
 #. Key:	F67
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7256,7 +7256,7 @@ msgstr "Вкусные мясные консервы"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F72"
 msgid "美味蜜汁肉罐头"
-msgstr "Вкусные мясные консервы с медовым соусом"
+msgstr "Вкусные мясные консервы с медом"
 
 #. Key:	F73
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7690,14 +7690,14 @@ msgstr "глина"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M23"
 msgid "铜块"
-msgstr "медный блок"
+msgstr "Медный слиток"
 
 #. Key:	M24
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M24"
 msgid "铁块"
-msgstr "Железный блок"
+msgstr "Железный слиток"
 
 #. Key:	M25
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7711,7 +7711,7 @@ msgstr "серебряный самородок"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M26"
 msgid "铝块"
-msgstr "Алюминиевый блок"
+msgstr "Алюминиевый слиток"
 
 #. Key:	M27
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7823,7 +7823,7 @@ msgstr "доска"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M40"
 msgid "工具箱"
-msgstr "ящик для инструментов"
+msgstr "ящик с инструментами"
 
 #. Key:	M41
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7865,7 +7865,7 @@ msgstr "Чертеж металлического лука"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M46"
 msgid "子弹加工工艺"
-msgstr "технология обработки пули"
+msgstr "технология обработки пуль"
 
 #. Key:	M47
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7886,7 +7886,7 @@ msgstr "Чертежи фармацевтических инструментов
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M49"
 msgid "高级化学反应设备图纸"
-msgstr "Чертежи современного оборудования для химической реакции"
+msgstr "Чертежи современного оборудования для химических реакций"
 
 #. Key:	M5
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7935,7 +7935,7 @@ msgstr "Руководство по обучению стали"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M55"
 msgid "电子元件"
-msgstr "Электронный компонент"
+msgstr "Электроника"
 
 #. Key:	M56
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7970,7 +7970,7 @@ msgstr "тигель"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M6"
 msgid "小瓶燃油"
-msgstr "небольшая бутылка топлива"
+msgstr "Канистра малая"
 
 #. Key:	M60
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8047,7 +8047,7 @@ msgstr "семена огурца"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M7"
 msgid "大瓶燃油"
-msgstr "большая бутылка топлива"
+msgstr "Канистра большая"
 
 #. Key:	M70
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8299,14 +8299,14 @@ msgstr "мазь"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,T13"
 msgid "胃药"
-msgstr "желудочная медицина"
+msgstr "антибиотики"
 
 #. Key:	T14
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,T14"
 msgid "治疗疟疾"
-msgstr "лечить малярию"
+msgstr "лечить дизентерию"
 
 #. Key:	T15
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8334,7 +8334,7 @@ msgstr "пенициллин"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,T18"
 msgid "治疗感染"
-msgstr "лечить инфекцию"
+msgstr "лечит инфекции"
 
 #. Key:	T19
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8397,7 +8397,7 @@ msgstr "отмычки"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,T26"
 msgid "油井核心"
-msgstr "керн нефтяной скважины"
+msgstr "Нефтяной насос"
 
 #. Key:	T3
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8747,7 +8747,7 @@ msgstr "Использует боеприпасы калибра 5,56."
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W48"
 msgid "使用9mm子弹"
-msgstr "Используйте пули калибра 9 мм."
+msgstr "Использует пули калибра 9 мм."
 
 #. Key:	W49
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8761,7 +8761,7 @@ msgstr "Использует боеприпасы 12-го калибра."
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W5"
 msgid "石刀"
-msgstr "каменный меч"
+msgstr "каменный нож"
 
 #. Key:	W50
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8817,7 +8817,7 @@ msgstr "деревянное копье"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W7"
 msgid "可以投掷"
-msgstr "может бросить"
+msgstr "можно бросить"
 
 #. Key:	W8
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8838,7 +8838,7 @@ msgstr "Используется для разбивания камней и с�
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,01"
 msgid "当食物新鲜度开始变黄，吃下去可能会感染疟疾，新鲜度越低感染的可能性越大。"
-msgstr "Когда свежесть пищи начинает желтеть, вы можете заразиться малярией после ее употребления. Чем ниже свежесть - тем больше вероятность заражения"
+msgstr "Когда полоска свежести пищи начинает желтеть, вы можете заразиться дизентерией после ее употребления. Чем ниже свежесть - тем больше вероятность заражения"
 
 #. Key:	02
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -8880,7 +8880,7 @@ msgstr "При использовании топора или кирки для 
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,07"
 msgid "将罐头单独加热可获得对应的菜品。"
-msgstr "Соответствующие блюда можно получить, нагревая банки по отдельности."
+msgstr "Разогревая консервированную еду, вы делаете блюда лучше"
 
 #. Key:	08
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -8915,7 +8915,7 @@ msgstr "Запертый шкаф или дверь можно открыть л
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,12"
 msgid "用小锤可以拆除某些物品获取材料。"
-msgstr "Некоторые предметы можно разобрать для получения материалов с помощью небольшого молотка"
+msgstr "Некоторые предметы можно разобрать с помощью молотка для получения материалов"
 
 #. Key:	13
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -8929,7 +8929,7 @@ msgstr "Застрял? Используй 'выбраться из тупика
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,14"
 msgid "人物前方近处有物体的话，可能会导致枪械无法瞄准。"
-msgstr "Если рядом с персонажем есть объект, это может привести к тому, что огнестрельное оружие не сможет прицелиться."
+msgstr "Если рядом с персонажем есть объект, это может привести к тому, что оружие дальнего боя не попадет в цель"
 
 #. Key:	15
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -8964,7 +8964,7 @@ msgstr "Предметы, брошенные на землю, исчезнут, 
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,AddBuff"
 msgid "提供一个美好食物Buff"
-msgstr "Обеспечивает хороший пищевой бафф"
+msgstr "Дает хорошее насыщение"
 
 #. Key:	AddMakeList
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -9174,14 +9174,14 @@ msgstr "мебель"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,BuildingOutDoor"
 msgid "户外"
-msgstr "открытый"
+msgstr "улица"
 
 #. Key:	BuildingRoof
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,BuildingRoof"
 msgid "屋顶"
-msgstr "крыша"
+msgstr "Крыша"
 
 #. Key:	BuildingStruct
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -9279,7 +9279,7 @@ msgstr "управление транспортным средством"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,carbohydrate"
 msgid "碳水化合物"
-msgstr "углевод"
+msgstr "углеводы"
 
 #. Key:	CARHANG
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -9300,21 +9300,21 @@ msgstr "передние фары"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,CDDX"
 msgid "充电源"
-msgstr "источник зарядки"
+msgstr "потребитель энергии"
 
 #. Key:	CDMC021
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,CDMC021"
 msgid "存档名称"
-msgstr "Имя архива"
+msgstr "Имя сохранения"
 
 #. Key:	CDTS
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,CDTS"
 msgid "请输入一个有效存档名称或者有相同名称的存档存在"
-msgstr "Пожалуйста введите действительное имя архива или архив с таким именем уже существует"
+msgstr "Не задано имя сохранения или с таким именем уже есть сохранение"
 
 #. Key:	CF
 #. SourceLocation:	/Game/LocalizationText/UIStudy.UIStudy
@@ -9328,7 +9328,7 @@ msgstr "Портной"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,ChangAn"
 msgid "长按"
-msgstr "Нажимать"
+msgstr "Удерж."
 
 #. Key:	Change
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -9398,7 +9398,7 @@ msgstr "создать"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,CJDRYX"
 msgid "创建多人游戏"
-msgstr "Создать многопользовательскую игру"
+msgstr "Многопользовательская"
 
 #. Key:	CJIng
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -9573,7 +9573,7 @@ msgstr "разрушить"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,destroyHammer"
 msgid "使用建造锤长按"
-msgstr "Длительное нажатие строительным молотком"
+msgstr "Длительное нажатие"
 
 #. Key:	Detail
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -9650,7 +9650,7 @@ msgstr "соединять:"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,DLValue"
 msgid "电量："
-msgstr "Сила:"
+msgstr "Мощность:"
 
 #. Key:	DQ
 #. SourceLocation:	/Game/LocalizationText/UIStudy.UIStudy
@@ -9699,7 +9699,7 @@ msgstr "Пожалуйста, выберите количество сбросо
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,DRYX"
 msgid "单人游戏"
-msgstr "одиночная игра"
+msgstr "Одиночная игра"
 
 #. Key:	DTMH
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10140,7 +10140,7 @@ msgstr "здоровье"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,hymr"
 msgid "还原默认"
-msgstr "сброс настроек"
+msgstr "Сброс настроек"
 
 #. Key:	Inventory
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10189,21 +10189,21 @@ msgstr "Взаимодействие 2"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,JINRU"
 msgid "进入"
-msgstr "Входить"
+msgstr "Сесть"
 
 #. Key:	JN
 #. SourceLocation:	/Game/LocalizationText/UIStudy.UIStudy
 #: /Game/LocalizationText/UIStudy.UIStudy
 msgctxt "UI,JN"
 msgid "技能"
-msgstr "Навык"
+msgstr "Навыки"
 
 #. Key:	JNAdd
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,JNAdd"
 msgid "技能熟练度增加"
-msgstr "Повышается уровень мастерства"
+msgstr "Повышен уровень мастерства"
 
 #. Key:	JoinGame
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10231,7 +10231,7 @@ msgstr "Лучше использовать после разогрева."
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,JRDRYX"
 msgid "加入多人游戏"
-msgstr "Присоединиться к многопользовательской игре"
+msgstr "Присоединиться к игре"
 
 #. Key:	JX
 #. SourceLocation:	/Game/LocalizationText/UIStudy.UIStudy
@@ -10294,7 +10294,7 @@ msgstr "Мне холодно"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,KHMS"
 msgid "枪械开火模式"
-msgstr "режим стрельбы из пушки"
+msgstr "режим стрельбы"
 
 #. Key:	KHX
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -10357,7 +10357,7 @@ msgstr "качество визуального расстояния"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,KTDetail"
 msgid "病毒抗体\r\n抗体为0就会死亡"
-msgstr "вирусное антитело\r\nЕсли антитело равно 0, оно умрет."
+msgstr "вирусное антитело\r\nЕсли антитело равно 0, вы умрете"
 
 #. Key:	Language
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10406,7 +10406,7 @@ msgstr "истекать кровью"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,LJ"
 msgid "连接"
-msgstr "соединять"
+msgstr "Подключить"
 
 #. Key:	load
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10434,21 +10434,21 @@ msgstr "заблокирован"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,LumenLight"
 msgid "Lumen全局光照"
-msgstr "Люмен глобальное освещение"
+msgstr "Глобальное освещение Lumen"
 
 #. Key:	LumenQuial
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,LumenQuial"
 msgid "Lumen质量"
-msgstr "Качество люмена"
+msgstr "Качество Lumen"
 
 #. Key:	LumenRef
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,LumenRef"
 msgid "Lumen反射"
-msgstr "Отражение люмена"
+msgstr "Отражение Lumen"
 
 #. Key:	LX
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10469,7 +10469,7 @@ msgstr "Ресурсы для создания:"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,LZXG"
 msgid "粒子效果"
-msgstr "эффект частиц"
+msgstr "эффекты частиц"
 
 #. Key:	Main
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10504,7 +10504,7 @@ msgstr "Производственная очередь заполнена!"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,MakeTime"
 msgid "制作时间："
-msgstr "сроки изготовления:"
+msgstr "Время изготовления: "
 
 #. Key:	Male
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10518,7 +10518,7 @@ msgstr "мужчина"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,MaxCharacter"
 msgid "达到最大角色数量"
-msgstr "Набрать максимальное количество персонажей"
+msgstr "Максимальное количество персонажей"
 
 #. Key:	MaxStam
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -10553,7 +10553,7 @@ msgstr "Бровь"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,mood"
 msgid "心态"
-msgstr "мышление"
+msgstr "настроение"
 
 #. Key:	More
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10574,7 +10574,7 @@ msgstr "чувствительность мыши"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,MutilGame"
 msgid "多人游戏"
-msgstr "многопользовательская игра"
+msgstr "Сетевая игра"
 
 #. Key:	MWSW
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10728,7 +10728,7 @@ msgstr "Подарочный набор новичка"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,NJ"
 msgid "疟疾"
-msgstr "малярия"
+msgstr "Дизентерия"
 
 #. Key:	NLSX
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10889,7 +10889,7 @@ msgstr "посажены другие растения"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,NYFL"
 msgid "肥力"
-msgstr "плодородие"
+msgstr "удобрение"
 
 #. Key:	NYMature
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10987,7 +10987,7 @@ msgstr "Пожалуйста, введите ключ привязки"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,QB"
 msgid "雀斑"
-msgstr "веснушка"
+msgstr "веснушки"
 
 #. Key:	QCCW01
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11253,7 +11253,7 @@ msgstr "тон"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,SetTipMessage"
 msgid "设置应用完成,某些选项可能需要在游戏重启后生效"
-msgstr "Приложение настроек завершено, некоторые параметры должны вступить в силу после перезапуска игры."
+msgstr "Настройки сохранены, некоторые параметры вступят в силу после перезапуска игры"
 
 #. Key:	Settting
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11442,21 +11442,21 @@ msgstr "Количество убитых зомби:"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,SSND01"
 msgid "弱"
-msgstr "слабый"
+msgstr "слабые"
 
 #. Key:	SSND02
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,SSND02"
 msgid "一般"
-msgstr "в общем"
+msgstr "обычные"
 
 #. Key:	SSND03
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,SSND03"
 msgid "强"
-msgstr "мощный"
+msgstr "сильные"
 
 #. Key:	SSQD
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11498,14 +11498,14 @@ msgstr "выносливость"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,Start"
 msgid "        丧尸病毒爆发，你躲在避难所生活了三年，但是避难所的资源也逐渐消耗殆尽，你遭到了放逐，接下来你只能靠自己在末世生存下去..."
-msgstr "        Вспыхнул зомби-вирус, вы прожили в приюте три года, но ресурсы приюта постепенно истощились, вас сослали, и дальше выжить в апокалипсисе можно только самому..."
+msgstr "        После вспышки зомби-вируса вы прожили в убежище три года, но ресурсы постепенно истощились и вам пришлось покинуть его для поиска припасов, что бы выжить в пост-апокалипсисе..."
 
 #. Key:	StartDl
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,StartDl"
 msgid "开始发电"
-msgstr "начать производить электроэнергию"
+msgstr "Включить генератор"
 
 #. Key:	StartWater
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11519,7 +11519,7 @@ msgstr "начать качать"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,StopDL"
 msgid "停止发电"
-msgstr "остановить производство электроэнергии"
+msgstr "Выключить генератор"
 
 #. Key:	StopWater
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11603,7 +11603,7 @@ msgstr "выход"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,TD"
 msgid "特点"
-msgstr "Функции"
+msgstr "Атрибуты"
 
 #. Key:	TF
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11638,7 +11638,7 @@ msgstr "Пожалуйста, введите имя!"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,TLD"
 msgid "由矿石熔炼而成，或者是通过拆卸物品获得，可以熔炼成锭"
-msgstr "Выплавляется из руды или получается при разборке предметов, которые можно переплавить в слитки."
+msgstr "Выплавляется из руды или получается при разборке предметов, можно переплавить в слитки"
 
 #. Key:	TLDetail
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -11680,7 +11680,7 @@ msgstr "включить"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,TTZL"
 msgid "贴图质量"
-msgstr "Качество текстуры"
+msgstr "Качество текстур"
 
 #. Key:	Type
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11701,7 +11701,7 @@ msgstr "конституция"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZBDF"
 msgid "易感病毒"
-msgstr "восприимчивый вирус"
+msgstr "восприимчивость к вирусу"
 
 #. Key:	TZBDZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -11722,14 +11722,14 @@ msgstr "Влияет на жизнь, максимальную вынослив�
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZFYF"
 msgid "细皮嫩肉"
-msgstr "нежное мясо"
+msgstr "Мягкотелый"
 
 #. Key:	TZFYZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZFYZ"
 msgid "皮糙肉厚"
-msgstr "толстая кожа"
+msgstr "Толстокожий"
 
 #. Key:	TZFZF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -11743,14 +11743,14 @@ msgstr "перегруженный"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZFZZ"
 msgid "负重前行"
-msgstr "Перенести вперед"
+msgstr "Переносимый вес"
 
 #. Key:	TZKCF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZKCF"
 msgid "不擅交易"
-msgstr "Не силен в трейдинге"
+msgstr "Не силен в торговле"
 
 #. Key:	TZKCZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -11771,7 +11771,7 @@ msgstr "легко пить"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZKKZ"
 msgid "不易口渴"
-msgstr "не легко испытывать жажду"
+msgstr "легкая жажда"
 
 #. Key:	TZKSQ
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11792,14 +11792,14 @@ msgstr "пессимистичный"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZLGZ"
 msgid "乐观"
-msgstr "оптимизм"
+msgstr "Оптимист"
 
 #. Key:	TZLLF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZLLF"
 msgid "力气较小"
-msgstr "меньше мощности"
+msgstr "слабый"
 
 #. Key:	TZLLZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -11827,7 +11827,7 @@ msgstr "Отличная выносливость"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZQSF"
 msgid "大胃王"
-msgstr "король с большим желудком"
+msgstr "Чревоугодие"
 
 #. Key:	TZQSZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -11848,7 +11848,7 @@ msgstr "трудности в обучении"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZRAXXZ"
 msgid "热爱学习"
-msgstr "Люблю учиться"
+msgstr "Любит учиться"
 
 #. Key:	TZSDF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -11890,7 +11890,7 @@ msgstr "не люблю бегать"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZTJZ"
 msgid "田径选手"
-msgstr "легкая атлетика"
+msgstr "Атлет"
 
 #. Key:	TZWQF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -11939,7 +11939,7 @@ msgstr "осторожный"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZZLF"
 msgid "嗜睡"
-msgstr "вялость"
+msgstr "сонливость"
 
 #. Key:	TZZLZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -12030,7 +12030,7 @@ msgstr "Сделано на передовом оборудовании для �
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,useHammerBuild"
 msgid "使用建造锤建造"
-msgstr "Стройте с помощью строительного молотка"
+msgstr "Строится с помощью строительного молотка"
 
 #. Key:	useHXFYT
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12051,7 +12051,7 @@ msgstr "Изготовлено с использованием верстака"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,useJXJGT"
 msgid "使用机械加工台制作"
-msgstr "Сделано на технологическом верстаке"
+msgstr "Создается на технологическом верстаке"
 
 #. Key:	useMTL
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12093,7 +12093,7 @@ msgstr "Изготовлено на аптечном столе"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,viralinfection"
 msgid "病毒抗体"
-msgstr "вирусное антитело"
+msgstr "вирусные антитела"
 
 #. Key:	WaterClear
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12135,7 +12135,7 @@ msgstr "рукоятка"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,WDXS"
 msgid "温度显示"
-msgstr "дисплей температуры"
+msgstr "Температурная шкала"
 
 #. Key:	WeaponNotUse
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12205,21 +12205,21 @@ msgstr "не отремонтированный"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,WZSL"
 msgid "物资数量"
-msgstr "Количество материала"
+msgstr "Количество лута"
 
 #. Key:	WZSL01
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,WZSL01"
 msgid "稀少"
-msgstr "редкий"
+msgstr "мало"
 
 #. Key:	WZSL02
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,WZSL02"
 msgid "正常"
-msgstr "обычный"
+msgstr "обычно"
 
 #. Key:	WZSL03
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -12233,7 +12233,7 @@ msgstr "много"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,WZSL04"
 msgid "极多"
-msgstr "много"
+msgstr "изобилие"
 
 #. Key:	XBCD
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -12247,7 +12247,7 @@ msgstr "длина подбородка"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,XBDX"
 msgid "下巴大小"
-msgstr "Размер подбородка"
+msgstr "размер подбородка"
 
 #. Key:	XBGD
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -12317,7 +12317,7 @@ msgstr "Ремонт прошел успешно"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,XLSQTQQ"
 msgid "使用油井核心修理"
-msgstr "Использовать ремонт керна скважины"
+msgstr "Осуществить ремонт нефтяного насоса"
 
 #. Key:	XSTJ
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12380,14 +12380,14 @@ msgstr "Металлургия"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,YJSW"
 msgid "永久死亡"
-msgstr "постоянная смерть"
+msgstr "одна жизнь"
 
 #. Key:	YJSWTS
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,YJSWTS"
 msgid "死亡以后重置所有技能"
-msgstr "Сбросить все навыки после смерти"
+msgstr "Сбрасывает все навыки после смерти"
 
 #. Key:	YNDSJ
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -12422,7 +12422,7 @@ msgstr "Настройки игры:"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,YY"
 msgid "阴影"
-msgstr "тень"
+msgstr "тени"
 
 #. Key:	YZ
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -12485,7 +12485,7 @@ msgstr "повернуть"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,ZLSD"
 msgid "帧率锁定"
-msgstr "блокировка частоты кадров"
+msgstr "Ограничение частоты кадров"
 
 #. Key:	ZS
 #. SourceLocation:	/Game/LocalizationText/UI.UI
