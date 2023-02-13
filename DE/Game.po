@@ -921,6 +921,7 @@ msgstr "Steuersatz"
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_GameSetting.WBP_GameSetting_C:WidgetTree.Lang_5.ToolTipText
 msgctxt ",2A7A81C04CC79CA961EFA583EB846C9E"
 msgid "0表示无"
+#0 = kein Loot Respawn
 msgstr "0 bedeutet keine"
 
 #. Key:	2A956A2A4408BCF9A24AE18FC7A69E73
@@ -1922,6 +1923,7 @@ msgstr "IA_Handbremse"
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_GameSetting.WBP_GameSetting_C:WidgetTree.ShowTex_13.Text
 msgctxt ",629AAA57465DF8D3DEBECAAC6C7D08A3"
 msgid "病毒致命率"
+#Infektionsrate
 msgstr "Sterblichkeitsrate von Viren"
 
 #. Key:	62C8A03B4DD8D04AB4D1039910593300
@@ -2111,6 +2113,7 @@ msgstr "Beziehung: 50"
 #: /Game/Blueprint/ACF/Item/Tool/BP_ToolAxe.Default__BP_ToolAxe_C.ItemInfo.Description
 msgctxt ",6B6E2B914267363D168051958D0E1DF6"
 msgid "主要用于砍树，必要时候也可以用来防身。"
+#Beschreibing Axt
 msgstr "Es wird hauptsächlich zum Fällen von Bäumen verwendet und kann bei Bedarf auch zur Selbstverteidigung eingesetzt werden."
 
 #. Key:	6BCC8EA647892C6DDF2E86BC4A37CA07
@@ -2965,6 +2968,7 @@ msgstr "An Tag {0}"
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_GameSetting.WBP_GameSetting_C:WidgetTree.SliderBD.ToolTipText
 msgctxt ",9ADCC17141C6AAA9B282CBA73B8AF4CC"
 msgid "提高病毒感染性，你需要更多抗体"
+#Beschreibung Infektionsrate
 msgstr "Um die virale Infektiosität zu erhöhen, benötigen Sie mehr Antikörper"
 
 #. Key:	9B6E782A4617B9BA87703EB8BE12EB15
@@ -8466,6 +8470,7 @@ msgstr "Fackel"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W11"
 msgid "主要用于照明"
+#Beschreibung Fackel
 msgstr "Hauptsächlich für die Beleuchtung verwendet"
 
 #. Key:	W12
@@ -8529,7 +8534,8 @@ msgstr "Kann zum Aufbrechen von verschlossenen Kisten oder Türen verwendet werd
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W2"
 msgid "将中心点对准建筑，进行捕捉"
-msgstr "Richten Sie den Mittelpunkt am zu fangenden Gebäude aus"
+#Bauhammer beschreibung
+msgstr "Der Bauhammer wird benötigt um "
 
 #. Key:	W20
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8683,6 +8689,7 @@ msgstr "Stahlspeer"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W4"
 msgid "主要用于砍树，必要时候也可以用来防身。"
+#Beschreibung der Steinaxt
 msgstr "Es wird hauptsächlich zum Fällen von Bäumen verwendet und kann bei Bedarf auch zur Selbstverteidigung eingesetzt werden."
 
 #. Key:	W40
@@ -8830,6 +8837,7 @@ msgstr "Steinspitzhacke"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W9"
 msgid "主要用于打碎石头，必要时候也可以用来防身。"
+#Beschreibung Steinspitzhacke
 msgstr "Es wird hauptsächlich zum Brechen von Steinen verwendet und kann bei Bedarf auch zur Selbstverteidigung eingesetzt werden."
 
 #. Key:	01
@@ -10195,7 +10203,7 @@ msgstr "Einsteigen"
 #: /Game/LocalizationText/UIStudy.UIStudy
 msgctxt "UI,JN"
 msgid "技能"
-msgstr "Können"
+msgstr "Fertigkeiten"
 
 #. Key:	JNAdd
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10237,6 +10245,7 @@ msgstr "Nehmen Sie an einem Mehrspieler-Spiel teil"
 #: /Game/LocalizationText/UIStudy.UIStudy
 msgctxt "UI,JX"
 msgid "机械"
+#Bei den Skills Leerzeichen einfügen da im Techbaum zusammen
 msgstr "Maschinenbau"
 
 
@@ -10462,6 +10471,7 @@ msgstr "Gesichtsform"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,LXXH"
 msgid "练习消耗："
+#Lernkosten
 msgstr "Übungsverbrauch:"
 
 #. Key:	LZXG
@@ -11274,7 +11284,7 @@ msgstr "Virtuelle Texturschatten"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,shanchu"
 msgid "删除"
-msgstr "löschen"
+msgstr "Löschen"
 
 #. Key:	ShowPlayerID
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
