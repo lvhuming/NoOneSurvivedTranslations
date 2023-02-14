@@ -18,7 +18,7 @@ msgstr ""
 #: /Game/Blueprint/UMG/Inventory/WBP_UseMenu.WBP_UseMenu_C:WidgetTree.TextBlock_9.Text
 msgctxt ",005986EF48789316B83C53885CBD1FB8"
 msgid "清洗"
-msgstr "Reinigen"
+msgstr "Waschen"
 
 #. Key:	00986F3D49F50B3B8F6203A93FD5D846
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_SPX.WBP_SPX_C:WidgetTree.development.Text
@@ -32,7 +32,7 @@ msgstr "Entwicklung"
 #: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(13 - Value).DisplayNameMap
 msgctxt ",01471E2242A1A96EA568E09F19D72C20"
 msgid "GuardRail"
-msgstr "Leitplanke"
+msgstr "Geländer"
 
 #. Key:	014F3B6240A63915DEDF3CA9D50249E4
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_24.Text
@@ -466,7 +466,7 @@ msgstr "Modell 02"
 #: /Game/Blueprint/ACF/Data/TableAsset/WeaponTable.WeaponTable.钢棍.ItemInfo_66_F92A1A3B448C3413FD56918B4BFB9241.Description
 msgctxt ",15D9FC6D405518521E6F85AE7A97F9E9"
 msgid "露茜儿++"
-msgstr "Baseballschläger aus Stahl"
+msgstr "Baseballschläger mit Stahlnägeln"
 
 #. Key:	1642BB7A48E5FE6EA66338A6FC29C43C
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/QT/BP_GunAccessory_CF_QT01.Default__BP_GunAccessory_CF_QT01_C.ItemInfo.Description
@@ -921,7 +921,6 @@ msgstr "Steuersatz"
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_GameSetting.WBP_GameSetting_C:WidgetTree.Lang_5.ToolTipText
 msgctxt ",2A7A81C04CC79CA961EFA583EB846C9E"
 msgid "0表示无"
-#0 = kein Loot Respawn
 msgstr "0 bedeutet keine"
 
 #. Key:	2A956A2A4408BCF9A24AE18FC7A69E73
@@ -1209,7 +1208,7 @@ msgstr "1233"
 #: /Game/Blueprint/ACF/Item/Tool/BP_ToolPickaxe.Default__BP_ToolPickaxe_C.ItemInfo.Description
 msgctxt ",3906A0864857BE406694849A0851429D"
 msgid "主要用于打碎石头，必要时候也可以用来防身。"
-msgstr "Es wird hauptsächlich zum Zerstören von Felsen verwendet und kann bei Bedarf auch zur Selbstverteidigung eingesetzt werden."
+msgstr "Sie wird hauptsächlich zum Abbau von Felsen und Erzen verwende, kann aber bei Bedarf auch zur Selbstverteidigung eingesetzt werden."
 
 #. Key:	3949BD354C0840CBF08A628DDE1B0141
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_84.In Text
@@ -1391,7 +1390,7 @@ msgstr "Suchzeit"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_11.In Text
 msgctxt ",4492781C4F5E797D00FE94AE878EF46C"
 msgid "化学反应台"
-msgstr "Chemische Reaktionstisch"
+msgstr "Chemischer Reaktionstisch"
 
 #. Key:	4561C12A4DF8189CD64E2EB0ED0F2A01
 #. SourceLocation:	/Game/Blueprint/ACF/Manager/E_Season.E_Season.DisplayNameMap(1 - Value).DisplayNameMap
@@ -1531,7 +1530,7 @@ msgstr "Herstellen"
 #: /Game/Blueprint/UMG/ChatSystem/WBP_ChatMenu.WBP_ChatMenu_C:WidgetTree.TextBlock_76.Text
 msgctxt ",4DE2155C45DCE36BF49919A06DAD7B06"
 msgid "发送"
-msgstr "senden"
+msgstr "Senden"
 
 #. Key:	4E6DDE3D44A78378A8AEA4A2389E7683
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_10.In Text
@@ -1706,7 +1705,7 @@ msgstr "Brechstange aus Stahl"
 #: /Game/Blueprint/ACF/Tutorial/WBP_TutorialTip0.WBP_TutorialTip0_C:WidgetTree.TextBlock_2.Text
 msgctxt ",58F0265A40DBE9CFC7C484B4CAC7BEDC"
 msgid "如果跌倒了，按下空格爬起"
-msgstr "Wenn du hinfällst, drücke die Leertaste, um wieder aufzustehen."
+msgstr "Wenn du hinfällst, drücke die Leertaste um wieder aufzustehen."
 
 #. Key:	5909FDD94497886779AC7197412B1F87
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/QK/BP_GunAccessoryQK_RifleBC02.Default__BP_GunAccessoryQK_RifleBC02_C.ItemInfo.Description
@@ -1727,7 +1726,7 @@ msgstr "MP7 SMG"
 #: /Game/Blueprint/UMG/ScreenMessage/WBP_CarMessage.WBP_CarMessage_C:WidgetTree.UnitLabel_1.Text
 msgctxt ",597318344B733EB7EA60D2A7DB6A2858"
 msgid "Km/h"
-msgstr "km/h"
+msgstr "Km/h"
 
 #. Key:	597545DD4D4780FBCD5F29BD2EF818C9
 #. SourceLocation:	/Game/Blueprint/UMG/EscMenu/ScreenSwitch.ScreenSwitch.DisplayNameMap(3 - Value).DisplayNameMap
@@ -1923,8 +1922,7 @@ msgstr "IA_Handbremse"
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_GameSetting.WBP_GameSetting_C:WidgetTree.ShowTex_13.Text
 msgctxt ",629AAA57465DF8D3DEBECAAC6C7D08A3"
 msgid "病毒致命率"
-#Infektionsrate
-msgstr "Sterblichkeitsrate von Viren"
+msgstr "Infektionsrate"
 
 #. Key:	62C8A03B4DD8D04AB4D1039910593300
 #. SourceLocation:	/Game/Blueprint/ACF/Data/TableAsset/FoodAssetTable.FoodAssetTable.机修（四卷）.Name_33_B65BC8D64E83EF46F5F21FA5566C3997
@@ -2114,7 +2112,7 @@ msgstr "Beziehung: 50"
 msgctxt ",6B6E2B914267363D168051958D0E1DF6"
 msgid "主要用于砍树，必要时候也可以用来防身。"
 #Beschreibing Axt
-msgstr "Es wird hauptsächlich zum Fällen von Bäumen verwendet und kann bei Bedarf auch zur Selbstverteidigung eingesetzt werden."
+msgstr "Sie wird hauptsächlich zum Fällen von Bäumen verwendet, kann aber bei Bedarf auch zur Selbstverteidigung eingesetzt werden."
 
 #. Key:	6BCC8EA647892C6DDF2E86BC4A37CA07
 #. SourceLocation:	/Game/Blueprint/ACF/Tutorial/WBP_TutorialTip1.WBP_TutorialTip1_C:WidgetTree.TextBlock_1.Text
@@ -2205,7 +2203,7 @@ msgstr "Gegenstände in der Nähe"
 #: /Game/Blueprint/ACF/Tutorial/WBP_TutorialTip6.WBP_TutorialTip6_C:WidgetTree.TextBlock_2.Text
 msgctxt ",6F0E9F7E437D2F62860D7DBCB2CCA2B1"
 msgid "尝试在科技树中解锁工作台，并解锁木板建造"
-msgstr "Versuchen Sie Werkbänke im Technologiebaum freizuschalten, um den Plankenbau freizuschalten"
+msgstr "Versuchen Sie Werkbänke im Technologiebaum erforschen, um den Plankenbau freizuschalten"
 
 #. Key:	700402F4456BC61A64D4C8B0B01C8B25
 #. SourceLocation:	/Game/Blueprint/Car/InCarMode.InCarMode.DisplayNameMap(2 - Value).DisplayNameMap
@@ -2968,8 +2966,7 @@ msgstr "An Tag {0}"
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_GameSetting.WBP_GameSetting_C:WidgetTree.SliderBD.ToolTipText
 msgctxt ",9ADCC17141C6AAA9B282CBA73B8AF4CC"
 msgid "提高病毒感染性，你需要更多抗体"
-#Beschreibung Infektionsrate
-msgstr "Um die virale Infektiosität zu erhöhen, benötigen Sie mehr Antikörper"
+msgstr "Die Infektionsrate beeinträchtigt die Menge an Antikörpern die sie bei einem Treffer verlieren"
 
 #. Key:	9B6E782A4617B9BA87703EB8BE12EB15
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_JoinGame.WBP_JoinGame_C:ExecuteUbergraph_WBP_JoinGame [Script Bytecode]
@@ -3193,7 +3190,7 @@ msgstr "Dachkreuzung"
 #: /Game/Blueprint/UMG/WBP_Show.WBP_Show_C:WidgetTree.TextBlock_76.Text
 msgctxt ",AA46408A4903F4640EFF4DB0535DF1D9"
 msgid "游戏保存中，请勿关闭程序"
-msgstr "Schließen Sie das Spiel nicht, während gespeichert wird."
+msgstr "Schließen Sie das Spiel nicht während gespeichert wird."
 
 #. Key:	AA700A424A1CC79F89745D8B8E66743F
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_44.In Text
@@ -3242,7 +3239,7 @@ msgstr "Wasser trinken"
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_DPBase.Default__Furniture_DPBase_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 msgctxt ",ABE10B784F6D55A4DA2F40A4FBEC2520"
 msgid "用于保管物品的箱子，不会丢失物品。"
-msgstr "Eine Box zum Aufbewahren von Gegenständen, ohne sie zu verlieren."
+msgstr "Eine Box zum Aufbewahren von Gegenständen ohne sie zu verlieren."
 
 #. Key:	AC0F2FD840D825001A5E109409157C69
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_82.In Text
@@ -4634,7 +4631,7 @@ msgstr "Hoch"
 #: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(24 - Value).DisplayNameMap
 msgctxt ",F3E6CCF3436FDB6BE9F2049AED4DD2AF"
 msgid "WattleDoor"
-msgstr "Flechtwerk-Tür"
+msgstr "Strohtür"
 
 #. Key:	F3F8E148409A7CD56F64519CED4DC8A7
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_ZJ.Furniture_ZJ_C:ExecuteUbergraph_Furniture_ZJ [Script Bytecode]
@@ -7917,7 +7914,7 @@ msgstr "Zeichnung eines elektrischen Schmelzofens"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M52"
 msgid "温室种植与建造"
-msgstr "Anleitung zum Bau und zur Bepflanzung von Gewächshäusern"
+msgstr "Anleitung zum bau eines Gewächshauses"
 
 #. Key:	M53
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8534,8 +8531,7 @@ msgstr "Kann zum Aufbrechen von verschlossenen Kisten oder Türen verwendet werd
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W2"
 msgid "将中心点对准建筑，进行捕捉"
-#Bauhammer beschreibung
-msgstr "Der Bauhammer wird benötigt um "
+msgstr "Der Bauhammer ermöglicht es dir verschiedene Dinge zu bauen"
 
 #. Key:	W20
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8689,8 +8685,7 @@ msgstr "Stahlspeer"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W4"
 msgid "主要用于砍树，必要时候也可以用来防身。"
-#Beschreibung der Steinaxt
-msgstr "Es wird hauptsächlich zum Fällen von Bäumen verwendet und kann bei Bedarf auch zur Selbstverteidigung eingesetzt werden."
+msgstr "Sie wird hauptsächlich zum Fällen von Bäumen verwendet, kann aber bei Bedarf auch zur Selbstverteidigung eingesetzt werden."
 
 #. Key:	W40
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8837,8 +8832,7 @@ msgstr "Steinspitzhacke"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W9"
 msgid "主要用于打碎石头，必要时候也可以用来防身。"
-#Beschreibung Steinspitzhacke
-msgstr "Es wird hauptsächlich zum Brechen von Steinen verwendet und kann bei Bedarf auch zur Selbstverteidigung eingesetzt werden."
+msgstr "Sie wird hauptsächlich zum Abbau von Steinen und Erzen verwendet, kann aber bei Bedarf auch zur Selbstverteidigung eingesetzt werden."
 
 #. Key:	01
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -9034,7 +9028,7 @@ msgstr "Zurück"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,BackAmmo"
 msgid "退弹"
-msgstr "Entleeren"
+msgstr "Munition entnehmen"
 
 #. Key:	BackGame
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -9104,7 +9098,7 @@ msgstr "Abbau..."
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Buff"
 msgid "Buff："
-msgstr "Buff:"
+msgstr "Buff: "
 
 #. Key:	BuffTime
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -9139,7 +9133,7 @@ msgstr "Holzzaun"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Buildingadsorbent"
 msgid "可吸附："
-msgstr "Adsorbierbar:"
+msgstr "Adsorbierbar: "
 
 #. Key:	BuildingAll
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -9153,7 +9147,7 @@ msgstr "Alle"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,BuildingBearing"
 msgid "承重："
-msgstr "Belastbarkeit:"
+msgstr "Belastbarkeit: "
 
 #. Key:	BuildingCraft
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -9328,7 +9322,7 @@ msgstr "Bitte geben Sie einen gültigen Speicherstand-Namen ein oder es existier
 #: /Game/LocalizationText/UIStudy.UIStudy
 msgctxt "UI,CF"
 msgid "裁缝"
-msgstr "Schneiderei"
+msgstr "Schneiderei "
 
 #. Key:	ChangAn
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -9454,7 +9448,7 @@ msgstr "Bestätigen"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,consume"
 msgid "消耗物品："
-msgstr "Verbrauchsmaterial:"
+msgstr "Verbrauchsmaterial: "
 
 #. Key:	ControlSet
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -9664,7 +9658,7 @@ msgstr "Leistung:"
 #: /Game/LocalizationText/UIStudy.UIStudy
 msgctxt "UI,DQ"
 msgid "钝器"
-msgstr "Stumpfwaffen"
+msgstr "Stumpfwaffen "
 
 #. Key:	Drink
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -9972,7 +9966,7 @@ msgstr "Schließen"
 #: /Game/LocalizationText/UIStudy.UIStudy
 msgctxt "UI,GC"
 msgid "工程学"
-msgstr "Ingenieurwesen"
+msgstr "Ingenieurwesen "
 
 #. Key:	GL
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10133,7 +10127,7 @@ msgstr "Bart"
 #: /Game/LocalizationText/UIStudy.UIStudy
 msgctxt "UI,HX"
 msgid "电气化"
-msgstr "Elektrotechnik"
+msgstr "Elektrotechnik "
 
 #. Key:	hygiene
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -10203,7 +10197,7 @@ msgstr "Einsteigen"
 #: /Game/LocalizationText/UIStudy.UIStudy
 msgctxt "UI,JN"
 msgid "技能"
-msgstr "Fertigkeiten"
+msgstr "Fertigkeiten "
 
 #. Key:	JNAdd
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10246,7 +10240,7 @@ msgstr "Nehmen Sie an einem Mehrspieler-Spiel teil"
 msgctxt "UI,JX"
 msgid "机械"
 #Bei den Skills Leerzeichen einfügen da im Techbaum zusammen
-msgstr "Maschinenbau"
+msgstr "Maschinenbau "
 
 
 #. Key:	JXX
@@ -10254,7 +10248,7 @@ msgstr "Maschinenbau"
 #: /Game/LocalizationText/UIStudy.UIStudy
 msgctxt "UI,JXX"
 msgid "机修"
-msgstr "Maschinenreparatur"
+msgstr "Maschinenreparatur "
 
 #. Key:	JZBZKG
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10268,7 +10262,7 @@ msgstr "Einrasten An / Aus"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,JZCD"
 msgid "建造菜单"
-msgstr "Menü bauen"
+msgstr "Baumenü"
 
 #. Key:	JZKZ
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10317,7 +10311,7 @@ msgstr "Kältewiderstand"
 #: /Game/LocalizationText/UIStudy.UIStudy
 msgctxt "UI,KJ"
 msgid "科技"
-msgstr "Technologie"
+msgstr "Technologie "
 
 #. Key:	KJC
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10689,7 +10683,7 @@ msgstr "Katastrophe"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,ND03"
 msgid "无人生还"
-msgstr "Niemand überlebte"
+msgstr "No one survived"
 
 #. Key:	Need
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10871,7 +10865,7 @@ msgstr "Aktueller Kraftstoff:"
 #: /Game/LocalizationText/UIStudy.UIStudy
 msgctxt "UI,NY"
 msgid "农业"
-msgstr "Landwirtschaft"
+msgstr "Landwirtschaft "
 
 #. Key:	NYCD
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11088,7 +11082,7 @@ msgstr "Verlässt das Spiel"
 #: /Game/LocalizationText/UIStudy.UIStudy
 msgctxt "UI,QX"
 msgid "枪械"
-msgstr "Feuerwaffen"
+msgstr "Feuerwaffen "
 
 #. Key:	QXBY
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11144,7 +11138,7 @@ msgstr "Schmelzzeit:"
 #: /Game/LocalizationText/UIStudy.UIStudy
 msgctxt "UI,RQ"
 msgid "锐器"
-msgstr "Waffenschaden"
+msgstr "Waffenschaden "
 
 #. Key:	RWKZ
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12194,7 +12188,7 @@ msgstr "Beeinflusst den entsprechenden Waffenschaden"
 #: /Game/LocalizationText/UIStudy.UIStudy
 msgctxt "UI,WQZJ"
 msgid "武器制造"
-msgstr "Waffenherstellung"
+msgstr "Waffenherstellung "
 
 #. Key:	wsDetail
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -12383,7 +12377,7 @@ msgstr "Sound-Effekt"
 #: /Game/LocalizationText/UIStudy.UIStudy
 msgctxt "UI,YJ"
 msgid "冶金"
-msgstr "Metallurgie"
+msgstr "Metallurgie "
 
 #. Key:	YJSW
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -12411,7 +12405,7 @@ msgstr "Ein Jahr Zeit"
 #: /Game/LocalizationText/UIStudy.UIStudy
 msgctxt "UI,YX"
 msgid "医学"
-msgstr "Medizin"
+msgstr "Medizin "
 
 #. Key:	YXND
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
