@@ -543,7 +543,7 @@ msgstr "Feiner Stoff"
 #: /Game/Blueprint/UMG/Inventory/WBP_ItemToolTip.WBP_ItemToolTip_C:WidgetTree.FZX.Text
 msgctxt ",1A1D133A4285656BE0D9CF96D5BF7ECD"
 msgid "防抓性"
-msgstr "Kratzfestigkeit"
+msgstr "Widerstand vor Kratzern"
 
 #. Key:	1A1FCEF24CE7BF18B46A2488B22B1E7D
 #. SourceLocation:	/Game/Blueprint/UMG/InteractiveMessage/Interactive.Interactive.DisplayNameMap(2 - Value).DisplayNameMap
@@ -760,7 +760,7 @@ msgstr "Vertikaler Balken"
 #: /Game/Blueprint/UMG/Make/WBP_MakeDetailShow.WBP_MakeDetailShow_C:WidgetTree.KRX.Text
 msgctxt ",22CFC8EA45FAA84098796A9EE5C5D49A"
 msgid "抗热性"
-msgstr "Hitzebeständigkeit"
+msgstr "Hitzewiederstand"
 
 #. Key:	2308D6F3490886F47608A29FECC708F2
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Book/AutoCreate/BP_Book_JXX05.Default__BP_Book_JXX05_C.ItemInfo.Name
@@ -1292,7 +1292,7 @@ msgstr "Gewicht: 300/600"
 #: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(14 - Value).DisplayNameMap
 msgctxt ",3F0080734A17ED2949B3E7A69E6074FA"
 msgid "HandGuard"
-msgstr "Handlauf"
+msgstr "Geländer"
 
 #. Key:	3FB2451B4FF120B2FAA709ABF555A02A
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_46.In Text
@@ -1362,7 +1362,7 @@ msgstr "Batterie"
 #: /Game/HDCKBuildingSystem/Table/BuildTable.BuildTable.NewRow_11.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 msgctxt ",4348953248D241725A36BD85949AE223"
 msgid "受遮挡或在没有太阳的天气无法发电"
-msgstr "Keine Stromerzeugung durch Beschattung oder bei sonnenlosem Wetter"
+msgstr "Produziert keinen Strom im Schatten oder bei sonnenlosem Wetter"
 
 #. Key:	4362834A4E275D8A564F3388D39CBEFC
 #. SourceLocation:	/Game/Blueprint/ACF/Data/TableAsset/WeaponTable.WeaponTable.SVD狙击枪.ItemInfo_66_F92A1A3B448C3413FD56918B4BFB9241.Name
@@ -2622,7 +2622,7 @@ msgstr "Waffen"
 #: /Game/Blueprint/UMG/MainUI/WBP_Main.WBP_Main_C:WidgetTree.TextBlock_0.Text
 msgctxt ",836EB7AB40D4C893FD6B23A855BE4F36"
 msgid "公告：\r\n\r\n因为游戏采用了最新的UnrealEngine5引擎，为了获得最好的游戏体验，请将显卡驱动升级到最新版本。\r\n\r\n否则你可能会看到模型显示不完整等情况。\r\n\r\n感谢！"
-msgstr "Bekanntmachung:\r\n\r\nDa das Spiel die neueste UnrealEngine5-Engine verwendet, aktualisieren Sie bitte den Grafikkartentreiber auf die neueste Version, um das beste Spielerlebnis zu erhalten.\r\n\r\nAndernfalls sehen Sie möglicherweise die Modellanzeige unvollständig usw.\r\n\r\ndankbar!"
+msgstr "Ankündigung:\r\n\r\nDa das Spiel die neueste UnrealEngine5-Engine verwendet, aktualisieren Sie bitte den Grafikkartentreiber auf die neueste Version, um das beste Spielerlebnis zu erhalten.\r\n\r\nAndernfalls sehen Sie möglicherweise die Modellanzeige unvollständig usw.\r\n\r\nVielen Dank!"
 
 #. Key:	83F46BF04B9C9DD831186F9C5C08D9AA
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(6 - Value).DisplayNameMap
@@ -3161,7 +3161,7 @@ msgstr "Wand"
 #: /Game/Blueprint/ACF/Item/Materials/Item_Material_Base.Default__Item_Material_Base_C.ItemInfo.Description
 msgctxt ",A864B95242482D27A6DDEF880B9B3BA4"
 msgid "普通木材可用于建筑，制造工具。"
-msgstr "Gewöhnliches Holz kann für den Bau und die Herstellung von Werkzeugen verwendet werden."
+msgstr "Gewöhnliches Holz, kann für den Bau und die Herstellung von Werkzeugen verwendet werden."
 
 #. Key:	A8ACAAC6459AA81F4C0AD08518C85108
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/TipPasswordCheck.TipPasswordCheck_C:WidgetTree.EditableTextBox_84.HintText
@@ -4189,7 +4189,7 @@ msgstr "Brecheisen"
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_LoadGame.WBP_LoadGame_C:WidgetTree.TextBlock_98.Text
 msgctxt ",DFB9E2BA411799A5BE6B59A3F156E17B"
 msgid "读取"
-msgstr "Lesen"
+msgstr "Spielstände"
 
 #. Key:	DFDC7D0B43D1E23D901A57BD71F2458D
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_48.In Text
@@ -5008,14 +5008,14 @@ msgstr "Steinmauer (1/3)"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",HandGuard"
 msgid "护手"
-msgstr "Handlauf"
+msgstr "Geländerpfosten"
 
 #. Key:	HandGuardDetail
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",HandGuardDetail"
 msgid "一个单独的护手。"
-msgstr "Ein separater Handlauf."
+msgstr "Ein separater Geländerpfosten."
 
 #. Key:	HandGuardStairs
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5036,7 +5036,7 @@ msgstr "Horizontaler Balken"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",HorizontalBeamDetail"
 msgid "短横梁，可以承受重量。"
-msgstr "Kurzer Querbalken, um das Gewicht zu halten"
+msgstr "Kurzer Querbalken, um das Gewicht zu tragen"
 
 #. Key:	Input
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5085,7 +5085,7 @@ msgstr "Steinboden"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RockFloorDetail"
 msgid "踩在上面吱吱作响。"
-msgstr "Drücke drauf."
+msgstr "Laufe darauf."
 
 #. Key:	RockFoundation
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5183,28 +5183,28 @@ msgstr "Dach"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofCorner20"
 msgid "茅草屋顶(20度连接角)"
-msgstr "Strohdach (20 Grad Anschlusswinkel)"
+msgstr "Strohdach (20 Grad)"
 
 #. Key:	RoofCorner20_02
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofCorner20_02"
 msgid "石材屋顶(20度连接角)"
-msgstr "Steindach (20 Grad Anschlusswinkel)"
+msgstr "Steindach (20 Grad)"
 
 #. Key:	RoofCorner45
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofCorner45"
 msgid "茅草屋顶(45度连接角)"
-msgstr "Strohdach (45 Grad Anschlusswinkel)"
+msgstr "Strohdach (45 Grad)"
 
 #. Key:	RoofCorner45_02
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofCorner45_02"
 msgid "石材屋顶(45度连接角)"
-msgstr "Steindach (45 Grad Anschlusswinkel)"
+msgstr "Steindach (45 Grad)"
 
 #. Key:	RoofCorner45Detail
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5260,7 +5260,7 @@ msgstr "Steintraufe (Verbindung)"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofEnd2_20"
 msgid "茅草屋檐(20度竖向)"
-msgstr "Dachtraufe (20 Grad vertikal)"
+msgstr "Dachtraufe (20 Grad)"
 
 #. Key:	RoofEnd2_20_02
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5323,28 +5323,28 @@ msgstr "An der Dachkante befestigt."
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofIntersection20"
 msgid "茅草屋顶(20度连接)"
-msgstr "Stroh dach (20 Grad Verbindung)"
+msgstr "Stroh dach (20 Grad)"
 
 #. Key:	RoofIntersection20_02
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofIntersection20_02"
 msgid "石材屋顶(20度连接)"
-msgstr "Steindach (20 Grad Anschluss)"
+msgstr "Steindach (20 Grad)"
 
 #. Key:	RoofIntersection45
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofIntersection45"
 msgid "茅草屋顶(45度连接)"
-msgstr "Strohdach (45 Grad Verbindung)"
+msgstr "Strohdach (45 Grad)"
 
 #. Key:	RoofIntersection45_02
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofIntersection45_02"
 msgid "石材屋顶(45度连接)"
-msgstr "Steindach (45 Grad Anschluss)"
+msgstr "Steindach (45 Grad)"
 
 #. Key:	RoofIntersection45Detail
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5428,14 +5428,14 @@ msgstr "Strohdach (einseitig)"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofTop_Wood_05"
 msgid "茅草屋顶(单格无连接)"
-msgstr "Stroh (Einzelzelle ohne Anschluss)"
+msgstr "Strohdachabschluss (Einzelzelle ohne Anschluss)"
 
 #. Key:	RoofTop_Wood_06
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofTop_Wood_06"
 msgid "茅草屋顶(单格三通)"
-msgstr "Stroh (einfaches Gitter-T-Stück)"
+msgstr "Strohdach (einfaches Gitter-T-Stück)"
 
 #. Key:	Stairs
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5771,7 +5771,7 @@ msgstr "Eisentor"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B26"
 msgid "茅草屋顶(45度连接)"
-msgstr "Stroh (45-Grad-Fuge)"
+msgstr "Strohdach (45 Grad)"
 
 #. Key:	B27
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -5827,7 +5827,7 @@ msgstr "Holzkiste"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B33"
 msgid "木箱架"
-msgstr "Kastenrahmen aus Holz"
+msgstr "Regal"
 
 #. Key:	B34
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6135,7 +6135,7 @@ msgstr "Tisch"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B73"
 msgid "沙发"
-msgstr "Sofa"
+msgstr "Sessel"
 
 #. Key:	B74
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6401,7 +6401,7 @@ msgstr "Baumwollhose"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,A28"
 msgid "加厚型"
-msgstr "Verdickt"
+msgstr "Dicke Baumwollhose"
 
 #. Key:	A29
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7612,7 +7612,7 @@ msgstr "Verrottende Lebensmittel"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M13"
 msgid "病原体"
-msgstr "Krankheitserreger"
+msgstr "Pathogene"
 
 #. Key:	M14
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7976,7 +7976,7 @@ msgstr "Kleine Flasche Benzin"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M60"
 msgid "电炉"
-msgstr "Elektrischer Ofen"
+msgstr "Elektrische Kochplatte"
 
 #. Key:	M61
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8123,7 +8123,7 @@ msgstr "Fermentierter Alkohol"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M8"
 msgid "桶装燃油"
-msgstr "Benzinfass"
+msgstr "Benzinkanister"
 
 #. Key:	M80
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8151,7 +8151,7 @@ msgstr "Nähset"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M83"
 msgid "饲料"
-msgstr "Futter"
+msgstr "Tierfutter"
 
 #. Key:	M84
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8284,7 +8284,7 @@ msgstr "Verband"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,T11"
 msgid "包扎流血伤口"
-msgstr "Verbinde eine Blutende Wunde"
+msgstr "Zur Behandlung von blutenden Wunden"
 
 #. Key:	T12
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8298,7 +8298,7 @@ msgstr "Salbe"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,T13"
 msgid "胃药"
-msgstr "Magentabletten"
+msgstr "Malariatabletten"
 
 #. Key:	T14
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8921,7 +8921,7 @@ msgstr "Sie können einen kleinen Hammer benutzen, um bestimmte Gegenstände zu 
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,13"
 msgid "卡住啦！使用退出菜单的脱离卡死功能。"
-msgstr "Sie stecken Fest! Verwenden Sie die Funktion "Escape-Stuck" Funktion des Exit-Menüs."
+msgstr "Sie stecken Fest! Verwenden Sie die Funktion "Befreien" Funktion des Exit-Menüs."
 
 #. Key:	14
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -8963,7 +8963,7 @@ msgstr "Gegenstände, die für längere Zeit auf den Boden liegen, ohne dass man
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,AddBuff"
 msgid "提供一个美好食物Buff"
-msgstr "Sorgen Sie für ein gutes Essen"
+msgstr "Sein sie immer gut versorgt!"
 
 #. Key:	AddMakeList
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -9054,7 +9054,7 @@ msgstr "Nasolabialfalte"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,BJY"
 msgid "背景音"
-msgstr "Hintergrundgeräusch"
+msgstr "Hintergrundgeräusche"
 
 #. Key:	BL
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -9131,7 +9131,7 @@ msgstr "Holzzaun"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Buildingadsorbent"
 msgid "可吸附："
-msgstr "Adsorbierbar: "
+msgstr "Anbringbar: "
 
 #. Key:	BuildingAll
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -9670,7 +9670,7 @@ msgstr "Trinken"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,DrinkWater"
 msgid "喝水"
-msgstr "Trinkwasser"
+msgstr "Trinken"
 
 #. Key:	Drop
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10223,7 +10223,7 @@ msgstr "Holzstamm"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,JR"
 msgid "加热以后使用更佳"
-msgstr "Besser nach dem Erhitzen verwenden"
+msgstr "Schmeckt am besten warm"
 
 #. Key:	JRDRYX
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10378,7 +10378,7 @@ msgstr "Helligkeit"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Level"
 msgid "等级"
-msgstr "Klasse"
+msgstr "Stufe"
 
 #. Key:	Light
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11617,7 +11617,7 @@ msgstr "Haar"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,thirsty"
 msgid "口渴"
-msgstr "Durstig"
+msgstr "Durst"
 
 #. Key:	TipFks
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11638,7 +11638,7 @@ msgstr "Bitte geben Sie einen Namen ein!"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,TLD"
 msgid "由矿石熔炼而成，或者是通过拆卸物品获得，可以熔炼成锭"
-msgstr "Wird aus Erz geschmolzen oder durch Zerlegen von Gegenständen erhalten, die zu Barren geschmolzen werden können"
+msgstr "Wird aus Erz geschmolzen oder durch Zerlegen von Gegenständen erhalten, können zu Barren geschmolzen werden können"
 
 #. Key:	TLDetail
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -11694,7 +11694,7 @@ msgstr "Kategorie:"
 #: /Game/LocalizationText/UIStudy.UIStudy
 msgctxt "UI,TZ"
 msgid "体质"
-msgstr "Verfassung"
+msgstr "Konstitution"
 
 #. Key:	TZBDF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -12226,7 +12226,7 @@ msgstr "Normal"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,WZSL03"
 msgid "多"
-msgstr "Viel mehr"
+msgstr "Viel"
 
 #. Key:	WZSL04
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -12394,7 +12394,7 @@ msgstr "Alle Fertigkeiten nach dem Tod zurücksetzen"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,YNDSJ"
 msgid "一年的时间"
-msgstr "Ein Jahr Zeit"
+msgstr "Jahresdauer"
 
 #. Key:	YX
 #. SourceLocation:	/Game/LocalizationText/UIStudy.UIStudy
@@ -12485,7 +12485,7 @@ msgstr "Drehen"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,ZLSD"
 msgid "帧率锁定"
-msgstr "Bildratensperre"
+msgstr "Bildfrequenz"
 
 #. Key:	ZS
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12555,7 +12555,7 @@ msgstr "Beruf"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,ZYL"
 msgid "总音量"
-msgstr "Volle Lautstärke"
+msgstr "Gesamtlautstärke"
 
 #. Key:	ZZ
 #. SourceLocation:	/Game/LocalizationText/UI.UI
