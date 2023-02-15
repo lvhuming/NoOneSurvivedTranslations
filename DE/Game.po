@@ -291,14 +291,14 @@ msgstr "IA_FireMode"
 #: /Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_7.TipMessage_41_0D1B7B6342180F0BD1D386A6C8ADE0B3
 msgctxt ",0C797E8E40ACBD720B57B4B33B461ADD"
 msgid "疟疾几率"
-msgstr "Malaria-Infektionschance"
+msgstr "Durchfallgefahr"
 
 #. Key:	0D2F9EF34F24FE1D4DE8229B65941BC4
 #. SourceLocation:	/Game/Blueprint/ACF/Player/HDCK_CharacterBP.Default__HDCK_CharacterBP_C.TimeBuffDetail(0).TimeBuffDetail.TipMessage_56_5402F47A4785659B27440099C7CA676D
 #: /Game/Blueprint/ACF/Player/HDCK_CharacterBP.Default__HDCK_CharacterBP_C.TimeBuffDetail(0).TimeBuffDetail.TipMessage_56_5402F47A4785659B27440099C7CA676D
 msgctxt ",0D2F9EF34F24FE1D4DE8229B65941BC4"
 msgid "疟疾，减少耐力上限和回复"
-msgstr "Malaria, verringertes Ausdauerlimit und Regeneration"
+msgstr "Durchfall, verringertes Ausdauerlimit und Regeneration"
 
 #. Key:	0EAC4CF84F900A49A09DE09F240307B5
 #. SourceLocation:	/Game/Blueprint/UMG/WBP_BaseCharacter.WBP_BaseCharacter_C:WidgetTree.YZKX.Text
@@ -809,7 +809,7 @@ msgstr "alle"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_43.Text
 msgctxt ",257D695A47DEEA3FFC5862BD1084FDE4"
 msgid "增加疟疾"
-msgstr "Zunehmende Malariainfektion"
+msgstr "Zunehmender Durchfall"
 
 #. Key:	258B8DCA4A30A8C003E35AA9CED8333D
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_33.In Text
@@ -7164,7 +7164,7 @@ msgstr "Pilz"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F60"
 msgid "有效治疗疟疾"
-msgstr "Wirksame Behandlung von Malaria"
+msgstr "Wirksame Behandlung von Durchfall"
 
 #. Key:	F61
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8305,7 +8305,7 @@ msgstr "Magentabletten"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,T14"
 msgid "治疗疟疾"
-msgstr "Behandlung von Malaria"
+msgstr "Behandlung von Durchfall"
 
 #. Key:	T15
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8837,7 +8837,7 @@ msgstr "Sie wird hauptsächlich zum Abbau von Steinen und Erzen verwendet, kann 
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,01"
 msgid "当食物新鲜度开始变黄，吃下去可能会感染疟疾，新鲜度越低感染的可能性越大。"
-msgstr "Wenn sich die Frische des Lebensmittels vergilbt, können Sie sich nach dem Verzehr mit Malaria infizieren.Je weniger Frisch, desto größer die Wahrscheinlichkeit einer Infektion."
+msgstr "Wenn sich die Frische des Lebensmittels verringert, können Sie sich nach dem Verzehr mit Durchfall infizieren. Je weniger Frisch, desto größer die Wahrscheinlichkeit einer Infektion."
 
 #. Key:	02
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -10728,7 +10728,7 @@ msgstr "Geschenkpaket für Anfänger"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,NJ"
 msgid "疟疾"
-msgstr "Malaria"
+msgstr "Durchfall"
 
 #. Key:	NLSX
 #. SourceLocation:	/Game/LocalizationText/UI.UI
