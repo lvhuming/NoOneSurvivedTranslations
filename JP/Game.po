@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
 "POT-Creation-Date: 2023-02-01 12:05\n"
-"PO-Revision-Date: 2023-02-08 00:54+0900\n"
+"PO-Revision-Date: 2023-02-20 20:09+0900\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -1363,7 +1363,7 @@ msgstr "ハンドガード"
 #: Text
 msgctxt ",3FB2451B4FF120B2FAA709ABF555A02A"
 msgid "铁棍"
-msgstr "鉄棒"
+msgstr "釘バット（鉄）"
 
 #. Key:	3FD998734A21E21A308E56B1BD772319
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/Furniture_Base.Default__Furniture_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
@@ -1986,7 +1986,7 @@ msgstr "春"
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_GameSetting.WBP_GameSetting_C:WidgetTree.ShowTex_10.Text
 msgctxt ",607BE83C437C938E6210A89A4E185196"
 msgid "物资刷新"
-msgstr "素材のリフレッシュ"
+msgstr "素材の更新"
 
 #. Key:	60C920AE4EEC3040FA97A59FA380B13C
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_ServerSetting.WBP_ServerSetting_C:WidgetTree.ShowTex_4.Text
@@ -2770,13 +2770,13 @@ msgid ""
 "\r\n"
 "感谢！"
 msgstr ""
-"発表：\r\n"
+"告知：\r\n"
 "\r\n"
 "ゲームは最新の UnrealEngine5 エンジンを使用しているため、最高のゲーム体験を得るには、グラフィック カード ドライバーを最新バージョンにアップグレードしてください。\r\n"
 "\r\n"
 "そうしないと、モデルの表示が不完全になる場合があります。\r\n"
 "\r\n"
-"ありがとう！"
+"よろしくお願いします！"
 
 #. Key:	83F46BF04B9C9DD831186F9C5C08D9AA
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(6 - Value).DisplayNameMap
@@ -4567,7 +4567,7 @@ msgstr "10/10"
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_GameSetting.WBP_GameSetting_C:WidgetTree.ShowTex_11.Text
 msgctxt ",E51278044D668F0A8930B08C5B984311"
 msgid "商人物资刷新"
-msgstr "マーチャント用品の更新"
+msgstr "商人の品物の更新"
 
 #. Key:	E55D360946BFB010A48B85A3400EDE5D
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Throw/BP_Throw_Base.Default__BP_Throw_Base_C.ItemInfo.Name
@@ -4775,7 +4775,7 @@ msgstr "シャベルオフ"
 #: Text
 msgctxt ",ED362C3F47934E84F061EFA97E3FB2B8"
 msgid "水井"
-msgstr "良い"
+msgstr "井戸"
 
 #. Key:	ED3DEEE7483A3B7BD7809285213F3032
 #. SourceLocation:	/Game/Blueprint/ACF/Tutorial/WBP_TutorialTip4.WBP_TutorialTip4_C:WidgetTree.TextBlock_3.Text
@@ -6154,7 +6154,7 @@ msgstr "雨水コレクター"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B38"
 msgid "水井"
-msgstr "良い"
+msgstr "井戸"
 
 #. Key:	B39
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6812,7 +6812,7 @@ msgstr "日よけ帽"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F1"
 msgid "萝卜"
-msgstr "だいこん"
+msgstr "にんじん"
 
 #. Key:	F10
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7169,7 +7169,7 @@ msgstr "卵"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F23"
 msgid "肉干"
-msgstr "ぎくしゃくした"
+msgstr "ジャーキー"
 
 #. Key:	F24
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8394,7 +8394,7 @@ msgstr "鉄鉱石"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M77"
 msgid "银矿石"
-msgstr "銀鉱"
+msgstr "銀鉱石"
 
 #. Key:	M78
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8562,7 +8562,7 @@ msgstr "車の修理キット"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,T1"
 msgid "锅"
-msgstr "ポット"
+msgstr "鍋"
 
 #. Key:	T10
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8856,7 +8856,7 @@ msgstr "アイアンハンドナイフ"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W24"
 msgid "铁棍"
-msgstr "鉄棒"
+msgstr "釘バット（鉄）"
 
 #. Key:	W25
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8877,7 +8877,7 @@ msgstr "鉄の槍"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W27"
 msgid "木弓"
-msgstr "ウッドボウ"
+msgstr "木の弓"
 
 #. Key:	W28
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8898,7 +8898,7 @@ msgstr "鋼の短剣"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W3"
 msgid "石斧"
-msgstr "石斧"
+msgstr "石の斧"
 
 #. Key:	W30
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8961,7 +8961,7 @@ msgstr "鋼の両手ナイフ"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W38"
 msgid "钢棍"
-msgstr "スチールロッド"
+msgstr "釘バット（鋼）"
 
 #. Key:	W39
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8982,7 +8982,7 @@ msgstr "主に木の伐採に使用され、必要に応じて護身用にも使
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W40"
 msgid "金属弓"
-msgstr "メタルボウ"
+msgstr "鋼の弓"
 
 #. Key:	W41
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9052,7 +9052,7 @@ msgstr "12ゲージの弾薬を使用"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W5"
 msgid "石刀"
-msgstr "石刀"
+msgstr "石のナイフ"
 
 #. Key:	W50
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9115,7 +9115,7 @@ msgstr "投げることができます"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W8"
 msgid "石镐"
-msgstr "ストーンピック"
+msgstr "石のつるはし"
 
 #. Key:	W9
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9714,14 +9714,14 @@ msgstr "ウィンドウモード"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Clear"
 msgid "清空"
-msgstr "空の"
+msgstr "空にする"
 
 #. Key:	ClearBody
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,ClearBody"
 msgid "清洗"
-msgstr "クリーニング"
+msgstr "半分捨てる"
 
 #. Key:	Close
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10057,7 +10057,7 @@ msgstr "装置"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,ETip"
 msgid "拾取 "
-msgstr "選び出す"
+msgstr "拾う"
 
 #. Key:	EX
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10677,7 +10677,7 @@ msgstr "輝度"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Level"
 msgid "等级"
-msgstr "学年"
+msgstr "レベル"
 
 #. Key:	Light
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11244,7 +11244,7 @@ msgstr "体力"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Pot01"
 msgid "注意这个操作会删除锅内物品"
-msgstr "この操作はポットの内容を削除することに注意してください"
+msgstr "この操作は鍋の内容を削除することに注意してください"
 
 #. Key:	PR
 #. SourceLocation:	/Game/LocalizationText/UIStudy.UIStudy
@@ -12009,7 +12009,7 @@ msgstr "カテゴリー："
 #: /Game/LocalizationText/UIStudy.UIStudy
 msgctxt "UI,TZ"
 msgid "体质"
-msgstr "憲法"
+msgstr "体格"
 
 #. Key:	TZBDF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -12538,21 +12538,21 @@ msgstr "レア"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,WZSL02"
 msgid "正常"
-msgstr "正常"
+msgstr "普通"
 
 #. Key:	WZSL03
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,WZSL03"
 msgid "多"
-msgstr "たくさんの"
+msgstr "多い"
 
 #. Key:	WZSL04
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,WZSL04"
 msgid "极多"
-msgstr "多くの"
+msgstr "非常に多い"
 
 #. Key:	XBCD
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -12622,7 +12622,7 @@ msgstr "使用可能範囲"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,xinjian"
 msgid "新建"
-msgstr "新着"
+msgstr "新規作成"
 
 #. Key:	XLCG
 #. SourceLocation:	/Game/LocalizationText/UI.UI
