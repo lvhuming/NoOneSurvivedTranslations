@@ -1,4 +1,4 @@
-# Game German translation.
+﻿# Game German translation.
 # Copyright Epic Games, Inc. All Rights Reserved.
 # 
 msgid ""
@@ -774,7 +774,7 @@ msgstr "Maschinenreparatur (Band 5)"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_0.Text
 msgctxt ",230BE6704851B95546575994C2020192"
 msgid "穿戴物品"
-msgstr "Tragen von Gegenständen"
+msgstr "Klamotten"
 
 #. Key:	233D5A434A78C427C610EC8FB48C8ED1
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_42.Text
@@ -1124,7 +1124,7 @@ msgstr "Spiel starten"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_38.Text
 msgctxt ",3557C6854B1448213BC35D9085C8312C"
 msgid "显示帧率"
-msgstr "Bildwiederholrate anzeigen"
+msgstr "FPS anzeigen"
 
 #. Key:	35E6F36A420B9FDD3D238EADC6996DC0
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/SelectCharacter/WBP_SelectCharacterBegin.WBP_SelectCharacterBegin_C:WidgetTree.TextBlock_38.Text
@@ -1425,7 +1425,7 @@ msgstr "Aktuelle Koordinaten: {0}, {1}"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_1.Text
 msgctxt ",46159C994865A551AA6AD5A39D194A56"
 msgid "枪械配件"
-msgstr "Schusswaffen-Zubehör"
+msgstr "Schusswaffen"
 
 #. Key:	46B50F714E10C8FD62349C9785EEC24C
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_81.In Text
@@ -1908,7 +1908,7 @@ msgstr "Schadenserhöhung"
 #: /Game/Blueprint/ACF/Item/Food/BP_FoodBase.Default__BP_FoodBase_C.ItemInfo.Description
 msgctxt ",6218189848D827944348CA9BD6A0DCC1"
 msgid "食物"
-msgstr "Nahrungsmittel"
+msgstr "Nahrungs"
 
 #. Key:	624E2BB84562A36C89BA4B8C51A5AA70
 #. SourceLocation:	/Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(6).Mappings.PlayerMappableOptions.DisplayName
@@ -4043,7 +4043,7 @@ msgstr "Gewöhnliches Holz"
 #: /Game/Blueprint/UMG/Furniture/WBP_YZ.WBP_YZ_C:WidgetTree.Image_177.ToolTipText
 msgctxt ",D7B75BC9443B7B5148D2E9976E0E11BF"
 msgid "将两只性别不同且可繁殖的同种动物单独放在一个饲养栏里面，动物就有几率繁殖"
-msgstr "Setzen Sie zwei Tiere der gleichen Art mit unterschiedlichen Geschlechtern in einen einzigen Zuchtstall, und die Tiere haben die Chance, sich zu vermehren"
+msgstr "Setzen Sie zwei Tiere der gleichen Art mit unterschiedlichen Geschlechtern in einen Zuchtstall, und die Tiere haben die Chance, sich zu vermehren"
 
 #. Key:	D7FC708C4BA2295B2E317CA2612C1A73
 #. SourceLocation:	/Game/Blueprint/ACF/Tutorial/WBP_TutorialTip6.WBP_TutorialTip6_C:WidgetTree.TextBlock_1.Text
@@ -4434,7 +4434,7 @@ msgstr "{0}{1}"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_6.Text
 msgctxt ",E968D2B9404C381673D22FBDED974E1F"
 msgid "电气化学+"
-msgstr "Elektrotechnik+"
+msgstr "Elektrotech+"
 
 #. Key:	E987BA7A4F40FB8392162989C15EBC20
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_93.In Text
@@ -12184,7 +12184,7 @@ msgstr "Beeinflusst den entsprechenden Waffenschaden"
 #: /Game/LocalizationText/UIStudy.UIStudy
 msgctxt "UI,WQZJ"
 msgid "武器制造"
-msgstr "Waffenherstellung "
+msgstr "Waffenhers+"
 
 #. Key:	wsDetail
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
