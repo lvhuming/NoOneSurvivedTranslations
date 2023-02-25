@@ -613,7 +613,7 @@ msgstr "Nenhum"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_37.Text
 msgctxt ",1B84894446F973C99A4BDCBAD915BF17"
 msgid "Zombie进攻"
-msgstr "Ataque de Zumbis"
+msgstr "Ataque de Hordas"
 
 #. Key:	1B85FB3F4B6E685DBA702D9EFCF5328A
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_ServerSetting.WBP_ServerSetting_C:WidgetTree.ShowTex.Text
@@ -10266,7 +10266,7 @@ msgstr "Itens Descartados"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,DropTip"
 msgid "请选择丢弃数量："
-msgstr "Selecione a quantidade descartada:"
+msgstr "Selecione a quantidade descartada: "
 
 #. Key:	DRYX
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10840,7 +10840,7 @@ msgstr "Manutenção"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,JZBZKG"
 msgid "建造捕捉开关"
-msgstr "Construir interruptores de pressão"
+msgstr "Construir Placas de Pressão"
 
 #. Key:	JZCD
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11113,7 +11113,7 @@ msgstr "Masculino"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,MaxCharacter"
 msgid "达到最大角色数量"
-msgstr "Alcançou o Máximo de Caracteres"
+msgstr "Máximo de Caracteres Permitidos"
 
 #. Key:	MaxStam
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -11127,7 +11127,7 @@ msgstr "Resistência Máxima"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,Menu"
 msgid "退回主菜单"
-msgstr "voltar ao menu principal"
+msgstr "Voltar ao Menu Principal"
 
 #. Key:	MJ
 #. SourceLocation:	/Game/LocalizationText/GUN.GUN
@@ -11183,7 +11183,7 @@ msgstr "Multiplayer"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,MWSW"
 msgid "美味食物"
-msgstr "Refeição Saborosa"
+msgstr "Refeição Completa"
 
 #. Key:	MX
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11260,7 +11260,7 @@ msgstr "Sara"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,NAMES"
 msgid "已经有一个相同名字的角色或ID无效"
-msgstr "Função ou ID inválido já existe com o mesmo nome"
+msgstr "Função ou ID inválido"
 
 #. Key:	ND
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11337,7 +11337,7 @@ msgstr "Kit de Iniciante"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,NJ"
 msgid "疟疾"
-msgstr "Malária"
+msgstr "Intoxicação Alimentar"
 
 #. Key:	NLSX
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11358,14 +11358,14 @@ msgstr "Sem fonte de calor ou materiais necessários!"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,NoLight"
 msgid "没有装备灯"
-msgstr "Sem Luzes Equipadas"
+msgstr "Sem luzes equipadas"
 
 #. Key:	NoRead
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,NoRead"
 msgid "我现在还看不懂这个或者这个我已经会了！"
-msgstr "Eu ainda não entendo isso ou já sei disso! "
+msgstr "Nível de aprendizado concluído ou insuficiente!"
 
 #. Key:	notAdd
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11379,7 +11379,7 @@ msgstr "Há um Item impedindo a construção"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,NotBearing"
 msgid "无承重结构"
-msgstr "Sem Estrutura de Suporte de Carga"
+msgstr "Sem estrutura de Suporte de Carga"
 
 #. Key:	NotDL
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11421,7 +11421,7 @@ msgstr "Sem Bateria"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,NotMood"
 msgid "我现在没有心情看这个！"
-msgstr "Não estou com humor para assistir agora!"
+msgstr "Não estou animado para assistir agora!"
 
 #. Key:	NotNeedMaterial
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11435,7 +11435,7 @@ msgstr "Sem Materiais Necessários"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,NotRead"
 msgid "我现在还看不懂这个或者这个我已经会了！"
-msgstr "Eu ainda não posso estudar isso ou já aprendi!"
+msgstr "Nível de aprendizado concluído ou insuficiente!"
 
 #. Key:	NotUse
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11603,14 +11603,14 @@ msgstr "Sardas"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,QCCW01"
 msgid "没有了！"
-msgstr "Acabou! Horda Exterminada! "
+msgstr "Acabou! Horda Exterminada!"
 
 #. Key:	QCRL
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,QCRL"
 msgid "取出燃料"
-msgstr "tirar combustível"
+msgstr "Retirar Combustível"
 
 #. Key:	QG
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11736,14 +11736,14 @@ msgstr "Aleatório"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Release"
 msgid "释放 "
-msgstr "liberto"
+msgstr "Livre"
 
 #. Key:	reload
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,reload"
 msgid "重载 "
-msgstr "sobrecarga"
+msgstr "Sobrecarga"
 
 #. Key:	rizhao
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11848,7 +11848,7 @@ msgstr "Tamanho da Horda"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SCJGR"
 msgid "尸潮进攻日，无法入睡！"
-msgstr "A horda está atacando, não posso dormir!"
+msgstr "A Horda está atacando, não posso dormir!"
 
 #. Key:	scjgzq
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11876,7 +11876,7 @@ msgstr "Velocidade"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Search"
 msgid "搜索设置："
-msgstr "configurações de pesquisa:"
+msgstr "Configurações de Pesquisa: "
 
 #. Key:	SEDIAO
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11890,21 +11890,21 @@ msgstr "Matiz"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,server01"
 msgid "专用服务器"
-msgstr "Servidor privado"
+msgstr "Servidor Privado"
 
 #. Key:	server02
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,server02"
 msgid "监听服务器"
-msgstr "servidor de escuta"
+msgstr "Servidor Host"
 
 #. Key:	ServerName
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,ServerName"
 msgid "服务器名称："
-msgstr "nome do servidor:"
+msgstr "Nome do Servidor: "
 
 #. Key:	SetTipMessage
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -12156,7 +12156,7 @@ msgstr "Resistência"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,Start"
 msgid "        丧尸病毒爆发，你躲在避难所生活了三年，但是避难所的资源也逐渐消耗殆尽，你遭到了放逐，接下来你只能靠自己在末世生存下去..."
-msgstr "        A infecção se alastrou e você viveu em um abrigo por três anos, mas os recursos se esgotaram aos poucos. Exilado, agora você só tem a si mesmo na luta pela sobrevivência neste apocalipse..."
+msgstr "        A infecção se alastrou e você sobreviveu em um abrigo por três anos, mas os recursos se esgotaram aos poucos. Exilado, agora você só tem a si mesmo na luta pela sobrevivência neste apocalipse..."
 
 #. Key:	StartDl
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12219,7 +12219,7 @@ msgstr "Ao abrir a caixa, clique com o botão esquerdo no item para transferir r
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SwitchServerMode"
 msgid "需要切换游戏服务器模式，并重新启动游戏，确认切换吗？"
-msgstr "Precisa mudar o modo de servidor do jogo e reiniciar o jogo, confirmar a mudança?"
+msgstr "É necessário alterar o Modo de Servidor e reiniciar o jogo. Confirmar alterações?"
 
 #. Key:	SY
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12324,7 +12324,7 @@ msgstr "O nome do personagem é muito longo!"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,TPSCSL"
 msgid "尸潮生成数量"
-msgstr "Número de spawns de zumbis"
+msgstr "Número de Spawns de Zumbis"
 
 #. Key:	TQEnd
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12408,7 +12408,7 @@ msgstr "Desorganizado\r\nNão carrega muito peso"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZFZZ"
 msgid "负重前行"
-msgstr "Burro de Carga\r\nÉ capaz carregar mais peso"
+msgstr "Burro de Carga\r\nÉ capaz de carregar mais peso"
 
 #. Key:	TZKCF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -12856,7 +12856,7 @@ msgstr "Criação"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,wsDetail"
 msgid "卫生\r\n影响丧尸发现几率，影响伤口感染几率，过低影响心情回复"
-msgstr "Higiene\r\nAfeta a chance de spawn de zumbis, a infecção dos ferimentos e a recuperação do humor"
+msgstr "Higiene\r\nAfeta a chance de spawn de zumbis, a infecção dos ferimentos e o humor"
 
 #. Key:	WXCG
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12989,7 +12989,7 @@ msgstr "Reparo bem-sucedido"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,XLSQTQQ"
 msgid "使用油井核心修理"
-msgstr "Use para reparar o Núcleo de Poço de Petróleo"
+msgstr "Use para reparar o Núcleo do Poço de Petróleo"
 
 #. Key:	XSTJ
 #. SourceLocation:	/Game/LocalizationText/UI.UI
