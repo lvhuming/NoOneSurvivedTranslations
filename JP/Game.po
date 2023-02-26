@@ -1,4 +1,4 @@
-﻿# Game Japanese translation.
+# Game Japanese translation.
 # Copyright Epic Games, Inc. All Rights Reserved.
 # 
 msgid ""
@@ -2937,7 +2937,7 @@ msgstr "機械修理 (第2巻)"
 #: /Game/Blueprint/UMG/Furniture/WBP_DCZDetail.WBP_DCZDetail_C:WidgetTree.TextBlock_233.Text
 msgctxt ",867940C94407F9B1E6580C8C164DED1C"
 msgid "电量:"
-msgstr "力："
+msgstr "電力："
 
 #. Key:	8710C0014D4869B4CBF99993FFD25E15
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_19.In Text
@@ -8803,42 +8803,42 @@ msgstr "車の修理キット"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Q01"
 msgid "18C"
-msgstr "18C"
+msgstr "18Cピストル"
 
 #. Key:	Q02
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Q02"
 msgid "M4"
-msgstr "M4"
+msgstr "M4アサルトカービン"
 
 #. Key:	Q03
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Q03"
 msgid "SCAR"
-msgstr "傷跡"
+msgstr "SCARアサルトライフル"
 
 #. Key:	Q04
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Q04"
 msgid "MP40"
-msgstr "MP40"
+msgstr "MP40サブマシンガン"
 
 #. Key:	Q05
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Q05"
 msgid "MP7A1"
-msgstr "MP7A1"
+msgstr "MP7A1サブマシンガン"
 
 #. Key:	Q06
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Q06"
 msgid "870A"
-msgstr "870A"
+msgstr "870Aショットガン"
 
 #. Key:	T1
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -10224,7 +10224,7 @@ msgstr "接続："
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,DLValue"
 msgid "电量："
-msgstr "力："
+msgstr "電力："
 
 #. Key:	DQ
 #. SourceLocation:	/Game/LocalizationText/UIStudy.UIStudy
@@ -11071,7 +11071,7 @@ msgstr "粒子効果"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Main"
 msgid "主界面"
-msgstr "メインインターフェース"
+msgstr "メイン画面"
 
 #. Key:	Make
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11575,7 +11575,7 @@ msgstr "タンパク質"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,PSSL"
 msgid "跑尸数量"
-msgstr "ゾンビの数"
+msgstr "走るゾンビの数"
 
 #. Key:	Q
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -13235,4 +13235,3 @@ msgstr "全容積"
 msgctxt "UI,ZZ"
 msgid "一小包种子"
 msgstr "種子の小さなパック"
-
