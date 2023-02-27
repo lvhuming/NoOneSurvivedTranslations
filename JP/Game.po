@@ -5,27 +5,29 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
 "POT-Creation-Date: 2023-02-24 03:07\n"
-"PO-Revision-Date: 2023-02-27 12:11+0900\n"
+"PO-Revision-Date: 2023-02-27 19:23+0900\n"
+"Last-Translator: \n"
 "Language-Team: \n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.2.2\n"
 
 #. Key:	005986EF48789316B83C53885CBD1FB8
 #. SourceLocation:	/Game/Blueprint/UMG/Inventory/WBP_UseMenu.WBP_UseMenu_C:WidgetTree.TextBlock_9.Text
 #: /Game/Blueprint/UMG/Inventory/WBP_UseMenu.WBP_UseMenu_C:WidgetTree.TextBlock_9.Text
 msgctxt ",005986EF48789316B83C53885CBD1FB8"
 msgid "清洗"
-msgstr "きれいに洗う"
+msgstr "体を洗う"
 
 #. Key:	00986F3D49F50B3B8F6203A93FD5D846
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_SPX.WBP_SPX_C:WidgetTree.development.Text
 #: /Game/Blueprint/UMG/Furniture/WBP_SPX.WBP_SPX_C:WidgetTree.development.Text
 msgctxt ",00986F3D49F50B3B8F6203A93FD5D846"
 msgid "发育"
-msgstr "育てる"
+msgstr "収穫量"
 
 #. Key:	01471E2242A1A96EA568E09F19D72C20
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(13 - Value).DisplayNameMap
@@ -594,7 +596,7 @@ msgstr "上質な生地"
 #: /Game/Blueprint/UMG/Inventory/WBP_ItemToolTip.WBP_ItemToolTip_C:WidgetTree.FZX.Text
 msgctxt ",1A1D133A4285656BE0D9CF96D5BF7ECD"
 msgid "防抓性"
-msgstr "耐スクラッチ性"
+msgstr "耐傷性"
 
 #. Key:	1A1FCEF24CE7BF18B46A2488B22B1E7D
 #. SourceLocation:	/Game/Blueprint/UMG/InteractiveMessage/Interactive.Interactive.DisplayNameMap(2 - Value).DisplayNameMap
@@ -2438,7 +2440,7 @@ msgstr "ダッシュスタミナ消費"
 #: /Game/Blueprint/UMG/NPCUMG/WBP_jy.WBP_jy_C:WidgetTree.GX.Text
 msgctxt ",6B5672FE4B8FDF39CD26C8B2527E9E21"
 msgid "关系：50"
-msgstr "関係: 50"
+msgstr "関係：50"
 
 #. Key:	6B6E2B914267363D168051958D0E1DF6
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Tool/BP_ToolAxe.Default__BP_ToolAxe_C.ItemInfo.Description
@@ -9787,7 +9789,7 @@ msgstr "一部のアイテムは、小さなハンマーで解体して素材を
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,13"
 msgid "卡住啦！使用退出菜单的脱离卡死功能。"
-msgstr "引っかかって移動できない！ 終了メニューの「スタック解除」機能で脱出出来ます。"
+msgstr "引っかかって移動できない！ 終了メニューの「スタック解除」機能で脱出できます。"
 
 #. Key:	14
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -10295,7 +10297,7 @@ msgstr "空にする"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,ClearBody"
 msgid "清洗"
-msgstr "半分捨てる"
+msgstr "体を洗う"
 
 #. Key:	Close
 #. SourceLocation:	/Game/LocalizationText/UI.UI
