@@ -2055,7 +2055,7 @@ msgstr "Sehr hoch"
 #: /Game/Blueprint/UMG/MainUI/WBP_DSRoomSlot.WBP_DSRoomSlot_C:WidgetTree.pING.Text
 msgctxt ",5E9A23124E11ED11573B9091E8E55B7C"
 msgid "Ping："
-msgstr "Klingeln:"
+msgstr "Ping:"
 
 #. Key:	5EBECD7B4AE8560B73AA0A93ABBB9CAB
 #. SourceLocation:	/Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(6 - Value).DisplayNameMap
@@ -4344,7 +4344,7 @@ msgstr "Beitritt fehlgeschlagen!"
 #: /Game/Blueprint/ACF/Item/Weapon/LongBlunt/BP_LongBluntStick_G.Default__BP_LongBluntStick_G_C.ItemInfo.Description
 msgctxt ",D3376D2445BA964A33A92D94FE102F37"
 msgid "露茜儿++"
-msgstr "Lucie++"
+msgstr "Baseballschläger mit Stahlnägeln"
 
 #. Key:	D35518064C2D768EC2C3538AA59470B8
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_28.In Text
@@ -4547,7 +4547,7 @@ msgstr "RightSleep"
 #: /Game/Blueprint/UMG/MainUI/WBP_Main.WBP_Main_C:WidgetTree.Nanite.Text
 msgctxt ",DDC0910C4C17BE48AB063FBF2F21022D"
 msgid "检测到您的电脑不支持Nanite，请升级显卡驱动！\r\n否则将会出现模型显示不完整等问题。"
-msgstr "Es wurde festgestellt, dass Ihr Computer Nanite nicht unterstützt, bitte aktualisieren Sie den Grafikkartentreiber!\r\nAndernfalls kommt es zu Problemen wie einer unvollständigen Darstellung des Modells."
+msgstr "Es wurde festgestellt, dass Ihr Computer Nanite nicht unterstützt, bitte aktualisieren Sie den Grafikkartentreiber!\r\nAndernfalls kommt es zu Problemen wie einer unvollständigen Darstellung der Objekte."
 
 #. Key:	DDDC1B0B4000A52C9EBD15869577EA8E
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_CarInventory.WBP_CarInventory_C:WidgetTree.Health.Text
@@ -4932,7 +4932,7 @@ msgstr "Materialien"
 #: /Game/Blueprint/ACF/Item/Food/AutoCreate/BP_Food_GYC.Default__BP_Food_GYC_C.ItemInfo.Description
 msgctxt ",EC85007941E47DBBADDC0EABF0CF607E"
 msgid "食物"
-msgstr "Essen"
+msgstr "Nahrungsmittel"
 
 #. Key:	ECAB878844DB5540EF7B15AB40273797
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_SPX.WBP_SPX_C:WidgetTree.TextBlock_115.Text
@@ -9118,7 +9118,7 @@ msgstr "Hammer"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W21"
 msgid "大型铁锤"
-msgstr ""
+msgstr "Vorschlaghammer aus Eisen"
 
 #. Key:	W22
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9496,7 +9496,7 @@ msgstr "Sie können einen kleinen Hammer benutzen, um bestimmte Gegenstände zu 
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,13"
 msgid "卡住啦！使用退出菜单的脱离卡死功能。"
-msgstr "Sie stecken Fest! Verwenden Sie die Funktion \"Befreien\" Funktion des Exit-Menüs."
+msgstr "Sie stecken Fest! Verwenden Sie die Funktion \"Befreien\" im Hauptmenü."
 
 #. Key:	14
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -10539,7 +10539,7 @@ msgstr "Helligkeit"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,GameVersionNot"
 msgid "游戏版本不一致！"
-msgstr "Die Spielversion ist inkonsistent!"
+msgstr "Die Spielversion ist nicht kompatibel!"
 
 #. Key:	GB
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11897,14 +11897,14 @@ msgstr "Privater Server"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,server02"
 msgid "监听服务器"
-msgstr "lauschender Server"
+msgstr "Öffentlicher Server"
 
 #. Key:	ServerName
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,ServerName"
 msgid "服务器名称："
-msgstr "Name des Servers:"
+msgstr "Servername:"
 
 #. Key:	SetTipMessage
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
