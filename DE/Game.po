@@ -1838,7 +1838,7 @@ msgstr "Fundament oder Boden"
 #: /Game/Blueprint/UMG/WBP_GetWater.WBP_GetWater_C:WidgetTree.TextBlock_57.Text
 msgctxt ",5604627744E8324B0E9AAB96BB219D3A"
 msgid "拖入容器装水"
-msgstr "Ziehen Sie einen Behälter hinen um ihn mit Wasser zu füllen"
+msgstr "Wasser hier nachfüllen"
 
 #. Key:	569DFDE54CD2C05CA841E4AED49216C0
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_SPX.WBP_SPX_C:WidgetTree.development.ToolTipText
@@ -2055,7 +2055,7 @@ msgstr "Sehr hoch"
 #: /Game/Blueprint/UMG/MainUI/WBP_DSRoomSlot.WBP_DSRoomSlot_C:WidgetTree.pING.Text
 msgctxt ",5E9A23124E11ED11573B9091E8E55B7C"
 msgid "Ping："
-msgstr "Klingeln:"
+msgstr "Ping:"
 
 #. Key:	5EBECD7B4AE8560B73AA0A93ABBB9CAB
 #. SourceLocation:	/Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(6 - Value).DisplayNameMap
@@ -2426,7 +2426,7 @@ msgstr "Gegenstände in der Nähe"
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_DSServer.WBP_DSServer_C:WidgetTree.WBP_Join.In Text
 msgctxt ",6F03D9614CF463C18B07CB96306602DE"
 msgid "加入"
-msgstr "dazu kommen"
+msgstr "Beitreten"
 
 #. Key:	6F0E9F7E437D2F62860D7DBCB2CCA2B1
 #. SourceLocation:	/Game/Blueprint/ACF/Tutorial/WBP_TutorialTip6.WBP_TutorialTip6_C:WidgetTree.TextBlock_2.Text
@@ -2972,7 +2972,7 @@ msgstr "Möbel"
 #: /Game/Blueprint/UMG/NPCUMG/WBP_JYDetail.WBP_JYDetail_C:WidgetTree.TextBlock_74.Text
 msgctxt ",896977E14C8A6A85B1393192A07E580F"
 msgid "确认交易"
-msgstr "Transaktionsbestätigung"
+msgstr "Handel akzeptieren"
 
 #. Key:	89B6EC0E40C217402E0E0998BA850636
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_SPX.WBP_SPX_C:WidgetTree.Water.Text
@@ -4344,7 +4344,7 @@ msgstr "Beitritt fehlgeschlagen!"
 #: /Game/Blueprint/ACF/Item/Weapon/LongBlunt/BP_LongBluntStick_G.Default__BP_LongBluntStick_G_C.ItemInfo.Description
 msgctxt ",D3376D2445BA964A33A92D94FE102F37"
 msgid "露茜儿++"
-msgstr "Lucie++"
+msgstr "Baseballschläger mit Stahlnägeln"
 
 #. Key:	D35518064C2D768EC2C3538AA59470B8
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_28.In Text
@@ -4547,7 +4547,7 @@ msgstr "RightSleep"
 #: /Game/Blueprint/UMG/MainUI/WBP_Main.WBP_Main_C:WidgetTree.Nanite.Text
 msgctxt ",DDC0910C4C17BE48AB063FBF2F21022D"
 msgid "检测到您的电脑不支持Nanite，请升级显卡驱动！\r\n否则将会出现模型显示不完整等问题。"
-msgstr "Es wurde festgestellt, dass Ihr Computer Nanite nicht unterstützt, bitte aktualisieren Sie den Grafikkartentreiber!\r\nAndernfalls kommt es zu Problemen wie einer unvollständigen Darstellung des Modells."
+msgstr "Es wurde festgestellt, dass Ihr Computer Nanite nicht unterstützt, bitte aktualisieren Sie den Grafikkartentreiber!\r\nAndernfalls kommt es zu Problemen wie einer unvollständigen Darstellung der Objekte."
 
 #. Key:	DDDC1B0B4000A52C9EBD15869577EA8E
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_CarInventory.WBP_CarInventory_C:WidgetTree.Health.Text
@@ -4932,7 +4932,7 @@ msgstr "Materialien"
 #: /Game/Blueprint/ACF/Item/Food/AutoCreate/BP_Food_GYC.Default__BP_Food_GYC_C.ItemInfo.Description
 msgctxt ",EC85007941E47DBBADDC0EABF0CF607E"
 msgid "食物"
-msgstr "Essen"
+msgstr "Nahrungsmittel"
 
 #. Key:	ECAB878844DB5540EF7B15AB40273797
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_SPX.WBP_SPX_C:WidgetTree.TextBlock_115.Text
@@ -6276,7 +6276,7 @@ msgstr "Glasfenster"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B25"
 msgid "铁门"
-msgstr "Eisentor"
+msgstr " Eisentor"
 
 #. Key:	B26
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6668,7 +6668,7 @@ msgstr "Palisade"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B76"
 msgid "木制大门"
-msgstr "Holztor"
+msgstr " Holztor"
 
 #. Key:	B77
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6780,7 +6780,7 @@ msgstr "Mine"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,D02"
 msgid "落木陷阱"
-msgstr "Log-Falle"
+msgstr "Holzfalle"
 
 #. Key:	A1
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9118,7 +9118,7 @@ msgstr "Hammer"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W21"
 msgid "大型铁锤"
-msgstr ""
+msgstr "Vorschlaghammer aus Eisen"
 
 #. Key:	W22
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9209,7 +9209,7 @@ msgstr "Brechstange aus Stahl"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W33"
 msgid "消防斧"
-msgstr "Feueraxt"
+msgstr "Feuerwehraxt"
 
 #. Key:	W34
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9496,7 +9496,7 @@ msgstr "Sie können einen kleinen Hammer benutzen, um bestimmte Gegenstände zu 
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,13"
 msgid "卡住啦！使用退出菜单的脱离卡死功能。"
-msgstr "Sie stecken Fest! Verwenden Sie die Funktion \"Befreien\" Funktion des Exit-Menüs."
+msgstr "Sie stecken Fest! Verwenden Sie die Funktion \"Befreien\" im Exit-Menüs (ESC)."
 
 #. Key:	14
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -10539,7 +10539,7 @@ msgstr "Helligkeit"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,GameVersionNot"
 msgid "游戏版本不一致！"
-msgstr "Die Spielversion ist inkonsistent!"
+msgstr "Die Spielversion ist nicht kompatibel!"
 
 #. Key:	GB
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11897,14 +11897,14 @@ msgstr "Privater Server"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,server02"
 msgid "监听服务器"
-msgstr "lauschender Server"
+msgstr "Öffentlicher Server"
 
 #. Key:	ServerName
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,ServerName"
 msgid "服务器名称："
-msgstr "Name des Servers:"
+msgstr "Servername:"
 
 #. Key:	SetTipMessage
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
