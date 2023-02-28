@@ -172,7 +172,7 @@ msgstr "Odolnost proti tuhosti"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_12.Text
 msgctxt ",07183D8644DE86CCA77C28A04ABFD006"
 msgid "武器制造+"
-msgstr "Výroba zbraní+"
+msgstr "Výr. zbraní+"
 
 #. Key:	071CC0AD44E91A58C8A6BBA56F0A6884
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(21 - Value).DisplayNameMap
@@ -669,7 +669,7 @@ msgstr "IA_OpenLight"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_15.Text
 msgctxt ",1CCC10BB4AD081DB620F09A1FD46FBFB"
 msgid "枪械+"
-msgstr "Střelné zbraně+"
+msgstr "Střel. zbraně+"
 
 #. Key:	1CD38CEB48E2183EA9E0A3A6604AA514
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_11.Text
@@ -1474,7 +1474,7 @@ msgstr "Základna je vyrobena ze dřeva a unese standartní hmotnost."
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_13.In Text
 msgctxt ",42CCDC264FCA7E5F57C774A68D1FA7C2"
 msgid "干电池"
-msgstr "Suché baterie"
+msgstr "Baterie"
 
 #. Key:	4348953248D241725A36BD85949AE223
 #. SourceLocation:	/Game/HDCKBuildingSystem/Table/BuildTable.BuildTable.NewRow_11.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
@@ -2741,7 +2741,7 @@ msgstr "Získávaní bojových zkušeností"
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_KG.Furniture_KG_C:ShowUI [Script Bytecode]
 msgctxt ",7CCCED78433FBE0BEEEFD09131C4426E"
 msgid "切换"
-msgstr "Přepnout"
+msgstr "Zap/Vyp"
 
 #. Key:	7CF1FA4449F3464AF0C74796614B54EC
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_1.In Text
@@ -3770,7 +3770,7 @@ msgstr "Jediný"
 #: /Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_3.TZF_27_2477A82448AA37EFCFBF4883BE709EF2
 msgctxt ",B4227B28456F62424876BF98D38BA59A"
 msgid "生命脆弱"
-msgstr "Život je křehký"
+msgstr "Podlomené zdraví"
 
 #. Key:	B4746EE4424481DB831589BEEC0DE8D4
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(7 - Value).DisplayNameMap
@@ -4036,7 +4036,7 @@ msgstr "Déšť"
 #: /Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_3.TZZ_25_C35A51E443EAFDA67203CFBC1ACCE357
 msgctxt ",C0C0173B4DBC2AE07D74ABBAEF6ABAD0"
 msgid "生命强悍"
-msgstr "Život je silný"
+msgstr "Zdravý jako řípa"
 
 #. Key:	C12D28E24DF61E9D26F30EA94EA043FF
 #. SourceLocation:	/Game/Blueprint/ACF/Tutorial/WBP_TutorialTip2.WBP_TutorialTip2_C:WidgetTree.TextBlock_1.Text
@@ -4617,7 +4617,7 @@ msgstr "Hlavní"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",DLCW"
 msgid "电力刺网"
-msgstr "elektrická tenatová síť"
+msgstr "Padající hroty"
 
 #. Key:	door1
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -4967,7 +4967,7 @@ msgstr "Příjem vody"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_48.Text
 msgctxt ",EDAC3030401DEB9C1DF43FBB2E47F2FD"
 msgid "解锁技能树无需材料"
-msgstr "Odemkněte strom dovedností bez materiálů"
+msgstr "Technologie bez materiálů"
 
 #. Key:	EDD26D20464594A00A1F098F6A283064
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/QK/BP_GunAccessoryQK_RifleBC01.Default__BP_GunAccessoryQK_RifleBC01_C.ItemInfo.Description
@@ -5520,7 +5520,7 @@ msgstr "Popis..."
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",mdc"
 msgid "木地刺"
-msgstr "dřevěné sashimi"
+msgstr "Dřevěné hroty"
 
 #. Key:	Null
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5548,7 +5548,7 @@ msgstr "Speciální schodiště ze dřeva pro venkovní použití"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",PHQ"
 msgid "喷火器"
-msgstr "plamenomet"
+msgstr "Plamenomet"
 
 #. Key:	QT
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5842,91 +5842,91 @@ msgstr "Pro spojování vnějších rohů."
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofTop_Stone_01"
 msgid "石材屋顶(单格)"
-msgstr "Kamenná střecha (jednokomorová)"
+msgstr "Kamenná střecha (jeden oddíl)"
 
 #. Key:	RoofTop_Stone_02
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofTop_Stone_02"
 msgid "石材屋顶(单格转角)"
-msgstr "Kamenná střecha (jednokomorový roh)"
+msgstr "Kamenná střecha (roh)"
 
 #. Key:	RoofTop_Stone_03
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofTop_Stone_03"
 msgid "石材屋顶(单格十字)"
-msgstr "Kamenná střecha (jednokomorový kříž)"
+msgstr "Kamenná střecha (kříž)"
 
 #. Key:	RoofTop_Stone_04
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofTop_Stone_04"
 msgid "石材屋顶(单格结尾)"
-msgstr "Kamenná střecha (zakončení jedním rámem)"
+msgstr "Kamenná střecha (konec)"
 
 #. Key:	RoofTop_Stone_05
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofTop_Stone_05"
 msgid "石材屋顶(单格无连接)"
-msgstr "Kamenná střecha (jedna buňka bez připojení)"
+msgstr "Kamenná střecha (samostatná)"
 
 #. Key:	RoofTop_Stone_06
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofTop_Stone_06"
 msgid "石材屋顶(单格三通)"
-msgstr "Kamenná střecha (jednokomorová střecha)"
+msgstr "Kamenná střecha (trojúhelník)"
 
 #. Key:	RoofTop_Wood_01
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofTop_Wood_01"
 msgid "茅草屋顶(单格)"
-msgstr "Došková střecha (jedno oddělení)"
+msgstr "Došková střecha (jeden oddíl)"
 
 #. Key:	RoofTop_Wood_02
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofTop_Wood_02"
 msgid "茅草屋顶(单格转角)"
-msgstr "Došková střecha (jednokomorový roh)"
+msgstr "Došková střecha (roh)"
 
 #. Key:	RoofTop_Wood_03
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofTop_Wood_03"
 msgid "茅草屋顶(单格十字)"
-msgstr "Došková střecha (jednokomorový kříž)"
+msgstr "Došková střecha (kříž)"
 
 #. Key:	RoofTop_Wood_04
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofTop_Wood_04"
 msgid "茅草屋顶(单格结尾)"
-msgstr "Došková střecha (jeden konec)"
+msgstr "Došková střecha (konec)"
 
 #. Key:	RoofTop_Wood_05
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofTop_Wood_05"
 msgid "茅草屋顶(单格无连接)"
-msgstr "Došková střecha (jedno oddělení bez připojení)"
+msgstr "Došková střecha (samostatná)"
 
 #. Key:	RoofTop_Wood_06
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofTop_Wood_06"
 msgid "茅草屋顶(单格三通)"
-msgstr "Došková střecha (jednokomorová střecha)"
+msgstr "Došková střecha (trojúhelník)"
 
 #. Key:	RSP
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RSP"
 msgid "燃烧瓶陷阱"
-msgstr "Molotovův koktejl"
+msgstr "Ohnivá past"
 
 #. Key:	Stairs
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5961,7 +5961,7 @@ msgstr "Schodiště (rohové)"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",Stairs03Baring"
 msgid "地面或地基或地板"
-msgstr "Přízemí nebo základy nebo podlaha"
+msgstr "Zem, základy nebo podlaha"
 
 #. Key:	StairsBaring
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5982,14 +5982,14 @@ msgstr "Dřevěné schody."
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",TDC"
 msgid "铁地刺"
-msgstr "Železný trn"
+msgstr "Železné hroty"
 
 #. Key:	TieJuMa
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",TieJuMa"
 msgid "铁拒马"
-msgstr "Železný kůň odmítání"
+msgstr "Železná zábrana"
 
 #. Key:	TwoHorizontalBeam
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -6150,7 +6150,7 @@ msgstr "Vypadá pevně a vydrží velkou zátěž."
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",XZDP"
 msgid "旋转刀片"
-msgstr "rotační čepel"
+msgstr "Rotační past"
 
 #. Key:	B1
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6199,7 +6199,7 @@ msgstr "Příčný betonový nosník (4 oddíly)"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B15"
 msgid "砖墙"
-msgstr "Cihlová stěna"
+msgstr "Cihlová zeď"
 
 #. Key:	B16
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6227,7 +6227,7 @@ msgstr "Cihlová zeď (1/3)"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B19"
 msgid "砖墙(正三角)"
-msgstr "Cihlová zeď (čtvercový trojúhelník)"
+msgstr "Cihlová zeď (trojúhelníková 1/2)"
 
 #. Key:	B2
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6283,14 +6283,14 @@ msgstr "Železné dveře"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B26"
 msgid "茅草屋顶(45度连接)"
-msgstr "Střecha s doškovou krytinou (připojení pod úhlem 45 stupňů)"
+msgstr "Došková střecha (45 stupňů)"
 
 #. Key:	B27
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B27"
 msgid "茅草屋檐(三角)"
-msgstr "Došková střecha (trojúhelník)"
+msgstr "Doškový okap (trojúhelníkový)"
 
 #. Key:	B28
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6465,7 +6465,7 @@ msgstr "Sporák"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B5"
 msgid "木材墙体(正三角)"
-msgstr "Dřevěná stěna (čtvercový trojúhelník)"
+msgstr "Dřevěná stěna (trojúhelníková 1/2)"
 
 #. Key:	B50
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6542,7 +6542,7 @@ msgstr "Zahradní truhlík"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B6"
 msgid "木材墙体(三角)"
-msgstr "Dřevěné stěny (trojúhelníkové)"
+msgstr "Dřevěná stěna (trojúhelníková)"
 
 #. Key:	B60
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6584,7 +6584,7 @@ msgstr "Skleník"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B65"
 msgid "吊灯"
-msgstr "Lustr"
+msgstr "Zářivka"
 
 #. Key:	B66
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6773,14 +6773,14 @@ msgstr "Betonová podlaha"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,D01"
 msgid "地雷"
-msgstr "těžit"
+msgstr "Mina"
 
 #. Key:	D02
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,D02"
 msgid "落木陷阱"
-msgstr "past na klády"
+msgstr "Padající kláda"
 
 #. Key:	A1
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7130,7 +7130,7 @@ msgstr "Inženýrství (5.stupeň)"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F109"
 msgid "武器大师（一卷）"
-msgstr "Zbrojařství (1.stupeň)"
+msgstr "Výroba zbraní (1.stupeň)"
 
 #. Key:	F11
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7144,28 +7144,28 @@ msgstr "Jablko"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F110"
 msgid "武器大师（二卷）"
-msgstr "Zbrojařství (2.stupeň)"
+msgstr "Výroba zbraní (2.stupeň)"
 
 #. Key:	F111
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F111"
 msgid "武器大师（三卷）"
-msgstr "Zbrojařství (3.stupeň)"
+msgstr "Výroba zbraní (3.stupeň)"
 
 #. Key:	F112
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F112"
 msgid "武器大师（四卷）"
-msgstr "Zbrojařství (4.stupeň)"
+msgstr "Výroba zbraní (4.stupeň)"
 
 #. Key:	F113
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F113"
 msgid "武器大师（五卷）"
-msgstr "Zbrojařství (5.stupeň)"
+msgstr "Výroba zbraní (5.stupeň)"
 
 #. Key:	F114
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8803,7 +8803,7 @@ msgstr "Sada na opravu auta"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Q01"
 msgid "18C"
-msgstr "18C"
+msgstr "Pistole 18C"
 
 #. Key:	Q02
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8817,7 +8817,7 @@ msgstr "M4"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Q03"
 msgid "SCAR"
-msgstr "JIZVA"
+msgstr "SCAR"
 
 #. Key:	Q04
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8838,7 +8838,7 @@ msgstr "MP7A1"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Q06"
 msgid "870A"
-msgstr "870A"
+msgstr "Brokovnice 870A"
 
 #. Key:	T1
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9048,7 +9048,7 @@ msgstr "Používá se hlavně k osvětlení"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W12"
 msgid "粗木弓"
-msgstr "Hrubý dřevěný luk"
+msgstr "Základní luk"
 
 #. Key:	W13
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9118,7 +9118,7 @@ msgstr "Kladivo"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W21"
 msgid "大型铁锤"
-msgstr ""
+msgstr "Železné bourací kladivo"
 
 #. Key:	W22
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9223,7 +9223,7 @@ msgstr "Ocelové kladivo"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W35"
 msgid "大型钢锤"
-msgstr ""
+msgstr "Ocelové bourací kladivo"
 
 #. Key:	W36
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9286,7 +9286,7 @@ msgstr "Molotov"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W43"
 msgid "土制手雷"
-msgstr "Domácí granát"
+msgstr "Granát"
 
 #. Key:	W44
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9769,14 +9769,14 @@ msgstr "Struktura"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,BuildRoof20"
 msgid "屋顶20度"
-msgstr "Střecha 20 stupňů"
+msgstr "20 stupňů"
 
 #. Key:	BuildRoof45
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,BuildRoof45"
 msgid "屋顶45度"
-msgstr "Střecha 45 stupňů"
+msgstr "45 stupňů"
 
 #. Key:	BuildRoofEnd
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -9790,7 +9790,7 @@ msgstr "Okap"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,BuildRoofSingle"
 msgid "屋顶单格"
-msgstr "Jeden díl střechy"
+msgstr "Štíty"
 
 #. Key:	BuildStairs
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -9804,7 +9804,7 @@ msgstr "Schody"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,BuildWall"
 msgid "墙体"
-msgstr "Stěna"
+msgstr "Stěny"
 
 #. Key:	BX
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -9825,7 +9825,7 @@ msgstr "Nos"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,caiji"
 msgid "采集"
-msgstr "sbírka"
+msgstr "Vykuchat"
 
 #. Key:	cancel
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10294,7 +10294,7 @@ msgstr "Krátká zbraň"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,durable"
 msgid "耐久："
-msgstr "Trvanlivost:"
+msgstr "Opotřebení:"
 
 #. Key:	DX
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10917,7 +10917,7 @@ msgstr "Režim antialiasingu"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,KK"
 msgid "口渴"
-msgstr "Žíznivý"
+msgstr "Tekutiny"
 
 #. Key:	KPP
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11127,7 +11127,7 @@ msgstr "Maximální výdrž"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,Menu"
 msgid "退回主菜单"
-msgstr "zpět do hlavní nabídky"
+msgstr "Hlavní nabídka"
 
 #. Key:	MJ
 #. SourceLocation:	/Game/LocalizationText/GUN.GUN
@@ -11610,7 +11610,7 @@ msgstr "Nic nezůstalo!"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,QCRL"
 msgid "取出燃料"
-msgstr "vytáhnout palivo"
+msgstr "Vyčerpat palivo"
 
 #. Key:	QG
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11806,7 +11806,7 @@ msgstr "Uložit"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SaveDay"
 msgid "新鲜度："
-msgstr "Svěžest:"
+msgstr "Čerstvost:"
 
 #. Key:	SaveGame
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11876,7 +11876,7 @@ msgstr "Rychlost"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Search"
 msgid "搜索设置："
-msgstr "nastavení vyhledávání:"
+msgstr "Nastavení vyhledávání:"
 
 #. Key:	SEDIAO
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11890,7 +11890,7 @@ msgstr "Barvy"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,server01"
 msgid "专用服务器"
-msgstr "Soukromý server"
+msgstr "Vlastní server"
 
 #. Key:	server02
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11904,7 +11904,7 @@ msgstr "naslouchací server"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,ServerName"
 msgid "服务器名称："
-msgstr "název serveru:"
+msgstr "Přesný název serveru:"
 
 #. Key:	SetTipMessage
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -12219,7 +12219,7 @@ msgstr "V otevřeném stavu inventáře klikněte levým tlačítkem myši na po
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SwitchServerMode"
 msgid "需要切换游戏服务器模式，并重新启动游戏，确认切换吗？"
-msgstr "Potřebujete přepnout režim herního serveru a restartovat hru, potvrdit přepnutí?"
+msgstr "Je třeba změnit herní režim, který vyžaduje restart hry. Potvrdit restart?"
 
 #. Key:	SY
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -13108,14 +13108,14 @@ msgstr "Šablony"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,YZKX"
 msgid "硬直抵抗"
-msgstr "Odolnost-Oblečení"
+msgstr "Odolnost oblečení"
 
 #. Key:	YZL
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,YZL"
 msgid "硬直"
-msgstr "Odolnost-Reakce postavy"
+msgstr "Reakce postavy"
 
 #. Key:	Z
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -13178,7 +13178,7 @@ msgstr "Kvalita stínování"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,ZT"
 msgid "总体"
-msgstr "Celkově"
+msgstr "Postava"
 
 #. Key:	ZuiB
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
