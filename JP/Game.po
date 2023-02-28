@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
 "POT-Creation-Date: 2023-02-24 03:07\n"
-"PO-Revision-Date: 2023-02-28 19:07\n"
+"PO-Revision-Date: 2023-02-28 22:02\n"
 "Language-Team: \n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
@@ -25,7 +25,7 @@ msgstr "体を洗う"
 #: /Game/Blueprint/UMG/Furniture/WBP_SPX.WBP_SPX_C:WidgetTree.development.Text
 msgctxt ",00986F3D49F50B3B8F6203A93FD5D846"
 msgid "发育"
-msgstr "発達"
+msgstr "収穫量"
 
 #. Key:	01471E2242A1A96EA568E09F19D72C20
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(13 - Value).DisplayNameMap
@@ -1551,7 +1551,7 @@ msgstr "建物直結"
 #: /Game/Blueprint/UMG/Furniture/WBP_PZX.WBP_PZX_C:WidgetTree.development.Text
 msgctxt ",45E4773D490169AB850A808635B4B555"
 msgid "发育"
-msgstr "発達"
+msgstr "収穫量"
 
 #. Key:	460E18EE4FC349EA101BCE80D2BBDE01
 #. SourceLocation:	/Game/Blueprint/UMG/MiniMap/WBP_MiniMap.WBP_MiniMap_C:ExecuteUbergraph_WBP_MiniMap [Script Bytecode]
@@ -10371,7 +10371,7 @@ msgstr "入れる"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,fayue"
 msgid "发育"
-msgstr "発達"
+msgstr "収穫量"
 
 #. Key:	FB
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10791,7 +10791,7 @@ msgstr "スキル"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,JNAdd"
 msgid "技能熟练度增加"
-msgstr "スキル熟練度が上がる"
+msgstr "スキル熟練度が上昇"
 
 #. Key:	JoinGame
 #. SourceLocation:	/Game/LocalizationText/UI.UI
