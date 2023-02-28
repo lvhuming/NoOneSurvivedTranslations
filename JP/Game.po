@@ -46,7 +46,7 @@ msgstr "気分-"
 #: /Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_8.TipMessage_41_0D1B7B6342180F0BD1D386A6C8ADE0B3
 msgctxt ",017C13554A303CDB96F5DAA161E199F6"
 msgid "获取技能经验"
-msgstr "スキル経験値を得る"
+msgstr "スキル経験値の獲得"
 
 #. Key:	021FAEDD4FF6A1D1D800BF83F7A7C15E
 #. SourceLocation:	/Game/Blueprint/UMG/EscMenu/WBP_Lumen.WBP_Lumen_C:WidgetTree.ShowTex.Text
@@ -67,7 +67,7 @@ msgstr "20"
 #: /Game/Blueprint/ACF/Item/Weapon/Bow/BP_ArrowBase.BP_ArrowBase_C:ExecuteUbergraph_BP_ArrowBase [Script Bytecode]
 msgctxt ",029F18BD46A2F021A1DFC69AEB53CA02"
 msgid "回收失败！"
-msgstr "リカバリーに失敗しました！"
+msgstr "回収に失敗しました！"
 
 #. Key:	0346655D46C4AF76A1D1B3943060F0AB
 #. SourceLocation:	/Game/Blueprint/UMG/EscMenu/WBP_ScreenSetting.WBP_ScreenSetting_C:WidgetTree.WBP_NIS.Show In Text
@@ -95,7 +95,7 @@ msgstr "1"
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_ServerSetting.WBP_ServerSetting_C:WidgetTree.TextBlock_68.Text
 msgctxt ",0414C204455F4F019180F78CF6ACBF9A"
 msgid "服务器设置："
-msgstr "サーバー設定:"
+msgstr "サーバー設定："
 
 #. Key:	0476690A4D67DD3DCB9A5DA167631A0D
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_CSZ.WBP_CSZ_C:WidgetTree.TextBlock_2.Text
@@ -298,7 +298,7 @@ msgstr "探索中..."
 #: /Game/Blueprint/UMG/Furniture/WBP_StoneFire.WBP_StoneFire_C:WidgetTree.FireTIme.Text
 msgctxt ",0BDFF3E44ADF1D4E97787E869B4DF710"
 msgid "燃烧时间：0"
-msgstr "燃焼時間: 0"
+msgstr "燃焼時間：0"
 
 #. Key:	0C5BBFF5443FDAB830CB348101393933
 #. SourceLocation:	/Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(10).Mappings.PlayerMappableOptions.DisplayName
@@ -340,7 +340,7 @@ msgstr "硬直耐性"
 #: /Game/Blueprint/ACF/Player/HDCK_GameState.Default__HDCK_GameState_C:Team Manager.Teams(0 - Value).Teams.DisplayName
 msgctxt ",0EE4296D4AE97E2F2B01F4A0EC0AB712"
 msgid "Team 1"
-msgstr "チーム1"
+msgstr "チーム 1"
 
 #. Key:	0F76833445170B88C4F8CD8F4B1A28D2
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/ACFGunBase_Shotgun.Default__ACFGunBase_Shotgun_C.ItemInfo.Name
@@ -557,7 +557,7 @@ msgstr "運搬量"
 #: /Game/Blueprint/UMG/Furniture/WBP_RYFDJ.WBP_RYFDJ_C:WidgetTree.TextRY.Text
 msgctxt ",19C478A9460A7FCF7A9C9A987249F571"
 msgid "当前燃料：10/50L"
-msgstr "現在の燃料: 10/50L"
+msgstr "現在の燃料：10/50L"
 
 #. Key:	1A0854374F1628CECF3A55984034F8FF
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_70.In Text
@@ -571,7 +571,7 @@ msgstr "上質な生地"
 #: /Game/Blueprint/UMG/Inventory/WBP_ItemToolTip.WBP_ItemToolTip_C:WidgetTree.FZX.Text
 msgctxt ",1A1D133A4285656BE0D9CF96D5BF7ECD"
 msgid "防抓性"
-msgstr "耐スクラッチ性"
+msgstr "耐傷性"
 
 #. Key:	1A1FCEF24CE7BF18B46A2488B22B1E7D
 #. SourceLocation:	/Game/Blueprint/UMG/InteractiveMessage/Interactive.Interactive.DisplayNameMap(2 - Value).DisplayNameMap
@@ -620,7 +620,7 @@ msgstr "ゾンビの攻撃"
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_ServerSetting.WBP_ServerSetting_C:WidgetTree.ShowTex.Text
 msgctxt ",1B85FB3F4B6E685DBA702D9EFCF5328A"
 msgid "最大玩家数量："
-msgstr "最大プレイヤー数:"
+msgstr "最大プレイヤー数："
 
 #. Key:	1B8B871648287619C492CB925DC2E815
 #. SourceLocation:	/Game/Blueprint/ACF/Tutorial/WBP_TutorialTip8.WBP_TutorialTip8_C:WidgetTree.TextBlock_2.Text
@@ -767,7 +767,7 @@ msgstr "なし"
 #: /Game/Blueprint/UMG/Furniture/WBP_CarInventory01.WBP_CarInventory01_C:WidgetTree.TextBlock_84.Text
 msgctxt ",2106FC62413F2CDFB6EC42B1F1F2C390"
 msgid "耐久度："
-msgstr "耐久性:"
+msgstr "耐久性："
 
 #. Key:	2191E6F14098A0C04EFC4FA4B26ECAE8
 #. SourceLocation:	/Game/Blueprint/UMG/ScreenMessage/WBP_GunMessage.WBP_GunMessage_C:ExecuteUbergraph_WBP_GunMessage [Script Bytecode]
@@ -949,7 +949,7 @@ msgstr "プロンプト情報"
 #: /Game/Blueprint/UMG/MainUI/Child/TipPasswordCheck.TipPasswordCheck_C:WidgetTree.PasswordNot.Text
 msgctxt ",28FF919E49670ACE61590A92C65832EF"
 msgid "密码不正确！"
-msgstr "パスワードが正しくありません。"
+msgstr "パスワードが正しくありません！"
 
 #. Key:	291BB8524A3F9AE1C2CFC684DAC4CE1D
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_83.In Text
@@ -998,7 +998,7 @@ msgstr "0 はなしを意味します"
 #: /Game/Blueprint/ACF/Player/HDCK_GameState.Default__HDCK_GameState_C:Team Manager.Teams(5 - Value).Teams.DisplayName
 msgctxt ",2A956A2A4408BCF9A24AE18FC7A69E73"
 msgid "Team 6"
-msgstr "チーム6"
+msgstr "チーム 6"
 
 #. Key:	2ABFDD2D4693426742BDACAE5D72DACC
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/ACFGunBase.Default__ACFGunBase_C.ItemInfo.Name
@@ -1054,7 +1054,7 @@ msgstr "プロンプト情報"
 #: /Game/Blueprint/ACF/Player/HDCK_GameState.Default__HDCK_GameState_C:Team Manager.Teams(6 - Value).Teams.DisplayName
 msgctxt ",2DAB35E643134B1AA825ACA13C74DE1F"
 msgid "Team 7"
-msgstr "チーム7"
+msgstr "チーム 7"
 
 #. Key:	2DE0B5EF440755EA73CCBF8E236A6626
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_ServerSetting.WBP_ServerSetting_C:WidgetTree.ShowTex_1.Text
@@ -1383,7 +1383,7 @@ msgstr "斧"
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_ServerSetting.WBP_ServerSetting_C:WidgetTree.ShowTex_2.Text
 msgctxt ",3D8D64F348C5C0E386AFEDB9DE2DFD13"
 msgid "进入服务器需要密码："
-msgstr "サーバーに入るにはパスワードが必要です。"
+msgstr "サーバーに入るにはパスワードが必要です："
 
 #. Key:	3E32C7E445C9DFD121EC18A80D22C168
 #. SourceLocation:	/Game/HDCKBuildingSystem/Table/E_SelectTypeChild.E_SelectTypeChild.DisplayNameMap(6 - Value).DisplayNameMap
@@ -1397,7 +1397,7 @@ msgstr "ルーフ20"
 #: /Game/Blueprint/UMG/Inventory/WBP_Inventory.WBP_Inventory_C:WidgetTree.Weight.Text
 msgctxt ",3EAE960E4E1C2943AEFCB68D5C61D51D"
 msgid "负重：300/600"
-msgstr "重量: 300/600"
+msgstr "重量：300/600"
 
 #. Key:	3F0080734A17ED2949B3E7A69E6074FA
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(14 - Value).DisplayNameMap
@@ -1509,7 +1509,7 @@ msgstr "家具"
 #: /Game/Blueprint/UMG/Furniture/WBP_XJPHQ.WBP_XJPHQ_C:WidgetTree.TextRY.Text
 msgctxt ",4390207B4B5BBDEF50CD4CA8F62621E1"
 msgid "当前燃料：10/50L"
-msgstr "現在の燃料: 10/50L"
+msgstr "現在の燃料：10/50L"
 
 #. Key:	43D1BDAC430C12636432F9B0A31832E9
 #. SourceLocation:	/Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_14.TipMessage_41_0D1B7B6342180F0BD1D386A6C8ADE0B3
@@ -1558,7 +1558,7 @@ msgstr "発達"
 #: /Game/Blueprint/UMG/MiniMap/WBP_MiniMap.WBP_MiniMap_C:ExecuteUbergraph_WBP_MiniMap [Script Bytecode]
 msgctxt ",460E18EE4FC349EA101BCE80D2BBDE01"
 msgid "当前坐标：{0} , {1}"
-msgstr "現在の座標: {0}、{1}"
+msgstr "現在の座標：{0}、{1}"
 
 #. Key:	46159C994865A551AA6AD5A39D194A56
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_1.Text
@@ -2097,14 +2097,14 @@ msgstr "素材の更新"
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_ServerSetting.WBP_ServerSetting_C:WidgetTree.ShowTex_4.Text
 msgctxt ",60C920AE4EEC3040FA97A59FA380B13C"
 msgid "仅限好友加入："
-msgstr "フレンドのみが参加できます:"
+msgstr "フレンドのみが参加できます："
 
 #. Key:	612EF7644486AA7D8F14FCBF06224F35
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/WBP_DSRoomSlot.WBP_DSRoomSlot_C:ExecuteUbergraph_WBP_DSRoomSlot [Script Bytecode]
 #: /Game/Blueprint/UMG/MainUI/WBP_DSRoomSlot.WBP_DSRoomSlot_C:ExecuteUbergraph_WBP_DSRoomSlot [Script Bytecode]
 msgctxt ",612EF7644486AA7D8F14FCBF06224F35"
 msgid "玩家数量："
-msgstr "プレイヤー数:"
+msgstr "プレイヤー数："
 
 #. Key:	6132AC50448990F25BA07BB77ED4C836
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_40.Text
@@ -2328,7 +2328,7 @@ msgstr "ダッシュスタミナ消費"
 #: /Game/Blueprint/UMG/NPCUMG/WBP_jy.WBP_jy_C:WidgetTree.GX.Text
 msgctxt ",6B5672FE4B8FDF39CD26C8B2527E9E21"
 msgid "关系：50"
-msgstr "関係: 50"
+msgstr "関係：50"
 
 #. Key:	6B6E2B914267363D168051958D0E1DF6
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Tool/BP_ToolAxe.Default__BP_ToolAxe_C.ItemInfo.Description
@@ -2489,7 +2489,7 @@ msgstr "スクリプトを使用して石を壊す"
 #: /Game/Blueprint/UMG/Furniture/WBP_CarInventory.WBP_CarInventory_C:WidgetTree.TextBlock_84.Text
 msgctxt ",719B3E1D4C94FB1547CDD4BD2E54B1B5"
 msgid "耐久度："
-msgstr "耐久性:"
+msgstr "耐久性："
 
 #. Key:	71C52F624196AA3F224A628A6674109E
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/FaceUI/WBP_SlideMorph.Default__WBP_SlideMorph_C.In Text
@@ -2853,7 +2853,7 @@ msgstr "銃器のスキルを向上させるか、アクセサリを装着する
 #: /Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_5.TipMessage_41_0D1B7B6342180F0BD1D386A6C8ADE0B3
 msgctxt ",81A960174CE991FE49649189E5DD74B2"
 msgid "力量"
-msgstr "力"
+msgstr "残量"
 
 #. Key:	81AB2C40433BB1ED045FCEA35270BF88
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_51.In Text
@@ -3168,21 +3168,21 @@ msgstr "壁"
 #: /Game/Blueprint/ACF/Player/HDCK_GameState.Default__HDCK_GameState_C:Team Manager.Teams(4 - Value).Teams.DisplayName
 msgctxt ",96A579794EEC7D6D09E3E5BC34E85AB6"
 msgid "Team 5"
-msgstr "チーム5"
+msgstr "チーム 5"
 
 #. Key:	96E719AC40808FB6414CAD900BEBD063
 #. SourceLocation:	/Game/Blueprint/ACF/Player/HDCK_GameState.Default__HDCK_GameState_C:Team Manager.Teams(8 - Value).Teams.DisplayName
 #: /Game/Blueprint/ACF/Player/HDCK_GameState.Default__HDCK_GameState_C:Team Manager.Teams(8 - Value).Teams.DisplayName
 msgctxt ",96E719AC40808FB6414CAD900BEBD063"
 msgid "Team 9"
-msgstr "チーム9"
+msgstr "チーム 9"
 
 #. Key:	9747BFBD47BCFF80FD18CB8843CCD7BF
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/WBP_RoomSlot.WBP_RoomSlot_C:WidgetTree.Player.Text
 #: /Game/Blueprint/UMG/MainUI/WBP_RoomSlot.WBP_RoomSlot_C:WidgetTree.Player.Text
 msgctxt ",9747BFBD47BCFF80FD18CB8843CCD7BF"
 msgid "玩家数量：5"
-msgstr "プレイヤー数: 5"
+msgstr "プレイヤー数：5"
 
 #. Key:	97BC675945FB3BDDE453978AB70A74C7
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_47.Text
@@ -3287,7 +3287,7 @@ msgstr "ワイン樽"
 #: /Game/Blueprint/UMG/MainUI/WBP_Main.WBP_Main_C:ExecuteUbergraph_WBP_Main [Script Bytecode]
 msgctxt ",9D3F81C54102184380CBC1AE93CB0064"
 msgid "房间创建失败！"
-msgstr "ルームの作成に失敗しました!"
+msgstr "ルームの作成に失敗しました！"
 
 #. Key:	9DAE78634ECE4283CB9DEF8A66D92169
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(15 - Value).DisplayNameMap
@@ -3357,7 +3357,7 @@ msgstr "屋外"
 #: /Game/Blueprint/UMG/WBP_BaseCharacter.WBP_BaseCharacter_C:WidgetTree.FZX.Text
 msgctxt ",9F5401FB4B4D43810787169E4346BFF7"
 msgid "防抓性"
-msgstr "耐スクラッチ性"
+msgstr "耐傷性"
 
 #. Key:	9FB9053B45B10609D8C03B8B8A0645ED
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_38.In Text
@@ -3630,7 +3630,7 @@ msgstr "炭水化物-"
 #: /Game/Blueprint/UMG/Furniture/WBP_SY_List.WBP_SY_List_C:ExecuteUbergraph_WBP_SY_List [Script Bytecode]
 msgctxt ",AE1B094F45E6A5C70705589D4AE91A03"
 msgid "动物状态："
-msgstr "動物の状態:"
+msgstr "動物の状態："
 
 #. Key:	AEA1B6104139B189036877A6A46CDF1D
 #. SourceLocation:	/Game/Blueprint/UMG/Inventory/WBP_Inventory.WBP_Inventory_C:WidgetTree.Image_208.ToolTipText
@@ -3791,7 +3791,7 @@ msgstr "7.62mmの弾薬"
 #: /Game/Blueprint/UMG/ChatSystem/WBP_ChatMenu.WBP_ChatMenu_C:WidgetTree.MessageBox.HintText
 msgctxt ",B57A00354900F30D42BACFBCF9434A53"
 msgid "请输入消息！"
-msgstr "メッセージを入力してください。"
+msgstr "メッセージを入力してください！"
 
 #. Key:	B58B87BA4FB6AA4F14CA28AF12BD5C23
 #. SourceLocation:	/Game/Blueprint/ACF/Tutorial/WBP_TutorialTip3.WBP_TutorialTip3_C:WidgetTree.TextBlock_2.Text
@@ -3952,7 +3952,7 @@ msgstr "太陽光発電機"
 #: /Game/Blueprint/UMG/MainUI/WBP_DSRoomSlot.WBP_DSRoomSlot_C:WidgetTree.Player.Text
 msgctxt ",BBEF3E58479213894E7E5C8543257BEB"
 msgid "玩家数量：5"
-msgstr "プレイヤー数: 5"
+msgstr "プレイヤー数：5"
 
 #. Key:	BC7DF0C340280B5AE5433887448AAA78
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/Car_Base.Default__Car_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
@@ -3987,7 +3987,7 @@ msgstr "春"
 #: /Game/Blueprint/UMG/Furniture/WBP_YXF.WBP_YXF_C:WidgetTree.FireTIme.Text
 msgctxt ",BD2FD8394FFA7E0DA455DB91E7027139"
 msgid "燃烧时间：0"
-msgstr "燃焼時間: 0"
+msgstr "燃焼時間：0"
 
 #. Key:	BD842DC74740211786574F86C27997A7
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(18 - Value).DisplayNameMap
@@ -4092,7 +4092,7 @@ msgstr "1"
 #: /Game/Blueprint/ACF/Player/HDCK_GameMode.HDCK_GameMode_C:ExecuteUbergraph_HDCK_GameMode [Script Bytecode]
 msgctxt ",C4C9089841ED96447C2336ADFE055AE0"
 msgid "存档失败！！！"
-msgstr "アーカイブに失敗しました! ! !"
+msgstr "アーカイブに失敗しました！！！"
 
 #. Key:	C503D8D4432665A9708A219FA438AF85
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_57.In Text
@@ -4113,7 +4113,7 @@ msgstr "ゾンビ"
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_GameSetting.WBP_GameSetting_C:WidgetTree.EditableTextBox_127.ToolTipText
 msgctxt ",C5EAAD20403CCB845464ABA4283BB8C1"
 msgid "请勿使用特殊字符！"
-msgstr "特殊文字は使用しないでください。"
+msgstr "特殊文字は使用しないでください！"
 
 #. Key:	C6034D65483B09D6A08FFE82C3F3B65C
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_YSSJQ.WBP_YSSJQ_C:WidgetTree.TextBlock_0.Text
@@ -4337,7 +4337,7 @@ msgstr "プロンプト情報"
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_JoinGame.WBP_JoinGame_C:ExecuteUbergraph_WBP_JoinGame [Script Bytecode]
 msgctxt ",D32A4D03413139E3B6FDB1B424B6207F"
 msgid "加入失败！"
-msgstr "参加できませんでした。"
+msgstr "参加できませんでした！"
 
 #. Key:	D3376D2445BA964A33A92D94FE102F37
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/LongBlunt/BP_LongBluntStick_G.Default__BP_LongBluntStick_G_C.ItemInfo.Description
@@ -4463,7 +4463,7 @@ msgstr "鋼のバット"
 #: /Game/Blueprint/UMG/Make/WBP_MakeDetailShow.WBP_MakeDetailShow_C:WidgetTree.FZX.Text
 msgctxt ",D9EB4FA148BE9A866B7468B3096116F5"
 msgid "防抓性"
-msgstr "耐スクラッチ性"
+msgstr "耐傷性"
 
 #. Key:	D9F39C7546A5C1735F3ED7AB191B0663
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_23.Text
@@ -4547,7 +4547,7 @@ msgstr "右睡眠"
 #: /Game/Blueprint/UMG/MainUI/WBP_Main.WBP_Main_C:WidgetTree.Nanite.Text
 msgctxt ",DDC0910C4C17BE48AB063FBF2F21022D"
 msgid "检测到您的电脑不支持Nanite，请升级显卡驱动！\r\n否则将会出现模型显示不完整等问题。"
-msgstr "お使いのコンピュータは Nanite をサポートしていないことが検出されました。グラフィック カード ドライバをアップグレードしてください!\r\nそうしないと、モデルの表示が不完全になるなどの問題が発生します。"
+msgstr "お使いのコンピュータは Nanite をサポートしていないことが検出されました。グラフィック カード ドライバをアップグレードしてください！\r\nそうしないと、モデルの表示が不完全になるなどの問題が発生します。"
 
 #. Key:	DDDC1B0B4000A52C9EBD15869577EA8E
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_CarInventory.WBP_CarInventory_C:WidgetTree.Health.Text
@@ -4652,7 +4652,7 @@ msgstr "5%"
 #: /Game/Blueprint/UMG/MainUI/Child/TipDelSlot.TipDelSlot_C:WidgetTree.TextBlock_107.Text
 msgctxt ",E0BDBA2A4577298FB1E9F9939B39A11B"
 msgid "确认删除存档吗？"
-msgstr "アーカイブを削除してもよろしいですか?"
+msgstr "アーカイブを削除してもよろしいですか？"
 
 #. Key:	E14242274DBF33A81F07A280CB8FA63E
 #. SourceLocation:	/Game/Blueprint/ACF/Tutorial/WBP_TutorialTip7.WBP_TutorialTip7_C:WidgetTree.TextBlock_2.Text
@@ -4666,7 +4666,7 @@ msgstr "三人称照準ではマウスの右ボタンを押したままにし、
 #: /Game/Blueprint/UMG/Furniture/WBP_CarInventory01.WBP_CarInventory01_C:WidgetTree.TextRY.Text
 msgctxt ",E16F5BCF44D95B80F815FE9A3268E147"
 msgid "燃料：10/50L"
-msgstr "燃料: 10/50L"
+msgstr "燃料：10/50L"
 
 #. Key:	E1DE8CFB4115A7723A5FB9973E62A4EA
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(16 - Value).DisplayNameMap
@@ -5100,7 +5100,7 @@ msgstr "非常に強い"
 #: /Game/Blueprint/UMG/MainUI/WBP_RoomSlot.WBP_RoomSlot_C:ExecuteUbergraph_WBP_RoomSlot [Script Bytecode]
 msgctxt ",F4BF7A6C48622D449AFBF195173F9A89"
 msgid "玩家数量："
-msgstr "プレイヤー数:"
+msgstr "プレイヤー数："
 
 #. Key:	F53C86D14E0BC9C66FEA7885EECEEA87
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_80.In Text
@@ -5989,7 +5989,7 @@ msgstr "鉄のとげ"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",TieJuMa"
 msgid "铁拒马"
-msgstr "鉄拒絶馬"
+msgstr "アイアンスパイク"
 
 #. Key:	TwoHorizontalBeam
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -7116,7 +7116,7 @@ msgstr "建築工学 (第3巻）"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F107"
 msgid "工程学（四卷）"
-msgstr ""
+msgstr "建築工学 (第4巻）"
 
 #. Key:	F108
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7998,7 +7998,7 @@ msgstr "冶金 (第1巻)"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,G1"
 msgid "手枪消音器"
-msgstr "ピストル サイレンサー"
+msgstr "ハンドガン サイレンサー"
 
 #. Key:	G10
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9118,7 +9118,7 @@ msgstr "鉄のハンマー"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W21"
 msgid "大型铁锤"
-msgstr ""
+msgstr "鉄のスレッジハンマー"
 
 #. Key:	W22
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9223,7 +9223,7 @@ msgstr "鋼のハンマー"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W35"
 msgid "大型钢锤"
-msgstr ""
+msgstr "鋼のスレッジハンマー"
 
 #. Key:	W36
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9496,7 +9496,7 @@ msgstr "一部のアイテムは、小さなハンマーで解体して素材を
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,13"
 msgid "卡住啦！使用退出菜单的脱离卡死功能。"
-msgstr "立ち往生！？ 終了メニューの「スタック解除」機能を使用します。"
+msgstr "動けない！？ 終了メニューの「スタック解除」機能を利用すると脱出できます。"
 
 #. Key:	14
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -9615,7 +9615,7 @@ msgstr "戻る"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,BackSave"
 msgid "你确定要用这个存档覆盖之前的存档吗？\r\n注意覆盖以后之前的存档无法恢复"
-msgstr "前回の保存をこの保存で上書きしてもよろしいですか?\r\n上書き後、以前のアーカイブを復元することはできませんのでご注意ください"
+msgstr "前回の保存をこの保存で上書きしてもよろしいですか？\r\n上書き後、以前のアーカイブを復元することはできませんのでご注意ください"
 
 #. Key:	BCG
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -9706,7 +9706,7 @@ msgstr "柵"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Buildingadsorbent"
 msgid "可吸附："
-msgstr "吸着性:"
+msgstr "吸着性："
 
 #. Key:	BuildingAll
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -9958,7 +9958,7 @@ msgstr "充電"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,CHUANGKOU"
 msgid "窗口"
-msgstr "窓"
+msgstr "ウィンドウ"
 
 #. Key:	CJ
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10021,7 +10021,7 @@ msgstr "確認"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,consume"
 msgid "消耗物品："
-msgstr "消耗品:"
+msgstr "消耗品："
 
 #. Key:	ControlSet
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10210,7 +10210,7 @@ msgstr "電力が足りません"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,DLcheck"
 msgid "没有电力连接或者电力不足！"
-msgstr "電源が接続されていないか、電力が足りません!"
+msgstr "電源が接続されていないか、電力が足りません！"
 
 #. Key:	DLFrom
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10266,7 +10266,7 @@ msgstr "廃棄物"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,DropTip"
 msgid "请选择丢弃数量："
-msgstr "廃棄数を選択してください:"
+msgstr "廃棄数を選択してください："
 
 #. Key:	DRYX
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10329,7 +10329,7 @@ msgstr "食べる"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Equip"
 msgid "装备"
-msgstr "装置"
+msgstr "装備"
 
 #. Key:	ETip
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10357,7 +10357,7 @@ msgstr "目の形"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,FaileToJoin"
 msgid "加入失败！"
-msgstr "参加できませんでした。"
+msgstr "参加できませんでした！"
 
 #. Key:	fangru
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10378,7 +10378,7 @@ msgstr "発達"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,FB"
 msgid "缝补"
-msgstr "縫う"
+msgstr "補修"
 
 #. Key:	FBL
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10434,7 +10434,7 @@ msgstr "長押しして探索"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,FireTime"
 msgid "燃烧时间："
-msgstr "燃焼時間:"
+msgstr "燃焼時間："
 
 #. Key:	fixbuild
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10525,7 +10525,7 @@ msgstr "防御"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,FZX"
 msgid "防抓性"
-msgstr "耐スクラッチ性"
+msgstr "耐傷性"
 
 #. Key:	GAMA
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10560,7 +10560,7 @@ msgstr "建築工学"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,GL"
 msgid "功率"
-msgstr "パワー"
+msgstr "消費電力"
 
 #. Key:	GR
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10581,7 +10581,7 @@ msgstr "関係："
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,GXZC"
 msgid "关系增长："
-msgstr "関係の成長:"
+msgstr "関係の成長："
 
 #. Key:	H
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10686,7 +10686,7 @@ msgstr "環境音"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,HMZL"
 msgid "画面质量"
-msgstr "画質"
+msgstr "品質プリセット"
 
 #. Key:	Hour
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10742,7 +10742,7 @@ msgstr "バックパック"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,itemDetail"
 msgid "属性："
-msgstr "属性:"
+msgstr "属性："
 
 #. Key:	JD
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10777,7 +10777,7 @@ msgstr "インタラクション 2"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,JINRU"
 msgid "进入"
-msgstr "入力"
+msgstr "乗車"
 
 #. Key:	JN
 #. SourceLocation:	/Game/LocalizationText/UIStudy.UIStudy
@@ -10812,7 +10812,7 @@ msgstr "ログ"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,JR"
 msgid "加热以后使用更佳"
-msgstr "温めてから使うのが良い"
+msgstr "加熱するとより良い"
 
 #. Key:	JRDRYX
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10840,7 +10840,7 @@ msgstr "機械の修理"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,JZBZKG"
 msgid "建造捕捉开关"
-msgstr "スナップ スイッチの作成"
+msgstr "スナップの切り替え"
 
 #. Key:	JZCD
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10868,7 +10868,7 @@ msgstr "スイッチ"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,KGQ"
 msgid "开锁器："
-msgstr "ロック解除ツール:"
+msgstr "ロック解除ツール："
 
 #. Key:	KH
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10945,7 +10945,7 @@ msgstr "耐熱性"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,KSJL"
 msgid "可视距离质量"
-msgstr "視認できる距離の品質"
+msgstr "描画距離"
 
 #. Key:	KTDetail
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -11057,7 +11057,7 @@ msgstr "顔の形"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,LXXH"
 msgid "练习消耗："
-msgstr "必要素材:"
+msgstr "必要素材："
 
 #. Key:	LZXG
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11267,7 +11267,7 @@ msgstr "無効なロールまたは ID が同じ名前で既に存在します"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,ND"
 msgid "难    度："
-msgstr "困難："
+msgstr "難易度："
 
 #. Key:	ND01
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11365,7 +11365,7 @@ msgstr "ライトが装備されていません"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,NoRead"
 msgid "我现在还看不懂这个或者这个我已经会了！"
-msgstr "私はまだこれを理解できないか、すでにこれを知っています!"
+msgstr "私はまだこれを理解できないか、すでにこれを知っています！"
 
 #. Key:	notAdd
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11435,7 +11435,7 @@ msgstr "必要な材料がありません"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,NotRead"
 msgid "我现在还看不懂这个或者这个我已经会了！"
-msgstr "私はまだこれを理解できないか、すでにこれを知っています!"
+msgstr "私はまだこれを理解できないか、すでにこれを知っています！"
 
 #. Key:	NotUse
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11449,21 +11449,21 @@ msgstr "使用中です"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,NotUseState"
 msgid "当前状态不可用！"
-msgstr "現在のステータスでは利用できません。"
+msgstr "現在のステータスでは利用できません！"
 
 #. Key:	NowRL
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,NowRL"
 msgid "当前燃料："
-msgstr "現在の燃料:"
+msgstr "現在の燃料："
 
 #. Key:	NowRY
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,NowRY"
 msgid "当前燃油："
-msgstr "現在の燃料:"
+msgstr "現在の燃料："
 
 #. Key:	NY
 #. SourceLocation:	/Game/LocalizationText/UIStudy.UIStudy
@@ -11582,7 +11582,7 @@ msgstr "走るゾンビの数"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,Q"
 msgid "前"
-msgstr "前方"
+msgstr "前進"
 
 #. Key:	QARYJ
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11645,7 +11645,7 @@ msgstr "適用"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,QRTC"
 msgid "确认退出吗？所有未保存的进度都将消失！"
-msgstr "終了してよろしいですか？保存されていない進行状況はすべて失われます。"
+msgstr "終了してよろしいですか？保存されていない進行状況はすべて失われます！"
 
 #. Key:	QT
 #. SourceLocation:	/Game/LocalizationText/GUN.GUN
@@ -11757,7 +11757,7 @@ msgstr "日光"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,RLSJ"
 msgid "熔炼时间："
-msgstr "溶解時間:"
+msgstr "溶解時間："
 
 #. Key:	RQ
 #. SourceLocation:	/Game/LocalizationText/UIStudy.UIStudy
@@ -11778,7 +11778,7 @@ msgstr "キャラクターコントロール"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,RWTD"
 msgid "人物特点："
-msgstr "キャラクターの特徴:"
+msgstr "キャラクターの特徴："
 
 #. Key:	RYMessage
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11876,7 +11876,7 @@ msgstr "速度"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Search"
 msgid "搜索设置："
-msgstr "検索設定:"
+msgstr "検索設定："
 
 #. Key:	SEDIAO
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11904,7 +11904,7 @@ msgstr "リッスン サーバー"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,ServerName"
 msgid "服务器名称："
-msgstr "サーバー名:"
+msgstr "サーバー名："
 
 #. Key:	SetTipMessage
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -12058,7 +12058,7 @@ msgstr "これは教えたくないです。"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SS10"
 msgid "不可能！！！"
-msgstr "無理だよ！ ! !"
+msgstr "無理だよ！！！"
 
 #. Key:	SS11
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12093,7 +12093,7 @@ msgstr "私はあなたと取引したい"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SSJSSL01"
 msgid "丧尸击杀数量："
-msgstr "倒したゾンビの数:"
+msgstr "倒したゾンビの数："
 
 #. Key:	SSND01
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -12219,7 +12219,7 @@ msgstr "箱を開けた状態でアイテムを左クリックすると素早く
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SwitchServerMode"
 msgid "需要切换游戏服务器模式，并重新启动游戏，确认切换吗？"
-msgstr "ゲーム サーバー モードを切り替えてゲームを再起動する必要がありますか?切り替えを確認しますか?"
+msgstr "ゲーム サーバー モードを切り替えてゲームを再起動する必要があります。切り替えを確認しますか？"
 
 #. Key:	SY
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12296,7 +12296,7 @@ msgstr "固着冷却から解放"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,TipName"
 msgid "请输入一个名字！"
-msgstr "名前を入力してください。"
+msgstr "名前を入力してください！"
 
 #. Key:	TLD
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12345,7 +12345,7 @@ msgstr "オンにする"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,TTZL"
 msgid "贴图质量"
-msgstr "質感の質"
+msgstr "マテリアル品質"
 
 #. Key:	Type
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12632,42 +12632,42 @@ msgstr "使用する"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,USE1"
 msgid "快捷栏1"
-msgstr "ショートカット バー 1"
+msgstr "ショートカットバー1"
 
 #. Key:	USE2
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,USE2"
 msgid "快捷栏2"
-msgstr "ショートカット バー 2"
+msgstr "ショートカットバー2"
 
 #. Key:	USE3
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,USE3"
 msgid "快捷栏3"
-msgstr "ショートカットバー 3"
+msgstr "ショートカットバー3"
 
 #. Key:	USE4
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,USE4"
 msgid "快捷栏4"
-msgstr "ショートカットバー 4"
+msgstr "ショートカットバー4"
 
 #. Key:	USE5
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,USE5"
 msgid "快捷栏5"
-msgstr "ショートカットバー 5"
+msgstr "ショートカットバー5"
 
 #. Key:	USE6
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,USE6"
 msgid "快捷栏6"
-msgstr "ショートカットバー 6"
+msgstr "ショートカットバー6"
 
 #. Key:	useDDFRJ
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -13003,7 +13003,7 @@ msgstr "学習条件が満たされていません"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,XXTJ"
 msgid "学习条件："
-msgstr "学習条件:"
+msgstr "取得条件："
 
 #. Key:	XZSJ
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -13094,7 +13094,7 @@ msgstr "ゲームの設定："
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,YY"
 msgid "阴影"
-msgstr "影の多い"
+msgstr "影の品質"
 
 #. Key:	YZ
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -13157,7 +13157,7 @@ msgstr "回す"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,ZLSD"
 msgid "帧率锁定"
-msgstr "フレームレートロック"
+msgstr "固定フレームレート"
 
 #. Key:	ZS
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -13227,7 +13227,7 @@ msgstr "職業"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,ZYL"
 msgid "总音量"
-msgstr "全容積"
+msgstr "全体の音量"
 
 #. Key:	ZZ
 #. SourceLocation:	/Game/LocalizationText/UI.UI
