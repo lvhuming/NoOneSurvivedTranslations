@@ -277,7 +277,7 @@ msgstr "Cimiento/Piso"
 #: /Game/Blueprint/UMG/WBP_BaseCharacter.WBP_BaseCharacter_C:WidgetTree.KRX.Text
 msgctxt ",0B7F4C1B45ADAE2851E196870F73FE68"
 msgid "抗热性"
-msgstr "Resistencia al Calor"
+msgstr "Resistencia (Calor)"
 
 #. Key:	0B9FB4204723F5010819DCAE9A4DD653
 #. SourceLocation:	/Game/Blueprint/UMG/EscMenu/WBP_ScreenSetting.WBP_ScreenSetting_C:WidgetTree.WBP_Dyna.Show In Text
@@ -326,14 +326,14 @@ msgstr "Posibilidad de Malaria"
 #: /Game/Blueprint/ACF/Player/HDCK_CharacterBP.Default__HDCK_CharacterBP_C.TimeBuffDetail(0).TimeBuffDetail.TipMessage_56_5402F47A4785659B27440099C7CA676D
 msgctxt ",0D2F9EF34F24FE1D4DE8229B65941BC4"
 msgid "疟疾，减少耐力上限和回复"
-msgstr "Malaria, Resistencia y Regeneración reducida"
+msgstr "Malaria (Resistencia y Regeneración reducidas)"
 
 #. Key:	0EAC4CF84F900A49A09DE09F240307B5
 #. SourceLocation:	/Game/Blueprint/UMG/WBP_BaseCharacter.WBP_BaseCharacter_C:WidgetTree.YZKX.Text
 #: /Game/Blueprint/UMG/WBP_BaseCharacter.WBP_BaseCharacter_C:WidgetTree.YZKX.Text
 msgctxt ",0EAC4CF84F900A49A09DE09F240307B5"
 msgid "硬直抗性"
-msgstr "Resistencia al Impacto"
+msgstr "Resistencia (Impacto)"
 
 #. Key:	0EE4296D4AE97E2F2B01F4A0EC0AB712
 #. SourceLocation:	/Game/Blueprint/ACF/Player/HDCK_GameState.Default__HDCK_GameState_C:Team Manager.Teams(0 - Value).Teams.DisplayName
@@ -466,7 +466,7 @@ msgstr "Salida de Agua"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_71.In Text
 msgctxt ",1470933545C7CA2F2EB2BCA1D91B3008"
 msgid "制药仪"
-msgstr "Instrumental Médico"
+msgstr "Laboratorio Médico"
 
 #. Key:	147BD87446DA956F29E07B807DB1FEF0
 #. SourceLocation:	/Game/Blueprint/UMG/UIBase/WBP_BookTipButton.Default__WBP_BookTipButton_C.Text
@@ -571,7 +571,7 @@ msgstr "Tela de Calidad"
 #: /Game/Blueprint/UMG/Inventory/WBP_ItemToolTip.WBP_ItemToolTip_C:WidgetTree.FZX.Text
 msgctxt ",1A1D133A4285656BE0D9CF96D5BF7ECD"
 msgid "防抓性"
-msgstr "Resistencia al Corte"
+msgstr "Resistencia (Corte)"
 
 #. Key:	1A1FCEF24CE7BF18B46A2488B22B1E7D
 #. SourceLocation:	/Game/Blueprint/UMG/InteractiveMessage/Interactive.Interactive.DisplayNameMap(2 - Value).DisplayNameMap
@@ -795,7 +795,7 @@ msgstr "Viga Vertical"
 #: /Game/Blueprint/UMG/Make/WBP_MakeDetailShow.WBP_MakeDetailShow_C:WidgetTree.KRX.Text
 msgctxt ",22CFC8EA45FAA84098796A9EE5C5D49A"
 msgid "抗热性"
-msgstr "Resistencia al Calor"
+msgstr "Resistencia (Calor)"
 
 #. Key:	2308D6F3490886F47608A29FECC708F2
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Book/AutoCreate/BP_Book_JXX05.Default__BP_Book_JXX05_C.ItemInfo.Name
@@ -1558,7 +1558,7 @@ msgstr "Crecimiento"
 #: /Game/Blueprint/UMG/MiniMap/WBP_MiniMap.WBP_MiniMap_C:ExecuteUbergraph_WBP_MiniMap [Script Bytecode]
 msgctxt ",460E18EE4FC349EA101BCE80D2BBDE01"
 msgid "当前坐标：{0} , {1}"
-msgstr "Coordenadas Actuales: {0}, {1}"
+msgstr "Coordenadas Actuales: {0} , {1}"
 
 #. Key:	46159C994865A551AA6AD5A39D194A56
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_1.Text
@@ -2244,7 +2244,7 @@ msgstr "Puntos de Generacion del Proyecto"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_94.In Text
 msgctxt ",67D08D9140C4E55E2C3B48B1ACD99534"
 msgid ".44子弹"
-msgstr "Munición .44 Magnum"
+msgstr "Munición: .44 Magnum"
 
 #. Key:	68475427496E27E22A3F4DB608EF5675
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_25.In Text
@@ -3931,7 +3931,7 @@ msgstr "0"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_95.In Text
 msgctxt ",BB0420A948E6FE459983A0AF89A6845D"
 msgid "霰弹枪子弹"
-msgstr "Munición: Escopeta"
+msgstr "Munición: Escopeta (Cal. 12)"
 
 #. Key:	BB154E9F4CD911E0A5B38BA239AA67F0
 #. SourceLocation:	/Game/Blueprint/UMG/ScreenMessage/WBP_CarMessage.WBP_CarMessage_C:WidgetTree.UnitLabel_2.Text
@@ -4414,7 +4414,7 @@ msgstr "1"
 #: /Game/Blueprint/ACF/Item/Base/Item_BaseMaterial.Default__Item_BaseMaterial_C.ItemInfo.Name
 msgctxt ",D7A2064F4AEAF050DCC8059F653C95E0"
 msgid "普通木材"
-msgstr "Madera Común"
+msgstr "Madera (Común)"
 
 #. Key:	D7B75BC9443B7B5148D2E9976E0E11BF
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_YZ.WBP_YZ_C:WidgetTree.Image_177.ToolTipText
@@ -4855,7 +4855,7 @@ msgstr "Usar Ranura 2"
 #: /Game/HDCKBuildingSystem/MeshBP/Wattle_WoodDoor.Wattle_WoodDoor_C:ShowUI [Script Bytecode]
 msgctxt ",E8EA4D5B4493329CF32982ABD630233C"
 msgid "{0}{1}"
-msgstr "{0}{1}"
+msgstr " {0} {1} "
 
 #. Key:	E968D2B9404C381673D22FBDED974E1F
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_6.Text
@@ -5079,7 +5079,7 @@ msgstr "Alto"
 #: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(24 - Value).DisplayNameMap
 msgctxt ",F3E6CCF3436FDB6BE9F2049AED4DD2AF"
 msgid "WattleDoor"
-msgstr "Puerta (Maleza)"
+msgstr "Puerta (Maleza/Palos)"
 
 #. Key:	F3F8E148409A7CD56F64519CED4DC8A7
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_ZJ.Furniture_ZJ_C:ExecuteUbergraph_Furniture_ZJ [Script Bytecode]
@@ -5240,7 +5240,7 @@ msgstr "Pon 5 tablones para repararlo."
 #: /Game/Blueprint/ACF/Item/Materials/Item_Material_Base.Default__Item_Material_Base_C.ItemInfo.Name
 msgctxt ",FA70B13B4DC374C2E2E8DF98E278B131"
 msgid "普通木材"
-msgstr "Madera Común"
+msgstr "Madera (Común)"
 
 #. Key:	FAF87E03415FE63732DAB39060CFA499
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/DJ/BP_GunAccessory_DJ_762_01.Default__BP_GunAccessory_DJ_762_01_C.ItemInfo.Description
@@ -5443,7 +5443,7 @@ msgstr "Puede prevenir caídas y aumentar la seguridad."
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",HalfVerticalBeam"
 msgid "木材立柱(1/3)"
-msgstr "Columna de Madera (1/3)"
+msgstr "Columna (Madera) (1/3)"
 
 #. Key:	HalfVerticalBeamAdsorbent
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5464,14 +5464,14 @@ msgstr "Cimiento/Viga/Columna"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",HalfVerticalBeamStone"
 msgid "石材立柱(1/3)"
-msgstr "Columna de Piedra (1/3)"
+msgstr "Columna (Piedra) (1/3)"
 
 #. Key:	HalfWall
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",HalfWall"
 msgid "石材墙体(1/3)"
-msgstr "Pared de Piedra (1/3)"
+msgstr "Pared (Piedra) (1/3)"
 
 #. Key:	HandGuard
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5534,7 +5534,7 @@ msgstr "Ninguno"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",OutdoorsStairs"
 msgid "木制楼梯(户外)"
-msgstr "Escaleras de Madera (Exterior)"
+msgstr "Escaleras (Madera) (Exterior)"
 
 #. Key:	OutdoorsStairsDetail
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5562,7 +5562,7 @@ msgstr "Pared"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RockFloor"
 msgid "石材地板"
-msgstr "Suelo de Piedra"
+msgstr "Suelo (Piedra)"
 
 #. Key:	RockFloorDetail
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5590,42 +5590,42 @@ msgstr "Se ve resistente y aguanta bastante peso."
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RockOutdoorsStairs"
 msgid "石材楼梯(户外)"
-msgstr "Escaleras de Piedra (Exterior)"
+msgstr "Escaleras (Piedra) (Exterior)"
 
 #. Key:	RockOutdoorsStairsDetail
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RockOutdoorsStairsDetail"
 msgid "石头制成的户外专用楼梯"
-msgstr "Escaleras especiales para el exterior de piedra"
+msgstr "Escaleras especiales para el exterior (Piedra)"
 
 #. Key:	Roof20
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",Roof20"
 msgid "茅草屋顶(20度)"
-msgstr "Techo de Paja (20 º)"
+msgstr "Techo (Paja) (20 º)"
 
 #. Key:	Roof20_02
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",Roof20_02"
 msgid "石材屋顶(20度)"
-msgstr "Techo de Piedra (20 º)"
+msgstr "Techo (Piedra) (20 º)"
 
 #. Key:	Roof45
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",Roof45"
 msgid "茅草屋顶(45度)"
-msgstr "Techo de Paja (45 º)"
+msgstr "Techo (Paja) (45 º)"
 
 #. Key:	Roof45_02
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",Roof45_02"
 msgid "石材屋顶(45度)"
-msgstr "Techo de Piedra (45 º)"
+msgstr "Techo (Piedra) (45 º)"
 
 #. Key:	Roof45_02Detail
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5667,28 +5667,28 @@ msgstr "Techo"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofCorner20"
 msgid "茅草屋顶(20度连接角)"
-msgstr "Techo de Paja (Angulo de Conexión de 20 º)"
+msgstr "Techo (Paja) (Angulo de Conexión de 20 º)"
 
 #. Key:	RoofCorner20_02
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofCorner20_02"
 msgid "石材屋顶(20度连接角)"
-msgstr "Techo de Piedra (Angulo de Conexión de 20 º)"
+msgstr "Techo (Piedra) (Angulo de Conexión de 20 º)"
 
 #. Key:	RoofCorner45
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofCorner45"
 msgid "茅草屋顶(45度连接角)"
-msgstr "Techo de Paja (Angulo de Conexión de 45 º)"
+msgstr "Techo (Paja) (Angulo de Conexión de 45 º)"
 
 #. Key:	RoofCorner45_02
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofCorner45_02"
 msgid "石材屋顶(45度连接角)"
-msgstr "Techo de Piedra (Angulo de Conexión de 45 º)"
+msgstr "Techo (Piedra) (Angulo de Conexión de 45 º)"
 
 #. Key:	RoofCorner45Detail
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5702,14 +5702,14 @@ msgstr "Para conectar techos de esquina interior."
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofEnd01"
 msgid "茅草屋檐(小)"
-msgstr "Alero con Techo de Paja (Pequeño)"
+msgstr "Alero con Techo (Paja) (Pequeño)"
 
 #. Key:	RoofEnd01_02
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofEnd01_02"
 msgid "石材屋檐(小)"
-msgstr "Alero de Piedra (Pequeño)"
+msgstr "Alero (Piedra) (Pequeño)"
 
 #. Key:	RoofEnd01Adsorbent
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5730,70 +5730,70 @@ msgstr "Aleros Horizontales/Verticales"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofEnd02"
 msgid "茅草屋檐(连接)"
-msgstr "Aleros de Paja (Conexión)"
+msgstr "Aleros (Paja) (Conexión)"
 
 #. Key:	RoofEnd02_02
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofEnd02_02"
 msgid "石材屋檐(连接)"
-msgstr "Alero de Piedra (Conexión)"
+msgstr "Alero (Piedra) (Conexión)"
 
 #. Key:	RoofEnd2_20
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofEnd2_20"
 msgid "茅草屋檐(20度竖向)"
-msgstr "Aleros de Paja (20 º Verticales)"
+msgstr "Aleros (Paja) (20 º Verticales)"
 
 #. Key:	RoofEnd2_20_02
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofEnd2_20_02"
 msgid "石材屋檐(20度竖向)"
-msgstr "Aleros de Piedra (20 º Verticales)"
+msgstr "Aleros (Piedra) (20 º Verticales)"
 
 #. Key:	RoofEnd3Intersection
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofEnd3Intersection"
 msgid "茅草屋檐(连接横向)"
-msgstr "Aleros con Techo de Paja (Conexión Horizontal)"
+msgstr "Aleros con Techo (Paja) (Conexión Horizontal)"
 
 #. Key:	RoofEnd3Intersection_02
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofEnd3Intersection_02"
 msgid "石材屋檐(连接横向)"
-msgstr "Aleros de Piedra (Conexión Horizontal)"
+msgstr "Aleros (Piedra) (Conexión Horizontal)"
 
 #. Key:	RoofEndHorizontal
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofEndHorizontal"
 msgid "茅草屋檐(横)"
-msgstr "Aleros con Techo de Paja (Horizontal)"
+msgstr "Aleros con Techo (Paja) (Horizontal)"
 
 #. Key:	RoofEndHorizontal_02
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofEndHorizontal_02"
 msgid "石材屋檐(横)"
-msgstr "Alero de Piedra (Horizontal)"
+msgstr "Alero (Piedra) (Horizontal)"
 
 #. Key:	RoofEndVertical
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofEndVertical"
 msgid "茅草屋檐(45度竖向)"
-msgstr "Aleros de Paja (45 º Verticales)"
+msgstr "Aleros (Paja) (45 º Verticales)"
 
 #. Key:	RoofEndVertical_02
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofEndVertical_02"
 msgid "石材屋檐(45度竖向)"
-msgstr "Aleros de Piedra (45 º Verticales)"
+msgstr "Aleros (Piedra) (45 º Verticales)"
 
 #. Key:	RoofEndVerticalDetail
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5807,28 +5807,28 @@ msgstr "Unido al borde del techo."
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofIntersection20"
 msgid "茅草屋顶(20度连接)"
-msgstr "Techo de Paja (Conexión de 20 º)"
+msgstr "Techo (Paja) (Conexión de 20 º)"
 
 #. Key:	RoofIntersection20_02
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofIntersection20_02"
 msgid "石材屋顶(20度连接)"
-msgstr "Techo de Piedra (Conexión de 20 º)"
+msgstr "Techo (Piedra) (Conexión de 20 º)"
 
 #. Key:	RoofIntersection45
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofIntersection45"
 msgid "茅草屋顶(45度连接)"
-msgstr "Techo de Paja (Conexión de 45 º)"
+msgstr "Techo (Paja) (Conexión de 45 º)"
 
 #. Key:	RoofIntersection45_02
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofIntersection45_02"
 msgid "石材屋顶(45度连接)"
-msgstr "Techo de Piedra (Conexión de 45 º)"
+msgstr "Techo (Piedra) (Conexión de 45 º)"
 
 #. Key:	RoofIntersection45Detail
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5842,84 +5842,84 @@ msgstr "Para conectar techos de esquinas exteriores."
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofTop_Stone_01"
 msgid "石材屋顶(单格)"
-msgstr "Techo de Piedra (Unicelular)"
+msgstr "Techo (Piedra) (Unicelular)"
 
 #. Key:	RoofTop_Stone_02
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofTop_Stone_02"
 msgid "石材屋顶(单格转角)"
-msgstr "Techo de Piedra (Una sola Esquina)"
+msgstr "Techo (Piedra) (Una sola Esquina)"
 
 #. Key:	RoofTop_Stone_03
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofTop_Stone_03"
 msgid "石材屋顶(单格十字)"
-msgstr "Techo de piedra (Cruz Simple)"
+msgstr "Techo (Piedra) (Cruz Simple)"
 
 #. Key:	RoofTop_Stone_04
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofTop_Stone_04"
 msgid "石材屋顶(单格结尾)"
-msgstr "Techo de piedra (Remate de Rejilla Simple)"
+msgstr "Techo (Piedra) (Remate de Rejilla Simple)"
 
 #. Key:	RoofTop_Stone_05
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofTop_Stone_05"
 msgid "石材屋顶(单格无连接)"
-msgstr "Techo de Piedra (Unicelular sin Conexión)"
+msgstr "Techo (Piedra) (Unicelular sin Conexión)"
 
 #. Key:	RoofTop_Stone_06
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofTop_Stone_06"
 msgid "石材屋顶(单格三通)"
-msgstr "Techo de Piedra (T de Rejilla Simple)"
+msgstr "Techo (Piedra) (T de Rejilla Simple)"
 
 #. Key:	RoofTop_Wood_01
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofTop_Wood_01"
 msgid "茅草屋顶(单格)"
-msgstr "Techo de Paja (Rejilla Unica)"
+msgstr "Techo (Paja) (Rejilla Unica)"
 
 #. Key:	RoofTop_Wood_02
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofTop_Wood_02"
 msgid "茅草屋顶(单格转角)"
-msgstr "Techo de Paja (Esquina Unica)"
+msgstr "Techo (Paja) (Esquina Unica)"
 
 #. Key:	RoofTop_Wood_03
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofTop_Wood_03"
 msgid "茅草屋顶(单格十字)"
-msgstr "Techo de Paja (Cruz Simple)"
+msgstr "Techo (Paja) (Cruz Simple)"
 
 #. Key:	RoofTop_Wood_04
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofTop_Wood_04"
 msgid "茅草屋顶(单格结尾)"
-msgstr "Techo de Paja (Extremo Unico)"
+msgstr "Techo (Paja) (Extremo Unico)"
 
 #. Key:	RoofTop_Wood_05
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofTop_Wood_05"
 msgid "茅草屋顶(单格无连接)"
-msgstr "Techo de Paja (Célula Unica sin Conexión)"
+msgstr "Techo (Paja) (Célula Unica sin Conexión)"
 
 #. Key:	RoofTop_Wood_06
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofTop_Wood_06"
 msgid "茅草屋顶(单格三通)"
-msgstr "Techo de Paja (T de Rejilla Simple)"
+msgstr "Techo (Paja) (T de Rejilla Simple)"
 
 #. Key:	RSP
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -6283,21 +6283,21 @@ msgstr "Puerta (Hierro)"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B26"
 msgid "茅草屋顶(45度连接)"
-msgstr "Techo de Paja (Junta de 45 º)"
+msgstr "Techo (Paja) (Junta de 45 º)"
 
 #. Key:	B27
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B27"
 msgid "茅草屋檐(三角)"
-msgstr "Aleros con Techo de Paja (Triangular)"
+msgstr "Aleros con Techo (Paja) (Triangular)"
 
 #. Key:	B28
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B28"
 msgid "石材屋檐(三角)"
-msgstr "Alero de Piedra (Triangular)"
+msgstr "Alero 制药仪 (Triangular)"
 
 #. Key:	B29
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -8922,7 +8922,7 @@ msgstr "Antiviral"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,T2"
 msgid "小型家用蓄电池（80Ah）"
-msgstr "Batería Doméstica Pequeña (80Ah)"
+msgstr "Batería Doméstica (80Ah)"
 
 #. Key:	T20
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8978,7 +8978,7 @@ msgstr "Núcleo Pozo Petrolifero"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,T3"
 msgid "大型家用蓄电池（120Ah）"
-msgstr "Batería Doméstica Grande (120Ah)"
+msgstr "Batería Doméstica (120Ah)"
 
 #. Key:	T4
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9300,35 +9300,35 @@ msgstr "Desert Eagle"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W45"
 msgid "使用.44口径子弹"
-msgstr "Utiliza munición cal. .44"
+msgstr "Utiliza munición: Cal. .44"
 
 #. Key:	W46
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W46"
 msgid "使用7.62口径弹药"
-msgstr "Utiliza munición cal. 7.62 mm"
+msgstr "Utiliza munición: Cal. 7.62 mm"
 
 #. Key:	W47
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W47"
 msgid "使用5.56口径弹药"
-msgstr "Utiliza munición cal. 5.56 mm"
+msgstr "Utiliza munición: Cal. 5.56 mm"
 
 #. Key:	W48
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W48"
 msgid "使用9mm子弹"
-msgstr "Utiliza munición cal. 9 mm"
+msgstr "Utiliza munición: Cal. 9 mm"
 
 #. Key:	W49
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W49"
 msgid "使用12号口径弹药"
-msgstr "Utiliza munición cal. 12"
+msgstr "Utiliza munición: Cal. 12"
 
 #. Key:	W5
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
