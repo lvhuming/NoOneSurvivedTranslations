@@ -179,7 +179,7 @@ msgstr "Fabricacion de Armas+"
 #: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(21 - Value).DisplayNameMap
 msgctxt ",071CC0AD44E91A58C8A6BBA56F0A6884"
 msgid "OutStairs"
-msgstr "Escaleras exteriores"
+msgstr "Escaleras (Exterior)"
 
 #. Key:	071CD535407A8CC1A78DFCAD6CB80596
 #. SourceLocation:	/Game/Blueprint/UMG/Inventory/WBP_DropShowButton.WBP_DropShowButton_C:WidgetTree.Num.Text
@@ -361,7 +361,7 @@ msgstr "Lanza de Madera"
 #: /Game/Blueprint/ACF/Tutorial/WBP_TutorialTip5.WBP_TutorialTip5_C:WidgetTree.TextBlock_2.Text
 msgctxt ",0FC7B32D443EA06EF7F13BB5DC4C9447"
 msgid "房屋的承重是需要梁柱的，你需要先规划梁柱，才可以建造墙体屋顶"
-msgstr "La estructura de una casa necesita vigas y columnas. Por lo tanto, es necesario planificar antes de construir paredes y techos."
+msgstr "La estructura de una casa necesita vigas y columnas. Tienes que planificar bien antes de construir paredes y techos."
 
 #. Key:	102D232D42B74EA177476CB075A9B8A8
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(22 - Value).DisplayNameMap
@@ -515,7 +515,7 @@ msgstr "Modelo 01"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_66.In Text
 msgctxt ",16BC7F2545C7B3F99940CC83C9FC978C"
 msgid "青霉素"
-msgstr "Penicilina"
+msgstr "Antibiotico"
 
 #. Key:	17B6B9D34796D38A9172D2AB4AFFD345
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_JoinGame.WBP_JoinGame_C:WidgetTree.WBP_Search.In Text
@@ -704,7 +704,7 @@ msgstr "Modelo 01"
 #: /Game/Blueprint/UMG/MainUI/Child/TipCharacter.TipCharacter_C:WidgetTree.TextBlock_107.Text
 msgctxt ",1D7C34834DD7C440C59867B541E1F4EF"
 msgid "确认删除角色吗？"
-msgstr "¿Estás seguro de que quieres eliminar el rol?"
+msgstr "¿Estás seguro de que quieres eliminar esa función?"
 
 #. Key:	1E0E1014475CBA9F745970B164487715
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Book/AutoCreate/BP_Book_JXX02.Default__BP_Book_JXX02_C.ItemInfo.Name
@@ -1033,7 +1033,7 @@ msgstr "Animal"
 #: /Game/Blueprint/ACF/Tutorial/WBP_TutorialTip9.WBP_TutorialTip9_C:WidgetTree.TextBlock_1.Text
 msgctxt ",2D21568E46DADC304EDB0BAAD885B304"
 msgid "现在拾取桌面的绑带包扎伤口"
-msgstr "Ahora toma el vendaje de la mesa y vendate la herida."
+msgstr "Ahora toma el vendaje de la mesa y cúrate la herida."
 
 #. Key:	2D45AC2340F743E0200225ABC0688F37
 #. SourceLocation:	/Game/Blueprint/UMG/ScreenMessage/WBP_CarMessage.WBP_CarMessage_C:WidgetTree.SpeedLabel_1.Text
@@ -1159,7 +1159,7 @@ msgstr "Mantenimiento (Volumen 4) "
 #: /Game/Blueprint/UMG/Furniture/WBP_CarInventory01.WBP_CarInventory01_C:WidgetTree.Repir.ToolTipText
 msgctxt ",32F2C50042D534BEAA1662A2087AC8CA"
 msgid "放入汽车修理套件维修"
-msgstr "Usa Kit de Reparación de vehículos para repararlo"
+msgstr "Usa Kit de Reparación de Vehículos para repararlo"
 
 #. Key:	330C2123417837492F10DB97418C4923
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Tool/Item_NotUse_Tool_Base.Default__Item_NotUse_Tool_Base_C.ItemInfo.Description
@@ -1243,7 +1243,7 @@ msgstr "Medio"
 #: /Game/Blueprint/ACF/Tutorial/WBP_TutorialTip7.WBP_TutorialTip7_C:WidgetTree.TextBlock.Text
 msgctxt ",36C4F9A84440F50C83D09B9C1C6813B6"
 msgid "适应完枪械，生存训练就结束了"
-msgstr "Después de aprender a manejar armas de fuego, finaliza el entrenamiento de supervivencia"
+msgstr "Después de aprender a manejar armas de fuego, finaliza tu entrenamiento de supervivencia"
 
 #. Key:	36F28AD24381348428BD9687A35CBC18
 #. SourceLocation:	/Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_7.TZF_27_2477A82448AA37EFCFBF4883BE709EF2
@@ -1334,7 +1334,7 @@ msgstr "Flecha de Hierro"
 #: /Game/Blueprint/AI/ZombieState.ZombieState.DisplayNameMap(2 - Value).DisplayNameMap
 msgctxt ",3A309EDE4B14D13B25BC2D97F0C97C71"
 msgid "chasing"
-msgstr "Perseguidor"
+msgstr "Persecución"
 
 #. Key:	3A3CF7C2470AEB70471187A6091C0CFA
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/Stairs_02.Default__Stairs_02_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
@@ -1474,14 +1474,14 @@ msgstr "La base está hecha de madera, que se ve fuerte y puede soportar bastant
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_13.In Text
 msgctxt ",42CCDC264FCA7E5F57C774A68D1FA7C2"
 msgid "干电池"
-msgstr "Batería Pequeña"
+msgstr "Batería"
 
 #. Key:	4348953248D241725A36BD85949AE223
 #. SourceLocation:	/Game/HDCKBuildingSystem/Table/BuildTable.BuildTable.NewRow_11.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 #: /Game/HDCKBuildingSystem/Table/BuildTable.BuildTable.NewRow_11.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 msgctxt ",4348953248D241725A36BD85949AE223"
 msgid "受遮挡或在没有太阳的天气无法发电"
-msgstr "Si no hay Sol no se puede generar electricidad."
+msgstr "Sin  Sol no se puede generar electricidad."
 
 #. Key:	4362834A4E275D8A564F3388D39CBEFC
 #. SourceLocation:	/Game/Blueprint/ACF/Data/TableAsset/WeaponTable.WeaponTable.SVD狙击枪.ItemInfo_66_F92A1A3B448C3413FD56918B4BFB9241.Name
@@ -1628,7 +1628,7 @@ msgstr "Puerta"
 #: /Game/Blueprint/ACF/Tutorial/WBP_TutorialTip9.WBP_TutorialTip9_C:WidgetTree.TextBlock.Text
 msgctxt ",4BC23A144EB39C24361F0EB1DEDAC119"
 msgid "当你有一个不好的状态时，需要对应的药物治疗"
-msgstr "Cuando estás enfermo, necesitas tomar el medicamento correspondiente a la enfermedad."
+msgstr "Cuando estás enfermo, necesitas tratarte con el medicamento correspondiente a la enfermedad."
 
 #. Key:	4C0AF75643475A5E1E51C6BD31A169A0
 #. SourceLocation:	/Game/HDCKBuildingSystem/UMG/WBP_ToolTip.WBP_ToolTip_C:WidgetTree.XFWP.Text
@@ -1705,7 +1705,7 @@ msgstr "Consejos Rápidos"
 #: /Game/Blueprint/UMG/Furniture/WBP_PZX.WBP_PZX_C:WidgetTree.development.ToolTipText
 msgctxt ",4EEAE27F444C96820BAF08B142031780"
 msgid "影响收成"
-msgstr "Afecta a la cantidad cosechada"
+msgstr "Afecta a la cantidad recolectada de la cosecha"
 
 #. Key:	4EED0D0C424E91685FBACD96576D8051
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/QK/BP_GunAccessoryQK_CF_BC02.Default__BP_GunAccessoryQK_CF_BC02_C.ItemInfo.Description
@@ -1845,7 +1845,7 @@ msgstr "Arrastra para rellenarlo"
 #: /Game/Blueprint/UMG/Furniture/WBP_SPX.WBP_SPX_C:WidgetTree.development.ToolTipText
 msgctxt ",569DFDE54CD2C05CA841E4AED49216C0"
 msgid "影响收成"
-msgstr "Afecta a la Cosecha"
+msgstr "Afecta al rendimiento de la cosecha"
 
 #. Key:	56A903D8474E2C86F33532A8231EB1CA
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_79.In Text
@@ -1964,7 +1964,7 @@ msgstr "Ninguno"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_2.In Text
 msgctxt ",5B20C11C40F75CC9326BD7AF00546A6C"
 msgid "铁锅"
-msgstr "Wok"
+msgstr "Cacerola"
 
 #. Key:	5B2DED4A4728AC95D0842DB821EF72E3
 #. SourceLocation:	/Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(10 - Value).DisplayNameMap
@@ -2104,7 +2104,7 @@ msgstr "Sala Privada: "
 #: /Game/Blueprint/UMG/MainUI/WBP_DSRoomSlot.WBP_DSRoomSlot_C:ExecuteUbergraph_WBP_DSRoomSlot [Script Bytecode]
 msgctxt ",612EF7644486AA7D8F14FCBF06224F35"
 msgid "玩家数量："
-msgstr "Número de jugadores:"
+msgstr "Número de jugadores: "
 
 #. Key:	6132AC50448990F25BA07BB77ED4C836
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_40.Text
@@ -2398,7 +2398,7 @@ msgstr "Tutorial"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_76.In Text
 msgctxt ",6E207D5C4ABA892FF99D9CA6C701C20E"
 msgid "钢砍刀"
-msgstr "Kukri"
+msgstr "Kukri de Acero"
 
 #. Key:	6E50C50F4EF16D2056CDECB988181CCB
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Spear/BP_SpearShoot_bASE.Default__BP_SpearShoot_Base_C.ItemInfo.Name
@@ -2713,7 +2713,7 @@ msgstr "Modelo 02"
 #: /Game/HDCKBuildingSystem/MeshBP/XJ_DL_Base.Default__XJ_DL_Base_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 msgctxt ",7ACA71DE4E2663D5BD36D2A58B8E9363"
 msgid "用于保管物品的箱子，不会丢失物品。"
-msgstr "Una caja para guardar artículos para que no se pierdan."
+msgstr "Una caja para guardar artículos y evitar su pérdida."
 
 #. Key:	7B453C894EBF823C79C81DA7C7D0ED34
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_DP_XDD.Default__Furniture_DP_XDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
@@ -2832,7 +2832,7 @@ msgstr "Vacío"
 #: /Game/Blueprint/UMG/MainUI/Child/FaceUI/WBP_SelectByMaxNum.Default__WBP_SelectByMaxNum_C.In Text
 msgctxt ",8065C70E447004CD1D1875984086C95F"
 msgid "TEST"
-msgstr "Prueba"
+msgstr "PRUEBA"
 
 #. Key:	808F715944DB629B18CE04BDF7A72F96
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_CarInventory01.WBP_CarInventory01_C:WidgetTree.Repir_2.ToolTipText
@@ -2944,7 +2944,7 @@ msgstr "Energía: "
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_19.In Text
 msgctxt ",8710C0014D4869B4CBF99993FFD25E15"
 msgid "肾上腺素"
-msgstr "Epinefrina"
+msgstr "Adrenalina"
 
 #. Key:	89132394498B7996A54198A9006A847B
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_39.In Text
@@ -3238,7 +3238,7 @@ msgstr "Champiñón"
 #: /Game/Blueprint/UMG/Furniture/WBP_CarInventory01.WBP_CarInventory01_C:ExecuteUbergraph_WBP_CarInventory01 [Script Bytecode]
 msgctxt ",997299584F3A56724AEEECA4B30B17F9"
 msgid "没有修理工具！"
-msgstr "¡Sin herramientas de reparación!"
+msgstr "¡Sin Kit de Costura!"
 
 #. Key:	999F80E349079E38988987AABAC5BB72
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/VerticalBeam_Base.Default__VerticalBeam_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
@@ -3462,7 +3462,7 @@ msgstr "Botiquín"
 #: /Game/Blueprint/UMG/Furniture/WBP_StoneFire.WBP_StoneFire_C:WidgetTree.Image_94.ToolTipText
 msgctxt ",A531484A4D7334448A41DF8CA71C2B71"
 msgid "试着将三种不同的食材放入锅中烹饪"
-msgstr "Cocina 3 ingredientes diferentes en una Olla"
+msgstr "Cocina 3 ingredientes diferentes en una Cacerola"
 
 #. Key:	A620DFB146D8A5575FB14BB9A29297F6
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/ACFGunBase_Rifle.Default__ACFGunBase_Rifle_C.ItemInfo.Name
@@ -3497,7 +3497,7 @@ msgstr "Ingresa una Contraseña"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_77.In Text
 msgctxt ",A8E8CFFB476DD19AE2F12BA0D0D8658C"
 msgid "烹饪台"
-msgstr "Cocina Eléctrica"
+msgstr "Cocina"
 
 #. Key:	A986B3D14B33762D4721F68A12C306D5
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(11 - Value).DisplayNameMap
@@ -3805,7 +3805,7 @@ msgstr "Recoge el Martillo de Construcción."
 #: /Game/Blueprint/ACF/Tutorial/WBP_TutorialTip7.WBP_TutorialTip7_C:WidgetTree.TextBlock_1.Text
 msgctxt ",B5E30E844D9DAB3740F010AE9E26C525"
 msgid "按下Esc退出，开始真正的生存吧"
-msgstr "Presione ESC para salir y comenzar tu Aventura"
+msgstr "Presiona ESC para salir y comenzar tu Aventura"
 
 #. Key:	B6010C16439371D4C6BA94A4171DBB18
 #. SourceLocation:	/Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(20).Mappings.PlayerMappableOptions.DisplayName
@@ -4169,7 +4169,7 @@ msgstr "Físico+"
 #: /Game/Blueprint/UMG/State/WBP_Status.WBP_Status_C:WidgetTree.TextBlock_5.Text
 msgctxt ",C9A43F9D4630EFB881767A9C232AB113"
 msgid "20.3  °C"
-msgstr "20,3 ºC"
+msgstr "20,3  ºC"
 
 #. Key:	CA0037B449D92CACAD7CF89A6327A14B
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Food/AutoCreate/BP_Food_2MWDSG.Default__BP_Food_2MWDSG_C.ItemInfo.Name
@@ -4547,7 +4547,7 @@ msgstr "Dormir a la Derecha"
 #: /Game/Blueprint/UMG/MainUI/WBP_Main.WBP_Main_C:WidgetTree.Nanite.Text
 msgctxt ",DDC0910C4C17BE48AB063FBF2F21022D"
 msgid "检测到您的电脑不支持Nanite，请升级显卡驱动！\r\n否则将会出现模型显示不完整等问题。"
-msgstr "Se ha detectado que su computadora no es compatible con la tecnología Nanite, ¡Actualiza el controlador de su tarjeta de video!\r\nDe lo contrario, puede experimentar problemas de textura."
+msgstr "Se ha detectado que tu computadora no es compatible con la tecnología Nanite, ¡Actualiza el controlador de su tarjeta de video!\r\nDe lo contrario, puede experimentar problemas de textura."
 
 #. Key:	DDDC1B0B4000A52C9EBD15869577EA8E
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_CarInventory.WBP_CarInventory_C:WidgetTree.Health.Text
@@ -4939,7 +4939,7 @@ msgstr "Alimento"
 #: /Game/Blueprint/UMG/Furniture/WBP_SPX.WBP_SPX_C:WidgetTree.TextBlock_115.Text
 msgctxt ",ECAB878844DB5540EF7B15AB40273797"
 msgid "铲掉"
-msgstr "Quitar la Planta."
+msgstr "Eliminar (Planta)."
 
 #. Key:	ED362C3F47934E84F061EFA97E3FB2B8
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_101.In Text
@@ -4988,7 +4988,7 @@ msgstr "Guardar"
 #: /Game/Blueprint/UMG/EscMenu/ScreenSwitch.ScreenSwitch.DisplayNameMap(1 - Value).DisplayNameMap
 msgctxt ",EDEA71F5499188B93E4EF9B0CE0AD262"
 msgid "SoundSet"
-msgstr "Conjunto de Sonidos"
+msgstr "Audio"
 
 #. Key:	EF14908E4E8701B13C2A61911CC79713
 #. SourceLocation:	/Game/HDCKBuildingSystem/Table/E_SelectType.E_SelectType.DisplayNameMap(0 - Value).DisplayNameMap
@@ -5079,7 +5079,7 @@ msgstr "Alto"
 #: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(24 - Value).DisplayNameMap
 msgctxt ",F3E6CCF3436FDB6BE9F2049AED4DD2AF"
 msgid "WattleDoor"
-msgstr "Puerta de Maleza/Palos"
+msgstr "Puerta de Paja"
 
 #. Key:	F3F8E148409A7CD56F64519CED4DC8A7
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_ZJ.Furniture_ZJ_C:ExecuteUbergraph_Furniture_ZJ [Script Bytecode]
@@ -5205,7 +5205,7 @@ msgstr "Herramienta "
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_26.Text
 msgctxt ",F91FBBF54EFCC09A5F2A2F82AC17BF67"
 msgid "病毒抗体-"
-msgstr "Anticuerpos Virales -"
+msgstr "Anticuerpos -"
 
 #. Key:	F9AE1443479D5044F8044295EDD7944A
 #. SourceLocation:	/Game/Blueprint/UMG/Inventory/WBP_CSZWaterButton.WBP_CSZWaterButton_C:OnDrop [Script Bytecode]
@@ -6297,7 +6297,7 @@ msgstr "Aleros con Techo de Paja (Triangular)"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B28"
 msgid "石材屋檐(三角)"
-msgstr "Alero 制药仪 (Triangular)"
+msgstr "Alero (Triangular)"
 
 #. Key:	B29
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6458,7 +6458,7 @@ msgstr "Forja de Carbón"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B49"
 msgid "烹饪台"
-msgstr "Cocina Electrica"
+msgstr "Cocina"
 
 #. Key:	B5
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -7207,7 +7207,7 @@ msgstr "Comida de Perro"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F119"
 msgid "蔬菜罐头"
-msgstr "Verduras en Lata"
+msgstr "Verduras Enalatadas"
 
 #. Key:	F12
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8677,7 +8677,7 @@ msgstr "Aceite para Armas"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M82"
 msgid "缝补工具"
-msgstr "Herramientas de Reparación"
+msgstr "Kit de Costura"
 
 #. Key:	M83
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8845,7 +8845,7 @@ msgstr "Escopeta 870A"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,T1"
 msgid "锅"
-msgstr "Olla"
+msgstr "Cacerola"
 
 #. Key:	T10
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8859,7 +8859,7 @@ msgstr "Venda"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,T11"
 msgid "包扎流血伤口"
-msgstr "Vendar una herida sangrante"
+msgstr "Vendarse"
 
 #. Key:	T12
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8901,7 +8901,7 @@ msgstr "Botiquín"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,T17"
 msgid "青霉素"
-msgstr "Penicilina"
+msgstr "Antibiotico"
 
 #. Key:	T18
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8971,7 +8971,7 @@ msgstr "Ganzúa"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,T26"
 msgid "油井核心"
-msgstr "Núcleo Pozo Petrolifero"
+msgstr "Núcleo de Pozo Petrolifero"
 
 #. Key:	T3
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9174,7 +9174,7 @@ msgstr "Flecha de Hierro"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W29"
 msgid "钢匕首"
-msgstr "Daga de Acero"
+msgstr "Karambit (Daga)"
 
 #. Key:	W3
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9286,14 +9286,14 @@ msgstr "Coctel Molotov"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W43"
 msgid "土制手雷"
-msgstr "Granada"
+msgstr "Granada Artesana"
 
 #. Key:	W44
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W44"
 msgid "沙鹰"
-msgstr "Desert Eagle"
+msgstr "Pistola: Desert Eagle"
 
 #. Key:	W45
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -10616,14 +10616,14 @@ msgstr "Activar/Desactivar Ajuste"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,HammerLeft"
 msgid "建造/长按拆除"
-msgstr "Construir/mantener pulsado para demoler"
+msgstr "Construir/Mantener pulsado para demoler"
 
 #. Key:	HammerMiddle
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,HammerMiddle"
 msgid "打开/关闭建筑菜单"
-msgstr "Abrir/cerrar el menú del edificio"
+msgstr "Abrir/Cerrar el menú del edificio"
 
 #. Key:	HammerRight
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11274,21 +11274,21 @@ msgstr "Dificultad: "
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,ND01"
 msgid "休闲"
-msgstr "Paseo por el Campo"
+msgstr "Normal"
 
 #. Key:	ND02
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,ND02"
 msgid "灾变"
-msgstr "Catástrofe"
+msgstr "Dificil"
 
 #. Key:	ND03
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,ND03"
 msgid "无人生还"
-msgstr "Sin Supervivientes"
+msgstr "Hardcore"
 
 #. Key:	Need
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11477,7 +11477,7 @@ msgstr "Agricultura "
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,NYCD"
 msgid "铲掉"
-msgstr "Quitar la Planta."
+msgstr "Eliminar (Planta)."
 
 #. Key:	NYCS
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11554,7 +11554,7 @@ msgstr "Fuerza Física"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Pot01"
 msgid "注意这个操作会删除锅内物品"
-msgstr "Ten en cuenta que esta acción eliminará el contenido de la olla"
+msgstr "Ten en cuenta que esta acción eliminará el contenido de la Cacerola"
 
 #. Key:	PR
 #. SourceLocation:	/Game/LocalizationText/UIStudy.UIStudy
@@ -12240,7 +12240,7 @@ msgstr "Saltar"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Take"
 msgid "取出"
-msgstr "Sacar"
+msgstr "Sacar "
 
 #. Key:	Talk
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12282,7 +12282,7 @@ msgstr "Cabello"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,thirsty"
 msgid "口渴"
-msgstr "Sediento"
+msgstr "Sed"
 
 #. Key:	TipFks
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -12989,14 +12989,14 @@ msgstr "Reparación Correcta"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,XLSQTQQ"
 msgid "使用油井核心修理"
-msgstr "Usa la reparación del núcleo en el  pozo"
+msgstr "Usalo para reparar el Núcleo del pozo petrolifero"
 
 #. Key:	XSTJ
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,XSTJ"
 msgid "学习条件未满足"
-msgstr "No se cumplen las condiciones de aprendizaje."
+msgstr "Nivel de Aprendizaje insuficiente."
 
 #. Key:	XXTJ
 #. SourceLocation:	/Game/LocalizationText/UI.UI
