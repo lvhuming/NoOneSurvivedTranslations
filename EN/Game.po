@@ -592,7 +592,7 @@ msgstr "Information"
 #: /Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/E_AimType.E_AimType.DisplayNameMap(1 - Value).DisplayNameMap
 msgctxt ",1A5943304B1C4E435E9732A73F4A03F5"
 msgid "RedDot"
-msgstr "Weapon Mod: Red Dot Sight"
+msgstr "Mod: Red Dot Sight"
 
 #. Key:	1A99018D4B477A08E00FB4931F57A181
 #. SourceLocation:	/Game/Blueprint/UMG/Inventory/WBP_ItemToolTip.WBP_ItemToolTip_C:WidgetTree.TBFY.Text
@@ -2314,7 +2314,7 @@ msgstr "Box"
 #: /Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/E_AimType.E_AimType.DisplayNameMap(5 - Value).DisplayNameMap
 msgctxt ",6AF5DE114014DFDC3C66DF9CA70085B1"
 msgid "8B"
-msgstr "Weapon Mod: 8B Sight"
+msgstr "Mod: 8B Sight"
 
 #. Key:	6B154759470BA3F08F615E920930379E
 #. SourceLocation:	/Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_11.TipMessage_41_0D1B7B6342180F0BD1D386A6C8ADE0B3
@@ -3679,7 +3679,7 @@ msgstr "Quick Tips"
 #: /Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/E_AimType.E_AimType.DisplayNameMap(2 - Value).DisplayNameMap
 msgctxt ",B0942D1946775C199F77B7B8C29F350F"
 msgid "QX"
-msgstr "Weapon Mod: QX Sight"
+msgstr "Mod: QX Sight"
 
 #. Key:	B09AB7414F2903DE09B2F8A4CE4DF3C4
 #. SourceLocation:	/Game/Blueprint/ACF/Manager/E_Season.E_Season.DisplayNameMap(0 - Value).DisplayNameMap
@@ -4071,7 +4071,7 @@ msgstr "About"
 #: /Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/E_AimType.E_AimType.DisplayNameMap(4 - Value).DisplayNameMap
 msgctxt ",C430F0E844B731D19998729E70349790"
 msgid "4B"
-msgstr "Weapon Mod: 4B Sight"
+msgstr "Mod: 4B Sight"
 
 #. Key:	C4521E8D4385E37EFF5F1CB5B7252E04
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Food/AutoCreate/BP_Food_YaoCaoTea.Default__BP_Food_YaoCaoTea_C.ItemInfo.Name
@@ -4561,7 +4561,7 @@ msgstr "20"
 #: /Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/QK/BP_GunAccessoryQK_Base.Default__BP_GunAccessoryQK_Base_C.ItemInfo.Name
 msgctxt ",DE21265443F9742F80DB9DA060647590"
 msgid "枪口补偿器"
-msgstr "Weapon Mod: Muzzle Brake"
+msgstr "Mod: Muzzle Brake"
 
 #. Key:	DE9208FC46FDC129FB0D8ABAB00801F3
 #. SourceLocation:	/Game/Blueprint/UMG/Make/WBP_MakeDetailShow.WBP_MakeDetailShow_C:WidgetTree.YZKX.Text
@@ -4967,7 +4967,7 @@ msgstr "Water Intake"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_48.Text
 msgctxt ",EDAC3030401DEB9C1DF43FBB2E47F2FD"
 msgid "解锁技能树无需材料"
-msgstr "Unlock skill tree without materials"
+msgstr "Unlock Skill Tree"
 
 #. Key:	EDD26D20464594A00A1F098F6A283064
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/QK/BP_GunAccessoryQK_RifleBC01.Default__BP_GunAccessoryQK_RifleBC01_C.ItemInfo.Description
@@ -7998,119 +7998,119 @@ msgstr "Metallurgy (Volume 1)"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,G1"
 msgid "手枪消音器"
-msgstr "Weapon Mod: Suppressor (Pistol)"
+msgstr "Mod: Suppressor (Pistol)"
 
 #. Key:	G10
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,G10"
 msgid "步枪枪托"
-msgstr "Weapon Mod: Stock (Assault Rifle)"
+msgstr "Mod: Stock (Assault Rifle)"
 
 #. Key:	G11
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,G11"
 msgid "冲锋枪枪托"
-msgstr "Weapon Mod: Stock (SMG)"
+msgstr "Mod: Stock (SMG)"
 
 #. Key:	G12
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,G12"
 msgid "狙击枪枪托"
-msgstr "Weapon Mod: Stock (Sniper Rifle)"
+msgstr "Mod: Stock (Sniper Rifle)"
 
 #. Key:	G13
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,G13"
 msgid "762扩容弹夹"
-msgstr "Weapon Mod: 7.62mm Extended Magazine"
+msgstr "Mod: 7.62mm Extended Magazine"
 
 #. Key:	G14
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,G14"
 msgid "556扩容弹夹"
-msgstr "Weapon Mod: 5.56mm Extended Magazine"
+msgstr "Mod: 5.56mm Extended Magazine"
 
 #. Key:	G15
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,G15"
 msgid "9mm扩容弹夹"
-msgstr "Weapon Mod: 9mm Extended Magazine"
+msgstr "Mod: 9mm Extended Magazine"
 
 #. Key:	G16
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,G16"
 msgid "垂直握把"
-msgstr "Weapon Mod: Vertical Grip"
+msgstr "Mod: Vertical Grip"
 
 #. Key:	G17
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,G17"
 msgid "三角握把"
-msgstr "Weapon Mod: Triangle Grip"
+msgstr "Mod: Triangle Grip"
 
 #. Key:	G2
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,G2"
 msgid "步枪消音器"
-msgstr "Weapon Mod: Suppressor (Assault Rifle)"
+msgstr "Mod: Suppressor (Assault Rifle)"
 
 #. Key:	G3
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,G3"
 msgid "步枪补偿器"
-msgstr "Weapon Mod: Compensator (Assault Rifle)"
+msgstr "Mod: Compensator (Assault Rifle)"
 
 #. Key:	G4
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,G4"
 msgid "冲锋枪消音器"
-msgstr "Weapon Mod: Suppressor (SMG)"
+msgstr "Mod: Suppressor (SMG)"
 
 #. Key:	G5
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,G5"
 msgid "冲锋枪补偿器"
-msgstr "Weapon Mod: Compensator (SMG)"
+msgstr "Mod: Compensator (SMG)"
 
 #. Key:	G6
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,G6"
 msgid "狙击枪消音器"
-msgstr "Weapon Mod: Suppressor (Sniper Rifle)"
+msgstr "Mod: Suppressor (Sniper Rifle)"
 
 #. Key:	G7
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,G7"
 msgid "狙击枪补偿器"
-msgstr "Weapon Mod: Compensator (Sniper Rifle)"
+msgstr "Mod: Compensator (Sniper Rifle)"
 
 #. Key:	G8
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,G8"
 msgid "红点瞄准镜"
-msgstr "Weapon Mod: Red Dot Sight"
+msgstr "Mod: Red Dot Sight"
 
 #. Key:	G9
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,G9"
 msgid "全息瞄准镜"
-msgstr "Weapon Mod: Holographic Sight"
+msgstr "Mod: Holographic Sight"
 
 #. Key:	M1
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8488,7 +8488,7 @@ msgstr "Inverter"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M58"
 msgid "电机"
-msgstr "Electric Machinery"
+msgstr "Motor"
 
 #. Key:	M59
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -12793,7 +12793,7 @@ msgstr "Water Source"
 #: /Game/LocalizationText/GUN.GUN
 msgctxt "UI,WB"
 msgid "握把"
-msgstr "Weapon Mod: Grip"
+msgstr "Mod: Grip"
 
 #. Key:	WDXS
 #. SourceLocation:	/Game/LocalizationText/UI.UI
