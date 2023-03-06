@@ -2783,7 +2783,7 @@ msgstr "Vida -"
 #: /Game/HDCKBuildingSystem/Blueprints/Base/Furniture_Base.Furniture_Base_C:ShowUI [Script Bytecode]
 msgctxt ",7E1AF86D4DF1A90B75698E8CE26CA187"
 msgid "{0}{1}"
-msgstr " {0} {1} "
+msgstr "{0}{1}"
 
 #. Key:	7E7248354EC7FC5C08FA02B9D0C2E912
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(8 - Value).DisplayNameMap
@@ -3700,7 +3700,7 @@ msgstr "Lingote de Acero"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_103.In Text
 msgctxt ",B15D04364C87BE5BFEE9C6BC4DB45FE4"
 msgid "汽车修理套件"
-msgstr "Kit de Reparación de Vehículos"
+msgstr "Kit de Rep. de Vehículos"
 
 #. Key:	B180E35F4A221AECBDE4279275533DD1
 #. SourceLocation:	/Game/Blueprint/ACF/Tutorial/WBP_TutorialTip9.WBP_TutorialTip9_C:WidgetTree.TextBlock_2.Text
@@ -4855,7 +4855,7 @@ msgstr "Usar Ranura 2"
 #: /Game/HDCKBuildingSystem/MeshBP/Wattle_WoodDoor.Wattle_WoodDoor_C:ShowUI [Script Bytecode]
 msgctxt ",E8EA4D5B4493329CF32982ABD630233C"
 msgid "{0}{1}"
-msgstr " {0} {1} "
+msgstr "{0}{1}"
 
 #. Key:	E968D2B9404C381673D22FBDED974E1F
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_6.Text
@@ -5023,7 +5023,7 @@ msgstr "Humedad"
 #: /Game/Blueprint/UMG/Inventory/WBP_ItemToolTip.WBP_ItemToolTip_C:WidgetTree.Detail.Text
 msgctxt ",F129924B4E7FED6DE53839AA9F668B19"
 msgid "物品简介栏（会被覆盖）"
-msgstr "Columna de perfil de elemento (se sobrescribirá)"
+msgstr "Columna de perfil de elemento (sera sustituida)"
 
 #. Key:	F19BD91C44C6F6CBC9085E9FAA02D371
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/FaceUI/WBP_SlideMorph.WBP_SlideMorph_C:WidgetTree.Text.Text
@@ -5142,7 +5142,7 @@ msgstr "Presiona C para agacharte o pulsa dos veces para rodar"
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_KG.Furniture_KG_C:ShowUI [Script Bytecode]
 msgctxt ",F5C4EE8C4E6DC7143610D6BC67865049"
 msgid "{0}{1}"
-msgstr " {0} {1} "
+msgstr "{0}{1}"
 
 #. Key:	F618CC164355622BE74E469B9F2F7BDA
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_58.In Text
@@ -5191,7 +5191,7 @@ msgstr "Equipo 8"
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_TYNFD.Default__Furniture_TYNFD_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 msgctxt ",F775A4FB474F44BF4E2879B66FDEC221"
 msgid "受遮挡或在没有太阳的天气无法发电"
-msgstr "A la sombra. Incapaz de generar electricidad en ausencia de sol"
+msgstr "A la sombra. Incapaz de generar electricidad por falta de sol"
 
 #. Key:	F895FF4F46F21F692C19CA91D155CFE5
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_3.Text
@@ -5331,7 +5331,7 @@ msgstr "Propiedades"
 #: /Game/Blueprint/UMG/Inventory/WBP_UseMenu.WBP_UseMenu_C:UseItem [Script Bytecode]
 msgctxt ",FEB00EB14CB0582FD5EC4192D7C1185F"
 msgid "当前格子已经装备了其他物品"
-msgstr "El compartimento actual ya está equipada con otros elementos."
+msgstr "El compartimento actual ya está equipado con otros elementos."
 
 #. Key:	FEB21BCC4870D846278BA9A227875DA1
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_ServerSetting.WBP_ServerSetting_C:WidgetTree.RoomName.Text
@@ -5394,7 +5394,7 @@ msgstr "Cimiento"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",FourHorizontalBeam"
 msgid "横梁(四格)"
-msgstr "Viga (Cuatro Espacios)"
+msgstr "Viga (4x1)"
 
 #. Key:	FourHorizontalBeamDetail
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5415,7 +5415,7 @@ msgstr "Barandilla"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",GuardRail2"
 msgid "护栏(半格)"
-msgstr "Barandilla (1/2 Espacio)"
+msgstr "Barandilla (1/2)"
 
 #. Key:	GuardRailAdsorbent
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5478,14 +5478,14 @@ msgstr "Pared de Piedra (1/3)"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",HandGuard"
 msgid "护手"
-msgstr "Poste Separado de Barandilla"
+msgstr "Guardamanos"
 
 #. Key:	HandGuardDetail
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",HandGuardDetail"
 msgid "一个单独的护手。"
-msgstr "Poste Separado de Barandilla"
+msgstr "Un guardamanos sencillo"
 
 #. Key:	HandGuardStairs
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5541,7 +5541,7 @@ msgstr "Escaleras de Madera (Exterior)"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",OutdoorsStairsDetail"
 msgid "木头制成的户外专用楼梯"
-msgstr "Escaleras especiales exterior de madera"
+msgstr "Escaleras exteriories de Madera"
 
 #. Key:	PHQ
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5597,7 +5597,7 @@ msgstr "Escaleras de Piedra (Exterior)"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RockOutdoorsStairsDetail"
 msgid "石头制成的户外专用楼梯"
-msgstr "Escaleras especiales para el exterior de Piedra"
+msgstr "Escaleras exteriores de Piedra"
 
 #. Key:	Roof20
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5667,49 +5667,49 @@ msgstr "Techo"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofCorner20"
 msgid "茅草屋顶(20度连接角)"
-msgstr "Techo de Paja (Angulo de Conexión de 20 º)"
+msgstr "Techo de Paja (Angulo de 20 º)"
 
 #. Key:	RoofCorner20_02
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofCorner20_02"
 msgid "石材屋顶(20度连接角)"
-msgstr "Techo de Piedra (Angulo de Conexión de 20 º)"
+msgstr "Techo de Piedra (Angulo de 20 º)"
 
 #. Key:	RoofCorner45
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofCorner45"
 msgid "茅草屋顶(45度连接角)"
-msgstr "Techo de Paja (Angulo de Conexión de 45 º)"
+msgstr "Techo de Paja (Angulo de 45 º)"
 
 #. Key:	RoofCorner45_02
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofCorner45_02"
 msgid "石材屋顶(45度连接角)"
-msgstr "Techo de Piedra (Angulo de Conexión de 45 º)"
+msgstr "Techo de Piedra (Angulo de 45 º)"
 
 #. Key:	RoofCorner45Detail
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofCorner45Detail"
 msgid "用于连接内转角屋顶。"
-msgstr "Para conectar techos de esquina interior."
+msgstr "Para conectar techos en esquina interior."
 
 #. Key:	RoofEnd01
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofEnd01"
 msgid "茅草屋檐(小)"
-msgstr "Alero con Techo de Paja (Pequeño)"
+msgstr "Aleros de Paja (Pequeños)"
 
 #. Key:	RoofEnd01_02
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofEnd01_02"
 msgid "石材屋檐(小)"
-msgstr "Alero de Piedra (Pequeño)"
+msgstr "Aleros de Piedra (Pequeños)"
 
 #. Key:	RoofEnd01Adsorbent
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5744,35 +5744,35 @@ msgstr "Alero de Piedra (Conexión)"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofEnd2_20"
 msgid "茅草屋檐(20度竖向)"
-msgstr "Aleros de Paja (20 º Verticales)"
+msgstr "Aleros de Paja (20 º )"
 
 #. Key:	RoofEnd2_20_02
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofEnd2_20_02"
 msgid "石材屋檐(20度竖向)"
-msgstr "Aleros de Piedra (20 º Verticales)"
+msgstr "Aleros de Piedra (20 º )"
 
 #. Key:	RoofEnd3Intersection
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofEnd3Intersection"
 msgid "茅草屋檐(连接横向)"
-msgstr "Aleros con Techo de Paja (Conexión Horizontal)"
+msgstr "Aleros de Paja (Conexión)"
 
 #. Key:	RoofEnd3Intersection_02
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofEnd3Intersection_02"
 msgid "石材屋檐(连接横向)"
-msgstr "Aleros de Piedra (Conexión Horizontal)"
+msgstr "Aleros de Piedra (Conexión )"
 
 #. Key:	RoofEndHorizontal
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofEndHorizontal"
 msgid "茅草屋檐(横)"
-msgstr "Aleros con Techo de Paja (Horizontal)"
+msgstr "Aleros de Paja (Horizontal)"
 
 #. Key:	RoofEndHorizontal_02
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5786,21 +5786,21 @@ msgstr "Alero de Piedra (Horizontal)"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofEndVertical"
 msgid "茅草屋檐(45度竖向)"
-msgstr "Aleros de Paja (45 º Verticales)"
+msgstr "Aleros de Paja (45 º)"
 
 #. Key:	RoofEndVertical_02
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofEndVertical_02"
 msgid "石材屋檐(45度竖向)"
-msgstr "Aleros de Piedra (45 º Verticales)"
+msgstr "Aleros de Piedra (45 º)"
 
 #. Key:	RoofEndVerticalDetail
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofEndVerticalDetail"
 msgid "连接在屋顶的边缘。"
-msgstr "Unido al borde del techo."
+msgstr "Conectado al borde del techo."
 
 #. Key:	RoofIntersection20
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5814,21 +5814,21 @@ msgstr "Techo de Paja (Conexión de 20 º)"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofIntersection20_02"
 msgid "石材屋顶(20度连接)"
-msgstr "Techo de Piedra (Conexión de 20 º)"
+msgstr "Techo de Piedra (20 º)"
 
 #. Key:	RoofIntersection45
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofIntersection45"
 msgid "茅草屋顶(45度连接)"
-msgstr "Techo de Paja (Conexión de 45 º)"
+msgstr "Techo de Paja (45 º)"
 
 #. Key:	RoofIntersection45_02
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofIntersection45_02"
 msgid "石材屋顶(45度连接)"
-msgstr "Techo de Piedra (Conexión de 45 º)"
+msgstr "Techo de Piedra (45 º)"
 
 #. Key:	RoofIntersection45Detail
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5842,14 +5842,14 @@ msgstr "Para conectar techos de esquinas exteriores."
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofTop_Stone_01"
 msgid "石材屋顶(单格)"
-msgstr "Techo de Piedra (Unicelular)"
+msgstr "Techo de Piedra (Simple)"
 
 #. Key:	RoofTop_Stone_02
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofTop_Stone_02"
 msgid "石材屋顶(单格转角)"
-msgstr "Techo de Piedra (Una sola Esquina)"
+msgstr "Techo de Piedra (Esquina Única)"
 
 #. Key:	RoofTop_Stone_03
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5863,28 +5863,28 @@ msgstr "Techo de Piedra (Cruz Simple)"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofTop_Stone_04"
 msgid "石材屋顶(单格结尾)"
-msgstr "Techo de Piedra (Remate de Rejilla Simple)"
+msgstr "Techo de Piedra (Rejilla Simple)"
 
 #. Key:	RoofTop_Stone_05
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofTop_Stone_05"
 msgid "石材屋顶(单格无连接)"
-msgstr "Techo de Piedra (Unicelular sin Conexión)"
+msgstr "Techo de Piedra (sin Conexión)"
 
 #. Key:	RoofTop_Stone_06
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofTop_Stone_06"
 msgid "石材屋顶(单格三通)"
-msgstr "Techo de Piedra (T de Rejilla Simple)"
+msgstr "Techo de Piedra (En T)"
 
 #. Key:	RoofTop_Wood_01
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofTop_Wood_01"
 msgid "茅草屋顶(单格)"
-msgstr "Techo de Paja (Rejilla Unica)"
+msgstr "Techo de Paja (Rejilla Simple)"
 
 #. Key:	RoofTop_Wood_02
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5912,14 +5912,14 @@ msgstr "Techo de Paja (Extremo Unico)"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofTop_Wood_05"
 msgid "茅草屋顶(单格无连接)"
-msgstr "Techo de Paja (Célula Unica sin Conexión)"
+msgstr "Techo de Paja (Sin Conexión)"
 
 #. Key:	RoofTop_Wood_06
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofTop_Wood_06"
 msgid "茅草屋顶(单格三通)"
-msgstr "Techo de Paja (T de Rejilla Simple)"
+msgstr "Techo de Paja (En T )"
 
 #. Key:	RSP
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5954,7 +5954,7 @@ msgstr "Vigas/Columnas, Cimientos/Suelos"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",Stairs03"
 msgid "楼梯(转角)"
-msgstr "Esquina de Escalera"
+msgstr "Escalera (Esquina)"
 
 #. Key:	Stairs03Baring
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5996,7 +5996,7 @@ msgstr "Trampa: Pinchos de Hierro"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",TwoHorizontalBeam"
 msgid "横梁(两格)"
-msgstr "Viga (Dos Espacios)"
+msgstr "Viga (2x1)"
 
 #. Key:	TwoHorizontalBeamDetail
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -6010,7 +6010,7 @@ msgstr "Vigas largas, pueden soportar el peso."
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",VerticalBeam"
 msgid "木材立柱"
-msgstr "Montantes de Madera"
+msgstr "Pilar de Madera"
 
 #. Key:	VerticalBeamAdsorbent
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -6080,28 +6080,28 @@ msgstr "Pared de Piedra"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",WallDoor"
 msgid "石材墙体(带门洞)"
-msgstr "Marco de Puerta de Piedra"
+msgstr "Muro de Piedra (Puerta)"
 
 #. Key:	WallTriangle
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",WallTriangle"
 msgid "石材墙体(三角)"
-msgstr "Pared Triangular de Piedra"
+msgstr "Muro de Piedra (Triangular)"
 
 #. Key:	WallTriangle20
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",WallTriangle20"
 msgid "石材墙体(三角1/3)未建模"
-msgstr "Pared de Piedra (Triángulo 1/3) no modelado"
+msgstr "Muro de Piedra (Triángular 1/3)"
 
 #. Key:	WallWindow
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",WallWindow"
 msgid "石材墙体(带窗洞)"
-msgstr "Marco de Ventana de Piedra"
+msgstr "Muro de Piedra (Ventana)"
 
 #. Key:	window1
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -6185,14 +6185,14 @@ msgstr "Viga de Hormigon"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B13"
 msgid "水泥横梁(两格)"
-msgstr "Viga Hormigon (2 Espacios)"
+msgstr "Viga Hormigon (2x1)"
 
 #. Key:	B14
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B14"
 msgid "水泥横梁(四格)"
-msgstr "Viga de Cemento (4 Espacios)"
+msgstr "Viga de Cemento (4x1)"
 
 #. Key:	B15
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6206,14 +6206,14 @@ msgstr "Pared de Ladrillo"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B16"
 msgid "砖墙(带门洞)"
-msgstr "Marco de Puerta de Ladrillo"
+msgstr "Pared de Ladrillo (Puerta)"
 
 #. Key:	B17
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B17"
 msgid "砖墙(带窗洞)"
-msgstr "Marco de Ventana de Ladrillo"
+msgstr "Pared de Ladrillo (Ventana)"
 
 #. Key:	B18
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6227,21 +6227,21 @@ msgstr "Pared de Ladrillo (1/3)"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B19"
 msgid "砖墙(正三角)"
-msgstr "Pared de Ladrillo (Triángulo Regular)"
+msgstr "Pared de Ladrillo (Triángular)"
 
 #. Key:	B2
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B2"
 msgid "木材墙体(带门洞)"
-msgstr "Marco de Puerta de Madera"
+msgstr "Pared de Madera (Puerta)"
 
 #. Key:	B20
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B20"
 msgid "砖墙(三角)"
-msgstr "Pared Triangular de Ladrillo"
+msgstr "Pared de Ladrillo (Triangular)"
 
 #. Key:	B21
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6283,14 +6283,14 @@ msgstr "Puerta de Hierro"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B26"
 msgid "茅草屋顶(45度连接)"
-msgstr "Techo de Paja (Junta de 45 º)"
+msgstr "Techo de Paja (45 º)"
 
 #. Key:	B27
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B27"
 msgid "茅草屋檐(三角)"
-msgstr "Aleros con Techo de Paja (Triangular)"
+msgstr "Aleros de Paja (Triangular)"
 
 #. Key:	B28
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6311,7 +6311,7 @@ msgstr "Escalera"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B3"
 msgid "木材墙体(带窗洞)"
-msgstr "Marco de Ventana de Madera"
+msgstr "Pared de Madera (Ventana)"
 
 #. Key:	B30
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6465,7 +6465,7 @@ msgstr "Cocina"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B5"
 msgid "木材墙体(正三角)"
-msgstr "Pared de Madera (Triángulo Regular)"
+msgstr "Pared de Madera (Triángular)"
 
 #. Key:	B50
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6514,7 +6514,7 @@ msgstr "Telar"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B56"
 msgid "制衣台"
-msgstr "Vestidor"
+msgstr "Mesa de Costura"
 
 #. Key:	B57
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6661,7 +6661,7 @@ msgstr "Farola"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B75"
 msgid "木制围墙"
-msgstr "Empalizada"
+msgstr "Vallado de Madera"
 
 #. Key:	B76
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6675,7 +6675,7 @@ msgstr "Portón de Madera"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B77"
 msgid "铁制围墙"
-msgstr "Verja de Hierro"
+msgstr "Vallado de Hierro"
 
 #. Key:	B78
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6689,7 +6689,7 @@ msgstr "Puerta de Hierro"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B79"
 msgid "拒马"
-msgstr "Barricada de Madera"
+msgstr "Barricada de Estacas de Madera"
 
 #. Key:	B8
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -8796,7 +8796,7 @@ msgstr "Piezas de Automóvil"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M98"
 msgid "汽车修理套件"
-msgstr "Kit de Reparación de Vehículos"
+msgstr "Kit de Rep. de Vehículos"
 
 #. Key:	Q01
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9762,7 +9762,7 @@ msgstr "Techos"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,BuildingStruct"
 msgid "结构"
-msgstr "Estructuras"
+msgstr "Estructura"
 
 #. Key:	BuildRoof20
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11330,7 +11330,7 @@ msgstr "Nuevo Juego"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,NewPack"
 msgid "新手礼包"
-msgstr "Paquete de regalo para novatos"
+msgstr "Kit de Novatos"
 
 #. Key:	NJ
 #. SourceLocation:	/Game/LocalizationText/UI.UI
