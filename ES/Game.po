@@ -1572,7 +1572,7 @@ msgstr "Accesorios de Armas de Fuego"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_81.In Text
 msgctxt ",46B50F714E10C8FD62349C9785EEC24C"
 msgid "弹壳"
-msgstr "Casquillo"
+msgstr "Vaina de Cartucho"
 
 #. Key:	47EBB11749CBF554F52B1DB52622AD20
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_CSZ.WBP_CSZ_C:WidgetTree.TextBlock_0.Text
@@ -7200,7 +7200,7 @@ msgstr "Cocina (Volumen 5) "
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F118"
 msgid "狗粮"
-msgstr "Comida de Perro"
+msgstr "Lata de comida para Perros"
 
 #. Key:	F119
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7312,28 +7312,28 @@ msgstr "Huevos Duros"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F132"
 msgid "菜药膳"
-msgstr "Verduras"
+msgstr "Filete a las Hierbas"
 
 #. Key:	F133
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F133"
 msgid "美味菜药膳"
-msgstr "Comida Deliciosa"
+msgstr "Receta: Filete a las Hierbas"
 
 #. Key:	F134
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F134"
 msgid "肉药膳"
-msgstr "Comida Vegetariana"
+msgstr "Filete a las Finas Hierbas"
 
 #. Key:	F135
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F135"
 msgid "美味肉药膳"
-msgstr "Comida Vegetariana Deliciosa"
+msgstr "Receta: Filete a las Finas Hierbas"
 
 #. Key:	F14
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7361,14 +7361,14 @@ msgstr "Cocina (Volumen 3)"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F16"
 msgid "猪肉"
-msgstr "Cerdo"
+msgstr "Carne de Cerdo"
 
 #. Key:	F17
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F17"
 msgid "鹿肉"
-msgstr "Venado"
+msgstr "Carne de Venado"
 
 #. Key:	F18
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7424,21 +7424,21 @@ msgstr "Verduras Deshidratadas"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F25"
 msgid "烤肉"
-msgstr "Parrillada de Carne"
+msgstr "Churrasco"
 
 #. Key:	F26
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F26"
 msgid "烤蔬菜"
-msgstr "Parrillada de Verduras"
+msgstr "Verduras Cocidas"
 
 #. Key:	F27
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F27"
 msgid "失败料理"
-msgstr "Comida Quemada"
+msgstr "Comida (Quemada)"
 
 #. Key:	F28
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7452,7 +7452,7 @@ msgstr "Pan"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F29"
 msgid "土豆配菜"
-msgstr "Guarnición de Patatas"
+msgstr "Patatas Cocidas"
 
 #. Key:	F3
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7466,14 +7466,14 @@ msgstr "Maíz"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F30"
 msgid "炖菜"
-msgstr "Estofado"
+msgstr "Estofado de Verduras"
 
 #. Key:	F31
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F31"
 msgid "蜜汁炖菜"
-msgstr "Estofado con Miel"
+msgstr "Ternera a la Mostaza y Miel"
 
 #. Key:	F32
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7494,42 +7494,42 @@ msgstr "Fruta Confitada"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F34"
 msgid "炖水果"
-msgstr "Macedonia"
+msgstr "Macedonia de Frutas"
 
 #. Key:	F35
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F35"
 msgid "水果汤"
-msgstr "Sopa de Frutas"
+msgstr "Ensalada de Frutas"
 
 #. Key:	F36
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F36"
 msgid "蔬菜炖肉"
-msgstr "Menestra de Verduras"
+msgstr "Sopa"
 
 #. Key:	F37
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F37"
 msgid "水果炖肉"
-msgstr "Revuelto de Frutas"
+msgstr "Chile Picante"
 
 #. Key:	F38
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F38"
 msgid "蜜汁炖肉"
-msgstr "Estofado con Miel"
+msgstr "Ternera en salsa de Mostaza y Miel"
 
 #. Key:	F39
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F39"
 msgid "浓郁炖肉"
-msgstr "Estofado Rico"
+msgstr "Frijoles"
 
 #. Key:	F4
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7543,7 +7543,7 @@ msgstr "Patata"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F40"
 msgid "肉汤"
-msgstr "Carne Cocida"
+msgstr "Caldo de Carne"
 
 #. Key:	F41
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7571,42 +7571,42 @@ msgstr "Bocadillo"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F44"
 msgid "美味蜜汁炖菜"
-msgstr "Guiso con Miel Delicioso"
+msgstr "Ternera Gourmet en Salsa de Mostaza y Miel"
 
 #. Key:	F45
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F45"
 msgid "美味炖菜"
-msgstr "Estofado Delicioso"
+msgstr "Sopa Gourmet"
 
 #. Key:	F46
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F46"
 msgid "美味蜜汁水果"
-msgstr "Frutas con Miel"
+msgstr "Zumo de Frutas Gourmet"
 
 #. Key:	F47
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F47"
 msgid "美味炖水果"
-msgstr "Revuelto de Frutas Delicioso"
+msgstr "Macedonia de Fruta Gourmet"
 
 #. Key:	F48
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F48"
 msgid "美味蔬菜炖肉"
-msgstr "Menestra de Verduras Delicioso"
+msgstr "Sopa Gourmet"
 
 #. Key:	F49
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F49"
 msgid "美味水果炖肉"
-msgstr "Revuelto con Frutos Secos"
+msgstr "Chile Picante Gourmet"
 
 #. Key:	F5
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7620,35 +7620,35 @@ msgstr "Tomate"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F50"
 msgid "美味蜜汁炖肉"
-msgstr "Estofado con Miel Delicioso"
+msgstr "Caldo de Miel Gourmet"
 
 #. Key:	F51
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F51"
 msgid "美味浓郁炖肉"
-msgstr "Guiso Delicioso"
+msgstr "Frijoles Gourmet"
 
 #. Key:	F52
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F52"
 msgid "美味派"
-msgstr "Tarta Deliciosa"
+msgstr "Tarta Gourmet"
 
 #. Key:	F53
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F53"
 msgid "美味全餐"
-msgstr "Plato Combinado Sabroso"
+msgstr "Plato Combinado Gourmet"
 
 #. Key:	F54
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F54"
 msgid "美味三明治"
-msgstr "Bocadillo Sabroso"
+msgstr "Bocadillo Gourmet"
 
 #. Key:	F55
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7676,7 +7676,7 @@ msgstr "Agua Contaminada"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F58"
 msgid "药草"
-msgstr "Hierbas"
+msgstr "Planta Medicinal"
 
 #. Key:	F59
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7739,28 +7739,28 @@ msgstr "Cantimplora"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F66"
 msgid "蔬菜肉罐头"
-msgstr "Conserva de Carne/Verduras"
+msgstr "Lata de Ternera con Chili"
 
 #. Key:	F67
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F67"
 msgid "水果肉罐头"
-msgstr "Conserva de Carne/Verduras"
+msgstr "Lata de Chili Picante"
 
 #. Key:	F68
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F68"
 msgid "蜜汁肉罐头"
-msgstr "Conserva de Carne/Miel"
+msgstr "Lata de Ternera con Mostaza y Miel"
 
 #. Key:	F69
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F69"
 msgid "浓郁肉罐头"
-msgstr "Conserva de Carne Rica"
+msgstr "Lata de Frijoles"
 
 #. Key:	F7
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7774,28 +7774,28 @@ msgstr "Fresa"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F70"
 msgid "美味蔬菜肉罐头"
-msgstr "Conserva Carne/Verduras Deliciosa"
+msgstr "Lata Gourmet de Ternera con Verduras"
 
 #. Key:	F71
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F71"
 msgid "美味水果肉罐头"
-msgstr "Conserva Carne/Frutas Deliciosa"
+msgstr "Lata Gourmet de Chili picante"
 
 #. Key:	F72
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F72"
 msgid "美味蜜汁肉罐头"
-msgstr "Conserva Carne/Miel Deliciosa"
+msgstr "Lata Gourmet de Ternera con Mostaza y Miel"
 
 #. Key:	F73
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F73"
 msgid "美味浓郁肉罐头"
-msgstr "Conserva de Carne Sabrosa"
+msgstr "Lata Gourmet de Carne"
 
 #. Key:	F74
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8292,7 +8292,7 @@ msgstr "Partes Avanzadas"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M32"
 msgid "弹壳"
-msgstr "Fabricar Munición"
+msgstr "Vaina de Cartucho"
 
 #. Key:	M33
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8446,7 +8446,7 @@ msgstr "Plano: Forja Eléctrica"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M52"
 msgid "温室种植与建造"
-msgstr "Plano: Invernadero."
+msgstr "Plano: Invernadero"
 
 #. Key:	M53
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8586,7 +8586,7 @@ msgstr "Combustible 3 L."
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M70"
 msgid "药草种子"
-msgstr "Semilla de Hierbas"
+msgstr "Semilla de Hierbas Medicinales"
 
 #. Key:	M71
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8803,7 +8803,7 @@ msgstr "Kit de Rep. de Vehículos"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Q01"
 msgid "18C"
-msgstr " Pistola 18C"
+msgstr "Pistola 18C"
 
 #. Key:	Q02
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8971,7 +8971,7 @@ msgstr "Ganzúa"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,T26"
 msgid "油井核心"
-msgstr "Núcleo de Pozo Petrolifero"
+msgstr "Núcleo de Pozo Petrolífero"
 
 #. Key:	T3
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9475,7 +9475,7 @@ msgstr "Puedes usar el menu radial para acostarte o sentarte para recuperar rapi
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,10"
 msgid "被攻击的话，会消耗当前穿戴物品的耐久。"
-msgstr "Si te atacan, se degradara el objeto que portas en la mano."
+msgstr "Al atacar se degradará el arma (Pérdida de Condición del arma/objeto)."
 
 #. Key:	11
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -9489,7 +9489,7 @@ msgstr "Usa la Pata de Cabra para abrir una puerta o un armario cerrado."
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,12"
 msgid "用小锤可以拆除某些物品获取材料。"
-msgstr "Algunos obejtos se pueden desmontar para obtener materiales usando un pequñeo martillo."
+msgstr "Algunos obejtos se pueden desmontar para obtener materiales usando un pequeño martillo."
 
 #. Key:	13
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -9510,7 +9510,7 @@ msgstr "Si tienes objetos delante del personaje puede ocasionar que no puedas ap
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,15"
 msgid "在工作台上等待物品制作完成，可以获得相关技能经验。"
-msgstr "Si esperas en el Banco de Trabajo a que finalicen las construcciones obtendras experiencia extra en la habilidad correspondiente."
+msgstr "Si esperas en el Banco de Trabajo a que finalicen las construcciones obtendras experiencia extra en la Habilidad correspondiente."
 
 #. Key:	16
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -9538,7 +9538,7 @@ msgstr "Los objetos tirados en el suelo desaparecerán si no se recogen durante 
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,AddBuff"
 msgid "提供一个美好食物Buff"
-msgstr "Cuando comes esto, consigues efectos beneficiosos"
+msgstr "Esta comida te proporciona efectos beneficiosos"
 
 #. Key:	AddMakeList
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -9629,21 +9629,21 @@ msgstr "Pliegue Naso-Labial"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,BJY"
 msgid "背景音"
-msgstr "Volumen de la Música"
+msgstr "Música del Juego"
 
 #. Key:	BL
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,BL"
 msgid "鼻梁"
-msgstr "Puente de la Nariz"
+msgstr "Puente Nasal"
 
 #. Key:	blood
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,blood"
 msgid "血腥断肢"
-msgstr "Gore"
+msgstr "Desmembramiento (Gore)"
 
 #. Key:	BP
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -9699,7 +9699,7 @@ msgstr "Suelo"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,BuildGuard"
 msgid "护栏"
-msgstr "Barandilla"
+msgstr "Vallas"
 
 #. Key:	Buildingadsorbent
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -9846,7 +9846,7 @@ msgstr "Capacidad: "
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,CAR"
 msgid "车辆控制"
-msgstr "Control de Vehículos"
+msgstr "Control del Vehículo"
 
 #. Key:	carbohydrate
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -10119,14 +10119,14 @@ msgstr "Muerto"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,decompose"
 msgid "拆解"
-msgstr "Desmantelar"
+msgstr "Desmontar"
 
 #. Key:	decomposeing
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,decomposeing"
 msgid "拆解中..."
-msgstr "Desmantelado en curso..."
+msgstr "Desmontado..."
 
 #. Key:	Depth
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10252,7 +10252,7 @@ msgstr "Beber Agua"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Drop"
 msgid "丢弃"
-msgstr "Desechar"
+msgstr "Desechar "
 
 #. Key:	DropItem
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10315,7 +10315,7 @@ msgstr "Menú de Acciones"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,DZL"
 msgid "断肢"
-msgstr "Mutilación"
+msgstr "Posibilidad de Mutilación"
 
 #. Key:	Eat
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10371,7 +10371,7 @@ msgstr "Soltar"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,fayue"
 msgid "发育"
-msgstr "Crecimiento"
+msgstr "Rendimiento de la Cosecha"
 
 #. Key:	FB
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10413,7 +10413,7 @@ msgstr "Femenino"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,FH"
 msgid "反颌"
-msgstr "Debajo de la mandíbula"
+msgstr "Debajo de la Mandíbula"
 
 #. Key:	Find
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10595,14 +10595,14 @@ msgstr "Atrás"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,HammerAltWheel"
 msgid "前后偏移"
-msgstr "Desplazamiento de delante hacia atrás"
+msgstr "Desplazamiento Adelante/Atras"
 
 #. Key:	HammerCtrlWheel
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,HammerCtrlWheel"
 msgid "左右偏移"
-msgstr "Desplazamiento izquierdo y derecho"
+msgstr "Desplazamiento Izquierda/Derecha"
 
 #. Key:	HammerG
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10616,42 +10616,42 @@ msgstr "Activar/Desactivar Ajuste"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,HammerLeft"
 msgid "建造/长按拆除"
-msgstr "Construir/Mantener pulsado para demoler"
+msgstr "Construir/Mantener pulsado para Demoler"
 
 #. Key:	HammerMiddle
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,HammerMiddle"
 msgid "打开/关闭建筑菜单"
-msgstr "Abrir/Cerrar el menú del edificio"
+msgstr "Abrir/Cerrar el Menu de Construcción"
 
 #. Key:	HammerRight
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,HammerRight"
 msgid "取消（重置偏移）"
-msgstr "Cancelar (Restablecer Compensación)"
+msgstr "Cancelar"
 
 #. Key:	HammerShift
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,HammerShift"
 msgid "上下偏移"
-msgstr "Desplazamiento hacia arriba y hacia abajo"
+msgstr "Desplazamiento Arriba/Abajo"
 
 #. Key:	HammerWheel
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,HammerWheel"
 msgid "切换捕捉位置"
-msgstr "Alternar posición de ajuste"
+msgstr "Posición de Ajuste"
 
 #. Key:	HammerZ
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,HammerZ"
 msgid "捕捉旋转"
-msgstr "Ajustar Rotación"
+msgstr "Modo Cámara"
 
 #. Key:	HCLTJ
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10756,7 +10756,7 @@ msgstr "Ángulo"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,JDL"
 msgid "击倒"
-msgstr "Derribo"
+msgstr "Posibilidad de Derribo"
 
 #. Key:	JH1
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10791,7 +10791,7 @@ msgstr "Habilidades"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,JNAdd"
 msgid "技能熟练度增加"
-msgstr "Habilidad Aumentada"
+msgstr " >> Habilidad Aumentada"
 
 #. Key:	JoinGame
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10840,7 +10840,7 @@ msgstr "Mantenimiento "
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,JZBZKG"
 msgid "建造捕捉开关"
-msgstr "Fabricar Interruptores Rápidos"
+msgstr "Fabricar Placas de Presión"
 
 #. Key:	JZCD
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10854,7 +10854,7 @@ msgstr "Menú de Construcción"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,JZKZ"
 msgid "建筑控制"
-msgstr "Edificaciones"
+msgstr "Control de Consutrucciones"
 
 #. Key:	KG
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10868,7 +10868,7 @@ msgstr "Interruptor: "
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,KGQ"
 msgid "开锁器："
-msgstr "Ganzúas: "
+msgstr "Ganzúa: "
 
 #. Key:	KH
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10910,7 +10910,7 @@ msgstr "Calidad de Antialiasing"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,KJCMS"
 msgid "抗锯齿模式"
-msgstr "Modo de Suavizado"
+msgstr "Modo de Antialiasing"
 
 #. Key:	KK
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -10945,7 +10945,7 @@ msgstr "Resistecia al Calor"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,KSJL"
 msgid "可视距离质量"
-msgstr "Calidad de la distancia visible"
+msgstr "Calidad de la Distancia Visible"
 
 #. Key:	KTDetail
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -11029,7 +11029,7 @@ msgstr "Bloqueado"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,LumenLight"
 msgid "Lumen全局光照"
-msgstr "Iluminación global del lumen"
+msgstr "Iluminación Global del Lumen"
 
 #. Key:	LumenQuial
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11141,7 +11141,7 @@ msgstr "Mira"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,MLZ"
 msgid "正在干其他事情，稍等！"
-msgstr "Haciendo otras cosas, ¡espera!"
+msgstr "Haciendo otras cosas, ¡Espera!"
 
 #. Key:	mm
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11183,14 +11183,14 @@ msgstr "Multijugador"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,MWSW"
 msgid "美味食物"
-msgstr "Comida Deliciosa"
+msgstr "Comida Completa"
 
 #. Key:	MX
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,MX"
 msgid "眉型"
-msgstr "Forma de Ceja"
+msgstr "Forma de la Ceja"
 
 #. Key:	MYDYWP
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11211,7 +11211,7 @@ msgstr "Nombre: "
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,MZDDX"
 msgid "未找到有用物品"
-msgstr "No se encontró nada útil"
+msgstr "Ningún Objeto Útil"
 
 #. Key:	nailihuifu
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11260,7 +11260,7 @@ msgstr "Sara"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,NAMES"
 msgid "已经有一个相同名字的角色或ID无效"
-msgstr "El rol o ID no válido ya existe con el mismo nombre"
+msgstr "Función o ID no válido. Ya existe con el mismo nombre"
 
 #. Key:	ND
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11302,21 +11302,21 @@ msgstr "Materiales: "
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,NeedItem"
 msgid "所需材料不足！"
-msgstr "¡Materiales insuficientes! "
+msgstr "¡Materiales Insuficientes! "
 
 #. Key:	NeedKnife
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,NeedKnife"
 msgid "需要使用匕首"
-msgstr "Se necesita un Cuchillo."
+msgstr "Se Necesita un Cuchillo."
 
 #. Key:	NeedLQ
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,NeedLQ"
 msgid "需装备锐器"
-msgstr "Se necesita un Objeto Punzante"
+msgstr "Se Necesita un Objeto Punzante"
 
 #. Key:	NewGame
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11386,21 +11386,21 @@ msgstr "Sin estructura que lo soporte"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,NotDL"
 msgid "没有电力连接"
-msgstr "Sin conexión eléctrica"
+msgstr "Sin Conexión Eléctrica"
 
 #. Key:	NotDLOrFood
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,NotDLOrFood"
 msgid "没有电或者任何食材"
-msgstr "Sin electricidad o ningún ingrediente."
+msgstr "Sin Electricidad o Ningún Ingrediente."
 
 #. Key:	NotFireOrFood
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,NotFireOrFood"
 msgid "没有火或者任何食材"
-msgstr "Sin fuego o ningún ingrediente."
+msgstr "Sin Fuego o Ningún Ingrediente."
 
 #. Key:	NotLink
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11414,7 +11414,7 @@ msgstr "No Conectado"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,NotLinkDCZ"
 msgid "没有连接电池组"
-msgstr "Falta una batería conectada"
+msgstr "Falta una Batería Conectada"
 
 #. Key:	NotMood
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11428,7 +11428,7 @@ msgstr "¡No estoy de humor, no me puedo concentrar para aprender esto!"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,NotNeedMaterial"
 msgid "没有所需材料"
-msgstr "Faltan los materiales requeridos"
+msgstr "Faltan los Materiales Requeridos"
 
 #. Key:	NotRead
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11526,7 +11526,7 @@ msgstr "Tiempo de Maduración"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Onhand"
 msgid "拿在手上"
-msgstr "Sostener en la mano"
+msgstr "Equipar en la Mano"
 
 #. Key:	Open
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11554,7 +11554,7 @@ msgstr "Fuerza Física"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Pot01"
 msgid "注意这个操作会删除锅内物品"
-msgstr "Ten en cuenta que esta acción eliminará el contenido de la Cacerola"
+msgstr "Ten en cuenta que esta acción eliminará el contenido del recipiente"
 
 #. Key:	PR
 #. SourceLocation:	/Game/LocalizationText/UIStudy.UIStudy
@@ -11575,7 +11575,7 @@ msgstr "Proteínas"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,PSSL"
 msgid "跑尸数量"
-msgstr "Multiplicador al Número de Zombies"
+msgstr "Zombies Corredores"
 
 #. Key:	Q
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11603,7 +11603,7 @@ msgstr "Pecas"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,QCCW01"
 msgid "没有了！"
-msgstr "¡No queda ninguno!"
+msgstr "!Lo Conseguiste!¡Horda Exterminada!"
 
 #. Key:	QCRL
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11680,7 +11680,7 @@ msgstr "Coger: "
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,Quit"
 msgid "退出"
-msgstr "Salir"
+msgstr "Menu Principal"
 
 #. Key:	QUITGAME
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11764,7 +11764,7 @@ msgstr "Tiempo de Fusión: "
 #: /Game/LocalizationText/UIStudy.UIStudy
 msgctxt "UI,RQ"
 msgid "锐器"
-msgstr "Armas Punzantes"
+msgstr "Armas Punzantes/Cortantes"
 
 #. Key:	RWKZ
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11785,7 +11785,7 @@ msgstr "Características del Personaje:"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,RYMessage"
 msgid "里面的燃油太少了"
-msgstr "Queda poco combustible"
+msgstr "Queda Poco Combustible"
 
 #. Key:	SAVE
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11841,7 +11841,7 @@ msgstr "Manual de Supervivencia"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,SCJG"
 msgid "尸潮进攻"
-msgstr "Ataque de Horda de Zombies"
+msgstr "Tamaño Horda de Zombies"
 
 #. Key:	SCJGR
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11855,7 +11855,7 @@ msgstr "¡El día del ataque de la oleada de Zombies, no puedo dormir!"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,scjgzq"
 msgid "尸潮进攻周期"
-msgstr "Ciclo de ataque de la Horda"
+msgstr "Ciclo de Ataque de la Horda"
 
 #. Key:	ScreenSet
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11876,14 +11876,14 @@ msgstr "Velocidad"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Search"
 msgid "搜索设置："
-msgstr "Configuración de Búsqueda:"
+msgstr "Configuración de Búsqueda: "
 
 #. Key:	SEDIAO
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,SEDIAO"
 msgid "色调"
-msgstr "Colores"
+msgstr "Matiz"
 
 #. Key:	server01
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11897,7 +11897,7 @@ msgstr "Servidor Privado"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,server02"
 msgid "监听服务器"
-msgstr "Servidor de Escucha"
+msgstr "Servidor de Huesped"
 
 #. Key:	ServerName
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11911,7 +11911,7 @@ msgstr "Nombre del Servidor: "
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,SetTipMessage"
 msgid "设置应用完成,某些选项可能需要在游戏重启后生效"
-msgstr "La aplicación de configuración está completa, es posible que algunas opciones deban tener efecto después de reiniciar el juego"
+msgstr "La aplicación de configuración está completa. Es posible que algunas opciones necesiten reiniciar el juego para que se activen"
 
 #. Key:	Settting
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11953,7 +11953,7 @@ msgstr "Tamaño"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SJ"
 msgid "采集"
-msgstr "Recopilación"
+msgstr "Recolectar"
 
 #. Key:	SkinColor
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11967,7 +11967,7 @@ msgstr "Color"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,SkinGZD"
 msgid "皮肤光泽度"
-msgstr "Brillo de la piel"
+msgstr "Brillo de la Piel"
 
 #. Key:	SoundSet
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -12009,14 +12009,14 @@ msgstr "Quiero que me enseñes "
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SS02"
 msgid "我不想学了"
-msgstr "No quiero aprender"
+msgstr "Salir"
 
 #. Key:	SS04
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SS04"
 msgid "级"
-msgstr " Clase "
+msgstr " Clase- "
 
 #. Key:	SS05
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12072,28 +12072,28 @@ msgstr "Adiós"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SS12"
 msgid "我想和你学习技能"
-msgstr "Quiero Aprender Habilidades"
+msgstr "¿Hay algo que me puedas enseñar?"
 
 #. Key:	SS13
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SS13"
 msgid "我这里有些好东西送给你"
-msgstr "Tengo cosas buenas para ti."
+msgstr "Me gustaria negociar contigo."
 
 #. Key:	SS14
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SS14"
 msgid "我想和你做笔交易"
-msgstr "Quiero negociar contigo"
+msgstr "Me gustaria intercambiar objetos contigo"
 
 #. Key:	SSJSSL01
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SSJSSL01"
 msgid "丧尸击杀数量："
-msgstr "Número de Zombies eliminados: "
+msgstr "Zombies Aniquilados: "
 
 #. Key:	SSND01
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -12107,7 +12107,7 @@ msgstr "Débiles"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,SSND02"
 msgid "一般"
-msgstr "Normal"
+msgstr "Normales"
 
 #. Key:	SSND03
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -12128,14 +12128,14 @@ msgstr "Fuerza Zombie"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SSS03"
 msgid "学习"
-msgstr "Estudiar "
+msgstr "Estudiar - "
 
 #. Key:	SSSL
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,SSSL"
 msgid "丧尸数量"
-msgstr "Número de Zombies"
+msgstr "Multiplicador de Zombies"
 
 #. Key:	ST
 #. SourceLocation:	/Game/LocalizationText/UIStudy.UIStudy
@@ -12163,28 +12163,28 @@ msgstr "        El virus zombie estalló, viviste en el refugio durante tres añ
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,StartDl"
 msgid "开始发电"
-msgstr "Empezar a generar electricidad"
+msgstr "Generar Electricidad"
 
 #. Key:	StartWater
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,StartWater"
 msgid "开始抽水"
-msgstr "Empezar a extraer"
+msgstr "Bombear Agua"
 
 #. Key:	StopDL
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,StopDL"
 msgid "停止发电"
-msgstr "Dejar de generar electricidad"
+msgstr "Parar"
 
 #. Key:	StopWater
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,StopWater"
 msgid "停止抽水"
-msgstr "Dejar de extraer"
+msgstr "Parar"
 
 #. Key:	StudyEnd
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12219,7 +12219,7 @@ msgstr "Haz clic con el botón izquierdo en un objeto mientras la caja está abi
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SwitchServerMode"
 msgid "需要切换游戏服务器模式，并重新启动游戏，确认切换吗？"
-msgstr "¿Necesitas cambiar el modo de servidor del juego y reiniciar el juego, confirmar el cambio?"
+msgstr "¿Necesitas cambiar el Modo del Servidor del juego y reiniciar, ¿Confirmar Cambios?"
 
 #. Key:	SY
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12247,7 +12247,7 @@ msgstr "Sacar "
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Talk"
 msgid "对话"
-msgstr "Diálogo"
+msgstr "Negociar"
 
 #. Key:	TBFY
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -12275,7 +12275,7 @@ msgstr "Características"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,TF"
 msgid "头发"
-msgstr "Cabello"
+msgstr "Pelo"
 
 #. Key:	thirsty
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -12289,14 +12289,14 @@ msgstr "Sed"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,TipFks"
 msgid "脱离卡死冷却中"
-msgstr "Personaje atascado. Tiempo de reutilización sin finalizar"
+msgstr "Personaje Atascado (Cooldown)"
 
 #. Key:	TipName
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,TipName"
 msgid "请输入一个名字！"
-msgstr "¡Por favor escribe un nombre!"
+msgstr "¡Por favor!, !Escribe un Nombre! "
 
 #. Key:	TLD
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12359,21 +12359,21 @@ msgstr "Categoría: "
 #: /Game/LocalizationText/UIStudy.UIStudy
 msgctxt "UI,TZ"
 msgid "体质"
-msgstr "Constitución"
+msgstr "Constitución Física"
 
 #. Key:	TZBDF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZBDF"
 msgid "易感病毒"
-msgstr "Eres muy susceptible a las infecciones víricas"
+msgstr "Baja Inmunidad"
 
 #. Key:	TZBDZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZBDZ"
 msgid "病毒杀手"
-msgstr "Eres resistente a los Virus"
+msgstr "Alta Inmunidad"
 
 #. Key:	TZdetail
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -12387,63 +12387,63 @@ msgstr "Afecta a la vida y al límite de resistencia."
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZFYF"
 msgid "细皮嫩肉"
-msgstr "Piel Fina"
+msgstr "Piel Frágil\r\nPropenso a las heridas."
 
 #. Key:	TZFYZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZFYZ"
 msgid "皮糙肉厚"
-msgstr "Piel Gruesa"
+msgstr "Piel Gruesa\r\nResistente a las heridas."
 
 #. Key:	TZFZF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZFZF"
 msgid "不堪重负"
-msgstr "Abrumado"
+msgstr "Abrumado\r\nCarga poco peso"
 
 #. Key:	TZFZZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZFZZ"
 msgid "负重前行"
-msgstr "Mula de Carga"
+msgstr "Mula de Carga\r\nCarga mucho peso"
 
 #. Key:	TZKCF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZKCF"
 msgid "不擅交易"
-msgstr "Mal comerciante"
+msgstr "Tímido\r\nNo sabe negociar"
 
 #. Key:	TZKCZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZKCZ"
 msgid "口才大师"
-msgstr "Maestro de la Elocuencia"
+msgstr "Elocuencia\r\nBuen negociante"
 
 #. Key:	TZKKF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZKKF"
 msgid "容易口渴"
-msgstr "Necesitas mucho líquido para sobrevivir"
+msgstr "Sediento\r\nNecesitas mucha hidratación"
 
 #. Key:	TZKKZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZKKZ"
 msgid "不易口渴"
-msgstr "No necesitas beber mucho"
+msgstr "Camello\r\nSobrevives casi sin agua"
 
 #. Key:	TZKSQ
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,TZKSQ"
 msgid "调整开锁器位置"
-msgstr "Ajuste la posición de apertura de la cerradura"
+msgstr "Ajusta la Ganzúa"
 
 #. Key:	TZLGF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -12478,91 +12478,91 @@ msgstr "Forzudo"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZNLF"
 msgid "耐力不好"
-msgstr "Poca Resistencia"
+msgstr "Sedentario"
 
 #. Key:	TZNLZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZNLZ"
 msgid "耐力极好"
-msgstr "Excelente Resistencia"
+msgstr "Resistente"
 
 #. Key:	TZQSF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZQSF"
 msgid "大胃王"
-msgstr "Tienes un gran apetito"
+msgstr "Gloton"
 
 #. Key:	TZQSZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZQSZ"
 msgid "轻食主义"
-msgstr "Necesitas poca comida"
+msgstr "Alimentacion Saludable"
 
 #. Key:	TZRAXXF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZRAXXF"
 msgid "学习困难症"
-msgstr "Te cuesta aprender"
+msgstr "Disléxico\r\nDificultades para aprender"
 
 #. Key:	TZRAXXZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZRAXXZ"
 msgid "热爱学习"
-msgstr "Aprendes rápido"
+msgstr "Estudioso"
 
 #. Key:	TZSDF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZSDF"
 msgid "不太灵活"
-msgstr "Poco flexible"
+msgstr "Torpe"
 
 #. Key:	TZSDZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZSDZ"
 msgid "敏捷如兔"
-msgstr "Ágil como un conejo"
+msgstr "Ágil"
 
 #. Key:	TZSMF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZSMF"
 msgid "生命脆弱"
-msgstr "Tienes poca vitalidad"
+msgstr "Frágil\r\nPoca Vitalidad"
 
 #. Key:	TZSMZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZSMZ"
 msgid "生命强悍"
-msgstr "Tienes mucha vitalidad"
+msgstr "Resiliente\r\nMucha Vitalidad"
 
 #. Key:	TZTJF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZTJF"
 msgid "不喜跑步"
-msgstr "No te gusta correr"
+msgstr "Lento\r\nNo te gusta correr"
 
 #. Key:	TZTJZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZTJZ"
 msgid "田径选手"
-msgstr "Atletico"
+msgstr "Atlético"
 
 #. Key:	TZWQF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZWQF"
 msgid "不擅战斗"
-msgstr "No eres bueno peleando"
+msgstr "Pusilánime\r\nNo eres bueno luchando"
 
 #. Key:	TZWQZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -12583,21 +12583,21 @@ msgstr "Descuidado"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZWSZ"
 msgid "注重卫生"
-msgstr "Prestas atención a la higiene"
+msgstr "!Mantente Límpio!\r\nLa Higiene influye en el Estado de Ánimo del personaje"
 
 #. Key:	TZXXF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZXXF"
 msgid "粗心"
-msgstr "Despistado"
+msgstr "Manos Ágiles\r\nTiempo de búsqueda reducido"
 
 #. Key:	TZXXZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZXXZ"
 msgid "细心"
-msgstr "Cuidadoso"
+msgstr "Cuidadoso\r\nTiempo de búsqueda aumentado"
 
 #. Key:	TZZLF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -12688,7 +12688,7 @@ msgstr "Fabricado en Forja Eléctrica."
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,useGJHXFYSB"
 msgid "在高级化学反应设备制作"
-msgstr "Fabricado en Equipo Avanzado de Reacción Química"
+msgstr "Fabricado en Laboratorio Químico Avanzado"
 
 #. Key:	useHammerBuild
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12702,7 +12702,7 @@ msgstr "Construir con un Martillo de Construcción"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,useHXFYT"
 msgid "在化学反应台制作"
-msgstr "Fabricado en una Mesa de Química."
+msgstr "Fabricado en Laboratorio Químico."
 
 #. Key:	useJGT
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12758,7 +12758,7 @@ msgstr "Fabricado en un Laboratorio Médico Avanzado."
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,viralinfection"
 msgid "病毒抗体"
-msgstr "Infeccion Virica"
+msgstr "Anticuerpos"
 
 #. Key:	WaterClear
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12842,7 +12842,7 @@ msgstr "Armas"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,WQDetail"
 msgid "影响对应武器伤害"
-msgstr "Afecta al daño del arma correspondiente"
+msgstr "Afecta al daño del Arma correspondiente"
 
 #. Key:	WQZJ
 #. SourceLocation:	/Game/LocalizationText/UIStudy.UIStudy
@@ -12877,7 +12877,7 @@ msgstr "No esta Reparado"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,WZSL"
 msgid "物资数量"
-msgstr "Cantidad de Material"
+msgstr "Cantidad de Loot"
 
 #. Key:	WZSL01
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -12898,7 +12898,7 @@ msgstr "Normal"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,WZSL03"
 msgid "多"
-msgstr "Mucho"
+msgstr "Abundante"
 
 #. Key:	WZSL04
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -12912,35 +12912,35 @@ msgstr "Muy Abundante"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,XBCD"
 msgid "下巴长度"
-msgstr "Longitud de la barbilla"
+msgstr "Longitud de la Barbilla"
 
 #. Key:	XBDX
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,XBDX"
 msgid "下巴大小"
-msgstr "Tamaño de la barbilla"
+msgstr "Tamaño de la Barbilla"
 
 #. Key:	XBGD
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,XBGD"
 msgid "下巴高度"
-msgstr "Altura de la barbilla"
+msgstr "Altura de la Barbilla"
 
 #. Key:	XBKD
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,XBKD"
 msgid "下巴宽度"
-msgstr "Ancho de la barbilla"
+msgstr "Ancho de la Barbilla"
 
 #. Key:	XHGD
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,XHGD"
 msgid "下颌高度"
-msgstr "Altura de la mandíbula"
+msgstr "Altura de la Mandíbula"
 
 #. Key:	XHGX
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12954,7 +12954,7 @@ msgstr "Relación Necesaria: "
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,XHKD"
 msgid "下颌宽度"
-msgstr "Ancho de la mandíbula"
+msgstr "Ancho de la Mandíbula"
 
 #. Key:	xiaB
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -12989,7 +12989,7 @@ msgstr "Reparación Correcta"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,XLSQTQQ"
 msgid "使用油井核心修理"
-msgstr "Usalo para reparar el Núcleo del pozo petrolifero"
+msgstr "Usalo para reparar el Núcleo del Pozo Petrolifero"
 
 #. Key:	XSTJ
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -13010,7 +13010,7 @@ msgstr "Requisitos de Aprendizaje: "
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,XZSJ"
 msgid "熏肉需要200秒"
-msgstr "La cecina tarda 200 segundos."
+msgstr "Tiempo de Cocción: 200 sg."
 
 #. Key:	Y
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -13031,7 +13031,7 @@ msgstr "Ojos"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,YANJU"
 msgid "眼距"
-msgstr "Distancia de los ojos"
+msgstr "Distancia de los Ojos"
 
 #. Key:	YINXIAO
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -13059,14 +13059,14 @@ msgstr "Muerte Permanente"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,YJSWTS"
 msgid "死亡以后重置所有技能"
-msgstr "Al morir se reinician todas las habilidades"
+msgstr "Al morir se reinician todas las Habilidades"
 
 #. Key:	YNDSJ
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,YNDSJ"
 msgid "一年的时间"
-msgstr "Duración de un año (Dias del juego)"
+msgstr "Duración de un año (Dias de Juego)"
 
 #. Key:	YX
 #. SourceLocation:	/Game/LocalizationText/UIStudy.UIStudy
@@ -13080,7 +13080,7 @@ msgstr "Medicina"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,YXND"
 msgid "游戏难度"
-msgstr "Dificultad del juego"
+msgstr "Dificultad del Juego"
 
 #. Key:	YXSZ
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -13192,14 +13192,14 @@ msgstr "Boca"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,ZW01"
 msgid "影响植物发育，没有水会死亡"
-msgstr "Afecta el desarrollo de la planta, morirá sin agua"
+msgstr "Afecta el desarrollo de la planta que morirá sin agua"
 
 #. Key:	ZW02
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,ZW02"
 msgid "影响植物发育，影响成熟时间"
-msgstr "Afecta el desarrollo de la planta, afecta el tiempo de madurez"
+msgstr "Afecta el desarrollo de la planta. Afecta el tiempo de madurez"
 
 #. Key:	ZWYSS
 #. SourceLocation:	/Game/LocalizationText/UI.UI
