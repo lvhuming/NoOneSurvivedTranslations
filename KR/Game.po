@@ -4,14 +4,21 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-02-24 03:07\n"
-"PO-Revision-Date: 2023-02-24 03:07\n"
+"POT-Creation-Date: 2023-03-11 03:41\n"
+"PO-Revision-Date: 2023-03-11 03:41\n"
 "Language-Team: \n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+
+#. Key:	000DC06C4161350ADE645894FED5BEE2
+#. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/OutStairs_Base_Wood.Default__OutStairs_Base_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
+#: /Game/HDCKBuildingSystem/MeshBP/OutStairs_Base_Wood.Default__OutStairs_Base_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
+msgctxt ",000DC06C4161350ADE645894FED5BEE2"
+msgid "建房必备"
+msgstr "집을 지을 때 필요한"
 
 #. Key:	005986EF48789316B83C53885CBD1FB8
 #. SourceLocation:	/Game/Blueprint/UMG/Inventory/WBP_UseMenu.WBP_UseMenu_C:WidgetTree.TextBlock_9.Text
@@ -138,6 +145,13 @@ msgstr "자신의 작업대를 만들고 작업대에서 판자를 생산하십�
 msgctxt ",054ACD344342564AB89C4D9E4057BE66"
 msgid "家具"
 msgstr "가구"
+
+#. Key:	05741E524C1BBA39C899EFACD5136E5E
+#. SourceLocation:	/Game/Blueprint/ACF/Item/Food/AutoCreate/BP_Food_GYC.Default__BP_Food_GYC_C.ItemInfo.Name
+#: /Game/Blueprint/ACF/Item/Food/AutoCreate/BP_Food_GYC.Default__BP_Food_GYC_C.ItemInfo.Name
+msgctxt ",05741E524C1BBA39C899EFACD5136E5E"
+msgid "香菇"
+msgstr "버섯"
 
 #. Key:	067D9CDB4FE9E1F850C2E69B23C0B4A7
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_JXJGT.WBP_JXJGT_C:WidgetTree.Num.Text
@@ -307,13 +321,6 @@ msgctxt ",0C5BBFF5443FDAB830CB348101393933"
 msgid "IA_FireMode"
 msgstr "IA_FireMode"
 
-#. Key:	0C5DDCCE4B03337D75AE7C9B45B53606
-#. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/OutStairs_Base_Wood.Default__OutStairs_Base_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-#: /Game/HDCKBuildingSystem/MeshBP/OutStairs_Base_Wood.Default__OutStairs_Base_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-msgctxt ",0C5DDCCE4B03337D75AE7C9B45B53606"
-msgid "建房必备"
-msgstr "집을 지을 때 필요한"
-
 #. Key:	0C797E8E40ACBD720B57B4B33B461ADD
 #. SourceLocation:	/Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_7.TipMessage_41_0D1B7B6342180F0BD1D386A6C8ADE0B3
 #: /Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_7.TipMessage_41_0D1B7B6342180F0BD1D386A6C8ADE0B3
@@ -348,13 +355,6 @@ msgstr "팀 1"
 msgctxt ",0F76833445170B88C4F8CD8F4B1A28D2"
 msgid "870AC霰弹枪"
 msgstr "870AC 산탄총"
-
-#. Key:	0F8EDF1845BBFFE99A2946AC9CF0E2B3
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Spear/BP_SpearShoot_G.Default__BP_SpearShoot_G_C.ItemInfo.Name
-#: /Game/Blueprint/ACF/Item/Weapon/Spear/BP_SpearShoot_G.Default__BP_SpearShoot_G_C.ItemInfo.Name
-msgctxt ",0F8EDF1845BBFFE99A2946AC9CF0E2B3"
-msgid "木矛"
-msgstr "나무 창"
 
 #. Key:	0FC7B32D443EA06EF7F13BB5DC4C9447
 #. SourceLocation:	/Game/Blueprint/ACF/Tutorial/WBP_TutorialTip5.WBP_TutorialTip5_C:WidgetTree.TextBlock_2.Text
@@ -474,6 +474,13 @@ msgstr "제약 기계"
 msgctxt ",147BD87446DA956F29E07B807DB1FEF0"
 msgid "INVENTORY"
 msgstr "목록"
+
+#. Key:	14F06F9A4AAA6F09FF2463AF9111B8F5
+#. SourceLocation:	/Game/Blueprint/UMG/God/WBP_ItemList.WBP_ItemList_C:WidgetTree.TextBlock_3.Text
+#: /Game/Blueprint/UMG/God/WBP_ItemList.WBP_ItemList_C:WidgetTree.TextBlock_3.Text
+msgctxt ",14F06F9A4AAA6F09FF2463AF9111B8F5"
+msgid "道具"
+msgstr "도구"
 
 #. Key:	154ED8D64C85BD6A6CC743B96F98EB2D
 #. SourceLocation:	/Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_0.TipMessage_41_0D1B7B6342180F0BD1D386A6C8ADE0B3
@@ -783,6 +790,13 @@ msgctxt ",224244E146D5DA4CDA33559117B53DEF"
 msgid "Tab"
 msgstr "탭"
 
+#. Key:	2255CAED4589F1456518B8BE7B3A195D
+#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Spear/BP_SpearShoot_Wood.Default__BP_SpearShoot_Wood_C.ItemInfo.Name
+#: /Game/Blueprint/ACF/Item/Weapon/Spear/BP_SpearShoot_Wood.Default__BP_SpearShoot_Wood_C.ItemInfo.Name
+msgctxt ",2255CAED4589F1456518B8BE7B3A195D"
+msgid "木矛"
+msgstr "나무 창"
+
 #. Key:	22C074F44EED2C76F551E9A06B6F8261
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(1 - Value).DisplayNameMap
 #: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(1 - Value).DisplayNameMap
@@ -873,13 +887,6 @@ msgstr "프롬프트 정보"
 msgctxt ",264F21F94A312BE3982CE79C37D102D3"
 msgid "恢复存档"
 msgstr "파일 복원"
-
-#. Key:	269414374E25DEE9F41B6690D951DF3A
-#. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Foundation_SN.Default__Foundation_SN_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-#: /Game/HDCKBuildingSystem/MeshBP/Foundation_SN.Default__Foundation_SN_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-msgctxt ",269414374E25DEE9F41B6690D951DF3A"
-msgid "水泥制作的地基，看起来很结实，可以承受相当多的重量。"
-msgstr "기초는 시멘트로 만들어져 튼튼해 보이고 상당한 무게를 견딜 수 있습니다."
 
 #. Key:	269B80324FC87D5B8DEDDDB22B6B7A09
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_42.In Text
@@ -1567,6 +1574,13 @@ msgctxt ",46159C994865A551AA6AD5A39D194A56"
 msgid "枪械配件"
 msgstr "총기 액세서리"
 
+#. Key:	46B0D34147DEAC69BF591EA4B9757919
+#. SourceLocation:	/Game/Blueprint/UMG/God/WBP_ItemList.WBP_ItemList_C:WidgetTree.TextBlock_2.Text
+#: /Game/Blueprint/UMG/God/WBP_ItemList.WBP_ItemList_C:WidgetTree.TextBlock_2.Text
+msgctxt ",46B0D34147DEAC69BF591EA4B9757919"
+msgid "材料"
+msgstr "재료"
+
 #. Key:	46B50F714E10C8FD62349C9785EEC24C
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_81.In Text
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_81.In Text
@@ -1734,6 +1748,13 @@ msgstr "머리 방어"
 msgctxt ",4FB41E114459F569BCE7BC99E7DB61C6"
 msgid "Auto"
 msgstr "자동"
+
+#. Key:	507C12F4468CF7BE8239FD8F7DA1961D
+#. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_Wood.Default__Roof_20_intersection_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
+#: /Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_Wood.Default__Roof_20_intersection_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
+msgctxt ",507C12F4468CF7BE8239FD8F7DA1961D"
+msgid "用于连接外转角屋顶。"
+msgstr "외부 모서리 지붕 결합용."
 
 #. Key:	508A302D479171AD2AFCB5BDF7BF0BD4
 #. SourceLocation:	/Game/Blueprint/ACF/Player/HDCK_CharacterBP.Default__HDCK_CharacterBP_C.TimeBuffDetail(1).TimeBuffDetail.TipMessage_56_5402F47A4785659B27440099C7CA676D
@@ -2014,6 +2035,13 @@ msgstr "정수기"
 msgctxt ",5BDB3D7B4715648822965D82AEFBC6CD"
 msgid "取出"
 msgstr "꺼내기"
+
+#. Key:	5C68D8DB47AF3ACF79A32AB68370AD7A
+#. SourceLocation:	/Game/Blueprint/UMG/God/WBP_ItemList.WBP_ItemList_C:WidgetTree.TextBlock_4.Text
+#: /Game/Blueprint/UMG/God/WBP_ItemList.WBP_ItemList_C:WidgetTree.TextBlock_4.Text
+msgctxt ",5C68D8DB47AF3ACF79A32AB68370AD7A"
+msgid "武器"
+msgstr "무기"
 
 #. Key:	5C90679C41738D02720A629F7544A608
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/ACFGunBase_sniper.Default__ACFGunBase_sniper_C.ItemInfo.Name
@@ -2358,13 +2386,6 @@ msgctxt ",6C007083466970C3B2190CAC9FC2112C"
 msgid "Team 3"
 msgstr "3팀"
 
-#. Key:	6C4A6F3E48CFF31B3447A9A951D42A5F
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Spear/BP_SpearShoot_Iron.Default__BP_SpearShoot_Iron_C.ItemInfo.Name
-#: /Game/Blueprint/ACF/Item/Weapon/Spear/BP_SpearShoot_Iron.Default__BP_SpearShoot_Iron_C.ItemInfo.Name
-msgctxt ",6C4A6F3E48CFF31B3447A9A951D42A5F"
-msgid "木矛"
-msgstr "나무 창"
-
 #. Key:	6CA11261447D0192D8528A82365941F5
 #. SourceLocation:	/Game/Blueprint/UMG/EscMenu/WBP_ControlSetting.WBP_ControlSetting_C:WidgetTree.WBP_KeyInputAction_10.Show In Text
 #: /Game/Blueprint/UMG/EscMenu/WBP_ControlSetting.WBP_ControlSetting_C:WidgetTree.WBP_KeyInputAction_10.Show In Text
@@ -2434,6 +2455,13 @@ msgstr "가입하다"
 msgctxt ",6F0E9F7E437D2F62860D7DBCB2CCA2B1"
 msgid "尝试在科技树中解锁工作台，并解锁木板建造"
 msgstr "기술 트리에서 작업대의 잠금을 해제하고 판자 건물의 잠금을 해제해 보세요."
+
+#. Key:	6F5F51994CAB7AD0679A3CBCF6E70E65
+#. SourceLocation:	/Game/Blueprint/UMG/God/WBP_ItemList.WBP_ItemList_C:WidgetTree.TextBlock.Text
+#: /Game/Blueprint/UMG/God/WBP_ItemList.WBP_ItemList_C:WidgetTree.TextBlock.Text
+msgctxt ",6F5F51994CAB7AD0679A3CBCF6E70E65"
+msgid "食物"
+msgstr "음식"
 
 #. Key:	700402F4456BC61A64D4C8B0B01C8B25
 #. SourceLocation:	/Game/Blueprint/Car/InCarMode.InCarMode.DisplayNameMap(2 - Value).DisplayNameMap
@@ -2526,13 +2554,6 @@ msgctxt ",732429F04FE9EF56DB7BB3965B5D3B4A"
 msgid "提示信息"
 msgstr "프롬프트 정보"
 
-#. Key:	73266CA143A96FCD65874D9981CE1537
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/ShortSharp/BP_Knife01.Default__BP_Knife01_C.ItemInfo.Name
-#: /Game/Blueprint/ACF/Item/Weapon/ShortSharp/BP_Knife01.Default__BP_Knife01_C.ItemInfo.Name
-msgctxt ",73266CA143A96FCD65874D9981CE1537"
-msgid "短的单手刀"
-msgstr "짧은 한손칼"
-
 #. Key:	735E15A146BDA95257D282903C633040
 #. SourceLocation:	/Game/Blueprint/UMG/ScreenMessage/WBP_CarMessage.WBP_CarMessage_C:UpdateShow [Script Bytecode]
 #: /Game/Blueprint/UMG/ScreenMessage/WBP_CarMessage.WBP_CarMessage_C:UpdateShow [Script Bytecode]
@@ -2546,6 +2567,13 @@ msgstr "아르 자형"
 msgctxt ",746C15D045E29D89B01FB4B3C07BEA54"
 msgid "制药桌"
 msgstr "약품 제조대"
+
+#. Key:	750F8A8B49580EB2DBA6DFA86324F73F
+#. SourceLocation:	/Game/Blueprint/UMG/God/WBP_ItemList.WBP_ItemList_C:WidgetTree.TextBlock_1.Text
+#: /Game/Blueprint/UMG/God/WBP_ItemList.WBP_ItemList_C:WidgetTree.TextBlock_1.Text
+msgctxt ",750F8A8B49580EB2DBA6DFA86324F73F"
+msgid "枪械配件"
+msgstr "총기 액세서리"
 
 #. Key:	7547155D4FB7AE0D0F8FAA876F856384
 #. SourceLocation:	/Game/HDCKBuildingSystem/Table/E_SelectTypeChild.E_SelectTypeChild.DisplayNameMap(2 - Value).DisplayNameMap
@@ -2666,6 +2694,13 @@ msgctxt ",798DAD7A4D66BDA2695E86B48A98DB57"
 msgid "Medium"
 msgstr "중간"
 
+#. Key:	79B0F10B46AA0CD33822A08E1CD670B3
+#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/ACFGunBase_Rifle.Default__ACFGunBase_Rifle_C.ItemInfo.Name
+#: /Game/Blueprint/ACF/Item/Weapon/ACFGunBase_Rifle.Default__ACFGunBase_Rifle_C.ItemInfo.Name
+msgctxt ",79B0F10B46AA0CD33822A08E1CD670B3"
+msgid "M4步枪"
+msgstr "M4 라이플"
+
 #. Key:	7A117314455AB9B7DAE9E8A5F1544780
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_34.Text
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_34.Text
@@ -2714,13 +2749,6 @@ msgstr "모델 02"
 msgctxt ",7ACA71DE4E2663D5BD36D2A58B8E9363"
 msgid "用于保管物品的箱子，不会丢失物品。"
 msgstr "아이템을 분실하지 않도록 보관하는 상자."
-
-#. Key:	7B453C894EBF823C79C81DA7C7D0ED34
-#. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_DP_XDD.Default__Furniture_DP_XDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
-#: /Game/HDCKBuildingSystem/MeshBP/Furniture_DP_XDD.Default__Furniture_DP_XDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
-msgctxt ",7B453C894EBF823C79C81DA7C7D0ED34"
-msgid "地板"
-msgstr "바닥"
 
 #. Key:	7C0FCE4E48A440A1B873C4ABF1E1E7F3
 #. SourceLocation:	/Game/Blueprint/ACF/Player/HDCK_CharacterBP.Default__HDCK_CharacterBP_C.TimeBuffDetail(3).TimeBuffDetail.TipMessage_56_5402F47A4785659B27440099C7CA676D
@@ -2881,7 +2909,7 @@ msgstr "무기"
 #: /Game/Blueprint/UMG/MainUI/WBP_Main.WBP_Main_C:WidgetTree.TextBlock_0.Text
 msgctxt ",836EB7AB40D4C893FD6B23A855BE4F36"
 msgid "公告：\r\n\r\n因为游戏采用了最新的UnrealEngine5引擎，为了获得最好的游戏体验，请将显卡驱动升级到最新版本。\r\n\r\n否则你可能会看到模型显示不完整等情况。\r\n\r\n感谢！"
-msgstr "공지:\r\n\r\n이게임은 최신 UnrealEngine5 엔진을 사용하므로 최상의 게임플레이를 만끽하려면 그래픽 카드 드라이버를 최신 버전으로 업그레이드하세요.\r\n\r\n그렇지 않으면 일부 그래픽성능에 영향을 끼칠수있습니다 .\r\n\r\n감사합니다!"
+msgstr "공지:\r\n\r\n이게임은 최신 UnrealEngine5 엔진을 사용하므로 최상의 게임플레이를 만끽하려면 그래픽 카드 드라이버를 최신 버전으로 유지하세요.\r\n\r\n그렇지 않으면 일부 그래픽성능에 영향을 끼칠수있습니다 .\r\n\r\n감사합니다!"
 
 #. Key:	83F46BF04B9C9DD831186F9C5C08D9AA
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(6 - Value).DisplayNameMap
@@ -2910,6 +2938,13 @@ msgstr "연료 발전기"
 msgctxt ",85149FD54B55F3B6218485B6BA8F72FD"
 msgid "精细零件"
 msgstr "정밀 부품"
+
+#. Key:	85CF296B4D233E7440EFA8AE591A2FFC
+#. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_LDQ.Default__Furniture_LDQ_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+#: /Game/HDCKBuildingSystem/MeshBP/Furniture_LDQ.Default__Furniture_LDQ_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+msgctxt ",85CF296B4D233E7440EFA8AE591A2FFC"
+msgid "提示信息"
+msgstr "프롬프트 정보"
 
 #. Key:	85DE22324C7068D83740A99089B247E1
 #. SourceLocation:	/Game/Blueprint/UMG/EscMenu/WBP_Setting.Default__WBP_Setting_C.Setting(0).Setting
@@ -2945,6 +2980,13 @@ msgstr "힘:"
 msgctxt ",8710C0014D4869B4CBF99993FFD25E15"
 msgid "肾上腺素"
 msgstr "아드레날린"
+
+#. Key:	888378F14746FF86779276B265E2FC14
+#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Spear/BP_SpearShoot_G.Default__BP_SpearShoot_G_C.ItemInfo.Name
+#: /Game/Blueprint/ACF/Item/Weapon/Spear/BP_SpearShoot_G.Default__BP_SpearShoot_G_C.ItemInfo.Name
+msgctxt ",888378F14746FF86779276B265E2FC14"
+msgid "木矛"
+msgstr "나무 창"
 
 #. Key:	89132394498B7996A54198A9006A847B
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_39.In Text
@@ -3070,7 +3112,7 @@ msgstr "다시태어나기"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_90.In Text
 msgctxt ",90D7107E43831E7B09B97ABCB3F4AD74"
 msgid "钢大锤"
-msgstr "강철 망치"
+msgstr "슬레지 해머"
 
 #. Key:	9100D96D4063969FA14D27937E72AC6D
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_18.In Text
@@ -3226,13 +3268,6 @@ msgctxt ",990659C84BB9A39ED0C5DA92F26B3EF6"
 msgid "尸潮规模"
 msgstr "좀비웨이브"
 
-#. Key:	996187084970D67D25BA43A06B549F7D
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Food/AutoCreate/BP_Food_GYC.Default__BP_Food_GYC_C.ItemInfo.Name
-#: /Game/Blueprint/ACF/Item/Food/AutoCreate/BP_Food_GYC.Default__BP_Food_GYC_C.ItemInfo.Name
-msgctxt ",996187084970D67D25BA43A06B549F7D"
-msgid "香菇"
-msgstr "버섯"
-
 #. Key:	997299584F3A56724AEEECA4B30B17F9
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_CarInventory01.WBP_CarInventory01_C:ExecuteUbergraph_WBP_CarInventory01 [Script Bytecode]
 #: /Game/Blueprint/UMG/Furniture/WBP_CarInventory01.WBP_CarInventory01_C:ExecuteUbergraph_WBP_CarInventory01 [Script Bytecode]
@@ -3267,13 +3302,6 @@ msgstr "{0}일"
 msgctxt ",9ADCC17141C6AAA9B282CBA73B8AF4CC"
 msgid "提高病毒感染性，你需要更多抗体"
 msgstr "바이러스 면역력을 높이려면 더 많은 항체가 필요합니다"
-
-#. Key:	9C4E28BA461507488F0F4FBA5F1F6082
-#. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_Wood.Default__Roof_20_intersection_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-#: /Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_Wood.Default__Roof_20_intersection_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-msgctxt ",9C4E28BA461507488F0F4FBA5F1F6082"
-msgid "用于连接外转角屋顶。"
-msgstr "외부 모서리 지붕 결합용."
 
 #. Key:	9C8DC67F48B1B4F6E7242FB302464676
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_29.In Text
@@ -3365,6 +3393,13 @@ msgstr "긁힘 저항"
 msgctxt ",9FB9053B45B10609D8C03B8B8A0645ED"
 msgid "铝锭"
 msgstr "알루미늄 주괴"
+
+#. Key:	A0907D4C42A41128EA9834806133644B
+#. SourceLocation:	/Game/Blueprint/UMG/God/WBP_BlackList.WBP_BlackList_C:WidgetTree.ID.HintText
+#: /Game/Blueprint/UMG/God/WBP_BlackList.WBP_BlackList_C:WidgetTree.ID.HintText
+msgctxt ",A0907D4C42A41128EA9834806133644B"
+msgid "请输入玩家ID"
+msgstr "플레이어 ID를 입력하세요."
 
 #. Key:	A09133804895936585956A9E0D67CDD5
 #. SourceLocation:	/Game/Blueprint/ACF/Data/TableAsset/GunPJTable.GunPJTable.冲锋其补偿器02.ItemInfo_66_F92A1A3B448C3413FD56918B4BFB9241.Description
@@ -3463,13 +3498,6 @@ msgstr "의료 키트"
 msgctxt ",A531484A4D7334448A41DF8CA71C2B71"
 msgid "试着将三种不同的食材放入锅中烹饪"
 msgstr "냄비에 세 가지 다른 재료를 사용하여 요리해 보세요."
-
-#. Key:	A620DFB146D8A5575FB14BB9A29297F6
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/ACFGunBase_Rifle.Default__ACFGunBase_Rifle_C.ItemInfo.Name
-#: /Game/Blueprint/ACF/Item/Weapon/ACFGunBase_Rifle.Default__ACFGunBase_Rifle_C.ItemInfo.Name
-msgctxt ",A620DFB146D8A5575FB14BB9A29297F6"
-msgid "M4步枪"
-msgstr "M4 라이플"
 
 #. Key:	A62AEC1B44C9FEE0F527279A6A1B7EFD
 #. SourceLocation:	/Game/HDCKBuildingSystem/Table/E_SelectTypeChild.E_SelectTypeChild.DisplayNameMap(3 - Value).DisplayNameMap
@@ -3687,6 +3715,13 @@ msgstr "QX"
 msgctxt ",B09AB7414F2903DE09B2F8A4CE4DF3C4"
 msgid "spring"
 msgstr "봄"
+
+#. Key:	B0F66DE24336FD2805B83196209F06EE
+#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/ShortSharp/BP_Knife02.Default__BP_Knife02_C.ItemInfo.Name
+#: /Game/Blueprint/ACF/Item/Weapon/ShortSharp/BP_Knife02.Default__BP_Knife02_C.ItemInfo.Name
+msgctxt ",B0F66DE24336FD2805B83196209F06EE"
+msgid "短的单手刀"
+msgstr "짧은 한손칼"
 
 #. Key:	B152AA774A142C9661298C9C8168B441
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_75.In Text
@@ -3919,6 +3954,13 @@ msgctxt ",B9D7AFBD4A45230EE8CB6D8FB180E276"
 msgid "HorizontalBeam"
 msgstr "수평빔"
 
+#. Key:	B9FE0355458C39DEC828A5A96ADA0E75
+#. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Foundation_SN.Default__Foundation_SN_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
+#: /Game/HDCKBuildingSystem/MeshBP/Foundation_SN.Default__Foundation_SN_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
+msgctxt ",B9FE0355458C39DEC828A5A96ADA0E75"
+msgid "水泥制作的地基，看起来很结实，可以承受相当多的重量。"
+msgstr "기초는 시멘트로 만들어져 튼튼해 보이고 상당한 무게를 견딜 수 있습니다."
+
 #. Key:	BA61CA90482606E8AE102EAA35CFD199
 #. SourceLocation:	/Game/Blueprint/UMG/NPCUMG/WBP_JYDetail.WBP_JYDetail_C:WidgetTree.MyT.Text
 #: /Game/Blueprint/UMG/NPCUMG/WBP_JYDetail.WBP_JYDetail_C:WidgetTree.MyT.Text
@@ -3967,13 +4009,6 @@ msgstr "프롬프트 정보"
 msgctxt ",BC879B3F4ECE110B894771976EFF65F1"
 msgid "家具"
 msgstr "가구"
-
-#. Key:	BC956EAB471564821E8497B11AE4B39E
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Spear/BP_SpearShoot_Wood.Default__BP_SpearShoot_Wood_C.ItemInfo.Name
-#: /Game/Blueprint/ACF/Item/Weapon/Spear/BP_SpearShoot_Wood.Default__BP_SpearShoot_Wood_C.ItemInfo.Name
-msgctxt ",BC956EAB471564821E8497B11AE4B39E"
-msgid "木矛"
-msgstr "나무 창"
 
 #. Key:	BCA687A44E2FB4C50699789B690F454E
 #. SourceLocation:	/Game/Blueprint/UMG/State/WBP_Status.WBP_Status_C:WidgetTree.Season.Text
@@ -4045,6 +4080,13 @@ msgctxt ",C12D28E24DF61E9D26F30EA94EA043FF"
 msgid "简单物品制作"
 msgstr "간단한 아이템 제작"
 
+#. Key:	C17671324BC8BA302087829DB92119B9
+#. SourceLocation:	/Game/Blueprint/ACF/Item/Food/AutoCreate/BP_Food_GYC.Default__BP_Food_GYC_C.ItemInfo.Description
+#: /Game/Blueprint/ACF/Item/Food/AutoCreate/BP_Food_GYC.Default__BP_Food_GYC_C.ItemInfo.Description
+msgctxt ",C17671324BC8BA302087829DB92119B9"
+msgid "食物"
+msgstr "음식"
+
 #. Key:	C1CF8D7D4567787F135DFC9C77F6EEB0
 #. SourceLocation:	/Game/Blueprint/ACF/Data/TableAsset/FoodAssetTable.FoodAssetTable.机修（三卷）.Name_33_B65BC8D64E83EF46F5F21FA5566C3997
 #: /Game/Blueprint/ACF/Data/TableAsset/FoodAssetTable.FoodAssetTable.机修（三卷）.Name_33_B65BC8D64E83EF46F5F21FA5566C3997
@@ -4086,6 +4128,13 @@ msgstr "초본 차"
 msgctxt ",C47AD06443F4C03CEC10A19A775EBCBF"
 msgid "1"
 msgstr "1"
+
+#. Key:	C4985CB641B43583FECE139E9CCF2C5E
+#. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_TYNFD.Default__Furniture_TYNFD_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
+#: /Game/HDCKBuildingSystem/MeshBP/Furniture_TYNFD.Default__Furniture_TYNFD_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
+msgctxt ",C4985CB641B43583FECE139E9CCF2C5E"
+msgid "受遮挡或在没有太阳的天气无法发电"
+msgstr "그늘이 있거나 태양이 없으면 전기를 생산할 수 없습니다."
 
 #. Key:	C4C9089841ED96447C2336ADFE055AE0
 #. SourceLocation:	/Game/Blueprint/ACF/Player/HDCK_GameMode.HDCK_GameMode_C:ExecuteUbergraph_HDCK_GameMode [Script Bytecode]
@@ -4156,6 +4205,13 @@ msgstr "IA_OpenBuildingMenu"
 msgctxt ",C95B9D5D497F1BBE79830CA3E08DA455"
 msgid "饲养圈"
 msgstr "사육장"
+
+#. Key:	C96A306343EBD3D9EDF684B2E32E8B05
+#. SourceLocation:	/Game/Blueprint/UMG/MainUI/StartUIEnum.StartUIEnum.DisplayNameMap(6 - Value).DisplayNameMap
+#: /Game/Blueprint/UMG/MainUI/StartUIEnum.StartUIEnum.DisplayNameMap(6 - Value).DisplayNameMap
+msgctxt ",C96A306343EBD3D9EDF684B2E32E8B05"
+msgid "ThankList"
+msgstr "ThankList"
 
 #. Key:	C99F683B4CADB5E20B857EAF962FD2C7
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_16.Text
@@ -4289,6 +4345,13 @@ msgstr "모델 01"
 msgctxt ",CF9CE28D415251343B2738AAC697FAF5"
 msgid "负重"
 msgstr "무게"
+
+#. Key:	CF9E26254729030F3C3125A3AC7D6A8E
+#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Spear/BP_SpearShoot_Iron.Default__BP_SpearShoot_Iron_C.ItemInfo.Name
+#: /Game/Blueprint/ACF/Item/Weapon/Spear/BP_SpearShoot_Iron.Default__BP_SpearShoot_Iron_C.ItemInfo.Name
+msgctxt ",CF9E26254729030F3C3125A3AC7D6A8E"
+msgid "木矛"
+msgstr "나무 창"
 
 #. Key:	checknuild
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -4486,6 +4549,13 @@ msgctxt ",DA76A68842D939CD40D943A24231BEB6"
 msgid "提示信息"
 msgstr "팁"
 
+#. Key:	DAA65D3D4FBE879E081A5AA9A8CA9F3B
+#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/ShortSharp/BP_Knife01.Default__BP_Knife01_C.ItemInfo.Name
+#: /Game/Blueprint/ACF/Item/Weapon/ShortSharp/BP_Knife01.Default__BP_Knife01_C.ItemInfo.Name
+msgctxt ",DAA65D3D4FBE879E081A5AA9A8CA9F3B"
+msgid "短的单手刀"
+msgstr "짧은 한손칼"
+
 #. Key:	DAB471E84209B1F415E38190944B2064
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_MakeBase.Default__Furniture_MakeBase_C.BuildInfo.Name_38_B9A5B2DC4FBEF03FBCA85592B802C50C
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_MakeBase.Default__Furniture_MakeBase_C.BuildInfo.Name_38_B9A5B2DC4FBEF03FBCA85592B802C50C
@@ -4617,7 +4687,7 @@ msgstr "기본"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",DLCW"
 msgid "电力刺网"
-msgstr "전기 자망"
+msgstr "전기 트랩"
 
 #. Key:	door1
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -4633,12 +4703,12 @@ msgctxt ",DoorHole"
 msgid "门洞"
 msgstr "출입구"
 
-#. Key:	E02B2F63421E26E37FFA6AB4057D1767
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/ShortSharp/BP_Knife02.Default__BP_Knife02_C.ItemInfo.Name
-#: /Game/Blueprint/ACF/Item/Weapon/ShortSharp/BP_Knife02.Default__BP_Knife02_C.ItemInfo.Name
-msgctxt ",E02B2F63421E26E37FFA6AB4057D1767"
-msgid "短的单手刀"
-msgstr "짧은 한손칼"
+#. Key:	E0702F6D4EA670E0060E949442FE6526
+#. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_DP_XDD.Default__Furniture_DP_XDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+#: /Game/HDCKBuildingSystem/MeshBP/Furniture_DP_XDD.Default__Furniture_DP_XDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+msgctxt ",E0702F6D4EA670E0060E949442FE6526"
+msgid "地板"
+msgstr "바닥"
 
 #. Key:	E0A8C10C4D611602E0E001BFDC5EA4DD
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_GameSetting.WBP_GameSetting_C:WidgetTree.TextBlock_140.Text
@@ -4927,13 +4997,6 @@ msgctxt ",EC749212496CEF6AB320469F8E66F8A3"
 msgid "材料"
 msgstr "재료"
 
-#. Key:	EC85007941E47DBBADDC0EABF0CF607E
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Food/AutoCreate/BP_Food_GYC.Default__BP_Food_GYC_C.ItemInfo.Description
-#: /Game/Blueprint/ACF/Item/Food/AutoCreate/BP_Food_GYC.Default__BP_Food_GYC_C.ItemInfo.Description
-msgctxt ",EC85007941E47DBBADDC0EABF0CF607E"
-msgid "食物"
-msgstr "음식"
-
 #. Key:	ECAB878844DB5540EF7B15AB40273797
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_SPX.WBP_SPX_C:WidgetTree.TextBlock_115.Text
 #: /Game/Blueprint/UMG/Furniture/WBP_SPX.WBP_SPX_C:WidgetTree.TextBlock_115.Text
@@ -5186,13 +5249,6 @@ msgctxt ",F7638EBF42495192049CCA9B81841321"
 msgid "Team 8"
 msgstr "팀 8"
 
-#. Key:	F775A4FB474F44BF4E2879B66FDEC221
-#. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_TYNFD.Default__Furniture_TYNFD_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-#: /Game/HDCKBuildingSystem/MeshBP/Furniture_TYNFD.Default__Furniture_TYNFD_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-msgctxt ",F775A4FB474F44BF4E2879B66FDEC221"
-msgid "受遮挡或在没有太阳的天气无法发电"
-msgstr "그늘이 있거나 태양이 없으면 전기를 생산할 수 없습니다."
-
 #. Key:	F895FF4F46F21F692C19CA91D155CFE5
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_3.Text
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_3.Text
@@ -5283,6 +5339,13 @@ msgstr "프롬프트 정보"
 msgctxt ",FD23C90B4B0BEDE8A18429A85A651B61"
 msgid "SitDown"
 msgstr "앉아"
+
+#. Key:	FD3B7C9F47DAD0944C1A9A9EDF7DD54F
+#. SourceLocation:	/Game/Blueprint/UMG/God/WBP_ItemList.WBP_ItemList_C:WidgetTree.TextBlock_0.Text
+#: /Game/Blueprint/UMG/God/WBP_ItemList.WBP_ItemList_C:WidgetTree.TextBlock_0.Text
+msgctxt ",FD3B7C9F47DAD0944C1A9A9EDF7DD54F"
+msgid "穿戴物品"
+msgstr "착용 아이템"
 
 #. Key:	FD5D604D432226A201BDBD830BF11341
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/LongBlunt/Pickaxe/BP_ToolPickaxeBase.Default__BP_ToolPickaxeBase_C.ItemInfo.Name
@@ -5520,7 +5583,7 @@ msgstr "이름지정..."
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",mdc"
 msgid "木地刺"
-msgstr "목지 자"
+msgstr "나무 가시 함정"
 
 #. Key:	Null
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5926,7 +5989,7 @@ msgstr "초가 지붕(싱글 그리드 티)"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RSP"
 msgid "燃烧瓶陷阱"
-msgstr "화염병"
+msgstr "화염병 트랩"
 
 #. Key:	Stairs
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5982,7 +6045,7 @@ msgstr "나무로 만든 계단."
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",TDC"
 msgid "铁地刺"
-msgstr "철가시"
+msgstr "가시 함정"
 
 #. Key:	TieJuMa
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -6150,7 +6213,7 @@ msgstr "상당한 무게를 견딜 수 있을 정도로 튼튼합니다."
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",XZDP"
 msgid "旋转刀片"
-msgstr "로터리 블레이드"
+msgstr "회전날 함정"
 
 #. Key:	B1
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6514,7 +6577,7 @@ msgstr "섬유 기계"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B56"
 msgid "制衣台"
-msgstr "옷걸이"
+msgstr "의류 수선대"
 
 #. Key:	B57
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6780,7 +6843,14 @@ msgstr "지뢰"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,D02"
 msgid "落木陷阱"
-msgstr "로그 트랩"
+msgstr "통나무 트랩"
+
+#. Key:	ldz
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,ldz"
+msgid "领地桌"
+msgstr "영토 테이블"
 
 #. Key:	A1
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9118,7 +9188,7 @@ msgstr "망치"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W21"
 msgid "大型铁锤"
-msgstr ""
+msgstr "슬레지 해머"
 
 #. Key:	W22
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9223,7 +9293,7 @@ msgstr "강철 망치"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W35"
 msgid "大型钢锤"
-msgstr ""
+msgstr "슬랫지 해머"
 
 #. Key:	W36
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9568,12 +9638,40 @@ msgctxt "UI,AddRLL"
 msgid "添加熔炼队列"
 msgstr "제련 대기열 추가"
 
+#. Key:	AF
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,AF"
+msgid "非洲"
+msgstr "아프리카"
+
+#. Key:	ALL
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,ALL"
+msgid "全部"
+msgstr "모두"
+
+#. Key:	AQGBFWQ
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,AQGBFWQ"
+msgid "安全关闭服务器"
+msgstr "서버를 안전하게 종료"
+
 #. Key:	Armor
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Armor"
 msgid "护甲"
 msgstr "갑옷"
+
+#. Key:	AS
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,AS"
+msgid "亚洲"
+msgstr "아시아"
 
 #. Key:	Auto
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10233,6 +10331,13 @@ msgctxt "UI,DQ"
 msgid "钝器"
 msgstr "둔기 숙련도"
 
+#. Key:	DQWJ
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,DQWJ"
+msgid "当前玩家："
+msgstr "현재 플레이어:"
+
 #. Key:	Drink
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
@@ -10337,6 +10442,13 @@ msgstr "장비"
 msgctxt "UI,ETip"
 msgid "拾取 "
 msgstr "줍기"
+
+#. Key:	EU
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,EU"
+msgid "欧洲"
+msgstr "유럽"
 
 #. Key:	EX
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10520,6 +10632,13 @@ msgctxt "UI,FY"
 msgid "防御"
 msgstr "방어"
 
+#. Key:	FYZC
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,FYZC"
+msgid "翻译支持："
+msgstr "번역 지원:"
+
 #. Key:	FZX
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
@@ -10574,7 +10693,14 @@ msgstr "감염"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,GX"
 msgid "关系："
-msgstr ""
+msgstr "관계:"
+
+#. Key:	GXMD
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,GXMD"
+msgid "感谢名单"
+msgstr "감사 목록"
 
 #. Key:	GXZC
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10680,6 +10806,20 @@ msgstr "위치"
 msgctxt "UI,HJY"
 msgid "环境音"
 msgstr "환경 사운드"
+
+#. Key:	HMD
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,HMD"
+msgid "黑名单管理"
+msgstr "블랙리스트 관리"
+
+#. Key:	HMDWZ
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,HMDWZ"
+msgid "黑名单:"
+msgstr "블랙리스트:"
 
 #. Key:	HMZL
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10917,7 +11057,7 @@ msgstr "안티앨리어싱 모드"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,KK"
 msgid "口渴"
-msgstr "목마른"
+msgstr "목마름"
 
 #. Key:	KPP
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10967,6 +11107,34 @@ msgstr "언어"
 msgctxt "UI,LD"
 msgid "亮度"
 msgstr "밝기"
+
+#. Key:	LDBH
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,LDBH"
+msgid "领地保护"
+msgstr "영토 보호"
+
+#. Key:	LDQEnd
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,LDQEnd"
+msgid "无法建造更多领地"
+msgstr "더 이상 영토를 건설할 수 없습니다."
+
+#. Key:	LDQTIP
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,LDQTIP"
+msgid "保护你的建筑，在领地范围内不会被其他玩家使用建造锤拆除"
+msgstr "영토 내에서 건설 망치를 사용하여 다른 플레이어가 건물을 철거하지 않도록 건물을 보호하십시오."
+
+#. Key:	LDWS
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,LDWS"
+msgid "未受保护"
+msgstr "무방비"
 
 #. Key:	Level
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11199,6 +11367,13 @@ msgctxt "UI,MYDYWP"
 msgid "没有对应物品"
 msgstr "해당 항목 없음"
 
+#. Key:	MYJZQX
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,MYJZQX"
+msgid "无建筑权限"
+msgstr "건축 허가 없음"
+
 #. Key:	MZ
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
 #: /Game/LocalizationText/Screen.Screen
@@ -11212,6 +11387,13 @@ msgstr "이름 : "
 msgctxt "UI,MZDDX"
 msgid "未找到有用物品"
 msgstr "쓸만한게없습니다."
+
+#. Key:	NA
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,NA"
+msgid "北美"
+msgstr "기타미"
 
 #. Key:	nailihuifu
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11261,6 +11443,20 @@ msgstr "사라"
 msgctxt "UI,NAMES"
 msgid "已经有一个相同名字的角色或ID无效"
 msgstr "이름이 같은 잘못된 역할 또는 ID가 이미 존재합니다."
+
+#. Key:	NBJRHMD
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,NBJRHMD"
+msgid "你被此服务器加入了黑名单中！"
+msgstr "당신은 이 서버에 의해 블랙리스트에 올랐습니다!"
+
+#. Key:	NBTCLFWQ
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,NBTCLFWQ"
+msgid "你被踢出了服务器！"
+msgstr "당신은 서버에서 쫓겨났습니다!"
 
 #. Key:	ND
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11317,6 +11513,13 @@ msgstr "단검을 사용해야합니다."
 msgctxt "UI,NeedLQ"
 msgid "需装备锐器"
 msgstr "날카로운 도구가 필요합니다."
+
+#. Key:	NeedPassword
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,NeedPassword"
+msgid "需要密码："
+msgstr "비밀번호 필요:"
 
 #. Key:	NewGame
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11521,6 +11724,13 @@ msgctxt "UI,NYYJCS"
 msgid "预计成熟剩余时间"
 msgstr "예상 숙성 시간"
 
+#. Key:	OC
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,OC"
+msgid "大洋洲"
+msgstr "오세아니아"
+
 #. Key:	Onhand
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
@@ -11548,6 +11758,13 @@ msgstr "자물쇠 열기"
 msgctxt "UI,physicalstrength"
 msgid "体力"
 msgstr "체력"
+
+#. Key:	PlayList
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,PlayList"
+msgid "玩家列表："
+msgstr "플레이어 목록:"
 
 #. Key:	Pot01
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11610,7 +11827,7 @@ msgstr "아무도 남아 있지 않습니다!"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,QCRL"
 msgid "取出燃料"
-msgstr "연료를 꺼내다"
+msgstr "연료를 꺼내기"
 
 #. Key:	QG
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11717,12 +11934,26 @@ msgctxt "UI,QXHD"
 msgid "枪械换弹"
 msgstr "총기 재장전"
 
+#. Key:	qxsq
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,qxsq"
+msgid "取消授权"
+msgstr "승인 취소"
+
 #. Key:	QYBY
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,QYBY"
 msgid "缺少枪油"
 msgstr "총기수입도구 부족"
+
+#. Key:	R
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,R"
+msgid "地区："
+msgstr "영역:"
 
 #. Key:	Random
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11736,14 +11967,14 @@ msgstr "무작위"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Release"
 msgid "释放 "
-msgstr "해방"
+msgstr "가동"
 
 #. Key:	reload
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,reload"
 msgid "重载 "
-msgstr "초과 적재"
+msgstr "재가동"
 
 #. Key:	rizhao
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11786,6 +12017,13 @@ msgstr "캐릭터 특성:"
 msgctxt "UI,RYMessage"
 msgid "里面的燃油太少了"
 msgstr "연료가 너무 부족합니다!."
+
+#. Key:	SA
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,SA"
+msgid "南美洲"
+msgstr "남아메리카"
 
 #. Key:	SAVE
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11989,6 +12227,20 @@ msgstr "나누다"
 msgctxt "UI,spring"
 msgid "春"
 msgstr "봄"
+
+#. Key:	SQ
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,SQ"
+msgid "授权"
+msgstr "인정 받은"
+
+#. Key:	SQ01
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,SQ01"
+msgid "授权"
+msgstr "인정 받은"
 
 #. Key:	SR
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12263,6 +12515,13 @@ msgctxt "UI,TC"
 msgid "退出"
 msgstr "그만두기"
 
+#. Key:	TCXX
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,TCXX"
+msgid "踢出"
+msgstr "내 보내 ~"
+
 #. Key:	TD
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
 #: /Game/LocalizationText/Screen.Screen
@@ -12297,6 +12556,13 @@ msgstr "냉각 정체가 없음"
 msgctxt "UI,TipName"
 msgid "请输入一个名字！"
 msgstr "별명을 입력하세요!"
+
+#. Key:	TJDHMD
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,TJDHMD"
+msgid "添加到黑名单"
+msgstr "블랙리스트에 추가"
 
 #. Key:	TLD
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12499,7 +12765,7 @@ msgstr "큰 위 왕"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZQSZ"
 msgid "轻食主义"
-msgstr ""
+msgstr "가벼운 음식"
 
 #. Key:	TZRAXXF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -12858,6 +13124,13 @@ msgctxt "UI,wsDetail"
 msgid "卫生\r\n影响丧尸发现几率，影响伤口感染几率，过低影响心情回复"
 msgstr "건강\r\n좀비에게 발각 및 상처 감염 가능성에 영향을 미치며 너무 낮으면 기분 회복에 영향을 미칩니다."
 
+#. Key:	WSYQX
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,WSYQX"
+msgid "无使用权限"
+msgstr "비허가"
+
 #. Key:	WXCG
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
@@ -12871,6 +13144,13 @@ msgstr "수리에 성공했습니다!"
 msgctxt "UI,WXL"
 msgid "未修理"
 msgstr "수리되지 않은"
+
+#. Key:	WZSC
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,WZSC"
+msgid "物资生成"
+msgstr "재료 생성"
 
 #. Key:	WZSL
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -13033,6 +13313,13 @@ msgctxt "UI,YANJU"
 msgid "眼距"
 msgstr "눈동자 거리"
 
+#. Key:	YC
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,YC"
+msgid "移除"
+msgstr "제거하다"
+
 #. Key:	YINXIAO
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
 #: /Game/LocalizationText/Screen.Screen
@@ -13151,6 +13438,13 @@ msgstr "식생 밀도"
 msgctxt "UI,ZD"
 msgid "转动"
 msgstr "회전하기"
+
+#. Key:	ZISHA
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,ZISHA"
+msgid "自杀"
+msgstr "자살"
 
 #. Key:	ZLSD
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
