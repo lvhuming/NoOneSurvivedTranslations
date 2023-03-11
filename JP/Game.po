@@ -1,11 +1,11 @@
-﻿# Game Japanese translation.
+# Game Japanese translation.
 # Copyright Epic Games, Inc. All Rights Reserved.
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
 "POT-Creation-Date: 2023-03-11 03:41\n"
-"PO-Revision-Date: 2023-03-11 03:41\n"
+"PO-Revision-Date: 2023-03-12 02:30\n"
 "Language-Team: \n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
@@ -116,7 +116,7 @@ msgstr "取水口"
 #: /Game/HDCKBuildingSystem/Blueprints/Base/Wall_Base.Default__Wall_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",047920794D70C05D154C1894B872F768"
 msgid "提示信息"
-msgstr "プロンプト情報"
+msgstr "ヒント"
 
 #. Key:	04FCF26444412C856D5A75A17C9A112E
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_StoneFire.WBP_StoneFire_C:WidgetTree.WBP_AddButton.ToolTipText
@@ -879,7 +879,7 @@ msgstr "レンガ"
 #: /Game/HDCKBuildingSystem/Blueprints/Base/HandGuard_Base.Default__HandGuard_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",25C5D7934EF50D8F3DF87F80A0AA0E88"
 msgid "提示信息"
-msgstr "プロンプト情報"
+msgstr "ヒント"
 
 #. Key:	264F21F94A312BE3982CE79C37D102D3
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_LoadGame.WBP_LoadGame_C:WidgetTree.TextBlock.Text
@@ -949,7 +949,7 @@ msgstr "餌を追加"
 #: /Game/HDCKBuildingSystem/Blueprints/Base/GuardRail_2.Default__GuardRail_2_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",28D658514CA4B5E0194B54A460658A4B"
 msgid "提示信息"
-msgstr "プロンプト情報"
+msgstr "ヒント"
 
 #. Key:	28FF919E49670ACE61590A92C65832EF
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/TipPasswordCheck.TipPasswordCheck_C:WidgetTree.PasswordNot.Text
@@ -970,7 +970,7 @@ msgstr "鋼の矢"
 #: /Game/HDCKBuildingSystem/Blueprints/Base/Wall_Door.Default__Wall_Door_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",293709574ECCB1307ACEC486F3E4D8AB"
 msgid "提示信息"
-msgstr "プロンプト情報"
+msgstr "ヒント"
 
 #. Key:	2964AD47479FD74660CD0D8804857F13
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/StartUIEnum.StartUIEnum.DisplayNameMap(3 - Value).DisplayNameMap
@@ -1012,7 +1012,7 @@ msgstr "チーム 6"
 #: /Game/Blueprint/ACF/Item/Weapon/ACFGunBase.Default__ACFGunBase_C.ItemInfo.Name
 msgctxt ",2ABFDD2D4693426742BDACAE5D72DACC"
 msgid "M4步枪"
-msgstr "M4ライフル"
+msgstr "M4アサルトライフル"
 
 #. Key:	2AEDF97B456853ED929F229E28ED97D4
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/StartUIEnum.StartUIEnum.DisplayNameMap(1 - Value).DisplayNameMap
@@ -1054,7 +1054,7 @@ msgstr "99"
 #: /Game/HDCKBuildingSystem/Blueprints/Base/Wall_30.Default__Wall_30_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",2D537CD7412F6289FFD138ADC5587BE5"
 msgid "提示信息"
-msgstr "プロンプト情報"
+msgstr "ヒント"
 
 #. Key:	2DAB35E643134B1AA825ACA13C74DE1F
 #. SourceLocation:	/Game/Blueprint/ACF/Player/HDCK_GameState.Default__HDCK_GameState_C:Team Manager.Teams(6 - Value).Teams.DisplayName
@@ -1110,7 +1110,7 @@ msgstr "W、A、S、Dを押してキャラクターを移動します"
 #: /Game/HDCKBuildingSystem/Blueprints/Base/RoofEndVertical_20.Default__RoofEndVertical_20_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",2EDAE6534DFFC56101BB7CADCFC5B6C8"
 msgid "提示信息"
-msgstr "プロンプト情報"
+msgstr "ヒント"
 
 #. Key:	2F32F7184EE08293DDC575A2F524D414
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_HandGun_Magnum.Default__ACFGunBase_HandGun_Magnum_C.ItemInfo.Name
@@ -1124,7 +1124,7 @@ msgstr "リボルバー"
 #: /Game/HDCKBuildingSystem/Blueprints/Base/RoofEnd_02.Default__RoofEnd_02_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",2F43FA9F4D0E5E6A9FC6A898E88E47CF"
 msgid "提示信息"
-msgstr "プロンプト情報"
+msgstr "ヒント"
 
 #. Key:	2F46E1564B04071A0A7C099CB780BDDF
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_8.Text
@@ -1264,7 +1264,7 @@ msgstr "胃のトラブル"
 #: /Game/HDCKBuildingSystem/Blueprints/Base/Roof_20.Default__Roof_20_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",372C96A440487D850AECCA8862CC59DB"
 msgid "提示信息"
-msgstr "プロンプト情報"
+msgstr "ヒント"
 
 #. Key:	374DA59B4CB3A602561BC88A1FB70306
 #. SourceLocation:	/Game/Blueprint/UMG/WBP_BaseCharacter.WBP_BaseCharacter_C:WidgetTree.YZL.Text
@@ -1348,7 +1348,7 @@ msgstr "追いかける"
 #: /Game/HDCKBuildingSystem/Blueprints/Base/Stairs_02.Default__Stairs_02_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",3A3CF7C2470AEB70471187A6091C0CFA"
 msgid "提示信息"
-msgstr "プロンプト情報"
+msgstr "ヒント"
 
 #. Key:	3A5A7CF64A92AEA9CFD151ADFA977830
 #. SourceLocation:	/Game/Blueprint/ACF/Tutorial/WBP_TutorialTip2.WBP_TutorialTip2_C:WidgetTree.TextBlock_53.Text
@@ -1460,7 +1460,7 @@ msgstr "ゲームに参加する前に、少なくとも1つのキャラクタ�
 #: /Game/HDCKBuildingSystem/Blueprints/Base/Stairs_Base.Default__Stairs_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",40DC4DFD41BDB00B1944EF987D3CA233"
 msgid "提示信息"
-msgstr "プロンプト情報"
+msgstr "ヒント"
 
 #. Key:	41047B6440E796F3F16665AA70140F5F
 #. SourceLocation:	/Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(11 - Value).DisplayNameMap
@@ -1537,7 +1537,7 @@ msgstr "化学反応ベンチ"
 #: /Game/HDCKBuildingSystem/Blueprints/Base/OutStairs_Base.Default__OutStairs_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",44C72828460B596066B7E19B1F0AD6FC"
 msgid "提示信息"
-msgstr "プロンプト情報"
+msgstr "ヒント"
 
 #. Key:	4561C12A4DF8189CD64E2EB0ED0F2A01
 #. SourceLocation:	/Game/Blueprint/ACF/Manager/E_Season.E_Season.DisplayNameMap(1 - Value).DisplayNameMap
@@ -1656,7 +1656,7 @@ msgstr "基礎"
 #: /Game/HDCKBuildingSystem/Blueprints/Base/GuardRail_1.Default__GuardRail_1_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",4C73679343B4DF0362CCBE9DAAA0B9E9"
 msgid "提示信息"
-msgstr "プロンプト情報"
+msgstr "ヒント"
 
 #. Key:	4C76EF694649A6D17C88C180E127D011
 #. SourceLocation:	/Game/Blueprint/UMG/EscMenu/WBP_Button.WBP_Button_C:WidgetTree.TextBlock_0.Text
@@ -1677,7 +1677,7 @@ msgstr "燃料"
 #: /Game/HDCKBuildingSystem/Blueprints/Base/RoofEndHorizontal_Intersection.Default__RoofEndHorizontal_Intersection_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",4CB122E740E0AB047EAF51A3BA19C6C7"
 msgid "提示信息"
-msgstr "プロンプト情報"
+msgstr "ヒント"
 
 #. Key:	4D63587648FCF9D34033C9A96CC1E408
 #. SourceLocation:	/Game/HDCKBuildingSystem/Table/E_SelectType.E_SelectType.DisplayNameMap(1 - Value).DisplayNameMap
@@ -1691,7 +1691,7 @@ msgstr "作る"
 #: /Game/HDCKBuildingSystem/Blueprints/Base/Roof_Top_Corner.Default__Roof_Top_Corner_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",4D959A154D5C17ABC216D2AFB763C8E3"
 msgid "提示信息"
-msgstr "プロンプト情報"
+msgstr "ヒント"
 
 #. Key:	4DE2155C45DCE36BF49919A06DAD7B06
 #. SourceLocation:	/Game/Blueprint/UMG/ChatSystem/WBP_ChatMenu.WBP_ChatMenu_C:WidgetTree.TextBlock_76.Text
@@ -1712,7 +1712,7 @@ msgstr "木の板"
 #: /Game/HDCKBuildingSystem/Blueprints/Base/Wattle_Base.Default__Wattle_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",4EDF88064E4EE9295D9AF5BC205B6D53"
 msgid "提示信息"
-msgstr "プロンプト情報"
+msgstr "ヒント"
 
 #. Key:	4EEAE27F444C96820BAF08B142031780
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_PZX.WBP_PZX_C:WidgetTree.development.ToolTipText
@@ -1789,7 +1789,7 @@ msgstr "フィルター"
 #: /Game/HDCKBuildingSystem/Blueprints/Base/Foundation_Base.Default__Foundation_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",51AF544549B86F8668AAD5941180E8C9"
 msgid "提示信息"
-msgstr "プロンプト情報"
+msgstr "ヒント"
 
 #. Key:	5266199243DBCAB57A9139B087C1733C
 #. SourceLocation:	/Game/HDCKBuildingSystem/Table/E_SelectTypeChild.E_SelectTypeChild.DisplayNameMap(4 - Value).DisplayNameMap
@@ -1803,7 +1803,7 @@ msgstr "階段"
 #: /Game/HDCKBuildingSystem/Blueprints/Base/Stairs_03.Default__Stairs_03_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",529C15EE44DF85184B37C09AF69F7B00"
 msgid "提示信息"
-msgstr "プロンプト情報"
+msgstr "ヒント"
 
 #. Key:	52A13B2248804E835DDB938858E96088
 #. SourceLocation:	/Game/Blueprint/ACF/Tutorial/WBP_TutorialTip8.WBP_TutorialTip8_C:WidgetTree.TextBlock.Text
@@ -2223,7 +2223,7 @@ msgstr "先端化学反応装置"
 #: /Game/HDCKBuildingSystem/Blueprints/Base/Floor_Base.Default__Floor_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",661A50C248D309EEFA4B2E8C074F01D1"
 msgid "提示信息"
-msgstr "プロンプト情報"
+msgstr "ヒント"
 
 #. Key:	6633F35B4A96FB574842B3896808D3CB
 #. SourceLocation:	/Game/Blueprint/ACF/Player/HDCK_CharacterBP.Default__HDCK_CharacterBP_C.TimeBuffDetail(2).TimeBuffDetail.TipMessage_56_5402F47A4785659B27440099C7CA676D
@@ -2552,7 +2552,7 @@ msgstr "なし"
 #: /Game/HDCKBuildingSystem/Blueprints/Base/RoofEndTringer_Base.Default__RoofEndTringer_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",732429F04FE9EF56DB7BB3965B5D3B4A"
 msgid "提示信息"
-msgstr "プロンプト情報"
+msgstr "ヒント"
 
 #. Key:	735E15A146BDA95257D282903C633040
 #. SourceLocation:	/Game/Blueprint/UMG/ScreenMessage/WBP_CarMessage.WBP_CarMessage_C:UpdateShow [Script Bytecode]
@@ -2699,7 +2699,7 @@ msgstr "中くらい"
 #: /Game/Blueprint/ACF/Item/Weapon/ACFGunBase_Rifle.Default__ACFGunBase_Rifle_C.ItemInfo.Name
 msgctxt ",79B0F10B46AA0CD33822A08E1CD670B3"
 msgid "M4步枪"
-msgstr "M4ライフル"
+msgstr "M4アサルトライフル"
 
 #. Key:	7A117314455AB9B7DAE9E8A5F1544780
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_34.Text
@@ -2797,7 +2797,7 @@ msgstr "モデル01"
 #: /Game/HDCKBuildingSystem/Blueprints/Base/HorizontalBeam2GE.Default__HorizontalBeam2GE_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",7DFF1646445476D76FA4279B406D92F5"
 msgid "提示信息"
-msgstr "プロンプト情報"
+msgstr "ヒント"
 
 #. Key:	7E0D35D04487BF2FCA42F68796859048
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_18.Text
@@ -2944,7 +2944,7 @@ msgstr "細かい部品"
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_LDQ.Default__Furniture_LDQ_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",85CF296B4D233E7440EFA8AE591A2FFC"
 msgid "提示信息"
-msgstr "プロンプト情報"
+msgstr "ヒント"
 
 #. Key:	85DE22324C7068D83740A99089B247E1
 #. SourceLocation:	/Game/Blueprint/UMG/EscMenu/WBP_Setting.Default__WBP_Setting_C.Setting(0).Setting
@@ -3056,7 +3056,7 @@ msgstr "なし"
 #: /Game/HDCKBuildingSystem/Blueprints/Base/VerticalBeam_30.Default__VerticalBeam_30_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",8C7294F84D472245F1F4FAAC1DF11D29"
 msgid "提示信息"
-msgstr "プロンプト情報"
+msgstr "ヒント"
 
 #. Key:	8C76F3354A03EDF4BFBD1FB712E3A7F4
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_JGT.WBP_JGT_C:WidgetTree.Num.Text
@@ -3147,7 +3147,7 @@ msgstr "モデル02"
 #: /Game/HDCKBuildingSystem/Blueprints/Base/Roof_Top.Default__Roof_Top_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",92DB89E34ED4636BAD31669151B5D6C6"
 msgid "提示信息"
-msgstr "プロンプト情報"
+msgstr "ヒント"
 
 #. Key:	92DF8E7948C1E23BAAB968B3066CA1A9
 #. SourceLocation:	/Game/HDCKBuildingSystem/Table/BuildTable.BuildTable.OutStairs.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
@@ -3231,7 +3231,7 @@ msgstr "プレイヤー数：5"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_47.Text
 msgctxt ",97BC675945FB3BDDE453978AB70A74C7"
 msgid "刷新物资"
-msgstr "リフレッシュ用品"
+msgstr "物資を更新"
 
 #. Key:	97DD2C4C46F23E523F6FDF9B1E9A37BD
 #. SourceLocation:	/Game/Blueprint/UMG/WBP_ScreenMessage1.WBP_ScreenMessage1_C:WidgetTree.TextBlock.Text
@@ -3245,7 +3245,7 @@ msgstr "M"
 #: /Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_sniper_SKS.Default__ACFGunBase_sniper_SKS_C.ItemInfo.Name
 msgctxt ",9819DC8F4487E08EF8B3B6B4868049BF"
 msgid "SKS"
-msgstr "SKS"
+msgstr "SKSスナイパーライフル"
 
 #. Key:	982ACBDE482FBA10994EE68059C2A04A
 #. SourceLocation:	/Game/Blueprint/UMG/Make/WBP_MakeDetailShow.WBP_MakeDetailShow_C:WidgetTree.TBFY.Text
@@ -3280,7 +3280,7 @@ msgstr "修理ツールがありません！"
 #: /Game/HDCKBuildingSystem/Blueprints/Base/VerticalBeam_Base.Default__VerticalBeam_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",999F80E349079E38988987AABAC5BB72"
 msgid "提示信息"
-msgstr "プロンプト情報"
+msgstr "ヒント"
 
 #. Key:	99C38A1E45C6826D574A1389F47237C4
 #. SourceLocation:	/Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(23).Mappings.PlayerMappableOptions.DisplayName
@@ -3350,7 +3350,7 @@ msgstr "建築メニュー パネルを開き、「木の基礎」を選択し�
 #: /Game/HDCKBuildingSystem/Blueprints/Base/Roof_45_intersection.Default__Roof_45_intersection_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",9E4F95A84C35BB48347AA1AE858AAE33"
 msgid "提示信息"
-msgstr "プロンプト情報"
+msgstr "ヒント"
 
 #. Key:	9E632F8949F56E68D88F799607625386
 #. SourceLocation:	/Game/Blueprint/UMG/EscMenu/WBP_Dead.WBP_Dead_C:ExecuteUbergraph_WBP_Dead [Script Bytecode]
@@ -3455,7 +3455,7 @@ msgstr "IA_ActionMenu"
 #: /Game/Blueprint/ACF/Data/TableAsset/WeaponTable.WeaponTable.SKS狙击枪.ItemInfo_66_F92A1A3B448C3413FD56918B4BFB9241.Name
 msgctxt ",A3EEE2ED4151882C6AADCC9C40E8CEE1"
 msgid "SKS"
-msgstr "SKSカービン銃"
+msgstr "SKSスナイパーライフル"
 
 #. Key:	A40DC20449F773A942EBF6AA0B8E95F6
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Tool/Item_NotUse_Tool_Base.Default__Item_NotUse_Tool_Base_C.ItemInfo.Name
@@ -3602,7 +3602,7 @@ msgstr "鋼の刀"
 #: /Game/HDCKBuildingSystem/Blueprints/Base/RoofEndHorizontal_Base.Default__RoofEndHorizontal_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",AC18E0D44BF3818262EF0CAB79856665"
 msgid "提示信息"
-msgstr "プロンプト情報"
+msgstr "ヒント"
 
 #. Key:	AC84840B4539E7BC652898AC86BCECF8
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/QK/BP_GunAccessoryQK_JJ_BC01.Default__BP_GunAccessoryQK_JJ_BC01_C.ItemInfo.Description
@@ -3700,7 +3700,7 @@ msgstr "地面に置く必要があります"
 #: /Game/HDCKBuildingSystem/Blueprints/Base/HorizontalBeam_Base.Default__HorizontalBeam_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",B08E6BFF426085C71EE73FB83AB86704"
 msgid "提示信息"
-msgstr "プロンプト情報"
+msgstr "ヒント"
 
 #. Key:	B0942D1946775C199F77B7B8C29F350F
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/E_AimType.E_AimType.DisplayNameMap(2 - Value).DisplayNameMap
@@ -4001,7 +4001,7 @@ msgstr "プレイヤー数：5"
 #: /Game/HDCKBuildingSystem/Blueprints/Base/Car_Base.Default__Car_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",BC7DF0C340280B5AE5433887448AAA78"
 msgid "提示信息"
-msgstr "プロンプト情報"
+msgstr "ヒント"
 
 #. Key:	BC879B3F4ECE110B894771976EFF65F1
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_MakeBase.Default__Furniture_MakeBase_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
@@ -4239,7 +4239,7 @@ msgstr "美味しいフルーツ煮込み"
 #: /Game/HDCKBuildingSystem/Blueprints/Base/Roof_45_Corner.Default__Roof_45_Corner_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",CA01173B48E00777527333BF283A8ECF"
 msgid "提示信息"
-msgstr "プロンプト情報"
+msgstr "ヒント"
 
 #. Key:	CA38F5DF4EFCC8AEEFBAC7803C1FB9D0
 #. SourceLocation:	/Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(2 - Value).DisplayNameMap
@@ -4393,7 +4393,7 @@ msgstr "このアイテムはここには装備できません"
 #: /Game/HDCKBuildingSystem/Blueprints/Base/GuardRail_Base.Default__GuardRail_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",D2B00B42448E9C68C5BB7BBC74B50A12"
 msgid "提示信息"
-msgstr "プロンプト情報"
+msgstr "ヒント"
 
 #. Key:	D32A4D03413139E3B6FDB1B424B6207F
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_JoinGame.WBP_JoinGame_C:ExecuteUbergraph_WBP_JoinGame [Script Bytecode]
@@ -4498,7 +4498,7 @@ msgstr "ワークベンチは自動的にタスクを完了します。そこに
 #: /Game/HDCKBuildingSystem/Blueprints/Base/OutDoorsStairs_Base.Default__OutDoorsStairs_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",D93DE96549EB60B216FED58F9FA2F16D"
 msgid "提示信息"
-msgstr "プロンプト情報"
+msgstr "ヒント"
 
 #. Key:	D9BFDCBF49522F6BD0A0AE9DFE3A46D0
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(10 - Value).DisplayNameMap
@@ -4512,7 +4512,7 @@ msgstr "屋根の終端"
 #: /Game/HDCKBuildingSystem/Blueprints/Base/Roof_45_Base.Default__Roof_45_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",D9CB867B44E6AC07A493919FCBD26528"
 msgid "提示信息"
-msgstr "プロンプト情報"
+msgstr "ヒント"
 
 #. Key:	D9DDCEFB423648DEE630F5AAAFEE978B
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_89.In Text
@@ -4575,7 +4575,7 @@ msgstr "火薬"
 #: /Game/HDCKBuildingSystem/Blueprints/Base/Wall_Window.Default__Wall_Window_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",DB5688A34AE876440300939DA10E1203"
 msgid "提示信息"
-msgstr "プロンプト情報"
+msgstr "ヒント"
 
 #. Key:	DB972C8A42088B0F686C0088380FA942
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_9.Text
@@ -4806,7 +4806,7 @@ msgstr "商人の品物の更新"
 #: /Game/HDCKBuildingSystem/Blueprints/Base/RoofEnd_Base.Default__RoofEnd_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",E556A0064015F8203A1E46B108235EE7"
 msgid "提示信息"
-msgstr "プロンプト情報"
+msgstr "ヒント"
 
 #. Key:	E55D360946BFB010A48B85A3400EDE5D
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Throw/BP_Throw_Base.Default__BP_Throw_Base_C.ItemInfo.Name
@@ -4981,7 +4981,7 @@ msgstr "探索する"
 #: /Game/HDCKBuildingSystem/Blueprints/Base/HandGuardStairs_Base.Default__HandGuardStairs_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",EC27C81F41D500890A2949A91B7DE1E2"
 msgid "提示信息"
-msgstr "プロンプト情報"
+msgstr "ヒント"
 
 #. Key:	EC510E034A21173FA2F1D897E1562A29
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/DJ/BP_GunAccessory_DJ_9MM_02.Default__BP_GunAccessory_DJ_9MM_02_C.ItemInfo.Description
@@ -5310,14 +5310,14 @@ msgstr "モデル01"
 #: /Game/HDCKBuildingSystem/Blueprints/Base/Wall_triangle.Default__Wall_triangle_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",FAFE310A4636AF278CB5F9AD22539A39"
 msgid "提示信息"
-msgstr "プロンプト情報"
+msgstr "ヒント"
 
 #. Key:	FB4AA59C4F7B31F2F8C325B64FCF6379
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_65.In Text
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_65.In Text
 msgctxt ",FB4AA59C4F7B31F2F8C325B64FCF6379"
 msgid "淋浴间"
-msgstr "シャワー室"
+msgstr "シャワー設備"
 
 #. Key:	FC41E7F4409AA042268DA480D2C3C17D
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/E_AimType.E_AimType.DisplayNameMap(0 - Value).DisplayNameMap
@@ -5331,7 +5331,7 @@ msgstr "デフォルト"
 #: /Game/HDCKBuildingSystem/Blueprints/Base/RoofEndVertical_45_Base.Default__RoofEndVertical_45_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",FC61E1904AC1433B0F83A5B589259934"
 msgid "提示信息"
-msgstr "プロンプト情報"
+msgstr "ヒント"
 
 #. Key:	FD23C90B4B0BEDE8A18429A85A651B61
 #. SourceLocation:	/Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(0 - Value).DisplayNameMap
@@ -6850,7 +6850,7 @@ msgstr "落し木トラップ"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,ldz"
 msgid "领地桌"
-msgstr "テリトリーテーブル"
+msgstr "領地テーブル"
 
 #. Key:	A1
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8880,7 +8880,7 @@ msgstr "18Cピストル"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Q02"
 msgid "M4"
-msgstr "M4アサルトカービン"
+msgstr "M4アサルトライフル"
 
 #. Key:	Q03
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9650,7 +9650,7 @@ msgstr "アフリカ"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,ALL"
 msgid "全部"
-msgstr "全て"
+msgstr "すべて"
 
 #. Key:	AQGBFWQ
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10336,7 +10336,7 @@ msgstr "鈍器"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,DQWJ"
 msgid "当前玩家："
-msgstr "現在のプレーヤー:"
+msgstr "現在のプレーヤー："
 
 #. Key:	Drink
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10637,7 +10637,7 @@ msgstr "防御"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,FYZC"
 msgid "翻译支持："
-msgstr "翻訳サポート:"
+msgstr "翻訳サポート："
 
 #. Key:	FZX
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -10819,7 +10819,7 @@ msgstr "ブラックリスト管理"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,HMDWZ"
 msgid "黑名单:"
-msgstr "ブラックリスト:"
+msgstr "ブラックリスト："
 
 #. Key:	HMZL
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11113,7 +11113,7 @@ msgstr "輝度"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,LDBH"
 msgid "领地保护"
-msgstr "領土保護"
+msgstr "領地保護"
 
 #. Key:	LDQEnd
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11127,14 +11127,14 @@ msgstr "これ以上領地を建設できません"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,LDQTIP"
 msgid "保护你的建筑，在领地范围内不会被其他玩家使用建造锤拆除"
-msgstr "領土内で建設ハンマーを使用して、他のプレイヤーが建物を破壊するのを防ぎます"
+msgstr "領地内で建設ハンマーを使用して、他のプレイヤーが建物を破壊するのを防ぎます"
 
 #. Key:	LDWS
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,LDWS"
 msgid "未受保护"
-msgstr "保護されていない"
+msgstr "保護されていません"
 
 #. Key:	Level
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11372,7 +11372,7 @@ msgstr "該当する項目がありません"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,MYJZQX"
 msgid "无建筑权限"
-msgstr "建築許可なし"
+msgstr "建築許可がありません"
 
 #. Key:	MZ
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11393,7 +11393,7 @@ msgstr "有用なアイテムが見つかりません"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,NA"
 msgid "北美"
-msgstr "北美"
+msgstr "北アメリカ"
 
 #. Key:	nailihuifu
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11449,14 +11449,14 @@ msgstr "無効なロールまたは ID が同じ名前で既に存在します"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,NBJRHMD"
 msgid "你被此服务器加入了黑名单中！"
-msgstr "あなたはこのサーバーによってブラックリストに登録されました!"
+msgstr "あなたはこのサーバーのブラックリストに登録されました！"
 
 #. Key:	NBTCLFWQ
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,NBTCLFWQ"
 msgid "你被踢出了服务器！"
-msgstr "サーバーから追い出されました!"
+msgstr "サーバーから追い出されました！"
 
 #. Key:	ND
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11764,7 +11764,7 @@ msgstr "体力"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,PlayList"
 msgid "玩家列表："
-msgstr "プレイヤーリスト:"
+msgstr "プレイヤーリスト："
 
 #. Key:	Pot01
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12233,14 +12233,14 @@ msgstr "春"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SQ"
 msgid "授权"
-msgstr "認可された"
+msgstr "承認"
 
 #. Key:	SQ01
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SQ01"
 msgid "授权"
-msgstr "認可された"
+msgstr "承認"
 
 #. Key:	SR
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -13129,7 +13129,7 @@ msgstr "健康\r\nゾンビの発見の可能性に影響を与え、傷の感�
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,WSYQX"
 msgid "无使用权限"
-msgstr "全く許可しません"
+msgstr "使用権限がありません"
 
 #. Key:	WXCG
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -13529,4 +13529,3 @@ msgstr "全体の音量"
 msgctxt "UI,ZZ"
 msgid "一小包种子"
 msgstr "種子の小さなパック"
-
