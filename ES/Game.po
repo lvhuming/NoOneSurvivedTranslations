@@ -5366,7 +5366,7 @@ msgstr "Hacha"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",FDGL"
 msgid "发电功率"
-msgstr "Generando Energía "
+msgstr "Generando Energía: "
 
 #. Key:	FE2E91AB497D0DE91BAAE09A668CB143
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Book/AutoCreate/BP_Book_JXX01.Default__BP_Book_JXX01_C.ItemInfo.Name
@@ -6045,14 +6045,14 @@ msgstr "Escaleras de Madera"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",TDC"
 msgid "铁地刺"
-msgstr "Trampa: Concertina"
+msgstr "Trampa: Pinchos de Hierro"
 
 #. Key:	TieJuMa
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",TieJuMa"
 msgid "铁拒马"
-msgstr "Trampa: Pinchos de Hierro"
+msgstr "Trampa: Barricada de Hierro"
 
 #. Key:	TwoHorizontalBeam
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -6073,7 +6073,7 @@ msgstr "Vigas largas, pueden soportar el peso."
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",VerticalBeam"
 msgid "木材立柱"
-msgstr "Pilar de Madera"
+msgstr "Columna de Madera"
 
 #. Key:	VerticalBeamAdsorbent
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -6752,7 +6752,7 @@ msgstr "Puerta de Hierro"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B79"
 msgid "拒马"
-msgstr "Barricada de Estacas de Madera"
+msgstr "Trampa: Barricada de Madera"
 
 #. Key:	B8
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -9482,7 +9482,7 @@ msgstr "Su uso principal es picar piedras/minerales, aunque en caso de emergenci
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,01"
 msgid "当食物新鲜度开始变黄，吃下去可能会感染疟疾，新鲜度越低感染的可能性越大。"
-msgstr "Cuando los alimentos empizan a ponerse amarillos significa que ya no estan frescos. Cuanto menos frescos estan, mas posibilidades hay de pillar malaria."
+msgstr "Cuando los alimentos empiezan a ponerse amarillos significa que ya no estan frescos. Cuanto menos frescos estan, mas posibilidades hay de pillar malaria."
 
 #. Key:	02
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -9559,7 +9559,7 @@ msgstr "Usa la Pata de Cabra para abrir una puerta o un armario cerrado."
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,12"
 msgid "用小锤可以拆除某些物品获取材料。"
-msgstr "Algunos obejtos se pueden desmontar para obtener materiales usando un pequeño martillo."
+msgstr "Algunos objetos se pueden desmontar para obtener materiales usando un pequeño martillo."
 
 #. Key:	13
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -10161,7 +10161,7 @@ msgstr "Pata de Cabra"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,CSL"
 msgid "储水量"
-msgstr "Agua Recolectada"
+msgstr "Agua"
 
 #. Key:	CurrentWeight
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10322,7 +10322,7 @@ msgstr "Conectar: "
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,DLValue"
 msgid "电量："
-msgstr "Energía: "
+msgstr "Energía "
 
 #. Key:	DQ
 #. SourceLocation:	/Game/LocalizationText/UIStudy.UIStudy
@@ -10616,7 +10616,7 @@ msgstr "Calidad de los Reflejos"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Ftip"
 msgid "使用"
-msgstr "Usar: "
+msgstr "Usar "
 
 #. Key:	FX
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11295,7 +11295,7 @@ msgstr "Resistencia Máxima"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,Menu"
 msgid "退回主菜单"
-msgstr "Menu Principal"
+msgstr "Menú Principal"
 
 #. Key:	MJ
 #. SourceLocation:	/Game/LocalizationText/GUN.GUN
@@ -11743,7 +11743,7 @@ msgstr "Equipar en la Mano"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Open"
 msgid "打开"
-msgstr "Abrir: "
+msgstr "Abrir "
 
 #. Key:	OpenLock
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11897,7 +11897,7 @@ msgstr "Coger: "
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,Quit"
 msgid "退出"
-msgstr "Menu Principal"
+msgstr "Salir"
 
 #. Key:	QUITGAME
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12891,7 +12891,7 @@ msgstr "Efectos Interfaz de Usuario"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Use"
 msgid "使用"
-msgstr "Usar: "
+msgstr "Usar "
 
 #. Key:	USE1
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -13332,7 +13332,7 @@ msgstr "Efectos de Sonido"
 #: /Game/LocalizationText/UIStudy.UIStudy
 msgctxt "UI,YJ"
 msgid "冶金"
-msgstr "Metalurgia: "
+msgstr "Metalurgia "
 
 #. Key:	YJSW
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
