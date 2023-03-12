@@ -1915,7 +1915,7 @@ msgstr "Brechstange aus Stahl"
 #: /Game/Blueprint/ACF/Tutorial/WBP_TutorialTip0.WBP_TutorialTip0_C:WidgetTree.TextBlock_2.Text
 msgctxt ",58F0265A40DBE9CFC7C484B4CAC7BEDC"
 msgid "如果跌倒了，按下空格爬起"
-msgstr "Wenn du hinfällst, drücke die Leertaste um wieder aufzustehen."
+msgstr "Wenn sie hinfallen, drücken sie die Leertaste um wieder aufzustehen."
 
 #. Key:	5909FDD94497886779AC7197412B1F87
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/QK/BP_GunAccessoryQK_RifleBC02.Default__BP_GunAccessoryQK_RifleBC02_C.ItemInfo.Description
@@ -6850,7 +6850,7 @@ msgstr "Baumstammfalle"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,ldz"
 msgid "领地桌"
-msgstr "Gebietstabelle"
+msgstr "Gebietsblock"
 
 #. Key:	A1
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9545,7 +9545,7 @@ msgstr "Die Verwendung des Aktionsmenüs zum Hinlegen oder Hinsetzen kann die Au
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,10"
 msgid "被攻击的话，会消耗当前穿戴物品的耐久。"
-msgstr "Wenn du angegriffen wirst, wird die Haltbarkeit des gerade getragenen Gegenstandes verbraucht."
+msgstr "Wenn sie angegriffen werden, wird die Haltbarkeit des gerade getragenen Gegenstandes verbraucht."
 
 #. Key:	11
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -10336,7 +10336,7 @@ msgstr "Stumpfwaffen "
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,DQWJ"
 msgid "当前玩家："
-msgstr "Aktueller Spieler:"
+msgstr "Aktuelle Spieler:"
 
 #. Key:	Drink
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10700,7 +10700,7 @@ msgstr "Beziehung:"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,GXMD"
 msgid "感谢名单"
-msgstr "danke liste"
+msgstr "Dankesliste"
 
 #. Key:	GXZC
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10819,7 +10819,7 @@ msgstr "Blacklist-Verwaltung"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,HMDWZ"
 msgid "黑名单:"
-msgstr "schwarze Liste:"
+msgstr "User Blacklist:"
 
 #. Key:	HMZL
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11449,14 +11449,14 @@ msgstr "Es existiert bereits eine ungültige Rolle oder ID mit demselben Namen"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,NBJRHMD"
 msgid "你被此服务器加入了黑名单中！"
-msgstr "Sie wurden von diesem Server auf die schwarze Liste gesetzt!"
+msgstr "Sie wurden von diesem Server auf die Blacklist gesetzt!"
 
 #. Key:	NBTCLFWQ
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,NBTCLFWQ"
 msgid "你被踢出了服务器！"
-msgstr "Du wurdest vom Server geworfen!"
+msgstr "Sie wurden vom Server entfernt!"
 
 #. Key:	ND
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11946,7 +11946,7 @@ msgstr "Berechtigung aufheben"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,QYBY"
 msgid "缺少枪油"
-msgstr "Mangel an Waffenöl"
+msgstr "zu wenig Waffenöl"
 
 #. Key:	R
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12233,14 +12233,14 @@ msgstr "Frühling"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SQ"
 msgid "授权"
-msgstr "autorisiert"
+msgstr "zugelassen"
 
 #. Key:	SQ01
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SQ01"
 msgid "授权"
-msgstr "autorisiert"
+msgstr "zugelassen"
 
 #. Key:	SR
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12520,7 +12520,7 @@ msgstr "Verlassen"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,TCXX"
 msgid "踢出"
-msgstr "rausschmeißen"
+msgstr "Spieler entfernen"
 
 #. Key:	TD
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -12562,7 +12562,7 @@ msgstr "Bitte geben Sie einen Namen ein!"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,TJDHMD"
 msgid "添加到黑名单"
-msgstr "zur Blacklist hinzufügen"
+msgstr "zur Schwarzen Liste hinzufügen"
 
 #. Key:	TLD
 #. SourceLocation:	/Game/LocalizationText/UI.UI
