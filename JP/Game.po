@@ -326,14 +326,14 @@ msgstr "IA_FireMode"
 #: /Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_7.TipMessage_41_0D1B7B6342180F0BD1D386A6C8ADE0B3
 msgctxt ",0C797E8E40ACBD720B57B4B33B461ADD"
 msgid "疟疾几率"
-msgstr "マラリアの可能性"
+msgstr "食中毒の可能性"
 
 #. Key:	0D2F9EF34F24FE1D4DE8229B65941BC4
 #. SourceLocation:	/Game/Blueprint/ACF/Player/HDCK_CharacterBP.Default__HDCK_CharacterBP_C.TimeBuffDetail(0).TimeBuffDetail.TipMessage_56_5402F47A4785659B27440099C7CA676D
 #: /Game/Blueprint/ACF/Player/HDCK_CharacterBP.Default__HDCK_CharacterBP_C.TimeBuffDetail(0).TimeBuffDetail.TipMessage_56_5402F47A4785659B27440099C7CA676D
 msgctxt ",0D2F9EF34F24FE1D4DE8229B65941BC4"
 msgid "疟疾，减少耐力上限和回复"
-msgstr "マラリア、スタミナ上限と回復の減少"
+msgstr "食中毒、スタミナ上限と回復の減少"
 
 #. Key:	0EAC4CF84F900A49A09DE09F240307B5
 #. SourceLocation:	/Game/Blueprint/UMG/WBP_BaseCharacter.WBP_BaseCharacter_C:WidgetTree.YZKX.Text
@@ -865,7 +865,7 @@ msgstr "すべて"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_43.Text
 msgctxt ",257D695A47DEEA3FFC5862BD1084FDE4"
 msgid "增加疟疾"
-msgstr "マラリアの増加"
+msgstr "食中毒の増加"
 
 #. Key:	258B8DCA4A30A8C003E35AA9CED8333D
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_33.In Text
@@ -7767,7 +7767,7 @@ msgstr "キノコ"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F60"
 msgid "有效治疗疟疾"
-msgstr "マラリアを効果的に治療します"
+msgstr "食中毒を効果的に治療します"
 
 #. Key:	F61
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8950,7 +8950,7 @@ msgstr "胃薬"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,T14"
 msgid "治疗疟疾"
-msgstr "マラリアを治療します"
+msgstr "食中毒を治療します"
 
 #. Key:	T15
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9363,7 +9363,7 @@ msgstr "自家製手榴弾"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W44"
 msgid "沙鹰"
-msgstr "サンドイーグル"
+msgstr "デザートイーグル"
 
 #. Key:	W45
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9482,7 +9482,7 @@ msgstr "主に石を割るために使用され、必要に応じて自己防衛
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,01"
 msgid "当食物新鲜度开始变黄，吃下去可能会感染疟疾，新鲜度越低感染的可能性越大。"
-msgstr "食品の鮮度が黄色くなり始めると、それを食べた後にマラリアに感染する可能性があり、鮮度が低いほど感染の可能性が高くなります。"
+msgstr "食品の鮮度が黄色くなり始めると、それを食べた後に食中毒になる可能性があり、鮮度が低いほど可能性が高くなります。"
 
 #. Key:	02
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -10441,7 +10441,7 @@ msgstr "装備"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,ETip"
 msgid "拾取 "
-msgstr "取る："
+msgstr "取る　"
 
 #. Key:	EU
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10616,7 +10616,7 @@ msgstr "反射品質"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Ftip"
 msgid "使用"
-msgstr "使用する："
+msgstr "使用する　"
 
 #. Key:	FX
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11540,7 +11540,7 @@ msgstr "初心者ギフトパック"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,NJ"
 msgid "疟疾"
-msgstr "マラリア"
+msgstr "食中毒"
 
 #. Key:	NLSX
 #. SourceLocation:	/Game/LocalizationText/UI.UI
