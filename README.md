@@ -5,6 +5,7 @@ This repository contains .po  files, with text of the game.
 1) You should create an account on GitHub.
 2) Access your language file and open the Game.po file.
 3) You just will need to change the text in **msgstr** line.
+   **Never forget** the **" "** between the text.
 4) When you finish, make a pull-request (PR).
 5) if everything is correct, it'll be merged.
 
