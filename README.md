@@ -12,7 +12,7 @@ This repository contains .po  files, with text of the game.
 It is not recommended to use Poedit anymore. It is automatically performing some changes to the code lines 
 and this can lead to many problems over time.
 
-## The filename and extension (Game.po) can't be changed.
+**The filename and extension (Game.po) can't be changed.**
 
 ## Credits
 Anyone is welcome to translate these files, and your willingness to help us is very appreciated.
