@@ -1,59 +1,60 @@
-﻿# Game Swedish translation.
 # Copyright Epic Games, Inc. All Rights Reserved.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
 "POT-Creation-Date: 2023-03-11 03:41\n"
-"PO-Revision-Date: 2023-03-11 03:41\n"
+"PO-Revision-Date: 2023-03-15 10:35+0100\n"
+"Last-Translator: \n"
 "Language-Team: \n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
 
 #. Key:	000DC06C4161350ADE645894FED5BEE2
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/OutStairs_Base_Wood.Default__OutStairs_Base_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 #: /Game/HDCKBuildingSystem/MeshBP/OutStairs_Base_Wood.Default__OutStairs_Base_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 msgctxt ",000DC06C4161350ADE645894FED5BEE2"
 msgid "建房必备"
-msgstr "Nödvändigt för att bygga ett hus"
+msgstr "Nödvändigt för att bygga hus"
 
 #. Key:	005986EF48789316B83C53885CBD1FB8
 #. SourceLocation:	/Game/Blueprint/UMG/Inventory/WBP_UseMenu.WBP_UseMenu_C:WidgetTree.TextBlock_9.Text
 #: /Game/Blueprint/UMG/Inventory/WBP_UseMenu.WBP_UseMenu_C:WidgetTree.TextBlock_9.Text
 msgctxt ",005986EF48789316B83C53885CBD1FB8"
 msgid "清洗"
-msgstr "att rengöra"
+msgstr "Rengöra"
 
 #. Key:	00986F3D49F50B3B8F6203A93FD5D846
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_SPX.WBP_SPX_C:WidgetTree.development.Text
 #: /Game/Blueprint/UMG/Furniture/WBP_SPX.WBP_SPX_C:WidgetTree.development.Text
 msgctxt ",00986F3D49F50B3B8F6203A93FD5D846"
 msgid "发育"
-msgstr "utveckling"
+msgstr "Skördeavkastning"
 
 #. Key:	01471E2242A1A96EA568E09F19D72C20
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(13 - Value).DisplayNameMap
 #: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(13 - Value).DisplayNameMap
 msgctxt ",01471E2242A1A96EA568E09F19D72C20"
 msgid "GuardRail"
-msgstr "GuardRail"
+msgstr "Skyddsräcke"
 
 #. Key:	014F3B6240A63915DEDF3CA9D50249E4
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_24.Text
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_24.Text
 msgctxt ",014F3B6240A63915DEDF3CA9D50249E4"
 msgid "心情-"
-msgstr "Känsla-"
+msgstr "Humör-"
 
 #. Key:	017C13554A303CDB96F5DAA161E199F6
 #. SourceLocation:	/Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_8.TipMessage_41_0D1B7B6342180F0BD1D386A6C8ADE0B3
 #: /Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_8.TipMessage_41_0D1B7B6342180F0BD1D386A6C8ADE0B3
 msgctxt ",017C13554A303CDB96F5DAA161E199F6"
 msgid "获取技能经验"
-msgstr "få skicklighetserfarenhet"
+msgstr "Öka skicklighetserfarenhet"
 
 #. Key:	021FAEDD4FF6A1D1D800BF83F7A7C15E
 #. SourceLocation:	/Game/Blueprint/UMG/EscMenu/WBP_Lumen.WBP_Lumen_C:WidgetTree.ShowTex.Text
@@ -74,14 +75,14 @@ msgstr "20"
 #: /Game/Blueprint/ACF/Item/Weapon/Bow/BP_ArrowBase.BP_ArrowBase_C:ExecuteUbergraph_BP_ArrowBase [Script Bytecode]
 msgctxt ",029F18BD46A2F021A1DFC69AEB53CA02"
 msgid "回收失败！"
-msgstr "Återställning misslyckades!"
+msgstr "Inga pilar återfunna!"
 
 #. Key:	0346655D46C4AF76A1D1B3943060F0AB
 #. SourceLocation:	/Game/Blueprint/UMG/EscMenu/WBP_ScreenSetting.WBP_ScreenSetting_C:WidgetTree.WBP_NIS.Show In Text
 #: /Game/Blueprint/UMG/EscMenu/WBP_ScreenSetting.WBP_ScreenSetting_C:WidgetTree.WBP_NIS.Show In Text
 msgctxt ",0346655D46C4AF76A1D1B3943060F0AB"
 msgid "NIS锐化"
-msgstr "NIS skärpning"
+msgstr "NVIDIA NIS skärpningsteknik"
 
 #. Key:	03C4AFA9436A2A9CEA6F87A9A52041FC
 #. SourceLocation:	/Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(13 - Value).DisplayNameMap
@@ -109,21 +110,21 @@ msgstr "Serverinställningar:"
 #: /Game/Blueprint/UMG/Furniture/WBP_CSZ.WBP_CSZ_C:WidgetTree.TextBlock_2.Text
 msgctxt ",0476690A4D67DD3DCB9A5DA167631A0D"
 msgid "取水口"
-msgstr "vattenintag"
+msgstr "Vattenanslutning"
 
 #. Key:	047920794D70C05D154C1894B872F768
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/Wall_Base.Default__Wall_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 #: /Game/HDCKBuildingSystem/Blueprints/Base/Wall_Base.Default__Wall_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",047920794D70C05D154C1894B872F768"
 msgid "提示信息"
-msgstr "snabb information"
+msgstr "Snabba tips"
 
 #. Key:	04FCF26444412C856D5A75A17C9A112E
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_StoneFire.WBP_StoneFire_C:WidgetTree.WBP_AddButton.ToolTipText
 #: /Game/Blueprint/UMG/Furniture/WBP_StoneFire.WBP_StoneFire_C:WidgetTree.WBP_AddButton.ToolTipText
 msgctxt ",04FCF26444412C856D5A75A17C9A112E"
 msgid "拖入可燃物，比如树枝，原木"
-msgstr "Dra in brännbart material som kvistar, stockar"
+msgstr "Dra in brännbart material."
 
 #. Key:	051EB7E247B1A161EC90F1903338C060
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/WBP_SaveSlot.WBP_SaveSlot_C:WidgetTree.Time.Text
@@ -144,7 +145,7 @@ msgstr "Bygg din egen arbetsbänk och tillverka plankor i arbetsbänken"
 #: /Game/HDCKBuildingSystem/Blueprints/Base/Window_Base.Default__Window_Base_C.BuildInfo.Name_38_B9A5B2DC4FBEF03FBCA85592B802C50C
 msgctxt ",054ACD344342564AB89C4D9E4057BE66"
 msgid "家具"
-msgstr "möbel"
+msgstr "Möbler"
 
 #. Key:	05741E524C1BBA39C899EFACD5136E5E
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Food/AutoCreate/BP_Food_GYC.Default__BP_Food_GYC_C.ItemInfo.Name
@@ -165,21 +166,21 @@ msgstr "1"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_5.In Text
 msgctxt ",067DCE7B4743216420B91882A3EB41B2"
 msgid "铁双手刀"
-msgstr "järn hand kniv"
+msgstr "Järnsvärd"
 
 #. Key:	069FBCBF40327BC41FD9779E8015C85B
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_73.In Text
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_73.In Text
 msgctxt ",069FBCBF40327BC41FD9779E8015C85B"
 msgid "石油提取器核心"
-msgstr "oljeutsugskärna"
+msgstr "Oljeextraktorkärna"
 
 #. Key:	06DE10CA423346DE4BF690AA53181AEE
 #. SourceLocation:	/Game/Blueprint/UMG/Inventory/WBP_ItemToolTip.WBP_ItemToolTip_C:WidgetTree.YZKX.Text
 #: /Game/Blueprint/UMG/Inventory/WBP_ItemToolTip.WBP_ItemToolTip_C:WidgetTree.YZKX.Text
 msgctxt ",06DE10CA423346DE4BF690AA53181AEE"
 msgid "硬直抗性"
-msgstr "Styvhetsbeständighet"
+msgstr "Slagtålighet"
 
 #. Key:	07183D8644DE86CCA77C28A04ABFD006
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_12.Text
@@ -193,7 +194,7 @@ msgstr "Vapentillverkning+"
 #: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(21 - Value).DisplayNameMap
 msgctxt ",071CC0AD44E91A58C8A6BBA56F0A6884"
 msgid "OutStairs"
-msgstr "Utanför"
+msgstr "Utomhus"
 
 #. Key:	071CD535407A8CC1A78DFCAD6CB80596
 #. SourceLocation:	/Game/Blueprint/UMG/Inventory/WBP_DropShowButton.WBP_DropShowButton_C:WidgetTree.Num.Text
@@ -207,7 +208,7 @@ msgstr "1"
 #: /Game/Blueprint/UMG/Furniture/WBP_PZX.WBP_PZX_C:WidgetTree.TextBlock_115.Text
 msgctxt ",083B1BA040DBE2557CB0B19B0D70C5E1"
 msgid "铲掉"
-msgstr "skotta av"
+msgstr "Rycka upp"
 
 #. Key:	08932B364A170FBCBE3BC5A1DD392BF1
 #. SourceLocation:	/Game/Blueprint/UMG/InteractiveMessage/Interactive.Interactive.DisplayNameMap(3 - Value).DisplayNameMap
@@ -228,14 +229,14 @@ msgstr "OCH"
 #: /Game/HDCKBuildingSystem/Blueprints/Base/Furniture_Inventory.Default__Furniture_Inventory_C.BuildInfo.Name_38_B9A5B2DC4FBEF03FBCA85592B802C50C
 msgctxt ",09026D324DDC6E57C1D28C93F1332CDC"
 msgid "家具"
-msgstr "möbel"
+msgstr "Möbler"
 
 #. Key:	0928DBE0408A27E207C2D29145B40B53
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_17.Text
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_17.Text
 msgctxt ",0928DBE0408A27E207C2D29145B40B53"
 msgid "满状态+"
-msgstr "full status+"
+msgstr "Övergripande status"
 
 #. Key:	096D56544FDEF1DB6D35EF95D685CC18
 #. SourceLocation:	/Game/Blueprint/ACF/Player/HDCK_CharacterBP.HDCK_CharacterBP_C:ExecuteUbergraph_HDCK_CharacterBP [Script Bytecode]
@@ -256,7 +257,7 @@ msgstr "Dag 401"
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_ZJ.Furniture_ZJ_C:ExecuteUbergraph_Furniture_ZJ [Script Bytecode]
 msgctxt ",0A1B65064219DCA393D97DADDE5CB235"
 msgid "取出饲料"
-msgstr "ta ut fodret"
+msgstr "Avlägsna"
 
 #. Key:	0A8AEE964987DE886D432BA25A0AD042
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(17 - Value).DisplayNameMap
@@ -284,28 +285,28 @@ msgstr "Loggar ut, vänta..."
 #: /Game/HDCKBuildingSystem/MeshBP/XJ_DL_Base.Default__XJ_DL_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",0B721077401A1342BE69898BCF8EAF7B"
 msgid "地基或地板"
-msgstr "grund eller golv"
+msgstr "Grund eller golv"
 
 #. Key:	0B7F4C1B45ADAE2851E196870F73FE68
 #. SourceLocation:	/Game/Blueprint/UMG/WBP_BaseCharacter.WBP_BaseCharacter_C:WidgetTree.KRX.Text
 #: /Game/Blueprint/UMG/WBP_BaseCharacter.WBP_BaseCharacter_C:WidgetTree.KRX.Text
 msgctxt ",0B7F4C1B45ADAE2851E196870F73FE68"
 msgid "抗热性"
-msgstr "värmebeständighet"
+msgstr "Värmebeständighet"
 
 #. Key:	0B9FB4204723F5010819DCAE9A4DD653
 #. SourceLocation:	/Game/Blueprint/UMG/EscMenu/WBP_ScreenSetting.WBP_ScreenSetting_C:WidgetTree.WBP_Dyna.Show In Text
 #: /Game/Blueprint/UMG/EscMenu/WBP_ScreenSetting.WBP_ScreenSetting_C:WidgetTree.WBP_Dyna.Show In Text
 msgctxt ",0B9FB4204723F5010819DCAE9A4DD653"
 msgid "动态分辨率"
-msgstr "dynamisk upplösning"
+msgstr "Dynamisk upplösning"
 
 #. Key:	0BA9AD014ECF42063786BC8234484D20
 #. SourceLocation:	/Game/Blueprint/UMG/TimeUI/WBP_Ing.WBP_Ing_C:WidgetTree.TextBlock_1.Text
 #: /Game/Blueprint/UMG/TimeUI/WBP_Ing.WBP_Ing_C:WidgetTree.TextBlock_1.Text
 msgctxt ",0BA9AD014ECF42063786BC8234484D20"
 msgid "搜索中..."
-msgstr "sökande..."
+msgstr "Söker..."
 
 #. Key:	0BDFF3E44ADF1D4E97787E869B4DF710
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_StoneFire.WBP_StoneFire_C:WidgetTree.FireTIme.Text
@@ -326,21 +327,21 @@ msgstr "IA_FireMode"
 #: /Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_7.TipMessage_41_0D1B7B6342180F0BD1D386A6C8ADE0B3
 msgctxt ",0C797E8E40ACBD720B57B4B33B461ADD"
 msgid "疟疾几率"
-msgstr "risk för malaria"
+msgstr "Risk för malaria"
 
 #. Key:	0D2F9EF34F24FE1D4DE8229B65941BC4
 #. SourceLocation:	/Game/Blueprint/ACF/Player/HDCK_CharacterBP.Default__HDCK_CharacterBP_C.TimeBuffDetail(0).TimeBuffDetail.TipMessage_56_5402F47A4785659B27440099C7CA676D
 #: /Game/Blueprint/ACF/Player/HDCK_CharacterBP.Default__HDCK_CharacterBP_C.TimeBuffDetail(0).TimeBuffDetail.TipMessage_56_5402F47A4785659B27440099C7CA676D
 msgctxt ",0D2F9EF34F24FE1D4DE8229B65941BC4"
 msgid "疟疾，减少耐力上限和回复"
-msgstr "Malaria, minskad uthållighet och regenerering"
+msgstr "Malaria ger minskad uthållighet och regenerering"
 
 #. Key:	0EAC4CF84F900A49A09DE09F240307B5
 #. SourceLocation:	/Game/Blueprint/UMG/WBP_BaseCharacter.WBP_BaseCharacter_C:WidgetTree.YZKX.Text
 #: /Game/Blueprint/UMG/WBP_BaseCharacter.WBP_BaseCharacter_C:WidgetTree.YZKX.Text
 msgctxt ",0EAC4CF84F900A49A09DE09F240307B5"
 msgid "硬直抗性"
-msgstr "Styvhetsbeständighet"
+msgstr "Slagtålighet"
 
 #. Key:	0EE4296D4AE97E2F2B01F4A0EC0AB712
 #. SourceLocation:	/Game/Blueprint/ACF/Player/HDCK_GameState.Default__HDCK_GameState_C:Team Manager.Teams(0 - Value).Teams.DisplayName
@@ -354,7 +355,7 @@ msgstr "Lag 1"
 #: /Game/Blueprint/ACF/Item/Weapon/ACFGunBase_Shotgun.Default__ACFGunBase_Shotgun_C.ItemInfo.Name
 msgctxt ",0F76833445170B88C4F8CD8F4B1A28D2"
 msgid "870AC霰弹枪"
-msgstr "870AC hagelgevär"
+msgstr "870AC Hagelgevär"
 
 #. Key:	0FC7B32D443EA06EF7F13BB5DC4C9447
 #. SourceLocation:	/Game/Blueprint/ACF/Tutorial/WBP_TutorialTip5.WBP_TutorialTip5_C:WidgetTree.TextBlock_2.Text
@@ -396,28 +397,28 @@ msgstr "90/100"
 #: /Game/HDCKBuildingSystem/MeshBP/XJ_DL_Base.Default__XJ_DL_Base_C.BuildInfo.Name_38_B9A5B2DC4FBEF03FBCA85592B802C50C
 msgctxt ",11958DD049A55915AB9637949AF822B7"
 msgid "吸顶灯"
-msgstr "taklampa"
+msgstr "Taklampa"
 
 #. Key:	11C229CA4489237DFCD511B3821607D3
 #. SourceLocation:	/Game/Blueprint/UMG/Inventory/WBP_ItemToolTip.WBP_ItemToolTip_C:WidgetTree.FY.Text
 #: /Game/Blueprint/UMG/Inventory/WBP_ItemToolTip.WBP_ItemToolTip_C:WidgetTree.FY.Text
 msgctxt ",11C229CA4489237DFCD511B3821607D3"
 msgid "防御"
-msgstr "försvar"
+msgstr "Försvar"
 
 #. Key:	11F3AB6849DC8617F502B08F7704F966
 #. SourceLocation:	/Game/HDCKBuildingSystem/Table/E_SelectTypeChild.E_SelectTypeChild.DisplayNameMap(8 - Value).DisplayNameMap
 #: /Game/HDCKBuildingSystem/Table/E_SelectTypeChild.E_SelectTypeChild.DisplayNameMap(8 - Value).DisplayNameMap
 msgctxt ",11F3AB6849DC8617F502B08F7704F966"
 msgid "RoofEnd"
-msgstr "RoofEnde"
+msgstr "Takände"
 
 #. Key:	1213557B462F0178A0FFDBB916902739
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_28.Text
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_28.Text
 msgctxt ",1213557B462F0178A0FFDBB916902739"
 msgid "时间过去一个小时"
-msgstr "tiden gick en timme"
+msgstr "Tiden +1 timme"
 
 #. Key:	124E388D4F52DAC525AAD8B98D669128
 #. SourceLocation:	/Game/Blueprint/UMG/ScreenMessage/WBP_CarMessage.WBP_CarMessage_C:WidgetTree.Gear.Text
@@ -445,7 +446,7 @@ msgstr "Snö"
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_JoinGame.WBP_JoinGame_C:WidgetTree.WBP_Join.In Text
 msgctxt ",13214985457425F5E5AE71A38AC18920"
 msgid "加入"
-msgstr "delta i"
+msgstr "Anslut"
 
 #. Key:	1382DB5845EF08EFE9234285EB77306A
 #. SourceLocation:	/Game/Blueprint/UMG/ChatSystem/WBP_ChatMessage.WBP_ChatMessage_C:WidgetTree.TextBlock.Text
@@ -459,14 +460,14 @@ msgstr "123"
 #: /Game/Blueprint/UMG/Furniture/WBP_YZ_Water.WBP_YZ_Water_C:WidgetTree.TextBlock_0.Text
 msgctxt ",13B3716B406E9569507DF4AD56A4F16C"
 msgid "注水口"
-msgstr "Vattenintag"
+msgstr "Vattenanslutning"
 
 #. Key:	1470933545C7CA2F2EB2BCA1D91B3008
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_71.In Text
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_71.In Text
 msgctxt ",1470933545C7CA2F2EB2BCA1D91B3008"
 msgid "制药仪"
-msgstr "Farmaceutiskt instrument"
+msgstr "Medicinskt Lab"
 
 #. Key:	147BD87446DA956F29E07B807DB1FEF0
 #. SourceLocation:	/Game/Blueprint/UMG/UIBase/WBP_BookTipButton.Default__WBP_BookTipButton_C.Text
@@ -480,7 +481,7 @@ msgstr "LAGER"
 #: /Game/Blueprint/UMG/God/WBP_ItemList.WBP_ItemList_C:WidgetTree.TextBlock_3.Text
 msgctxt ",14F06F9A4AAA6F09FF2463AF9111B8F5"
 msgid "道具"
-msgstr "verktyg"
+msgstr "Verktyg"
 
 #. Key:	154ED8D64C85BD6A6CC743B96F98EB2D
 #. SourceLocation:	/Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_0.TipMessage_41_0D1B7B6342180F0BD1D386A6C8ADE0B3
@@ -508,7 +509,7 @@ msgstr "Modell 02"
 #: /Game/Blueprint/ACF/Data/TableAsset/WeaponTable.WeaponTable.钢棍.ItemInfo_66_F92A1A3B448C3413FD56918B4BFB9241.Description
 msgctxt ",15D9FC6D405518521E6F85AE7A97F9E9"
 msgid "露茜儿++"
-msgstr "Lucie++"
+msgstr "Lucile++"
 
 #. Key:	1642BB7A48E5FE6EA66338A6FC29C43C
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/QT/BP_GunAccessory_CF_QT01.Default__BP_GunAccessory_CF_QT01_C.ItemInfo.Description
@@ -522,7 +523,7 @@ msgstr "Modell 01"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_66.In Text
 msgctxt ",16BC7F2545C7B3F99940CC83C9FC978C"
 msgid "青霉素"
-msgstr "penicillin"
+msgstr "Penicillin"
 
 #. Key:	17B6B9D34796D38A9172D2AB4AFFD345
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_JoinGame.WBP_JoinGame_C:WidgetTree.WBP_Search.In Text
@@ -536,49 +537,49 @@ msgstr "Sök"
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_MakeBase.Default__Furniture_MakeBase_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",189175F84DA6BB896C3A64A385CB44CA"
 msgid "地基或地板"
-msgstr "grund eller golv"
+msgstr "Grund eller Golv"
 
 #. Key:	18D5F7B74B0E79F884A695A19024F3EF
 #. SourceLocation:	/Game/Blueprint/ACF/Tutorial/WBP_TutorialTip0.WBP_TutorialTip0_C:WidgetTree.TextBlock.Text
 #: /Game/Blueprint/ACF/Tutorial/WBP_TutorialTip0.WBP_TutorialTip0_C:WidgetTree.TextBlock.Text
 msgctxt ",18D5F7B74B0E79F884A695A19024F3EF"
 msgid "按下空格跳过或翻越障碍物"
-msgstr "Tryck på mellanslag för att hoppa eller rulla över hinder"
+msgstr "Tryck på SPACE för att hoppa eller klättra över hinder"
 
 #. Key:	194EB3E8475C76C56AC9DCB7390C606E
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/LongSharp/BP_LongSharpBase.Default__BP_LongSharpBase_C.ItemInfo.Name
 #: /Game/Blueprint/ACF/Item/Weapon/LongSharp/BP_LongSharpBase.Default__BP_LongSharpBase_C.ItemInfo.Name
 msgctxt ",194EB3E8475C76C56AC9DCB7390C606E"
 msgid "长的双手刀"
-msgstr "lång tvåhandskniv"
+msgstr "Tvåhands-svärd"
 
 #. Key:	19AC3E7F4171121FDAC351BEE6BAD32D
 #. SourceLocation:	/Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_1.TipMessage_41_0D1B7B6342180F0BD1D386A6C8ADE0B3
 #: /Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_1.TipMessage_41_0D1B7B6342180F0BD1D386A6C8ADE0B3
 msgctxt ",19AC3E7F4171121FDAC351BEE6BAD32D"
 msgid "负重"
-msgstr "ladda"
+msgstr "Ladda"
 
 #. Key:	19C478A9460A7FCF7A9C9A987249F571
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_RYFDJ.WBP_RYFDJ_C:WidgetTree.TextRY.Text
 #: /Game/Blueprint/UMG/Furniture/WBP_RYFDJ.WBP_RYFDJ_C:WidgetTree.TextRY.Text
 msgctxt ",19C478A9460A7FCF7A9C9A987249F571"
 msgid "当前燃料：10/50L"
-msgstr "Nuvarande bränsle: 10/50L"
+msgstr "Bränsle: 10/50L"
 
 #. Key:	1A0854374F1628CECF3A55984034F8FF
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_70.In Text
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_70.In Text
 msgctxt ",1A0854374F1628CECF3A55984034F8FF"
 msgid "精细面料"
-msgstr "fina tyger"
+msgstr "Fint tyg"
 
 #. Key:	1A1D133A4285656BE0D9CF96D5BF7ECD
 #. SourceLocation:	/Game/Blueprint/UMG/Inventory/WBP_ItemToolTip.WBP_ItemToolTip_C:WidgetTree.FZX.Text
 #: /Game/Blueprint/UMG/Inventory/WBP_ItemToolTip.WBP_ItemToolTip_C:WidgetTree.FZX.Text
 msgctxt ",1A1D133A4285656BE0D9CF96D5BF7ECD"
 msgid "防抓性"
-msgstr "Repfri"
+msgstr "Reptålig"
 
 #. Key:	1A1FCEF24CE7BF18B46A2488B22B1E7D
 #. SourceLocation:	/Game/Blueprint/UMG/InteractiveMessage/Interactive.Interactive.DisplayNameMap(2 - Value).DisplayNameMap
@@ -599,28 +600,28 @@ msgstr "information"
 #: /Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/E_AimType.E_AimType.DisplayNameMap(1 - Value).DisplayNameMap
 msgctxt ",1A5943304B1C4E435E9732A73F4A03F5"
 msgid "RedDot"
-msgstr "Röd prick"
+msgstr "Mod: Rödpunktssikte"
 
 #. Key:	1A99018D4B477A08E00FB4931F57A181
 #. SourceLocation:	/Game/Blueprint/UMG/Inventory/WBP_ItemToolTip.WBP_ItemToolTip_C:WidgetTree.TBFY.Text
 #: /Game/Blueprint/UMG/Inventory/WBP_ItemToolTip.WBP_ItemToolTip_C:WidgetTree.TBFY.Text
 msgctxt ",1A99018D4B477A08E00FB4931F57A181"
 msgid "头部防御"
-msgstr "huvudförsvar"
+msgstr "Huvudskydd"
 
 #. Key:	1B30ACD040E901F1C2267D9E5833BBB8
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/Door_Base.Default__Door_Base_C.BuildInfo.TipAdsorbent_45_0277CC26494BF1319349189E27EC6190
 #: /Game/HDCKBuildingSystem/Blueprints/Base/Door_Base.Default__Door_Base_C.BuildInfo.TipAdsorbent_45_0277CC26494BF1319349189E27EC6190
 msgctxt ",1B30ACD040E901F1C2267D9E5833BBB8"
 msgid "无"
-msgstr "ingen"
+msgstr "Ingen"
 
 #. Key:	1B84894446F973C99A4BDCBAD915BF17
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_37.Text
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_37.Text
 msgctxt ",1B84894446F973C99A4BDCBAD915BF17"
 msgid "Zombie进攻"
-msgstr "Zombie attack"
+msgstr "Zombievåg"
 
 #. Key:	1B85FB3F4B6E685DBA702D9EFCF5328A
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_ServerSetting.WBP_ServerSetting_C:WidgetTree.ShowTex.Text
@@ -634,7 +635,7 @@ msgstr "Max antal spelare:"
 #: /Game/Blueprint/ACF/Tutorial/WBP_TutorialTip8.WBP_TutorialTip8_C:WidgetTree.TextBlock_2.Text
 msgctxt ",1B8B871648287619C492CB925DC2E815"
 msgid "使用斧头砍树"
-msgstr "Använd en yxa för att hugga ner ett träd"
+msgstr "Använd en yxa för att hugga ner träd"
 
 #. Key:	1C3DB35D4F2B6E130888F98241FD456F
 #. SourceLocation:	/Game/HDCKBuildingSystem/Table/E_SelectTypeChild.E_SelectTypeChild.DisplayNameMap(10 - Value).DisplayNameMap
@@ -648,21 +649,21 @@ msgstr "Allt"
 #: /Game/Blueprint/UMG/MainUI/StartUIEnum.StartUIEnum.DisplayNameMap(2 - Value).DisplayNameMap
 msgctxt ",1C48FE3F4EC13198BE806B9B56AF1CD4"
 msgid "Setting"
-msgstr "Miljö"
+msgstr "Inställning"
 
 #. Key:	1C53B8C149A4115EE6BD2AAED1889ED4
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_20.Text
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_20.Text
 msgctxt ",1C53B8C149A4115EE6BD2AAED1889ED4"
 msgid "工程学+"
-msgstr "Engineering+"
+msgstr "Ingenjörskonst+"
 
 #. Key:	1C8E2E414E42E2C00C40C680D11AF214
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_Bed.WBP_Bed_C:WidgetTree.TextBlock_140.Text
 #: /Game/Blueprint/UMG/Furniture/WBP_Bed.WBP_Bed_C:WidgetTree.TextBlock_140.Text
 msgctxt ",1C8E2E414E42E2C00C40C680D11AF214"
 msgid "睡觉"
-msgstr "sova"
+msgstr "Sova"
 
 #. Key:	1CAC243149F48B43C8D50F8D440FC9C1
 #. SourceLocation:	/Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(18).Mappings.PlayerMappableOptions.DisplayName
@@ -683,7 +684,7 @@ msgstr "Skjutvapen+"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_11.Text
 msgctxt ",1CD38CEB48E2183EA9E0A3A6604AA514"
 msgid "烹饪+"
-msgstr "matlagning+"
+msgstr "Matlagning+"
 
 #. Key:	1CF0746C40F2A113503AC6AB4357271C
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_ServerSetting.WBP_ServerSetting_C:WidgetTree.ShowTex_3.Text
@@ -711,7 +712,7 @@ msgstr "Modell 01"
 #: /Game/Blueprint/UMG/MainUI/Child/TipCharacter.TipCharacter_C:WidgetTree.TextBlock_107.Text
 msgctxt ",1D7C34834DD7C440C59867B541E1F4EF"
 msgid "确认删除角色吗？"
-msgstr "Är du säker på att ta bort rollen?"
+msgstr "Är du säker på att du vill radera karaktären?"
 
 #. Key:	1E0E1014475CBA9F745970B164487715
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Book/AutoCreate/BP_Book_JXX02.Default__BP_Book_JXX02_C.ItemInfo.Name
@@ -725,35 +726,35 @@ msgstr "Maskinreparation (volym två)"
 #: /Game/Blueprint/UMG/EscMenu/WBP_ControlSetting.WBP_ControlSetting_C:WidgetTree.WBP_SlideMouse_1.Show In Text
 msgctxt ",1E1424C246AA03A9636E0398AD8C1852"
 msgid "开镜鼠标灵敏度"
-msgstr "Omfattning muskänslighet"
+msgstr "Muskänslighet"
 
 #. Key:	1E15A74C4CFCF57B6BF8899EB8A30A50
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Materials/AutoCreate/BP_Mat_Sheep01.Default__BP_Mat_Sheep01_C.ItemInfo.Name
 #: /Game/Blueprint/ACF/Item/Materials/AutoCreate/BP_Mat_Sheep01.Default__BP_Mat_Sheep01_C.ItemInfo.Name
 msgctxt ",1E15A74C4CFCF57B6BF8899EB8A30A50"
 msgid "羊毛"
-msgstr "ull"
+msgstr "Ull"
 
 #. Key:	1E9BEF8048FA538CA273F0868BC0ADCC
 #. SourceLocation:	/Game/Blueprint/UMG/WBP_BaseCharacter.WBP_BaseCharacter_C:WidgetTree.FY.Text
 #: /Game/Blueprint/UMG/WBP_BaseCharacter.WBP_BaseCharacter_C:WidgetTree.FY.Text
 msgctxt ",1E9BEF8048FA538CA273F0868BC0ADCC"
 msgid "防御"
-msgstr "försvar"
+msgstr "Beskydd"
 
 #. Key:	1F99F44C4E0061BF010728B9C1DBDC30
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Ammo/BP_GunAmmoBase.Default__BP_GunAmmoBase_C.ItemInfo.Name
 #: /Game/Blueprint/ACF/Item/Weapon/Gun/Ammo/BP_GunAmmoBase.Default__BP_GunAmmoBase_C.ItemInfo.Name
 msgctxt ",1F99F44C4E0061BF010728B9C1DBDC30"
 msgid "箭矢基类"
-msgstr "Pil basklass"
+msgstr "Piltyp"
 
 #. Key:	2011D93346060F727514E3B743DC3280
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_87.In Text
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_87.In Text
 msgctxt ",2011D93346060F727514E3B743DC3280"
 msgid "钢稿"
-msgstr "ståldrag"
+msgstr "Stålhacka"
 
 #. Key:	202EDB70475FF7E9B7BA48A409EA5344
 #. SourceLocation:	/Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(14).Mappings.PlayerMappableOptions.DisplayName
@@ -767,21 +768,21 @@ msgstr "IA_OpenMap"
 #: /Game/HDCKBuildingSystem/Blueprints/Base/Window_Base.Default__Window_Base_C.BuildInfo.TipAdsorbent_45_0277CC26494BF1319349189E27EC6190
 msgctxt ",205BFA65485E325C946DE58373EA14ED"
 msgid "无"
-msgstr "ingen"
+msgstr "Ingen"
 
 #. Key:	2106FC62413F2CDFB6EC42B1F1F2C390
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_CarInventory01.WBP_CarInventory01_C:WidgetTree.TextBlock_84.Text
 #: /Game/Blueprint/UMG/Furniture/WBP_CarInventory01.WBP_CarInventory01_C:WidgetTree.TextBlock_84.Text
 msgctxt ",2106FC62413F2CDFB6EC42B1F1F2C390"
 msgid "耐久度："
-msgstr "Varaktighet:"
+msgstr "Skick:"
 
 #. Key:	2191E6F14098A0C04EFC4FA4B26ECAE8
 #. SourceLocation:	/Game/Blueprint/UMG/ScreenMessage/WBP_GunMessage.WBP_GunMessage_C:ExecuteUbergraph_WBP_GunMessage [Script Bytecode]
 #: /Game/Blueprint/UMG/ScreenMessage/WBP_GunMessage.WBP_GunMessage_C:ExecuteUbergraph_WBP_GunMessage [Script Bytecode]
 msgctxt ",2191E6F14098A0C04EFC4FA4B26ECAE8"
 msgid "单发"
-msgstr "Ett enda skott"
+msgstr "Enkelskottsläge"
 
 #. Key:	224244E146D5DA4CDA33559117B53DEF
 #. SourceLocation:	/Game/Blueprint/UMG/WBP_ScreenMessage1.WBP_ScreenMessage1_C:WidgetTree.TextBlock_181.Text
@@ -795,21 +796,21 @@ msgstr "Flik"
 #: /Game/Blueprint/ACF/Item/Weapon/Spear/BP_SpearShoot_Wood.Default__BP_SpearShoot_Wood_C.ItemInfo.Name
 msgctxt ",2255CAED4589F1456518B8BE7B3A195D"
 msgid "木矛"
-msgstr "träspjut"
+msgstr "Träspjut"
 
 #. Key:	22C074F44EED2C76F551E9A06B6F8261
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(1 - Value).DisplayNameMap
 #: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(1 - Value).DisplayNameMap
 msgctxt ",22C074F44EED2C76F551E9A06B6F8261"
 msgid "VerticalBeam"
-msgstr "VerticalBeam"
+msgstr "Vertikal balk"
 
 #. Key:	22CFC8EA45FAA84098796A9EE5C5D49A
 #. SourceLocation:	/Game/Blueprint/UMG/Make/WBP_MakeDetailShow.WBP_MakeDetailShow_C:WidgetTree.KRX.Text
 #: /Game/Blueprint/UMG/Make/WBP_MakeDetailShow.WBP_MakeDetailShow_C:WidgetTree.KRX.Text
 msgctxt ",22CFC8EA45FAA84098796A9EE5C5D49A"
 msgid "抗热性"
-msgstr "värmebeständighet"
+msgstr "Värmebeständighet"
 
 #. Key:	2308D6F3490886F47608A29FECC708F2
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Book/AutoCreate/BP_Book_JXX05.Default__BP_Book_JXX05_C.ItemInfo.Name
@@ -830,7 +831,7 @@ msgstr "Bär föremål"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_42.Text
 msgctxt ",233D5A434A78C427C610EC8FB48C8ED1"
 msgid "击倒增加"
-msgstr "Knockdown ökning"
+msgstr "Öka Knockdown"
 
 #. Key:	234AAE934EEC76E08969F3B29B5052DE
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/QT/BP_GunAccessory_JJ_QT02.Default__BP_GunAccessory_JJ_QT02_C.ItemInfo.Description
@@ -844,7 +845,7 @@ msgstr "Modell 02"
 #: /Game/Blueprint/ACF/Item/Weapon/LongBlunt/BP_LongBluntStickBase.Default__BP_LongBluntStickBase_C.ItemInfo.Name
 msgctxt ",2445515F40498BB2306FBB99F4C08EA8"
 msgid "长的双手刀"
-msgstr "lång tvåhandskniv"
+msgstr "Tvåhandssvärd"
 
 #. Key:	24791B5F496A7379DD1A5DABE8249766
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_24.In Text
@@ -865,42 +866,42 @@ msgstr "Allt"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_43.Text
 msgctxt ",257D695A47DEEA3FFC5862BD1084FDE4"
 msgid "增加疟疾"
-msgstr "ökad malaria"
+msgstr "Maleria >> Öka"
 
 #. Key:	258B8DCA4A30A8C003E35AA9CED8333D
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_33.In Text
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_33.In Text
 msgctxt ",258B8DCA4A30A8C003E35AA9CED8333D"
 msgid "砖块"
-msgstr "tegelstenar"
+msgstr "Tegelsten"
 
 #. Key:	25C5D7934EF50D8F3DF87F80A0AA0E88
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/HandGuard_Base.Default__HandGuard_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 #: /Game/HDCKBuildingSystem/Blueprints/Base/HandGuard_Base.Default__HandGuard_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",25C5D7934EF50D8F3DF87F80A0AA0E88"
 msgid "提示信息"
-msgstr "snabb information"
+msgstr "Snabba Tips"
 
 #. Key:	264F21F94A312BE3982CE79C37D102D3
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_LoadGame.WBP_LoadGame_C:WidgetTree.TextBlock.Text
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_LoadGame.WBP_LoadGame_C:WidgetTree.TextBlock.Text
 msgctxt ",264F21F94A312BE3982CE79C37D102D3"
 msgid "恢复存档"
-msgstr "återställa arkivet"
+msgstr "Ladda sparat spel"
 
 #. Key:	269B80324FC87D5B8DEDDDB22B6B7A09
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_42.In Text
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_42.In Text
 msgctxt ",269B80324FC87D5B8DEDDDB22B6B7A09"
 msgid "铁斧"
-msgstr "järnyxa"
+msgstr "Järnyxa"
 
 #. Key:	26CB1E6648D1B9871E000B8167164F09
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_SPX.WBP_SPX_C:WidgetTree.TextBlock.Text
 #: /Game/Blueprint/UMG/Furniture/WBP_SPX.WBP_SPX_C:WidgetTree.TextBlock.Text
 msgctxt ",26CB1E6648D1B9871E000B8167164F09"
 msgid "灌溉"
-msgstr "bevattning"
+msgstr "Bevattning"
 
 #. Key:	26CE109442D3AE079AE87AAB7C71DE2F
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/FaceUI/WBP_Select.WBP_Select_C:WidgetTree.MustacheIndex.Text
@@ -914,7 +915,7 @@ msgstr "10/10"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_96.In Text
 msgctxt ",26FAE7D34C614A3E6A0B6AAE6343108F"
 msgid "水泥"
-msgstr "cement"
+msgstr "Cement"
 
 #. Key:	27C16E18410E75AF0E416EA9DB84F676
 #. SourceLocation:	/Game/Blueprint/UMG/ScreenMessage/WBP_BuildMessage.WBP_BuildMessage_C:WidgetTree.TextBlock_8.Text
@@ -928,28 +929,28 @@ msgstr "+"
 #: /Game/Blueprint/UMG/Furniture/WBP_YZ.WBP_YZ_C:WidgetTree.WBP_List.In Text
 msgctxt ",27C35DA247B66F5B2B6BF7B3590E504A"
 msgid "列表"
-msgstr "listan"
+msgstr "Lista"
 
 #. Key:	2825D84B46503305B687FE865D440131
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_63.In Text
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_63.In Text
 msgctxt ",2825D84B46503305B687FE865D440131"
 msgid "钻井工具"
-msgstr "borrverktyg"
+msgstr "Borrverktyg"
 
 #. Key:	2868B9554C079D0EFF670480D6C82D38
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_ZJ.Furniture_ZJ_C:ExecuteUbergraph_Furniture_ZJ [Script Bytecode]
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_ZJ.Furniture_ZJ_C:ExecuteUbergraph_Furniture_ZJ [Script Bytecode]
 msgctxt ",2868B9554C079D0EFF670480D6C82D38"
 msgid "添加饲料"
-msgstr "lägg till foder"
+msgstr "Tillsätt foder"
 
 #. Key:	28D658514CA4B5E0194B54A460658A4B
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/GuardRail_2.Default__GuardRail_2_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 #: /Game/HDCKBuildingSystem/Blueprints/Base/GuardRail_2.Default__GuardRail_2_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",28D658514CA4B5E0194B54A460658A4B"
 msgid "提示信息"
-msgstr "snabb information"
+msgstr "Snabba Tips"
 
 #. Key:	28FF919E49670ACE61590A92C65832EF
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/TipPasswordCheck.TipPasswordCheck_C:WidgetTree.PasswordNot.Text
@@ -963,14 +964,14 @@ msgstr "Fel lösenord!"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_83.In Text
 msgctxt ",291BB8524A3F9AE1C2CFC684DAC4CE1D"
 msgid "钢箭"
-msgstr "stål pil"
+msgstr "Stålpil"
 
 #. Key:	293709574ECCB1307ACEC486F3E4D8AB
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/Wall_Door.Default__Wall_Door_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 #: /Game/HDCKBuildingSystem/Blueprints/Base/Wall_Door.Default__Wall_Door_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",293709574ECCB1307ACEC486F3E4D8AB"
 msgid "提示信息"
-msgstr "snabb information"
+msgstr "Snabba Tips"
 
 #. Key:	2964AD47479FD74660CD0D8804857F13
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/StartUIEnum.StartUIEnum.DisplayNameMap(3 - Value).DisplayNameMap
@@ -1012,21 +1013,21 @@ msgstr "Lag 6"
 #: /Game/Blueprint/ACF/Item/Weapon/ACFGunBase.Default__ACFGunBase_C.ItemInfo.Name
 msgctxt ",2ABFDD2D4693426742BDACAE5D72DACC"
 msgid "M4步枪"
-msgstr "M4 gevär"
+msgstr "M4 Automatkarbin"
 
 #. Key:	2AEDF97B456853ED929F229E28ED97D4
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/StartUIEnum.StartUIEnum.DisplayNameMap(1 - Value).DisplayNameMap
 #: /Game/Blueprint/UMG/MainUI/StartUIEnum.StartUIEnum.DisplayNameMap(1 - Value).DisplayNameMap
 msgctxt ",2AEDF97B456853ED929F229E28ED97D4"
 msgid "SelectCharacter"
-msgstr "Välj Tecken"
+msgstr "Välj Karaktär"
 
 #. Key:	2C14ACB34FE7669CDF2565A4CD696264
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Armor/AutoCreate/BP_Arm_KR101.Default__BP_Arm_KR101_C.ItemInfo.Name
 #: /Game/Blueprint/ACF/Item/Armor/AutoCreate/BP_Arm_KR101.Default__BP_Arm_KR101_C.ItemInfo.Name
 msgctxt ",2C14ACB34FE7669CDF2565A4CD696264"
 msgid "遮阳帽"
-msgstr "solskyddet"
+msgstr "Solhatt"
 
 #. Key:	2CD410E740F487818FE918876292782E
 #. SourceLocation:	/Game/Blueprint/ACF/Animal/Animal_Base.Default__Animal_Base_C.CharacterName
@@ -1040,7 +1041,7 @@ msgstr "Djur"
 #: /Game/Blueprint/ACF/Tutorial/WBP_TutorialTip9.WBP_TutorialTip9_C:WidgetTree.TextBlock_1.Text
 msgctxt ",2D21568E46DADC304EDB0BAAD885B304"
 msgid "现在拾取桌面的绑带包扎伤口"
-msgstr "Ta nu upp bandaget på bordsskivan för att bandagera såret"
+msgstr "Ta nu upp bandaget från bordet för att bandagera såret"
 
 #. Key:	2D45AC2340F743E0200225ABC0688F37
 #. SourceLocation:	/Game/Blueprint/UMG/ScreenMessage/WBP_CarMessage.WBP_CarMessage_C:WidgetTree.SpeedLabel_1.Text
@@ -1054,7 +1055,7 @@ msgstr "99"
 #: /Game/HDCKBuildingSystem/Blueprints/Base/Wall_30.Default__Wall_30_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",2D537CD7412F6289FFD138ADC5587BE5"
 msgid "提示信息"
-msgstr "snabb information"
+msgstr "Snabba Tips"
 
 #. Key:	2DAB35E643134B1AA825ACA13C74DE1F
 #. SourceLocation:	/Game/Blueprint/ACF/Player/HDCK_GameState.Default__HDCK_GameState_C:Team Manager.Teams(6 - Value).Teams.DisplayName
@@ -1068,14 +1069,14 @@ msgstr "Lag 7"
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_ServerSetting.WBP_ServerSetting_C:WidgetTree.ShowTex_1.Text
 msgctxt ",2DE0B5EF440755EA73CCBF8E236A6626"
 msgid "服务器密码："
-msgstr "Server lösenord:"
+msgstr "Serverlösenord:"
 
 #. Key:	2E3B7D0B496CE27913B296A3FCDA5298
 #. SourceLocation:	/Game/Blueprint/Ladder/BP_Ladder.BP_Ladder_C:ShowUI [Script Bytecode]
 #: /Game/Blueprint/Ladder/BP_Ladder.BP_Ladder_C:ShowUI [Script Bytecode]
 msgctxt ",2E3B7D0B496CE27913B296A3FCDA5298"
 msgid "空格攀爬"
-msgstr "rymdklättring"
+msgstr "SPACE för att klättra"
 
 #. Key:	2E4E281C4C60905365BABAB530907CF2
 #. SourceLocation:	/Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(9).Mappings.PlayerMappableOptions.DisplayName
@@ -1096,7 +1097,7 @@ msgstr "Modell 02"
 #: /Game/Blueprint/UMG/Furniture/WBP_XSC.WBP_XSC_C:WidgetTree.TextBlock_2.Text
 msgctxt ",2EB96FCB4A14794A9B78639DE8BB5D7C"
 msgid "取水口"
-msgstr "vattenintag"
+msgstr "Vattenanslutning"
 
 #. Key:	2ECDFCFA49898CD10A445C8EF1757C70
 #. SourceLocation:	/Game/Blueprint/ACF/Tutorial/WBP_TutorialTip0.WBP_TutorialTip0_C:WidgetTree.TextBlock_140.Text
@@ -1110,7 +1111,7 @@ msgstr "Tryck på W,A,S,D för att flytta tecknet"
 #: /Game/HDCKBuildingSystem/Blueprints/Base/RoofEndVertical_20.Default__RoofEndVertical_20_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",2EDAE6534DFFC56101BB7CADCFC5B6C8"
 msgid "提示信息"
-msgstr "snabb information"
+msgstr "Snabba Tips"
 
 #. Key:	2F32F7184EE08293DDC575A2F524D414
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_HandGun_Magnum.Default__ACFGunBase_HandGun_Magnum_C.ItemInfo.Name
@@ -1124,14 +1125,14 @@ msgstr "revolver"
 #: /Game/HDCKBuildingSystem/Blueprints/Base/RoofEnd_02.Default__RoofEnd_02_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",2F43FA9F4D0E5E6A9FC6A898E88E47CF"
 msgid "提示信息"
-msgstr "snabb information"
+msgstr "Snabba Tips"
 
 #. Key:	2F46E1564B04071A0A7C099CB780BDDF
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_8.Text
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_8.Text
 msgctxt ",2F46E1564B04071A0A7C099CB780BDDF"
 msgid "裁缝+"
-msgstr "skräddarsy+"
+msgstr "Sömnad+"
 
 #. Key:	3051ED674341FDB383BE0B83E0E7BD19
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_41.In Text
@@ -1145,14 +1146,14 @@ msgstr "Järndolk"
 #: /Game/HDCKBuildingSystem/Blueprints/Base/Furniture_Base.Default__Furniture_Base_C.BuildInfo.Name_38_B9A5B2DC4FBEF03FBCA85592B802C50C
 msgctxt ",315A150344FB3F31E72E919C35C13F22"
 msgid "家具"
-msgstr "möbel"
+msgstr "Möbler"
 
 #. Key:	31891998465BE7550992549F82681FA0
 #. SourceLocation:	/Game/Blueprint/UMG/WBP_BaseCharacter.WBP_BaseCharacter_C:WidgetTree.KHX.Text
 #: /Game/Blueprint/UMG/WBP_BaseCharacter.WBP_BaseCharacter_C:WidgetTree.KHX.Text
 msgctxt ",31891998465BE7550992549F82681FA0"
 msgid "抗寒性"
-msgstr "kylmotstånd"
+msgstr "Köldmotstånd"
 
 #. Key:	3297DACB4D7AD7F6D94F9FAA441FCB59
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Book/AutoCreate/BP_Book_JXX04.Default__BP_Book_JXX04_C.ItemInfo.Name
@@ -1166,14 +1167,14 @@ msgstr "Maskinreparation (volym fyra)"
 #: /Game/Blueprint/UMG/Furniture/WBP_CarInventory01.WBP_CarInventory01_C:WidgetTree.Repir.ToolTipText
 msgctxt ",32F2C50042D534BEAA1662A2087AC8CA"
 msgid "放入汽车修理套件维修"
-msgstr "Lägg i en bilreparationssats för reparation"
+msgstr "Lägg i en bilreparationssats för reparation av bilen"
 
 #. Key:	330C2123417837492F10DB97418C4923
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Tool/Item_NotUse_Tool_Base.Default__Item_NotUse_Tool_Base_C.ItemInfo.Description
 #: /Game/Blueprint/ACF/Item/Tool/Item_NotUse_Tool_Base.Default__Item_NotUse_Tool_Base_C.ItemInfo.Description
 msgctxt ",330C2123417837492F10DB97418C4923"
 msgid "普通石头可用于建筑，制造工具。"
-msgstr "Vanlig sten kan användas för att bygga och tillverka verktyg."
+msgstr "Vanlig sten kan användas till byggen och tillverka verktyg."
 
 #. Key:	3376BBAD4F44547365C93295807CA25A
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_DCZDetail.WBP_DCZDetail_C:WidgetTree.NULL.Text
@@ -1201,28 +1202,28 @@ msgstr "Generera Spawn Points"
 #: /Game/HDCKBuildingSystem/Table/E_SelectTypeChild.E_SelectTypeChild.DisplayNameMap(5 - Value).DisplayNameMap
 msgctxt ",345B92054EC055355AB3009E0BE9AED8"
 msgid "Roof45"
-msgstr "Tak45"
+msgstr "Tak (45°)"
 
 #. Key:	34BA075949BEF9CEFE77D392D7825102
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/WBP_StartButton.Default__WBP_StartButton_C.In Text
 #: /Game/Blueprint/UMG/MainUI/WBP_StartButton.Default__WBP_StartButton_C.In Text
 msgctxt ",34BA075949BEF9CEFE77D392D7825102"
 msgid "开始游戏"
-msgstr "starta spelet"
+msgstr "Starta spelet"
 
 #. Key:	3557C6854B1448213BC35D9085C8312C
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_38.Text
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_38.Text
 msgctxt ",3557C6854B1448213BC35D9085C8312C"
 msgid "显示帧率"
-msgstr "visa bildfrekvens"
+msgstr "Visa FPS"
 
 #. Key:	3581A89C43D3A186CF54818DC0E637FF
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_DPBase.Default__Furniture_DPBase_C.BuildInfo.TipAdsorbent_45_0277CC26494BF1319349189E27EC6190
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_DPBase.Default__Furniture_DPBase_C.BuildInfo.TipAdsorbent_45_0277CC26494BF1319349189E27EC6190
 msgctxt ",3581A89C43D3A186CF54818DC0E637FF"
 msgid "无"
-msgstr "ingen"
+msgstr "Ingen"
 
 #. Key:	35E6F36A420B9FDD3D238EADC6996DC0
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/SelectCharacter/WBP_SelectCharacterBegin.WBP_SelectCharacterBegin_C:WidgetTree.TextBlock_38.Text
@@ -1236,42 +1237,42 @@ msgstr "Välj en karaktär för att starta spelet"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_49.In Text
 msgctxt ",3693ACEA4D78D3294171D2A821973F01"
 msgid "铁大锤"
-msgstr "järnslägga"
+msgstr "Järnslägga"
 
 #. Key:	36C199AA4147C714D62C5BA149D79EC9
 #. SourceLocation:	/Game/Blueprint/UMG/EscMenu/WBP_Setting.Default__WBP_Setting_C.Setting(1).Setting
 #: /Game/Blueprint/UMG/EscMenu/WBP_Setting.Default__WBP_Setting_C.Setting(1).Setting
 msgctxt ",36C199AA4147C714D62C5BA149D79EC9"
 msgid "中"
-msgstr "mitten"
+msgstr "Medium"
 
 #. Key:	36C4F9A84440F50C83D09B9C1C6813B6
 #. SourceLocation:	/Game/Blueprint/ACF/Tutorial/WBP_TutorialTip7.WBP_TutorialTip7_C:WidgetTree.TextBlock.Text
 #: /Game/Blueprint/ACF/Tutorial/WBP_TutorialTip7.WBP_TutorialTip7_C:WidgetTree.TextBlock.Text
 msgctxt ",36C4F9A84440F50C83D09B9C1C6813B6"
 msgid "适应完枪械，生存训练就结束了"
-msgstr "Efter att ha vant sig vid skjutvapnen är överlevnadsträningen över"
+msgstr "Efter att ha övat med skjutvapnen är överlevnadsträningen över"
 
 #. Key:	36F28AD24381348428BD9687A35CBC18
 #. SourceLocation:	/Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_7.TZF_27_2477A82448AA37EFCFBF4883BE709EF2
 #: /Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_7.TZF_27_2477A82448AA37EFCFBF4883BE709EF2
 msgctxt ",36F28AD24381348428BD9687A35CBC18"
 msgid "胃病"
-msgstr "magbesvär"
+msgstr "Magbesvär"
 
 #. Key:	372C96A440487D850AECCA8862CC59DB
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/Roof_20.Default__Roof_20_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 #: /Game/HDCKBuildingSystem/Blueprints/Base/Roof_20.Default__Roof_20_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",372C96A440487D850AECCA8862CC59DB"
 msgid "提示信息"
-msgstr "snabb information"
+msgstr "Snabba Tips"
 
 #. Key:	374DA59B4CB3A602561BC88A1FB70306
 #. SourceLocation:	/Game/Blueprint/UMG/WBP_BaseCharacter.WBP_BaseCharacter_C:WidgetTree.YZL.Text
 #: /Game/Blueprint/UMG/WBP_BaseCharacter.WBP_BaseCharacter_C:WidgetTree.YZL.Text
 msgctxt ",374DA59B4CB3A602561BC88A1FB70306"
 msgid "硬直率"
-msgstr "hård trubbig"
+msgstr "Trubbiga Vapen"
 
 #. Key:	375BB32D483FA7F99E421AA279D0382A
 #. SourceLocation:	/Game/Blueprint/AI/SpawnAi/BP_AIOSpawnerHDCK.BP_AIOSpawnerHDCK_C:ClearSpawnPoints [Script Bytecode]
@@ -1299,14 +1300,14 @@ msgstr "N"
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_MakeBase.Default__Furniture_MakeBase_C.BuildInfo.TipAdsorbent_45_0277CC26494BF1319349189E27EC6190
 msgctxt ",38B3499B4595D62EAD0BA7ACC4B72F5A"
 msgid "无"
-msgstr "ingen"
+msgstr "Ingen"
 
 #. Key:	38B8771D464AA9F6D487D9AA4DE283A3
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_13.Text
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_13.Text
 msgctxt ",38B8771D464AA9F6D487D9AA4DE283A3"
 msgid "锐器+"
-msgstr "Sharps+"
+msgstr "Bladade+"
 
 #. Key:	38F6DAE24E9F7480E7C3C59E4C5D0AB4
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_GNJZSelectButton.WBP_GNJZSelectButton_C:WidgetTree.Name.Text
@@ -1334,56 +1335,56 @@ msgstr "Molotovcocktail"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_6.In Text
 msgctxt ",39898A094039C28F8C3B64893ED6CB03"
 msgid "铁箭"
-msgstr "järn pil"
+msgstr "Järnpil"
 
 #. Key:	3A309EDE4B14D13B25BC2D97F0C97C71
 #. SourceLocation:	/Game/Blueprint/AI/ZombieState.ZombieState.DisplayNameMap(2 - Value).DisplayNameMap
 #: /Game/Blueprint/AI/ZombieState.ZombieState.DisplayNameMap(2 - Value).DisplayNameMap
 msgctxt ",3A309EDE4B14D13B25BC2D97F0C97C71"
 msgid "chasing"
-msgstr "jagar"
+msgstr "Jagar"
 
 #. Key:	3A3CF7C2470AEB70471187A6091C0CFA
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/Stairs_02.Default__Stairs_02_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 #: /Game/HDCKBuildingSystem/Blueprints/Base/Stairs_02.Default__Stairs_02_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",3A3CF7C2470AEB70471187A6091C0CFA"
 msgid "提示信息"
-msgstr "snabb information"
+msgstr "Snabba Tips"
 
 #. Key:	3A5A7CF64A92AEA9CFD151ADFA977830
 #. SourceLocation:	/Game/Blueprint/ACF/Tutorial/WBP_TutorialTip2.WBP_TutorialTip2_C:WidgetTree.TextBlock_53.Text
 #: /Game/Blueprint/ACF/Tutorial/WBP_TutorialTip2.WBP_TutorialTip2_C:WidgetTree.TextBlock_53.Text
 msgctxt ",3A5A7CF64A92AEA9CFD151ADFA977830"
 msgid "技能详情页"
-msgstr "Sidan med färdigheter"
+msgstr "Karaktärsfärdigheter"
 
 #. Key:	3A6879B749414322EB2621BDD1017E66
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_LoadGame.WBP_LoadGame_C:WidgetTree.WBP_BackSave.In Text
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_LoadGame.WBP_LoadGame_C:WidgetTree.WBP_BackSave.In Text
 msgctxt ",3A6879B749414322EB2621BDD1017E66"
 msgid "恢复存档"
-msgstr "återställa arkivet"
+msgstr "Ladda sparat spel"
 
 #. Key:	3B8DEE5B4473233FCF93628DED40F9B2
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton.In Text
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton.In Text
 msgctxt ",3B8DEE5B4473233FCF93628DED40F9B2"
 msgid "加工台"
-msgstr "Bearbetningsbord"
+msgstr "Slöjdbänk"
 
 #. Key:	3BDD98F042F6D5D8B6C8A98E13FD0D5B
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_3.In Text
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_3.In Text
 msgctxt ",3BDD98F042F6D5D8B6C8A98E13FD0D5B"
 msgid "烟熏房"
-msgstr "rökeri"
+msgstr "Rökeri"
 
 #. Key:	3D2B092646BB8422A02E70B999686D0E
 #. SourceLocation:	/Game/Blueprint/UMG/InteractiveMessage/WBP_BuildCenterMessage.WBP_BuildCenterMessage_C:WidgetTree.Name.Text
 #: /Game/Blueprint/UMG/InteractiveMessage/WBP_BuildCenterMessage.WBP_BuildCenterMessage_C:WidgetTree.Name.Text
 msgctxt ",3D2B092646BB8422A02E70B999686D0E"
 msgid "斧头"
-msgstr "yxa"
+msgstr "Yxa"
 
 #. Key:	3D8D64F348C5C0E386AFEDB9DE2DFD13
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_ServerSetting.WBP_ServerSetting_C:WidgetTree.ShowTex_2.Text
@@ -1397,7 +1398,7 @@ msgstr "Ett lösenord krävs för att logga in på servern:"
 #: /Game/HDCKBuildingSystem/Table/E_SelectTypeChild.E_SelectTypeChild.DisplayNameMap(6 - Value).DisplayNameMap
 msgctxt ",3E32C7E445C9DFD121EC18A80D22C168"
 msgid "Roof20"
-msgstr "Tak20"
+msgstr "Tak (20°)"
 
 #. Key:	3EAE960E4E1C2943AEFCB68D5C61D51D
 #. SourceLocation:	/Game/Blueprint/UMG/Inventory/WBP_Inventory.WBP_Inventory_C:WidgetTree.Weight.Text
@@ -1411,21 +1412,21 @@ msgstr "Vikt: 300/600"
 #: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(14 - Value).DisplayNameMap
 msgctxt ",3F0080734A17ED2949B3E7A69E6074FA"
 msgid "HandGuard"
-msgstr "HandGuard"
+msgstr "Staketstolpe"
 
 #. Key:	3FB2451B4FF120B2FAA709ABF555A02A
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_46.In Text
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_46.In Text
 msgctxt ",3FB2451B4FF120B2FAA709ABF555A02A"
 msgid "铁棍"
-msgstr "järnstång"
+msgstr "Spikklubba (Järn)"
 
 #. Key:	3FD998734A21E21A308E56B1BD772319
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/Furniture_Base.Default__Furniture_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 #: /Game/HDCKBuildingSystem/Blueprints/Base/Furniture_Base.Default__Furniture_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",3FD998734A21E21A308E56B1BD772319"
 msgid "地基或地板"
-msgstr "grund eller golv"
+msgstr "Grund eller Golv"
 
 #. Key:	400FA9E84271FAB20F1FD0A7D5CD5502
 #. SourceLocation:	/Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(11).Mappings.PlayerMappableOptions.DisplayName
@@ -1439,14 +1440,14 @@ msgstr "IA_Sprint"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_67.In Text
 msgctxt ",4012F6B548F849403A5585B1A5DA68FD"
 msgid "病毒阻断剂"
-msgstr "virusblockerare"
+msgstr "Antivirus"
 
 #. Key:	408BB673423B2E07F4AC29935B2AD185
 #. SourceLocation:	/Game/Blueprint/UMG/InteractiveMessage/WBP_BuildCenterMessage.WBP_BuildCenterMessage_C:WidgetTree.Name_1.Text
 #: /Game/Blueprint/UMG/InteractiveMessage/WBP_BuildCenterMessage.WBP_BuildCenterMessage_C:WidgetTree.Name_1.Text
 msgctxt ",408BB673423B2E07F4AC29935B2AD185"
 msgid "ax"
-msgstr "yxa"
+msgstr "Yxa"
 
 #. Key:	40A426BC44ED8982E71BDFA1475AF42C
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/SelectCharacter/WBP_SelectCharacterBegin.WBP_SelectCharacterBegin_C:ExecuteUbergraph_WBP_SelectCharacterBegin [Script Bytecode]
@@ -1460,7 +1461,7 @@ msgstr "Skapa minst en karaktär innan du går med i spelet!"
 #: /Game/HDCKBuildingSystem/Blueprints/Base/Stairs_Base.Default__Stairs_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",40DC4DFD41BDB00B1944EF987D3CA233"
 msgid "提示信息"
-msgstr "snabb information"
+msgstr "Snabba Tips"
 
 #. Key:	41047B6440E796F3F16665AA70140F5F
 #. SourceLocation:	/Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(11 - Value).DisplayNameMap
@@ -1481,7 +1482,7 @@ msgstr "Grunden, gjord av trä, ser solid ut och tål en hel del vikt."
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_13.In Text
 msgctxt ",42CCDC264FCA7E5F57C774A68D1FA7C2"
 msgid "干电池"
-msgstr "torrt batteri"
+msgstr "Stavbatteri"
 
 #. Key:	4348953248D241725A36BD85949AE223
 #. SourceLocation:	/Game/HDCKBuildingSystem/Table/BuildTable.BuildTable.NewRow_11.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
@@ -1509,7 +1510,7 @@ msgstr "IA_Inventering"
 #: /Game/HDCKBuildingSystem/Blueprints/Base/Window_Base.Default__Window_Base_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 msgctxt ",437C1B55408A255EEF2D3398F073B7E3"
 msgid "家具"
-msgstr "möbel"
+msgstr "Möbler"
 
 #. Key:	4390207B4B5BBDEF50CD4CA8F62621E1
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_XJPHQ.WBP_XJPHQ_C:WidgetTree.TextRY.Text
@@ -1523,42 +1524,42 @@ msgstr "Nuvarande bränsle: 10/50L"
 #: /Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_14.TipMessage_41_0D1B7B6342180F0BD1D386A6C8ADE0B3
 msgctxt ",43D1BDAC430C12636432F9B0A31832E9"
 msgid "搜索时间"
-msgstr "söktid"
+msgstr "Söktid"
 
 #. Key:	4492781C4F5E797D00FE94AE878EF46C
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_11.In Text
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_11.In Text
 msgctxt ",4492781C4F5E797D00FE94AE878EF46C"
 msgid "化学反应台"
-msgstr "kemisk reaktionsbänk"
+msgstr "Kemiskt Labb"
 
 #. Key:	44C72828460B596066B7E19B1F0AD6FC
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/OutStairs_Base.Default__OutStairs_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 #: /Game/HDCKBuildingSystem/Blueprints/Base/OutStairs_Base.Default__OutStairs_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",44C72828460B596066B7E19B1F0AD6FC"
 msgid "提示信息"
-msgstr "snabb information"
+msgstr "Snabba Tips"
 
 #. Key:	4561C12A4DF8189CD64E2EB0ED0F2A01
 #. SourceLocation:	/Game/Blueprint/ACF/Manager/E_Season.E_Season.DisplayNameMap(1 - Value).DisplayNameMap
 #: /Game/Blueprint/ACF/Manager/E_Season.E_Season.DisplayNameMap(1 - Value).DisplayNameMap
 msgctxt ",4561C12A4DF8189CD64E2EB0ED0F2A01"
 msgid "summer"
-msgstr "sommar"
+msgstr "Sommar"
 
 #. Key:	4561C52B440C86BCBAF41DA5A5C99F38
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_27.Text
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_27.Text
 msgctxt ",4561C52B440C86BCBAF41DA5A5C99F38"
 msgid "建筑物直接完成"
-msgstr "byggnaden färdigställd direkt"
+msgstr "Kreativt Läge"
 
 #. Key:	45E4773D490169AB850A808635B4B555
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_PZX.WBP_PZX_C:WidgetTree.development.Text
 #: /Game/Blueprint/UMG/Furniture/WBP_PZX.WBP_PZX_C:WidgetTree.development.Text
 msgctxt ",45E4773D490169AB850A808635B4B555"
 msgid "发育"
-msgstr "utveckling"
+msgstr "Avkastning"
 
 #. Key:	460E18EE4FC349EA101BCE80D2BBDE01
 #. SourceLocation:	/Game/Blueprint/UMG/MiniMap/WBP_MiniMap.WBP_MiniMap_C:ExecuteUbergraph_WBP_MiniMap [Script Bytecode]
@@ -1586,7 +1587,7 @@ msgstr "Material"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_81.In Text
 msgctxt ",46B50F714E10C8FD62349C9785EEC24C"
 msgid "弹壳"
-msgstr "patronfodral"
+msgstr "Patronhylsa"
 
 #. Key:	47EBB11749CBF554F52B1DB52622AD20
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_CSZ.WBP_CSZ_C:WidgetTree.TextBlock_0.Text
@@ -1600,7 +1601,7 @@ msgstr "Vattenintag"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_55.In Text
 msgctxt ",47FDA78141550306051F879F194FCAE1"
 msgid "冰箱"
-msgstr "kylskåp"
+msgstr "Kylskåp"
 
 #. Key:	49A22B424EACAFBF37D3A19B23FE7067
 #. SourceLocation:	/Game/Blueprint/UMG/Make/WBP_MakeDetail.WBP_MakeDetail_C:ExecuteUbergraph_WBP_MakeDetail [Script Bytecode]
@@ -1621,14 +1622,14 @@ msgstr "1"
 #: /Game/Blueprint/UMG/Make/WBP_MakeDetailShow.WBP_MakeDetailShow_C:WidgetTree.SD.Text
 msgctxt ",4A6AE3D34A36E33783004A8871EF9159"
 msgid "速度"
-msgstr "fart"
+msgstr "Fart"
 
 #. Key:	4B00BAA641A5EBFF728733A6A97A8C27
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(9 - Value).DisplayNameMap
 #: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(9 - Value).DisplayNameMap
 msgctxt ",4B00BAA641A5EBFF728733A6A97A8C27"
 msgid "RoofEndVertical"
-msgstr "RoofEndVertical"
+msgstr "Takända (Vertikal)"
 
 #. Key:	4B309AF04581FB1AA1B77CBD92B0A9EA
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(19 - Value).DisplayNameMap
@@ -1642,42 +1643,42 @@ msgstr "Dörr"
 #: /Game/Blueprint/ACF/Tutorial/WBP_TutorialTip9.WBP_TutorialTip9_C:WidgetTree.TextBlock.Text
 msgctxt ",4BC23A144EB39C24361F0EB1DEDAC119"
 msgid "当你有一个不好的状态时，需要对应的药物治疗"
-msgstr "När du har ett dåligt tillstånd behöver du motsvarande läkemedelsbehandling"
+msgstr "Vid sjukdom måste du medicinera med medicin som hjälper mot den aktuella sjukdomen"
 
 #. Key:	4C0AF75643475A5E1E51C6BD31A169A0
 #. SourceLocation:	/Game/HDCKBuildingSystem/UMG/WBP_ToolTip.WBP_ToolTip_C:WidgetTree.XFWP.Text
 #: /Game/HDCKBuildingSystem/UMG/WBP_ToolTip.WBP_ToolTip_C:WidgetTree.XFWP.Text
 msgctxt ",4C0AF75643475A5E1E51C6BD31A169A0"
 msgid "地基"
-msgstr "fundament"
+msgstr "Grund"
 
 #. Key:	4C73679343B4DF0362CCBE9DAAA0B9E9
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/GuardRail_1.Default__GuardRail_1_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 #: /Game/HDCKBuildingSystem/Blueprints/Base/GuardRail_1.Default__GuardRail_1_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",4C73679343B4DF0362CCBE9DAAA0B9E9"
 msgid "提示信息"
-msgstr "snabb information"
+msgstr "Snabba Tips"
 
 #. Key:	4C76EF694649A6D17C88C180E127D011
 #. SourceLocation:	/Game/Blueprint/UMG/EscMenu/WBP_Button.WBP_Button_C:WidgetTree.TextBlock_0.Text
 #: /Game/Blueprint/UMG/EscMenu/WBP_Button.WBP_Button_C:WidgetTree.TextBlock_0.Text
 msgctxt ",4C76EF694649A6D17C88C180E127D011"
 msgid "保存游戏"
-msgstr "spara spelet"
+msgstr "Spara spelet"
 
 #. Key:	4C77DAF3497EBD62E6BD7CBE2D0D394A
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_69.In Text
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_69.In Text
 msgctxt ",4C77DAF3497EBD62E6BD7CBE2D0D394A"
 msgid "燃油"
-msgstr "eldningsolja"
+msgstr "Bränsle"
 
 #. Key:	4CB122E740E0AB047EAF51A3BA19C6C7
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/RoofEndHorizontal_Intersection.Default__RoofEndHorizontal_Intersection_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 #: /Game/HDCKBuildingSystem/Blueprints/Base/RoofEndHorizontal_Intersection.Default__RoofEndHorizontal_Intersection_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",4CB122E740E0AB047EAF51A3BA19C6C7"
 msgid "提示信息"
-msgstr "snabb information"
+msgstr "Snabba Tips"
 
 #. Key:	4D63587648FCF9D34033C9A96CC1E408
 #. SourceLocation:	/Game/HDCKBuildingSystem/Table/E_SelectType.E_SelectType.DisplayNameMap(1 - Value).DisplayNameMap
@@ -1691,7 +1692,7 @@ msgstr "göra"
 #: /Game/HDCKBuildingSystem/Blueprints/Base/Roof_Top_Corner.Default__Roof_Top_Corner_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",4D959A154D5C17ABC216D2AFB763C8E3"
 msgid "提示信息"
-msgstr "snabb information"
+msgstr "Snabba Tips"
 
 #. Key:	4DE2155C45DCE36BF49919A06DAD7B06
 #. SourceLocation:	/Game/Blueprint/UMG/ChatSystem/WBP_ChatMenu.WBP_ChatMenu_C:WidgetTree.TextBlock_76.Text
@@ -1705,21 +1706,21 @@ msgstr "skicka"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_10.In Text
 msgctxt ",4E6DDE3D44A78378A8AEA4A2389E7683"
 msgid "木板"
-msgstr "styrelse"
+msgstr "Planka"
 
 #. Key:	4EDF88064E4EE9295D9AF5BC205B6D53
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/Wattle_Base.Default__Wattle_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 #: /Game/HDCKBuildingSystem/Blueprints/Base/Wattle_Base.Default__Wattle_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",4EDF88064E4EE9295D9AF5BC205B6D53"
 msgid "提示信息"
-msgstr "snabb information"
+msgstr "Snabba Tips"
 
 #. Key:	4EEAE27F444C96820BAF08B142031780
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_PZX.WBP_PZX_C:WidgetTree.development.ToolTipText
 #: /Game/Blueprint/UMG/Furniture/WBP_PZX.WBP_PZX_C:WidgetTree.development.ToolTipText
 msgctxt ",4EEAE27F444C96820BAF08B142031780"
 msgid "影响收成"
-msgstr "Påverka skörden"
+msgstr "Hur mycket produkter får du vid skörden"
 
 #. Key:	4EED0D0C424E91685FBACD96576D8051
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/QK/BP_GunAccessoryQK_CF_BC02.Default__BP_GunAccessoryQK_CF_BC02_C.ItemInfo.Description
@@ -1733,21 +1734,21 @@ msgstr "Modell 02"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_7.In Text
 msgctxt ",4F4F9BDD48DA5B255182B78835F86EB9"
 msgid "铝瓶"
-msgstr "aluminiumflaska"
+msgstr "Aluminiumflaska"
 
 #. Key:	4F6CA9F740AD80289ECEDDBB2EBB5BC8
 #. SourceLocation:	/Game/Blueprint/UMG/WBP_BaseCharacter.WBP_BaseCharacter_C:WidgetTree.TBFY.Text
 #: /Game/Blueprint/UMG/WBP_BaseCharacter.WBP_BaseCharacter_C:WidgetTree.TBFY.Text
 msgctxt ",4F6CA9F740AD80289ECEDDBB2EBB5BC8"
 msgid "头部防御"
-msgstr "huvudförsvar"
+msgstr "Huvudskydd"
 
 #. Key:	4FB41E114459F569BCE7BC99E7DB61C6
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/E_FireMode.E_FireMode.DisplayNameMap(2 - Value).DisplayNameMap
 #: /Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/E_FireMode.E_FireMode.DisplayNameMap(2 - Value).DisplayNameMap
 msgctxt ",4FB41E114459F569BCE7BC99E7DB61C6"
 msgid "Auto"
-msgstr "Bil"
+msgstr "Automateld"
 
 #. Key:	507C12F4468CF7BE8239FD8F7DA1961D
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_Wood.Default__Roof_20_intersection_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
@@ -1761,14 +1762,14 @@ msgstr "För sammanfogning av yttre hörntak."
 #: /Game/Blueprint/ACF/Player/HDCK_CharacterBP.Default__HDCK_CharacterBP_C.TimeBuffDetail(1).TimeBuffDetail.TipMessage_56_5402F47A4785659B27440099C7CA676D
 msgctxt ",508A302D479171AD2AFCB5BDF7BF0BD4"
 msgid "感染，大幅度持续掉血"
-msgstr "Infektion, massiv kontinuerlig blodförlust"
+msgstr "Kraftig infection med massiv blodförlust"
 
 #. Key:	50923B86404D68B1F149ABBED6BFC293
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_61.In Text
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_61.In Text
 msgctxt ",50923B86404D68B1F149ABBED6BFC293"
 msgid "密封排气机"
-msgstr "Täta avgasmaskin"
+msgstr "Konservmaskin"
 
 #. Key:	50FA87E6460DCEB7FA6D9EA808DF7DA2
 #. SourceLocation:	/Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(12 - Value).DisplayNameMap
@@ -1782,14 +1783,14 @@ msgstr "I bil"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_98.In Text
 msgctxt ",5159A35C4632DF45C427CC9981E0117D"
 msgid "滤芯"
-msgstr "filterelement"
+msgstr "Filterelement"
 
 #. Key:	51AF544549B86F8668AAD5941180E8C9
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/Foundation_Base.Default__Foundation_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 #: /Game/HDCKBuildingSystem/Blueprints/Base/Foundation_Base.Default__Foundation_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",51AF544549B86F8668AAD5941180E8C9"
 msgid "提示信息"
-msgstr "snabb information"
+msgstr "Snabba Tips"
 
 #. Key:	5266199243DBCAB57A9139B087C1733C
 #. SourceLocation:	/Game/HDCKBuildingSystem/Table/E_SelectTypeChild.E_SelectTypeChild.DisplayNameMap(4 - Value).DisplayNameMap
@@ -1803,14 +1804,14 @@ msgstr "Trappa"
 #: /Game/HDCKBuildingSystem/Blueprints/Base/Stairs_03.Default__Stairs_03_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",529C15EE44DF85184B37C09AF69F7B00"
 msgid "提示信息"
-msgstr "snabb information"
+msgstr "Snabba Tips"
 
 #. Key:	52A13B2248804E835DDB938858E96088
 #. SourceLocation:	/Game/Blueprint/ACF/Tutorial/WBP_TutorialTip8.WBP_TutorialTip8_C:WidgetTree.TextBlock.Text
 #: /Game/Blueprint/ACF/Tutorial/WBP_TutorialTip8.WBP_TutorialTip8_C:WidgetTree.TextBlock.Text
 msgctxt ",52A13B2248804E835DDB938858E96088"
 msgid "其他工具也可以对树木或者石头造成伤害，但是效率不高"
-msgstr "Andra verktyg kan också skada träd eller stenar, men är inte lika effektiva"
+msgstr "Andra verktyg kan fälla träd eller bryta sten, men är inte lika effektiva."
 
 #. Key:	539D0ABC46A6467C2254779F2B2271EB
 #. SourceLocation:	/Game/Blueprint/UMG/EscMenu/WBP_AMDFSR.WBP_AMDFSR_C:WidgetTree.ShowTex.Text
@@ -1824,14 +1825,14 @@ msgstr "FSR2.0"
 #: /Game/Blueprint/ACF/Item/Food/AutoCreate/BP_Food_CSCG.Default__BP_Food_CSCG_C.ItemInfo.Name
 msgctxt ",53D622B84E8BEF01604E3CB6B4003A5E"
 msgid "蔬菜干"
-msgstr "torkade grönsaker"
+msgstr "Torkade grönsaker"
 
 #. Key:	5434175E42361DB14212E8A8D9B70A56
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/Door_Base.Default__Door_Base_C.BuildInfo.Name_38_B9A5B2DC4FBEF03FBCA85592B802C50C
 #: /Game/HDCKBuildingSystem/Blueprints/Base/Door_Base.Default__Door_Base_C.BuildInfo.Name_38_B9A5B2DC4FBEF03FBCA85592B802C50C
 msgctxt ",5434175E42361DB14212E8A8D9B70A56"
 msgid "家具"
-msgstr "möbel"
+msgstr "Möbler"
 
 #. Key:	54D9A0A84222690CD2FF328C0F08BAFF
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_40.In Text
@@ -1852,35 +1853,35 @@ msgstr "RoofEndTringer"
 #: /Game/HDCKBuildingSystem/Blueprints/Base/Furniture_Inventory.Default__Furniture_Inventory_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",5601F7554DEF1D2DB1EA4993E276D266"
 msgid "地基或地板"
-msgstr "grund eller golv"
+msgstr "Grund eller Golv"
 
 #. Key:	5604627744E8324B0E9AAB96BB219D3A
 #. SourceLocation:	/Game/Blueprint/UMG/WBP_GetWater.WBP_GetWater_C:WidgetTree.TextBlock_57.Text
 #: /Game/Blueprint/UMG/WBP_GetWater.WBP_GetWater_C:WidgetTree.TextBlock_57.Text
 msgctxt ",5604627744E8324B0E9AAB96BB219D3A"
 msgid "拖入容器装水"
-msgstr "dra in i en behållare för vatten"
+msgstr "Dra en behållare hit för att fylla den"
 
 #. Key:	569DFDE54CD2C05CA841E4AED49216C0
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_SPX.WBP_SPX_C:WidgetTree.development.ToolTipText
 #: /Game/Blueprint/UMG/Furniture/WBP_SPX.WBP_SPX_C:WidgetTree.development.ToolTipText
 msgctxt ",569DFDE54CD2C05CA841E4AED49216C0"
 msgid "影响收成"
-msgstr "Påverka skörden"
+msgstr "Hur mycket produkter får du vid skörden"
 
 #. Key:	56A903D8474E2C86F33532A8231EB1CA
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_79.In Text
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_79.In Text
 msgctxt ",56A903D8474E2C86F33532A8231EB1CA"
 msgid "复合弓"
-msgstr "Förenad båge"
+msgstr "Compoundbåge"
 
 #. Key:	5795910C491155CD31B6869BE54DD0FB
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(12 - Value).DisplayNameMap
 #: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(12 - Value).DisplayNameMap
 msgctxt ",5795910C491155CD31B6869BE54DD0FB"
 msgid "outdoorsStairs"
-msgstr "utomhus Trappor"
+msgstr "Trappor utomhus"
 
 #. Key:	57ABD74342F884D14ADE9FA7585DF620
 #. SourceLocation:	/Game/HDCKBuildingSystem/Table/BuildTable.BuildTable.SN_DJ.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
@@ -1894,28 +1895,28 @@ msgstr "Fundamentet är tillverkat av cement, som ser starkt ut och kan bära en
 #: /Game/Blueprint/UMG/Inventory/WBP_ItemToolTip.WBP_ItemToolTip_C:SetFoodShow [Script Bytecode]
 msgctxt ",57D29AF64B249E6B779C5C809CA3B4CD"
 msgid "生命回复"
-msgstr "livsåterhämtning"
+msgstr "Hälsa (återhämtning)"
 
 #. Key:	57FB21DE45460CAF9BFE16BBA60DDDFC
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_33.Text
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_33.Text
 msgctxt ",57FB21DE45460CAF9BFE16BBA60DDDFC"
 msgid "夏"
-msgstr "sommar"
+msgstr "Sommar"
 
 #. Key:	58CA3377422B02C724EF7E8B702B1083
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_85.In Text
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_85.In Text
 msgctxt ",58CA3377422B02C724EF7E8B702B1083"
 msgid "钢撬棍"
-msgstr "kofot av stål"
+msgstr "Stålkofot"
 
 #. Key:	58F0265A40DBE9CFC7C484B4CAC7BEDC
 #. SourceLocation:	/Game/Blueprint/ACF/Tutorial/WBP_TutorialTip0.WBP_TutorialTip0_C:WidgetTree.TextBlock_2.Text
 #: /Game/Blueprint/ACF/Tutorial/WBP_TutorialTip0.WBP_TutorialTip0_C:WidgetTree.TextBlock_2.Text
 msgctxt ",58F0265A40DBE9CFC7C484B4CAC7BEDC"
 msgid "如果跌倒了，按下空格爬起"
-msgstr "Om du ramlar, tryck på mellanslag för att resa dig upp"
+msgstr "Om du faller, tryck på SPACE för att resa dig."
 
 #. Key:	5909FDD94497886779AC7197412B1F87
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/QK/BP_GunAccessoryQK_RifleBC02.Default__BP_GunAccessoryQK_RifleBC02_C.ItemInfo.Description
@@ -1929,7 +1930,7 @@ msgstr "Modell 02"
 #: /Game/Blueprint/ACF/Item/Weapon/ACFGunBase_SMG.Default__ACFGunBase_SMG_C.ItemInfo.Name
 msgctxt ",590B39C941F02271DB34EF8E862671DA"
 msgid "MP7A1冲锋枪"
-msgstr "MP7A1 maskinpistol"
+msgstr "MP7 KSP"
 
 #. Key:	597318344B733EB7EA60D2A7DB6A2858
 #. SourceLocation:	/Game/Blueprint/UMG/ScreenMessage/WBP_CarMessage.WBP_CarMessage_C:WidgetTree.UnitLabel_1.Text
@@ -1950,7 +1951,7 @@ msgstr "Null"
 #: /Game/Blueprint/UMG/Study/WBP_Study.WBP_Study_C:WidgetTree.Name.Text
 msgctxt ",598AE55349A26D633B16469B38D5091E"
 msgid "civilEngineering"
-msgstr "civilingenjör"
+msgstr "Civilingenjör"
 
 #. Key:	5A17E9664CD98126E6ABB5870976B179
 #. SourceLocation:	/Game/Blueprint/UMG/Make/WBP_MakeList.WBP_MakeList_C:WidgetTree.Num.Text
@@ -1964,14 +1965,14 @@ msgstr "1"
 #: /Game/Blueprint/UMG/Inventory/WBP_ItemToolTip.WBP_ItemToolTip_C:WidgetTree.Name.Text
 msgctxt ",5A1D52644B95C86E8ECE07B306E68D5B"
 msgid "斧头"
-msgstr "yxa"
+msgstr "Yxa"
 
 #. Key:	5A59E05F4DEA91E378D72BA820DC9EE5
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Spear/BP_LongSharp_SpearBase.Default__BP_LongSharp_SpearBase_C.ItemInfo.Name
 #: /Game/Blueprint/ACF/Item/Weapon/Spear/BP_LongSharp_SpearBase.Default__BP_LongSharp_SpearBase_C.ItemInfo.Name
 msgctxt ",5A59E05F4DEA91E378D72BA820DC9EE5"
 msgid "长矛"
-msgstr "spjut"
+msgstr "Spjut"
 
 #. Key:	5A8252ED4040A2ADD3C71E8276B5C6CE
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/Furniture_Base.Default__Furniture_Base_C.BuildInfo.TipAdsorbent_45_0277CC26494BF1319349189E27EC6190
@@ -1985,7 +1986,7 @@ msgstr "ingen"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_2.In Text
 msgctxt ",5B20C11C40F75CC9326BD7AF00546A6C"
 msgid "铁锅"
-msgstr "wok"
+msgstr "Wok"
 
 #. Key:	5B2DED4A4728AC95D0842DB821EF72E3
 #. SourceLocation:	/Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(10 - Value).DisplayNameMap
@@ -2006,21 +2007,21 @@ msgstr "SitDownFront"
 #: /Game/Blueprint/Car/InCarMode.InCarMode.DisplayNameMap(1 - Value).DisplayNameMap
 msgctxt ",5B53C1EF463DB509CD48E7A4DDD3F482"
 msgid "FrontLeft"
-msgstr "Framvänster"
+msgstr "Vänster fram"
 
 #. Key:	5B7270DA4A77C9E47E0B7A8F65ECBB39
 #. SourceLocation:	/Game/Blueprint/UMG/Make/WBP_MakeDetailShow.WBP_MakeDetailShow_C:WidgetTree.KHX.Text
 #: /Game/Blueprint/UMG/Make/WBP_MakeDetailShow.WBP_MakeDetailShow_C:WidgetTree.KHX.Text
 msgctxt ",5B7270DA4A77C9E47E0B7A8F65ECBB39"
 msgid "抗寒性"
-msgstr "kylmotstånd"
+msgstr "Köldmotstånd"
 
 #. Key:	5B8B661A4CB978E3B0E541AA82BBB359
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/Window_Base.Default__Window_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 #: /Game/HDCKBuildingSystem/Blueprints/Base/Window_Base.Default__Window_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",5B8B661A4CB978E3B0E541AA82BBB359"
 msgid "地基或地板"
-msgstr "grund eller golv"
+msgstr "Grund eller Golv"
 
 #. Key:	5BA1AD984DEC7D629B4A33AFA86FAC5E
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_64.In Text
@@ -2034,14 +2035,14 @@ msgstr "Vattenrenare"
 #: /Game/Blueprint/UMG/Furniture/WBP_SY_List.WBP_SY_List_C:WidgetTree.TextBlock_1.Text
 msgctxt ",5BDB3D7B4715648822965D82AEFBC6CD"
 msgid "取出"
-msgstr "ta ut"
+msgstr "Avlägsna"
 
 #. Key:	5C68D8DB47AF3ACF79A32AB68370AD7A
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_ItemList.WBP_ItemList_C:WidgetTree.TextBlock_4.Text
 #: /Game/Blueprint/UMG/God/WBP_ItemList.WBP_ItemList_C:WidgetTree.TextBlock_4.Text
 msgctxt ",5C68D8DB47AF3ACF79A32AB68370AD7A"
 msgid "武器"
-msgstr "vapen"
+msgstr "Ryggsäckar"
 
 #. Key:	5C90679C41738D02720A629F7544A608
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/ACFGunBase_sniper.Default__ACFGunBase_sniper_C.ItemInfo.Name
@@ -2055,7 +2056,7 @@ msgstr "SVD prickskyttegevär"
 #: /Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_6.TipMessage_41_0D1B7B6342180F0BD1D386A6C8ADE0B3
 msgctxt ",5CB0A2B9434116D064FC0780EE57DE6A"
 msgid "耐力上限"
-msgstr "uthållighetsgräns"
+msgstr "Stamina-gräns"
 
 #. Key:	5CEE296242EF06A6C8AF7BB44F1ACBA6
 #. SourceLocation:	/Game/Blueprint/UMG/WBP_BaseCharacter.WBP_BaseCharacter_C:WidgetTree.JDL.Text
@@ -2069,14 +2070,14 @@ msgstr "Nedslagningstakt"
 #: /Game/Blueprint/UMG/EscMenu/ScreenSwitch.ScreenSwitch.DisplayNameMap(0 - Value).DisplayNameMap
 msgctxt ",5E098A8946EBB7A59DF5BD89A73B1B12"
 msgid "ScreenSet"
-msgstr "Skärmuppsättning"
+msgstr "Skärminställning"
 
 #. Key:	5E1ED50C47DD8CFA5174619CFC27D2F2
 #. SourceLocation:	/Game/Blueprint/UMG/EscMenu/WBP_Setting.Default__WBP_Setting_C.Setting(3).Setting
 #: /Game/Blueprint/UMG/EscMenu/WBP_Setting.Default__WBP_Setting_C.Setting(3).Setting
 msgctxt ",5E1ED50C47DD8CFA5174619CFC27D2F2"
 msgid "极高"
-msgstr "väldigt högt"
+msgstr "Väldigt högt"
 
 #. Key:	5E9A23124E11ED11573B9091E8E55B7C
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/WBP_DSRoomSlot.WBP_DSRoomSlot_C:WidgetTree.pING.Text
@@ -2111,14 +2112,14 @@ msgstr "IA_Hopp"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_32.Text
 msgctxt ",60277ABC407AE90BFDCF32B2D7C4F032"
 msgid "春"
-msgstr "vår"
+msgstr "Vår"
 
 #. Key:	607BE83C437C938E6210A89A4E185196
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_GameSetting.WBP_GameSetting_C:WidgetTree.ShowTex_10.Text
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_GameSetting.WBP_GameSetting_C:WidgetTree.ShowTex_10.Text
 msgctxt ",607BE83C437C938E6210A89A4E185196"
 msgid "物资刷新"
-msgstr "Material Refresh"
+msgstr "Loot Respawn Time"
 
 #. Key:	60C920AE4EEC3040FA97A59FA380B13C
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_ServerSetting.WBP_ServerSetting_C:WidgetTree.ShowTex_4.Text
@@ -2139,7 +2140,7 @@ msgstr "Antal spelare:"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_40.Text
 msgctxt ",6132AC50448990F25BA07BB77ED4C836"
 msgid "伤害增加"
-msgstr "skadeökning"
+msgstr "Ökar skadan"
 
 #. Key:	61BE5B1F428EE964438DE4929A168CE5
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/Furniture_Inventory.Default__Furniture_Inventory_C.BuildInfo.TipAdsorbent_45_0277CC26494BF1319349189E27EC6190
@@ -2153,7 +2154,7 @@ msgstr "ingen"
 #: /Game/Blueprint/ACF/Item/Food/BP_FoodBase.Default__BP_FoodBase_C.ItemInfo.Description
 msgctxt ",6218189848D827944348CA9BD6A0DCC1"
 msgid "食物"
-msgstr "mat"
+msgstr "Mat"
 
 #. Key:	624E2BB84562A36C89BA4B8C51A5AA70
 #. SourceLocation:	/Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(6).Mappings.PlayerMappableOptions.DisplayName
@@ -2167,7 +2168,7 @@ msgstr "IA_Handbroms"
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_GameSetting.WBP_GameSetting_C:WidgetTree.ShowTex_13.Text
 msgctxt ",629AAA57465DF8D3DEBECAAC6C7D08A3"
 msgid "病毒致命率"
-msgstr "virusdödlighet"
+msgstr "Dödlighet från virus"
 
 #. Key:	62C8A03B4DD8D04AB4D1039910593300
 #. SourceLocation:	/Game/Blueprint/ACF/Data/TableAsset/FoodAssetTable.FoodAssetTable.机修（四卷）.Name_33_B65BC8D64E83EF46F5F21FA5566C3997
@@ -2181,21 +2182,21 @@ msgstr "Maskinreparation (volym fyra)"
 #: /Game/Blueprint/UMG/Make/WBP_MakeDetailShow.WBP_MakeDetailShow_C:WidgetTree.FY.Text
 msgctxt ",64546D1342B88BDB72FB6EA193794E48"
 msgid "防御"
-msgstr "försvar"
+msgstr "Skydd"
 
 #. Key:	64969B8E41D11BE2534B0787E7A4575B
 #. SourceLocation:	/Game/HDCKBuildingSystem/Table/BuildTable.BuildTable.NewRow_36.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 #: /Game/HDCKBuildingSystem/Table/BuildTable.BuildTable.NewRow_36.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",64969B8E41D11BE2534B0787E7A4575B"
 msgid "地板"
-msgstr "golv"
+msgstr "Golv"
 
 #. Key:	64D4745841D9C12BDAB22087FE6B4313
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_7.Text
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_7.Text
 msgctxt ",64D4745841D9C12BDAB22087FE6B4313"
 msgid "机械+"
-msgstr "mekanisk+"
+msgstr "Mekanik+"
 
 #. Key:	64F708BA409C70B2302CF6B3F697174E
 #. SourceLocation:	/Game/Blueprint/ACF/Data/TableAsset/FoodAssetTable.FoodAssetTable.机修（一卷）.Name_33_B65BC8D64E83EF46F5F21FA5566C3997
@@ -2216,21 +2217,21 @@ msgstr "Små"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_72.In Text
 msgctxt ",65C9E9B844AB55AA2894D49ED495FF2B"
 msgid "高级化学反应设备"
-msgstr "Avancerad utrustning för kemisk reaktion"
+msgstr "Avancerat kemilab"
 
 #. Key:	661A50C248D309EEFA4B2E8C074F01D1
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/Floor_Base.Default__Floor_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 #: /Game/HDCKBuildingSystem/Blueprints/Base/Floor_Base.Default__Floor_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",661A50C248D309EEFA4B2E8C074F01D1"
 msgid "提示信息"
-msgstr "snabb information"
+msgstr "Snabba Tips"
 
 #. Key:	6633F35B4A96FB574842B3896808D3CB
 #. SourceLocation:	/Game/Blueprint/ACF/Player/HDCK_CharacterBP.Default__HDCK_CharacterBP_C.TimeBuffDetail(2).TimeBuffDetail.TipMessage_56_5402F47A4785659B27440099C7CA676D
 #: /Game/Blueprint/ACF/Player/HDCK_CharacterBP.Default__HDCK_CharacterBP_C.TimeBuffDetail(2).TimeBuffDetail.TipMessage_56_5402F47A4785659B27440099C7CA676D
 msgctxt ",6633F35B4A96FB574842B3896808D3CB"
 msgid "流血，持续掉血"
-msgstr "blödning, kontinuerlig blödning"
+msgstr "Allvarlig blödning"
 
 #. Key:	6637FA9A490D558CD9C89DAD12BCB992
 #. SourceLocation:	/Game/Blueprint/UMG/WBP_ToopText.WBP_ToopText_C:WidgetTree.TextBlock_36.Text
@@ -2251,7 +2252,7 @@ msgstr "Du är död!"
 #: /Game/Blueprint/UMG/WBP_GetWater.WBP_GetWater_C:OnDrop [Script Bytecode]
 msgctxt ",66F2AE544AB372BF5355BFB45995DA70"
 msgid "这个没法储存水"
-msgstr "Detta kan inte lagra vatten"
+msgstr "Denna kan inte lagra vatten"
 
 #. Key:	673681FB464B2B189DEF41964A15744B
 #. SourceLocation:	/Game/Blueprint/UMG/Inventory/WBP_UseMenu.WBP_UseMenu_C:WidgetTree.Split.Text
@@ -2265,21 +2266,21 @@ msgstr "1"
 #: /Game/Blueprint/AI/SpawnAi/BP_AIOSpawnerHDCK.BP_AIOSpawnerHDCK_C:ProjectSpawnPoints [Script Bytecode]
 msgctxt ",67B206F74AEBD4BF94272B8A8AC36B7F"
 msgid "Project Spawn Points"
-msgstr "Projekt Spawn Points"
+msgstr "Spawn platser"
 
 #. Key:	67D08D9140C4E55E2C3B48B1ACD99534
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_94.In Text
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_94.In Text
 msgctxt ",67D08D9140C4E55E2C3B48B1ACD99534"
 msgid ".44子弹"
-msgstr ".44 kula"
+msgstr ".44 Magnum patron"
 
 #. Key:	68475427496E27E22A3F4DB608EF5675
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_25.In Text
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_25.In Text
 msgctxt ",68475427496E27E22A3F4DB608EF5675"
 msgid "开关"
-msgstr "växla"
+msgstr "Växla"
 
 #. Key:	689295C64E66E89108EF7C9FA9DEB8E9
 #. SourceLocation:	/Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(7 - Value).DisplayNameMap
@@ -2293,14 +2294,14 @@ msgstr "SitDownLeft"
 #: /Game/Blueprint/UMG/Make/WBP_Makeing.Default__WBP_Makeing_C.In Text
 msgctxt ",68B1DF4E431AA9BF5648A5A255AFF703"
 msgid "制作中..."
-msgstr "tillverkning..."
+msgstr "Tillverkar..."
 
 #. Key:	68C9E409451FED0266E41994790B58AA
 #. SourceLocation:	/Game/Blueprint/UMG/Inventory/WBP_AddButton.WBP_AddButton_C:OnDrop [Script Bytecode]
 #: /Game/Blueprint/UMG/Inventory/WBP_AddButton.WBP_AddButton_C:OnDrop [Script Bytecode]
 msgctxt ",68C9E409451FED0266E41994790B58AA"
 msgid "此物品无法装备在这"
-msgstr "Denna artikel kan inte utrustas här"
+msgstr "Denna del kan inte användas här."
 
 #. Key:	6A59891A49F01853E899699020895B73
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_ZJ.Furniture_ZJ_C:ExecuteUbergraph_Furniture_ZJ [Script Bytecode]
@@ -2321,35 +2322,35 @@ msgstr "Stor"
 #: /Game/Blueprint/UMG/Furniture/WBP_YZ.WBP_YZ_C:WidgetTree.WBP_DropAnimal.ToolTipText
 msgctxt ",6A99CF8340C2FAECB78416B5BAAE65FA"
 msgid "拖放动物到这里"
-msgstr "Dra och släpp djur här"
+msgstr "Dra och släpp djur hit"
 
 #. Key:	6ACC187246C8636B5F5FADB57DD4DFE7
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_86.In Text
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_86.In Text
 msgctxt ",6ACC187246C8636B5F5FADB57DD4DFE7"
 msgid "双手斧"
-msgstr "tvåhändigt yxa"
+msgstr "Träyxa"
 
 #. Key:	6AE2E4CF40302FB852C269B2BADC28CF
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(23 - Value).DisplayNameMap
 #: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(23 - Value).DisplayNameMap
 msgctxt ",6AE2E4CF40302FB852C269B2BADC28CF"
 msgid "Box"
-msgstr "Låda"
+msgstr "Kista"
 
 #. Key:	6AF5DE114014DFDC3C66DF9CA70085B1
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/E_AimType.E_AimType.DisplayNameMap(5 - Value).DisplayNameMap
 #: /Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/E_AimType.E_AimType.DisplayNameMap(5 - Value).DisplayNameMap
 msgctxt ",6AF5DE114014DFDC3C66DF9CA70085B1"
 msgid "8B"
-msgstr "8B"
+msgstr "Mod: 8B sikte"
 
 #. Key:	6B154759470BA3F08F615E920930379E
 #. SourceLocation:	/Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_11.TipMessage_41_0D1B7B6342180F0BD1D386A6C8ADE0B3
 #: /Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_11.TipMessage_41_0D1B7B6342180F0BD1D386A6C8ADE0B3
 msgctxt ",6B154759470BA3F08F615E920930379E"
 msgid "疾跑耐力消耗"
-msgstr "Sprint uthållighet konsumtion"
+msgstr "Stamina åtgång när Springer"
 
 #. Key:	6B5672FE4B8FDF39CD26C8B2527E9E21
 #. SourceLocation:	/Game/Blueprint/UMG/NPCUMG/WBP_jy.WBP_jy_C:WidgetTree.GX.Text
@@ -2370,14 +2371,14 @@ msgstr "Den används främst för att fälla träd och kan även användas för 
 #: /Game/Blueprint/ACF/Tutorial/WBP_TutorialTip1.WBP_TutorialTip1_C:WidgetTree.TextBlock_1.Text
 msgctxt ",6BCC8EA647892C6DDF2E86BC4A37CA07"
 msgid "现在尝试捡起前面的武器，并把它们在不同的栏位进行交换"
-msgstr "Försök nu att plocka upp de tidigare vapnen och byta dem i olika slots"
+msgstr "Plocka nu upp de tidigare vapnen och prova dem i olika slots"
 
 #. Key:	6BE962314A8FBC6002DBB2BC5D649223
 #. SourceLocation:	/Game/Blueprint/UMG/Gun/WBP_GunM4A1.WBP_GunM4A1_C:WidgetTree.ItemName.Text
 #: /Game/Blueprint/UMG/Gun/WBP_GunM4A1.WBP_GunM4A1_C:WidgetTree.ItemName.Text
 msgctxt ",6BE962314A8FBC6002DBB2BC5D649223"
 msgid "M4A1"
-msgstr "M4A1"
+msgstr "M4A1 Automatkarbin"
 
 #. Key:	6C007083466970C3B2190CAC9FC2112C
 #. SourceLocation:	/Game/Blueprint/ACF/Player/HDCK_GameState.Default__HDCK_GameState_C:Team Manager.Teams(2 - Value).Teams.DisplayName
@@ -2405,7 +2406,7 @@ msgstr "Klicka för att ta bort"
 #: /Game/Blueprint/UMG/WBP_BaseCharacter.WBP_BaseCharacter_C:WidgetTree.DZL.Text
 msgctxt ",6D55120F4698CA5C10881D95F0EB2214"
 msgid "断肢率"
-msgstr "amputationsfrekvens"
+msgstr "Stympningsfrekvens"
 
 #. Key:	6D94E4B4492BEF00197AA29E81E62172
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/WBP_Main.WBP_Main_C:WidgetTree.WBP_StartButton_2.In Text
@@ -2419,14 +2420,14 @@ msgstr "Boot Camp (handledning)"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_76.In Text
 msgctxt ",6E207D5C4ABA892FF99D9CA6C701C20E"
 msgid "钢砍刀"
-msgstr "stålmachete"
+msgstr "Stålmachete"
 
 #. Key:	6E50C50F4EF16D2056CDECB988181CCB
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Spear/BP_SpearShoot_bASE.Default__BP_SpearShoot_Base_C.ItemInfo.Name
 #: /Game/Blueprint/ACF/Item/Weapon/Spear/BP_SpearShoot_bASE.Default__BP_SpearShoot_Base_C.ItemInfo.Name
 msgctxt ",6E50C50F4EF16D2056CDECB988181CCB"
 msgid "木矛"
-msgstr "träspjut"
+msgstr "Träspjut"
 
 #. Key:	6EB645364114559991F1D789D93D42E9
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_34.In Text
@@ -2440,28 +2441,28 @@ msgstr "Smältugn"
 #: /Game/Blueprint/UMG/Inventory/WBP_NearItem.WBP_NearItem_C:WidgetTree.TextBlock_64.Text
 msgctxt ",6ECDCD6547F64E0F3BC1CB9AFA92C6B8"
 msgid "附近物品"
-msgstr "föremål i närheten"
+msgstr "Föremål i närheten"
 
 #. Key:	6F03D9614CF463C18B07CB96306602DE
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_DSServer.WBP_DSServer_C:WidgetTree.WBP_Join.In Text
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_DSServer.WBP_DSServer_C:WidgetTree.WBP_Join.In Text
 msgctxt ",6F03D9614CF463C18B07CB96306602DE"
 msgid "加入"
-msgstr "delta i"
+msgstr "Ansluta"
 
 #. Key:	6F0E9F7E437D2F62860D7DBCB2CCA2B1
 #. SourceLocation:	/Game/Blueprint/ACF/Tutorial/WBP_TutorialTip6.WBP_TutorialTip6_C:WidgetTree.TextBlock_2.Text
 #: /Game/Blueprint/ACF/Tutorial/WBP_TutorialTip6.WBP_TutorialTip6_C:WidgetTree.TextBlock_2.Text
 msgctxt ",6F0E9F7E437D2F62860D7DBCB2CCA2B1"
 msgid "尝试在科技树中解锁工作台，并解锁木板建造"
-msgstr "Försök att låsa upp arbetsbänken i teknikträdet och lås upp plankbyggnaden"
+msgstr "Försök att låsa upp arbetsbänken i teknikträdet och lås upp plankor"
 
 #. Key:	6F5F51994CAB7AD0679A3CBCF6E70E65
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_ItemList.WBP_ItemList_C:WidgetTree.TextBlock.Text
 #: /Game/Blueprint/UMG/God/WBP_ItemList.WBP_ItemList_C:WidgetTree.TextBlock.Text
 msgctxt ",6F5F51994CAB7AD0679A3CBCF6E70E65"
 msgid "食物"
-msgstr "mat"
+msgstr "Mat"
 
 #. Key:	700402F4456BC61A64D4C8B0B01C8B25
 #. SourceLocation:	/Game/Blueprint/Car/InCarMode.InCarMode.DisplayNameMap(2 - Value).DisplayNameMap
@@ -2475,14 +2476,14 @@ msgstr "Främre höger"
 #: /Game/Blueprint/UMG/Inventory/WBP_ItemToolTip.WBP_ItemToolTip_C:WidgetTree.SD_1.Text
 msgctxt ",70118A3E4AD82BDD14F7F4915D380BEB"
 msgid "速度"
-msgstr "fart"
+msgstr "Fart"
 
 #. Key:	7024D3834432B9FE79B3F0B07A3FCD5E
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_PZX.WBP_PZX_C:WidgetTree.Fertillzer.Text
 #: /Game/Blueprint/UMG/Furniture/WBP_PZX.WBP_PZX_C:WidgetTree.Fertillzer.Text
 msgctxt ",7024D3834432B9FE79B3F0B07A3FCD5E"
 msgid "肥料"
-msgstr "gödningsmedel"
+msgstr "Gödning"
 
 #. Key:	7071B2944E64F1D0A2537CA62BD591EB
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_DSServer.WBP_DSServer_C:WidgetTree.WBP_Search.In Text
@@ -2496,21 +2497,21 @@ msgstr "Sök"
 #: /Game/Blueprint/UMG/Furniture/WBP_SPX.WBP_SPX_C:WidgetTree.Fertillzer.Text
 msgctxt ",708C444C46FBE1B6C976B38E7302A343"
 msgid "肥料"
-msgstr "gödningsmedel"
+msgstr "Gödningsmedel"
 
 #. Key:	70C442BB43EDD72D718B818E1FB9D761
 #. SourceLocation:	/Game/Blueprint/ACF/Manager/E_Season.E_Season.DisplayNameMap(3 - Value).DisplayNameMap
 #: /Game/Blueprint/ACF/Manager/E_Season.E_Season.DisplayNameMap(3 - Value).DisplayNameMap
 msgctxt ",70C442BB43EDD72D718B818E1FB9D761"
 msgid "winter"
-msgstr "vinter"
+msgstr "Vinter"
 
 #. Key:	716F5EBE49D73209F99CFA883796B315
 #. SourceLocation:	/Game/Blueprint/ACF/Tutorial/WBP_TutorialTip8.WBP_TutorialTip8_C:WidgetTree.TextBlock_3.Text
 #: /Game/Blueprint/ACF/Tutorial/WBP_TutorialTip8.WBP_TutorialTip8_C:WidgetTree.TextBlock_3.Text
 msgctxt ",716F5EBE49D73209F99CFA883796B315"
 msgid "使用稿子击碎石头"
-msgstr "Krossande stenar med manuskript"
+msgstr "Använd hacka för att bryta sten."
 
 #. Key:	719B3E1D4C94FB1547CDD4BD2E54B1B5
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_CarInventory.WBP_CarInventory_C:WidgetTree.TextBlock_84.Text
@@ -2531,7 +2532,7 @@ msgstr "TESTA"
 #: /Game/Blueprint/UMG/Furniture/WBP_SY_List.WBP_SY_List_C:ExecuteUbergraph_WBP_SY_List [Script Bytecode]
 msgctxt ",7209EEC74B6D1B8D26F00A87132B5F14"
 msgid "可繁殖"
-msgstr "bördig"
+msgstr "Bördig"
 
 #. Key:	721E365A451AAAA64D44B390CD6312C9
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/FaceUI/WBP_Select.Default__WBP_Select_C.In Text
@@ -2552,7 +2553,7 @@ msgstr "NULL"
 #: /Game/HDCKBuildingSystem/Blueprints/Base/RoofEndTringer_Base.Default__RoofEndTringer_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",732429F04FE9EF56DB7BB3965B5D3B4A"
 msgid "提示信息"
-msgstr "snabb information"
+msgstr "Snabba Tips"
 
 #. Key:	735E15A146BDA95257D282903C633040
 #. SourceLocation:	/Game/Blueprint/UMG/ScreenMessage/WBP_CarMessage.WBP_CarMessage_C:UpdateShow [Script Bytecode]
@@ -2566,14 +2567,14 @@ msgstr "R"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_12.In Text
 msgctxt ",746C15D045E29D89B01FB4B3C07BEA54"
 msgid "制药桌"
-msgstr "Apoteksbord"
+msgstr "Medecinskt lab"
 
 #. Key:	750F8A8B49580EB2DBA6DFA86324F73F
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_ItemList.WBP_ItemList_C:WidgetTree.TextBlock_1.Text
 #: /Game/Blueprint/UMG/God/WBP_ItemList.WBP_ItemList_C:WidgetTree.TextBlock_1.Text
 msgctxt ",750F8A8B49580EB2DBA6DFA86324F73F"
 msgid "枪械配件"
-msgstr "Tillbehör till skjutvapen"
+msgstr "Vapentillbehör"
 
 #. Key:	7547155D4FB7AE0D0F8FAA876F856384
 #. SourceLocation:	/Game/HDCKBuildingSystem/Table/E_SelectTypeChild.E_SelectTypeChild.DisplayNameMap(2 - Value).DisplayNameMap
@@ -2615,14 +2616,14 @@ msgstr "1"
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_GameSetting.WBP_GameSetting_C:WidgetTree.TextBlock_4.Text
 msgctxt ",7617FC3A4D3F680AB0BBEBACBADB140C"
 msgid "倍"
-msgstr "gånger"
+msgstr "X"
 
 #. Key:	761F4D984F10527EA231C0B8CB66BEA4
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_31.Text
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_31.Text
 msgctxt ",761F4D984F10527EA231C0B8CB66BEA4"
 msgid "下雪"
-msgstr "snö"
+msgstr "Snö"
 
 #. Key:	7654F8864727F325AF41A085E05A9BA3
 #. SourceLocation:	/Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(17).Mappings.PlayerMappableOptions.DisplayName
@@ -2636,7 +2637,7 @@ msgstr "IA_Ladda om"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_62.In Text
 msgctxt ",76AB6D6C4BB02B632778CAB4C55641E7"
 msgid "储水站"
-msgstr "vattenlagringsstation"
+msgstr "Vattentank"
 
 #. Key:	76EED28C44F6D66538B4C99266E28A6E
 #. SourceLocation:	/Game/Blueprint/UMG/Inventory/WBP_ItemToolTip.WBP_ItemToolTip_C:WidgetTree.Weidget.Text
@@ -2664,7 +2665,7 @@ msgstr "Lägg till alla"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_26.In Text
 msgctxt ",78654B7C40CB825C0C5430BC0293D7F9"
 msgid "农业工具台"
-msgstr "jordbruksverktygstabell"
+msgstr "Jordbruksstation"
 
 #. Key:	788171F949D09004E54914B48D5E5FD4
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_10.Text
@@ -2678,7 +2679,7 @@ msgstr "Jordbruk+"
 #: /Game/HDCKBuildingSystem/Blueprints/Base/Door_Base.Default__Door_Base_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 msgctxt ",788C537A42603730529C89AFE8CC3525"
 msgid "家具"
-msgstr "möbel"
+msgstr "Möbler"
 
 #. Key:	78BAEC264BF893A643E55494D2948437
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_RLL.WBP_RLL_C:WidgetTree.Num.Text
@@ -2699,14 +2700,14 @@ msgstr "Medium"
 #: /Game/Blueprint/ACF/Item/Weapon/ACFGunBase_Rifle.Default__ACFGunBase_Rifle_C.ItemInfo.Name
 msgctxt ",79B0F10B46AA0CD33822A08E1CD670B3"
 msgid "M4步枪"
-msgstr "M4 gevär"
+msgstr "M4 Automatkarbin"
 
 #. Key:	7A117314455AB9B7DAE9E8A5F1544780
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_34.Text
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_34.Text
 msgctxt ",7A117314455AB9B7DAE9E8A5F1544780"
 msgid "秋"
-msgstr "höst"
+msgstr "Höst"
 
 #. Key:	7A1A14404F3EFB40E6587EA59EAAC01C
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_Study.WBP_Study_C:WidgetTree.LevelText.Text
@@ -2727,14 +2728,14 @@ msgstr "Regn"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_59.In Text
 msgctxt ",7A7B37B14D17BF08CE96FE8C76CE1D2A"
 msgid "钢匕首"
-msgstr "ståldolk"
+msgstr "Karambit"
 
 #. Key:	7A83E12340E7697B07074B82A0756EDA
 #. SourceLocation:	/Game/HDCKBuildingSystem/UMG/WBP_ToolTip.WBP_ToolTip_C:WidgetTree.Name.Text
 #: /Game/HDCKBuildingSystem/UMG/WBP_ToolTip.WBP_ToolTip_C:WidgetTree.Name.Text
 msgctxt ",7A83E12340E7697B07074B82A0756EDA"
 msgid "木制地基"
-msgstr "trägrund"
+msgstr "Trägrund"
 
 #. Key:	7AB31FF24DB7E548A6B672B1357718B2
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/WB/BP_GunAccessory_WB_CZ02.Default__BP_GunAccessory_WB_CZ02_C.ItemInfo.Description
@@ -2755,35 +2756,35 @@ msgstr "En låda för att förvara föremål så att föremål inte kan gå för
 #: /Game/Blueprint/ACF/Player/HDCK_CharacterBP.Default__HDCK_CharacterBP_C.TimeBuffDetail(3).TimeBuffDetail.TipMessage_56_5402F47A4785659B27440099C7CA676D
 msgctxt ",7C0FCE4E48A440A1B873C4ABF1E1E7F3"
 msgid "食物"
-msgstr "mat"
+msgstr "Mat"
 
 #. Key:	7C2B47074356869105F236B2DA55D6B5
 #. SourceLocation:	/Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_12.TipMessage_41_0D1B7B6342180F0BD1D386A6C8ADE0B3
 #: /Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_12.TipMessage_41_0D1B7B6342180F0BD1D386A6C8ADE0B3
 msgctxt ",7C2B47074356869105F236B2DA55D6B5"
 msgid "战斗获取经验"
-msgstr "strid skaffa sig erfarenhet"
+msgstr "Slåss för att få erfarenhet"
 
 #. Key:	7CCCED78433FBE0BEEEFD09131C4426E
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_KG.Furniture_KG_C:ShowUI [Script Bytecode]
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_KG.Furniture_KG_C:ShowUI [Script Bytecode]
 msgctxt ",7CCCED78433FBE0BEEEFD09131C4426E"
 msgid "切换"
-msgstr "att byta"
+msgstr "Byta"
 
 #. Key:	7CF1FA4449F3464AF0C74796614B54EC
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_1.In Text
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_1.In Text
 msgctxt ",7CF1FA4449F3464AF0C74796614B54EC"
 msgid "简易零件"
-msgstr "enkla delar"
+msgstr "Enkla delar"
 
 #. Key:	7DACF9794BC2AAAAC48B419D1D4BD315
 #. SourceLocation:	/Game/Blueprint/UMG/Inventory/WBP_AddButton.WBP_AddButton_C:OnDrop [Script Bytecode]
 #: /Game/Blueprint/UMG/Inventory/WBP_AddButton.WBP_AddButton_C:OnDrop [Script Bytecode]
 msgctxt ",7DACF9794BC2AAAAC48B419D1D4BD315"
 msgid "太潮湿了"
-msgstr "för blött"
+msgstr "För blött"
 
 #. Key:	7DAD31A340C24CAF0DFCC18F7FB40DFB
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/QT/BP_GunAccessory_JJ_QT01.Default__BP_GunAccessory_JJ_QT01_C.ItemInfo.Description
@@ -2797,14 +2798,14 @@ msgstr "Modell 01"
 #: /Game/HDCKBuildingSystem/Blueprints/Base/HorizontalBeam2GE.Default__HorizontalBeam2GE_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",7DFF1646445476D76FA4279B406D92F5"
 msgid "提示信息"
-msgstr "snabb information"
+msgstr "Snabba Tips"
 
 #. Key:	7E0D35D04487BF2FCA42F68796859048
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_18.Text
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_18.Text
 msgctxt ",7E0D35D04487BF2FCA42F68796859048"
 msgid "生命值-"
-msgstr "livsvärde-"
+msgstr "Hälsa-"
 
 #. Key:	7E1AF86D4DF1A90B75698E8CE26CA187
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/Furniture_Base.Furniture_Base_C:ShowUI [Script Bytecode]
@@ -2825,7 +2826,7 @@ msgstr "RoofEndHorizontal"
 #: /Game/Blueprint/ACF/Item/Food/BP_FoodBase.Default__BP_FoodBase_C.ItemInfo.Name
 msgctxt ",7EF400A4456E0B693545D1A412DF808F"
 msgid "香菇"
-msgstr "svamp"
+msgstr "Svamp"
 
 #. Key:	7F2F223540F12CA2FB39758E1547949E
 #. SourceLocation:	/Game/Blueprint/UMG/State/WBP_Status.WBP_Status_C:WidgetTree.Year.Text
@@ -2846,7 +2847,7 @@ msgstr "Näringslösning"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_100.In Text
 msgctxt ",7FA65542446148104FC12EA47B74C222"
 msgid "电线"
-msgstr "elkabel"
+msgstr "Elkabel"
 
 #. Key:	7FA6EFF7413C33D5AF9AE28A0B1B7D72
 #. SourceLocation:	/Game/Blueprint/ACF/Manager/E_Weather.E_Weather.DisplayNameMap(2 - Value).DisplayNameMap
@@ -2867,28 +2868,28 @@ msgstr "TESTA"
 #: /Game/Blueprint/UMG/Furniture/WBP_CarInventory01.WBP_CarInventory01_C:WidgetTree.Repir_2.ToolTipText
 msgctxt ",808F715944DB629B18CE04BDF7A72F96"
 msgid "重置位置"
-msgstr "återställ position"
+msgstr "Återställ positionen"
 
 #. Key:	811B025545D9BE8290B8D983D2645CAE
 #. SourceLocation:	/Game/Blueprint/ACF/Tutorial/WBP_TutorialTip7.WBP_TutorialTip7_C:WidgetTree.TextBlock_3.Text
 #: /Game/Blueprint/ACF/Tutorial/WBP_TutorialTip7.WBP_TutorialTip7_C:WidgetTree.TextBlock_3.Text
 msgctxt ",811B025545D9BE8290B8D983D2645CAE"
 msgid "提升枪械技能或安装配件可有效改善后坐力"
-msgstr "Att förbättra skjutvapenfärdigheter eller installera tillbehör kan effektivt förbättra rekylen"
+msgstr "Att förbättra skjutvapenfärdigheter eller installera tillbehör kan förbättra rekylen."
 
 #. Key:	81A960174CE991FE49649189E5DD74B2
 #. SourceLocation:	/Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_5.TipMessage_41_0D1B7B6342180F0BD1D386A6C8ADE0B3
 #: /Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_5.TipMessage_41_0D1B7B6342180F0BD1D386A6C8ADE0B3
 msgctxt ",81A960174CE991FE49649189E5DD74B2"
 msgid "力量"
-msgstr "styrka"
+msgstr "Styrka"
 
 #. Key:	81AB2C40433BB1ED045FCEA35270BF88
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_51.In Text
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_51.In Text
 msgctxt ",81AB2C40433BB1ED045FCEA35270BF88"
 msgid "机械加工台"
-msgstr "bearbetningsbord"
+msgstr "Metallsvarv?"
 
 #. Key:	82540EE94040D3082E3DEDB3815DC2C0
 #. SourceLocation:	/Game/Blueprint/ACF/Data/TableAsset/FoodAssetTable.FoodAssetTable.机修（五卷）.Name_33_B65BC8D64E83EF46F5F21FA5566C3997
@@ -2902,7 +2903,7 @@ msgstr "Maskinreparation (volym fem)"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_4.Text
 msgctxt ",82953B6242A3C383327AA28D77B8DB49"
 msgid "武器"
-msgstr "vapen"
+msgstr "Vapen"
 
 #. Key:	836EB7AB40D4C893FD6B23A855BE4F36
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/WBP_Main.WBP_Main_C:WidgetTree.TextBlock_0.Text
@@ -2923,28 +2924,28 @@ msgstr "Trappa"
 #: /Game/Blueprint/UMG/Furniture/WBP_SPX.WBP_SPX_C:WidgetTree.Name.Text
 msgctxt ",8439C78A4C9828482C08898CCAB73859"
 msgid "番茄"
-msgstr "tomat"
+msgstr "Tomat"
 
 #. Key:	84947F6A4429C4DEC1463097ADF556FA
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_52.In Text
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_52.In Text
 msgctxt ",84947F6A4429C4DEC1463097ADF556FA"
 msgid "燃油发电机"
-msgstr "bränslegenerator"
+msgstr "Dieselgenerator"
 
 #. Key:	85149FD54B55F3B6218485B6BA8F72FD
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_60.In Text
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_60.In Text
 msgctxt ",85149FD54B55F3B6218485B6BA8F72FD"
 msgid "精细零件"
-msgstr "fina delar"
+msgstr "Avancerade delar"
 
 #. Key:	85CF296B4D233E7440EFA8AE591A2FFC
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_LDQ.Default__Furniture_LDQ_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_LDQ.Default__Furniture_LDQ_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",85CF296B4D233E7440EFA8AE591A2FFC"
 msgid "提示信息"
-msgstr "snabb information"
+msgstr "Snabba Tips"
 
 #. Key:	85DE22324C7068D83740A99089B247E1
 #. SourceLocation:	/Game/Blueprint/UMG/EscMenu/WBP_Setting.Default__WBP_Setting_C.Setting(0).Setting
@@ -2972,42 +2973,42 @@ msgstr "Maskinreparation (volym två)"
 #: /Game/Blueprint/UMG/Furniture/WBP_DCZDetail.WBP_DCZDetail_C:WidgetTree.TextBlock_233.Text
 msgctxt ",867940C94407F9B1E6580C8C164DED1C"
 msgid "电量:"
-msgstr "Kraft:"
+msgstr "Effekt:"
 
 #. Key:	8710C0014D4869B4CBF99993FFD25E15
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_19.In Text
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_19.In Text
 msgctxt ",8710C0014D4869B4CBF99993FFD25E15"
 msgid "肾上腺素"
-msgstr "adrenalin"
+msgstr "Adrenalin"
 
 #. Key:	888378F14746FF86779276B265E2FC14
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Spear/BP_SpearShoot_G.Default__BP_SpearShoot_G_C.ItemInfo.Name
 #: /Game/Blueprint/ACF/Item/Weapon/Spear/BP_SpearShoot_G.Default__BP_SpearShoot_G_C.ItemInfo.Name
 msgctxt ",888378F14746FF86779276B265E2FC14"
 msgid "木矛"
-msgstr "träspjut"
+msgstr "Träspjut"
 
 #. Key:	89132394498B7996A54198A9006A847B
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_39.In Text
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_39.In Text
 msgctxt ",89132394498B7996A54198A9006A847B"
 msgid "银锭"
-msgstr "silvergöt"
+msgstr "Silver tacka"
 
 #. Key:	892DE0C84B6887D6EFA69E8C79F48754
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/ACFGunBase_HandGun.Default__ACFGunBase_HandGun_C.ItemInfo.Name
 #: /Game/Blueprint/ACF/Item/Weapon/ACFGunBase_HandGun.Default__ACFGunBase_HandGun_C.ItemInfo.Name
 msgctxt ",892DE0C84B6887D6EFA69E8C79F48754"
 msgid "G18手枪"
-msgstr "G18 pistol"
+msgstr "18C Automatpistol"
 
 #. Key:	895DDEAA447AEEB87FC85BA41F762B94
 #. SourceLocation:	/Game/HDCKBuildingSystem/Table/E_SelectType.E_SelectType.DisplayNameMap(2 - Value).DisplayNameMap
 #: /Game/HDCKBuildingSystem/Table/E_SelectType.E_SelectType.DisplayNameMap(2 - Value).DisplayNameMap
 msgctxt ",895DDEAA447AEEB87FC85BA41F762B94"
 msgid "furniture"
-msgstr "möbel"
+msgstr "Möbler"
 
 #. Key:	896977E14C8A6A85B1393192A07E580F
 #. SourceLocation:	/Game/Blueprint/UMG/NPCUMG/WBP_JYDetail.WBP_JYDetail_C:WidgetTree.TextBlock_74.Text
@@ -3021,7 +3022,7 @@ msgstr "Bekräfta transaktionen"
 #: /Game/Blueprint/UMG/Furniture/WBP_SPX.WBP_SPX_C:WidgetTree.Water.Text
 msgctxt ",89B6EC0E40C217402E0E0998BA850636"
 msgid "水分"
-msgstr "fukt"
+msgstr "Fukt"
 
 #. Key:	89D8CA9E44109BE47BCD1792896593F2
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/QK/BP_GunAccessoryQK_JJ_BC02.Default__BP_GunAccessoryQK_JJ_BC02_C.ItemInfo.Description
@@ -3035,28 +3036,28 @@ msgstr "Modell 02"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_45.In Text
 msgctxt ",8A4DDA014B1E6C0933545687B5ACE492"
 msgid "铁锤"
-msgstr "hammare"
+msgstr "Järnhammare"
 
 #. Key:	8AB657134BC71D80A664569881FBD37B
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(3 - Value).DisplayNameMap
 #: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(3 - Value).DisplayNameMap
 msgctxt ",8AB657134BC71D80A664569881FBD37B"
 msgid "Null"
-msgstr "Null"
+msgstr "Tom"
 
 #. Key:	8C4494664EE8ADA1ABA9EC8FC937971C
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/E_AimType.E_AimType.DisplayNameMap(3 - Value).DisplayNameMap
 #: /Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/E_AimType.E_AimType.DisplayNameMap(3 - Value).DisplayNameMap
 msgctxt ",8C4494664EE8ADA1ABA9EC8FC937971C"
 msgid "Null"
-msgstr "Null"
+msgstr "Tom"
 
 #. Key:	8C7294F84D472245F1F4FAAC1DF11D29
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/VerticalBeam_30.Default__VerticalBeam_30_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 #: /Game/HDCKBuildingSystem/Blueprints/Base/VerticalBeam_30.Default__VerticalBeam_30_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",8C7294F84D472245F1F4FAAC1DF11D29"
 msgid "提示信息"
-msgstr "snabb information"
+msgstr "Snabba Tips"
 
 #. Key:	8C76F3354A03EDF4BFBD1FB712E3A7F4
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_JGT.WBP_JGT_C:WidgetTree.Num.Text
@@ -3077,7 +3078,7 @@ msgstr "Medicin+"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_23.In Text
 msgctxt ",8D4C253441E4A1B23D31ABBE84ABCBF1"
 msgid "雨水收集器"
-msgstr "regnvattenuppsamlare"
+msgstr "Regnvattensamlare"
 
 #. Key:	8DB992364730261D2222EBB5E748538F
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/WBP_RoomSlot.WBP_RoomSlot_C:WidgetTree.pING.Text
@@ -3105,7 +3106,7 @@ msgstr "29"
 #: /Game/Blueprint/UMG/EscMenu/WBP_Dead.WBP_Dead_C:WidgetTree.TextBlock_89.Text
 msgctxt ",90AEE0354358F92731434F81DD54BB24"
 msgid "重生"
-msgstr "återfödelse"
+msgstr "Återuppstå"
 
 #. Key:	90D7107E43831E7B09B97ABCB3F4AD74
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_90.In Text
@@ -3147,7 +3148,7 @@ msgstr "Modell 02"
 #: /Game/HDCKBuildingSystem/Blueprints/Base/Roof_Top.Default__Roof_Top_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",92DB89E34ED4636BAD31669151B5D6C6"
 msgid "提示信息"
-msgstr "snabb information"
+msgstr "Snabba Tips"
 
 #. Key:	92DF8E7948C1E23BAAB968B3066CA1A9
 #. SourceLocation:	/Game/HDCKBuildingSystem/Table/BuildTable.BuildTable.OutStairs.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
@@ -3280,7 +3281,7 @@ msgstr "Inga reparationsverktyg!"
 #: /Game/HDCKBuildingSystem/Blueprints/Base/VerticalBeam_Base.Default__VerticalBeam_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",999F80E349079E38988987AABAC5BB72"
 msgid "提示信息"
-msgstr "snabb information"
+msgstr "Snabba Tips"
 
 #. Key:	99C38A1E45C6826D574A1389F47237C4
 #. SourceLocation:	/Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(23).Mappings.PlayerMappableOptions.DisplayName
@@ -3350,7 +3351,7 @@ msgstr "Öppna menypanelen Konstruktion och välj Timber Foundation"
 #: /Game/HDCKBuildingSystem/Blueprints/Base/Roof_45_intersection.Default__Roof_45_intersection_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",9E4F95A84C35BB48347AA1AE858AAE33"
 msgid "提示信息"
-msgstr "snabb information"
+msgstr "Snabba Tips"
 
 #. Key:	9E632F8949F56E68D88F799607625386
 #. SourceLocation:	/Game/Blueprint/UMG/EscMenu/WBP_Dead.WBP_Dead_C:ExecuteUbergraph_WBP_Dead [Script Bytecode]
@@ -3364,7 +3365,7 @@ msgstr "Återfödelse..."
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_ZJ.Furniture_ZJ_C:ExecuteUbergraph_Furniture_ZJ [Script Bytecode]
 msgctxt ",9EC234B04FEF2CF93F8F16A86C209716"
 msgid "饲料满了！"
-msgstr "Flödet är fullt!"
+msgstr "Tråget är fullt!"
 
 #. Key:	9EC932C0431AE107C5E9F3B09C1EF1F0
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/TipCheck.TipCheck_C:WidgetTree.TextBlock_107.Text
@@ -3602,7 +3603,7 @@ msgstr "tvåhandskniv av stål"
 #: /Game/HDCKBuildingSystem/Blueprints/Base/RoofEndHorizontal_Base.Default__RoofEndHorizontal_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",AC18E0D44BF3818262EF0CAB79856665"
 msgid "提示信息"
-msgstr "snabb information"
+msgstr "Snabba Tips"
 
 #. Key:	AC84840B4539E7BC652898AC86BCECF8
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/QK/BP_GunAccessoryQK_JJ_BC01.Default__BP_GunAccessoryQK_JJ_BC01_C.ItemInfo.Description
@@ -3700,7 +3701,7 @@ msgstr "måste placeras på marken"
 #: /Game/HDCKBuildingSystem/Blueprints/Base/HorizontalBeam_Base.Default__HorizontalBeam_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",B08E6BFF426085C71EE73FB83AB86704"
 msgid "提示信息"
-msgstr "snabb information"
+msgstr "Snabba Tips"
 
 #. Key:	B0942D1946775C199F77B7B8C29F350F
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/E_AimType.E_AimType.DisplayNameMap(2 - Value).DisplayNameMap
@@ -4001,7 +4002,7 @@ msgstr "Antal spelare: 5"
 #: /Game/HDCKBuildingSystem/Blueprints/Base/Car_Base.Default__Car_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",BC7DF0C340280B5AE5433887448AAA78"
 msgid "提示信息"
-msgstr "snabb information"
+msgstr "Snabba Tips"
 
 #. Key:	BC879B3F4ECE110B894771976EFF65F1
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_MakeBase.Default__Furniture_MakeBase_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
@@ -4141,7 +4142,7 @@ msgstr "Skuggad eller oförmögen att generera elektricitet i frånvaro av solen
 #: /Game/Blueprint/ACF/Player/HDCK_GameMode.HDCK_GameMode_C:ExecuteUbergraph_HDCK_GameMode [Script Bytecode]
 msgctxt ",C4C9089841ED96447C2336ADFE055AE0"
 msgid "存档失败！！！"
-msgstr "Arkivering misslyckades! ! !"
+msgstr "Spara misslyckades! ! !"
 
 #. Key:	C503D8D4432665A9708A219FA438AF85
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_57.In Text
@@ -4239,7 +4240,7 @@ msgstr "Läcker stuvad frukt"
 #: /Game/HDCKBuildingSystem/Blueprints/Base/Roof_45_Corner.Default__Roof_45_Corner_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",CA01173B48E00777527333BF283A8ECF"
 msgid "提示信息"
-msgstr "snabb information"
+msgstr "Snabba Tips"
 
 #. Key:	CA38F5DF4EFCC8AEEFBAC7803C1FB9D0
 #. SourceLocation:	/Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(2 - Value).DisplayNameMap
@@ -4393,14 +4394,14 @@ msgstr "Denna artikel kan inte utrustas här"
 #: /Game/HDCKBuildingSystem/Blueprints/Base/GuardRail_Base.Default__GuardRail_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",D2B00B42448E9C68C5BB7BBC74B50A12"
 msgid "提示信息"
-msgstr "snabb information"
+msgstr "Snabba Tips"
 
 #. Key:	D32A4D03413139E3B6FDB1B424B6207F
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_JoinGame.WBP_JoinGame_C:ExecuteUbergraph_WBP_JoinGame [Script Bytecode]
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_JoinGame.WBP_JoinGame_C:ExecuteUbergraph_WBP_JoinGame [Script Bytecode]
 msgctxt ",D32A4D03413139E3B6FDB1B424B6207F"
 msgid "加入失败！"
-msgstr "Det gick inte att gå med!"
+msgstr "Det gick inte att ansluta!"
 
 #. Key:	D3376D2445BA964A33A92D94FE102F37
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/LongBlunt/BP_LongBluntStick_G.Default__BP_LongBluntStick_G_C.ItemInfo.Description
@@ -4498,7 +4499,7 @@ msgstr "Arbetsbänken kommer automatiskt att slutföra uppgiften, du behöver in
 #: /Game/HDCKBuildingSystem/Blueprints/Base/OutDoorsStairs_Base.Default__OutDoorsStairs_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",D93DE96549EB60B216FED58F9FA2F16D"
 msgid "提示信息"
-msgstr "snabb information"
+msgstr "Snabba Tips"
 
 #. Key:	D9BFDCBF49522F6BD0A0AE9DFE3A46D0
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(10 - Value).DisplayNameMap
@@ -4512,7 +4513,7 @@ msgstr "RoofEnde"
 #: /Game/HDCKBuildingSystem/Blueprints/Base/Roof_45_Base.Default__Roof_45_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",D9CB867B44E6AC07A493919FCBD26528"
 msgid "提示信息"
-msgstr "snabb information"
+msgstr "Snabba Tips"
 
 #. Key:	D9DDCEFB423648DEE630F5AAAFEE978B
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_89.In Text
@@ -4547,7 +4548,7 @@ msgstr "stål hammare"
 #: /Game/HDCKBuildingSystem/Blueprints/Base/BuildMeshBase.Default__BuildMeshBase_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",DA76A68842D939CD40D943A24231BEB6"
 msgid "提示信息"
-msgstr "snabb information"
+msgstr "Snabba Tips"
 
 #. Key:	DAA65D3D4FBE879E081A5AA9A8CA9F3B
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/ShortSharp/BP_Knife01.Default__BP_Knife01_C.ItemInfo.Name
@@ -4575,7 +4576,7 @@ msgstr "krut"
 #: /Game/HDCKBuildingSystem/Blueprints/Base/Wall_Window.Default__Wall_Window_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",DB5688A34AE876440300939DA10E1203"
 msgid "提示信息"
-msgstr "snabb information"
+msgstr "Snabba Tips"
 
 #. Key:	DB972C8A42088B0F686C0088380FA942
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_9.Text
@@ -4722,7 +4723,7 @@ msgstr "5 %"
 #: /Game/Blueprint/UMG/MainUI/Child/TipDelSlot.TipDelSlot_C:WidgetTree.TextBlock_107.Text
 msgctxt ",E0BDBA2A4577298FB1E9F9939B39A11B"
 msgid "确认删除存档吗？"
-msgstr "Är du säker på att ta bort arkivet?"
+msgstr "Är du säker på att ta bort din save?"
 
 #. Key:	E14242274DBF33A81F07A280CB8FA63E
 #. SourceLocation:	/Game/Blueprint/ACF/Tutorial/WBP_TutorialTip7.WBP_TutorialTip7_C:WidgetTree.TextBlock_2.Text
@@ -4743,7 +4744,7 @@ msgstr "Bränsle: 10/50L"
 #: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(16 - Value).DisplayNameMap
 msgctxt ",E1DE8CFB4115A7723A5FB9973E62A4EA"
 msgid "Furniture"
-msgstr "möbel"
+msgstr "Möbler"
 
 #. Key:	E2E0964B4D190CE50F62B589079F730D
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_ShowDCZ.WBP_ShowDCZ_C:WidgetTree.Name.Text
@@ -4806,7 +4807,7 @@ msgstr "Säljtillbehör uppdateras"
 #: /Game/HDCKBuildingSystem/Blueprints/Base/RoofEnd_Base.Default__RoofEnd_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",E556A0064015F8203A1E46B108235EE7"
 msgid "提示信息"
-msgstr "snabb information"
+msgstr "Snabba Tips"
 
 #. Key:	E55D360946BFB010A48B85A3400EDE5D
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Throw/BP_Throw_Base.Default__BP_Throw_Base_C.ItemInfo.Name
@@ -4946,7 +4947,7 @@ msgstr "9 mm kula"
 #: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(0 - Value).DisplayNameMap
 msgctxt ",E9A10E33421DF89FF3203C8259441E89"
 msgid "Foundation"
-msgstr "fundament"
+msgstr "Fundament"
 
 #. Key:	EA0EC3B642C8B4951763BC891CC14B52
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/QK/BP_GunAccessoryQK_CF_BC01.Default__BP_GunAccessoryQK_CF_BC01_C.ItemInfo.Description
@@ -4981,7 +4982,7 @@ msgstr "sökande"
 #: /Game/HDCKBuildingSystem/Blueprints/Base/HandGuardStairs_Base.Default__HandGuardStairs_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",EC27C81F41D500890A2949A91B7DE1E2"
 msgid "提示信息"
-msgstr "snabb information"
+msgstr "Snabba Tips"
 
 #. Key:	EC510E034A21173FA2F1D897E1562A29
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/DJ/BP_GunAccessory_DJ_9MM_02.Default__BP_GunAccessory_DJ_9MM_02_C.ItemInfo.Description
@@ -5310,7 +5311,7 @@ msgstr "Modell 01"
 #: /Game/HDCKBuildingSystem/Blueprints/Base/Wall_triangle.Default__Wall_triangle_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",FAFE310A4636AF278CB5F9AD22539A39"
 msgid "提示信息"
-msgstr "snabb information"
+msgstr "Snabba Tips"
 
 #. Key:	FB4AA59C4F7B31F2F8C325B64FCF6379
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_65.In Text
@@ -5331,7 +5332,7 @@ msgstr "Standard"
 #: /Game/HDCKBuildingSystem/Blueprints/Base/RoofEndVertical_45_Base.Default__RoofEndVertical_45_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",FC61E1904AC1433B0F83A5B589259934"
 msgid "提示信息"
-msgstr "snabb information"
+msgstr "Snabba Tips"
 
 #. Key:	FD23C90B4B0BEDE8A18429A85A651B61
 #. SourceLocation:	/Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(0 - Value).DisplayNameMap
@@ -5408,7 +5409,7 @@ msgstr "1"
 #: /Game/Blueprint/UMG/Furniture/WBP_XSC.WBP_XSC_C:WidgetTree.TextBlock_122.Text
 msgctxt ",FEB4BCDA4679F137584DEC971159DDF9"
 msgid "滤芯："
-msgstr "Filterelement:"
+msgstr "Filter:"
 
 #. Key:	FF09B24548010A88880671934DB31229
 #. SourceLocation:	/Game/HDCKBuildingSystem/Table/BuildTable.BuildTable.RoofIntersection20.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
@@ -5548,7 +5549,7 @@ msgstr "handskydd"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",HandGuardDetail"
 msgid "一个单独的护手。"
-msgstr "En separat handske."
+msgstr "En separat staketstolpe."
 
 #. Key:	HandGuardStairs
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5695,7 +5696,7 @@ msgstr "Stentak (45 grader)"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",Roof45_02Detail"
 msgid "有很好的遮风挡雨作用。"
-msgstr "Den har en bra effekt av att skydda mot vind och regn."
+msgstr "Det skyddar bra mot vind och regn."
 
 #. Key:	Roof45Adsorbent
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5716,7 +5717,7 @@ msgstr "balk eller pelare"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",Roof45Detail"
 msgid "茅草屋顶，可以一定程度起到遮风挡雨的作用。"
-msgstr "Halmtaket kan till viss del spela en roll för att skydda mot vind och regn."
+msgstr "Halmtaket kan till viss del skydda mot vind och regn."
 
 #. Key:	RoofBase
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -6038,7 +6039,7 @@ msgstr "balk, grund eller mark eller golv"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",StairsDetail"
 msgid "木头制成的楼梯。"
-msgstr "Trappa av trä."
+msgstr "Trätrappa."
 
 #. Key:	TDC
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -8264,7 +8265,7 @@ msgstr "Glas"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M2"
 msgid "普通木材可用于建筑，制造工具。"
-msgstr "Vanligt trä kan användas i konstruktion, tillverkning av verktyg."
+msgstr "Vanligt trä kan användas i konstruktion och tillverkning av verktyg."
 
 #. Key:	M20
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9328,7 +9329,7 @@ msgstr "stålspjut"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W4"
 msgid "主要用于砍树，必要时候也可以用来防身。"
-msgstr "Den används främst för att hugga träd, och kan även användas för självförsvar vid behov."
+msgstr "Den används främst för att fälla träd, och kan även användas för självförsvar vid behov."
 
 #. Key:	W40
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9475,14 +9476,14 @@ msgstr "stenplocka"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W9"
 msgid "主要用于打碎石头，必要时候也可以用来防身。"
-msgstr "Det används främst för att bryta stenar, och kan även användas för självförsvar vid behov."
+msgstr "Den används främst för att bryta sten och kan även användas för självförsvar vid behov."
 
 #. Key:	01
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,01"
 msgid "当食物新鲜度开始变黄，吃下去可能会感染疟疾，新鲜度越低感染的可能性越大。"
-msgstr "När matens fräschör börjar gulna kan du bli smittad av malaria om du äter den Ju lägre färskhet desto större är risken för infektion."
+msgstr "När matens status börjar bli gul kan du bli smittad av malaria om du äter den. Ju lägre färskhet desto större är risken för infektion."
 
 #. Key:	02
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -9496,28 +9497,28 @@ msgstr "Att träffa ett förstörbart föremål med ett trubbigt vapen gör mer 
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,03"
 msgid "快跑会快速消耗碳水化合物，蛋白质，口渴度。"
-msgstr "Att springa snabbt kommer snabbt att konsumera kolhydrater, protein och törst."
+msgstr "Att springa snabbt konsumerar fler kolhydrater, protein och vatten."
 
 #. Key:	04
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,04"
 msgid "体力过低会影响伤害。"
-msgstr "Låg uthållighet påverkar skadan."
+msgstr "Låg uthållighet påverkar skadan du gör."
 
 #. Key:	05
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,05"
 msgid "在室内和室外温度会产生变化，一天中最冷的时候在凌晨。"
-msgstr "Temperaturerna kan variera mellan inomhus och utomhus, med den kallaste delen av dagen på småtimmarna på morgonen."
+msgstr "Temperaturerna kan variera mellan inomhus och utomhus, med den kallaste under nattetid."
 
 #. Key:	06
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,06"
 msgid "使用斧头或镐采集资源时，一直按住左键会持续攻击。"
-msgstr "När du använder en yxa eller hacka för att samla resurser, fortsätt att trycka på vänster knapp för att fortsätta attackera."
+msgstr "När du använder en yxa eller hacka för att samla resurser, fortsätt att trycka på vänster musknapp för att fortsätta samla."
 
 #. Key:	07
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -9531,28 +9532,28 @@ msgstr "Motsvarande rätter kan erhållas genom att värma burkarna separat."
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,08"
 msgid "越好的箭矢回收成功率越高。"
-msgstr "Ju bättre pil, desto högre framgångsfrekvens för återhämtning."
+msgstr "Ju bättre pil, desto högre framgångsfrekvens för att återfå den."
 
 #. Key:	09
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,09"
 msgid "使用动作菜单躺下或者坐下可以快速恢复耐力，较慢回复体力。"
-msgstr "Använd åtgärdsmenyn för att ligga ner eller sitta ner för att återställa uthålligheten snabbare och uthålligheten långsammare."
+msgstr "Använd åtgärdsmenyn för att ligga ner eller sitta ner för att återställa uthållighet och trötthet snabbare."
 
 #. Key:	10
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,10"
 msgid "被攻击的话，会消耗当前穿戴物品的耐久。"
-msgstr "Om den attackeras förbrukas hållbarheten hos det föremål som för närvarande bärs."
+msgstr "Om du blir attackerad kommer utrustning du använder att ta skada. "
 
 #. Key:	11
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,11"
 msgid "用撬棍可以打开锁上的柜子或门。"
-msgstr "Låsta skåp eller dörrar kan öppnas med kofot."
+msgstr "Låsta skåp eller dörrar kan öppnas med en kofot."
 
 #. Key:	12
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -9573,14 +9574,14 @@ msgstr "Fastnat! Använd funktionen Unstuck på Exit-menyn."
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,14"
 msgid "人物前方近处有物体的话，可能会导致枪械无法瞄准。"
-msgstr "Om det finns ett föremål framför karaktären kan det göra att pistolen inte kan sikta."
+msgstr "Om det finns ett föremål framför karaktären kan det göra att vapnens sikten påverkas."
 
 #. Key:	15
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,15"
 msgid "在工作台上等待物品制作完成，可以获得相关技能经验。"
-msgstr "I väntan på att föremålen ska göras på arbetsbänken kan du få relevant kompetens."
+msgstr "Väntar du på att föremålen skall färdigställas med öppen arbetsbänk ökar din kompetens."
 
 #. Key:	16
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -9804,7 +9805,7 @@ msgstr "staket"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Buildingadsorbent"
 msgid "可吸附："
-msgstr "Adsorberbar:"
+msgstr "Återvinns:"
 
 #. Key:	BuildingAll
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -9937,7 +9938,7 @@ msgstr "Annullera"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,capacity"
 msgid "容量："
-msgstr "kapacitet:"
+msgstr "Kapacitet:"
 
 #. Key:	CAR
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10315,7 +10316,7 @@ msgstr "Ingen strömanslutning eller låg effekt!"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,DLFrom"
 msgid "连接："
-msgstr "ansluta:"
+msgstr "Anslut:"
 
 #. Key:	DLValue
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10336,7 +10337,7 @@ msgstr "trubbigt föremål"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,DQWJ"
 msgid "当前玩家："
-msgstr "Nuvarande spelare:"
+msgstr "Nuvarande karaktär:"
 
 #. Key:	Drink
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10371,7 +10372,7 @@ msgstr "kasserade föremål"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,DropTip"
 msgid "请选择丢弃数量："
-msgstr "Välj det belopp som ska kasseras:"
+msgstr "Välj det antal som skall kastas:"
 
 #. Key:	DRYX
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10441,7 +10442,7 @@ msgstr "Utrustning"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,ETip"
 msgid "拾取 "
-msgstr "plocka upp"
+msgstr "Plocka upp"
 
 #. Key:	EU
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10469,7 +10470,7 @@ msgstr "ögonform"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,FaileToJoin"
 msgid "加入失败！"
-msgstr "Det gick inte att gå med!"
+msgstr "Det gick inte att ansluta!"
 
 #. Key:	fangru
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10658,7 +10659,7 @@ msgstr "ljusstyrka"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,GameVersionNot"
 msgid "游戏版本不一致！"
-msgstr "Spelversionen är inkonsekvent!"
+msgstr "Versionen är felaktig!"
 
 #. Key:	GB
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10693,7 +10694,7 @@ msgstr "Infektera"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,GX"
 msgid "关系："
-msgstr "relation:"
+msgstr "Relation:"
 
 #. Key:	GXMD
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11008,7 +11009,7 @@ msgstr "växla"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,KGQ"
 msgid "开锁器："
-msgstr "Upplåsare:"
+msgstr "Dyrk:"
 
 #. Key:	KH
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11225,7 +11226,7 @@ msgstr "ansiktsform"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,LXXH"
 msgid "练习消耗："
-msgstr "Öva konsumtion:"
+msgstr "Material:"
 
 #. Key:	LZXG
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11267,7 +11268,7 @@ msgstr "Produktionskön är full!"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,MakeTime"
 msgid "制作时间："
-msgstr "produktionstid:"
+msgstr "Produktionstid:"
 
 #. Key:	Male
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11309,7 +11310,7 @@ msgstr "syn"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,MLZ"
 msgid "正在干其他事情，稍等！"
-msgstr "Jag gör andra saker, vänta lite!"
+msgstr "Produktion pågår, vänta lite!"
 
 #. Key:	mm
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11407,7 +11408,7 @@ msgstr "återupphämtning"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Name"
 msgid "名称："
-msgstr "namn:"
+msgstr "Namn:"
 
 #. Key:	NAME01
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11449,14 +11450,14 @@ msgstr "Ogiltig roll eller ID finns redan med samma namn"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,NBJRHMD"
 msgid "你被此服务器加入了黑名单中！"
-msgstr "Du har blivit svartlistad av denna server!"
+msgstr "Du har blivit svartlistad på denna server!"
 
 #. Key:	NBTCLFWQ
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,NBTCLFWQ"
 msgid "你被踢出了服务器！"
-msgstr "Du har blivit sparkad från servern!"
+msgstr "Du har blivit utsparkad från servern!"
 
 #. Key:	ND
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11554,7 +11555,7 @@ msgstr "uthållighetsgräns"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,NoFireOrMat"
 msgid "没有火或者所需材料不足！"
-msgstr "Ingen brand eller otillräckligt material krävs!"
+msgstr "Ingen eld eller otillräckligt med material!"
 
 #. Key:	NoLight
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11624,7 +11625,7 @@ msgstr "Inget batteri anslutet"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,NotMood"
 msgid "我现在没有心情看这个！"
-msgstr "Jag är inte på humör för att se det här just nu!"
+msgstr "Jag är inte på humör för att läsa det här just nu!"
 
 #. Key:	NotNeedMaterial
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11820,7 +11821,7 @@ msgstr "fräkne"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,QCCW01"
 msgid "没有了！"
-msgstr "det finns ingen kvar!"
+msgstr "Du gjorde det, det finns inget kvar!"
 
 #. Key:	QCRL
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11953,7 +11954,7 @@ msgstr "Brist på vapenolja"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,R"
 msgid "地区："
-msgstr "område:"
+msgstr "Område:"
 
 #. Key:	Random
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11974,7 +11975,7 @@ msgstr "befriad "
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,reload"
 msgid "重载 "
-msgstr "överbelastning"
+msgstr "Överbelastning"
 
 #. Key:	rizhao
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12086,7 +12087,7 @@ msgstr "Likattack"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SCJGR"
 msgid "尸潮进攻日，无法入睡！"
-msgstr "Likvattenattack dag, kan inte sova!"
+msgstr "På dagen när Zombie horden anfaller kan du inte sova!"
 
 #. Key:	scjgzq
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -12142,7 +12143,7 @@ msgstr "lyssnande server"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,ServerName"
 msgid "服务器名称："
-msgstr "namn på server:"
+msgstr "Servernamn:"
 
 #. Key:	SetTipMessage
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -12282,7 +12283,7 @@ msgstr "jag vill lära mig något annat"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SS06"
 msgid "我有什么能帮助你的吗？"
-msgstr "Finns det något jag kan göra för att hjälpa dig?"
+msgstr "Hur kan jag hjälpa dig?"
 
 #. Key:	SS07
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12303,14 +12304,14 @@ msgstr "Ja, du har bemästrat det."
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SS09"
 msgid "我并不想教你这个。"
-msgstr "Jag vill inte lära dig det här."
+msgstr "Jag kan inte lära dig det här."
 
 #. Key:	SS10
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SS10"
 msgid "不可能！！！"
-msgstr "omöjlig! ! !"
+msgstr "Det här är inte ett rättvist byte. Jag tror att du kan bättre än så."
 
 #. Key:	SS11
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12464,14 +12465,14 @@ msgstr "sommar"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SW11"
 msgid "在打开箱子的状态下，左键单击物品可以快速转移。\r\n\r\n拖动物品中按下R旋转物品方向。"
-msgstr "I tillståndet att öppna rutan, vänsterklicka på objektet för att snabbt överföra.\r\n\r\nTryck på R medan du drar objektet för att rotera objektets riktning."
+msgstr "Efter att öppnat rutan, vänsterklicka på objektet för att överföra det.\r\n\r\nTryck på R medan du drar objektet för att rotera objektets riktning."
 
 #. Key:	SwitchServerMode
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SwitchServerMode"
 msgid "需要切换游戏服务器模式，并重新启动游戏，确认切换吗？"
-msgstr "Behöver du byta spelserverläge och starta om spelet, bekräfta bytet?"
+msgstr "Vi behöver byta spelserverläge och starta om spelet. Bekräfta bytet?"
 
 #. Key:	SY
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12583,7 +12584,7 @@ msgstr "fysisk styrka\r\nFör varje 30 poäng av uthållighetsminskning minskas 
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,toLen"
 msgid "字符太长了！"
-msgstr "Karaktärerna är för långa!"
+msgstr "Namnet är för långt!"
 
 #. Key:	TPSCSL
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12618,7 +12619,7 @@ msgstr "texturkvalitet"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Type"
 msgid "类别："
-msgstr "kategori:"
+msgstr "Kategori:"
 
 #. Key:	TZ
 #. SourceLocation:	/Game/LocalizationText/UIStudy.UIStudy
@@ -13080,7 +13081,7 @@ msgstr "Den nuvarande typen av vapen är fullt utrustad"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,weidget"
 msgid "重量："
-msgstr "vikt:"
+msgstr "Vikt:"
 
 #. Key:	WenDu
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -13227,7 +13228,7 @@ msgstr "käkhöjd"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,XHGX"
 msgid "消耗关系："
-msgstr "Konsumtionsförhållande:"
+msgstr "Förhållande:"
 
 #. Key:	XHKD
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -13500,7 +13501,7 @@ msgstr "Påverkar växtutvecklingen, påverkar mognadstiden"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,ZWYSS"
 msgid "周围有丧尸！"
-msgstr "Det finns zombies runt omkring!"
+msgstr "Det finns zombies i närheten!"
 
 #. Key:	ZX
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -13529,4 +13530,3 @@ msgstr "total volym"
 msgctxt "UI,ZZ"
 msgid "一小包种子"
 msgstr "litet paket med frön"
-
