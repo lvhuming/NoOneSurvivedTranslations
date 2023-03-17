@@ -1166,7 +1166,7 @@ msgstr "Mantenimiento (Volumen 4)"
 #: /Game/Blueprint/UMG/Furniture/WBP_CarInventory01.WBP_CarInventory01_C:WidgetTree.Repir.ToolTipText
 msgctxt ",32F2C50042D534BEAA1662A2087AC8CA"
 msgid "放入汽车修理套件维修"
-msgstr "Usa Kit de Reparación de Vehículos para repararlo"
+msgstr "Usa un Estuche de Reparación de Vehículos para repararlo"
 
 #. Key:	330C2123417837492F10DB97418C4923
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Tool/Item_NotUse_Tool_Base.Default__Item_NotUse_Tool_Base_C.ItemInfo.Description
@@ -1488,7 +1488,7 @@ msgstr "Batería"
 #: /Game/HDCKBuildingSystem/Table/BuildTable.BuildTable.NewRow_11.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 msgctxt ",4348953248D241725A36BD85949AE223"
 msgid "受遮挡或在没有太阳的天气无法发电"
-msgstr "Sin  luz solar no se puede generar electricidad."
+msgstr "No puedo generar electricidad sin luz solar o en invierno."
 
 #. Key:	4362834A4E275D8A564F3388D39CBEFC
 #. SourceLocation:	/Game/Blueprint/ACF/Data/TableAsset/WeaponTable.WeaponTable.SVD狙击枪.ItemInfo_66_F92A1A3B448C3413FD56918B4BFB9241.Name
@@ -1642,7 +1642,7 @@ msgstr "Puerta"
 #: /Game/Blueprint/ACF/Tutorial/WBP_TutorialTip9.WBP_TutorialTip9_C:WidgetTree.TextBlock.Text
 msgctxt ",4BC23A144EB39C24361F0EB1DEDAC119"
 msgid "当你有一个不好的状态时，需要对应的药物治疗"
-msgstr "Cuando estás enfermo, necesitas tratarte con el medicamento correspondiente a la enfermedad."
+msgstr "Cuando te enfermes usa la medicina correspondiente."
 
 #. Key:	4C0AF75643475A5E1E51C6BD31A169A0
 #. SourceLocation:	/Game/HDCKBuildingSystem/UMG/WBP_ToolTip.WBP_ToolTip_C:WidgetTree.XFWP.Text
@@ -1866,7 +1866,7 @@ msgstr "Arrastra para rellenarlo"
 #: /Game/Blueprint/UMG/Furniture/WBP_SPX.WBP_SPX_C:WidgetTree.development.ToolTipText
 msgctxt ",569DFDE54CD2C05CA841E4AED49216C0"
 msgid "影响收成"
-msgstr "Afecta al rendimiento de la cosecha"
+msgstr "Afecta el redimiento de la cosecha"
 
 #. Key:	56A903D8474E2C86F33532A8231EB1CA
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_79.In Text
@@ -2580,7 +2580,7 @@ msgstr "Accesorios para armas de fuego"
 #: /Game/HDCKBuildingSystem/Table/E_SelectTypeChild.E_SelectTypeChild.DisplayNameMap(2 - Value).DisplayNameMap
 msgctxt ",7547155D4FB7AE0D0F8FAA876F856384"
 msgid "Guard"
-msgstr "Guardar"
+msgstr "Vigilante"
 
 #. Key:	7556F55248A5B262C683419CC680B365
 #. SourceLocation:	/Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(3 - Value).DisplayNameMap
@@ -3273,7 +3273,7 @@ msgstr "Multiplicador de Horda"
 #: /Game/Blueprint/UMG/Furniture/WBP_CarInventory01.WBP_CarInventory01_C:ExecuteUbergraph_WBP_CarInventory01 [Script Bytecode]
 msgctxt ",997299584F3A56724AEEECA4B30B17F9"
 msgid "没有修理工具！"
-msgstr "¡Sin Kit de Costura!"
+msgstr "¡Sin Estuche de Costura!"
 
 #. Key:	999F80E349079E38988987AABAC5BB72
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/VerticalBeam_Base.Default__VerticalBeam_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
@@ -3616,7 +3616,7 @@ msgstr "Modelo 01"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_16.In Text
 msgctxt ",ACEA426B4B009B3EE05519BE089B19E3"
 msgid "药膏"
-msgstr "Ungüento"
+msgstr "Pomada"
 
 #. Key:	AD4470F042494F4CB4D3D6BBC4310391
 #. SourceLocation:	/Game/Blueprint/UMG/EscMenu/WBP_NvidiaDLSS.WBP_NvidiaDLSS_C:WidgetTree.TextBlock_5.Text
@@ -3735,7 +3735,7 @@ msgstr "Lingote de Acero"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_103.In Text
 msgctxt ",B15D04364C87BE5BFEE9C6BC4DB45FE4"
 msgid "汽车修理套件"
-msgstr "Kit de Rep. de Vehículos"
+msgstr "Estuche de Rep. de Vehículos"
 
 #. Key:	B180E35F4A221AECBDE4279275533DD1
 #. SourceLocation:	/Game/Blueprint/ACF/Tutorial/WBP_TutorialTip9.WBP_TutorialTip9_C:WidgetTree.TextBlock_2.Text
@@ -5394,7 +5394,7 @@ msgstr "Propiedades"
 #: /Game/Blueprint/UMG/Inventory/WBP_UseMenu.WBP_UseMenu_C:UseItem [Script Bytecode]
 msgctxt ",FEB00EB14CB0582FD5EC4192D7C1185F"
 msgid "当前格子已经装备了其他物品"
-msgstr "El compartimento actual ya está equipado con otros elementos."
+msgstr "El compartimento actual ya está ocupado con otros elementos."
 
 #. Key:	FEB21BCC4870D846278BA9A227875DA1
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_ServerSetting.WBP_ServerSetting_C:WidgetTree.RoomName.Text
@@ -5464,7 +5464,7 @@ msgstr "Viga (4x1)"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",FourHorizontalBeamDetail"
 msgid "长横梁，可以承受重量，是搭建大房子的必备。"
-msgstr "Las vigas largas, que pueden soportar el peso, son imprescindibles para construir casas grandes."
+msgstr "Las vigas largas, soportan estructuras y son imprescindibles para construir casas grandes."
 
 #. Key:	GuardRail
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5499,7 +5499,7 @@ msgstr "Cimiento/Suelo"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",GuardRailDetail"
 msgid "可防止摔下去，增加安全性。"
-msgstr "Puede prevenir caídas y aumentar la seguridad."
+msgstr "Previene caidas y aumenta la seguridad."
 
 #. Key:	HalfVerticalBeam
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5569,7 +5569,7 @@ msgstr "Viga"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",HorizontalBeamDetail"
 msgid "短横梁，可以承受重量。"
-msgstr "Vigas cortas que pueden soportar el peso."
+msgstr "Vigas cortas que soportan estructuras."
 
 #. Key:	Input
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -6094,7 +6094,7 @@ msgstr "Columna"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",VerticalBeamDetail"
 msgid "可以承受重量。"
-msgstr "Puede soportar el peso."
+msgstr "Soporta estructuras."
 
 #. Key:	VerticalBeamStone
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -6108,7 +6108,7 @@ msgstr "Columna de Piedra"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",VerticalBeamStoneDetail"
 msgid "可以承受重量。"
-msgstr "Puede soportar el peso."
+msgstr "Soporta estructuras."
 
 #. Key:	Wall
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -8467,28 +8467,28 @@ msgstr "Plano: Arco Compuesto (Metal)"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M46"
 msgid "子弹加工工艺"
-msgstr "Tecnologia de Procesamiento de Munición"
+msgstr "Tecnologia: Fabricación Munición"
 
 #. Key:	M47
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M47"
 msgid "石油提取器维护指南"
-msgstr "Guia de Mantenimiento: Extraccion de Petroleo"
+msgstr "Guía: Extracción de Petroleo"
 
 #. Key:	M48
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M48"
 msgid "制药仪图纸"
-msgstr "Plano: Laboratorio Médico Avanzado"
+msgstr "Plano: Laboratorio Médico Avzdo."
 
 #. Key:	M49
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M49"
 msgid "高级化学反应设备图纸"
-msgstr "Plano: Laboratorio Químico Avanzado"
+msgstr "Plano: Laboratorio Químico Avzdo."
 
 #. Key:	M5
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8747,7 +8747,7 @@ msgstr "Aceite para Armas"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M82"
 msgid "缝补工具"
-msgstr "Kit de Costura"
+msgstr "Estuche de Costura"
 
 #. Key:	M83
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8866,7 +8866,7 @@ msgstr "Piezas de Automóvil"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M98"
 msgid "汽车修理套件"
-msgstr "Kit de Rep. de Vehículos"
+msgstr "Estuche de Rep. de Vehículos"
 
 #. Key:	Q01
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8936,7 +8936,7 @@ msgstr "Vendarse"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,T12"
 msgid "药膏"
-msgstr "Ungüento"
+msgstr "Pomada"
 
 #. Key:	T13
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9601,7 +9601,7 @@ msgstr "Encuentra otros supervivientes por el mapa y comercia con ellos. Puedes 
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,19"
 msgid "丢在地上的物品长时间不捡起来会消失"
-msgstr "Los objetos tirados en el suelo desaparecerán si no se recogen durante mucho tiempo"
+msgstr "Si dejas objetos en el suelo desaparecerán con el tiempo"
 
 #. Key:	AddBuff
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11820,7 +11820,7 @@ msgstr "Pecas"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,QCCW01"
 msgid "没有了！"
-msgstr "!Lo Conseguiste!¡Horda Exterminada!"
+msgstr "!Almacén Vacío!"
 
 #. Key:	QCRL
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -13073,7 +13073,7 @@ msgstr "Visualización de Temperatura"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,WeaponNotUse"
 msgid "当前类型武器已装备满"
-msgstr "Ya esta equipado un mismo tipo de arma."
+msgstr "Ya tienes equipado un mismo tipo de arma."
 
 #. Key:	weidget
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -13122,7 +13122,7 @@ msgstr "Fabricación de Armas"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,wsDetail"
 msgid "卫生\r\n影响丧尸发现几率，影响伤口感染几率，过低影响心情回复"
-msgstr "Higiene\r\nAfecta la posibilidad de que te detecten los zombies. Afecta a la posibilidad de que las heridas se infecten. Afecta a la recuperación del estado de ánimo."
+msgstr "Higiene\r\nAfecta la posibilidad de que te detecten los zombies, a la posibilidad de que las heridas se infecten y a la recuperación del estado de ánimo."
 
 #. Key:	WSYQX
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -13493,7 +13493,7 @@ msgstr "Afecta el desarrollo de la planta. Morirá sin agua"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,ZW02"
 msgid "影响植物发育，影响成熟时间"
-msgstr "Afecta el desarrollo de la planta. Afecta el tiempo de maduración"
+msgstr "Afecta el desarrollo de la planta (Tiempo de maduración)"
 
 #. Key:	ZWYSS
 #. SourceLocation:	/Game/LocalizationText/UI.UI
