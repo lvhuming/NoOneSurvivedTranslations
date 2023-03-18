@@ -193,7 +193,7 @@ msgstr "Fabricacion de Armas+"
 #: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(21 - Value).DisplayNameMap
 msgctxt ",071CC0AD44E91A58C8A6BBA56F0A6884"
 msgid "OutStairs"
-msgstr "Escaleras (Exterior)"
+msgstr "Escalera (Exterior)"
 
 #. Key:	071CD535407A8CC1A78DFCAD6CB80596
 #. SourceLocation:	/Game/Blueprint/UMG/Inventory/WBP_DropShowButton.WBP_DropShowButton_C:WidgetTree.Num.Text
@@ -1411,7 +1411,7 @@ msgstr "Peso: 300/600"
 #: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(14 - Value).DisplayNameMap
 msgctxt ",3F0080734A17ED2949B3E7A69E6074FA"
 msgid "HandGuard"
-msgstr "Barandilla"
+msgstr "Baranda"
 
 #. Key:	3FB2451B4FF120B2FAA709ABF555A02A
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_46.In Text
@@ -1880,7 +1880,7 @@ msgstr "Arco Compuesto (Metal)"
 #: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(12 - Value).DisplayNameMap
 msgctxt ",5795910C491155CD31B6869BE54DD0FB"
 msgid "outdoorsStairs"
-msgstr "Escaleras (Exterior)"
+msgstr "Escalera (Exterior)"
 
 #. Key:	57ABD74342F884D14ADE9FA7585DF620
 #. SourceLocation:	/Game/HDCKBuildingSystem/Table/BuildTable.BuildTable.SN_DJ.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
@@ -3322,7 +3322,7 @@ msgstr "¡Error en la creación de la sala!"
 #: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(15 - Value).DisplayNameMap
 msgctxt ",9DAE78634ECE4283CB9DEF8A66D92169"
 msgid "HandGuardStairs"
-msgstr "Barandilla de Escalera"
+msgstr "Baranda de Escalera"
 
 #. Key:	9DC0733440738ACF45E75B8E41637647
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/DJ/BP_GunAccessory_DJ_762_02.Default__BP_GunAccessory_DJ_762_02_C.ItemInfo.Description
@@ -5541,21 +5541,21 @@ msgstr "Pared de Piedra (1/3)"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",HandGuard"
 msgid "护手"
-msgstr "Guardamanos"
+msgstr "Baranda"
 
 #. Key:	HandGuardDetail
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",HandGuardDetail"
 msgid "一个单独的护手。"
-msgstr "Un guardamanos sencillo"
+msgstr "Una baranda sencilla"
 
 #. Key:	HandGuardStairs
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",HandGuardStairs"
 msgid "楼梯护栏"
-msgstr "Barandilla de Escalera"
+msgstr "Baranda de Escalera"
 
 #. Key:	HorizontalBeam
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5597,14 +5597,14 @@ msgstr "Ninguno"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",OutdoorsStairs"
 msgid "木制楼梯(户外)"
-msgstr "Escaleras de Madera (Exterior)"
+msgstr "Escalera de Madera (Exterior)"
 
 #. Key:	OutdoorsStairsDetail
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",OutdoorsStairsDetail"
 msgid "木头制成的户外专用楼梯"
-msgstr "Escaleras exteriories de Madera"
+msgstr "Escaleras exteriores de Madera"
 
 #. Key:	PHQ
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5653,7 +5653,7 @@ msgstr "Se ve resistente y aguanta bastante peso."
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RockOutdoorsStairs"
 msgid "石材楼梯(户外)"
-msgstr "Escaleras de Piedra (Exterior)"
+msgstr "Escalera de Piedra (Exterior)"
 
 #. Key:	RockOutdoorsStairsDetail
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5828,7 +5828,7 @@ msgstr "Aleros de Paja (Conexión)"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofEnd3Intersection_02"
 msgid "石材屋檐(连接横向)"
-msgstr "Aleros de Piedra (Conexión )"
+msgstr "Aleros de Piedra (Conexión)"
 
 #. Key:	RoofEndHorizontal
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5982,7 +5982,7 @@ msgstr "Techo de Paja (Sin Conexión)"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofTop_Wood_06"
 msgid "茅草屋顶(单格三通)"
-msgstr "Techo de Paja (En T )"
+msgstr "Techo de Paja (En T)"
 
 #. Key:	RSP
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5996,14 +5996,14 @@ msgstr "Trampa: Incendiaria"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",Stairs"
 msgid "长楼梯"
-msgstr "Escaleras Largas"
+msgstr "Escalera Larga"
 
 #. Key:	Stairs02
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",Stairs02"
 msgid "楼梯(较小)"
-msgstr "Escaleras Pequeñas"
+msgstr "Escalera Pequeña"
 
 #. Key:	Stairs02Baring
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -6038,7 +6038,7 @@ msgstr "Viga, Cimientos/Suelo"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",StairsDetail"
 msgid "木头制成的楼梯。"
-msgstr "Escaleras de Madera"
+msgstr "Escalera de Madera"
 
 #. Key:	TDC
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -9895,7 +9895,7 @@ msgstr "Techo Simple"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,BuildStairs"
 msgid "楼梯"
-msgstr "Escaleras"
+msgstr "Escalera"
 
 #. Key:	BuildWall
 #. SourceLocation:	/Game/LocalizationText/UI.UI
