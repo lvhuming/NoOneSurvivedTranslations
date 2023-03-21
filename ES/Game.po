@@ -781,7 +781,7 @@ msgstr "Durabilidad: "
 #: /Game/Blueprint/UMG/ScreenMessage/WBP_GunMessage.WBP_GunMessage_C:ExecuteUbergraph_WBP_GunMessage [Script Bytecode]
 msgctxt ",2191E6F14098A0C04EFC4FA4B26ECAE8"
 msgid "单发"
-msgstr "Modo Tiro a Tiro"
+msgstr "Modo: Tiro a Tiro"
 
 #. Key:	224244E146D5DA4CDA33559117B53DEF
 #. SourceLocation:	/Game/Blueprint/UMG/WBP_ScreenMessage1.WBP_ScreenMessage1_C:WidgetTree.TextBlock_181.Text
@@ -12856,14 +12856,14 @@ msgstr "!Mantente Límpio!\r\nLa Higiene influye en el Estado de Ánimo del pers
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZXXF"
 msgid "粗心"
-msgstr "Manos Ágiles\r\nTiempo de búsqueda reducido"
+msgstr "Cuidadoso\r\nTiempo de búsqueda aumentado"
 
 #. Key:	TZXXZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZXXZ"
 msgid "细心"
-msgstr "Cuidadoso\r\nTiempo de búsqueda aumentado"
+msgstr "Manos Ágiles\r\nTiempo de búsqueda reducido"
 
 #. Key:	TZZLF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -13276,7 +13276,7 @@ msgstr "Usalo para reparar el Núcleo del Pozo Petrolifero"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,XSTJ"
 msgid "学习条件未满足"
-msgstr "Nivel de Aprendizaje insuficiente."
+msgstr "Nivel de Habilidad insuficiente/Faltan Recursos."
 
 #. Key:	XXTJ
 #. SourceLocation:	/Game/LocalizationText/UI.UI
