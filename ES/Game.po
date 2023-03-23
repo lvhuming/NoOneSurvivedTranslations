@@ -1873,7 +1873,7 @@ msgstr "Afecta el redimiento de la cosecha"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_79.In Text
 msgctxt ",56A903D8474E2C86F33532A8231EB1CA"
 msgid "复合弓"
-msgstr "Arco Táctico (Acero)"
+msgstr "Arco Táctico de Acero"
 
 #. Key:	5795910C491155CD31B6869BE54DD0FB
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(12 - Value).DisplayNameMap
@@ -2909,7 +2909,7 @@ msgstr "Armas"
 #: /Game/Blueprint/UMG/MainUI/WBP_Main.WBP_Main_C:WidgetTree.TextBlock_0.Text
 msgctxt ",836EB7AB40D4C893FD6B23A855BE4F36"
 msgid "公告：\r\n\r\n因为游戏采用了最新的UnrealEngine5引擎，为了获得最好的游戏体验，请将显卡驱动升级到最新版本。\r\n\r\n否则你可能会看到模型显示不完整等情况。\r\n\r\n感谢！"
-msgstr "Atención:\r\n\r\nEl juego usa el motor Unreal Engine 5. Para una mejor experiencia de juego, actualiza el controlador de su tarjeta de video a la última versión.\r\n\r\nDe lo contrario, puede tener problemas con la textura, animación, etc.\r\n\r\n¡Diviértete! ¡Muchas gracias!"
+msgstr "Atención:\r\n\r\nEl juego usa Unreal Engine 5. Para una mejor experiencia de juego, actualiza el controlador de su tarjeta de video a la última versión.\r\n\r\nDe lo contrario, puede tener problemas con la textura, animación, etc.\r\n\r\n¡Diviértete! ¡Muchas gracias!"
 
 #. Key:	83F46BF04B9C9DD831186F9C5C08D9AA
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(6 - Value).DisplayNameMap
@@ -3546,7 +3546,7 @@ msgstr "El juego se está guardando, no cierres el juego."
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_44.In Text
 msgctxt ",AA700A424A1CC79F89745D8B8E66743F"
 msgid "反曲弓"
-msgstr "Arco Táctico (Acero)"
+msgstr "Arco Táctico de Acero"
 
 #. Key:	AA9BF92049C17658D82A79869973E366
 #. SourceLocation:	/Game/Blueprint/UMG/Inventory/WBP_ItemButton.WBP_ItemButton_C:WidgetTree.PressNum_1.Text
@@ -4190,7 +4190,7 @@ msgstr "Mod: Mira X3"
 #: /Game/Blueprint/UMG/Furniture/WBP_Bed.WBP_Bed_C:WidgetTree.TextBlock.Text
 msgctxt ",C91B92F140E95FFF8720FCB5C77715EF"
 msgid "设置为复活点"
-msgstr "Establecer Punto de Renacimiento"
+msgstr "Establecer Punto de Reaparición"
 
 #. Key:	C94462E5444E21989A70DA934494F485
 #. SourceLocation:	/Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(0).Mappings.PlayerMappableOptions.DisplayName
@@ -4666,7 +4666,7 @@ msgstr "Pata de Cabra de Hierro"
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_LoadGame.WBP_LoadGame_C:WidgetTree.TextBlock_98.Text
 msgctxt ",DFB9E2BA411799A5BE6B59A3F156E17B"
 msgid "读取"
-msgstr "Leer"
+msgstr "Cargar Archivo"
 
 #. Key:	DFDC7D0B43D1E23D901A57BD71F2458D
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_48.In Text
@@ -6857,7 +6857,7 @@ msgstr "Gestion Zona Segura"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,A1"
 msgid "简易布包"
-msgstr "Mochila de Tela"
+msgstr "Mochila de Tela (10x10)"
 
 #. Key:	A10
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -6941,7 +6941,7 @@ msgstr "Cazadora Universitaria"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,A2"
 msgid "小背包"
-msgstr "Mochila Pequeña"
+msgstr "Mochila Pequeña (10x12)"
 
 #. Key:	A20
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7018,7 +7018,7 @@ msgstr "Pantalones Cortos"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,A3"
 msgid "大背包"
-msgstr "Mochila Grande"
+msgstr "Mochila Grande (10x15)"
 
 #. Key:	A30
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7081,14 +7081,14 @@ msgstr "Linterna Táctica"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,A4"
 msgid "军用包"
-msgstr "Mochila Militar"
+msgstr "Mochila Militar (10x20)"
 
 #. Key:	A5
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,A5"
 msgid "登山包"
-msgstr "Mochila de Senderismo"
+msgstr "Mochila de Senderismo (10x25)"
 
 #. Key:	A6
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8460,7 +8460,7 @@ msgstr "Plano: Tanque de Agua"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M45"
 msgid "金属弓图纸"
-msgstr "Plano: Arco Táctico (Acero)"
+msgstr "Plano: Arco Táctico de Acero"
 
 #. Key:	M46
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9335,7 +9335,7 @@ msgstr "Su principal uso es cortar arboles, pero en caso de emergencia sirve com
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W40"
 msgid "金属弓"
-msgstr "Arco Táctico (Acero)"
+msgstr "Arco Táctico de Acero"
 
 #. Key:	W41
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -12408,7 +12408,7 @@ msgstr "Resistencia"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,Start"
 msgid "        丧尸病毒爆发，你躲在避难所生活了三年，但是避难所的资源也逐渐消耗殆尽，你遭到了放逐，接下来你只能靠自己在末世生存下去..."
-msgstr "        El virus zombi estalló. Permaneciste en un refugio durante tres años, pero los recursos empezaron a terminarse y te viste obligado a abandonarlo. Ahora debes valerte por sí mismo...."
+msgstr "        El virus zombi estalló. Perteneciste a un refugio durante tres años. Cuando los recursos empezaron a agotarse te viste obligado a abandonarlo. Ahora debes valerte por tí mismo...."
 
 #. Key:	StartDl
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12450,7 +12450,7 @@ msgstr "Aprendido"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Successful"
 msgid "设置成功"
-msgstr "Configuración Correcta"
+msgstr "Punto establecido correctamente"
 
 #. Key:	summer
 #. SourceLocation:	/Game/LocalizationText/UI.UI
