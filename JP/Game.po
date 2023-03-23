@@ -1768,7 +1768,7 @@ msgstr "感染症、大量の継続的な出血"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_61.In Text
 msgctxt ",50923B86404D68B1F149ABBED6BFC293"
 msgid "密封排气机"
-msgstr "密閉排気機"
+msgstr "缶詰製造機"
 
 #. Key:	50FA87E6460DCEB7FA6D9EA808DF7DA2
 #. SourceLocation:	/Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(12 - Value).DisplayNameMap
@@ -1782,7 +1782,7 @@ msgstr "車の中"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_98.In Text
 msgctxt ",5159A35C4632DF45C427CC9981E0117D"
 msgid "滤芯"
-msgstr "フィルター"
+msgstr "浄水フィルター"
 
 #. Key:	51AF544549B86F8668AAD5941180E8C9
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/Foundation_Base.Default__Foundation_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
@@ -4456,7 +4456,7 @@ msgstr "60"
 #: /Game/Blueprint/UMG/Furniture/WBP_CarInventory.WBP_CarInventory_C:WidgetTree.Image_177.ToolTipText
 msgctxt ",D631A0DB4EA8C9BD835D6C9E7182C5C0"
 msgid "在车头处按下F拉车，再次按下放下"
-msgstr "車の前部でFを押して車を運転し、もう一度押すと降ります"
+msgstr "車の運転席側でFを押して車に乗車し、もう一度押すと降ります"
 
 #. Key:	D6A16FE4487F8C9FE0DFA48D534C86ED
 #. SourceLocation:	/Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_2.TipMessage_41_0D1B7B6342180F0BD1D386A6C8ADE0B3
@@ -5408,7 +5408,7 @@ msgstr "1"
 #: /Game/Blueprint/UMG/Furniture/WBP_XSC.WBP_XSC_C:WidgetTree.TextBlock_122.Text
 msgctxt ",FEB4BCDA4679F137584DEC971159DDF9"
 msgid "滤芯："
-msgstr "フィルター："
+msgstr "浄水フィルター："
 
 #. Key:	FF09B24548010A88880671934DB31229
 #. SourceLocation:	/Game/HDCKBuildingSystem/Table/BuildTable.BuildTable.RoofIntersection20.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
@@ -5457,7 +5457,7 @@ msgstr "基礎"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",FourHorizontalBeam"
 msgid "横梁(四格)"
-msgstr "梁(4グリッド)"
+msgstr "梁（4グリッド）"
 
 #. Key:	FourHorizontalBeamDetail
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -6248,14 +6248,14 @@ msgstr "セメントの梁"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B13"
 msgid "水泥横梁(两格)"
-msgstr "セメントの梁 (2 つのグリッド)"
+msgstr "セメントの梁（2グリッド）"
 
 #. Key:	B14
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B14"
 msgid "水泥横梁(四格)"
-msgstr "セメントの梁 (4 グリッド)"
+msgstr "セメントの梁 (4グリッド)"
 
 #. Key:	B15
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6423,7 +6423,7 @@ msgstr "機械加工テーブル"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B36"
 msgid "密封排气机"
-msgstr "密閉排気機"
+msgstr "缶詰製造機"
 
 #. Key:	B37
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -9090,7 +9090,7 @@ msgstr "ソーラーパネル 300W"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,T9"
 msgid "滤芯"
-msgstr "フィルター"
+msgstr "浄水フィルター"
 
 #. Key:	W1
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9734,7 +9734,7 @@ msgstr "背景音"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,BL"
 msgid "鼻梁"
-msgstr "鼻の橋"
+msgstr "鼻筋"
 
 #. Key:	blood
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -12891,7 +12891,7 @@ msgstr "UI効果音"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Use"
 msgid "使用"
-msgstr "使用する"
+msgstr "使用する　"
 
 #. Key:	USE1
 #. SourceLocation:	/Game/LocalizationText/UI.UI
