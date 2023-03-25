@@ -25,7 +25,7 @@ msgstr "Niezbędne do budowy domu"
 #: /Game/Blueprint/UMG/Inventory/WBP_UseMenu.WBP_UseMenu_C:WidgetTree.TextBlock_9.Text
 msgctxt ",005986EF48789316B83C53885CBD1FB8"
 msgid "清洗"
-msgstr "Czyszczenie"
+msgstr "Mycie"
 
 #. Key:	00986F3D49F50B3B8F6203A93FD5D846
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_SPX.WBP_SPX_C:WidgetTree.development.Text
@@ -2566,7 +2566,7 @@ msgstr "R"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_12.In Text
 msgctxt ",746C15D045E29D89B01FB4B3C07BEA54"
 msgid "制药桌"
-msgstr "Stół Medyczny"
+msgstr "Stół farmaceutyczny"
 
 #. Key:	750F8A8B49580EB2DBA6DFA86324F73F
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_ItemList.WBP_ItemList_C:WidgetTree.TextBlock_1.Text
@@ -2832,7 +2832,7 @@ msgstr "Grzyb"
 #: /Game/Blueprint/UMG/State/WBP_Status.WBP_Status_C:WidgetTree.Year.Text
 msgctxt ",7F2F223540F12CA2FB39758E1547949E"
 msgid "Year 1"
-msgstr "1 rok"
+msgstr "Rok 1"
 
 #. Key:	7F778F9A4C77D562BB0348A07191D920
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_102.In Text
@@ -4043,7 +4043,7 @@ msgstr "Topór"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_35.In Text
 msgctxt ",BF4A31134BC5C653FED53AB484D14C15"
 msgid "木炭炉"
-msgstr "Piec węglowy"
+msgstr "Piec"
 
 #. Key:	BF4C2992461B4E7927F03DAEB925755D
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_37.In Text
@@ -6542,7 +6542,7 @@ msgstr "Lodówka"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B51"
 msgid "制药桌"
-msgstr "Stół medyczny"
+msgstr "Stół farmaceutyczny"
 
 #. Key:	B52
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -8292,28 +8292,28 @@ msgstr "Glina"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M23"
 msgid "铜块"
-msgstr "Blok miedziany"
+msgstr "Bryłka miedzi"
 
 #. Key:	M24
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M24"
 msgid "铁块"
-msgstr "Żelazny blok"
+msgstr "Bryłka żelaza"
 
 #. Key:	M25
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M25"
 msgid "银块"
-msgstr "Srebrna bryłka"
+msgstr "Bryłka srebra"
 
 #. Key:	M26
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M26"
 msgid "铝块"
-msgstr "Blok aluminiowy"
+msgstr "Bryłka aluminium"
 
 #. Key:	M27
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -10091,14 +10091,14 @@ msgstr "Tryb Okna"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Clear"
 msgid "清空"
-msgstr "Pusty"
+msgstr "Opróżnij"
 
 #. Key:	ClearBody
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,ClearBody"
 msgid "清洗"
-msgstr "Czyszczenie"
+msgstr "Mycie"
 
 #. Key:	Close
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10161,7 +10161,7 @@ msgstr "Łom"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,CSL"
 msgid "储水量"
-msgstr "Magazyn wody"
+msgstr "Zbiornik wody: "
 
 #. Key:	CurrentWeight
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10427,7 +10427,7 @@ msgstr "Poćwiartować"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Eat"
 msgid "吃"
-msgstr "Zjeść"
+msgstr "Zjedz"
 
 #. Key:	Equip
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11659,7 +11659,7 @@ msgstr "Obecny status jest niedostępny!"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,NowRL"
 msgid "当前燃料："
-msgstr "Aktualne paliwo:"
+msgstr "Aktualne paliwo: "
 
 #. Key:	NowRY
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12443,7 +12443,7 @@ msgstr "Przestań pompować"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,StudyEnd"
 msgid "已学习"
-msgstr "Nauczył"
+msgstr "Poznano"
 
 #. Key:	Successful
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12891,7 +12891,7 @@ msgstr "Dźwięk interfejsu"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Use"
 msgid "使用"
-msgstr "Użyj"
+msgstr "Użyj "
 
 #. Key:	USE1
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12989,7 +12989,7 @@ msgstr "Wykonane za pomocą stołu obróbkowego"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,useMTL"
 msgid "在木炭炉烧制"
-msgstr "Wypalane w piecu na węgiel drzewny"
+msgstr "Wypalane w piecu"
 
 #. Key:	useNYGJT
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -13003,7 +13003,7 @@ msgstr "Wykonane na ławce narzędzi rolniczych"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,useRLL"
 msgid "在熔炼炉烧制"
-msgstr "Wypalane w piecu do wytapiania"
+msgstr "Wypalane w piecu hutniczym"
 
 #. Key:	useZYY
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -13017,7 +13017,7 @@ msgstr "Wykonane w maszynie farmaceutycznej"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,useZYZ"
 msgid "在制药桌制作"
-msgstr "Wykonane na stole w aptece"
+msgstr "Wytwarzane na stole farmaceutycznym"
 
 #. Key:	viralinfection
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
