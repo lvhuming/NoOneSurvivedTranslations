@@ -165,7 +165,7 @@ msgstr "1"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_5.In Text
 msgctxt ",067DCE7B4743216420B91882A3EB41B2"
 msgid "铁双手刀"
-msgstr "Żelazny nóż dwuręczny"
+msgstr "Żelazna maczeta oburęczna"
 
 #. Key:	069FBCBF40327BC41FD9779E8015C85B
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_73.In Text
@@ -186,7 +186,7 @@ msgstr "Odporność pancerza"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_12.Text
 msgctxt ",07183D8644DE86CCA77C28A04ABFD006"
 msgid "武器制造+"
-msgstr "Produkcja broni+"
+msgstr "Wytwarzanie broni+"
 
 #. Key:	071CC0AD44E91A58C8A6BBA56F0A6884
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(21 - Value).DisplayNameMap
@@ -9202,7 +9202,7 @@ msgstr "Żelazna maczeta"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W23"
 msgid "铁双手刀"
-msgstr "Żelazny nóż ręczny"
+msgstr "Żelazna maczeta"
 
 #. Key:	W24
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -10854,7 +10854,7 @@ msgstr "Broda"
 #: /Game/LocalizationText/UIStudy.UIStudy
 msgctxt "UI,HX"
 msgid "电气化"
-msgstr "Elektryfikacja"
+msgstr "Elektryka"
 
 #. Key:	hygiene
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -10966,7 +10966,7 @@ msgstr "Dołącz do gry wieloosobowej"
 #: /Game/LocalizationText/UIStudy.UIStudy
 msgctxt "UI,JX"
 msgid "机械"
-msgstr "Mechaniczny"
+msgstr "Mechanika"
 
 #. Key:	JXX
 #. SourceLocation:	/Game/LocalizationText/UIStudy.UIStudy
@@ -11141,7 +11141,7 @@ msgstr "bezbronny"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Level"
 msgid "等级"
-msgstr "Równaj"
+msgstr " poziom"
 
 #. Key:	Light
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -13073,7 +13073,7 @@ msgstr "Wskaźnik temperatury"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,WeaponNotUse"
 msgid "当前类型武器已装备满"
-msgstr "Obecny typ broni jest w już wyposażony"
+msgstr "Dany typ broni jest już na wyposażeniu"
 
 #. Key:	weidget
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -13115,14 +13115,14 @@ msgstr "Wpływa na odpowiednie obrażenia broni"
 #: /Game/LocalizationText/UIStudy.UIStudy
 msgctxt "UI,WQZJ"
 msgid "武器制造"
-msgstr "Produkcja broni"
+msgstr "Wytwarzanie broni"
 
 #. Key:	wsDetail
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,wsDetail"
 msgid "卫生\r\n影响丧尸发现几率，影响伤口感染几率，过低影响心情回复"
-msgstr "Higiena\r\nWpływa na szansę odkrycia zombie, oraz wpływa na ryzyko infekcji rany oraz na poprawę nastroju, jeśli jest zbyt niska"
+msgstr "Higiena\r\nWpływa na szansę wykrycia przez zombie, na ryzyko infekcji rany oraz na poprawę nastroju (jeśli zbyt niska)"
 
 #. Key:	WSYQX
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -13360,7 +13360,7 @@ msgstr "Za rok"
 #: /Game/LocalizationText/UIStudy.UIStudy
 msgctxt "UI,YX"
 msgid "医学"
-msgstr "Lekarstwo"
+msgstr "Farmacja"
 
 #. Key:	YXND
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
