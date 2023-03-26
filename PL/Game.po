@@ -11092,7 +11092,7 @@ msgstr "Jakość odległości wizualnej"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,KTDetail"
 msgid "病毒抗体\r\n抗体为0就会死亡"
-msgstr "Przeciwciało wirusa\r\nJeśli przeciwciało ma wartość 0, Umrzesz"
+msgstr "Przeciwciała na wirusa\r\nJeśli przeciwciała osiągną wartość 0, to umrzesz"
 
 #. Key:	Language
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11134,7 +11134,7 @@ msgstr "Chroń swoje budynki przed wyburzeniem przez innych graczy za pomocą m�
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,LDWS"
 msgid "未受保护"
-msgstr "bezbronny"
+msgstr "Brak ochrony"
 
 #. Key:	Level
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11155,14 +11155,14 @@ msgstr "Latarka"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,LightTip"
 msgid "缺少干电池"
-msgstr "Brakujące małe baterie"
+msgstr "Brakuje małej baterii"
 
 #. Key:	LIUXUE
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,LIUXUE"
 msgid "流血"
-msgstr "Krwawić"
+msgstr "Krwawienie"
 
 #. Key:	LJ
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11309,7 +11309,7 @@ msgstr "Obserwacja"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,MLZ"
 msgid "正在干其他事情，稍等！"
-msgstr "Robienie innych rzeczy, czekaj!"
+msgstr "Poczekaj, robię teraz coś innego!"
 
 #. Key:	mm
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11498,7 +11498,7 @@ msgstr "Materiały:"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,NeedItem"
 msgid "所需材料不足！"
-msgstr "Niewystarczające wymagane materiały!"
+msgstr "Brak wymaganych materiałów!"
 
 #. Key:	NeedKnife
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11554,7 +11554,7 @@ msgstr "Limit wytrzymałości"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,NoFireOrMat"
 msgid "没有火或者所需材料不足！"
-msgstr "Brak ognia lub niewystarczających materiałów!"
+msgstr "Brak ognia lub niewystarczająca ilość materiałów!"
 
 #. Key:	NoLight
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11568,7 +11568,7 @@ msgstr "Nie wyposażony w światła"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,NoRead"
 msgid "我现在还看不懂这个或者这个我已经会了！"
-msgstr "Nadal tego nie rozumiem albo już to wiem!"
+msgstr "Nadal tego nie rozumiem, albo już to umiem!"
 
 #. Key:	notAdd
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11589,21 +11589,21 @@ msgstr "Brak konstrukcji nośnej"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,NotDL"
 msgid "没有电力连接"
-msgstr "Brak połączenia zasilania"
+msgstr "Zasilanie nie jest podłączone"
 
 #. Key:	NotDLOrFood
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,NotDLOrFood"
 msgid "没有电或者任何食材"
-msgstr "Brak prądu lub jedzenia?"
+msgstr "Brak prądu lub jedzenia"
 
 #. Key:	NotFireOrFood
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,NotFireOrFood"
 msgid "没有火或者任何食材"
-msgstr "Bez ognia lub żadnych składników"
+msgstr "Brak ognia lub składników"
 
 #. Key:	NotLink
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11729,14 +11729,14 @@ msgstr "Szacowany czas dojrzewania"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,OC"
 msgid "大洋洲"
-msgstr "oceania"
+msgstr "Oceania"
 
 #. Key:	Onhand
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Onhand"
 msgid "拿在手上"
-msgstr "Trzymać w ręku"
+msgstr "Trzymaj w ręku"
 
 #. Key:	Open
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11771,7 +11771,7 @@ msgstr "Lista graczy:"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Pot01"
 msgid "注意这个操作会删除锅内物品"
-msgstr "Pamiętaj, że ta operacja usunie zawartość Garnka"
+msgstr "Pamiętaj, że zawartość garnka zostanie usunięta"
 
 #. Key:	PR
 #. SourceLocation:	/Game/LocalizationText/UIStudy.UIStudy
@@ -11792,7 +11792,7 @@ msgstr "Białko"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,PSSL"
 msgid "跑尸数量"
-msgstr "Liczba ilości Zombie"
+msgstr "Liczba zombie"
 
 #. Key:	Q
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11827,7 +11827,7 @@ msgstr "Nic nie zostało!"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,QCRL"
 msgid "取出燃料"
-msgstr "wyjąć paliwo"
+msgstr "Ściągnij paliwo"
 
 #. Key:	QG
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11862,7 +11862,7 @@ msgstr "Akceptuj"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,QRTC"
 msgid "确认退出吗？所有未保存的进度都将消失！"
-msgstr "Czy jesteś pewny że chcesz wyjść? Wszystkie niezapisane postępy znikną!"
+msgstr "Czy jesteś pewny, że chcesz wyjść? Wszystkie niezapisane postępy zostaną stracone!"
 
 #. Key:	QT
 #. SourceLocation:	/Game/LocalizationText/GUN.GUN
@@ -11925,7 +11925,7 @@ msgstr "Utrzymanie"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,QXdetail"
 msgid "减小枪械后坐力，影响精确瞄准时手部晃动"
-msgstr "Zmniejsz odrzut broni palnej i wpłyń na drżenie ręki podczas dokładnego celowania"
+msgstr "Zmniejsza odrzut broni palnej i wpływa na drżenie rąk podczas precyzyjnego celowania"
 
 #. Key:	QXHD
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11939,7 +11939,7 @@ msgstr "Przeładuj broń"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,qxsq"
 msgid "取消授权"
-msgstr "anulować autoryzację"
+msgstr "Anuluj autoryzację"
 
 #. Key:	QYBY
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12030,7 +12030,7 @@ msgstr "Ameryka Południowa"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SAVE"
 msgid "你可以建造一个床加快时间流逝\r\n\r\n游戏全程自动存档"
-msgstr "Łóżko służy do odnowienia zmęczenia i przyspieszenia czasu.\r\n\r\nGra jest automatycznie zapisywana przez cały czas gry."
+msgstr "Łóżko służy do zmniejszenia zmęczenia i przyspieszenia czasu.\r\n\r\nGra jest cały czas automatycznie zapisywana."
 
 #. Key:	Save
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12079,14 +12079,14 @@ msgstr "Instrukcja przetrwania"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,SCJG"
 msgid "尸潮进攻"
-msgstr "Atak fal zombi"
+msgstr "Fala zombie"
 
 #. Key:	SCJGR
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SCJGR"
 msgid "尸潮进攻日，无法入睡！"
-msgstr "W dniu ataku fali Zombie nie mogę spać!"
+msgstr "Nie mogę spać w dniu fali zombie!"
 
 #. Key:	scjgzq
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -12114,7 +12114,7 @@ msgstr "Prędkość"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Search"
 msgid "搜索设置："
-msgstr "ustawienia wyszukiwania:"
+msgstr "Ustawienia wyszukiwania:"
 
 #. Key:	SEDIAO
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -12142,14 +12142,14 @@ msgstr "serwer nasłuchujący"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,ServerName"
 msgid "服务器名称："
-msgstr "nazwa serwera:"
+msgstr "Nazwa serwera:"
 
 #. Key:	SetTipMessage
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,SetTipMessage"
 msgid "设置应用完成,某些选项可能需要在游戏重启后生效"
-msgstr "Ustawienia zostaly potwierdzone, niektóre opcje mogą zostać potwierdzone po ponownym uruchomieniu gry"
+msgstr "Ustawienia zostaly zatwierdzone, ale niektóre zmiany mogą wymagać ponownego uruchomienia gry"
 
 #. Key:	Settting
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -12310,21 +12310,21 @@ msgstr "Nie chcę cię tego uczyć."
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SS10"
 msgid "不可能！！！"
-msgstr "To nie jest uczciwa wymiana. Wiem ze możesz lepiej niż to! ! !"
+msgstr "To nie jest uczciwa wymiana. Wiem, że stać cię na więcej! ! !"
 
 #. Key:	SS11
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SS11"
 msgid "拜拜"
-msgstr "Skonczylem z tobą rozmiawiac , Narazie!"
+msgstr "Kończę rozmowę. Narazie."
 
 #. Key:	SS12
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SS12"
 msgid "我想和你学习技能"
-msgstr "Chcę nauczyć się umiejętności od ciebie"
+msgstr "Chcę się nauczyć umiejętności od ciebie"
 
 #. Key:	SS13
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12408,42 +12408,42 @@ msgstr "Wytrzymałość"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,Start"
 msgid "        丧尸病毒爆发，你躲在避难所生活了三年，但是避难所的资源也逐渐消耗殆尽，你遭到了放逐，接下来你只能靠自己在末世生存下去..."
-msgstr "        Wybuchł wirus zombie, mieszkałeś w schronie przez trzy lata, ale zasoby schronu stopniowo się wyczerpywały, zostałeś wygnany, a potem mogłes przetrwać w apokalipsie tylko sam..."
+msgstr "        Po wybuchu epidemii wirusa, mieszkałeś w schronie przez trzy lata. Niestety zasoby schronu stopniowo się wyczerpywały, więc zmusiło cię to do opuszczenia go i teraz musisz walczyć o przeżycie w świecie zawładniętym przez zombi..."
 
 #. Key:	StartDl
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,StartDl"
 msgid "开始发电"
-msgstr "Zacznij generować prąd"
+msgstr "Uruchom generowanie prądu"
 
 #. Key:	StartWater
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,StartWater"
 msgid "开始抽水"
-msgstr "Rozpocząć pompowanie"
+msgstr "Rozpocznij pompowanie"
 
 #. Key:	StopDL
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,StopDL"
 msgid "停止发电"
-msgstr "Przestań generować prąd"
+msgstr "Zatrzymaj generowanie prądu"
 
 #. Key:	StopWater
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,StopWater"
 msgid "停止抽水"
-msgstr "Przestań pompować"
+msgstr "Zatrzymaj pompowanie"
 
 #. Key:	StudyEnd
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,StudyEnd"
 msgid "已学习"
-msgstr "Poznano"
+msgstr "Ukończone"
 
 #. Key:	Successful
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12464,14 +12464,14 @@ msgstr "Lato"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SW11"
 msgid "在打开箱子的状态下，左键单击物品可以快速转移。\r\n\r\n拖动物品中按下R旋转物品方向。"
-msgstr "Aby szybko przenieść przemiot do skrzyni, kliknij na niego lewym przyciskiem myszy.\r\n\r\nNaciśnij klawisz R podczas przeciągania elementu, aby go obrucić."
+msgstr "Aby szybko przenieść przemiot do skrzyni, kliknij na niego lewym przyciskiem myszy.\r\n\r\nNaciśnij klawisz R podczas przeciągania elementu, aby go obrócić."
 
 #. Key:	SwitchServerMode
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SwitchServerMode"
 msgid "需要切换游戏服务器模式，并重新启动游戏，确认切换吗？"
-msgstr "Chcesz przełączyć tryb serwera gry i ponownie uruchomić grę, potwierdź zmianę?"
+msgstr "Chcesz przełączyć tryb serwera gry i ponownie uruchomić grę. Potwierdzasz zmianę?"
 
 #. Key:	SY
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12520,7 +12520,7 @@ msgstr "Wyjdź"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,TCXX"
 msgid "踢出"
-msgstr "wykopać"
+msgstr "Wykop"
 
 #. Key:	TD
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -12548,7 +12548,7 @@ msgstr "Spragniony"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,TipFks"
 msgid "脱离卡死冷却中"
-msgstr "Czas Odnowienia odblokowywanie postaci"
+msgstr "Czas odnowienia odblokowywanie postaci"
 
 #. Key:	TipName
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -12562,7 +12562,7 @@ msgstr "Podaj nazwę!"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,TJDHMD"
 msgid "添加到黑名单"
-msgstr "dodać do czarnej listy"
+msgstr "Dodaj do czarnej listy"
 
 #. Key:	TLD
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12828,7 +12828,7 @@ msgstr "Lekkoatletyka"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZWQF"
 msgid "不擅战斗"
-msgstr "nie jest dobry w walce"
+msgstr "Nie jest dobry w walce"
 
 #. Key:	TZWQZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -12982,7 +12982,7 @@ msgstr "Wykonane przy użyciu stołu do przetwarzania"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,useJXJGT"
 msgid "使用机械加工台制作"
-msgstr "Wykonane za pomocą stołu obróbkowego"
+msgstr "Wykonane za pomocą stołu do obróbki"
 
 #. Key:	useMTL
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12996,7 +12996,7 @@ msgstr "Wypalane w piecu"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,useNYGJT"
 msgid "使用农业工具台制作"
-msgstr "Wykonane na ławce narzędzi rolniczych"
+msgstr "Wytwarzane na stole rolniczym"
 
 #. Key:	useRLL
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -13010,7 +13010,7 @@ msgstr "Wypalane w piecu hutniczym"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,useZYY"
 msgid "在制药仪制作"
-msgstr "Wykonane w maszynie farmaceutycznej"
+msgstr "Wytwarzane na stole farmaceutycznym"
 
 #. Key:	useZYZ
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -13143,7 +13143,7 @@ msgstr "Naprawa zakończyła się sukcesem!"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,WXL"
 msgid "未修理"
-msgstr "Nie naprawiony"
+msgstr "Nienaprawiony"
 
 #. Key:	WZSC
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -13290,7 +13290,7 @@ msgstr "Warunki nauki:"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,XZSJ"
 msgid "熏肉需要200秒"
-msgstr "Suszone mięso zajmuje 200 sekund"
+msgstr "Suszenie mięsa zajmuje 200 sekund"
 
 #. Key:	Y
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -13311,14 +13311,14 @@ msgstr "Oko"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,YANJU"
 msgid "眼距"
-msgstr "Odległość oczu"
+msgstr "Rozstawienie oczu"
 
 #. Key:	YC
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,YC"
 msgid "移除"
-msgstr "usunąć"
+msgstr "Usuń"
 
 #. Key:	YINXIAO
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -13353,7 +13353,7 @@ msgstr "Zresetuj wszystkie umiejętności po śmierci"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,YNDSJ"
 msgid "一年的时间"
-msgstr "Za rok"
+msgstr "Następny rok"
 
 #. Key:	YX
 #. SourceLocation:	/Game/LocalizationText/UIStudy.UIStudy
@@ -13444,7 +13444,7 @@ msgstr "Skręcać"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,ZISHA"
 msgid "自杀"
-msgstr "samobójstwo"
+msgstr "Samobójstwo"
 
 #. Key:	ZLSD
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
