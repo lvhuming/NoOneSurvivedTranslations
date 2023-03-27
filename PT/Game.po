@@ -25,7 +25,7 @@ msgstr "Necessário para construir uma casa"
 #: /Game/Blueprint/UMG/Inventory/WBP_UseMenu.WBP_UseMenu_C:WidgetTree.TextBlock_9.Text
 msgctxt ",005986EF48789316B83C53885CBD1FB8"
 msgid "清洗"
-msgstr "Limpar-me"
+msgstr "Limpar"
 
 #. Key:	00986F3D49F50B3B8F6203A93FD5D846
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_SPX.WBP_SPX_C:WidgetTree.development.Text
@@ -802,14 +802,14 @@ msgstr "Lança de Madeira"
 #: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(1 - Value).DisplayNameMap
 msgctxt ",22C074F44EED2C76F551E9A06B6F8261"
 msgid "VerticalBeam"
-msgstr "VerticalBeam"
+msgstr "Viga Vertical"
 
 #. Key:	22CFC8EA45FAA84098796A9EE5C5D49A
 #. SourceLocation:	/Game/Blueprint/UMG/Make/WBP_MakeDetailShow.WBP_MakeDetailShow_C:WidgetTree.KRX.Text
 #: /Game/Blueprint/UMG/Make/WBP_MakeDetailShow.WBP_MakeDetailShow_C:WidgetTree.KRX.Text
 msgctxt ",22CFC8EA45FAA84098796A9EE5C5D49A"
 msgid "抗热性"
-msgstr "Resistência ao calor"
+msgstr "Resistência ao Calor"
 
 #. Key:	2308D6F3490886F47608A29FECC708F2
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Book/AutoCreate/BP_Book_JXX05.Default__BP_Book_JXX05_C.ItemInfo.Name
@@ -830,7 +830,7 @@ msgstr "Itens de desgaste"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_42.Text
 msgctxt ",233D5A434A78C427C610EC8FB48C8ED1"
 msgid "击倒增加"
-msgstr "Aumento de nocaute"
+msgstr "Aumento de Nocaute"
 
 #. Key:	234AAE934EEC76E08969F3B29B5052DE
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/QT/BP_GunAccessory_JJ_QT02.Default__BP_GunAccessory_JJ_QT02_C.ItemInfo.Description
@@ -844,14 +844,14 @@ msgstr "Modelo 02"
 #: /Game/Blueprint/ACF/Item/Weapon/LongBlunt/BP_LongBluntStickBase.Default__BP_LongBluntStickBase_C.ItemInfo.Name
 msgctxt ",2445515F40498BB2306FBB99F4C08EA8"
 msgid "长的双手刀"
-msgstr "Faca longa de duas mãos"
+msgstr "Facão"
 
 #. Key:	24791B5F496A7379DD1A5DABE8249766
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_24.In Text
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_24.In Text
 msgctxt ",24791B5F496A7379DD1A5DABE8249766"
 msgid "制衣台"
-msgstr "Tear"
+msgstr "Mesa De Costura"
 
 #. Key:	255B70D241CAF1A285F57FA01C58F0BF
 #. SourceLocation:	/Game/HDCKBuildingSystem/Table/E_SelectType.E_SelectType.DisplayNameMap(3 - Value).DisplayNameMap
@@ -865,7 +865,7 @@ msgstr "Tudo"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_43.Text
 msgctxt ",257D695A47DEEA3FFC5862BD1084FDE4"
 msgid "增加疟疾"
-msgstr "Aumento da malária"
+msgstr "Piorou da Malária"
 
 #. Key:	258B8DCA4A30A8C003E35AA9CED8333D
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_33.In Text
@@ -879,21 +879,21 @@ msgstr "Tijolo"
 #: /Game/HDCKBuildingSystem/Blueprints/Base/HandGuard_Base.Default__HandGuard_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",25C5D7934EF50D8F3DF87F80A0AA0E88"
 msgid "提示信息"
-msgstr "Informação imediata"
+msgstr "Dicas"
 
 #. Key:	264F21F94A312BE3982CE79C37D102D3
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_LoadGame.WBP_LoadGame_C:WidgetTree.TextBlock.Text
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_LoadGame.WBP_LoadGame_C:WidgetTree.TextBlock.Text
 msgctxt ",264F21F94A312BE3982CE79C37D102D3"
 msgid "恢复存档"
-msgstr "Restaurar arquivo"
+msgstr "Restaurar Arquivo"
 
 #. Key:	269B80324FC87D5B8DEDDDB22B6B7A09
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_42.In Text
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_42.In Text
 msgctxt ",269B80324FC87D5B8DEDDDB22B6B7A09"
 msgid "铁斧"
-msgstr "Machado de ferro"
+msgstr "Machado de Ferro"
 
 #. Key:	26CB1E6648D1B9871E000B8167164F09
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_SPX.WBP_SPX_C:WidgetTree.TextBlock.Text
@@ -928,56 +928,56 @@ msgstr "+"
 #: /Game/Blueprint/UMG/Furniture/WBP_YZ.WBP_YZ_C:WidgetTree.WBP_List.In Text
 msgctxt ",27C35DA247B66F5B2B6BF7B3590E504A"
 msgid "列表"
-msgstr "A lista"
+msgstr "Lista"
 
 #. Key:	2825D84B46503305B687FE865D440131
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_63.In Text
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_63.In Text
 msgctxt ",2825D84B46503305B687FE865D440131"
 msgid "钻井工具"
-msgstr "Ferramentas de perfuração"
+msgstr "Broca de Perfuração"
 
 #. Key:	2868B9554C079D0EFF670480D6C82D38
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_ZJ.Furniture_ZJ_C:ExecuteUbergraph_Furniture_ZJ [Script Bytecode]
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_ZJ.Furniture_ZJ_C:ExecuteUbergraph_Furniture_ZJ [Script Bytecode]
 msgctxt ",2868B9554C079D0EFF670480D6C82D38"
 msgid "添加饲料"
-msgstr "Adicionar ração"
+msgstr "Adicionar Ração"
 
 #. Key:	28D658514CA4B5E0194B54A460658A4B
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/GuardRail_2.Default__GuardRail_2_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 #: /Game/HDCKBuildingSystem/Blueprints/Base/GuardRail_2.Default__GuardRail_2_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",28D658514CA4B5E0194B54A460658A4B"
 msgid "提示信息"
-msgstr "Informação imediata"
+msgstr "Dicas"
 
 #. Key:	28FF919E49670ACE61590A92C65832EF
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/TipPasswordCheck.TipPasswordCheck_C:WidgetTree.PasswordNot.Text
 #: /Game/Blueprint/UMG/MainUI/Child/TipPasswordCheck.TipPasswordCheck_C:WidgetTree.PasswordNot.Text
 msgctxt ",28FF919E49670ACE61590A92C65832EF"
 msgid "密码不正确！"
-msgstr "Senha incorreta!"
+msgstr "Senha Incorreta!"
 
 #. Key:	291BB8524A3F9AE1C2CFC684DAC4CE1D
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_83.In Text
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_83.In Text
 msgctxt ",291BB8524A3F9AE1C2CFC684DAC4CE1D"
 msgid "钢箭"
-msgstr "Flecha de aço"
+msgstr "Flecha de Aço"
 
 #. Key:	293709574ECCB1307ACEC486F3E4D8AB
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/Wall_Door.Default__Wall_Door_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 #: /Game/HDCKBuildingSystem/Blueprints/Base/Wall_Door.Default__Wall_Door_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",293709574ECCB1307ACEC486F3E4D8AB"
 msgid "提示信息"
-msgstr "Informação imediata"
+msgstr "Dicas"
 
 #. Key:	2964AD47479FD74660CD0D8804857F13
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/StartUIEnum.StartUIEnum.DisplayNameMap(3 - Value).DisplayNameMap
 #: /Game/Blueprint/UMG/MainUI/StartUIEnum.StartUIEnum.DisplayNameMap(3 - Value).DisplayNameMap
 msgctxt ",2964AD47479FD74660CD0D8804857F13"
 msgid "CreateCharacter"
-msgstr "Criar personagem"
+msgstr "Criar Personagem"
 
 #. Key:	2A6C184143C0A639159C05B06A66DD47
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/GameCheck.GameCheck_C:WidgetTree.TextBlock_107.Text
@@ -991,7 +991,7 @@ msgstr "Inicia a Steam para verificar o jogo!"
 #: /Game/Blueprint/UMG/EscMenu/ScreenSwitch.ScreenSwitch.DisplayNameMap(2 - Value).DisplayNameMap
 msgctxt ",2A74F3F94EDE3FED86E7ACAD9041D481"
 msgid "ControlSet"
-msgstr "Conjunto de controle"
+msgstr "Controles"
 
 #. Key:	2A7A81C04CC79CA961EFA583EB846C9E
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_GameSetting.WBP_GameSetting_C:WidgetTree.Lang_5.ToolTipText
@@ -1012,14 +1012,14 @@ msgstr "Equipa 6"
 #: /Game/Blueprint/ACF/Item/Weapon/ACFGunBase.Default__ACFGunBase_C.ItemInfo.Name
 msgctxt ",2ABFDD2D4693426742BDACAE5D72DACC"
 msgid "M4步枪"
-msgstr "Carabina M4"
+msgstr "Rifle de Assalto M4"
 
 #. Key:	2AEDF97B456853ED929F229E28ED97D4
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/StartUIEnum.StartUIEnum.DisplayNameMap(1 - Value).DisplayNameMap
 #: /Game/Blueprint/UMG/MainUI/StartUIEnum.StartUIEnum.DisplayNameMap(1 - Value).DisplayNameMap
 msgctxt ",2AEDF97B456853ED929F229E28ED97D4"
 msgid "SelectCharacter"
-msgstr "Selecionar caracter"
+msgstr "Selecionar Personagem"
 
 #. Key:	2C14ACB34FE7669CDF2565A4CD696264
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Armor/AutoCreate/BP_Arm_KR101.Default__BP_Arm_KR101_C.ItemInfo.Name
@@ -1040,7 +1040,7 @@ msgstr "Animal"
 #: /Game/Blueprint/ACF/Tutorial/WBP_TutorialTip9.WBP_TutorialTip9_C:WidgetTree.TextBlock_1.Text
 msgctxt ",2D21568E46DADC304EDB0BAAD885B304"
 msgid "现在拾取桌面的绑带包扎伤口"
-msgstr "Agora pega o curativo na mesa e trata a ferida"
+msgstr "Agora pega a bandagem na mesa e faz um curativo"
 
 #. Key:	2D45AC2340F743E0200225ABC0688F37
 #. SourceLocation:	/Game/Blueprint/UMG/ScreenMessage/WBP_CarMessage.WBP_CarMessage_C:WidgetTree.SpeedLabel_1.Text
@@ -1054,7 +1054,7 @@ msgstr "99"
 #: /Game/HDCKBuildingSystem/Blueprints/Base/Wall_30.Default__Wall_30_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",2D537CD7412F6289FFD138ADC5587BE5"
 msgid "提示信息"
-msgstr "Informação imediata"
+msgstr "Dicas"
 
 #. Key:	2DAB35E643134B1AA825ACA13C74DE1F
 #. SourceLocation:	/Game/Blueprint/ACF/Player/HDCK_GameState.Default__HDCK_GameState_C:Team Manager.Teams(6 - Value).Teams.DisplayName
@@ -1068,14 +1068,14 @@ msgstr "Equipa 7"
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_ServerSetting.WBP_ServerSetting_C:WidgetTree.ShowTex_1.Text
 msgctxt ",2DE0B5EF440755EA73CCBF8E236A6626"
 msgid "服务器密码："
-msgstr "Senha do servidor:"
+msgstr "Senha do Servidor:"
 
 #. Key:	2E3B7D0B496CE27913B296A3FCDA5298
 #. SourceLocation:	/Game/Blueprint/Ladder/BP_Ladder.BP_Ladder_C:ShowUI [Script Bytecode]
 #: /Game/Blueprint/Ladder/BP_Ladder.BP_Ladder_C:ShowUI [Script Bytecode]
 msgctxt ",2E3B7D0B496CE27913B296A3FCDA5298"
 msgid "空格攀爬"
-msgstr "Escalada espacial"
+msgstr "ESPAÇO para Escalar"
 
 #. Key:	2E4E281C4C60905365BABAB530907CF2
 #. SourceLocation:	/Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(9).Mappings.PlayerMappableOptions.DisplayName
