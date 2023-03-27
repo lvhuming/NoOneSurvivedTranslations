@@ -4358,7 +4358,7 @@ msgstr "drewniana włócznia"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",checknuild"
 msgid "无承重结构或有物品阻止建造"
-msgstr "Brak konstrukcji nośnej lub obiektów uniemożliwiających budowę"
+msgstr "Brak konstrukcji nośnej lub obiekty uniemożliwiają budowę"
 
 #. Key:	D043E12D482ACE499BF8358CC1C2D9D1
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/WB/BP_GunAccessory_WB_SJ01.Default__BP_GunAccessory_WB_SJ01_C.ItemInfo.Description
@@ -5394,7 +5394,7 @@ msgstr "Atrybuty postaci"
 #: /Game/Blueprint/UMG/Inventory/WBP_UseMenu.WBP_UseMenu_C:UseItem [Script Bytecode]
 msgctxt ",FEB00EB14CB0582FD5EC4192D7C1185F"
 msgid "当前格子已经装备了其他物品"
-msgstr "Obecna siatka jest już wyposażona w inne przedmioty"
+msgstr "Miejsce zajęte przez inny przedmiot"
 
 #. Key:	FEB21BCC4870D846278BA9A227875DA1
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_ServerSetting.WBP_ServerSetting_C:WidgetTree.RoomName.Text
@@ -6598,7 +6598,7 @@ msgstr "Wędzarnia"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B59"
 msgid "培植箱"
-msgstr "Skrzynia uprawowa"
+msgstr "Skrzynia do upraw"
 
 #. Key:	B6
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6612,7 +6612,7 @@ msgstr "Ściana drewniana (trójkąt)"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B60"
 msgid "水培箱"
-msgstr "Pudełko do hodowli wody"
+msgstr "Zbiornik na wodę"
 
 #. Key:	B61
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6822,7 +6822,7 @@ msgstr "Przyczepa ręczna"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B88"
 msgid "饲养圈"
-msgstr "Kojec hodowlany"
+msgstr "Zagroda"
 
 #. Key:	B9
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -7074,7 +7074,7 @@ msgstr "Buty pancerne"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,A37"
 msgid "肩灯"
-msgstr "Światło na ramię"
+msgstr "Latarka na ramię"
 
 #. Key:	A4
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7508,7 +7508,7 @@ msgstr "Pieczone warzywa"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F27"
 msgid "失败料理"
-msgstr "Nieudane jedzenie"
+msgstr "Spalone jedzenie"
 
 #. Key:	F28
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8754,7 +8754,7 @@ msgstr "Zestaw do naprawy odzieży"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M83"
 msgid "饲料"
-msgstr "Karmić"
+msgstr "Karma"
 
 #. Key:	M84
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8950,14 +8950,14 @@ msgstr "Lek na żołądek"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,T14"
 msgid "治疗疟疾"
-msgstr "Leczyć malarię"
+msgstr "Leczy malarię"
 
 #. Key:	T15
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,T15"
 msgid "兴奋剂"
-msgstr "Doping"
+msgstr "Sterydy"
 
 #. Key:	T16
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9013,7 +9013,7 @@ msgstr "Nawóz"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,T22"
 msgid "用于给植物提供养分"
-msgstr "Dostarczać roślinom składników odżywczych"
+msgstr "Dostarcza roślinom składniki odżywcze"
 
 #. Key:	T23
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9027,7 +9027,7 @@ msgstr "Narzędzie do wiercenia"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,T24"
 msgid "营养液"
-msgstr "Roztwór składników odżywczych"
+msgstr "Kompost"
 
 #. Key:	T25
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9279,7 +9279,7 @@ msgstr "Stalowy łom"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W33"
 msgid "消防斧"
-msgstr "topór strażacki"
+msgstr "Topór strażacki"
 
 #. Key:	W34
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9328,7 +9328,7 @@ msgstr "Stalowa włócznia"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W4"
 msgid "主要用于砍树，必要时候也可以用来防身。"
-msgstr "Służy głównie do ścinania drzew, aw razie potrzeby może być również używany do samoobrony."
+msgstr "Służy głównie do ścinania drzew, ale w razie potrzeby może być również używany do obrony."
 
 #. Key:	W40
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9475,7 +9475,7 @@ msgstr "Kamienny Kilof"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W9"
 msgid "主要用于打碎石头，必要时候也可以用来防身。"
-msgstr "Służy głównie do rozbijania kamieni, aw razie potrzeby może być również używany do samoobrony."
+msgstr "Służy głównie do rozbijania kamieni, ale w razie potrzeby może być również używany do obrony."
 
 #. Key:	01
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -10119,7 +10119,7 @@ msgstr "Potwierdź"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,consume"
 msgid "消耗物品："
-msgstr "Materiały eksploatacyjne:"
+msgstr "Wymagane materiały:"
 
 #. Key:	ControlSet
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11372,7 +11372,7 @@ msgstr "Brak odpowiedniego elementu!"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,MYJZQX"
 msgid "无建筑权限"
-msgstr "brak pozwolenia na budowę"
+msgstr "Nie można zbudować"
 
 #. Key:	MZ
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -13276,14 +13276,14 @@ msgstr "Użyj naprawy rdzenia studni"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,XSTJ"
 msgid "学习条件未满足"
-msgstr "Warunki nauki nie są spełnione"
+msgstr "Brak wymaganych umiejętności"
 
 #. Key:	XXTJ
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,XXTJ"
 msgid "学习条件："
-msgstr "Warunki nauki:"
+msgstr "Wymagane umiejętności:"
 
 #. Key:	XZSJ
 #. SourceLocation:	/Game/LocalizationText/UI.UI
