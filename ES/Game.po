@@ -5114,7 +5114,7 @@ msgstr "Presta atención a las ranuras para armas a continuación: las dos prime
 #: /Game/HDCKBuildingSystem/Table/E_SelectTypeChild.E_SelectTypeChild.DisplayNameMap(0 - Value).DisplayNameMap
 msgctxt ",F302E02F4A257C60ED0E7C8A726B7B18"
 msgid "Beam"
-msgstr "Viga"
+msgstr "Viga (1x1)"
 
 #. Key:	F370F6994C20551E3A9968870FACCF36
 #. SourceLocation:	/Game/Blueprint/UMG/Inventory/WBP_UseMenu.WBP_UseMenu_C:ExecuteUbergraph_WBP_UseMenu [Script Bytecode]
@@ -5562,7 +5562,7 @@ msgstr "Baranda de Escalera"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",HorizontalBeam"
 msgid "横梁"
-msgstr "Viga"
+msgstr "Viga Horizontal"
 
 #. Key:	HorizontalBeamDetail
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5674,7 +5674,7 @@ msgstr "Techo de Paja (20 º)"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",Roof20_02"
 msgid "石材屋顶(20度)"
-msgstr "Techo de Piedra (20 º)"
+msgstr "Techo de Tejas (20 º)"
 
 #. Key:	Roof45
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5688,7 +5688,7 @@ msgstr "Techo de Paja (45 º)"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",Roof45_02"
 msgid "石材屋顶(45度)"
-msgstr "Techo de Piedra (45 º)"
+msgstr "Techo de Tejas (45 º)"
 
 #. Key:	Roof45_02Detail
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5730,28 +5730,28 @@ msgstr "Techo"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofCorner20"
 msgid "茅草屋顶(20度连接角)"
-msgstr "Techo de Paja (Angulo de 20 º)"
+msgstr "Techo de Paja (20 º)"
 
 #. Key:	RoofCorner20_02
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofCorner20_02"
 msgid "石材屋顶(20度连接角)"
-msgstr "Techo de Piedra (Angulo de 20 º)"
+msgstr "Techo de Tejas ( 20 º)"
 
 #. Key:	RoofCorner45
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofCorner45"
 msgid "茅草屋顶(45度连接角)"
-msgstr "Techo de Paja (Angulo de 45 º)"
+msgstr "Techo de Paja (45 º)"
 
 #. Key:	RoofCorner45_02
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofCorner45_02"
 msgid "石材屋顶(45度连接角)"
-msgstr "Techo de Piedra (Angulo de 45 º)"
+msgstr "Techo de Piedra (45 º)"
 
 #. Key:	RoofCorner45Detail
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5877,7 +5877,7 @@ msgstr "Techo de Paja (Conexión de 20 º)"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofIntersection20_02"
 msgid "石材屋顶(20度连接)"
-msgstr "Techo de Piedra (20 º)"
+msgstr "Techo de Tejas (20 º)"
 
 #. Key:	RoofIntersection45
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5891,7 +5891,7 @@ msgstr "Techo de Paja (45 º)"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofIntersection45_02"
 msgid "石材屋顶(45度连接)"
-msgstr "Techo de Piedra (45 º)"
+msgstr "Techo de Tejas (45 º)"
 
 #. Key:	RoofIntersection45Detail
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5905,42 +5905,42 @@ msgstr "Para conectar techos de esquinas exteriores."
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofTop_Stone_01"
 msgid "石材屋顶(单格)"
-msgstr "Techo de Piedra (Simple)"
+msgstr "Techo de Tejas (Simple)"
 
 #. Key:	RoofTop_Stone_02
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofTop_Stone_02"
 msgid "石材屋顶(单格转角)"
-msgstr "Techo de Piedra (Esquina Única)"
+msgstr "Techo de Tejas (Esquina Única)"
 
 #. Key:	RoofTop_Stone_03
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofTop_Stone_03"
 msgid "石材屋顶(单格十字)"
-msgstr "Techo de Piedra (Cruz Simple)"
+msgstr "Techo de Tejas (Cruz Simple)"
 
 #. Key:	RoofTop_Stone_04
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofTop_Stone_04"
 msgid "石材屋顶(单格结尾)"
-msgstr "Techo de Piedra (Rejilla Simple)"
+msgstr "Techo de Tejas (Rejilla Simple)"
 
 #. Key:	RoofTop_Stone_05
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofTop_Stone_05"
 msgid "石材屋顶(单格无连接)"
-msgstr "Techo de Piedra (Sin Conexión)"
+msgstr "Techo de Tejas (Sin Conexión)"
 
 #. Key:	RoofTop_Stone_06
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofTop_Stone_06"
 msgid "石材屋顶(单格三通)"
-msgstr "Techo de Piedra (En T)"
+msgstr "Techo de Tejas (En T)"
 
 #. Key:	RoofTop_Wood_01
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -6241,14 +6241,14 @@ msgstr "Columna de Cemento (1/3)"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B12"
 msgid "水泥横梁"
-msgstr "Viga de Hormigon"
+msgstr "Viga de Cemento (1x1)"
 
 #. Key:	B13
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B13"
 msgid "水泥横梁(两格)"
-msgstr "Viga de Hormigon (2x1)"
+msgstr "Viga de Cemento (2x1)"
 
 #. Key:	B14
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
