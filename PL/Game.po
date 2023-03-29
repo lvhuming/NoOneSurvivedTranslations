@@ -4176,14 +4176,14 @@ msgstr "Dopływ wody"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_14.Text
 msgctxt ",C63B559A430C8967E980F183A98EDD89"
 msgid "钝器+"
-msgstr "Tępe bronie+"
+msgstr "Obuchowe+"
 
 #. Key:	C8909F544D82D283B4CBAF86C0E811D3
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/E_FireMode.E_FireMode.DisplayNameMap(1 - Value).DisplayNameMap
 #: /Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/E_FireMode.E_FireMode.DisplayNameMap(1 - Value).DisplayNameMap
 msgctxt ",C8909F544D82D283B4CBAF86C0E811D3"
 msgid "TripleHair"
-msgstr "Potrójne Włosy"
+msgstr "Potrójne włosy"
 
 #. Key:	C91B92F140E95FFF8720FCB5C77715EF
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_Bed.WBP_Bed_C:WidgetTree.TextBlock.Text
@@ -4211,7 +4211,7 @@ msgstr "Zagroda hodowlana"
 #: /Game/Blueprint/UMG/MainUI/StartUIEnum.StartUIEnum.DisplayNameMap(6 - Value).DisplayNameMap
 msgctxt ",C96A306343EBD3D9EDF684B2E32E8B05"
 msgid "ThankList"
-msgstr "Lista podziękowań"
+msgstr "Podziękowania"
 
 #. Key:	C99F683B4CADB5E20B857EAF962FD2C7
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_16.Text
@@ -4288,7 +4288,7 @@ msgstr "Po rozbiórce nie odzyskujesz materiałów, ale zdobywasz doświadczenie
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_92.In Text
 msgctxt ",CCEA1679435409D6C3183B863520690B"
 msgid "556子弹"
-msgstr "Nabój 5.56"
+msgstr "Amunicja 5.56"
 
 #. Key:	CCFH
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -4456,7 +4456,7 @@ msgstr "60"
 #: /Game/Blueprint/UMG/Furniture/WBP_CarInventory.WBP_CarInventory_C:WidgetTree.Image_177.ToolTipText
 msgctxt ",D631A0DB4EA8C9BD835D6C9E7182C5C0"
 msgid "在车头处按下F拉车，再次按下放下"
-msgstr "Naciśnij F z przodu samochodu, aby pociągnąć samochód i naciśnij go ponownie, aby go odłożyć"
+msgstr "Naciśnij F stojąc z przodu samochodu, aby go ciągnąć. Wciśnij ponownie F, aby go puścić."
 
 #. Key:	D6A16FE4487F8C9FE0DFA48D534C86ED
 #. SourceLocation:	/Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_2.TipMessage_41_0D1B7B6342180F0BD1D386A6C8ADE0B3
@@ -5485,14 +5485,14 @@ msgstr "Poręcz (1/2)"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",GuardRailAdsorbent"
 msgid "地基，地板"
-msgstr "Poręcz"
+msgstr "Fundament / Ziemia"
 
 #. Key:	GuardRailBaring
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",GuardRailBaring"
 msgid "地基或地板"
-msgstr "Poręcz"
+msgstr "Fundament / Ziemia"
 
 #. Key:	GuardRailDetail
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5541,14 +5541,14 @@ msgstr "Kamienna ściana (1/3)"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",HandGuard"
 msgid "护手"
-msgstr "Poręcz"
+msgstr "Rękawica"
 
 #. Key:	HandGuardDetail
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",HandGuardDetail"
 msgid "一个单独的护手。"
-msgstr "Poręcz."
+msgstr "Prosta rękawica"
 
 #. Key:	HandGuardStairs
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -9804,7 +9804,7 @@ msgstr "Poręcz"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Buildingadsorbent"
 msgid "可吸附："
-msgstr "Wchłanianie:"
+msgstr "Postaw na: "
 
 #. Key:	BuildingAll
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -9818,14 +9818,14 @@ msgstr "Wszystko"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,BuildingBearing"
 msgid "承重："
-msgstr "Nośność:"
+msgstr "Wymaga: "
 
 #. Key:	BuildingCraft
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,BuildingCraft"
 msgid "合成"
-msgstr "Syntetyczny"
+msgstr "Warsztat"
 
 #. Key:	BuildingDestroy
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10700,7 +10700,7 @@ msgstr "Relacja:"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,GXMD"
 msgid "感谢名单"
-msgstr "lista podziękowań"
+msgstr "Podziękowania"
 
 #. Key:	GXZC
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10812,14 +10812,14 @@ msgstr "Głośność otoczenia"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,HMD"
 msgid "黑名单管理"
-msgstr "zarządzanie czarną listą"
+msgstr "Zarządzanie czarną listą"
 
 #. Key:	HMDWZ
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,HMDWZ"
 msgid "黑名单:"
-msgstr "czarna lista:"
+msgstr "Czarna lista:"
 
 #. Key:	HMZL
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
