@@ -326,14 +326,14 @@ msgstr "IA_FireMode"
 #: /Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_7.TipMessage_41_0D1B7B6342180F0BD1D386A6C8ADE0B3
 msgctxt ",0C797E8E40ACBD720B57B4B33B461ADD"
 msgid "疟疾几率"
-msgstr "Risque de paludisme"
+msgstr "Risque d'Intoxication"
 
 #. Key:	0D2F9EF34F24FE1D4DE8229B65941BC4
 #. SourceLocation:	/Game/Blueprint/ACF/Player/HDCK_CharacterBP.Default__HDCK_CharacterBP_C.TimeBuffDetail(0).TimeBuffDetail.TipMessage_56_5402F47A4785659B27440099C7CA676D
 #: /Game/Blueprint/ACF/Player/HDCK_CharacterBP.Default__HDCK_CharacterBP_C.TimeBuffDetail(0).TimeBuffDetail.TipMessage_56_5402F47A4785659B27440099C7CA676D
 msgctxt ",0D2F9EF34F24FE1D4DE8229B65941BC4"
 msgid "疟疾，减少耐力上限和回复"
-msgstr "Paludisme, régénération réduite et endurance limitée"
+msgstr "Intoxication, régénération réduite et endurance limitée"
 
 #. Key:	0EAC4CF84F900A49A09DE09F240307B5
 #. SourceLocation:	/Game/Blueprint/UMG/WBP_BaseCharacter.WBP_BaseCharacter_C:WidgetTree.YZKX.Text
@@ -865,7 +865,7 @@ msgstr "Tout"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_43.Text
 msgctxt ",257D695A47DEEA3FFC5862BD1084FDE4"
 msgid "增加疟疾"
-msgstr "Augmentation du paludisme"
+msgstr "Augmentation d'Intoxication"
 
 #. Key:	258B8DCA4A30A8C003E35AA9CED8333D
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_33.In Text
@@ -5114,7 +5114,7 @@ msgstr "Faites attention aux emplacements d'armes ci-dessous. Les deux premiers 
 #: /Game/HDCKBuildingSystem/Table/E_SelectTypeChild.E_SelectTypeChild.DisplayNameMap(0 - Value).DisplayNameMap
 msgctxt ",F302E02F4A257C60ED0E7C8A726B7B18"
 msgid "Beam"
-msgstr "Rayonner"
+msgstr "Zone d'effet"
 
 #. Key:	F370F6994C20551E3A9968870FACCF36
 #. SourceLocation:	/Game/Blueprint/UMG/Inventory/WBP_UseMenu.WBP_UseMenu_C:ExecuteUbergraph_WBP_UseMenu [Script Bytecode]
@@ -5583,7 +5583,7 @@ msgstr "Entrez s'il vous plait..."
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",mdc"
 msgid "木地刺"
-msgstr "sashimi de bois"
+msgstr "Piège de Piques en bois"
 
 #. Key:	Null
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -6045,14 +6045,14 @@ msgstr "Escaliers en bois."
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",TDC"
 msgid "铁地刺"
-msgstr "Épine de fer"
+msgstr "Piques en fer"
 
 #. Key:	TieJuMa
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",TieJuMa"
 msgid "铁拒马"
-msgstr "Cheval de rejet de fer"
+msgstr "Cheval de Frise en fer"
 
 #. Key:	TwoHorizontalBeam
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -6255,7 +6255,7 @@ msgstr "Poutres en béton (deux grilles)"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B14"
 msgid "水泥横梁(四格)"
-msgstr "Poutres en ciment (quatre grilles)"
+msgstr "Poutres en béton (quatre grilles)"
 
 #. Key:	B15
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6381,7 +6381,7 @@ msgstr "Mur en bois (avec ouverture de fenêtre)"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B30"
 msgid "脚手架"
-msgstr "Échafaud"
+msgstr "Échafaudage"
 
 #. Key:	B31
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6423,7 +6423,7 @@ msgstr "Table d'usinage"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B36"
 msgid "密封排气机"
-msgstr "Atelier de fabrication de concerves"
+msgstr "Atelier de fabrication de conserves"
 
 #. Key:	B37
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6472,7 +6472,7 @@ msgstr "Purificateur d'eau"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B42"
 msgid "电池组"
-msgstr "Batterie"
+msgstr "Rangement de Batterie"
 
 #. Key:	B43
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6752,7 +6752,7 @@ msgstr "Porte de fer"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B79"
 msgid "拒马"
-msgstr "Piques en bois"
+msgstr "Cheval de Frise en bois"
 
 #. Key:	B8
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -7256,14 +7256,14 @@ msgstr "Cuisine (Volume 2)"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F116"
 msgid "烹饪（四卷）"
-msgstr "Cuisine (Volume 3)"
+msgstr "Cuisine (Volume 4)"
 
 #. Key:	F117
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F117"
 msgid "烹饪（五卷）"
-msgstr "Cuisine (Volume 4)"
+msgstr "Cuisine (Volume 5)"
 
 #. Key:	F118
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7767,7 +7767,7 @@ msgstr "Champignon"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F60"
 msgid "有效治疗疟疾"
-msgstr "Traitement efficace contre le paludisme"
+msgstr "Traitement efficace contre l'Intoxication"
 
 #. Key:	F61
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8047,14 +8047,14 @@ msgstr "Tailleur (Volume 3)"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F97"
 msgid "裁缝（四卷）"
-msgstr "Tailleur  (Volume 3)"
+msgstr "Tailleur  (Volume 4)"
 
 #. Key:	F98
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F98"
 msgid "裁缝（五卷）"
-msgstr "Tailleur (Volume 4)"
+msgstr "Tailleur (Volume 5)"
 
 #. Key:	F99
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8950,7 +8950,7 @@ msgstr "Médecine gastrique"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,T14"
 msgid "治疗疟疾"
-msgstr "Traiter le paludisme"
+msgstr "Traiter l'Intoxication"
 
 #. Key:	T15
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9069,21 +9069,21 @@ msgstr "Batterie industrielle (200Ah)"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,T6"
 msgid "太阳能电池组50W"
-msgstr "Batterie solaire 50W"
+msgstr "Panneau solaire 50W"
 
 #. Key:	T7
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,T7"
 msgid "太阳能电池组200W"
-msgstr "Batterie solaire 200W"
+msgstr "Panneau solaire 200W"
 
 #. Key:	T8
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,T8"
 msgid "太阳能电池组300W"
-msgstr "Batterie solaire 300W"
+msgstr "Panneau solaire 300W"
 
 #. Key:	T9
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9482,7 +9482,7 @@ msgstr "Elle est principalement utilisée pour casser des pierres, mais elle peu
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,01"
 msgid "当食物新鲜度开始变黄，吃下去可能会感染疟疾，新鲜度越低感染的可能性越大。"
-msgstr "Lorsque la fraîcheur de la nourriture commence à jaunir, vous pouvez être infecté par le paludisme après l'avoir mangé. Plus la fraîcheur est faible, plus la possibilité d'infection est grande."
+msgstr "Lorsque la fraîcheur de la nourriture commence à jaunir, vous pouvez être infecté par une Intoxication après l'avoir mangé. Plus la fraîcheur est faible, plus la possibilité d'infection est grande."
 
 #. Key:	02
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -11540,7 +11540,7 @@ msgstr "Pack de début de partie"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,NJ"
 msgid "疟疾"
-msgstr "Paludisme"
+msgstr "Intoxication"
 
 #. Key:	NLSX
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11743,7 +11743,7 @@ msgstr "Tenir en main"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Open"
 msgid "打开"
-msgstr "Ouvert"
+msgstr "Ouvrir"
 
 #. Key:	OpenLock
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11827,7 +11827,7 @@ msgstr "Il n'y en a plus!"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,QCRL"
 msgid "取出燃料"
-msgstr "sortir du carburant"
+msgstr "Siphonner du carburant"
 
 #. Key:	QG
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -13529,4 +13529,3 @@ msgstr "Volume total"
 msgctxt "UI,ZZ"
 msgid "一小包种子"
 msgstr "Petit paquet de graines"
-
