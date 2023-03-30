@@ -4295,7 +4295,7 @@ msgstr "Munición: 5.56 mm"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",CCFH"
 msgid "拆除返还所有材料"
-msgstr "Al desmontar devuelve todos los materiales"
+msgstr "Al reciclar devuelve todos los materiales"
 
 #. Key:	CD1F85B4472D5C4EA8B1FCAF5325B0AB
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_31.In Text
@@ -5002,7 +5002,7 @@ msgstr "Material"
 #: /Game/Blueprint/UMG/Furniture/WBP_SPX.WBP_SPX_C:WidgetTree.TextBlock_115.Text
 msgctxt ",ECAB878844DB5540EF7B15AB40273797"
 msgid "铲掉"
-msgstr "Eliminar (Planta)."
+msgstr "Eliminar Planta"
 
 #. Key:	ED362C3F47934E84F061EFA97E3FB2B8
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_101.In Text
@@ -7746,7 +7746,7 @@ msgstr "Agua Contaminada"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F58"
 msgid "药草"
-msgstr "Planta Medicinal"
+msgstr "Hierbas Medicinales"
 
 #. Key:	F59
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8397,7 +8397,7 @@ msgstr "Petróleo"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M37"
 msgid "植物纤维"
-msgstr "Fibras Vegetales"
+msgstr "Lino (Fibra Vegetal)"
 
 #. Key:	M38
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8670,7 +8670,7 @@ msgstr "Semilla de Algodón"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M72"
 msgid "亚麻种子"
-msgstr "Semilla de Lino"
+msgstr "Semilla de Lino (Fibra Vegetal)"
 
 #. Key:	M73
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9559,7 +9559,7 @@ msgstr "Usa la Pata de Cabra para abrir una puerta o un armario cerrado."
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,12"
 msgid "用小锤可以拆除某些物品获取材料。"
-msgstr "Algunos objetos se pueden desmontar para obtener materiales usando un pequeño martillo."
+msgstr "Algunos objetos se pueden reciclar para obtener materiales usando un martillo de construcción."
 
 #. Key:	13
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -10147,7 +10147,7 @@ msgstr "Fabricar "
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Createing"
 msgid "创建中..."
-msgstr "Creando..."
+msgstr "Cargando..."
 
 #. Key:	Crowarb
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10217,7 +10217,7 @@ msgstr "Muerto"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,decompose"
 msgid "拆解"
-msgstr "Desmontar"
+msgstr "Reciclar"
 
 #. Key:	decomposeing
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11610,7 +11610,7 @@ msgstr "Sin Fuego o Ningún Ingrediente."
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,NotLink"
 msgid "未连接"
-msgstr "No Conectado"
+msgstr " Sin Conectar"
 
 #. Key:	NotLinkDCZ
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11680,7 +11680,7 @@ msgstr "Agricultura "
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,NYCD"
 msgid "铲掉"
-msgstr "Eliminar (Planta)."
+msgstr "Eliminar Planta"
 
 #. Key:	NYCS
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -13157,7 +13157,7 @@ msgstr "Generación de materiales"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,WZSL"
 msgid "物资数量"
-msgstr "Cantidad de Loot"
+msgstr "Cantidad de Botín"
 
 #. Key:	WZSL01
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
