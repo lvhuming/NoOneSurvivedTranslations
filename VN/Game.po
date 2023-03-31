@@ -4,21 +4,14 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-03-11 03:41\n"
-"PO-Revision-Date: 2023-03-11 03:41\n"
+"POT-Creation-Date: 2023-03-31 03:22\n"
+"PO-Revision-Date: 2023-03-31 03:22\n"
 "Language-Team: \n"
 "Language: vi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-
-#. Key:	000DC06C4161350ADE645894FED5BEE2
-#. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/OutStairs_Base_Wood.Default__OutStairs_Base_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-#: /Game/HDCKBuildingSystem/MeshBP/OutStairs_Base_Wood.Default__OutStairs_Base_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-msgctxt ",000DC06C4161350ADE645894FED5BEE2"
-msgid "建房必备"
-msgstr "Cần thiết cho việc xây dựng một ngôi nhà"
 
 #. Key:	005986EF48789316B83C53885CBD1FB8
 #. SourceLocation:	/Game/Blueprint/UMG/Inventory/WBP_UseMenu.WBP_UseMenu_C:WidgetTree.TextBlock_9.Text
@@ -75,6 +68,13 @@ msgstr "20"
 msgctxt ",029F18BD46A2F021A1DFC69AEB53CA02"
 msgid "回收失败！"
 msgstr "Không thể phục hồi !"
+
+#. Key:	03237BC74E01AF3A88331B98E5056D2B
+#. SourceLocation:	/Game/Blueprint/ACF/Item/Food/AutoCreate/BP_Food_GYC.Default__BP_Food_GYC_C.ItemInfo.Description
+#: /Game/Blueprint/ACF/Item/Food/AutoCreate/BP_Food_GYC.Default__BP_Food_GYC_C.ItemInfo.Description
+msgctxt ",03237BC74E01AF3A88331B98E5056D2B"
+msgid "食物"
+msgstr ""
 
 #. Key:	0346655D46C4AF76A1D1B3943060F0AB
 #. SourceLocation:	/Game/Blueprint/UMG/EscMenu/WBP_ScreenSetting.WBP_ScreenSetting_C:WidgetTree.WBP_NIS.Show In Text
@@ -145,13 +145,6 @@ msgstr "Làm bàn chế tạo và bắt đầu chế tạo ván gỗ"
 msgctxt ",054ACD344342564AB89C4D9E4057BE66"
 msgid "家具"
 msgstr "nội thất"
-
-#. Key:	05741E524C1BBA39C899EFACD5136E5E
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Food/AutoCreate/BP_Food_GYC.Default__BP_Food_GYC_C.ItemInfo.Name
-#: /Game/Blueprint/ACF/Item/Food/AutoCreate/BP_Food_GYC.Default__BP_Food_GYC_C.ItemInfo.Name
-msgctxt ",05741E524C1BBA39C899EFACD5136E5E"
-msgid "香菇"
-msgstr "nấm"
 
 #. Key:	067D9CDB4FE9E1F850C2E69B23C0B4A7
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_JXJGT.WBP_JXJGT_C:WidgetTree.Num.Text
@@ -327,6 +320,13 @@ msgstr "IA_FireMode"
 msgctxt ",0C797E8E40ACBD720B57B4B33B461ADD"
 msgid "疟疾几率"
 msgstr "Khả năng tiêu chảy"
+
+#. Key:	0D1C760748E86A5E563C019548D9965C
+#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/ShortSharp/BP_Knife02.Default__BP_Knife02_C.ItemInfo.Name
+#: /Game/Blueprint/ACF/Item/Weapon/ShortSharp/BP_Knife02.Default__BP_Knife02_C.ItemInfo.Name
+msgctxt ",0D1C760748E86A5E563C019548D9965C"
+msgid "短的单手刀"
+msgstr ""
 
 #. Key:	0D2F9EF34F24FE1D4DE8229B65941BC4
 #. SourceLocation:	/Game/Blueprint/ACF/Player/HDCK_CharacterBP.Default__HDCK_CharacterBP_C.TimeBuffDetail(0).TimeBuffDetail.TipMessage_56_5402F47A4785659B27440099C7CA676D
@@ -720,6 +720,13 @@ msgctxt ",1E0E1014475CBA9F745970B164487715"
 msgid "机修（二卷）"
 msgstr "Sửa máy (phần 2)"
 
+#. Key:	1E0FBF7844EF560D63174E9EC185B809
+#. SourceLocation:	/Game/Blueprint/UMG/Inventory/WBP_PointButton.WBP_PointButton_C:OnDrop [Script Bytecode]
+#: /Game/Blueprint/UMG/Inventory/WBP_PointButton.WBP_PointButton_C:OnDrop [Script Bytecode]
+msgctxt ",1E0FBF7844EF560D63174E9EC185B809"
+msgid "此物品无法装备在这"
+msgstr "Mục này không thể được trang bị ở đây"
+
 #. Key:	1E1424C246AA03A9636E0398AD8C1852
 #. SourceLocation:	/Game/Blueprint/UMG/EscMenu/WBP_ControlSetting.WBP_ControlSetting_C:WidgetTree.WBP_SlideMouse_1.Show In Text
 #: /Game/Blueprint/UMG/EscMenu/WBP_ControlSetting.WBP_ControlSetting_C:WidgetTree.WBP_SlideMouse_1.Show In Text
@@ -789,13 +796,6 @@ msgstr "Bắn một viên"
 msgctxt ",224244E146D5DA4CDA33559117B53DEF"
 msgid "Tab"
 msgstr "Tab"
-
-#. Key:	2255CAED4589F1456518B8BE7B3A195D
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Spear/BP_SpearShoot_Wood.Default__BP_SpearShoot_Wood_C.ItemInfo.Name
-#: /Game/Blueprint/ACF/Item/Weapon/Spear/BP_SpearShoot_Wood.Default__BP_SpearShoot_Wood_C.ItemInfo.Name
-msgctxt ",2255CAED4589F1456518B8BE7B3A195D"
-msgid "木矛"
-msgstr "giáo gỗ"
 
 #. Key:	22C074F44EED2C76F551E9A06B6F8261
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(1 - Value).DisplayNameMap
@@ -1021,6 +1021,13 @@ msgctxt ",2AEDF97B456853ED929F229E28ED97D4"
 msgid "SelectCharacter"
 msgstr "Chọn nhân vật"
 
+#. Key:	2BCB025A41D57B1CA0E155BD12783BE0
+#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/ACFGunBase_Rifle.Default__ACFGunBase_Rifle_C.ItemInfo.Name
+#: /Game/Blueprint/ACF/Item/Weapon/ACFGunBase_Rifle.Default__ACFGunBase_Rifle_C.ItemInfo.Name
+msgctxt ",2BCB025A41D57B1CA0E155BD12783BE0"
+msgid "M4步枪"
+msgstr ""
+
 #. Key:	2C14ACB34FE7669CDF2565A4CD696264
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Armor/AutoCreate/BP_Arm_KR101.Default__BP_Arm_KR101_C.ItemInfo.Name
 #: /Game/Blueprint/ACF/Item/Armor/AutoCreate/BP_Arm_KR101.Default__BP_Arm_KR101_C.ItemInfo.Name
@@ -1140,12 +1147,12 @@ msgctxt ",3051ED674341FDB383BE0B83E0E7BD19"
 msgid "铁制匕首"
 msgstr "Dao găm sắt"
 
-#. Key:	315A150344FB3F31E72E919C35C13F22
-#. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/Furniture_Base.Default__Furniture_Base_C.BuildInfo.Name_38_B9A5B2DC4FBEF03FBCA85592B802C50C
-#: /Game/HDCKBuildingSystem/Blueprints/Base/Furniture_Base.Default__Furniture_Base_C.BuildInfo.Name_38_B9A5B2DC4FBEF03FBCA85592B802C50C
-msgctxt ",315A150344FB3F31E72E919C35C13F22"
-msgid "家具"
-msgstr "Nội thất"
+#. Key:	31871561446D15B0848CB38F354B0318
+#. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Foundation_SN.Default__Foundation_SN_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
+#: /Game/HDCKBuildingSystem/MeshBP/Foundation_SN.Default__Foundation_SN_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
+msgctxt ",31871561446D15B0848CB38F354B0318"
+msgid "水泥制作的地基，看起来很结实，可以承受相当多的重量。"
+msgstr "Nền móng được làm bằng xi măng, trông chắc chắn và có thể chịu được trọng lượng đáng kể."
 
 #. Key:	31891998465BE7550992549F82681FA0
 #. SourceLocation:	/Game/Blueprint/UMG/WBP_BaseCharacter.WBP_BaseCharacter_C:WidgetTree.KHX.Text
@@ -1420,13 +1427,6 @@ msgctxt ",3FB2451B4FF120B2FAA709ABF555A02A"
 msgid "铁棍"
 msgstr "Chuỳ sắt"
 
-#. Key:	3FD998734A21E21A308E56B1BD772319
-#. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/Furniture_Base.Default__Furniture_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
-#: /Game/HDCKBuildingSystem/Blueprints/Base/Furniture_Base.Default__Furniture_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
-msgctxt ",3FD998734A21E21A308E56B1BD772319"
-msgid "地基或地板"
-msgstr "Nền hoặc sàn"
-
 #. Key:	400FA9E84271FAB20F1FD0A7D5CD5502
 #. SourceLocation:	/Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(11).Mappings.PlayerMappableOptions.DisplayName
 #: /Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(11).Mappings.PlayerMappableOptions.DisplayName
@@ -1482,6 +1482,13 @@ msgstr "Sàn làm bằng gỗ. Nhìn rất chắc chắn và chịu được kh�
 msgctxt ",42CCDC264FCA7E5F57C774A68D1FA7C2"
 msgid "干电池"
 msgstr "Pin nhỏ"
+
+#. Key:	42E67EE54162DF5EA6EDF6A78EA752E3
+#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Spear/BP_SpearShoot_Wood.Default__BP_SpearShoot_Wood_C.ItemInfo.Name
+#: /Game/Blueprint/ACF/Item/Weapon/Spear/BP_SpearShoot_Wood.Default__BP_SpearShoot_Wood_C.ItemInfo.Name
+msgctxt ",42E67EE54162DF5EA6EDF6A78EA752E3"
+msgid "木矛"
+msgstr ""
 
 #. Key:	4348953248D241725A36BD85949AE223
 #. SourceLocation:	/Game/HDCKBuildingSystem/Table/BuildTable.BuildTable.NewRow_11.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
@@ -1749,13 +1756,6 @@ msgctxt ",4FB41E114459F569BCE7BC99E7DB61C6"
 msgid "Auto"
 msgstr "Tự động"
 
-#. Key:	507C12F4468CF7BE8239FD8F7DA1961D
-#. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_Wood.Default__Roof_20_intersection_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-#: /Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_Wood.Default__Roof_20_intersection_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-msgctxt ",507C12F4468CF7BE8239FD8F7DA1961D"
-msgid "用于连接外转角屋顶。"
-msgstr "Để tham gia mái góc bên ngoài."
-
 #. Key:	508A302D479171AD2AFCB5BDF7BF0BD4
 #. SourceLocation:	/Game/Blueprint/ACF/Player/HDCK_CharacterBP.Default__HDCK_CharacterBP_C.TimeBuffDetail(1).TimeBuffDetail.TipMessage_56_5402F47A4785659B27440099C7CA676D
 #: /Game/Blueprint/ACF/Player/HDCK_CharacterBP.Default__HDCK_CharacterBP_C.TimeBuffDetail(1).TimeBuffDetail.TipMessage_56_5402F47A4785659B27440099C7CA676D
@@ -1797,13 +1797,6 @@ msgstr "thông tin kịp thời"
 msgctxt ",5266199243DBCAB57A9139B087C1733C"
 msgid "Stairs"
 msgstr "Cầu thang"
-
-#. Key:	529C15EE44DF85184B37C09AF69F7B00
-#. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/Stairs_03.Default__Stairs_03_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
-#: /Game/HDCKBuildingSystem/Blueprints/Base/Stairs_03.Default__Stairs_03_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
-msgctxt ",529C15EE44DF85184B37C09AF69F7B00"
-msgid "提示信息"
-msgstr "thông tin kịp thời"
 
 #. Key:	52A13B2248804E835DDB938858E96088
 #. SourceLocation:	/Game/Blueprint/ACF/Tutorial/WBP_TutorialTip8.WBP_TutorialTip8_C:WidgetTree.TextBlock.Text
@@ -1910,6 +1903,13 @@ msgctxt ",58CA3377422B02C724EF7E8B702B1083"
 msgid "钢撬棍"
 msgstr "Xà beng thép"
 
+#. Key:	58DD6F8043E899B72C1D10A1860B41B2
+#. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/OutStairs_Base_Wood.Default__OutStairs_Base_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
+#: /Game/HDCKBuildingSystem/MeshBP/OutStairs_Base_Wood.Default__OutStairs_Base_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
+msgctxt ",58DD6F8043E899B72C1D10A1860B41B2"
+msgid "建房必备"
+msgstr "Cần thiết cho việc xây dựng một ngôi nhà"
+
 #. Key:	58F0265A40DBE9CFC7C484B4CAC7BEDC
 #. SourceLocation:	/Game/Blueprint/ACF/Tutorial/WBP_TutorialTip0.WBP_TutorialTip0_C:WidgetTree.TextBlock_2.Text
 #: /Game/Blueprint/ACF/Tutorial/WBP_TutorialTip0.WBP_TutorialTip0_C:WidgetTree.TextBlock_2.Text
@@ -1972,13 +1972,6 @@ msgstr "Rìu"
 msgctxt ",5A59E05F4DEA91E378D72BA820DC9EE5"
 msgid "长矛"
 msgstr "Giáo"
-
-#. Key:	5A8252ED4040A2ADD3C71E8276B5C6CE
-#. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/Furniture_Base.Default__Furniture_Base_C.BuildInfo.TipAdsorbent_45_0277CC26494BF1319349189E27EC6190
-#: /Game/HDCKBuildingSystem/Blueprints/Base/Furniture_Base.Default__Furniture_Base_C.BuildInfo.TipAdsorbent_45_0277CC26494BF1319349189E27EC6190
-msgctxt ",5A8252ED4040A2ADD3C71E8276B5C6CE"
-msgid "无"
-msgstr "Không"
 
 #. Key:	5B20C11C40F75CC9326BD7AF00546A6C
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_2.In Text
@@ -2322,6 +2315,13 @@ msgstr "Lớn"
 msgctxt ",6A99CF8340C2FAECB78416B5BAAE65FA"
 msgid "拖放动物到这里"
 msgstr "Kéo thả động vật vào đây"
+
+#. Key:	6AC6CBD3465986513B140C99E8679E6E
+#. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_BL.WBP_BL_C:WidgetTree.WBP_AddButton.ToolTipText
+#: /Game/Blueprint/UMG/Furniture/WBP_BL.WBP_BL_C:WidgetTree.WBP_AddButton.ToolTipText
+msgctxt ",6AC6CBD3465986513B140C99E8679E6E"
+msgid "拖入可燃物，比如树枝，原木"
+msgstr "Kéo các chất dễ cháy như cành cây, khúc gỗ vào"
 
 #. Key:	6ACC187246C8636B5F5FADB57DD4DFE7
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_86.In Text
@@ -2694,13 +2694,6 @@ msgctxt ",798DAD7A4D66BDA2695E86B48A98DB57"
 msgid "Medium"
 msgstr "Trung bình"
 
-#. Key:	79B0F10B46AA0CD33822A08E1CD670B3
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/ACFGunBase_Rifle.Default__ACFGunBase_Rifle_C.ItemInfo.Name
-#: /Game/Blueprint/ACF/Item/Weapon/ACFGunBase_Rifle.Default__ACFGunBase_Rifle_C.ItemInfo.Name
-msgctxt ",79B0F10B46AA0CD33822A08E1CD670B3"
-msgid "M4步枪"
-msgstr "súng trường M4"
-
 #. Key:	7A117314455AB9B7DAE9E8A5F1544780
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_34.Text
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_34.Text
@@ -2939,13 +2932,6 @@ msgctxt ",85149FD54B55F3B6218485B6BA8F72FD"
 msgid "精细零件"
 msgstr "Bộ phận chất lượng tốt"
 
-#. Key:	85CF296B4D233E7440EFA8AE591A2FFC
-#. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_LDQ.Default__Furniture_LDQ_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
-#: /Game/HDCKBuildingSystem/MeshBP/Furniture_LDQ.Default__Furniture_LDQ_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
-msgctxt ",85CF296B4D233E7440EFA8AE591A2FFC"
-msgid "提示信息"
-msgstr "thông tin kịp thời"
-
 #. Key:	85DE22324C7068D83740A99089B247E1
 #. SourceLocation:	/Game/Blueprint/UMG/EscMenu/WBP_Setting.Default__WBP_Setting_C.Setting(0).Setting
 #: /Game/Blueprint/UMG/EscMenu/WBP_Setting.Default__WBP_Setting_C.Setting(0).Setting
@@ -2980,13 +2966,6 @@ msgstr "Năng lượng:"
 msgctxt ",8710C0014D4869B4CBF99993FFD25E15"
 msgid "肾上腺素"
 msgstr "Adrenaline"
-
-#. Key:	888378F14746FF86779276B265E2FC14
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Spear/BP_SpearShoot_G.Default__BP_SpearShoot_G_C.ItemInfo.Name
-#: /Game/Blueprint/ACF/Item/Weapon/Spear/BP_SpearShoot_G.Default__BP_SpearShoot_G_C.ItemInfo.Name
-msgctxt ",888378F14746FF86779276B265E2FC14"
-msgid "木矛"
-msgstr "giáo gỗ"
 
 #. Key:	89132394498B7996A54198A9006A847B
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_39.In Text
@@ -3036,6 +3015,13 @@ msgstr "Model 02"
 msgctxt ",8A4DDA014B1E6C0933545687B5ACE492"
 msgid "铁锤"
 msgstr "Búa sắt"
+
+#. Key:	8A7A71954757B9FD9665139C7AD81AEE
+#. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_BL.WBP_BL_C:WidgetTree.FireTIme.Text
+#: /Game/Blueprint/UMG/Furniture/WBP_BL.WBP_BL_C:WidgetTree.FireTIme.Text
+msgctxt ",8A7A71954757B9FD9665139C7AD81AEE"
+msgid "燃烧时间：0"
+msgstr "Thời gian ghi: 0"
 
 #. Key:	8AB657134BC71D80A664569881FBD37B
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(3 - Value).DisplayNameMap
@@ -3162,6 +3148,13 @@ msgstr "Cần thiết để xây nhà"
 msgctxt ",9410660E4A342FA06D31A7956C47847E"
 msgid "预计成熟时间"
 msgstr "Thời gian ước tính còn lại đến khi lớn"
+
+#. Key:	943014EE438FF125B04CA6BAFD6404C6
+#. SourceLocation:	/Game/Blueprint/ACF/Item/Food/AutoCreate/BP_Food_GYC.Default__BP_Food_GYC_C.ItemInfo.Name
+#: /Game/Blueprint/ACF/Item/Food/AutoCreate/BP_Food_GYC.Default__BP_Food_GYC_C.ItemInfo.Name
+msgctxt ",943014EE438FF125B04CA6BAFD6404C6"
+msgid "香菇"
+msgstr ""
 
 #. Key:	944A7174480371E088359CBE88A1650A
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/Door_Base.Default__Door_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
@@ -3499,6 +3492,13 @@ msgctxt ",A531484A4D7334448A41DF8CA71C2B71"
 msgid "试着将三种不同的食材放入锅中烹饪"
 msgstr "Thử nấu 3 nguyên liệu trong nồi"
 
+#. Key:	A5A334CF439CF989A81258B6DE3C8210
+#. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_Stone.Default__Roof_20_intersection_Stone_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
+#: /Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_Stone.Default__Roof_20_intersection_Stone_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
+msgctxt ",A5A334CF439CF989A81258B6DE3C8210"
+msgid "用于连接外转角屋顶。"
+msgstr ""
+
 #. Key:	A62AEC1B44C9FEE0F527279A6A1B7EFD
 #. SourceLocation:	/Game/HDCKBuildingSystem/Table/E_SelectTypeChild.E_SelectTypeChild.DisplayNameMap(3 - Value).DisplayNameMap
 #: /Game/HDCKBuildingSystem/Table/E_SelectTypeChild.E_SelectTypeChild.DisplayNameMap(3 - Value).DisplayNameMap
@@ -3526,6 +3526,13 @@ msgstr "Hãy nhập mật khẩu"
 msgctxt ",A8E8CFFB476DD19AE2F12BA0D0D8658C"
 msgid "烹饪台"
 msgstr "Bàn nấu ăn"
+
+#. Key:	A90DAD90449A8A3261C91CB4BD01ED3E
+#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Spear/BP_SpearShoot_Iron.Default__BP_SpearShoot_Iron_C.ItemInfo.Name
+#: /Game/Blueprint/ACF/Item/Weapon/Spear/BP_SpearShoot_Iron.Default__BP_SpearShoot_Iron_C.ItemInfo.Name
+msgctxt ",A90DAD90449A8A3261C91CB4BD01ED3E"
+msgid "木矛"
+msgstr ""
 
 #. Key:	A986B3D14B33762D4721F68A12C306D5
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(11 - Value).DisplayNameMap
@@ -3667,13 +3674,6 @@ msgctxt ",AEA1B6104139B189036877A6A46CDF1D"
 msgid "背包中，按下R旋转物品"
 msgstr "Trong túi đồ, ấn R để quay item"
 
-#. Key:	AF045F7342EADDA9857C34B920DD6649
-#. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/Furniture_Base.Default__Furniture_Base_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-#: /Game/HDCKBuildingSystem/Blueprints/Base/Furniture_Base.Default__Furniture_Base_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-msgctxt ",AF045F7342EADDA9857C34B920DD6649"
-msgid "家具"
-msgstr "Nội thất"
-
 #. Key:	AF75A83048C0E517520452859496B929
 #. SourceLocation:	/Game/Blueprint/UMG/InteractiveMessage/Interactive.Interactive.DisplayNameMap(1 - Value).DisplayNameMap
 #: /Game/Blueprint/UMG/InteractiveMessage/Interactive.Interactive.DisplayNameMap(1 - Value).DisplayNameMap
@@ -3715,13 +3715,6 @@ msgstr "QX"
 msgctxt ",B09AB7414F2903DE09B2F8A4CE4DF3C4"
 msgid "spring"
 msgstr "mùa xuân"
-
-#. Key:	B0F66DE24336FD2805B83196209F06EE
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/ShortSharp/BP_Knife02.Default__BP_Knife02_C.ItemInfo.Name
-#: /Game/Blueprint/ACF/Item/Weapon/ShortSharp/BP_Knife02.Default__BP_Knife02_C.ItemInfo.Name
-msgctxt ",B0F66DE24336FD2805B83196209F06EE"
-msgid "短的单手刀"
-msgstr "dao một tay ngắn"
 
 #. Key:	B152AA774A142C9661298C9C8168B441
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_75.In Text
@@ -3954,19 +3947,19 @@ msgctxt ",B9D7AFBD4A45230EE8CB6D8FB180E276"
 msgid "HorizontalBeam"
 msgstr "HorizontalBeam"
 
-#. Key:	B9FE0355458C39DEC828A5A96ADA0E75
-#. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Foundation_SN.Default__Foundation_SN_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-#: /Game/HDCKBuildingSystem/MeshBP/Foundation_SN.Default__Foundation_SN_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-msgctxt ",B9FE0355458C39DEC828A5A96ADA0E75"
-msgid "水泥制作的地基，看起来很结实，可以承受相当多的重量。"
-msgstr "Nền móng được làm bằng xi măng, trông chắc chắn và có thể chịu được trọng lượng đáng kể."
-
 #. Key:	BA61CA90482606E8AE102EAA35CFD199
 #. SourceLocation:	/Game/Blueprint/UMG/NPCUMG/WBP_JYDetail.WBP_JYDetail_C:WidgetTree.MyT.Text
 #: /Game/Blueprint/UMG/NPCUMG/WBP_JYDetail.WBP_JYDetail_C:WidgetTree.MyT.Text
 msgctxt ",BA61CA90482606E8AE102EAA35CFD199"
 msgid "0"
 msgstr "0"
+
+#. Key:	BAF666814A58F651C8D4339B3D0BE157
+#. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(26 - Value).DisplayNameMap
+#: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(26 - Value).DisplayNameMap
+msgctxt ",BAF666814A58F651C8D4339B3D0BE157"
+msgid "StairsCorner"
+msgstr "Cầu ThangGóc"
 
 #. Key:	BB0420A948E6FE459983A0AF89A6845D
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_95.In Text
@@ -3995,6 +3988,13 @@ msgstr "Pin năng lượng mặt trời"
 msgctxt ",BBEF3E58479213894E7E5C8543257BEB"
 msgid "玩家数量：5"
 msgstr "Số người chơi: 5"
+
+#. Key:	BBF0A4F942AFAF39F980589F411C4B31
+#. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_BL.WBP_BL_C:WidgetTree.Image_94.ToolTipText
+#: /Game/Blueprint/UMG/Furniture/WBP_BL.WBP_BL_C:WidgetTree.Image_94.ToolTipText
+msgctxt ",BBF0A4F942AFAF39F980589F411C4B31"
+msgid "试着将三种不同的食材放入锅中烹饪"
+msgstr "Thử nấu ba nguyên liệu khác nhau trong một nồi"
 
 #. Key:	BC7DF0C340280B5AE5433887448AAA78
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/Car_Base.Default__Car_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
@@ -4080,13 +4080,6 @@ msgctxt ",C12D28E24DF61E9D26F30EA94EA043FF"
 msgid "简单物品制作"
 msgstr "Làm vật phẩm đơn giản"
 
-#. Key:	C17671324BC8BA302087829DB92119B9
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Food/AutoCreate/BP_Food_GYC.Default__BP_Food_GYC_C.ItemInfo.Description
-#: /Game/Blueprint/ACF/Item/Food/AutoCreate/BP_Food_GYC.Default__BP_Food_GYC_C.ItemInfo.Description
-msgctxt ",C17671324BC8BA302087829DB92119B9"
-msgid "食物"
-msgstr "đồ ăn"
-
 #. Key:	C1CF8D7D4567787F135DFC9C77F6EEB0
 #. SourceLocation:	/Game/Blueprint/ACF/Data/TableAsset/FoodAssetTable.FoodAssetTable.机修（三卷）.Name_33_B65BC8D64E83EF46F5F21FA5566C3997
 #: /Game/Blueprint/ACF/Data/TableAsset/FoodAssetTable.FoodAssetTable.机修（三卷）.Name_33_B65BC8D64E83EF46F5F21FA5566C3997
@@ -4108,6 +4101,13 @@ msgctxt ",C3166548498C19FB67C5DD992BB3F901"
 msgid "关于那件事"
 msgstr "Về việc đó"
 
+#. Key:	C35877E7470F1C5607A89DAE8BA70F84
+#. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/DT_Base.Default__DT_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+#: /Game/HDCKBuildingSystem/Blueprints/Base/DT_Base.Default__DT_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+msgctxt ",C35877E7470F1C5607A89DAE8BA70F84"
+msgid "提示信息"
+msgstr "thông tin kịp thời"
+
 #. Key:	C430F0E844B731D19998729E70349790
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/E_AimType.E_AimType.DisplayNameMap(4 - Value).DisplayNameMap
 #: /Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/E_AimType.E_AimType.DisplayNameMap(4 - Value).DisplayNameMap
@@ -4128,13 +4128,6 @@ msgstr "Trà thảo mộc"
 msgctxt ",C47AD06443F4C03CEC10A19A775EBCBF"
 msgid "1"
 msgstr "1"
-
-#. Key:	C4985CB641B43583FECE139E9CCF2C5E
-#. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_TYNFD.Default__Furniture_TYNFD_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-#: /Game/HDCKBuildingSystem/MeshBP/Furniture_TYNFD.Default__Furniture_TYNFD_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-msgctxt ",C4985CB641B43583FECE139E9CCF2C5E"
-msgid "受遮挡或在没有太阳的天气无法发电"
-msgstr "Bị che khuất hoặc không thể phát điện khi không có nắng"
 
 #. Key:	C4C9089841ED96447C2336ADFE055AE0
 #. SourceLocation:	/Game/Blueprint/ACF/Player/HDCK_GameMode.HDCK_GameMode_C:ExecuteUbergraph_HDCK_GameMode [Script Bytecode]
@@ -4318,6 +4311,13 @@ msgctxt ",CD8164CD4F5BF40D20BADEA4545E0217"
 msgid "电动缝纫机"
 msgstr "Máy khâu điện"
 
+#. Key:	CDC1FB11458DD13D048E1E80F83016AE
+#. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_LDQ.Default__Furniture_LDQ_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+#: /Game/HDCKBuildingSystem/MeshBP/Furniture_LDQ.Default__Furniture_LDQ_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+msgctxt ",CDC1FB11458DD13D048E1E80F83016AE"
+msgid "提示信息"
+msgstr "thông tin kịp thời"
+
 #. Key:	CE87C79047651DC81CD8109E13DF5212
 #. SourceLocation:	/Game/Blueprint/ACF/Tutorial/WBP_TutorialTip9.WBP_TutorialTip9_C:WidgetTree.TextBlock_3.Text
 #: /Game/Blueprint/ACF/Tutorial/WBP_TutorialTip9.WBP_TutorialTip9_C:WidgetTree.TextBlock_3.Text
@@ -4345,13 +4345,6 @@ msgstr "Model 01"
 msgctxt ",CF9CE28D415251343B2738AAC697FAF5"
 msgid "负重"
 msgstr "Tải"
-
-#. Key:	CF9E26254729030F3C3125A3AC7D6A8E
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Spear/BP_SpearShoot_Iron.Default__BP_SpearShoot_Iron_C.ItemInfo.Name
-#: /Game/Blueprint/ACF/Item/Weapon/Spear/BP_SpearShoot_Iron.Default__BP_SpearShoot_Iron_C.ItemInfo.Name
-msgctxt ",CF9E26254729030F3C3125A3AC7D6A8E"
-msgid "木矛"
-msgstr "giáo gỗ"
 
 #. Key:	checknuild
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -4415,6 +4408,13 @@ msgstr "Lucie++"
 msgctxt ",D35518064C2D768EC2C3538AA59470B8"
 msgid "水培箱"
 msgstr "Hộp thuỷ ngân"
+
+#. Key:	D375DB6948B73DF19DCE75B10729E28E
+#. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_DP_XDD.Default__Furniture_DP_XDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+#: /Game/HDCKBuildingSystem/MeshBP/Furniture_DP_XDD.Default__Furniture_DP_XDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+msgctxt ",D375DB6948B73DF19DCE75B10729E28E"
+msgid "地板"
+msgstr "sàn nhà"
 
 #. Key:	D3E6F2304D378E9FF9B1678623A9E744
 #. SourceLocation:	/Game/Blueprint/AI/ZombieState.ZombieState.DisplayNameMap(0 - Value).DisplayNameMap
@@ -4549,13 +4549,6 @@ msgctxt ",DA76A68842D939CD40D943A24231BEB6"
 msgid "提示信息"
 msgstr "Tips"
 
-#. Key:	DAA65D3D4FBE879E081A5AA9A8CA9F3B
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/ShortSharp/BP_Knife01.Default__BP_Knife01_C.ItemInfo.Name
-#: /Game/Blueprint/ACF/Item/Weapon/ShortSharp/BP_Knife01.Default__BP_Knife01_C.ItemInfo.Name
-msgctxt ",DAA65D3D4FBE879E081A5AA9A8CA9F3B"
-msgid "短的单手刀"
-msgstr "dao một tay ngắn"
-
 #. Key:	DAB471E84209B1F415E38190944B2064
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_MakeBase.Default__Furniture_MakeBase_C.BuildInfo.Name_38_B9A5B2DC4FBEF03FBCA85592B802C50C
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_MakeBase.Default__Furniture_MakeBase_C.BuildInfo.Name_38_B9A5B2DC4FBEF03FBCA85592B802C50C
@@ -4654,6 +4647,20 @@ msgctxt ",DEE485DE4FE5DF283FA39FAD921CA4A4"
 msgid "Team 4"
 msgstr "Team 4"
 
+#. Key:	DF70FA3A4CC7206CD4FD2E81B7D8C787
+#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/ShortSharp/BP_Knife01.Default__BP_Knife01_C.ItemInfo.Name
+#: /Game/Blueprint/ACF/Item/Weapon/ShortSharp/BP_Knife01.Default__BP_Knife01_C.ItemInfo.Name
+msgctxt ",DF70FA3A4CC7206CD4FD2E81B7D8C787"
+msgid "短的单手刀"
+msgstr ""
+
+#. Key:	DFAC4BFF4A7A678BF4FFD7ABABA1865B
+#. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_TYNFD.Default__Furniture_TYNFD_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
+#: /Game/HDCKBuildingSystem/MeshBP/Furniture_TYNFD.Default__Furniture_TYNFD_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
+msgctxt ",DFAC4BFF4A7A678BF4FFD7ABABA1865B"
+msgid "受遮挡或在没有太阳的天气无法发电"
+msgstr "Bị che khuất hoặc không thể phát điện khi không có nắng"
+
 #. Key:	DFB8B90B40E48F2039D785B02D71920D
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_47.In Text
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_47.In Text
@@ -4702,13 +4709,6 @@ msgstr "Ngưỡng cửa"
 msgctxt ",DoorHole"
 msgid "门洞"
 msgstr "ngưỡng cửa"
-
-#. Key:	E0702F6D4EA670E0060E949442FE6526
-#. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_DP_XDD.Default__Furniture_DP_XDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
-#: /Game/HDCKBuildingSystem/MeshBP/Furniture_DP_XDD.Default__Furniture_DP_XDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
-msgctxt ",E0702F6D4EA670E0060E949442FE6526"
-msgid "地板"
-msgstr "sàn nhà"
 
 #. Key:	E0A8C10C4D611602E0E001BFDC5EA4DD
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_GameSetting.WBP_GameSetting_C:WidgetTree.TextBlock_140.Text
@@ -5004,6 +5004,13 @@ msgctxt ",ECAB878844DB5540EF7B15AB40273797"
 msgid "铲掉"
 msgstr "Đào"
 
+#. Key:	ECB7F03241E2D5C7D63B46945978B428
+#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Spear/BP_SpearShoot_G.Default__BP_SpearShoot_G_C.ItemInfo.Name
+#: /Game/Blueprint/ACF/Item/Weapon/Spear/BP_SpearShoot_G.Default__BP_SpearShoot_G_C.ItemInfo.Name
+msgctxt ",ECB7F03241E2D5C7D63B46945978B428"
+msgid "木矛"
+msgstr ""
+
 #. Key:	ED362C3F47934E84F061EFA97E3FB2B8
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_101.In Text
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_101.In Text
@@ -5116,6 +5123,13 @@ msgctxt ",F302E02F4A257C60ED0E7C8A726B7B18"
 msgid "Beam"
 msgstr "Dầm"
 
+#. Key:	F32C34604B3C7D37917927A321BDECE6
+#. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_DPTD.Default__Furniture_DPTD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+#: /Game/HDCKBuildingSystem/MeshBP/Furniture_DPTD.Default__Furniture_DPTD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+msgctxt ",F32C34604B3C7D37917927A321BDECE6"
+msgid "地板"
+msgstr ""
+
 #. Key:	F370F6994C20551E3A9968870FACCF36
 #. SourceLocation:	/Game/Blueprint/UMG/Inventory/WBP_UseMenu.WBP_UseMenu_C:ExecuteUbergraph_WBP_UseMenu [Script Bytecode]
 #: /Game/Blueprint/UMG/Inventory/WBP_UseMenu.WBP_UseMenu_C:ExecuteUbergraph_WBP_UseMenu [Script Bytecode]
@@ -5164,6 +5178,13 @@ msgstr "Rất mạnh"
 msgctxt ",F4BF7A6C48622D449AFBF195173F9A89"
 msgid "玩家数量："
 msgstr "Số lượng người chơi:"
+
+#. Key:	F4F036344AAB28AE221E0EB765E24416
+#. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_Wood.Default__Roof_20_intersection_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
+#: /Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_Wood.Default__Roof_20_intersection_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
+msgctxt ",F4F036344AAB28AE221E0EB765E24416"
+msgid "用于连接外转角屋顶。"
+msgstr "Để tham gia mái góc bên ngoài."
 
 #. Key:	F53C86D14E0BC9C66FEA7885EECEEA87
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_80.In Text
@@ -5319,6 +5340,13 @@ msgctxt ",FB4AA59C4F7B31F2F8C325B64FCF6379"
 msgid "淋浴间"
 msgstr "Phòng tắm"
 
+#. Key:	FB638397464440CB4BD9AE8B5A8139EA
+#. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_DPLDD.Default__Furniture_DPLDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+#: /Game/HDCKBuildingSystem/MeshBP/Furniture_DPLDD.Default__Furniture_DPLDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+msgctxt ",FB638397464440CB4BD9AE8B5A8139EA"
+msgid "地板"
+msgstr "sàn nhà"
+
 #. Key:	FC41E7F4409AA042268DA480D2C3C17D
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/E_AimType.E_AimType.DisplayNameMap(0 - Value).DisplayNameMap
 #: /Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/E_AimType.E_AimType.DisplayNameMap(0 - Value).DisplayNameMap
@@ -5423,6 +5451,13 @@ msgstr "Để kết nối mái nhà."
 msgctxt ",FF2F50414387532F4542DC831B775CDC"
 msgid "电池组"
 msgstr "Bàn chứa pin"
+
+#. Key:	FF6D9D984410E358463571857E617164
+#. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/Furniture_Base.Default__Furniture_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+#: /Game/HDCKBuildingSystem/Blueprints/Base/Furniture_Base.Default__Furniture_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+msgctxt ",FF6D9D984410E358463571857E617164"
+msgid "提示信息"
+msgstr "thông tin kịp thời"
 
 #. Key:	FF7908124DFD99DC2113E299B7A4DF92
 #. SourceLocation:	/Game/Blueprint/ACF/Tutorial/WBP_TutorialTip1.WBP_TutorialTip1_C:WidgetTree.TextBlock_2.Text
@@ -6831,6 +6866,20 @@ msgctxt "BuildInfo,B9"
 msgid "水泥地板"
 msgstr "Sàn xi măng"
 
+#. Key:	BL
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,BL"
+msgid "壁炉"
+msgstr "lò sưởi"
+
+#. Key:	CTG
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,CTG"
+msgid "床头柜"
+msgstr "bàn cạnh giường ngủ"
+
 #. Key:	D01
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
 #: /Game/LocalizationText/BuildInfo.BuildInfo
@@ -6845,12 +6894,117 @@ msgctxt "BuildInfo,D02"
 msgid "落木陷阱"
 msgstr "bẫy gỗ"
 
+#. Key:	DT01
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,DT01"
+msgid "小地毯"
+msgstr "tấm thảm"
+
+#. Key:	DT02
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,DT02"
+msgid "大地毯"
+msgstr "thảm lớn"
+
+#. Key:	GH
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,GH"
+msgid "画"
+msgstr "bức vẽ"
+
+#. Key:	HP
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,HP"
+msgid "花瓶"
+msgstr "lọ cắm hoa"
+
+#. Key:	ldd
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,ldd"
+msgid "落地灯"
+msgstr "đèn sàn"
+
 #. Key:	ldz
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,ldz"
 msgid "领地桌"
 msgstr "bảng lãnh thổ"
+
+#. Key:	LT
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,LT"
+msgid "鹿头装饰"
+msgstr "trang trí đầu hươu"
+
+#. Key:	LY
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,LY"
+msgid "狼头装饰"
+msgstr "trang trí đầu sói"
+
+#. Key:	MTHL
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,MTHL"
+msgid "横梁(三格)"
+msgstr "Chùm (ba lưới)"
+
+#. Key:	PZ
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,PZ"
+msgid "盆栽"
+msgstr "chậu cây"
+
+#. Key:	SNHL
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,SNHL"
+msgid "水泥横梁(三格)"
+msgstr "Dầm xi măng (Ba lưới)"
+
+#. Key:	SNLTHW
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,SNLTHW"
+msgid "水泥楼梯(户外)"
+msgstr "Cầu thang bê tông (ngoài trời)"
+
+#. Key:	TD
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,TD"
+msgid "台灯"
+msgstr "đèn bàn"
+
+#. Key:	XT
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,XT"
+msgid "熊头装饰"
+msgstr "trang trí đầu gấu"
+
+#. Key:	YG
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,YG"
+msgid "衣柜"
+msgstr "Tủ quần áo"
+
+#. Key:	ZT
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,ZT"
+msgid "猪头装饰"
+msgstr "trang trí đầu heo"
 
 #. Key:	A1
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7117,6 +7271,13 @@ msgstr "Áo\n vest quân đội"
 msgctxt "ItemInfo,A9"
 msgid "防晒帽"
 msgstr "Mũ chống nắng"
+
+#. Key:	DSX
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,DSX"
+msgid "登山鞋"
+msgstr "giày leo núi"
 
 #. Key:	F1
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8182,6 +8343,41 @@ msgctxt "ItemInfo,G9"
 msgid "全息瞄准镜"
 msgstr "Holographic "
 
+#. Key:	HCZZ
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,HCZZ"
+msgid "花草种子"
+msgstr "hạt giống hoa"
+
+#. Key:	JK
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,JK"
+msgid "警裤"
+msgstr "quần cảnh sát"
+
+#. Key:	JX
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,JX"
+msgid "警鞋"
+msgstr "giày cảnh sát"
+
+#. Key:	JY
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,JY"
+msgid "警衣"
+msgstr "đồng phục cảnh sát"
+
+#. Key:	JYTK
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,JYTK"
+msgid "警用头盔"
+msgstr "mũ bảo hiểm cảnh sát"
+
 #. Key:	M1
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
@@ -8868,6 +9064,62 @@ msgctxt "ItemInfo,M98"
 msgid "汽车修理套件"
 msgstr "Bộ sửa xe"
 
+#. Key:	MK
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,MK"
+msgid "棉裤"
+msgstr "quần bông"
+
+#. Key:	MY
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,MY"
+msgid "棉衣"
+msgstr "áo bông"
+
+#. Key:	NZK
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,NZK"
+msgid "牛仔裤"
+msgstr "Quần jean"
+
+#. Key:	NZM
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,NZM"
+msgid "牛仔帽"
+msgstr "Nón cao bồi"
+
+#. Key:	NZY
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,NZY"
+msgid "牛仔衣"
+msgstr "Quần jean"
+
+#. Key:	PK
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,PK"
+msgid "皮裤"
+msgstr "quần da"
+
+#. Key:	PX
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,PX"
+msgid "皮鞋"
+msgstr "giày da"
+
+#. Key:	PY
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,PY"
+msgid "皮衣"
+msgstr "áo khoác da"
+
 #. Key:	Q01
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
@@ -9476,6 +9728,34 @@ msgstr "Cuốc đá"
 msgctxt "ItemInfo,W9"
 msgid "主要用于打碎石头，必要时候也可以用来防身。"
 msgstr "Dùng để đập đá. Có thể dùng để tự vệ."
+
+#. Key:	WMLT
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,WMLT"
+msgid "完美狼头"
+msgstr "đầu sói hoàn hảo"
+
+#. Key:	WMLT01
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,WMLT01"
+msgid "完美鹿头"
+msgstr "đầu hươu hoàn hảo"
+
+#. Key:	WMXT
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,WMXT"
+msgid "完美熊头"
+msgstr "đầu gấu hoàn hảo"
+
+#. Key:	WMZT
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,WMZT"
+msgid "完美猪头"
+msgstr "đầu lợn hoàn hảo"
 
 #. Key:	01
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -11864,6 +12144,13 @@ msgctxt "UI,QRTC"
 msgid "确认退出吗？所有未保存的进度都将消失！"
 msgstr "Bạn có chắc là muốn thoát game? Tiến trình chưa lưu sẽ bị mất."
 
+#. Key:	QRXHLDZM
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,QRXHLDZM"
+msgid "确认销毁领地桌吗？"
+msgstr "Bạn có chắc chắn muốn phá hủy bảng lãnh thổ?"
+
 #. Key:	QT
 #. SourceLocation:	/Game/LocalizationText/GUN.GUN
 #: /Game/LocalizationText/GUN.GUN
@@ -11975,6 +12262,13 @@ msgstr "giải phóng"
 msgctxt "UI,reload"
 msgid "重载 "
 msgstr "quá tải"
+
+#. Key:	RESMODE
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,RESMODE"
+msgid "超分辨率"
+msgstr "giải pháp tối ưu"
 
 #. Key:	rizhao
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12472,6 +12766,13 @@ msgstr "Sau khi mở hộp bạn có thể nháy chuột để nhanh chóng di c
 msgctxt "UI,SwitchServerMode"
 msgid "需要切换游戏服务器模式，并重新启动游戏，确认切换吗？"
 msgstr "Cần chuyển đổi chế độ máy chủ trò chơi và khởi động lại trò chơi, xác nhận chuyển đổi?"
+
+#. Key:	sx
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,sx"
+msgid "刷新"
+msgstr "để làm mới"
 
 #. Key:	SY
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -13235,6 +13536,13 @@ msgstr "Tốn độ thân thiết:"
 msgctxt "UI,XHKD"
 msgid "下颌宽度"
 msgstr "Độ rộng hàm"
+
+#. Key:	XHLDZ
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,XHLDZ"
+msgid "销毁领地桌"
+msgstr "phá hủy bảng lãnh thổ"
 
 #. Key:	xiaB
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
