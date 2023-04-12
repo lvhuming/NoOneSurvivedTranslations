@@ -361,7 +361,7 @@ msgstr "Strzelba 870AC"
 #: /Game/Blueprint/ACF/Tutorial/WBP_TutorialTip5.WBP_TutorialTip5_C:WidgetTree.TextBlock_2.Text
 msgctxt ",0FC7B32D443EA06EF7F13BB5DC4C9447"
 msgid "房屋的承重是需要梁柱的，你需要先规划梁柱，才可以建造墙体屋顶"
-msgstr "Nośność domu wymaga belek i słupków. Trzeba postawić belki i słupki, zanim będzie można budować ściany i dachy."
+msgstr "Przy budowie domu trzeba postawić belki i słupki, zanim będzie można budować ściany i dachy."
 
 #. Key:	102D232D42B74EA177476CB075A9B8A8
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(22 - Value).DisplayNameMap
@@ -473,7 +473,7 @@ msgstr "Stół farmaceutyczny"
 #: /Game/Blueprint/UMG/UIBase/WBP_BookTipButton.Default__WBP_BookTipButton_C.Text
 msgctxt ",147BD87446DA956F29E07B807DB1FEF0"
 msgid "INVENTORY"
-msgstr "INWENTARZ"
+msgstr "EKWIPUNEK"
 
 #. Key:	14F06F9A4AAA6F09FF2463AF9111B8F5
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_ItemList.WBP_ItemList_C:WidgetTree.TextBlock_3.Text
@@ -627,7 +627,7 @@ msgstr "Fala zombie"
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_ServerSetting.WBP_ServerSetting_C:WidgetTree.ShowTex.Text
 msgctxt ",1B85FB3F4B6E685DBA702D9EFCF5328A"
 msgid "最大玩家数量："
-msgstr "Maksymalna liczba graczy:"
+msgstr "Maksymalna liczba graczy: "
 
 #. Key:	1B8B871648287619C492CB925DC2E815
 #. SourceLocation:	/Game/Blueprint/ACF/Tutorial/WBP_TutorialTip8.WBP_TutorialTip8_C:WidgetTree.TextBlock_2.Text
@@ -781,7 +781,7 @@ msgstr "Brak"
 #: /Game/Blueprint/UMG/Furniture/WBP_CarInventory01.WBP_CarInventory01_C:WidgetTree.TextBlock_84.Text
 msgctxt ",2106FC62413F2CDFB6EC42B1F1F2C390"
 msgid "耐久度："
-msgstr "Trwałość:"
+msgstr "Trwałość: "
 
 #. Key:	2191E6F14098A0C04EFC4FA4B26ECAE8
 #. SourceLocation:	/Game/Blueprint/UMG/ScreenMessage/WBP_GunMessage.WBP_GunMessage_C:ExecuteUbergraph_WBP_GunMessage [Script Bytecode]
@@ -1173,7 +1173,7 @@ msgstr "Naprawa maszyn (Tom 4)"
 #: /Game/Blueprint/UMG/Furniture/WBP_CarInventory01.WBP_CarInventory01_C:WidgetTree.Repir.ToolTipText
 msgctxt ",32F2C50042D534BEAA1662A2087AC8CA"
 msgid "放入汽车修理套件维修"
-msgstr "Umieść samochodowy zestaw naprawczy w bagażniku samochodu do naprawy"
+msgstr "Umieść samochodowy zestaw naprawczy w bagażniku samochodu, aby go naprawić"
 
 #. Key:	330C2123417837492F10DB97418C4923
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Tool/Item_NotUse_Tool_Base.Default__Item_NotUse_Tool_Base_C.ItemInfo.Description
@@ -1474,7 +1474,7 @@ msgstr "Jedź"
 #: /Game/HDCKBuildingSystem/UMG/WBP_ToolTip.WBP_ToolTip_C:WidgetTree.Detail.Text
 msgctxt ",41D3F7454D3E8E12EF8F7E802AC47176"
 msgid "木头制作的地基，看起来很结实，可以承受相当多的重量。"
-msgstr "Podstawa wykonana jest z drewna, które wygląda na mocne i może utrzymać dość dużą wagę."
+msgstr "Fundament wykonany z drewna, który wygląda na mocny i może utrzymać znaczny ciężar."
 
 #. Key:	42CCDC264FCA7E5F57C774A68D1FA7C2
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_13.In Text
@@ -1495,7 +1495,7 @@ msgstr "Drewniana włócznia"
 #: /Game/HDCKBuildingSystem/Table/BuildTable.BuildTable.NewRow_11.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 msgctxt ",4348953248D241725A36BD85949AE223"
 msgid "受遮挡或在没有太阳的天气无法发电"
-msgstr "Niezdolny do wytwarzania energii elektrycznej przy braku słońca lub znajdując się w cieniu"
+msgstr "Nie może wytwarzać energii elektrycznej gdy nie ma słońca lub gdy znajduje się w cieniu"
 
 #. Key:	4362834A4E275D8A564F3388D39CBEFC
 #. SourceLocation:	/Game/Blueprint/ACF/Data/TableAsset/WeaponTable.WeaponTable.SVD狙击枪.ItemInfo_66_F92A1A3B448C3413FD56918B4BFB9241.Name
@@ -1537,7 +1537,7 @@ msgstr "Czas wyszukiwania"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_11.In Text
 msgctxt ",4492781C4F5E797D00FE94AE878EF46C"
 msgid "化学反应台"
-msgstr "Stół chemiczny"
+msgstr "Laborartorium chemiczne"
 
 #. Key:	44C72828460B596066B7E19B1F0AD6FC
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/OutStairs_Base.Default__OutStairs_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
@@ -1803,7 +1803,7 @@ msgstr "Schody?"
 #: /Game/Blueprint/ACF/Tutorial/WBP_TutorialTip8.WBP_TutorialTip8_C:WidgetTree.TextBlock.Text
 msgctxt ",52A13B2248804E835DDB938858E96088"
 msgid "其他工具也可以对树木或者石头造成伤害，但是效率不高"
-msgstr "Można użyć innych narzędzi do ścinania drzewa lub rozbijania kamieni, ale nie są zbyt wydajne."
+msgstr "Można użyć innych narzędzi do ścinania drzew lub rozbijania kamieni, ale nie są zbyt wydajne."
 
 #. Key:	539D0ABC46A6467C2254779F2B2271EB
 #. SourceLocation:	/Game/Blueprint/UMG/EscMenu/WBP_AMDFSR.WBP_AMDFSR_C:WidgetTree.ShowTex.Text
@@ -1852,7 +1852,7 @@ msgstr "Fundament / Grunt"
 #: /Game/Blueprint/UMG/WBP_GetWater.WBP_GetWater_C:WidgetTree.TextBlock_57.Text
 msgctxt ",5604627744E8324B0E9AAB96BB219D3A"
 msgid "拖入容器装水"
-msgstr "Przeciągnij tutaj żeby uzupełnić"
+msgstr "Przeciągnij tutaj, żeby uzupełnić"
 
 #. Key:	569DFDE54CD2C05CA841E4AED49216C0
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_SPX.WBP_SPX_C:WidgetTree.development.ToolTipText
@@ -2209,7 +2209,7 @@ msgstr "Mały"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_72.In Text
 msgctxt ",65C9E9B844AB55AA2894D49ED495FF2B"
 msgid "高级化学反应设备"
-msgstr "Zaawansowany stół chemiczny"
+msgstr "Zaawansowane laboratorium chemiczne"
 
 #. Key:	661A50C248D309EEFA4B2E8C074F01D1
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/Floor_Base.Default__Floor_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
@@ -11057,7 +11057,7 @@ msgstr "Obróć"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,HammerZ"
 msgid "捕捉旋转"
-msgstr "Obróć o 90 stopni"
+msgstr "Obróć o 90°"
 
 #. Key:	HCLTJ
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
