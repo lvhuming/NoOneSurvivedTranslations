@@ -1,24 +1,17 @@
-# Game Danish translation.
+﻿# Game Danish translation.
 # Copyright Epic Games, Inc. All Rights Reserved.
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-04-13 01:42\n"
-"PO-Revision-Date: 2023-04-13 01:42\n"
+"POT-Creation-Date: 2023-04-24 05:58\n"
+"PO-Revision-Date: 2023-04-24 05:58\n"
 "Language-Team: \n"
 "Language: da\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-
-#. Key:	0048B5B74885F1B45E3FA7B0471EA0AB
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Spear/BP_SpearShoot_Wood.Default__BP_SpearShoot_Wood_C.ItemInfo.Name
-#: /Game/Blueprint/ACF/Item/Weapon/Spear/BP_SpearShoot_Wood.Default__BP_SpearShoot_Wood_C.ItemInfo.Name
-msgctxt ",0048B5B74885F1B45E3FA7B0471EA0AB"
-msgid "木矛"
-msgstr "træspyd"
 
 #. Key:	005986EF48789316B83C53885CBD1FB8
 #. SourceLocation:	/Game/Blueprint/UMG/Inventory/WBP_UseMenu.WBP_UseMenu_C:WidgetTree.TextBlock_9.Text
@@ -110,6 +103,13 @@ msgstr "Server Indstillinger"
 msgctxt ",0476690A4D67DD3DCB9A5DA167631A0D"
 msgid "取水口"
 msgstr "Vandindtag"
+
+#. Key:	047920794D70C05D154C1894B872F768
+#. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/Wall_Base.Default__Wall_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+#: /Game/HDCKBuildingSystem/Blueprints/Base/Wall_Base.Default__Wall_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+msgctxt ",047920794D70C05D154C1894B872F768"
+msgid "提示信息"
+msgstr "hurtig information"
 
 #. Key:	04FCF26444412C856D5A75A17C9A112E
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_StoneFire.WBP_StoneFire_C:WidgetTree.WBP_AddButton.ToolTipText
@@ -265,6 +265,13 @@ msgctxt ",0B2F59094BD0F41F171D79A81E00FDE6"
 msgid "退出中，请稍后..."
 msgstr "Logger ud, vent venligst..."
 
+#. Key:	0B721077401A1342BE69898BCF8EAF7B
+#. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/XJ_DL_Base.Default__XJ_DL_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+#: /Game/HDCKBuildingSystem/MeshBP/XJ_DL_Base.Default__XJ_DL_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+msgctxt ",0B721077401A1342BE69898BCF8EAF7B"
+msgid "地基或地板"
+msgstr "fundament eller gulv"
+
 #. Key:	0B7F4C1B45ADAE2851E196870F73FE68
 #. SourceLocation:	/Game/Blueprint/UMG/WBP_BaseCharacter.WBP_BaseCharacter_C:WidgetTree.KRX.Text
 #: /Game/Blueprint/UMG/WBP_BaseCharacter.WBP_BaseCharacter_C:WidgetTree.KRX.Text
@@ -306,6 +313,13 @@ msgstr "IA_FireMode"
 msgctxt ",0C797E8E40ACBD720B57B4B33B461ADD"
 msgid "疟疾几率"
 msgstr "Mulighed for madforgiftning"
+
+#. Key:	0D071C604EF62B9B8BD4DBA90D8C6C19
+#. SourceLocation:	/Game/Blueprint/ACF/Item/Food/AutoCreate/BP_Food_GYC.Default__BP_Food_GYC_C.ItemInfo.Name
+#: /Game/Blueprint/ACF/Item/Food/AutoCreate/BP_Food_GYC.Default__BP_Food_GYC_C.ItemInfo.Name
+msgctxt ",0D071C604EF62B9B8BD4DBA90D8C6C19"
+msgid "香菇"
+msgstr ""
 
 #. Key:	0D2F9EF34F24FE1D4DE8229B65941BC4
 #. SourceLocation:	/Game/Blueprint/ACF/Player/HDCK_CharacterBP.Default__HDCK_CharacterBP_C.TimeBuffDetail(0).TimeBuffDetail.TipMessage_56_5402F47A4785659B27440099C7CA676D
@@ -468,13 +482,6 @@ msgctxt ",154ED8D64C85BD6A6CC743B96F98EB2D"
 msgid "防御力"
 msgstr "Forsvar"
 
-#. Key:	15599E5646DEA723945EBEB46BF1524B
-#. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/Roof_Top_Intersection.Default__Roof_Top_Intersection_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
-#: /Game/HDCKBuildingSystem/Blueprints/Base/Roof_Top_Intersection.Default__Roof_Top_Intersection_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
-msgctxt ",15599E5646DEA723945EBEB46BF1524B"
-msgid "提示信息"
-msgstr "Hurtige tips"
-
 #. Key:	156B0CCB494B40FB415BECB3C72F876F
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(5 - Value).DisplayNameMap
 #: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(5 - Value).DisplayNameMap
@@ -593,13 +600,6 @@ msgstr "Mod: Rødpunktsigte"
 msgctxt ",1A99018D4B477A08E00FB4931F57A181"
 msgid "头部防御"
 msgstr "Hovedbeskyttelse"
-
-#. Key:	1B0C44F3414C6AAACE2BC2ABEB2E2162
-#. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/Roof_Top_Tip.Default__Roof_Top_Tip_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
-#: /Game/HDCKBuildingSystem/Blueprints/Base/Roof_Top_Tip.Default__Roof_Top_Tip_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
-msgctxt ",1B0C44F3414C6AAACE2BC2ABEB2E2162"
-msgid "提示信息"
-msgstr "Hurtige Tips"
 
 #. Key:	1B30ACD040E901F1C2267D9E5833BBB8
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/Door_Base.Default__Door_Base_C.BuildInfo.TipAdsorbent_45_0277CC26494BF1319349189E27EC6190
@@ -832,6 +832,13 @@ msgctxt ",234AAE934EEC76E08969F3B29B5052DE"
 msgid "型号02"
 msgstr "Model 02"
 
+#. Key:	2445515F40498BB2306FBB99F4C08EA8
+#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/LongBlunt/BP_LongBluntStickBase.Default__BP_LongBluntStickBase_C.ItemInfo.Name
+#: /Game/Blueprint/ACF/Item/Weapon/LongBlunt/BP_LongBluntStickBase.Default__BP_LongBluntStickBase_C.ItemInfo.Name
+msgctxt ",2445515F40498BB2306FBB99F4C08EA8"
+msgid "长的双手刀"
+msgstr "lang tohånds kniv"
+
 #. Key:	24791B5F496A7379DD1A5DABE8249766
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_24.In Text
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_24.In Text
@@ -846,6 +853,13 @@ msgctxt ",255B70D241CAF1A285F57FA01C58F0BF"
 msgid "all"
 msgstr "Alle"
 
+#. Key:	2567BA66467FA0124149A1A25BCB14BE
+#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Spear/BP_SpearShoot_G.Default__BP_SpearShoot_G_C.ItemInfo.Name
+#: /Game/Blueprint/ACF/Item/Weapon/Spear/BP_SpearShoot_G.Default__BP_SpearShoot_G_C.ItemInfo.Name
+msgctxt ",2567BA66467FA0124149A1A25BCB14BE"
+msgid "木矛"
+msgstr ""
+
 #. Key:	257D695A47DEEA3FFC5862BD1084FDE4
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_43.Text
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_43.Text
@@ -859,6 +873,13 @@ msgstr "Madforgiftning"
 msgctxt ",258B8DCA4A30A8C003E35AA9CED8333D"
 msgid "砖块"
 msgstr "Mursten"
+
+#. Key:	25C5D7934EF50D8F3DF87F80A0AA0E88
+#. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/HandGuard_Base.Default__HandGuard_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+#: /Game/HDCKBuildingSystem/Blueprints/Base/HandGuard_Base.Default__HandGuard_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+msgctxt ",25C5D7934EF50D8F3DF87F80A0AA0E88"
+msgid "提示信息"
+msgstr "hurtig information"
 
 #. Key:	264F21F94A312BE3982CE79C37D102D3
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_LoadGame.WBP_LoadGame_C:WidgetTree.TextBlock.Text
@@ -1084,6 +1105,20 @@ msgctxt ",3051ED674341FDB383BE0B83E0E7BD19"
 msgid "铁制匕首"
 msgstr "Jerndolk"
 
+#. Key:	3107C0BA472876937A879A9E8DF0EC46
+#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/ShortSharp/BP_Knife01.Default__BP_Knife01_C.ItemInfo.Name
+#: /Game/Blueprint/ACF/Item/Weapon/ShortSharp/BP_Knife01.Default__BP_Knife01_C.ItemInfo.Name
+msgctxt ",3107C0BA472876937A879A9E8DF0EC46"
+msgid "短的单手刀"
+msgstr ""
+
+#. Key:	31375F064F06557D8403A490537737FA
+#. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_Stone.Default__Roof_20_intersection_Stone_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
+#: /Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_Stone.Default__Roof_20_intersection_Stone_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
+msgctxt ",31375F064F06557D8403A490537737FA"
+msgid "用于连接外转角屋顶。"
+msgstr ""
+
 #. Key:	31871561446D15B0848CB38F354B0318
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Foundation_SN.Default__Foundation_SN_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 #: /Game/HDCKBuildingSystem/MeshBP/Foundation_SN.Default__Foundation_SN_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
@@ -1294,13 +1329,6 @@ msgctxt ",3A6879B749414322EB2621BDD1017E66"
 msgid "恢复存档"
 msgstr "gendanne arkiv"
 
-#. Key:	3AA5F1BA426E4C6B17F1459436C4C9DF
-#. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_DPTD.Default__Furniture_DPTD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
-#: /Game/HDCKBuildingSystem/MeshBP/Furniture_DPTD.Default__Furniture_DPTD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
-msgctxt ",3AA5F1BA426E4C6B17F1459436C4C9DF"
-msgid "地板"
-msgstr "etage"
-
 #. Key:	3B8DEE5B4473233FCF93628DED40F9B2
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton.In Text
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton.In Text
@@ -1385,6 +1413,13 @@ msgctxt ",40A426BC44ED8982E71BDFA1475AF42C"
 msgid "请至少创建一个角色以后在加入游戏！"
 msgstr "Opret mindst én karakter, før du deltager i spillet!"
 
+#. Key:	40DC4DFD41BDB00B1944EF987D3CA233
+#. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/Stairs_Base.Default__Stairs_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+#: /Game/HDCKBuildingSystem/Blueprints/Base/Stairs_Base.Default__Stairs_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+msgctxt ",40DC4DFD41BDB00B1944EF987D3CA233"
+msgid "提示信息"
+msgstr "hurtig information"
+
 #. Key:	41047B6440E796F3F16665AA70140F5F
 #. SourceLocation:	/Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(11 - Value).DisplayNameMap
 #: /Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(11 - Value).DisplayNameMap
@@ -1405,13 +1440,6 @@ msgstr "Fundamentet, der er lavet af træ, ser solidt ud og kan holde en god del
 msgctxt ",42CCDC264FCA7E5F57C774A68D1FA7C2"
 msgid "干电池"
 msgstr "tørt batteri"
-
-#. Key:	430496E3437B87566F0685B20179E8E5
-#. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_Bed.Default__Furniture_Bed_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
-#: /Game/HDCKBuildingSystem/MeshBP/Furniture_Bed.Default__Furniture_Bed_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
-msgctxt ",430496E3437B87566F0685B20179E8E5"
-msgid "提示信息"
-msgstr "hurtig information"
 
 #. Key:	4348953248D241725A36BD85949AE223
 #. SourceLocation:	/Game/HDCKBuildingSystem/Table/BuildTable.BuildTable.NewRow_11.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
@@ -1461,6 +1489,13 @@ msgstr "søgetid"
 msgctxt ",4492781C4F5E797D00FE94AE878EF46C"
 msgid "化学反应台"
 msgstr "kemisk reaktionsbænk"
+
+#. Key:	44C72828460B596066B7E19B1F0AD6FC
+#. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/OutStairs_Base.Default__OutStairs_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+#: /Game/HDCKBuildingSystem/Blueprints/Base/OutStairs_Base.Default__OutStairs_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+msgctxt ",44C72828460B596066B7E19B1F0AD6FC"
+msgid "提示信息"
+msgstr "hurtig information"
 
 #. Key:	4561C12A4DF8189CD64E2EB0ED0F2A01
 #. SourceLocation:	/Game/Blueprint/ACF/Manager/E_Season.E_Season.DisplayNameMap(1 - Value).DisplayNameMap
@@ -1609,6 +1644,13 @@ msgctxt ",4E6DDE3D44A78378A8AEA4A2389E7683"
 msgid "木板"
 msgstr "bestyrelse"
 
+#. Key:	4EDF88064E4EE9295D9AF5BC205B6D53
+#. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/Wattle_Base.Default__Wattle_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+#: /Game/HDCKBuildingSystem/Blueprints/Base/Wattle_Base.Default__Wattle_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+msgctxt ",4EDF88064E4EE9295D9AF5BC205B6D53"
+msgid "提示信息"
+msgstr "hurtig information"
+
 #. Key:	4EEAE27F444C96820BAF08B142031780
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_PZX.WBP_PZX_C:WidgetTree.development.ToolTipText
 #: /Game/Blueprint/UMG/Furniture/WBP_PZX.WBP_PZX_C:WidgetTree.development.ToolTipText
@@ -1644,6 +1686,13 @@ msgctxt ",4FB41E114459F569BCE7BC99E7DB61C6"
 msgid "Auto"
 msgstr "Auto"
 
+#. Key:	502BA34641C3778E1B5720AF2FFD5536
+#. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_SG.Default__Furniture_SG_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+#: /Game/HDCKBuildingSystem/MeshBP/Furniture_SG.Default__Furniture_SG_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+msgctxt ",502BA34641C3778E1B5720AF2FFD5536"
+msgid "提示信息"
+msgstr ""
+
 #. Key:	508A302D479171AD2AFCB5BDF7BF0BD4
 #. SourceLocation:	/Game/Blueprint/ACF/Player/HDCK_CharacterBP.Default__HDCK_CharacterBP_C.TimeBuffDetail(1).TimeBuffDetail.TipMessage_56_5402F47A4785659B27440099C7CA676D
 #: /Game/Blueprint/ACF/Player/HDCK_CharacterBP.Default__HDCK_CharacterBP_C.TimeBuffDetail(1).TimeBuffDetail.TipMessage_56_5402F47A4785659B27440099C7CA676D
@@ -1671,6 +1720,13 @@ msgstr "InCar"
 msgctxt ",5159A35C4632DF45C427CC9981E0117D"
 msgid "滤芯"
 msgstr "filterelement"
+
+#. Key:	51AF544549B86F8668AAD5941180E8C9
+#. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/Foundation_Base.Default__Foundation_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+#: /Game/HDCKBuildingSystem/Blueprints/Base/Foundation_Base.Default__Foundation_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+msgctxt ",51AF544549B86F8668AAD5941180E8C9"
+msgid "提示信息"
+msgstr "hurtig information"
 
 #. Key:	5266199243DBCAB57A9139B087C1733C
 #. SourceLocation:	/Game/HDCKBuildingSystem/Table/E_SelectTypeChild.E_SelectTypeChild.DisplayNameMap(4 - Value).DisplayNameMap
@@ -1896,13 +1952,6 @@ msgctxt ",5B8B661A4CB978E3B0E541AA82BBB359"
 msgid "地基或地板"
 msgstr "fundament eller gulv"
 
-#. Key:	5B9CB9854E247123A247609A567D84F5
-#. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_SG.Default__Furniture_SG_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
-#: /Game/HDCKBuildingSystem/MeshBP/Furniture_SG.Default__Furniture_SG_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
-msgctxt ",5B9CB9854E247123A247609A567D84F5"
-msgid "提示信息"
-msgstr "hurtig information"
-
 #. Key:	5BA1AD984DEC7D629B4A33AFA86FAC5E
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_64.In Text
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_64.In Text
@@ -2036,6 +2085,13 @@ msgctxt ",6218189848D827944348CA9BD6A0DCC1"
 msgid "食物"
 msgstr "mad"
 
+#. Key:	623686664AE594720E82029B55EEDF5F
+#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Spear/BP_SpearShoot_Wood.Default__BP_SpearShoot_Wood_C.ItemInfo.Name
+#: /Game/Blueprint/ACF/Item/Weapon/Spear/BP_SpearShoot_Wood.Default__BP_SpearShoot_Wood_C.ItemInfo.Name
+msgctxt ",623686664AE594720E82029B55EEDF5F"
+msgid "木矛"
+msgstr ""
+
 #. Key:	624E2BB84562A36C89BA4B8C51A5AA70
 #. SourceLocation:	/Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(6).Mappings.PlayerMappableOptions.DisplayName
 #: /Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(6).Mappings.PlayerMappableOptions.DisplayName
@@ -2098,6 +2154,13 @@ msgstr "Lille"
 msgctxt ",65C9E9B844AB55AA2894D49ED495FF2B"
 msgid "高级化学反应设备"
 msgstr "Avanceret kemisk reaktionsudstyr"
+
+#. Key:	661A50C248D309EEFA4B2E8C074F01D1
+#. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/Floor_Base.Default__Floor_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+#: /Game/HDCKBuildingSystem/Blueprints/Base/Floor_Base.Default__Floor_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+msgctxt ",661A50C248D309EEFA4B2E8C074F01D1"
+msgid "提示信息"
+msgstr "hurtig information"
 
 #. Key:	6633F35B4A96FB574842B3896808D3CB
 #. SourceLocation:	/Game/Blueprint/ACF/Player/HDCK_CharacterBP.Default__HDCK_CharacterBP_C.TimeBuffDetail(2).TimeBuffDetail.TipMessage_56_5402F47A4785659B27440099C7CA676D
@@ -2295,13 +2358,6 @@ msgctxt ",6D94E4B4492BEF00197AA29E81E62172"
 msgid "新手训练营（教程）"
 msgstr "Boot Camp (Selvstudie)"
 
-#. Key:	6DB9CEC944DCA9694D96E88FD82B72A9
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Food/AutoCreate/BP_Food_GYC.Default__BP_Food_GYC_C.ItemInfo.Description
-#: /Game/Blueprint/ACF/Item/Food/AutoCreate/BP_Food_GYC.Default__BP_Food_GYC_C.ItemInfo.Description
-msgctxt ",6DB9CEC944DCA9694D96E88FD82B72A9"
-msgid "食物"
-msgstr "mad"
-
 #. Key:	6E207D5C4ABA892FF99D9CA6C701C20E
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_76.In Text
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_76.In Text
@@ -2372,13 +2428,6 @@ msgctxt ",7024D3834432B9FE79B3F0B07A3FCD5E"
 msgid "肥料"
 msgstr "gødning"
 
-#. Key:	706E7FF5458BB3D8A14CD4862FAF0C58
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Food/AutoCreate/BP_Food_GYC.Default__BP_Food_GYC_C.ItemInfo.Name
-#: /Game/Blueprint/ACF/Item/Food/AutoCreate/BP_Food_GYC.Default__BP_Food_GYC_C.ItemInfo.Name
-msgctxt ",706E7FF5458BB3D8A14CD4862FAF0C58"
-msgid "香菇"
-msgstr "champignon"
-
 #. Key:	7071B2944E64F1D0A2537CA62BD591EB
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_DSServer.WBP_DSServer_C:WidgetTree.WBP_Search.In Text
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_DSServer.WBP_DSServer_C:WidgetTree.WBP_Search.In Text
@@ -2399,13 +2448,6 @@ msgstr "gødning"
 msgctxt ",70C442BB43EDD72D718B818E1FB9D761"
 msgid "winter"
 msgstr "vinter"
-
-#. Key:	70EEF43C40399F5845B570B1EC690D0A
-#. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/Roof_20_intersection.Default__Roof_20_intersection_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
-#: /Game/HDCKBuildingSystem/Blueprints/Base/Roof_20_intersection.Default__Roof_20_intersection_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
-msgctxt ",70EEF43C40399F5845B570B1EC690D0A"
-msgid "提示信息"
-msgstr "hurtig information"
 
 #. Key:	716F5EBE49D73209F99CFA883796B315
 #. SourceLocation:	/Game/Blueprint/ACF/Tutorial/WBP_TutorialTip8.WBP_TutorialTip8_C:WidgetTree.TextBlock_3.Text
@@ -2631,6 +2673,13 @@ msgctxt ",7AB31FF24DB7E548A6B672B1357718B2"
 msgid "型号02"
 msgstr "Model 02"
 
+#. Key:	7ACA71DE4E2663D5BD36D2A58B8E9363
+#. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/XJ_DL_Base.Default__XJ_DL_Base_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
+#: /Game/HDCKBuildingSystem/MeshBP/XJ_DL_Base.Default__XJ_DL_Base_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
+msgctxt ",7ACA71DE4E2663D5BD36D2A58B8E9363"
+msgid "用于保管物品的箱子，不会丢失物品。"
+msgstr "En kasse til opbevaring af genstande, så genstande ikke kan gå tabt."
+
 #. Key:	7C0FCE4E48A440A1B873C4ABF1E1E7F3
 #. SourceLocation:	/Game/Blueprint/ACF/Player/HDCK_CharacterBP.Default__HDCK_CharacterBP_C.TimeBuffDetail(3).TimeBuffDetail.TipMessage_56_5402F47A4785659B27440099C7CA676D
 #: /Game/Blueprint/ACF/Player/HDCK_CharacterBP.Default__HDCK_CharacterBP_C.TimeBuffDetail(3).TimeBuffDetail.TipMessage_56_5402F47A4785659B27440099C7CA676D
@@ -2644,13 +2693,6 @@ msgstr "mad"
 msgctxt ",7C2B47074356869105F236B2DA55D6B5"
 msgid "战斗获取经验"
 msgstr "kamp få erfaring"
-
-#. Key:	7C7FCFF2441D1527908D6B92E9491CCA
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/ACFGunBase_Rifle.Default__ACFGunBase_Rifle_C.ItemInfo.Name
-#: /Game/Blueprint/ACF/Item/Weapon/ACFGunBase_Rifle.Default__ACFGunBase_Rifle_C.ItemInfo.Name
-msgctxt ",7C7FCFF2441D1527908D6B92E9491CCA"
-msgid "M4步枪"
-msgstr "M4 riffel"
 
 #. Key:	7CCCED78433FBE0BEEEFD09131C4426E
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_KG.Furniture_KG_C:ShowUI [Script Bytecode]
@@ -2679,13 +2721,6 @@ msgstr "for vådt"
 msgctxt ",7DAD31A340C24CAF0DFCC18F7FB40DFB"
 msgid "型号01"
 msgstr "Model 01"
-
-#. Key:	7DFDB9EC41064A3AE812D1898D2FCDFF
-#. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/HorizontalBeam4GE.Default__HorizontalBeam4GE_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
-#: /Game/HDCKBuildingSystem/Blueprints/Base/HorizontalBeam4GE.Default__HorizontalBeam4GE_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
-msgctxt ",7DFDB9EC41064A3AE812D1898D2FCDFF"
-msgid "提示信息"
-msgstr "hurtig information"
 
 #. Key:	7E0D35D04487BF2FCA42F68796859048
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_18.Text
@@ -2861,6 +2896,13 @@ msgstr "Strøm:"
 msgctxt ",8710C0014D4869B4CBF99993FFD25E15"
 msgid "肾上腺素"
 msgstr "adrenalin"
+
+#. Key:	873FB7254846DFA35E3A159332C917E2
+#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_Shotgun_870AC.Default__ACFGunBase_Shotgun_870AC_C.ItemInfo.Name
+#: /Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_Shotgun_870AC.Default__ACFGunBase_Shotgun_870AC_C.ItemInfo.Name
+msgctxt ",873FB7254846DFA35E3A159332C917E2"
+msgid "870AC霰弹枪"
+msgstr "870AC haglgevær"
 
 #. Key:	89132394498B7996A54198A9006A847B
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_39.In Text
@@ -3142,6 +3184,13 @@ msgctxt ",997299584F3A56724AEEECA4B30B17F9"
 msgid "没有修理工具！"
 msgstr "Intet reparationsværktøj!"
 
+#. Key:	999F80E349079E38988987AABAC5BB72
+#. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/VerticalBeam_Base.Default__VerticalBeam_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+#: /Game/HDCKBuildingSystem/Blueprints/Base/VerticalBeam_Base.Default__VerticalBeam_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+msgctxt ",999F80E349079E38988987AABAC5BB72"
+msgid "提示信息"
+msgstr "hurtig information"
+
 #. Key:	99C38A1E45C6826D574A1389F47237C4
 #. SourceLocation:	/Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(23).Mappings.PlayerMappableOptions.DisplayName
 #: /Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(23).Mappings.PlayerMappableOptions.DisplayName
@@ -3156,13 +3205,6 @@ msgctxt ",9A7ABEAA4E2C05AB00E7988389E19EB0"
 msgid "在第{0}天"
 msgstr "På dag {0}"
 
-#. Key:	9ACBCB9C43473F8E8A066297C6D5A4CA
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/ShortSharp/BP_Knife02.Default__BP_Knife02_C.ItemInfo.Name
-#: /Game/Blueprint/ACF/Item/Weapon/ShortSharp/BP_Knife02.Default__BP_Knife02_C.ItemInfo.Name
-msgctxt ",9ACBCB9C43473F8E8A066297C6D5A4CA"
-msgid "短的单手刀"
-msgstr "kort enhånds kniv"
-
 #. Key:	9ADCC17141C6AAA9B282CBA73B8AF4CC
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_GameSetting.WBP_GameSetting_C:WidgetTree.SliderBD.ToolTipText
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_GameSetting.WBP_GameSetting_C:WidgetTree.SliderBD.ToolTipText
@@ -3176,6 +3218,13 @@ msgstr "For at øge viral smitteevne har du brug for flere antistoffer"
 msgctxt ",9C8DC67F48B1B4F6E7242FB302464676"
 msgid "酿酒桶"
 msgstr "vin tønde"
+
+#. Key:	9CCFB08B4C80EAD1EB3ED0A0EC6B95FC
+#. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_DPTD.Default__Furniture_DPTD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+#: /Game/HDCKBuildingSystem/MeshBP/Furniture_DPTD.Default__Furniture_DPTD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+msgctxt ",9CCFB08B4C80EAD1EB3ED0A0EC6B95FC"
+msgid "地板"
+msgstr ""
 
 #. Key:	9D3F81C54102184380CBC1AE93CB0064
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/WBP_Main.WBP_Main_C:ExecuteUbergraph_WBP_Main [Script Bytecode]
@@ -3366,13 +3415,6 @@ msgctxt ",A62AEC1B44C9FEE0F527279A6A1B7EFD"
 msgid "Wall"
 msgstr "Væg"
 
-#. Key:	A62D66814626015915B396900E10845B
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/ShortSharp/BP_Knife01.Default__BP_Knife01_C.ItemInfo.Name
-#: /Game/Blueprint/ACF/Item/Weapon/ShortSharp/BP_Knife01.Default__BP_Knife01_C.ItemInfo.Name
-msgctxt ",A62D66814626015915B396900E10845B"
-msgid "短的单手刀"
-msgstr "kort enhånds kniv"
-
 #. Key:	A864B95242482D27A6DDEF880B9B3BA4
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Materials/Item_Material_Base.Default__Item_Material_Base_C.ItemInfo.Description
 #: /Game/Blueprint/ACF/Item/Materials/Item_Material_Base.Default__Item_Material_Base_C.ItemInfo.Description
@@ -3414,6 +3456,13 @@ msgstr "Spillet bliver gemt. Luk ikke programmet"
 msgctxt ",AA700A424A1CC79F89745D8B8E66743F"
 msgid "反曲弓"
 msgstr "buet bue"
+
+#. Key:	AA953644467BAD51AA1051B181786611
+#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/ShortSharp/BP_Knife02.Default__BP_Knife02_C.ItemInfo.Name
+#: /Game/Blueprint/ACF/Item/Weapon/ShortSharp/BP_Knife02.Default__BP_Knife02_C.ItemInfo.Name
+msgctxt ",AA953644467BAD51AA1051B181786611"
+msgid "短的单手刀"
+msgstr ""
 
 #. Key:	AA9BF92049C17658D82A79869973E366
 #. SourceLocation:	/Game/Blueprint/UMG/Inventory/WBP_ItemButton.WBP_ItemButton_C:WidgetTree.PressNum_1.Text
@@ -3463,6 +3512,13 @@ msgstr "En kasse til opbevaring af genstande, så genstande ikke kan gå tabt."
 msgctxt ",AC0F2FD840D825001A5E109409157C69"
 msgid "钢双手刀"
 msgstr "tohånds kniv i stål"
+
+#. Key:	AC18E0D44BF3818262EF0CAB79856665
+#. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/RoofEndHorizontal_Base.Default__RoofEndHorizontal_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+#: /Game/HDCKBuildingSystem/Blueprints/Base/RoofEndHorizontal_Base.Default__RoofEndHorizontal_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+msgctxt ",AC18E0D44BF3818262EF0CAB79856665"
+msgid "提示信息"
+msgstr "hurtig information"
 
 #. Key:	AC84840B4539E7BC652898AC86BCECF8
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/QK/BP_GunAccessoryQK_JJ_BC01.Default__BP_GunAccessoryQK_JJ_BC01_C.ItemInfo.Description
@@ -3547,6 +3603,13 @@ msgstr "drivhus"
 msgctxt ",B08286B54EAE43F8DF141795F9A38824"
 msgid "必须放置在地面上"
 msgstr "skal placeres på jorden"
+
+#. Key:	B08E6BFF426085C71EE73FB83AB86704
+#. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/HorizontalBeam_Base.Default__HorizontalBeam_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+#: /Game/HDCKBuildingSystem/Blueprints/Base/HorizontalBeam_Base.Default__HorizontalBeam_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+msgctxt ",B08E6BFF426085C71EE73FB83AB86704"
+msgid "提示信息"
+msgstr "hurtig information"
 
 #. Key:	B0942D1946775C199F77B7B8C29F350F
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/E_AimType.E_AimType.DisplayNameMap(2 - Value).DisplayNameMap
@@ -3779,13 +3842,6 @@ msgctxt ",B902044F444A770F5D16FEBFFB185A39"
 msgid "水不够！"
 msgstr "Ikke nok vand!"
 
-#. Key:	B94BC6AE4B289EAD48258597A35C0A67
-#. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/Roof_Top_End.Default__Roof_Top_End_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
-#: /Game/HDCKBuildingSystem/Blueprints/Base/Roof_Top_End.Default__Roof_Top_End_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
-msgctxt ",B94BC6AE4B289EAD48258597A35C0A67"
-msgid "提示信息"
-msgstr "hurtig information"
-
 #. Key:	B9B422134628E2BA2A3A5C958D118A62
 #. SourceLocation:	/Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(22).Mappings.PlayerMappableOptions.DisplayName
 #: /Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(22).Mappings.PlayerMappableOptions.DisplayName
@@ -3842,12 +3898,12 @@ msgctxt ",BBEF3E58479213894E7E5C8543257BEB"
 msgid "玩家数量：5"
 msgstr "Antal spillere: 5"
 
-#. Key:	BBF0A4F942AFAF39F980589F411C4B31
-#. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_BL.WBP_BL_C:WidgetTree.Image_94.ToolTipText
-#: /Game/Blueprint/UMG/Furniture/WBP_BL.WBP_BL_C:WidgetTree.Image_94.ToolTipText
-msgctxt ",BBF0A4F942AFAF39F980589F411C4B31"
-msgid "试着将三种不同的食材放入锅中烹饪"
-msgstr "Prøv at tilberede tre forskellige ingredienser i en gryde"
+#. Key:	BC7DF0C340280B5AE5433887448AAA78
+#. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/Car_Base.Default__Car_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+#: /Game/HDCKBuildingSystem/Blueprints/Base/Car_Base.Default__Car_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+msgctxt ",BC7DF0C340280B5AE5433887448AAA78"
+msgid "提示信息"
+msgstr "hurtig information"
 
 #. Key:	BC879B3F4ECE110B894771976EFF65F1
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_MakeBase.Default__Furniture_MakeBase_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
@@ -3904,13 +3960,6 @@ msgstr "Jern barrer"
 msgctxt ",BFBAF5F04F9C05F03B1C6FA074EC422E"
 msgid "机修（三卷）"
 msgstr "Maskinreparation (tre bind)"
-
-#. Key:	C0A2940847BFF5D11E2F0F822F15924D
-#. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_Stone.Default__Roof_20_intersection_Stone_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-#: /Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_Stone.Default__Roof_20_intersection_Stone_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-msgctxt ",C0A2940847BFF5D11E2F0F822F15924D"
-msgid "用于连接外转角屋顶。"
-msgstr "Til sammenføjning af udvendige hjørnetage."
 
 #. Key:	C0AECA14478D1D438B3C3098A107B0DE
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_30.Text
@@ -4023,13 +4072,6 @@ msgstr "Vandindtag"
 msgctxt ",C63B559A430C8967E980F183A98EDD89"
 msgid "钝器+"
 msgstr "Blunt+"
-
-#. Key:	C7E681D2423CD322593136B9A1F1FB6D
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Spear/BP_SpearShoot_G.Default__BP_SpearShoot_G_C.ItemInfo.Name
-#: /Game/Blueprint/ACF/Item/Weapon/Spear/BP_SpearShoot_G.Default__BP_SpearShoot_G_C.ItemInfo.Name
-msgctxt ",C7E681D2423CD322593136B9A1F1FB6D"
-msgid "木矛"
-msgstr "træspyd"
 
 #. Key:	C8909F544D82D283B4CBAF86C0E811D3
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/E_FireMode.E_FireMode.DisplayNameMap(1 - Value).DisplayNameMap
@@ -4164,6 +4206,13 @@ msgctxt ",CD8164CD4F5BF40D20BADEA4545E0217"
 msgid "电动缝纫机"
 msgstr "elektrisk symaskine"
 
+#. Key:	CDC1FB11458DD13D048E1E80F83016AE
+#. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_LDQ.Default__Furniture_LDQ_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+#: /Game/HDCKBuildingSystem/MeshBP/Furniture_LDQ.Default__Furniture_LDQ_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+msgctxt ",CDC1FB11458DD13D048E1E80F83016AE"
+msgid "提示信息"
+msgstr "hurtig information"
+
 #. Key:	CE87C79047651DC81CD8109E13DF5212
 #. SourceLocation:	/Game/Blueprint/ACF/Tutorial/WBP_TutorialTip9.WBP_TutorialTip9_C:WidgetTree.TextBlock_3.Text
 #: /Game/Blueprint/ACF/Tutorial/WBP_TutorialTip9.WBP_TutorialTip9_C:WidgetTree.TextBlock_3.Text
@@ -4226,6 +4275,20 @@ msgstr "Opret forbindelse"
 msgctxt ",D2A4C2124089937029EA4F95DC46D778"
 msgid "此物品无法装备在这"
 msgstr "Denne vare kan ikke udstyres her"
+
+#. Key:	D2B00B42448E9C68C5BB7BBC74B50A12
+#. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/GuardRail_Base.Default__GuardRail_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+#: /Game/HDCKBuildingSystem/Blueprints/Base/GuardRail_Base.Default__GuardRail_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+msgctxt ",D2B00B42448E9C68C5BB7BBC74B50A12"
+msgid "提示信息"
+msgstr "hurtig information"
+
+#. Key:	D32873F24461CBE59F60F0A657801FCD
+#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_SMG_MP7A1.Default__ACFGunBase_SMG_MP7A1_C.ItemInfo.Name
+#: /Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_SMG_MP7A1.Default__ACFGunBase_SMG_MP7A1_C.ItemInfo.Name
+msgctxt ",D32873F24461CBE59F60F0A657801FCD"
+msgid "MP7A1冲锋枪"
+msgstr "MP7A1 maskinpistol"
 
 #. Key:	D32A4D03413139E3B6FDB1B424B6207F
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_JoinGame.WBP_JoinGame_C:ExecuteUbergraph_WBP_JoinGame [Script Bytecode]
@@ -4332,12 +4395,26 @@ msgctxt ",D7FC708C4BA2295B2E317CA2612C1A73"
 msgid "工作台会自动完成任务，你无需留守"
 msgstr "Arbejdsbordet vil automatisk fuldføre opgaven, du behøver ikke at blive tilbage"
 
+#. Key:	D93DE96549EB60B216FED58F9FA2F16D
+#. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/OutDoorsStairs_Base.Default__OutDoorsStairs_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+#: /Game/HDCKBuildingSystem/Blueprints/Base/OutDoorsStairs_Base.Default__OutDoorsStairs_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+msgctxt ",D93DE96549EB60B216FED58F9FA2F16D"
+msgid "提示信息"
+msgstr "hurtig information"
+
 #. Key:	D9BFDCBF49522F6BD0A0AE9DFE3A46D0
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(10 - Value).DisplayNameMap
 #: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(10 - Value).DisplayNameMap
 msgctxt ",D9BFDCBF49522F6BD0A0AE9DFE3A46D0"
 msgid "RoofEnd"
 msgstr "Tagende"
+
+#. Key:	D9CB867B44E6AC07A493919FCBD26528
+#. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/Roof_45_Base.Default__Roof_45_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+#: /Game/HDCKBuildingSystem/Blueprints/Base/Roof_45_Base.Default__Roof_45_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+msgctxt ",D9CB867B44E6AC07A493919FCBD26528"
+msgid "提示信息"
+msgstr "hurtig information"
 
 #. Key:	D9DDCEFB423648DEE630F5AAAFEE978B
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_89.In Text
@@ -4359,6 +4436,13 @@ msgstr "Anti-ridse"
 msgctxt ",D9F39C7546A5C1735F3ED7AB191B0663"
 msgid "卫生-"
 msgstr "sundhed-"
+
+#. Key:	D9FB409343783011851859B6A61240D5
+#. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_Bed.Default__Furniture_Bed_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+#: /Game/HDCKBuildingSystem/MeshBP/Furniture_Bed.Default__Furniture_Bed_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+msgctxt ",D9FB409343783011851859B6A61240D5"
+msgid "提示信息"
+msgstr ""
 
 #. Key:	DA01CCEB4FCE0A10153ADBA352E6C952
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_88.In Text
@@ -4408,13 +4492,6 @@ msgstr "fundament eller gulv"
 msgctxt ",DBEA5F13457CEB3820D1DA8A55A05FD8"
 msgid "预计成熟时间"
 msgstr "Estimeret løbetid"
-
-#. Key:	DC117C4C440D017624D2C8BCB42C0BA7
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Spear/BP_SpearShoot_Iron.Default__BP_SpearShoot_Iron_C.ItemInfo.Name
-#: /Game/Blueprint/ACF/Item/Weapon/Spear/BP_SpearShoot_Iron.Default__BP_SpearShoot_Iron_C.ItemInfo.Name
-msgctxt ",DC117C4C440D017624D2C8BCB42C0BA7"
-msgid "木矛"
-msgstr "træspyd"
 
 #. Key:	DC5164BF446550844AEBE1B4BEEE2C71
 #. SourceLocation:	/Game/Blueprint/UMG/ChatSystem/WBP_ChatMessage.WBP_ChatMessage_C:WidgetTree.TextBlock_55.Text
@@ -4619,6 +4696,13 @@ msgctxt ",E51278044D668F0A8930B08C5B984311"
 msgid "商人物资刷新"
 msgstr "Købmands forsyninger opdateres"
 
+#. Key:	E556A0064015F8203A1E46B108235EE7
+#. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/RoofEnd_Base.Default__RoofEnd_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+#: /Game/HDCKBuildingSystem/Blueprints/Base/RoofEnd_Base.Default__RoofEnd_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+msgctxt ",E556A0064015F8203A1E46B108235EE7"
+msgid "提示信息"
+msgstr "hurtig information"
+
 #. Key:	E55D360946BFB010A48B85A3400EDE5D
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Throw/BP_Throw_Base.Default__BP_Throw_Base_C.ItemInfo.Name
 #: /Game/Blueprint/ACF/Item/Weapon/Throw/BP_Throw_Base.Default__BP_Throw_Base_C.ItemInfo.Name
@@ -4674,6 +4758,13 @@ msgstr "Denne vare kan ikke udstyres her"
 msgctxt ",E77D91584AE589CDBA6024A6641358F7"
 msgid "此物品无法装备在这"
 msgstr "Denne vare kan ikke udstyres her"
+
+#. Key:	E81D1BFE4B45430459EE28B9401FCC1A
+#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Spear/BP_SpearShoot_Iron.Default__BP_SpearShoot_Iron_C.ItemInfo.Name
+#: /Game/Blueprint/ACF/Item/Weapon/Spear/BP_SpearShoot_Iron.Default__BP_SpearShoot_Iron_C.ItemInfo.Name
+msgctxt ",E81D1BFE4B45430459EE28B9401FCC1A"
+msgid "木矛"
+msgstr ""
 
 #. Key:	E81FD1D8493C6CD9E2470F97A822FFEA
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_27.In Text
@@ -4787,10 +4878,10 @@ msgctxt ",EB8E102A411B40A3B1DC2A871517A726"
 msgid "searching"
 msgstr "søger"
 
-#. Key:	EB9ECA0B4396B02449551FBBF130A3CF
-#. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/Roof_20_Corner.Default__Roof_20_Corner_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
-#: /Game/HDCKBuildingSystem/Blueprints/Base/Roof_20_Corner.Default__Roof_20_Corner_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
-msgctxt ",EB9ECA0B4396B02449551FBBF130A3CF"
+#. Key:	EC27C81F41D500890A2949A91B7DE1E2
+#. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/HandGuardStairs_Base.Default__HandGuardStairs_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+#: /Game/HDCKBuildingSystem/Blueprints/Base/HandGuardStairs_Base.Default__HandGuardStairs_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+msgctxt ",EC27C81F41D500890A2949A91B7DE1E2"
 msgid "提示信息"
 msgstr "hurtig information"
 
@@ -4835,6 +4926,13 @@ msgstr "Prøv at planlægge din foundation her"
 msgctxt ",ED70D7E14572183967F87E884BA931B8"
 msgid "取水口"
 msgstr "vandindtag"
+
+#. Key:	ED9C54094A6D0E7563A9DF93CCD91DE3
+#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_HandGun_G18.Default__ACFGunBase_HandGun_G18_C.ItemInfo.Name
+#: /Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_HandGun_G18.Default__ACFGunBase_HandGun_G18_C.ItemInfo.Name
+msgctxt ",ED9C54094A6D0E7563A9DF93CCD91DE3"
+msgid "G18手枪"
+msgstr "G18 pistol"
 
 #. Key:	EDAC3030401DEB9C1DF43FBB2E47F2FD
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_48.Text
@@ -4969,6 +5067,13 @@ msgctxt ",F43A38CA419B4DC62020BDA1712DC2C8"
 msgid "极强"
 msgstr "ekstremt stærk"
 
+#. Key:	F4BA4D774CD78BC78E11A4A8D56844DD
+#. SourceLocation:	/Game/Blueprint/ACF/Item/Food/AutoCreate/BP_Food_GYC.Default__BP_Food_GYC_C.ItemInfo.Description
+#: /Game/Blueprint/ACF/Item/Food/AutoCreate/BP_Food_GYC.Default__BP_Food_GYC_C.ItemInfo.Description
+msgctxt ",F4BA4D774CD78BC78E11A4A8D56844DD"
+msgid "食物"
+msgstr ""
+
 #. Key:	F4BF7A6C48622D449AFBF195173F9A89
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/WBP_RoomSlot.WBP_RoomSlot_C:ExecuteUbergraph_WBP_RoomSlot [Script Bytecode]
 #: /Game/Blueprint/UMG/MainUI/WBP_RoomSlot.WBP_RoomSlot_C:ExecuteUbergraph_WBP_RoomSlot [Script Bytecode]
@@ -4989,6 +5094,13 @@ msgstr "Til sammenføjning af udvendige hjørnetage."
 msgctxt ",F53C86D14E0BC9C66FEA7885EECEEA87"
 msgid "土制炸弹"
 msgstr "improviseret bombe"
+
+#. Key:	F53F3FF34B6EBDB7235BB8B551967170
+#. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/XJ_DL_Base.Default__XJ_DL_Base_C.BuildInfo.TipAdsorbent_45_0277CC26494BF1319349189E27EC6190
+#: /Game/HDCKBuildingSystem/MeshBP/XJ_DL_Base.Default__XJ_DL_Base_C.BuildInfo.TipAdsorbent_45_0277CC26494BF1319349189E27EC6190
+msgctxt ",F53F3FF34B6EBDB7235BB8B551967170"
+msgid "无"
+msgstr "ingen"
 
 #. Key:	F54A6ED54766ABB0AC79688C14B3C300
 #. SourceLocation:	/Game/HDCKBuildingSystem/Table/E_SelectType.E_SelectType.DisplayNameMap(5 - Value).DisplayNameMap
@@ -5081,6 +5193,13 @@ msgctxt ",F9AE1443479D5044F8044295EDD7944A"
 msgid "此物品无法装备在这"
 msgstr "Denne vare kan ikke udstyres her"
 
+#. Key:	F9BC6CDB416B5067DE32089C5BE543BA
+#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_sniper_SVD.Default__ACFGunBase_sniper_SVD_C.ItemInfo.Name
+#: /Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_sniper_SVD.Default__ACFGunBase_sniper_SVD_C.ItemInfo.Name
+msgctxt ",F9BC6CDB416B5067DE32089C5BE543BA"
+msgid "SVD"
+msgstr "SVD"
+
 #. Key:	FA24792C475603E61A18C0B895A46B98
 #. SourceLocation:	/Game/Blueprint/UMG/InteractiveMessage/WBP_BuildMaterialMessage.WBP_BuildMaterialMessage_C:WidgetTree.Name.Text
 #: /Game/Blueprint/UMG/InteractiveMessage/WBP_BuildMaterialMessage.WBP_BuildMaterialMessage_C:WidgetTree.Name.Text
@@ -5129,6 +5248,13 @@ msgstr "etage"
 msgctxt ",FC41E7F4409AA042268DA480D2C3C17D"
 msgid "Default"
 msgstr "Standard"
+
+#. Key:	FC61E1904AC1433B0F83A5B589259934
+#. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/RoofEndVertical_45_Base.Default__RoofEndVertical_45_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+#: /Game/HDCKBuildingSystem/Blueprints/Base/RoofEndVertical_45_Base.Default__RoofEndVertical_45_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+msgctxt ",FC61E1904AC1433B0F83A5B589259934"
+msgid "提示信息"
+msgstr "hurtig information"
 
 #. Key:	FD23C90B4B0BEDE8A18429A85A651B61
 #. SourceLocation:	/Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(0 - Value).DisplayNameMap
@@ -5206,6 +5332,13 @@ msgstr "1"
 msgctxt ",FEB4BCDA4679F137584DEC971159DDF9"
 msgid "滤芯："
 msgstr "Filterelement:"
+
+#. Key:	FEE390734DBF1578A280209068FC9926
+#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/ACFGunBase_Rifle.Default__ACFGunBase_Rifle_C.ItemInfo.Name
+#: /Game/Blueprint/ACF/Item/Weapon/ACFGunBase_Rifle.Default__ACFGunBase_Rifle_C.ItemInfo.Name
+msgctxt ",FEE390734DBF1578A280209068FC9926"
+msgid "M4步枪"
+msgstr "M4 riffel"
 
 #. Key:	FF09B24548010A88880671934DB31229
 #. SourceLocation:	/Game/HDCKBuildingSystem/Table/BuildTable.BuildTable.RoofIntersection20.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
@@ -11016,6 +11149,13 @@ msgstr "Det er bedre at bruge efter opvarmning"
 msgctxt "UI,JRDRYX"
 msgid "加入多人游戏"
 msgstr "deltage i multiplayer-spil"
+
+#. Key:	JTL
+#. SourceLocation:	/Game/LocalizationText/GUN.GUN
+#: /Game/LocalizationText/GUN.GUN
+msgctxt "UI,JTL"
+msgid "加特林"
+msgstr "Gatling"
 
 #. Key:	JX
 #. SourceLocation:	/Game/LocalizationText/UIStudy.UIStudy
