@@ -1,11 +1,11 @@
-﻿# Game Japanese translation.
+# Game Japanese translation.
 # Copyright Epic Games, Inc. All Rights Reserved.
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
 "POT-Creation-Date: 2023-04-24 05:58\n"
-"PO-Revision-Date: 2023-04-24 05:58\n"
+"PO-Revision-Date: 2023-04-28 18:15\n"
 "Language-Team: \n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
@@ -319,7 +319,7 @@ msgstr "食中毒の可能性"
 #: /Game/Blueprint/ACF/Item/Food/AutoCreate/BP_Food_GYC.Default__BP_Food_GYC_C.ItemInfo.Name
 msgctxt ",0D071C604EF62B9B8BD4DBA90D8C6C19"
 msgid "香菇"
-msgstr ""
+msgstr "キノコ"
 
 #. Key:	0D2F9EF34F24FE1D4DE8229B65941BC4
 #. SourceLocation:	/Game/Blueprint/ACF/Player/HDCK_CharacterBP.Default__HDCK_CharacterBP_C.TimeBuffDetail(0).TimeBuffDetail.TipMessage_56_5402F47A4785659B27440099C7CA676D
@@ -858,7 +858,7 @@ msgstr "すべて"
 #: /Game/Blueprint/ACF/Item/Weapon/Spear/BP_SpearShoot_G.Default__BP_SpearShoot_G_C.ItemInfo.Name
 msgctxt ",2567BA66467FA0124149A1A25BCB14BE"
 msgid "木矛"
-msgstr ""
+msgstr "木の槍"
 
 #. Key:	257D695A47DEEA3FFC5862BD1084FDE4
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_43.Text
@@ -1110,14 +1110,14 @@ msgstr "鉄のナイフ"
 #: /Game/Blueprint/ACF/Item/Weapon/ShortSharp/BP_Knife01.Default__BP_Knife01_C.ItemInfo.Name
 msgctxt ",3107C0BA472876937A879A9E8DF0EC46"
 msgid "短的单手刀"
-msgstr ""
+msgstr "短い片手ナイフ"
 
 #. Key:	31375F064F06557D8403A490537737FA
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_Stone.Default__Roof_20_intersection_Stone_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 #: /Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_Stone.Default__Roof_20_intersection_Stone_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 msgctxt ",31375F064F06557D8403A490537737FA"
 msgid "用于连接外转角屋顶。"
-msgstr ""
+msgstr "外角屋根の連結用です。"
 
 #. Key:	31871561446D15B0848CB38F354B0318
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Foundation_SN.Default__Foundation_SN_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
@@ -1691,7 +1691,7 @@ msgstr "自動"
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_SG.Default__Furniture_SG_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",502BA34641C3778E1B5720AF2FFD5536"
 msgid "提示信息"
-msgstr ""
+msgstr "ヒント"
 
 #. Key:	508A302D479171AD2AFCB5BDF7BF0BD4
 #. SourceLocation:	/Game/Blueprint/ACF/Player/HDCK_CharacterBP.Default__HDCK_CharacterBP_C.TimeBuffDetail(1).TimeBuffDetail.TipMessage_56_5402F47A4785659B27440099C7CA676D
@@ -2090,7 +2090,7 @@ msgstr "食べ物"
 #: /Game/Blueprint/ACF/Item/Weapon/Spear/BP_SpearShoot_Wood.Default__BP_SpearShoot_Wood_C.ItemInfo.Name
 msgctxt ",623686664AE594720E82029B55EEDF5F"
 msgid "木矛"
-msgstr ""
+msgstr "木の槍"
 
 #. Key:	624E2BB84562A36C89BA4B8C51A5AA70
 #. SourceLocation:	/Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(6).Mappings.PlayerMappableOptions.DisplayName
@@ -2902,7 +2902,7 @@ msgstr "アドレナリン"
 #: /Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_Shotgun_870AC.Default__ACFGunBase_Shotgun_870AC_C.ItemInfo.Name
 msgctxt ",873FB7254846DFA35E3A159332C917E2"
 msgid "870AC霰弹枪"
-msgstr "870ACショットガン"
+msgstr "870AC ショットガン"
 
 #. Key:	89132394498B7996A54198A9006A847B
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_39.In Text
@@ -3224,7 +3224,7 @@ msgstr "発酵樽"
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_DPTD.Default__Furniture_DPTD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",9CCFB08B4C80EAD1EB3ED0A0EC6B95FC"
 msgid "地板"
-msgstr ""
+msgstr "床"
 
 #. Key:	9D3F81C54102184380CBC1AE93CB0064
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/WBP_Main.WBP_Main_C:ExecuteUbergraph_WBP_Main [Script Bytecode]
@@ -3462,7 +3462,7 @@ msgstr "反曲弓"
 #: /Game/Blueprint/ACF/Item/Weapon/ShortSharp/BP_Knife02.Default__BP_Knife02_C.ItemInfo.Name
 msgctxt ",AA953644467BAD51AA1051B181786611"
 msgid "短的单手刀"
-msgstr ""
+msgstr "短い片手ナイフ"
 
 #. Key:	AA9BF92049C17658D82A79869973E366
 #. SourceLocation:	/Game/Blueprint/UMG/Inventory/WBP_ItemButton.WBP_ItemButton_C:WidgetTree.PressNum_1.Text
@@ -4288,7 +4288,7 @@ msgstr "ヒント"
 #: /Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_SMG_MP7A1.Default__ACFGunBase_SMG_MP7A1_C.ItemInfo.Name
 msgctxt ",D32873F24461CBE59F60F0A657801FCD"
 msgid "MP7A1冲锋枪"
-msgstr "MP7A1短機関銃"
+msgstr "MP7A1 サブマシンガン"
 
 #. Key:	D32A4D03413139E3B6FDB1B424B6207F
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_JoinGame.WBP_JoinGame_C:ExecuteUbergraph_WBP_JoinGame [Script Bytecode]
@@ -4442,7 +4442,7 @@ msgstr "健康-"
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_Bed.Default__Furniture_Bed_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",D9FB409343783011851859B6A61240D5"
 msgid "提示信息"
-msgstr ""
+msgstr "ヒント"
 
 #. Key:	DA01CCEB4FCE0A10153ADBA352E6C952
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_88.In Text
@@ -4764,7 +4764,7 @@ msgstr "このアイテムはここでは装備できません"
 #: /Game/Blueprint/ACF/Item/Weapon/Spear/BP_SpearShoot_Iron.Default__BP_SpearShoot_Iron_C.ItemInfo.Name
 msgctxt ",E81D1BFE4B45430459EE28B9401FCC1A"
 msgid "木矛"
-msgstr ""
+msgstr "木の槍"
 
 #. Key:	E81FD1D8493C6CD9E2470F97A822FFEA
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_27.In Text
@@ -4932,7 +4932,7 @@ msgstr "取水口"
 #: /Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_HandGun_G18.Default__ACFGunBase_HandGun_G18_C.ItemInfo.Name
 msgctxt ",ED9C54094A6D0E7563A9DF93CCD91DE3"
 msgid "G18手枪"
-msgstr "G18ピストル"
+msgstr "G18 ピストル"
 
 #. Key:	EDAC3030401DEB9C1DF43FBB2E47F2FD
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_48.Text
@@ -5338,7 +5338,7 @@ msgstr "浄水フィルター："
 #: /Game/Blueprint/ACF/Item/Weapon/ACFGunBase_Rifle.Default__ACFGunBase_Rifle_C.ItemInfo.Name
 msgctxt ",FEE390734DBF1578A280209068FC9926"
 msgid "M4步枪"
-msgstr "M4ライフル"
+msgstr "M4 アサルトライフル"
 
 #. Key:	FF09B24548010A88880671934DB31229
 #. SourceLocation:	/Game/HDCKBuildingSystem/Table/BuildTable.BuildTable.RoofIntersection20.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
@@ -9790,7 +9790,7 @@ msgstr "地面に投げたアイテムは、長時間拾わないと消えます
 #: /Game/LocalizationText/GUN.GUN
 msgctxt "UI,95"
 msgid "95式全自动步枪"
-msgstr "九五式全自動小銃"
+msgstr "95式アサルトライフル"
 
 #. Key:	AddBuff
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11155,7 +11155,7 @@ msgstr "マルチプレイヤーゲームに参加する"
 #: /Game/LocalizationText/GUN.GUN
 msgctxt "UI,JTL"
 msgid "加特林"
-msgstr "ガトリング"
+msgstr "ガトリングガン"
 
 #. Key:	JX
 #. SourceLocation:	/Game/LocalizationText/UIStudy.UIStudy
@@ -11435,7 +11435,7 @@ msgstr "粒子効果"
 #: /Game/LocalizationText/GUN.GUN
 msgctxt "UI,m249"
 msgid "M249"
-msgstr "M249"
+msgstr "M249 マシンガン"
 
 #. Key:	Main
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -13760,4 +13760,3 @@ msgstr "全体の音量"
 msgctxt "UI,ZZ"
 msgid "一小包种子"
 msgstr "種子の小さなパック"
-
