@@ -1341,7 +1341,7 @@ msgstr "Stół do obróbki"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_3.In Text
 msgctxt ",3BDD98F042F6D5D8B6C8A98E13FD0D5B"
 msgid "烟熏房"
-msgstr "Wędzarnia"
+msgstr "Prosty ruszt"
 
 #. Key:	3D2B092646BB8422A02E70B999686D0E
 #. SourceLocation:	/Game/Blueprint/UMG/InteractiveMessage/WBP_BuildCenterMessage.WBP_BuildCenterMessage_C:WidgetTree.Name.Text
@@ -3287,7 +3287,7 @@ msgstr "Wiadomość"
 #: /Game/HDCKBuildingSystem/Table/E_SelectType.E_SelectType.DisplayNameMap(4 - Value).DisplayNameMap
 msgctxt ",9EE4C84344479B243BE1FBAE5B7374FB"
 msgid "outdoors"
-msgstr "Na zewnątrz"
+msgstr "Zewnętrzne"
 
 #. Key:	9F5401FB4B4D43810787169E4346BFF7
 #. SourceLocation:	/Game/Blueprint/UMG/WBP_BaseCharacter.WBP_BaseCharacter_C:WidgetTree.FZX.Text
@@ -5177,7 +5177,7 @@ msgstr "Drużyna 8"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_3.Text
 msgctxt ",F895FF4F46F21F692C19CA91D155CFE5"
 msgid "道具"
-msgstr "Narzędzie"
+msgstr "Narzędzia"
 
 #. Key:	F91FBBF54EFCC09A5F2A2F82AC17BF67
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_26.Text
@@ -5520,7 +5520,7 @@ msgstr "Wprowadź..."
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",mdc"
 msgid "木地刺"
-msgstr "Drewniana pułapka z kolcami"
+msgstr "Pułapka z drewnianymi kolcami"
 
 #. Key:	Null
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5982,14 +5982,14 @@ msgstr "Schody wykonane z drewna."
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",TDC"
 msgid "铁地刺"
-msgstr "Żelazny cierń"
+msgstr "Pułapka z żelaznymi kolcami"
 
 #. Key:	TieJuMa
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",TieJuMa"
 msgid "铁拒马"
-msgstr "Żelazna ściana z kolcami"
+msgstr "Żelazna barykada z kolcami"
 
 #. Key:	TwoHorizontalBeam
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -6689,7 +6689,7 @@ msgstr "Stalowa brama"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B79"
 msgid "拒马"
-msgstr "Drewniana kolce"
+msgstr "Drewniana barykada z kolcami"
 
 #. Key:	B8
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6787,7 +6787,7 @@ msgstr "Stolik nocny"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,D01"
 msgid "地雷"
-msgstr "Kopalnia"
+msgstr "Mina"
 
 #. Key:	D02
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -7571,7 +7571,7 @@ msgstr "Pieczone warzywa"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F27"
 msgid "失败料理"
-msgstr "Zepsutee jedzenie"
+msgstr "Zepsute jedzenie"
 
 #. Key:	F28
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8530,7 +8530,7 @@ msgstr "Skrzynka narzędziowa"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M41"
 msgid "机械加工台图纸"
-msgstr "Plany stołu obróbczego"
+msgstr "Schemat: Stół do obróbki"
 
 #. Key:	M42
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9384,7 +9384,7 @@ msgstr "Żelazna włócznia"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W27"
 msgid "木弓"
-msgstr "Łuk z drewna"
+msgstr "Drewniany łuk"
 
 #. Key:	W28
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9636,28 +9636,28 @@ msgstr "Służy głównie do rozbijania kamieni, ale w razie potrzeby może być
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,WMLT"
 msgid "完美狼头"
-msgstr "Idealna głowa wilka"
+msgstr "Głowa wilka"
 
 #. Key:	WMLT01
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,WMLT01"
 msgid "完美鹿头"
-msgstr "Idealna głowa jelenia"
+msgstr "Głowa jelenia"
 
 #. Key:	WMXT
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,WMXT"
 msgid "完美熊头"
-msgstr "Idealna głowa niedźwiedzia"
+msgstr "Głowa niedźwiedzia"
 
 #. Key:	WMZT
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,WMZT"
 msgid "完美猪头"
-msgstr "Idealna głowa świni"
+msgstr "Głowa świni"
 
 #. Key:	01
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -10161,7 +10161,7 @@ msgstr "Reflektory"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,CDDX"
 msgid "充电源"
-msgstr "Podłączone urządzenia: "
+msgstr "Podłączone urządzenia "
 
 #. Key:	CDMC021
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10189,7 +10189,7 @@ msgstr "Krawiectwo"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,ChangAn"
 msgid "长按"
-msgstr "NWciśnij"
+msgstr "Przytrzymaj"
 
 #. Key:	Change
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10427,7 +10427,7 @@ msgstr "Głębokość"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,destroyBuild"
 msgid "拆除"
-msgstr "Zburzyć"
+msgstr "aby zburzyć"
 
 #. Key:	destroyHammer
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10483,7 +10483,7 @@ msgstr "Rozłącz"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,DL"
 msgid "电力"
-msgstr "Zasilanie"
+msgstr "Zasilanie "
 
 #. Key:	DLBZ
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10511,7 +10511,7 @@ msgstr "Połącz:"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,DLValue"
 msgid "电量："
-msgstr "Moc:"
+msgstr "Wymagana moc: "
 
 #. Key:	DQ
 #. SourceLocation:	/Game/LocalizationText/UIStudy.UIStudy
@@ -10742,7 +10742,7 @@ msgstr "Czas palenia: "
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,fixbuild"
 msgid "修理"
-msgstr "Naprawa"
+msgstr "aby naprawić"
 
 #. Key:	FKS
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11155,7 +11155,7 @@ msgstr "Dołącz do gry wieloosobowej"
 #: /Game/LocalizationText/GUN.GUN
 msgctxt "UI,JTL"
 msgid "加特林"
-msgstr "Gatlinga"
+msgstr "Minigun"
 
 #. Key:	JX
 #. SourceLocation:	/Game/LocalizationText/UIStudy.UIStudy
@@ -11435,7 +11435,7 @@ msgstr "Jakość efektów cząsteczek"
 #: /Game/LocalizationText/GUN.GUN
 msgctxt "UI,m249"
 msgid "M249"
-msgstr "M249"
+msgstr "Karabin M249"
 
 #. Key:	Main
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11813,7 +11813,7 @@ msgstr "Brak ognia lub składników"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,NotLink"
 msgid "未连接"
-msgstr "Niepołączony"
+msgstr "Niepodłączone"
 
 #. Key:	NotLinkDCZ
 #. SourceLocation:	/Game/LocalizationText/UI.UI
