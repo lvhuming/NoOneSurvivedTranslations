@@ -3707,7 +3707,7 @@ msgstr "Modo: Tiro a Tiro"
 #: /Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_3.TZF_27_2477A82448AA37EFCFBF4883BE709EF2
 msgctxt ",B4227B28456F62424876BF98D38BA59A"
 msgid "生命脆弱"
-msgstr "Frágil"
+msgstr "Frágil\r\nVitalidad reducida"
 
 #. Key:	B4746EE4424481DB831589BEEC0DE8D4
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(7 - Value).DisplayNameMap
@@ -12345,7 +12345,7 @@ msgstr "Matiz"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,server01"
 msgid "专用服务器"
-msgstr "Servidores Privado"
+msgstr "Servidores Privados"
 
 #. Key:	server02
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12877,28 +12877,28 @@ msgstr "Afecta a la vida y al límite de resistencia."
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZFYF"
 msgid "细皮嫩肉"
-msgstr "Piel Frágil\r\nPropenso a las heridas."
+msgstr "Piel Frágil\r\nDefensa reducida"
 
 #. Key:	TZFYZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZFYZ"
 msgid "皮糙肉厚"
-msgstr "Piel Gruesa\r\nResistente a las heridas."
+msgstr "Piel Gruesa\r\nDefensa aumentada"
 
 #. Key:	TZFZF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZFZF"
 msgid "不堪重负"
-msgstr "Abrumado\r\nCarga poco peso"
+msgstr "Abrumado\r\nCargas poco peso"
 
 #. Key:	TZFZZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZFZZ"
 msgid "负重前行"
-msgstr "Mula de Carga\r\nCarga mucho peso"
+msgstr "Mula de Carga\r\nCargas mucho peso"
 
 #. Key:	TZKCF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -12968,14 +12968,14 @@ msgstr "Forzudo\r\nFuerza Aumentada"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZNLF"
 msgid "耐力不好"
-msgstr "Sedentario\r\nMayor consumo de resistencia"
+msgstr "Sedentario\r\nEnergía reducida"
 
 #. Key:	TZNLZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZNLZ"
 msgid "耐力极好"
-msgstr "Resistente\r\nMenor consumo de resistencia"
+msgstr "Resistente\r\nEnergía aumentada"
 
 #. Key:	TZQSF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -12996,7 +12996,7 @@ msgstr "Alimentacion Saludable"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZRAXXF"
 msgid "学习困难症"
-msgstr "Disléxico\r\nTe cuesta aprender"
+msgstr "Disléxico\r\nAprendes lentamente"
 
 #. Key:	TZRAXXZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -13010,14 +13010,14 @@ msgstr "Estudioso\r\nAprendes rápido"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZSDF"
 msgid "不太灵活"
-msgstr "Torpe\r\nEres lento"
+msgstr "Torpe\r\nVelocidad reducida"
 
 #. Key:	TZSDZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZSDZ"
 msgid "敏捷如兔"
-msgstr "Ágil\r\nEres rápido"
+msgstr "Ágil\r\nVelocidad aumentada"
 
 #. Key:	TZSMF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -13038,35 +13038,35 @@ msgstr "Resiliente\r\nMucha Vitalidad"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZTJF"
 msgid "不喜跑步"
-msgstr "Perezoso\r\nConsumes mucha resistencia al correr"
+msgstr "Perezoso\r\nTe cansas rápido"
 
 #. Key:	TZTJZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZTJZ"
 msgid "田径选手"
-msgstr "Atlético\r\nConsumes poca resistencia al correr"
+msgstr "Atlético\r\nTe cansas poco"
 
 #. Key:	TZWQF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZWQF"
 msgid "不擅战斗"
-msgstr "Pusilánime\r\nGanas poca experiencia luchando"
+msgstr "Pusilánime\r\n- Experiencia luchando"
 
 #. Key:	TZWQZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZWQZ"
 msgid "武器大师"
-msgstr "Maestro Luchador\r\nGanas mucha experiencia luchando"
+msgstr "Maestro Luchador\r\n+ Experiencia luchando"
 
 #. Key:	TZWSF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZWSF"
 msgid "邋遢"
-msgstr "Descuidado\r\nTiempo de búsqueda reducido"
+msgstr "Descuidado\r\nPoco aseado"
 
 #. Key:	TZWSZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -13080,14 +13080,14 @@ msgstr "!Mantente Límpio!\r\nLa Higiene influye en el Estado de Ánimo del pers
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZXXF"
 msgid "粗心"
-msgstr "Cuidadoso\r\nTardas más en buscar"
+msgstr "Meticuloso\r\nBúsqueda lenta"
 
 #. Key:	TZXXZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZXXZ"
 msgid "细心"
-msgstr "Manos Ágiles\r\nTiempo de búsqueda reducido"
+msgstr "Manos Ágiles\r\nBúsqueda rápida"
 
 #. Key:	TZZLF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
