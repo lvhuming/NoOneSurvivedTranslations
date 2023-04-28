@@ -1,4 +1,4 @@
-﻿# Game Italian translation.
+# Game Italian translation.
 # Copyright Epic Games, Inc. All Rights Reserved.
 # 
 msgid ""
@@ -312,7 +312,7 @@ msgstr "IA_FireMode"
 #: /Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_7.TipMessage_41_0D1B7B6342180F0BD1D386A6C8ADE0B3
 msgctxt ",0C797E8E40ACBD720B57B4B33B461ADD"
 msgid "疟疾几率"
-msgstr "Possibilità di ammalarsi di malaria"
+msgstr "Possibilità di ammalarsi di dissenteria"
 
 #. Key:	0D071C604EF62B9B8BD4DBA90D8C6C19
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Food/AutoCreate/BP_Food_GYC.Default__BP_Food_GYC_C.ItemInfo.Name
@@ -326,7 +326,7 @@ msgstr ""
 #: /Game/Blueprint/ACF/Player/HDCK_CharacterBP.Default__HDCK_CharacterBP_C.TimeBuffDetail(0).TimeBuffDetail.TipMessage_56_5402F47A4785659B27440099C7CA676D
 msgctxt ",0D2F9EF34F24FE1D4DE8229B65941BC4"
 msgid "疟疾，减少耐力上限和回复"
-msgstr "Malaria, riduzione della capacità di resistenza e recupero"
+msgstr "Dissenteria, riduzione della capacità di resistenza e recupero"
 
 #. Key:	0EAC4CF84F900A49A09DE09F240307B5
 #. SourceLocation:	/Game/Blueprint/UMG/WBP_BaseCharacter.WBP_BaseCharacter_C:WidgetTree.YZKX.Text
@@ -844,7 +844,7 @@ msgstr "lungo coltello a due mani"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_24.In Text
 msgctxt ",24791B5F496A7379DD1A5DABE8249766"
 msgid "制衣台"
-msgstr "Tavolo da cucito"
+msgstr "Banco del sarto"
 
 #. Key:	255B70D241CAF1A285F57FA01C58F0BF
 #. SourceLocation:	/Game/HDCKBuildingSystem/Table/E_SelectType.E_SelectType.DisplayNameMap(3 - Value).DisplayNameMap
@@ -865,7 +865,7 @@ msgstr ""
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_43.Text
 msgctxt ",257D695A47DEEA3FFC5862BD1084FDE4"
 msgid "增加疟疾"
-msgstr "Incremento della malaria"
+msgstr "Incremento della dissenteria"
 
 #. Key:	258B8DCA4A30A8C003E35AA9CED8333D
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_33.In Text
@@ -1334,7 +1334,7 @@ msgstr "Ripristino dell'elenco"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton.In Text
 msgctxt ",3B8DEE5B4473233FCF93628DED40F9B2"
 msgid "加工台"
-msgstr "Tavolo da lavoro"
+msgstr "Banco da lavoro base"
 
 #. Key:	3BDD98F042F6D5D8B6C8A98E13FD0D5B
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_3.In Text
@@ -1999,7 +1999,7 @@ msgstr "Tasso di distruzione"
 #: /Game/Blueprint/UMG/EscMenu/ScreenSwitch.ScreenSwitch.DisplayNameMap(0 - Value).DisplayNameMap
 msgctxt ",5E098A8946EBB7A59DF5BD89A73B1B12"
 msgid "ScreenSet"
-msgstr "Impostazioni dello schermo"
+msgstr "Impostazioni video"
 
 #. Key:	5E1ED50C47DD8CFA5174619CFC27D2F2
 #. SourceLocation:	/Game/Blueprint/UMG/EscMenu/WBP_Setting.Default__WBP_Setting_C.Setting(3).Setting
@@ -2503,7 +2503,7 @@ msgstr "R"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_12.In Text
 msgctxt ",746C15D045E29D89B01FB4B3C07BEA54"
 msgid "制药桌"
-msgstr "Tavolo medico"
+msgstr "Banco medico"
 
 #. Key:	750F8A8B49580EB2DBA6DFA86324F73F
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_ItemList.WBP_ItemList_C:WidgetTree.TextBlock_1.Text
@@ -2811,7 +2811,7 @@ msgstr "Forza"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_51.In Text
 msgctxt ",81AB2C40433BB1ED045FCEA35270BF88"
 msgid "机械加工台"
-msgstr "Tavolo da lavoro"
+msgstr "Banco da lavoro avanzato"
 
 #. Key:	82540EE94040D3082E3DEDB3815DC2C0
 #. SourceLocation:	/Game/Blueprint/ACF/Data/TableAsset/FoodAssetTable.FoodAssetTable.机修（五卷）.Name_33_B65BC8D64E83EF46F5F21FA5566C3997
@@ -3168,7 +3168,7 @@ msgstr "Difesa della testa"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_14.In Text
 msgctxt ",98BCDB424BE26E715DFD64AD69017AD9"
 msgid "木箱架"
-msgstr "Box in legno"
+msgstr "Cassa di legno"
 
 #. Key:	990659C84BB9A39ED0C5DA92F26B3EF6
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_GameSetting.WBP_GameSetting_C:WidgetTree.ShowTex_12.Text
@@ -3434,7 +3434,7 @@ msgstr "Per favore, inserisci la password"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_77.In Text
 msgctxt ",A8E8CFFB476DD19AE2F12BA0D0D8658C"
 msgid "烹饪台"
-msgstr "Tavolo da cucina"
+msgstr "Fornello elettrico"
 
 #. Key:	A986B3D14B33762D4721F68A12C306D5
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(11 - Value).DisplayNameMap
@@ -4645,7 +4645,7 @@ msgstr "Arredamento"
 #: /Game/Blueprint/UMG/Furniture/WBP_ShowDCZ.WBP_ShowDCZ_C:WidgetTree.Name.Text
 msgctxt ",E2E0964B4D190CE50F62B589079F730D"
 msgid "电池组"
-msgstr "Batteria"
+msgstr "Stazione di ricarica"
 
 #. Key:	E31C6DA3490AA4EB9661B184FAD08B65
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_19.Text
@@ -5352,7 +5352,7 @@ msgstr "Per collegare i tetti agli angoli esterni."
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_53.In Text
 msgctxt ",FF2F50414387532F4542DC831B775CDC"
 msgid "电池组"
-msgstr "Batteria"
+msgstr "Stazione di ricarica"
 
 #. Key:	FF6D9D984410E358463571857E617164
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/Furniture_Base.Default__Furniture_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
@@ -5548,7 +5548,7 @@ msgstr "Scala universale in legno per esterni"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",PHQ"
 msgid "喷火器"
-msgstr "lanciafiamme"
+msgstr "Lanciafiamme"
 
 #. Key:	QT
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5982,7 +5982,7 @@ msgstr "Scale in legno."
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",TDC"
 msgid "铁地刺"
-msgstr "Spina di ferro"
+msgstr "Spuntoni di ferro"
 
 #. Key:	TieJuMa
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -6150,7 +6150,7 @@ msgstr "Sembra molto robusto e in grado di sopportare un peso considerevole."
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",XZDP"
 msgid "旋转刀片"
-msgstr "lama rotante"
+msgstr "Lama rotante"
 
 #. Key:	B1
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6332,7 +6332,7 @@ msgstr "Falò"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B32"
 msgid "木箱"
-msgstr "Box in legno"
+msgstr "Cassa di legno"
 
 #. Key:	B33
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6346,14 +6346,14 @@ msgstr "Scaffale in legno"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B34"
 msgid "加工台"
-msgstr "Tavolo da lavoro"
+msgstr "Banco da lavoro base"
 
 #. Key:	B35
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B35"
 msgid "机械加工台"
-msgstr "Tavolo da lavoro"
+msgstr "Banco da lavoro avanzato"
 
 #. Key:	B36
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6409,7 +6409,7 @@ msgstr "Depuratore dell'acqua"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B42"
 msgid "电池组"
-msgstr "Batteria"
+msgstr "Stazione di ricarica"
 
 #. Key:	B43
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6458,7 +6458,7 @@ msgstr "Fornace a carbone"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B49"
 msgid "烹饪台"
-msgstr "Tavolo da cucina"
+msgstr "Fornello elettrico"
 
 #. Key:	B5
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6479,7 +6479,7 @@ msgstr "Frigorifero"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B51"
 msgid "制药桌"
-msgstr "Tavolo medico"
+msgstr "Banco medico"
 
 #. Key:	B52
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6493,7 +6493,7 @@ msgstr "Strumenti farmaceutici"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B53"
 msgid "化学反应台"
-msgstr "Tavolo chimico"
+msgstr "Banco chimico"
 
 #. Key:	B54
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6514,7 +6514,7 @@ msgstr "Telaio"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B56"
 msgid "制衣台"
-msgstr "Tavolo da cucito"
+msgstr "Conceria"
 
 #. Key:	B57
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6605,7 +6605,7 @@ msgstr "Interruttore"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B68"
 msgid "草席"
-msgstr "Tappeto di paglia"
+msgstr "Giaciglio di paglia"
 
 #. Key:	B69
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6738,7 +6738,7 @@ msgstr "Deposito ramoscelli"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B85"
 msgid "石头框"
-msgstr "Cornice di pietra"
+msgstr "Deposito di pietre"
 
 #. Key:	B86
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6773,14 +6773,14 @@ msgstr "Pavimento in cemento"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,BL"
 msgid "壁炉"
-msgstr "camino"
+msgstr "Camino"
 
 #. Key:	CTG
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,CTG"
 msgid "床头柜"
-msgstr "comodino"
+msgstr "Comodino"
 
 #. Key:	D01
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6801,28 +6801,28 @@ msgstr "Trappola di tronchi"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,DT01"
 msgid "小地毯"
-msgstr "tappeto"
+msgstr "Tappeto"
 
 #. Key:	DT02
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,DT02"
 msgid "大地毯"
-msgstr "grande tappeto"
+msgstr "Tappeto grande"
 
 #. Key:	GH
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,GH"
 msgid "画"
-msgstr "pittura"
+msgstr "Dipinto"
 
 #. Key:	HP
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,HP"
 msgid "花瓶"
-msgstr "vaso"
+msgstr "Vaso"
 
 #. Key:	ldd
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6836,21 +6836,21 @@ msgstr "lampada da pavimento"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,ldz"
 msgid "领地桌"
-msgstr "tavola del territorio"
+msgstr "Banco rivendicazione territorio"
 
 #. Key:	LT
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,LT"
 msgid "鹿头装饰"
-msgstr "decorazione testa di cervo"
+msgstr "Testa di cervo impagliata"
 
 #. Key:	LY
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,LY"
 msgid "狼头装饰"
-msgstr "decorazione della testa di lupo"
+msgstr "Testa di lupo impagliata"
 
 #. Key:	MTHL
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6864,7 +6864,7 @@ msgstr "Fascio (tre griglie)"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,PZ"
 msgid "盆栽"
-msgstr "pianta in vaso"
+msgstr "Pianta in vaso"
 
 #. Key:	SNHL
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6892,7 +6892,7 @@ msgstr "lampada da scrivania"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,XT"
 msgid "熊头装饰"
-msgstr "decorazione della testa dell'orso"
+msgstr "Testa d'orso impagliata"
 
 #. Key:	YG
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6906,7 +6906,7 @@ msgstr "Armadio"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,ZT"
 msgid "猪头装饰"
-msgstr "decorazione della testa di maiale"
+msgstr "Testa di maiale impagliata"
 
 #. Key:	A1
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7830,7 +7830,7 @@ msgstr "Fungo"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F60"
 msgid "有效治疗疟疾"
-msgstr "Trattamento efficace per la malaria"
+msgstr "Trattamento efficace per la dissenteria"
 
 #. Key:	F61
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9076,7 +9076,7 @@ msgstr "Pentola"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,T10"
 msgid "绑带"
-msgstr "Nastro adesivo"
+msgstr "Bendaggio"
 
 #. Key:	T11
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9104,7 +9104,7 @@ msgstr "Medicina per la dissenteria"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,T14"
 msgid "治疗疟疾"
-msgstr "Trattamento efficace per la malaria"
+msgstr "Trattamento efficace per la dissenteria"
 
 #. Key:	T15
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9664,7 +9664,7 @@ msgstr "testa di maiale perfetta"
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,01"
 msgid "当食物新鲜度开始变黄，吃下去可能会感染疟疾，新鲜度越低感染的可能性越大。"
-msgstr "Quando gli alimenti iniziano a ingiallire, si può contrarre la malaria se si mangiano, e più bassa è la freschezza, maggiore è la probabilità di infezione."
+msgstr "Quando gli alimenti iniziano a ingiallire, si può contrarre la dissenteria se si mangiano, e più bassa è la freschezza, maggiore è la probabilità di infezione."
 
 #. Key:	02
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -10315,7 +10315,7 @@ msgstr "Materiali di consumo:"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,ControlSet"
 msgid "控制设置"
-msgstr "Impostazioni di controllo"
+msgstr "Comandi"
 
 #. Key:	cook
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10749,7 +10749,7 @@ msgstr "Ripara"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,FKS"
 msgid "脱离卡死"
-msgstr "Interruzione della funzione"
+msgstr "Sblocca personaggio"
 
 #. Key:	FRCU01
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11743,7 +11743,7 @@ msgstr "Pacchetto regalo per i principianti"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,NJ"
 msgid "疟疾"
-msgstr "Malaria"
+msgstr "Dissenteria"
 
 #. Key:	NLSX
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12317,7 +12317,7 @@ msgstr "Ciclo di attacco dell'ondata di zombie"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,ScreenSet"
 msgid "画面设置"
-msgstr "Impostazioni dello schermo"
+msgstr "Impostazioni video"
 
 #. Key:	SD
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -13192,21 +13192,21 @@ msgstr "Costruisci con un martello da costruzione"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,useHXFYT"
 msgid "在化学反应台制作"
-msgstr "Realizzato con un reattore chimico"
+msgstr "Realizzato utilizzando un banco chimico"
 
 #. Key:	useJGT
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,useJGT"
 msgid "使用加工台制作"
-msgstr "Realizzato utilizzando un tavolo di lavorazione"
+msgstr "Realizzato utilizzando un banco da lavoro"
 
 #. Key:	useJXJGT
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,useJXJGT"
 msgid "使用机械加工台制作"
-msgstr "Realizzato con tavolo di lavorazione"
+msgstr "Realizzato utilizzando un banco da lavoro avanzato"
 
 #. Key:	useMTL
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -13220,7 +13220,7 @@ msgstr "Brucia in una stufa a carbone"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,useNYGJT"
 msgid "使用农业工具台制作"
-msgstr "Realizzato con la panca per attrezzi agricoli"
+msgstr "Realizzato utilizzando un banco da lavoro ad uso agricolo"
 
 #. Key:	useRLL
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -13241,7 +13241,7 @@ msgstr "Prodotto con strumenti farmaceutici"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,useZYZ"
 msgid "在制药桌制作"
-msgstr "Realizzato al tavolo medico"
+msgstr "Realizzato utilizzando un banco medico"
 
 #. Key:	viralinfection
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -13654,7 +13654,7 @@ msgstr "Vegetazione"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,ZBJ"
 msgid "在织布机制作"
-msgstr "Realizzato al telaio"
+msgstr "Realizzato utilizzando un telaio"
 
 #. Key:	ZBMD
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -13760,4 +13760,3 @@ msgstr "Volume totale"
 msgctxt "UI,ZZ"
 msgid "一小包种子"
 msgstr "Una piccola confezione di semi"
-
