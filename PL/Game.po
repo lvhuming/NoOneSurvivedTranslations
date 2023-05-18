@@ -319,7 +319,7 @@ msgstr "Prawdopodobieństwo zatrucia pokarmowego"
 #: /Game/Blueprint/ACF/Item/Food/AutoCreate/BP_Food_GYC.Default__BP_Food_GYC_C.ItemInfo.Name
 msgctxt ",0D071C604EF62B9B8BD4DBA90D8C6C19"
 msgid "香菇"
-msgstr ""
+msgstr "Grzyb"
 
 #. Key:	0D2F9EF34F24FE1D4DE8229B65941BC4
 #. SourceLocation:	/Game/Blueprint/ACF/Player/HDCK_CharacterBP.Default__HDCK_CharacterBP_C.TimeBuffDetail(0).TimeBuffDetail.TipMessage_56_5402F47A4785659B27440099C7CA676D
@@ -858,7 +858,7 @@ msgstr "Wszystko"
 #: /Game/Blueprint/ACF/Item/Weapon/Spear/BP_SpearShoot_G.Default__BP_SpearShoot_G_C.ItemInfo.Name
 msgctxt ",2567BA66467FA0124149A1A25BCB14BE"
 msgid "木矛"
-msgstr ""
+msgstr "Drewniana włócznia"
 
 #. Key:	257D695A47DEEA3FFC5862BD1084FDE4
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_43.Text
@@ -1110,14 +1110,14 @@ msgstr "Żelazny sztylet"
 #: /Game/Blueprint/ACF/Item/Weapon/ShortSharp/BP_Knife01.Default__BP_Knife01_C.ItemInfo.Name
 msgctxt ",3107C0BA472876937A879A9E8DF0EC46"
 msgid "短的单手刀"
-msgstr ""
+msgstr "Krótki nóż"
 
 #. Key:	31375F064F06557D8403A490537737FA
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_Stone.Default__Roof_20_intersection_Stone_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 #: /Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_Stone.Default__Roof_20_intersection_Stone_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 msgctxt ",31375F064F06557D8403A490537737FA"
 msgid "用于连接外转角屋顶。"
-msgstr ""
+msgstr "Zewnętrzny łącznik narożnych dachów"
 
 #. Key:	31871561446D15B0848CB38F354B0318
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Foundation_SN.Default__Foundation_SN_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
@@ -1691,7 +1691,7 @@ msgstr "Automatyczny"
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_SG.Default__Furniture_SG_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",502BA34641C3778E1B5720AF2FFD5536"
 msgid "提示信息"
-msgstr ""
+msgstr "Szybka podpowiedź"
 
 #. Key:	508A302D479171AD2AFCB5BDF7BF0BD4
 #. SourceLocation:	/Game/Blueprint/ACF/Player/HDCK_CharacterBP.Default__HDCK_CharacterBP_C.TimeBuffDetail(1).TimeBuffDetail.TipMessage_56_5402F47A4785659B27440099C7CA676D
@@ -2090,7 +2090,7 @@ msgstr "Jedzenie"
 #: /Game/Blueprint/ACF/Item/Weapon/Spear/BP_SpearShoot_Wood.Default__BP_SpearShoot_Wood_C.ItemInfo.Name
 msgctxt ",623686664AE594720E82029B55EEDF5F"
 msgid "木矛"
-msgstr ""
+msgstr "Drewniana włócznia"
 
 #. Key:	624E2BB84562A36C89BA4B8C51A5AA70
 #. SourceLocation:	/Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(6).Mappings.PlayerMappableOptions.DisplayName
@@ -2888,7 +2888,7 @@ msgstr "Naprawa maszyn (Tom 2)"
 #: /Game/Blueprint/UMG/Furniture/WBP_DCZDetail.WBP_DCZDetail_C:WidgetTree.TextBlock_233.Text
 msgctxt ",867940C94407F9B1E6580C8C164DED1C"
 msgid "电量:"
-msgstr "Moc:"
+msgstr "Pobór prądu: "
 
 #. Key:	8710C0014D4869B4CBF99993FFD25E15
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_19.In Text
@@ -2902,7 +2902,7 @@ msgstr "Epinefryna"
 #: /Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_Shotgun_870AC.Default__ACFGunBase_Shotgun_870AC_C.ItemInfo.Name
 msgctxt ",873FB7254846DFA35E3A159332C917E2"
 msgid "870AC霰弹枪"
-msgstr "strzelba 870AC"
+msgstr "Strzelba 870AC"
 
 #. Key:	89132394498B7996A54198A9006A847B
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_39.In Text
@@ -3224,7 +3224,7 @@ msgstr "Beczka fermentacyjna"
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_DPTD.Default__Furniture_DPTD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",9CCFB08B4C80EAD1EB3ED0A0EC6B95FC"
 msgid "地板"
-msgstr ""
+msgstr "Podłoga"
 
 #. Key:	9D3F81C54102184380CBC1AE93CB0064
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/WBP_Main.WBP_Main_C:ExecuteUbergraph_WBP_Main [Script Bytecode]
@@ -3462,7 +3462,7 @@ msgstr "Zakrzywiony łuk"
 #: /Game/Blueprint/ACF/Item/Weapon/ShortSharp/BP_Knife02.Default__BP_Knife02_C.ItemInfo.Name
 msgctxt ",AA953644467BAD51AA1051B181786611"
 msgid "短的单手刀"
-msgstr ""
+msgstr "Krótki nóż"
 
 #. Key:	AA9BF92049C17658D82A79869973E366
 #. SourceLocation:	/Game/Blueprint/UMG/Inventory/WBP_ItemButton.WBP_ItemButton_C:WidgetTree.PressNum_1.Text
@@ -4442,7 +4442,7 @@ msgstr "Higiena-"
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_Bed.Default__Furniture_Bed_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",D9FB409343783011851859B6A61240D5"
 msgid "提示信息"
-msgstr ""
+msgstr "Szybka podpowiedź"
 
 #. Key:	DA01CCEB4FCE0A10153ADBA352E6C952
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_88.In Text
@@ -4456,7 +4456,7 @@ msgstr "Młot stalowy"
 #: /Game/HDCKBuildingSystem/Blueprints/Base/BuildMeshBase.Default__BuildMeshBase_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",DA76A68842D939CD40D943A24231BEB6"
 msgid "提示信息"
-msgstr "Porady"
+msgstr "Szybka podpowiedź"
 
 #. Key:	DAB471E84209B1F415E38190944B2064
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_MakeBase.Default__Furniture_MakeBase_C.BuildInfo.Name_38_B9A5B2DC4FBEF03FBCA85592B802C50C
@@ -4764,7 +4764,7 @@ msgstr "Tego przedmiotu nie można tutaj założyć"
 #: /Game/Blueprint/ACF/Item/Weapon/Spear/BP_SpearShoot_Iron.Default__BP_SpearShoot_Iron_C.ItemInfo.Name
 msgctxt ",E81D1BFE4B45430459EE28B9401FCC1A"
 msgid "木矛"
-msgstr ""
+msgstr "Drewniana włócznia"
 
 #. Key:	E81FD1D8493C6CD9E2470F97A822FFEA
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_27.In Text
@@ -5072,7 +5072,7 @@ msgstr "Niezwykle silny"
 #: /Game/Blueprint/ACF/Item/Food/AutoCreate/BP_Food_GYC.Default__BP_Food_GYC_C.ItemInfo.Description
 msgctxt ",F4BA4D774CD78BC78E11A4A8D56844DD"
 msgid "食物"
-msgstr ""
+msgstr "Żywność"
 
 #. Key:	F4BF7A6C48622D449AFBF195173F9A89
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/WBP_RoomSlot.WBP_RoomSlot_C:ExecuteUbergraph_WBP_RoomSlot [Script Bytecode]
