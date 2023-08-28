@@ -1,22 +1,17 @@
-# Game Russian translation.
+﻿# Game Russian translation.
 # Copyright Epic Games, Inc. All Rights Reserved.
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: noonesurvived\n"
-"POT-Creation-Date: 2023-04-24 05:58\n"
-"PO-Revision-Date: 2023-07-07 17:44\n"
-"Language-Team: Russian\n"
+"Project-Id-Version: Game\n"
+"POT-Creation-Date: 2023-08-28 03:41\n"
+"PO-Revision-Date: 2023-08-28 03:41\n"
+"Language-Team: \n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
-"X-Crowdin-Project: noonesurvived\n"
-"X-Crowdin-Project-ID: 567073\n"
-"X-Crowdin-Language: ru\n"
-"X-Crowdin-File: Game.po\n"
-"X-Crowdin-File-ID: 9\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 #. Key:	005986EF48789316B83C53885CBD1FB8
 #. SourceLocation:	/Game/Blueprint/UMG/Inventory/WBP_UseMenu.WBP_UseMenu_C:WidgetTree.TextBlock_9.Text
@@ -228,6 +223,13 @@ msgctxt ",0928DBE0408A27E207C2D29145B40B53"
 msgid "满状态+"
 msgstr "Макс. показатели+"
 
+#. Key:	093D0B9849E3D3C7993367AA26F7F23C
+#. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_Wood.Default__Roof_20_intersection_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
+#: /Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_Wood.Default__Roof_20_intersection_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
+msgctxt ",093D0B9849E3D3C7993367AA26F7F23C"
+msgid "用于连接外转角屋顶。"
+msgstr "Для соединения наружных угловых крыш."
+
 #. Key:	096D56544FDEF1DB6D35EF95D685CC18
 #. SourceLocation:	/Game/Blueprint/ACF/Player/HDCK_CharacterBP.HDCK_CharacterBP_C:ExecuteUbergraph_HDCK_CharacterBP [Script Bytecode]
 #: /Game/Blueprint/ACF/Player/HDCK_CharacterBP.HDCK_CharacterBP_C:ExecuteUbergraph_HDCK_CharacterBP [Script Bytecode]
@@ -241,6 +243,13 @@ msgstr "Успешно сохранено!"
 msgctxt ",09DD6DFF4B84F639A3A1B4B608B3E6C2"
 msgid "Day 401"
 msgstr "День 401"
+
+#. Key:	0A18A7474514104A399EB585222EC013
+#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Spear/BP_SpearShoot_Wood.Default__BP_SpearShoot_Wood_C.ItemInfo.Name
+#: /Game/Blueprint/ACF/Item/Weapon/Spear/BP_SpearShoot_Wood.Default__BP_SpearShoot_Wood_C.ItemInfo.Name
+msgctxt ",0A18A7474514104A399EB585222EC013"
+msgid "木矛"
+msgstr "деревянное копье"
 
 #. Key:	0A1B65064219DCA393D97DADDE5CB235
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_ZJ.Furniture_ZJ_C:ExecuteUbergraph_Furniture_ZJ [Script Bytecode]
@@ -262,6 +271,13 @@ msgstr "Настенный"
 msgctxt ",0A9EF82149C98B2F8FD4118A4E70E863"
 msgid "型号01"
 msgstr "Модель 01"
+
+#. Key:	0AC27DF84DF65DDBD528D188A1449E7D
+#. SourceLocation:	/Game/Blueprint/ACF/Item/Food/AutoCreate/BP_Food_CYC.Default__BP_Food_CYC_C.ItemInfo.Name
+#: /Game/Blueprint/ACF/Item/Food/AutoCreate/BP_Food_CYC.Default__BP_Food_CYC_C.ItemInfo.Name
+msgctxt ",0AC27DF84DF65DDBD528D188A1449E7D"
+msgid "香菇"
+msgstr "гриб"
 
 #. Key:	0B2F59094BD0F41F171D79A81E00FDE6
 #. SourceLocation:	/Game/Blueprint/UMG/EscMenu/WBP_EscMenu.WBP_EscMenu_C:WidgetTree.TextBlock_55.Text
@@ -319,13 +335,6 @@ msgctxt ",0C797E8E40ACBD720B57B4B33B461ADD"
 msgid "疟疾几率"
 msgstr "Шанс дизентерии"
 
-#. Key:	0D071C604EF62B9B8BD4DBA90D8C6C19
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Food/AutoCreate/BP_Food_GYC.Default__BP_Food_GYC_C.ItemInfo.Name
-#: /Game/Blueprint/ACF/Item/Food/AutoCreate/BP_Food_GYC.Default__BP_Food_GYC_C.ItemInfo.Name
-msgctxt ",0D071C604EF62B9B8BD4DBA90D8C6C19"
-msgid "香菇"
-msgstr "Грибы"
-
 #. Key:	0D2F9EF34F24FE1D4DE8229B65941BC4
 #. SourceLocation:	/Game/Blueprint/ACF/Player/HDCK_CharacterBP.Default__HDCK_CharacterBP_C.TimeBuffDetail(0).TimeBuffDetail.TipMessage_56_5402F47A4785659B27440099C7CA676D
 #: /Game/Blueprint/ACF/Player/HDCK_CharacterBP.Default__HDCK_CharacterBP_C.TimeBuffDetail(0).TimeBuffDetail.TipMessage_56_5402F47A4785659B27440099C7CA676D
@@ -339,6 +348,13 @@ msgstr "Дизентерия снижает макс. выносливости �
 msgctxt ",0EAC4CF84F900A49A09DE09F240307B5"
 msgid "硬直抗性"
 msgstr "Защита брони"
+
+#. Key:	0EE138FF4DBC43D454E960A79C469FCE
+#. SourceLocation:	/Game/Blueprint/AI/NPC/NPCBase.Default__NPCBase_C.CharacterName
+#: /Game/Blueprint/AI/NPC/NPCBase.Default__NPCBase_C.CharacterName
+msgctxt ",0EE138FF4DBC43D454E960A79C469FCE"
+msgid "TUFEI"
+msgstr "куст"
 
 #. Key:	0EE4296D4AE97E2F2B01F4A0EC0AB712
 #. SourceLocation:	/Game/Blueprint/ACF/Player/HDCK_GameState.Default__HDCK_GameState_C:Team Manager.Teams(0 - Value).Teams.DisplayName
@@ -458,6 +474,13 @@ msgstr "123"
 msgctxt ",13B3716B406E9569507DF4AD56A4F16C"
 msgid "注水口"
 msgstr "Залить"
+
+#. Key:	13D3ACD4431B9F81C0A80FA42595F195
+#. SourceLocation:	/Game/Blueprint/AI/NPC/NPC_03.Default__NPC_03_C.CharacterName
+#: /Game/Blueprint/AI/NPC/NPC_03.Default__NPC_03_C.CharacterName
+msgctxt ",13D3ACD4431B9F81C0A80FA42595F195"
+msgid "TUFEI"
+msgstr "куст"
 
 #. Key:	1470933545C7CA2F2EB2BCA1D91B3008
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_71.In Text
@@ -725,19 +748,19 @@ msgctxt ",1E0FBF7844EF560D63174E9EC185B809"
 msgid "此物品无法装备在这"
 msgstr "Этот предмет нельзя экипировать здесь"
 
-#. Key:	1E1424C246AA03A9636E0398AD8C1852
-#. SourceLocation:	/Game/Blueprint/UMG/EscMenu/WBP_ControlSetting.WBP_ControlSetting_C:WidgetTree.WBP_SlideMouse_1.Show In Text
-#: /Game/Blueprint/UMG/EscMenu/WBP_ControlSetting.WBP_ControlSetting_C:WidgetTree.WBP_SlideMouse_1.Show In Text
-msgctxt ",1E1424C246AA03A9636E0398AD8C1852"
-msgid "开镜鼠标灵敏度"
-msgstr "Чувствительность мыши"
-
 #. Key:	1E15A74C4CFCF57B6BF8899EB8A30A50
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Materials/AutoCreate/BP_Mat_Sheep01.Default__BP_Mat_Sheep01_C.ItemInfo.Name
 #: /Game/Blueprint/ACF/Item/Materials/AutoCreate/BP_Mat_Sheep01.Default__BP_Mat_Sheep01_C.ItemInfo.Name
 msgctxt ",1E15A74C4CFCF57B6BF8899EB8A30A50"
 msgid "羊毛"
 msgstr "Шерсть"
+
+#. Key:	1E8E3F7A479275C09135AA96C6DE2626
+#. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_SG.Default__Furniture_SG_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+#: /Game/HDCKBuildingSystem/MeshBP/Furniture_SG.Default__Furniture_SG_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+msgctxt ",1E8E3F7A479275C09135AA96C6DE2626"
+msgid "提示信息"
+msgstr "оперативная информация"
 
 #. Key:	1E9BEF8048FA538CA273F0868BC0ADCC
 #. SourceLocation:	/Game/Blueprint/UMG/WBP_BaseCharacter.WBP_BaseCharacter_C:WidgetTree.FY.Text
@@ -858,13 +881,6 @@ msgctxt ",255B70D241CAF1A285F57FA01C58F0BF"
 msgid "all"
 msgstr "все"
 
-#. Key:	2567BA66467FA0124149A1A25BCB14BE
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Spear/BP_SpearShoot_G.Default__BP_SpearShoot_G_C.ItemInfo.Name
-#: /Game/Blueprint/ACF/Item/Weapon/Spear/BP_SpearShoot_G.Default__BP_SpearShoot_G_C.ItemInfo.Name
-msgctxt ",2567BA66467FA0124149A1A25BCB14BE"
-msgid "木矛"
-msgstr "деревянное копье"
-
 #. Key:	257D695A47DEEA3FFC5862BD1084FDE4
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_43.Text
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_43.Text
@@ -949,6 +965,13 @@ msgctxt ",2868B9554C079D0EFF670480D6C82D38"
 msgid "添加饲料"
 msgstr "Добавить корм"
 
+#. Key:	28D658514CA4B5E0194B54A460658A4B
+#. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/GuardRail_2.Default__GuardRail_2_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+#: /Game/HDCKBuildingSystem/Blueprints/Base/GuardRail_2.Default__GuardRail_2_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+msgctxt ",28D658514CA4B5E0194B54A460658A4B"
+msgid "提示信息"
+msgstr "оперативная информация"
+
 #. Key:	28FF919E49670ACE61590A92C65832EF
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/TipPasswordCheck.TipPasswordCheck_C:WidgetTree.PasswordNot.Text
 #: /Game/Blueprint/UMG/MainUI/Child/TipPasswordCheck.TipPasswordCheck_C:WidgetTree.PasswordNot.Text
@@ -962,6 +985,13 @@ msgstr "Неверный пароль!"
 msgctxt ",291BB8524A3F9AE1C2CFC684DAC4CE1D"
 msgid "钢箭"
 msgstr "Стальная стрела"
+
+#. Key:	293709574ECCB1307ACEC486F3E4D8AB
+#. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/Wall_Door.Default__Wall_Door_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+#: /Game/HDCKBuildingSystem/Blueprints/Base/Wall_Door.Default__Wall_Door_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+msgctxt ",293709574ECCB1307ACEC486F3E4D8AB"
+msgid "提示信息"
+msgstr "оперативная информация"
 
 #. Key:	2964AD47479FD74660CD0D8804857F13
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/StartUIEnum.StartUIEnum.DisplayNameMap(3 - Value).DisplayNameMap
@@ -1040,6 +1070,13 @@ msgctxt ",2D45AC2340F743E0200225ABC0688F37"
 msgid "99"
 msgstr "99"
 
+#. Key:	2D537CD7412F6289FFD138ADC5587BE5
+#. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/Wall_30.Default__Wall_30_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+#: /Game/HDCKBuildingSystem/Blueprints/Base/Wall_30.Default__Wall_30_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+msgctxt ",2D537CD7412F6289FFD138ADC5587BE5"
+msgid "提示信息"
+msgstr "оперативная информация"
+
 #. Key:	2DAB35E643134B1AA825ACA13C74DE1F
 #. SourceLocation:	/Game/Blueprint/ACF/Player/HDCK_GameState.Default__HDCK_GameState_C:Team Manager.Teams(6 - Value).Teams.DisplayName
 #: /Game/Blueprint/ACF/Player/HDCK_GameState.Default__HDCK_GameState_C:Team Manager.Teams(6 - Value).Teams.DisplayName
@@ -1089,12 +1126,26 @@ msgctxt ",2ECDFCFA49898CD10A445C8EF1757C70"
 msgid "按下W,A,S,D来移动角色"
 msgstr "Нажмите W, A, S, D, чтобы переместить персонажа"
 
+#. Key:	2EDAE6534DFFC56101BB7CADCFC5B6C8
+#. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/RoofEndVertical_20.Default__RoofEndVertical_20_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+#: /Game/HDCKBuildingSystem/Blueprints/Base/RoofEndVertical_20.Default__RoofEndVertical_20_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+msgctxt ",2EDAE6534DFFC56101BB7CADCFC5B6C8"
+msgid "提示信息"
+msgstr "оперативная информация"
+
 #. Key:	2F32F7184EE08293DDC575A2F524D414
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_HandGun_Magnum.Default__ACFGunBase_HandGun_Magnum_C.ItemInfo.Name
 #: /Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_HandGun_Magnum.Default__ACFGunBase_HandGun_Magnum_C.ItemInfo.Name
 msgctxt ",2F32F7184EE08293DDC575A2F524D414"
 msgid "左轮手枪"
 msgstr "револьвер"
+
+#. Key:	2F43FA9F4D0E5E6A9FC6A898E88E47CF
+#. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/RoofEnd_02.Default__RoofEnd_02_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+#: /Game/HDCKBuildingSystem/Blueprints/Base/RoofEnd_02.Default__RoofEnd_02_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+msgctxt ",2F43FA9F4D0E5E6A9FC6A898E88E47CF"
+msgid "提示信息"
+msgstr "оперативная информация"
 
 #. Key:	2F46E1564B04071A0A7C099CB780BDDF
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_8.Text
@@ -1110,33 +1161,19 @@ msgctxt ",3051ED674341FDB383BE0B83E0E7BD19"
 msgid "铁制匕首"
 msgstr "Железный кинжал"
 
-#. Key:	3107C0BA472876937A879A9E8DF0EC46
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/ShortSharp/BP_Knife01.Default__BP_Knife01_C.ItemInfo.Name
-#: /Game/Blueprint/ACF/Item/Weapon/ShortSharp/BP_Knife01.Default__BP_Knife01_C.ItemInfo.Name
-msgctxt ",3107C0BA472876937A879A9E8DF0EC46"
-msgid "短的单手刀"
-msgstr "короткий одноручный нож"
-
-#. Key:	31375F064F06557D8403A490537737FA
-#. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_Stone.Default__Roof_20_intersection_Stone_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-#: /Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_Stone.Default__Roof_20_intersection_Stone_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-msgctxt ",31375F064F06557D8403A490537737FA"
-msgid "用于连接外转角屋顶。"
-msgstr "Для соединения внешнего угла крыши"
-
-#. Key:	31871561446D15B0848CB38F354B0318
-#. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Foundation_SN.Default__Foundation_SN_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-#: /Game/HDCKBuildingSystem/MeshBP/Foundation_SN.Default__Foundation_SN_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-msgctxt ",31871561446D15B0848CB38F354B0318"
-msgid "水泥制作的地基，看起来很结实，可以承受相当多的重量。"
-msgstr "Фундамент из цемента, выглядит прочным и может выдерживать значительный вес."
-
 #. Key:	31891998465BE7550992549F82681FA0
 #. SourceLocation:	/Game/Blueprint/UMG/WBP_BaseCharacter.WBP_BaseCharacter_C:WidgetTree.KHX.Text
 #: /Game/Blueprint/UMG/WBP_BaseCharacter.WBP_BaseCharacter_C:WidgetTree.KHX.Text
 msgctxt ",31891998465BE7550992549F82681FA0"
 msgid "抗寒性"
 msgstr "Холодостойкость"
+
+#. Key:	31D070BB46C3AFBCA501ECAA47823771
+#. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_DP_XDD.Default__Furniture_DP_XDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+#: /Game/HDCKBuildingSystem/MeshBP/Furniture_DP_XDD.Default__Furniture_DP_XDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+msgctxt ",31D070BB46C3AFBCA501ECAA47823771"
+msgid "地板"
+msgstr "пол"
 
 #. Key:	3297DACB4D7AD7F6D94F9FAA441FCB59
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Book/AutoCreate/BP_Book_JXX04.Default__BP_Book_JXX04_C.ItemInfo.Name
@@ -1186,6 +1223,13 @@ msgstr "Создание точек возрождения"
 msgctxt ",345B92054EC055355AB3009E0BE9AED8"
 msgid "Roof45"
 msgstr "Крыша45"
+
+#. Key:	349C97FF41B409CF869A94BFB3C087A1
+#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/ACFGunBase_Rifle.Default__ACFGunBase_Rifle_C.ItemInfo.Name
+#: /Game/Blueprint/ACF/Item/Weapon/ACFGunBase_Rifle.Default__ACFGunBase_Rifle_C.ItemInfo.Name
+msgctxt ",349C97FF41B409CF869A94BFB3C087A1"
+msgid "M4步枪"
+msgstr "Винтовка М4"
 
 #. Key:	34BA075949BEF9CEFE77D392D7825102
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/WBP_StartButton.Default__WBP_StartButton_C.In Text
@@ -1242,6 +1286,13 @@ msgstr "После привыкания к огнестрельному оруж
 msgctxt ",36F28AD24381348428BD9687A35CBC18"
 msgid "胃病"
 msgstr "Проблемы с желудком"
+
+#. Key:	372C96A440487D850AECCA8862CC59DB
+#. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/Roof_20.Default__Roof_20_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+#: /Game/HDCKBuildingSystem/Blueprints/Base/Roof_20.Default__Roof_20_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+msgctxt ",372C96A440487D850AECCA8862CC59DB"
+msgid "提示信息"
+msgstr "оперативная информация"
 
 #. Key:	374DA59B4CB3A602561BC88A1FB70306
 #. SourceLocation:	/Game/Blueprint/UMG/WBP_BaseCharacter.WBP_BaseCharacter_C:WidgetTree.YZL.Text
@@ -1319,6 +1370,13 @@ msgstr "Железная стрела"
 msgctxt ",3A309EDE4B14D13B25BC2D97F0C97C71"
 msgid "chasing"
 msgstr "погоня"
+
+#. Key:	3A3CF7C2470AEB70471187A6091C0CFA
+#. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/Stairs_02.Default__Stairs_02_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+#: /Game/HDCKBuildingSystem/Blueprints/Base/Stairs_02.Default__Stairs_02_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+msgctxt ",3A3CF7C2470AEB70471187A6091C0CFA"
+msgid "提示信息"
+msgstr "оперативная информация"
 
 #. Key:	3A5A7CF64A92AEA9CFD151ADFA977830
 #. SourceLocation:	/Game/Blueprint/ACF/Tutorial/WBP_TutorialTip2.WBP_TutorialTip2_C:WidgetTree.TextBlock_53.Text
@@ -1614,6 +1672,13 @@ msgctxt ",4C0AF75643475A5E1E51C6BD31A169A0"
 msgid "地基"
 msgstr "Фундамент"
 
+#. Key:	4C73679343B4DF0362CCBE9DAAA0B9E9
+#. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/GuardRail_1.Default__GuardRail_1_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+#: /Game/HDCKBuildingSystem/Blueprints/Base/GuardRail_1.Default__GuardRail_1_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+msgctxt ",4C73679343B4DF0362CCBE9DAAA0B9E9"
+msgid "提示信息"
+msgstr "оперативная информация"
+
 #. Key:	4C76EF694649A6D17C88C180E127D011
 #. SourceLocation:	/Game/Blueprint/UMG/EscMenu/WBP_Button.WBP_Button_C:WidgetTree.TextBlock_0.Text
 #: /Game/Blueprint/UMG/EscMenu/WBP_Button.WBP_Button_C:WidgetTree.TextBlock_0.Text
@@ -1628,12 +1693,33 @@ msgctxt ",4C77DAF3497EBD62E6BD7CBE2D0D394A"
 msgid "燃油"
 msgstr "топливо"
 
+#. Key:	4CB122E740E0AB047EAF51A3BA19C6C7
+#. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/RoofEndHorizontal_Intersection.Default__RoofEndHorizontal_Intersection_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+#: /Game/HDCKBuildingSystem/Blueprints/Base/RoofEndHorizontal_Intersection.Default__RoofEndHorizontal_Intersection_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+msgctxt ",4CB122E740E0AB047EAF51A3BA19C6C7"
+msgid "提示信息"
+msgstr "оперативная информация"
+
+#. Key:	4CF6C12248EC28EC056584A1FB4EDF34
+#. SourceLocation:	/Game/Blueprint/ACF/Item/Food/AutoCreate/BP_Food_GYC.Default__BP_Food_GYC_C.ItemInfo.Description
+#: /Game/Blueprint/ACF/Item/Food/AutoCreate/BP_Food_GYC.Default__BP_Food_GYC_C.ItemInfo.Description
+msgctxt ",4CF6C12248EC28EC056584A1FB4EDF34"
+msgid "食物"
+msgstr "еда"
+
 #. Key:	4D63587648FCF9D34033C9A96CC1E408
 #. SourceLocation:	/Game/HDCKBuildingSystem/Table/E_SelectType.E_SelectType.DisplayNameMap(1 - Value).DisplayNameMap
 #: /Game/HDCKBuildingSystem/Table/E_SelectType.E_SelectType.DisplayNameMap(1 - Value).DisplayNameMap
 msgctxt ",4D63587648FCF9D34033C9A96CC1E408"
 msgid "make"
 msgstr "изготовить"
+
+#. Key:	4D959A154D5C17ABC216D2AFB763C8E3
+#. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/Roof_Top_Corner.Default__Roof_Top_Corner_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+#: /Game/HDCKBuildingSystem/Blueprints/Base/Roof_Top_Corner.Default__Roof_Top_Corner_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+msgctxt ",4D959A154D5C17ABC216D2AFB763C8E3"
+msgid "提示信息"
+msgstr "оперативная информация"
 
 #. Key:	4DE2155C45DCE36BF49919A06DAD7B06
 #. SourceLocation:	/Game/Blueprint/UMG/ChatSystem/WBP_ChatMenu.WBP_ChatMenu_C:WidgetTree.TextBlock_76.Text
@@ -1690,13 +1776,6 @@ msgstr "защита головы"
 msgctxt ",4FB41E114459F569BCE7BC99E7DB61C6"
 msgid "Auto"
 msgstr "Авто"
-
-#. Key:	502BA34641C3778E1B5720AF2FFD5536
-#. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_SG.Default__Furniture_SG_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
-#: /Game/HDCKBuildingSystem/MeshBP/Furniture_SG.Default__Furniture_SG_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
-msgctxt ",502BA34641C3778E1B5720AF2FFD5536"
-msgid "提示信息"
-msgstr "Советы"
 
 #. Key:	508A302D479171AD2AFCB5BDF7BF0BD4
 #. SourceLocation:	/Game/Blueprint/ACF/Player/HDCK_CharacterBP.Default__HDCK_CharacterBP_C.TimeBuffDetail(1).TimeBuffDetail.TipMessage_56_5402F47A4785659B27440099C7CA676D
@@ -1845,19 +1924,19 @@ msgctxt ",58CA3377422B02C724EF7E8B702B1083"
 msgid "钢撬棍"
 msgstr "стальной лом"
 
-#. Key:	58DD6F8043E899B72C1D10A1860B41B2
-#. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/OutStairs_Base_Wood.Default__OutStairs_Base_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-#: /Game/HDCKBuildingSystem/MeshBP/OutStairs_Base_Wood.Default__OutStairs_Base_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-msgctxt ",58DD6F8043E899B72C1D10A1860B41B2"
-msgid "建房必备"
-msgstr "Необходим для строительства дома"
-
 #. Key:	58F0265A40DBE9CFC7C484B4CAC7BEDC
 #. SourceLocation:	/Game/Blueprint/ACF/Tutorial/WBP_TutorialTip0.WBP_TutorialTip0_C:WidgetTree.TextBlock_2.Text
 #: /Game/Blueprint/ACF/Tutorial/WBP_TutorialTip0.WBP_TutorialTip0_C:WidgetTree.TextBlock_2.Text
 msgctxt ",58F0265A40DBE9CFC7C484B4CAC7BEDC"
 msgid "如果跌倒了，按下空格爬起"
 msgstr "Если вы упали, нажмите пробел, чтобы встать"
+
+#. Key:	5901CA9846DCB18E8D3E638DD4AB4288
+#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_sniper_SKS.Default__ACFGunBase_sniper_SKS_C.ItemInfo.Name
+#: /Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_sniper_SKS.Default__ACFGunBase_sniper_SKS_C.ItemInfo.Name
+msgctxt ",5901CA9846DCB18E8D3E638DD4AB4288"
+msgid "SKS"
+msgstr "СКС"
 
 #. Key:	5909FDD94497886779AC7197412B1F87
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/QK/BP_GunAccessoryQK_RifleBC02.Default__BP_GunAccessoryQK_RifleBC02_C.ItemInfo.Description
@@ -1872,6 +1951,13 @@ msgstr "Модель 02"
 msgctxt ",590B39C941F02271DB34EF8E862671DA"
 msgid "MP7A1冲锋枪"
 msgstr "Пистолет-пулемет MP7"
+
+#. Key:	594C5664408FA9557CCEC2AD5679EDAE
+#. SourceLocation:	/Game/Blueprint/AI/NPC/NPCBase.Default__NPCBase_C.Name
+#: /Game/Blueprint/AI/NPC/NPCBase.Default__NPCBase_C.Name
+msgctxt ",594C5664408FA9557CCEC2AD5679EDAE"
+msgid "None"
+msgstr "Никто"
 
 #. Key:	597318344B733EB7EA60D2A7DB6A2858
 #. SourceLocation:	/Game/Blueprint/UMG/ScreenMessage/WBP_CarMessage.WBP_CarMessage_C:WidgetTree.UnitLabel_1.Text
@@ -2076,6 +2162,13 @@ msgctxt ",6132AC50448990F25BA07BB77ED4C836"
 msgid "伤害增加"
 msgstr "Урон персонажа+"
 
+#. Key:	61A60EE54D9480EE12176D9C3DD8E233
+#. SourceLocation:	/Game/Blueprint/ACF/Item/Food/AutoCreate/BP_Food_GYC.Default__BP_Food_GYC_C.ItemInfo.Name
+#: /Game/Blueprint/ACF/Item/Food/AutoCreate/BP_Food_GYC.Default__BP_Food_GYC_C.ItemInfo.Name
+msgctxt ",61A60EE54D9480EE12176D9C3DD8E233"
+msgid "香菇"
+msgstr "гриб"
+
 #. Key:	61BE5B1F428EE964438DE4929A168CE5
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/Furniture_Inventory.Default__Furniture_Inventory_C.BuildInfo.TipAdsorbent_45_0277CC26494BF1319349189E27EC6190
 #: /Game/HDCKBuildingSystem/Blueprints/Base/Furniture_Inventory.Default__Furniture_Inventory_C.BuildInfo.TipAdsorbent_45_0277CC26494BF1319349189E27EC6190
@@ -2089,13 +2182,6 @@ msgstr "никто"
 msgctxt ",6218189848D827944348CA9BD6A0DCC1"
 msgid "食物"
 msgstr "Еда"
-
-#. Key:	623686664AE594720E82029B55EEDF5F
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Spear/BP_SpearShoot_Wood.Default__BP_SpearShoot_Wood_C.ItemInfo.Name
-#: /Game/Blueprint/ACF/Item/Weapon/Spear/BP_SpearShoot_Wood.Default__BP_SpearShoot_Wood_C.ItemInfo.Name
-msgctxt ",623686664AE594720E82029B55EEDF5F"
-msgid "木矛"
-msgstr "деревянное копье"
 
 #. Key:	624E2BB84562A36C89BA4B8C51A5AA70
 #. SourceLocation:	/Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(6).Mappings.PlayerMappableOptions.DisplayName
@@ -2223,12 +2309,26 @@ msgctxt ",68475427496E27E22A3F4DB608EF5675"
 msgid "开关"
 msgstr "Выключатель"
 
+#. Key:	68560FD1404E6D018EED458A0CE0CEF6
+#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/ShortSharp/BP_Knife02.Default__BP_Knife02_C.ItemInfo.Name
+#: /Game/Blueprint/ACF/Item/Weapon/ShortSharp/BP_Knife02.Default__BP_Knife02_C.ItemInfo.Name
+msgctxt ",68560FD1404E6D018EED458A0CE0CEF6"
+msgid "短的单手刀"
+msgstr "короткий одноручный нож"
+
 #. Key:	689295C64E66E89108EF7C9FA9DEB8E9
 #. SourceLocation:	/Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(7 - Value).DisplayNameMap
 #: /Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(7 - Value).DisplayNameMap
 msgctxt ",689295C64E66E89108EF7C9FA9DEB8E9"
 msgid "SitDownLeft"
 msgstr "Сидит слева"
+
+#. Key:	68A3D6EE4AC370641D3ECEA2FEC0BCE5
+#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_sniper_SVD.Default__ACFGunBase_sniper_SVD_C.ItemInfo.Name
+#: /Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_sniper_SVD.Default__ACFGunBase_sniper_SVD_C.ItemInfo.Name
+msgctxt ",68A3D6EE4AC370641D3ECEA2FEC0BCE5"
+msgid "SVD"
+msgstr "СВД"
 
 #. Key:	68B1DF4E431AA9BF5648A5A255AFF703
 #. SourceLocation:	/Game/Blueprint/UMG/Make/WBP_Makeing.Default__WBP_Makeing_C.In Text
@@ -2313,6 +2413,13 @@ msgstr "Репутация: 50"
 msgctxt ",6B6E2B914267363D168051958D0E1DF6"
 msgid "主要用于砍树，必要时候也可以用来防身。"
 msgstr "Используется для вырубки деревьев, а также может использоваться для самообороны"
+
+#. Key:	6BC432844987C4ECBBE50C93276C74FE
+#. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Foundation_SN.Default__Foundation_SN_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
+#: /Game/HDCKBuildingSystem/MeshBP/Foundation_SN.Default__Foundation_SN_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
+msgctxt ",6BC432844987C4ECBBE50C93276C74FE"
+msgid "水泥制作的地基，看起来很结实，可以承受相当多的重量。"
+msgstr "Фундамент сделан из цемента, который выглядит прочным и может выдержать значительный вес."
 
 #. Key:	6BCC8EA647892C6DDF2E86BC4A37CA07
 #. SourceLocation:	/Game/Blueprint/ACF/Tutorial/WBP_TutorialTip1.WBP_TutorialTip1_C:WidgetTree.TextBlock_1.Text
@@ -2440,6 +2547,13 @@ msgctxt ",7071B2944E64F1D0A2537CA62BD591EB"
 msgid "搜索"
 msgstr "Обновить"
 
+#. Key:	7086737C4A1B737FFF1DC498B7DD48CC
+#. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_NPCAssign.WBP_NPCAssign_C:WidgetTree.Image_177.ToolTipText
+#: /Game/Blueprint/UMG/Furniture/WBP_NPCAssign.WBP_NPCAssign_C:WidgetTree.Image_177.ToolTipText
+msgctxt ",7086737C4A1B737FFF1DC498B7DD48CC"
+msgid "将两只性别不同且可繁殖的同种动物单独放在一个饲养栏里面，动物就有几率繁殖"
+msgstr "Поместите двух животных одного и того же вида, но разного пола, и они могут размножаться в одном загоне для разведения, и у животных будет возможность размножаться."
+
 #. Key:	708C444C46FBE1B6C976B38E7302A343
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_SPX.WBP_SPX_C:WidgetTree.Fertillzer.Text
 #: /Game/Blueprint/UMG/Furniture/WBP_SPX.WBP_SPX_C:WidgetTree.Fertillzer.Text
@@ -2489,12 +2603,12 @@ msgctxt ",721E365A451AAAA64D44B390CD6312C9"
 msgid "TEST"
 msgstr "ТЕСТ"
 
-#. Key:	72AC933F467C149A38442398EA98D0F0
-#. SourceLocation:	/Game/Blueprint/UMG/Inventory/WBP_UseMenu.Default__WBP_UseMenu_C.Item.ItemInfo.Name
-#: /Game/Blueprint/UMG/Inventory/WBP_UseMenu.Default__WBP_UseMenu_C.Item.ItemInfo.Name
-msgctxt ",72AC933F467C149A38442398EA98D0F0"
-msgid "NULL"
-msgstr "НУЛЕВОЙ"
+#. Key:	732429F04FE9EF56DB7BB3965B5D3B4A
+#. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/RoofEndTringer_Base.Default__RoofEndTringer_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+#: /Game/HDCKBuildingSystem/Blueprints/Base/RoofEndTringer_Base.Default__RoofEndTringer_Base_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+msgctxt ",732429F04FE9EF56DB7BB3965B5D3B4A"
+msgid "提示信息"
+msgstr "оперативная информация"
 
 #. Key:	735E15A146BDA95257D282903C633040
 #. SourceLocation:	/Game/Blueprint/UMG/ScreenMessage/WBP_CarMessage.WBP_CarMessage_C:UpdateShow [Script Bytecode]
@@ -2727,6 +2841,13 @@ msgctxt ",7DAD31A340C24CAF0DFCC18F7FB40DFB"
 msgid "型号01"
 msgstr "Модель 01"
 
+#. Key:	7DFF1646445476D76FA4279B406D92F5
+#. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/HorizontalBeam2GE.Default__HorizontalBeam2GE_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+#: /Game/HDCKBuildingSystem/Blueprints/Base/HorizontalBeam2GE.Default__HorizontalBeam2GE_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+msgctxt ",7DFF1646445476D76FA4279B406D92F5"
+msgid "提示信息"
+msgstr "оперативная информация"
+
 #. Key:	7E0D35D04487BF2FCA42F68796859048
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_18.Text
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_18.Text
@@ -2818,6 +2939,13 @@ msgctxt ",81AB2C40433BB1ED045FCEA35270BF88"
 msgid "机械加工台"
 msgstr "Техно-верстак"
 
+#. Key:	81B1B1BF48B4FC30A24C378A24192CA5
+#. SourceLocation:	/Game/HDCKBuildingSystem/LabourMeshBP/MiningChambers.Default__MiningChambers_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+#: /Game/HDCKBuildingSystem/LabourMeshBP/MiningChambers.Default__MiningChambers_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+msgctxt ",81B1B1BF48B4FC30A24C378A24192CA5"
+msgid "提示信息"
+msgstr "оперативная информация"
+
 #. Key:	82540EE94040D3082E3DEDB3815DC2C0
 #. SourceLocation:	/Game/Blueprint/ACF/Data/TableAsset/FoodAssetTable.FoodAssetTable.机修（五卷）.Name_33_B65BC8D64E83EF46F5F21FA5566C3997
 #: /Game/Blueprint/ACF/Data/TableAsset/FoodAssetTable.FoodAssetTable.机修（五卷）.Name_33_B65BC8D64E83EF46F5F21FA5566C3997
@@ -2836,20 +2964,8 @@ msgstr "Оружие"
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/WBP_Main.WBP_Main_C:WidgetTree.TextBlock_0.Text
 #: /Game/Blueprint/UMG/MainUI/WBP_Main.WBP_Main_C:WidgetTree.TextBlock_0.Text
 msgctxt ",836EB7AB40D4C893FD6B23A855BE4F36"
-msgid "公告：\r\n"
-"\r\n"
-"因为游戏采用了最新的UnrealEngine5引擎，为了获得最好的游戏体验，请将显卡驱动升级到最新版本。\r\n"
-"\r\n"
-"否则你可能会看到模型显示不完整等情况。\r\n"
-"\r\n"
-"感谢！"
-msgstr "Объявление:\r\n"
-"\r\n"
-"Поскольку в игре используется новейший движок UnrealEngine5, чтобы получить наилучшие игровые возможности, обновите драйвер видеокарты до последней версии.\r\n"
-"\r\n"
-"В противном случае вы можете увидеть неполное отображение модели и т. д.\r\n"
-"\r\n"
-"Благодарим!"
+msgid "公告：\r\n\r\n因为游戏采用了最新的UnrealEngine5引擎，为了获得最好的游戏体验，请将显卡驱动升级到最新版本。\r\n\r\n否则你可能会看到模型显示不完整等情况。\r\n\r\n感谢！"
+msgstr "Объявление:\r\n\r\nПоскольку в игре используется новейший движок UnrealEngine5, чтобы получить наилучшие игровые возможности, обновите драйвер видеокарты до последней версии.\r\n\r\nВ противном случае вы можете увидеть неполное отображение модели и т. д.\r\n\r\nБлагодарим!"
 
 #. Key:	83F46BF04B9C9DD831186F9C5C08D9AA
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(6 - Value).DisplayNameMap
@@ -2872,12 +2988,33 @@ msgctxt ",84947F6A4429C4DEC1463097ADF556FA"
 msgid "燃油发电机"
 msgstr "Топливный генератор"
 
+#. Key:	84DA59C24FA1EF6E8634B49AAC7310A9
+#. SourceLocation:	/Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(27).Mappings.PlayerMappableOptions.DisplayName
+#: /Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(27).Mappings.PlayerMappableOptions.DisplayName
+msgctxt ",84DA59C24FA1EF6E8634B49AAC7310A9"
+msgid "IA_AutoRun"
+msgstr "IA_AutoRun"
+
 #. Key:	85149FD54B55F3B6218485B6BA8F72FD
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_60.In Text
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_60.In Text
 msgctxt ",85149FD54B55F3B6218485B6BA8F72FD"
 msgid "精细零件"
 msgstr "мелкие детали"
+
+#. Key:	859065554ACF288CB29FCCA7760DF444
+#. SourceLocation:	/Game/Blueprint/AI/BanditsAI/BanditBase.Default__BanditBase_C.CharacterName
+#: /Game/Blueprint/AI/BanditsAI/BanditBase.Default__BanditBase_C.CharacterName
+msgctxt ",859065554ACF288CB29FCCA7760DF444"
+msgid "TUFEI"
+msgstr "куст"
+
+#. Key:	85D89B1A446DCA827E457A8CBD890CE2
+#. SourceLocation:	/Game/Blueprint/AI/NPC/NPC_02.Default__NPC_02_C.CharacterName
+#: /Game/Blueprint/AI/NPC/NPC_02.Default__NPC_02_C.CharacterName
+msgctxt ",85D89B1A446DCA827E457A8CBD890CE2"
+msgid "TUFEI"
+msgstr "куст"
 
 #. Key:	85DE22324C7068D83740A99089B247E1
 #. SourceLocation:	/Game/Blueprint/UMG/EscMenu/WBP_Setting.Default__WBP_Setting_C.Setting(0).Setting
@@ -2913,13 +3050,6 @@ msgstr "Заряд:"
 msgctxt ",8710C0014D4869B4CBF99993FFD25E15"
 msgid "肾上腺素"
 msgstr "адреналин"
-
-#. Key:	873FB7254846DFA35E3A159332C917E2
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_Shotgun_870AC.Default__ACFGunBase_Shotgun_870AC_C.ItemInfo.Name
-#: /Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_Shotgun_870AC.Default__ACFGunBase_Shotgun_870AC_C.ItemInfo.Name
-msgctxt ",873FB7254846DFA35E3A159332C917E2"
-msgid "870AC霰弹枪"
-msgstr "R870 дробовик"
 
 #. Key:	89132394498B7996A54198A9006A847B
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_39.In Text
@@ -2984,12 +3114,26 @@ msgctxt ",8AB657134BC71D80A664569881FBD37B"
 msgid "Null"
 msgstr "Нулевой"
 
+#. Key:	8B0EBE70459187F4B5B9B796F88AC2F9
+#. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_DPTD.Default__Furniture_DPTD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+#: /Game/HDCKBuildingSystem/MeshBP/Furniture_DPTD.Default__Furniture_DPTD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+msgctxt ",8B0EBE70459187F4B5B9B796F88AC2F9"
+msgid "地板"
+msgstr "пол"
+
 #. Key:	8C4494664EE8ADA1ABA9EC8FC937971C
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/E_AimType.E_AimType.DisplayNameMap(3 - Value).DisplayNameMap
 #: /Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/E_AimType.E_AimType.DisplayNameMap(3 - Value).DisplayNameMap
 msgctxt ",8C4494664EE8ADA1ABA9EC8FC937971C"
 msgid "Null"
 msgstr "Нулевой"
+
+#. Key:	8C7294F84D472245F1F4FAAC1DF11D29
+#. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/VerticalBeam_30.Default__VerticalBeam_30_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+#: /Game/HDCKBuildingSystem/Blueprints/Base/VerticalBeam_30.Default__VerticalBeam_30_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+msgctxt ",8C7294F84D472245F1F4FAAC1DF11D29"
+msgid "提示信息"
+msgstr "оперативная информация"
 
 #. Key:	8C76F3354A03EDF4BFBD1FB712E3A7F4
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_JGT.WBP_JGT_C:WidgetTree.Num.Text
@@ -3011,6 +3155,13 @@ msgstr "Медик+"
 msgctxt ",8D4C253441E4A1B23D31ABBE84ABCBF1"
 msgid "雨水收集器"
 msgstr "Сборщик дождевой воды"
+
+#. Key:	8DA940B441B8ED747E14F39BB1955866
+#. SourceLocation:	/Game/Blueprint/AI/BanditsAI/BanditBase_Shoot.Default__BanditBase_Shoot_C.CharacterName
+#: /Game/Blueprint/AI/BanditsAI/BanditBase_Shoot.Default__BanditBase_Shoot_C.CharacterName
+msgctxt ",8DA940B441B8ED747E14F39BB1955866"
+msgid "TUFEI"
+msgstr "куст"
 
 #. Key:	8DB992364730261D2222EBB5E748538F
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/WBP_RoomSlot.WBP_RoomSlot_C:WidgetTree.pING.Text
@@ -3074,6 +3225,13 @@ msgstr "1"
 msgctxt ",92A79EA54F019E7CFB67A49936AD53A4"
 msgid "型号02"
 msgstr "Модель 02"
+
+#. Key:	92DB89E34ED4636BAD31669151B5D6C6
+#. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/Roof_Top.Default__Roof_Top_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+#: /Game/HDCKBuildingSystem/Blueprints/Base/Roof_Top.Default__Roof_Top_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+msgctxt ",92DB89E34ED4636BAD31669151B5D6C6"
+msgid "提示信息"
+msgstr "оперативная информация"
 
 #. Key:	92DF8E7948C1E23BAAB968B3066CA1A9
 #. SourceLocation:	/Game/HDCKBuildingSystem/Table/BuildTable.BuildTable.OutStairs.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
@@ -3166,13 +3324,6 @@ msgctxt ",97DD2C4C46F23E523F6FDF9B1E9A37BD"
 msgid "M"
 msgstr "М"
 
-#. Key:	9819DC8F4487E08EF8B3B6B4868049BF
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_sniper_SKS.Default__ACFGunBase_sniper_SKS_C.ItemInfo.Name
-#: /Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_sniper_SKS.Default__ACFGunBase_sniper_SKS_C.ItemInfo.Name
-msgctxt ",9819DC8F4487E08EF8B3B6B4868049BF"
-msgid "SKS"
-msgstr "Винтовка СКС"
-
 #. Key:	982ACBDE482FBA10994EE68059C2A04A
 #. SourceLocation:	/Game/Blueprint/UMG/Make/WBP_MakeDetailShow.WBP_MakeDetailShow_C:WidgetTree.TBFY.Text
 #: /Game/Blueprint/UMG/Make/WBP_MakeDetailShow.WBP_MakeDetailShow_C:WidgetTree.TBFY.Text
@@ -3236,13 +3387,6 @@ msgctxt ",9C8DC67F48B1B4F6E7242FB302464676"
 msgid "酿酒桶"
 msgstr "Винная бочка"
 
-#. Key:	9CCFB08B4C80EAD1EB3ED0A0EC6B95FC
-#. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_DPTD.Default__Furniture_DPTD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
-#: /Game/HDCKBuildingSystem/MeshBP/Furniture_DPTD.Default__Furniture_DPTD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
-msgctxt ",9CCFB08B4C80EAD1EB3ED0A0EC6B95FC"
-msgid "地板"
-msgstr "Пол"
-
 #. Key:	9D3F81C54102184380CBC1AE93CB0064
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/WBP_Main.WBP_Main_C:ExecuteUbergraph_WBP_Main [Script Bytecode]
 #: /Game/Blueprint/UMG/MainUI/WBP_Main.WBP_Main_C:ExecuteUbergraph_WBP_Main [Script Bytecode]
@@ -3277,6 +3421,13 @@ msgstr "Макс. НР"
 msgctxt ",9E4555E2446FA6BB1EAA7BBB6F27FD8A"
 msgid "打开建筑菜单面板，选择木材地基"
 msgstr "Откройте панель меню «Строительство» и выберите «Деревянный фундамент»."
+
+#. Key:	9E4F95A84C35BB48347AA1AE858AAE33
+#. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/Roof_45_intersection.Default__Roof_45_intersection_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+#: /Game/HDCKBuildingSystem/Blueprints/Base/Roof_45_intersection.Default__Roof_45_intersection_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+msgctxt ",9E4F95A84C35BB48347AA1AE858AAE33"
+msgid "提示信息"
+msgstr "оперативная информация"
 
 #. Key:	9E632F8949F56E68D88F799607625386
 #. SourceLocation:	/Game/Blueprint/UMG/EscMenu/WBP_Dead.WBP_Dead_C:ExecuteUbergraph_WBP_Dead [Script Bytecode]
@@ -3425,12 +3576,26 @@ msgctxt ",A531484A4D7334448A41DF8CA71C2B71"
 msgid "试着将三种不同的食材放入锅中烹饪"
 msgstr "Попробуйте добавить три разных ингредиента в котелок"
 
+#. Key:	A53C6C954D9D697D6682F88C721D943C
+#. SourceLocation:	/Game/Blueprint/AI/BanditsAI/BanditState.BanditState.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/Blueprint/AI/BanditsAI/BanditState.BanditState.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",A53C6C954D9D697D6682F88C721D943C"
+msgid "patrol"
+msgstr "патруль"
+
 #. Key:	A62AEC1B44C9FEE0F527279A6A1B7EFD
 #. SourceLocation:	/Game/HDCKBuildingSystem/Table/E_SelectTypeChild.E_SelectTypeChild.DisplayNameMap(3 - Value).DisplayNameMap
 #: /Game/HDCKBuildingSystem/Table/E_SelectTypeChild.E_SelectTypeChild.DisplayNameMap(3 - Value).DisplayNameMap
 msgctxt ",A62AEC1B44C9FEE0F527279A6A1B7EFD"
 msgid "Wall"
 msgstr "Стена"
+
+#. Key:	A66BC05D47F5C203DCEDFAB9F28EF480
+#. SourceLocation:	/Game/Blueprint/AI/NPC/NPC_01.Default__NPC_01_C.CharacterName
+#: /Game/Blueprint/AI/NPC/NPC_01.Default__NPC_01_C.CharacterName
+msgctxt ",A66BC05D47F5C203DCEDFAB9F28EF480"
+msgid "TUFEI"
+msgstr "куст"
 
 #. Key:	A864B95242482D27A6DDEF880B9B3BA4
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Materials/Item_Material_Base.Default__Item_Material_Base_C.ItemInfo.Description
@@ -3474,13 +3639,6 @@ msgctxt ",AA700A424A1CC79F89745D8B8E66743F"
 msgid "反曲弓"
 msgstr "изогнутый лук"
 
-#. Key:	AA953644467BAD51AA1051B181786611
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/ShortSharp/BP_Knife02.Default__BP_Knife02_C.ItemInfo.Name
-#: /Game/Blueprint/ACF/Item/Weapon/ShortSharp/BP_Knife02.Default__BP_Knife02_C.ItemInfo.Name
-msgctxt ",AA953644467BAD51AA1051B181786611"
-msgid "短的单手刀"
-msgstr "короткий одноручный нож"
-
 #. Key:	AA9BF92049C17658D82A79869973E366
 #. SourceLocation:	/Game/Blueprint/UMG/Inventory/WBP_ItemButton.WBP_ItemButton_C:WidgetTree.PressNum_1.Text
 #: /Game/Blueprint/UMG/Inventory/WBP_ItemButton.WBP_ItemButton_C:WidgetTree.PressNum_1.Text
@@ -3494,6 +3652,13 @@ msgstr "1"
 msgctxt ",AAA2E5BF445821D55EFBABA0AE1C6CA0"
 msgid "速度"
 msgstr "скорость"
+
+#. Key:	AAA9318C4DE84825C766D68B05A1C5DC
+#. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_49.Text
+#: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_49.Text
+msgctxt ",AAA9318C4DE84825C766D68B05A1C5DC"
+msgid "Spawn Car"
+msgstr "Спавн Автомобиль"
 
 #. Key:	AAB9D5FF4458F2D4E9935FB728FDA69C
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_CarInventory01.WBP_CarInventory01_C:Update [Script Bytecode]
@@ -3796,6 +3961,13 @@ msgctxt ",B8084BE1473092BD2666BCB97BBD4309"
 msgid "RoofSingle"
 msgstr "КрышаSingle"
 
+#. Key:	B81A5C774C8D62C35EC57C8F21538821
+#. SourceLocation:	/Game/Blueprint/AI/BanditsAI/BanditState.BanditState.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/Blueprint/AI/BanditsAI/BanditState.BanditState.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",B81A5C774C8D62C35EC57C8F21538821"
+msgid "chasing"
+msgstr "погоня"
+
 #. Key:	B86415A9412B5370EA8A299FB90EB38A
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_8.In Text
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_8.In Text
@@ -4069,6 +4241,13 @@ msgctxt ",C5D36BD148A87710804BBA890C070462"
 msgid "Zombie"
 msgstr "Зомби"
 
+#. Key:	C5EA41EF4D297B5FBF5647A114395216
+#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Spear/BP_SpearShoot_G.Default__BP_SpearShoot_G_C.ItemInfo.Name
+#: /Game/Blueprint/ACF/Item/Weapon/Spear/BP_SpearShoot_G.Default__BP_SpearShoot_G_C.ItemInfo.Name
+msgctxt ",C5EA41EF4D297B5FBF5647A114395216"
+msgid "木矛"
+msgstr "деревянное копье"
+
 #. Key:	C5EAAD20403CCB845464ABA4283BB8C1
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_GameSetting.WBP_GameSetting_C:WidgetTree.EditableTextBox_127.ToolTipText
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_GameSetting.WBP_GameSetting_C:WidgetTree.EditableTextBox_127.ToolTipText
@@ -4096,6 +4275,13 @@ msgstr "Дроб.оруж.+"
 msgctxt ",C8909F544D82D283B4CBAF86C0E811D3"
 msgid "TripleHair"
 msgstr "Тройной Волос"
+
+#. Key:	C8F42E214457BEC7591598833E17B775
+#. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/NPC/BP_NPCHouseBase.Default__BP_NPCHouseBase_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+#: /Game/HDCKBuildingSystem/Blueprints/NPC/BP_NPCHouseBase.Default__BP_NPCHouseBase_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+msgctxt ",C8F42E214457BEC7591598833E17B775"
+msgid "提示信息"
+msgstr "оперативная информация"
 
 #. Key:	C91B92F140E95FFF8720FCB5C77715EF
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_Bed.WBP_Bed_C:WidgetTree.TextBlock.Text
@@ -4146,6 +4332,13 @@ msgctxt ",CA0037B449D92CACAD7CF89A6327A14B"
 msgid "美味炖水果"
 msgstr "Вкусный компот"
 
+#. Key:	CA01173B48E00777527333BF283A8ECF
+#. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/Roof_45_Corner.Default__Roof_45_Corner_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+#: /Game/HDCKBuildingSystem/Blueprints/Base/Roof_45_Corner.Default__Roof_45_Corner_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+msgctxt ",CA01173B48E00777527333BF283A8ECF"
+msgid "提示信息"
+msgstr "оперативная информация"
+
 #. Key:	CA38F5DF4EFCC8AEEFBAC7803C1FB9D0
 #. SourceLocation:	/Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(2 - Value).DisplayNameMap
 #: /Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(2 - Value).DisplayNameMap
@@ -4159,6 +4352,13 @@ msgstr "Без движения"
 msgctxt ",CA6852A94B927D5A9C840381EA702D55"
 msgid "食物"
 msgstr "Еда"
+
+#. Key:	CAEFBCF54FBC52CCBB4A09A17AC5C331
+#. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_TYNFD.Default__Furniture_TYNFD_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
+#: /Game/HDCKBuildingSystem/MeshBP/Furniture_TYNFD.Default__Furniture_TYNFD_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
+msgctxt ",CAEFBCF54FBC52CCBB4A09A17AC5C331"
+msgid "受遮挡或在没有太阳的天气无法发电"
+msgstr "Затененный или неспособный вырабатывать электроэнергию в отсутствие солнца"
 
 #. Key:	CBF68092493CCA912229F3994ABAF6DA
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_DCZDetail.WBP_DCZDetail_C:WidgetTree.DL_Text.Text
@@ -4223,12 +4423,19 @@ msgctxt ",CD8164CD4F5BF40D20BADEA4545E0217"
 msgid "电动缝纫机"
 msgstr "Электрическая швейная машина"
 
-#. Key:	CDC1FB11458DD13D048E1E80F83016AE
-#. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_LDQ.Default__Furniture_LDQ_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
-#: /Game/HDCKBuildingSystem/MeshBP/Furniture_LDQ.Default__Furniture_LDQ_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
-msgctxt ",CDC1FB11458DD13D048E1E80F83016AE"
-msgid "提示信息"
-msgstr "Советы"
+#. Key:	CD96C9D74C242068206BA7A8EEC59016
+#. SourceLocation:	/Game/Blueprint/AI/BanditsAI/BanditState.BanditState.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/Blueprint/AI/BanditsAI/BanditState.BanditState.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",CD96C9D74C242068206BA7A8EEC59016"
+msgid "searching"
+msgstr "идет поиск"
+
+#. Key:	CDBBEAF3464B780A4C8191973E7F6D15
+#. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_Stone.Default__Roof_20_intersection_Stone_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
+#: /Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_Stone.Default__Roof_20_intersection_Stone_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
+msgctxt ",CDBBEAF3464B780A4C8191973E7F6D15"
+msgid "用于连接外转角屋顶。"
+msgstr "Для соединения наружных угловых крыш."
 
 #. Key:	CE87C79047651DC81CD8109E13DF5212
 #. SourceLocation:	/Game/Blueprint/ACF/Tutorial/WBP_TutorialTip9.WBP_TutorialTip9_C:WidgetTree.TextBlock_3.Text
@@ -4265,6 +4472,13 @@ msgctxt ",checknuild"
 msgid "无承重结构或有物品阻止建造"
 msgstr "Отсутствуют несущие конструкции или есть объекты, препятствующие строительству"
 
+#. Key:	CK
+#. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
+#: /Game/LocalizationText/BuildingInfo.BuildingInfo
+msgctxt ",CK"
+msgid "仓库"
+msgstr "склад"
+
 #. Key:	D043E12D482ACE499BF8358CC1C2D9D1
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/WB/BP_GunAccessory_WB_SJ01.Default__BP_GunAccessory_WB_SJ01_C.ItemInfo.Description
 #: /Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/WB/BP_GunAccessory_WB_SJ01.Default__BP_GunAccessory_WB_SJ01_C.ItemInfo.Description
@@ -4300,13 +4514,6 @@ msgctxt ",D2B00B42448E9C68C5BB7BBC74B50A12"
 msgid "提示信息"
 msgstr "Советы"
 
-#. Key:	D32873F24461CBE59F60F0A657801FCD
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_SMG_MP7A1.Default__ACFGunBase_SMG_MP7A1_C.ItemInfo.Name
-#: /Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_SMG_MP7A1.Default__ACFGunBase_SMG_MP7A1_C.ItemInfo.Name
-msgctxt ",D32873F24461CBE59F60F0A657801FCD"
-msgid "MP7A1冲锋枪"
-msgstr "Пистолет-пулемет MP7"
-
 #. Key:	D32A4D03413139E3B6FDB1B424B6207F
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_JoinGame.WBP_JoinGame_C:ExecuteUbergraph_WBP_JoinGame [Script Bytecode]
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_JoinGame.WBP_JoinGame_C:ExecuteUbergraph_WBP_JoinGame [Script Bytecode]
@@ -4327,13 +4534,6 @@ msgstr "Люсиль++"
 msgctxt ",D35518064C2D768EC2C3538AA59470B8"
 msgid "水培箱"
 msgstr "Грядка с автополивом"
-
-#. Key:	D375DB6948B73DF19DCE75B10729E28E
-#. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_DP_XDD.Default__Furniture_DP_XDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
-#: /Game/HDCKBuildingSystem/MeshBP/Furniture_DP_XDD.Default__Furniture_DP_XDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
-msgctxt ",D375DB6948B73DF19DCE75B10729E28E"
-msgid "地板"
-msgstr "Пол"
 
 #. Key:	D3E6F2304D378E9FF9B1678623A9E744
 #. SourceLocation:	/Game/Blueprint/AI/ZombieState.ZombieState.DisplayNameMap(0 - Value).DisplayNameMap
@@ -4419,6 +4619,13 @@ msgctxt ",D93DE96549EB60B216FED58F9FA2F16D"
 msgid "提示信息"
 msgstr "Советы"
 
+#. Key:	D98F12A04ACF896D88B6479815FD9F6C
+#. SourceLocation:	/Game/Blueprint/AI/NPC/NPC_04.Default__NPC_04_C.CharacterName
+#: /Game/Blueprint/AI/NPC/NPC_04.Default__NPC_04_C.CharacterName
+msgctxt ",D98F12A04ACF896D88B6479815FD9F6C"
+msgid "TUFEI"
+msgstr "куст"
+
 #. Key:	D9BFDCBF49522F6BD0A0AE9DFE3A46D0
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(10 - Value).DisplayNameMap
 #: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(10 - Value).DisplayNameMap
@@ -4454,13 +4661,6 @@ msgctxt ",D9F39C7546A5C1735F3ED7AB191B0663"
 msgid "卫生-"
 msgstr "Здоровье-"
 
-#. Key:	D9FB409343783011851859B6A61240D5
-#. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_Bed.Default__Furniture_Bed_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
-#: /Game/HDCKBuildingSystem/MeshBP/Furniture_Bed.Default__Furniture_Bed_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
-msgctxt ",D9FB409343783011851859B6A61240D5"
-msgid "提示信息"
-msgstr "Советы"
-
 #. Key:	DA01CCEB4FCE0A10153ADBA352E6C952
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_88.In Text
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_88.In Text
@@ -4488,6 +4688,13 @@ msgstr "мебель"
 msgctxt ",DB0F32AF4ACC7F1528ED8C81776FB230"
 msgid "火药"
 msgstr "порох"
+
+#. Key:	DB5688A34AE876440300939DA10E1203
+#. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/Wall_Window.Default__Wall_Window_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+#: /Game/HDCKBuildingSystem/Blueprints/Base/Wall_Window.Default__Wall_Window_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+msgctxt ",DB5688A34AE876440300939DA10E1203"
+msgid "提示信息"
+msgstr "оперативная информация"
 
 #. Key:	DB972C8A42088B0F686C0088380FA942
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_9.Text
@@ -4524,15 +4731,19 @@ msgctxt ",DC68ED544682D3FE6758C2A9A2AA1821"
 msgid "RightSleep"
 msgstr "Спит справа"
 
+#. Key:	DD39DB06426978A0119F3C8E199F24A2
+#. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_DPLDD.Default__Furniture_DPLDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+#: /Game/HDCKBuildingSystem/MeshBP/Furniture_DPLDD.Default__Furniture_DPLDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+msgctxt ",DD39DB06426978A0119F3C8E199F24A2"
+msgid "地板"
+msgstr "пол"
+
 #. Key:	DDC0910C4C17BE48AB063FBF2F21022D
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/WBP_Main.WBP_Main_C:WidgetTree.Nanite.Text
 #: /Game/Blueprint/UMG/MainUI/WBP_Main.WBP_Main_C:WidgetTree.Nanite.Text
 msgctxt ",DDC0910C4C17BE48AB063FBF2F21022D"
-msgid "检测到您的电脑不支持Nanite，请升级显卡驱动！\r\n"
-"否则将会出现模型显示不完整等问题。"
-msgstr "Обнаружено, что ваш компьютер не поддерживает Nanite UE5.\r\n"
-"Вам необходимо обновить драйвер видеокарты!\r\n"
-"В противном случае будут проблемы с отображением моделей в игре."
+msgid "检测到您的电脑不支持Nanite，请升级显卡驱动！\r\n否则将会出现模型显示不完整等问题。"
+msgstr "Обнаружено, что ваш компьютер не поддерживает Nanite UE5.\r\nВам необходимо обновить драйвер видеокарты!\r\nВ противном случае будут проблемы с отображением моделей в игре."
 
 #. Key:	DDDC1B0B4000A52C9EBD15869577EA8E
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_CarInventory.WBP_CarInventory_C:WidgetTree.Health.Text
@@ -4569,13 +4780,6 @@ msgctxt ",DEE485DE4FE5DF283FA39FAD921CA4A4"
 msgid "Team 4"
 msgstr "Команда 4"
 
-#. Key:	DFAC4BFF4A7A678BF4FFD7ABABA1865B
-#. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_TYNFD.Default__Furniture_TYNFD_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-#: /Game/HDCKBuildingSystem/MeshBP/Furniture_TYNFD.Default__Furniture_TYNFD_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-msgctxt ",DFAC4BFF4A7A678BF4FFD7ABABA1865B"
-msgid "受遮挡或在没有太阳的天气无法发电"
-msgstr "Не работает! В тени, ночь или пасмурная погода!"
-
 #. Key:	DFB8B90B40E48F2039D785B02D71920D
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_47.In Text
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_47.In Text
@@ -4604,6 +4808,13 @@ msgctxt ",DFED45D04D8BC0C7F64D7EBC8024251D"
 msgid "Main"
 msgstr "Главный"
 
+#. Key:	DFFDB98E4F05DFB7F07225955F2ECCAB
+#. SourceLocation:	/Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(28).Mappings.PlayerMappableOptions.DisplayName
+#: /Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(28).Mappings.PlayerMappableOptions.DisplayName
+msgctxt ",DFFDB98E4F05DFB7F07225955F2ECCAB"
+msgid "IA_ActionSwitchCamera"
+msgstr "IA_ActionSwitchCamera"
+
 #. Key:	DLCW
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -4624,6 +4835,13 @@ msgstr "дверной проем"
 msgctxt ",DoorHole"
 msgid "门洞"
 msgstr "дверной проем"
+
+#. Key:	DPWS
+#. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
+#: /Game/LocalizationText/BuildingInfo.BuildingInfo
+msgctxt ",DPWS"
+msgid "植物园"
+msgstr "Ботанический сад"
 
 #. Key:	E0A8C10C4D611602E0E001BFDC5EA4DD
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_GameSetting.WBP_GameSetting_C:WidgetTree.TextBlock_140.Text
@@ -4709,6 +4927,13 @@ msgctxt ",E42EAB934353B79848F4849F9B574A02"
 msgid "10/10"
 msgstr "10/10"
 
+#. Key:	E445E5394D604623F1E90982B488563B
+#. SourceLocation:	/Game/HDCKBuildingSystem/LabourMeshBP/MiningChambers.Default__MiningChambers_C.BuildInfo.Name_38_B9A5B2DC4FBEF03FBCA85592B802C50C
+#: /Game/HDCKBuildingSystem/LabourMeshBP/MiningChambers.Default__MiningChambers_C.BuildInfo.Name_38_B9A5B2DC4FBEF03FBCA85592B802C50C
+msgctxt ",E445E5394D604623F1E90982B488563B"
+msgid "采矿室"
+msgstr "шахтерская комната"
+
 #. Key:	E51278044D668F0A8930B08C5B984311
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_GameSetting.WBP_GameSetting_C:WidgetTree.ShowTex_11.Text
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_GameSetting.WBP_GameSetting_C:WidgetTree.ShowTex_11.Text
@@ -4779,13 +5004,6 @@ msgctxt ",E77D91584AE589CDBA6024A6641358F7"
 msgid "此物品无法装备在这"
 msgstr "Этот предмет нельзя экипировать здесь"
 
-#. Key:	E81D1BFE4B45430459EE28B9401FCC1A
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Spear/BP_SpearShoot_Iron.Default__BP_SpearShoot_Iron_C.ItemInfo.Name
-#: /Game/Blueprint/ACF/Item/Weapon/Spear/BP_SpearShoot_Iron.Default__BP_SpearShoot_Iron_C.ItemInfo.Name
-msgctxt ",E81D1BFE4B45430459EE28B9401FCC1A"
-msgid "木矛"
-msgstr "деревянное копье"
-
 #. Key:	E81FD1D8493C6CD9E2470F97A822FFEA
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_27.In Text
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_27.In Text
@@ -4848,6 +5066,13 @@ msgstr "IA_Использование2"
 msgctxt ",E8EA4D5B4493329CF32982ABD630233C"
 msgid "{0}{1}"
 msgstr "{0}{1}"
+
+#. Key:	E91A9BDF43F0D2ACEE458592BDED83BF
+#. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/OutStairs_Base_Wood.Default__OutStairs_Base_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
+#: /Game/HDCKBuildingSystem/MeshBP/OutStairs_Base_Wood.Default__OutStairs_Base_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
+msgctxt ",E91A9BDF43F0D2ACEE458592BDED83BF"
+msgid "建房必备"
+msgstr "Необходимо для строительства дома"
 
 #. Key:	E968D2B9404C381673D22FBDED974E1F
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_6.Text
@@ -4926,6 +5151,13 @@ msgctxt ",ECAB878844DB5540EF7B15AB40273797"
 msgid "铲掉"
 msgstr "Удалить"
 
+#. Key:	ECF4DC4349E13495102F0EB8F0A1B625
+#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/ShortSharp/BP_Knife01.Default__BP_Knife01_C.ItemInfo.Name
+#: /Game/Blueprint/ACF/Item/Weapon/ShortSharp/BP_Knife01.Default__BP_Knife01_C.ItemInfo.Name
+msgctxt ",ECF4DC4349E13495102F0EB8F0A1B625"
+msgid "短的单手刀"
+msgstr "короткий одноручный нож"
+
 #. Key:	ED362C3F47934E84F061EFA97E3FB2B8
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_101.In Text
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_101.In Text
@@ -4946,13 +5178,6 @@ msgstr "Попробуйте спланировать фундамент зде�
 msgctxt ",ED70D7E14572183967F87E884BA931B8"
 msgid "取水口"
 msgstr "Набрать"
-
-#. Key:	ED9C54094A6D0E7563A9DF93CCD91DE3
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_HandGun_G18.Default__ACFGunBase_HandGun_G18_C.ItemInfo.Name
-#: /Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_HandGun_G18.Default__ACFGunBase_HandGun_G18_C.ItemInfo.Name
-msgctxt ",ED9C54094A6D0E7563A9DF93CCD91DE3"
-msgid "G18手枪"
-msgstr "Пистолет G18"
 
 #. Key:	EDAC3030401DEB9C1DF43FBB2E47F2FD
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_48.Text
@@ -5045,6 +5270,13 @@ msgctxt ",F302E02F4A257C60ED0E7C8A726B7B18"
 msgid "Beam"
 msgstr "Балка"
 
+#. Key:	F367975249F46206C9FFF2908BA10C39
+#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Spear/BP_SpearShoot_Iron.Default__BP_SpearShoot_Iron_C.ItemInfo.Name
+#: /Game/Blueprint/ACF/Item/Weapon/Spear/BP_SpearShoot_Iron.Default__BP_SpearShoot_Iron_C.ItemInfo.Name
+msgctxt ",F367975249F46206C9FFF2908BA10C39"
+msgid "木矛"
+msgstr "деревянное копье"
+
 #. Key:	F370F6994C20551E3A9968870FACCF36
 #. SourceLocation:	/Game/Blueprint/UMG/Inventory/WBP_UseMenu.WBP_UseMenu_C:ExecuteUbergraph_WBP_UseMenu [Script Bytecode]
 #: /Game/Blueprint/UMG/Inventory/WBP_UseMenu.WBP_UseMenu_C:ExecuteUbergraph_WBP_UseMenu [Script Bytecode]
@@ -5087,26 +5319,12 @@ msgctxt ",F43A38CA419B4DC62020BDA1712DC2C8"
 msgid "极强"
 msgstr "Очень сильные"
 
-#. Key:	F4BA4D774CD78BC78E11A4A8D56844DD
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Food/AutoCreate/BP_Food_GYC.Default__BP_Food_GYC_C.ItemInfo.Description
-#: /Game/Blueprint/ACF/Item/Food/AutoCreate/BP_Food_GYC.Default__BP_Food_GYC_C.ItemInfo.Description
-msgctxt ",F4BA4D774CD78BC78E11A4A8D56844DD"
-msgid "食物"
-msgstr "Еда"
-
 #. Key:	F4BF7A6C48622D449AFBF195173F9A89
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/WBP_RoomSlot.WBP_RoomSlot_C:ExecuteUbergraph_WBP_RoomSlot [Script Bytecode]
 #: /Game/Blueprint/UMG/MainUI/WBP_RoomSlot.WBP_RoomSlot_C:ExecuteUbergraph_WBP_RoomSlot [Script Bytecode]
 msgctxt ",F4BF7A6C48622D449AFBF195173F9A89"
 msgid "玩家数量："
 msgstr "Количество игроков:"
-
-#. Key:	F4F036344AAB28AE221E0EB765E24416
-#. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_Wood.Default__Roof_20_intersection_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-#: /Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_Wood.Default__Roof_20_intersection_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-msgctxt ",F4F036344AAB28AE221E0EB765E24416"
-msgid "用于连接外转角屋顶。"
-msgstr "Для соединения внешнего угла крыши"
 
 #. Key:	F53C86D14E0BC9C66FEA7885EECEEA87
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_80.In Text
@@ -5192,6 +5410,13 @@ msgctxt ",F7638EBF42495192049CCA9B81841321"
 msgid "Team 8"
 msgstr "Команда 8"
 
+#. Key:	F825335F485EB267C423A09F136AF028
+#. SourceLocation:	/Game/Blueprint/AI/BanditsAI/BanditBase_Melee.Default__BanditBase_Melee_C.CharacterName
+#: /Game/Blueprint/AI/BanditsAI/BanditBase_Melee.Default__BanditBase_Melee_C.CharacterName
+msgctxt ",F825335F485EB267C423A09F136AF028"
+msgid "TUFEI"
+msgstr "куст"
+
 #. Key:	F895FF4F46F21F692C19CA91D155CFE5
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_3.Text
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_3.Text
@@ -5213,12 +5438,12 @@ msgctxt ",F9AE1443479D5044F8044295EDD7944A"
 msgid "此物品无法装备在这"
 msgstr "Этот предмет нельзя экипировать здесь"
 
-#. Key:	F9BC6CDB416B5067DE32089C5BE543BA
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_sniper_SVD.Default__ACFGunBase_sniper_SVD_C.ItemInfo.Name
-#: /Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_sniper_SVD.Default__ACFGunBase_sniper_SVD_C.ItemInfo.Name
-msgctxt ",F9BC6CDB416B5067DE32089C5BE543BA"
-msgid "SVD"
-msgstr "СВД снайперская винтовка"
+#. Key:	F9AEB4DA4E4995AF5C0807AE1EEF8C90
+#. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/NPC/E_BuildingType.E_BuildingType.DisplayNameMap(8 - Value).DisplayNameMap
+#: /Game/HDCKBuildingSystem/Blueprints/NPC/E_BuildingType.E_BuildingType.DisplayNameMap(8 - Value).DisplayNameMap
+msgctxt ",F9AEB4DA4E4995AF5C0807AE1EEF8C90"
+msgid "transaction"
+msgstr "сделка"
 
 #. Key:	FA24792C475603E61A18C0B895A46B98
 #. SourceLocation:	/Game/Blueprint/UMG/InteractiveMessage/WBP_BuildMaterialMessage.WBP_BuildMaterialMessage_C:WidgetTree.Name.Text
@@ -5248,19 +5473,19 @@ msgctxt ",FAF87E03415FE63732DAB39060CFA499"
 msgid "型号01"
 msgstr "Модель 01"
 
+#. Key:	FAFE310A4636AF278CB5F9AD22539A39
+#. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/Wall_triangle.Default__Wall_triangle_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+#: /Game/HDCKBuildingSystem/Blueprints/Base/Wall_triangle.Default__Wall_triangle_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
+msgctxt ",FAFE310A4636AF278CB5F9AD22539A39"
+msgid "提示信息"
+msgstr "оперативная информация"
+
 #. Key:	FB4AA59C4F7B31F2F8C325B64FCF6379
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_65.In Text
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_65.In Text
 msgctxt ",FB4AA59C4F7B31F2F8C325B64FCF6379"
 msgid "淋浴间"
 msgstr "Душевая"
-
-#. Key:	FB638397464440CB4BD9AE8B5A8139EA
-#. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_DPLDD.Default__Furniture_DPLDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
-#: /Game/HDCKBuildingSystem/MeshBP/Furniture_DPLDD.Default__Furniture_DPLDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
-msgctxt ",FB638397464440CB4BD9AE8B5A8139EA"
-msgid "地板"
-msgstr "Пол"
 
 #. Key:	FC41E7F4409AA042268DA480D2C3C17D
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/E_AimType.E_AimType.DisplayNameMap(0 - Value).DisplayNameMap
@@ -5353,13 +5578,6 @@ msgctxt ",FEB4BCDA4679F137584DEC971159DDF9"
 msgid "滤芯："
 msgstr "Фильтр:"
 
-#. Key:	FEE390734DBF1578A280209068FC9926
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/ACFGunBase_Rifle.Default__ACFGunBase_Rifle_C.ItemInfo.Name
-#: /Game/Blueprint/ACF/Item/Weapon/ACFGunBase_Rifle.Default__ACFGunBase_Rifle_C.ItemInfo.Name
-msgctxt ",FEE390734DBF1578A280209068FC9926"
-msgid "M4步枪"
-msgstr "Штурмовая винтовка М4"
-
 #. Key:	FF09B24548010A88880671934DB31229
 #. SourceLocation:	/Game/HDCKBuildingSystem/Table/BuildTable.BuildTable.RoofIntersection20.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 #: /Game/HDCKBuildingSystem/Table/BuildTable.BuildTable.RoofIntersection20.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
@@ -5402,6 +5620,13 @@ msgctxt ",Floor"
 msgid "地面"
 msgstr "земля"
 
+#. Key:	FMW
+#. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
+#: /Game/LocalizationText/BuildingInfo.BuildingInfo
+msgctxt ",FMW"
+msgid "伐木屋"
+msgstr "бревенчатый дом"
+
 #. Key:	Foundation
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5422,6 +5647,13 @@ msgstr "Балка (четыре сетки)"
 msgctxt ",FourHorizontalBeamDetail"
 msgid "长横梁，可以承受重量，是搭建大房子的必备。"
 msgstr "Длинные балки, способные выдержать вес, необходимы для строительства больших домов."
+
+#. Key:	GLZX
+#. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
+#: /Game/LocalizationText/BuildingInfo.BuildingInfo
+msgctxt ",GLZX"
+msgid "管理中心"
+msgstr "центр управления"
 
 #. Key:	GuardRail
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5535,12 +5767,40 @@ msgctxt ",Input"
 msgid "请输入..."
 msgstr "введите название"
 
+#. Key:	JYZX
+#. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
+#: /Game/LocalizationText/BuildingInfo.BuildingInfo
+msgctxt ",JYZX"
+msgid "交易中心"
+msgstr "Торговый Центр"
+
+#. Key:	JYZX01
+#. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
+#: /Game/LocalizationText/BuildingInfo.BuildingInfo
+msgctxt ",JYZX01"
+msgid "这里定期会有商人来进行货物交易"
+msgstr "Здесь регулярно будут торговцы для торговли товарами."
+
+#. Key:	KSW
+#. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
+#: /Game/LocalizationText/BuildingInfo.BuildingInfo
+msgctxt ",KSW"
+msgid "采矿厂"
+msgstr "горнодобывающий завод"
+
 #. Key:	mdc
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",mdc"
 msgid "木地刺"
 msgstr "Автоматич. деревянные шипы"
+
+#. Key:	NPCMANAGER
+#. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
+#: /Game/LocalizationText/BuildingInfo.BuildingInfo
+msgctxt ",NPCMANAGER"
+msgid "这里可以管理NPC，设置生产资源偏好！\r\n当你拥有这个建筑以后，土匪营地会出现可营救的NPC"
+msgstr "Здесь вы можете управлять NPC и устанавливать настройки производственных ресурсов!\r\nКогда вы станете владельцем этого здания, в лагере бандитов появится спасаемый NPC."
 
 #. Key:	Null
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5948,6 +6208,13 @@ msgctxt ",RSP"
 msgid "燃烧瓶陷阱"
 msgstr "Ловушка с Молотовым"
 
+#. Key:	SHITANG
+#. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
+#: /Game/LocalizationText/BuildingInfo.BuildingInfo
+msgctxt ",SHITANG"
+msgid "食堂"
+msgstr "столовая"
+
 #. Key:	Stairs
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -6003,6 +6270,13 @@ msgstr "Лестницы из дерева."
 msgctxt ",TDC"
 msgid "铁地刺"
 msgstr "Автоматич. железные шипы"
+
+#. Key:	TGSCL
+#. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
+#: /Game/LocalizationText/BuildingInfo.BuildingInfo
+msgctxt ",TGSCL"
+msgid "这个设施会提高NPC的生产力"
+msgstr "Этот объект повысит производительность NPC."
 
 #. Key:	TieJuMa
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -6165,12 +6439,47 @@ msgctxt ",WoodFoundationDetail"
 msgid "看起来很结实，可以承受相当多的重量。"
 msgstr "Выглядит солидно и может выдержать довольно большой вес."
 
+#. Key:	XMY
+#. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
+#: /Game/LocalizationText/BuildingInfo.BuildingInfo
+msgctxt ",XMY"
+msgid "畜牧场"
+msgstr "животноводческая ферма"
+
 #. Key:	XZDP
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",XZDP"
 msgid "旋转刀片"
 msgstr "Режущий диск"
+
+#. Key:	YLS
+#. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
+#: /Game/LocalizationText/BuildingInfo.BuildingInfo
+msgctxt ",YLS"
+msgid "医疗室"
+msgstr "Медицинский кабинет"
+
+#. Key:	YULESHI
+#. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
+#: /Game/LocalizationText/BuildingInfo.BuildingInfo
+msgctxt ",YULESHI"
+msgid "娱乐室"
+msgstr "Комната отдыха"
+
+#. Key:	ZFTS
+#. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
+#: /Game/LocalizationText/BuildingInfo.BuildingInfo
+msgctxt ",ZFTS"
+msgid "提供给NPC居住的房屋"
+msgstr "Дома, предназначенные для проживания NPC."
+
+#. Key:	ZHUFANG
+#. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
+#: /Game/LocalizationText/BuildingInfo.BuildingInfo
+msgctxt ",ZHUFANG"
+msgid "住房"
+msgstr "Корпус"
 
 #. Key:	B1
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6795,6 +7104,13 @@ msgctxt "BuildInfo,BL"
 msgid "壁炉"
 msgstr "Камин"
 
+#. Key:	CHUANGWEI
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,CHUANGWEI"
+msgid "床位"
+msgstr "кровать"
+
 #. Key:	CTG
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
 #: /Game/LocalizationText/BuildInfo.BuildInfo
@@ -6879,12 +7195,61 @@ msgctxt "BuildInfo,MTHL"
 msgid "横梁(三格)"
 msgstr "Балка (три сетки)"
 
+#. Key:	NPCTIPBUILDING
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,NPCTIPBUILDING"
+msgid "如果提供能源，可以进一步提高生产产量"
+msgstr "Выход продукции может быть дополнительно увеличен, если обеспечить энергию."
+
+#. Key:	PINGJUN
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,PINGJUN"
+msgid "平均"
+msgstr "средний"
+
 #. Key:	PZ
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,PZ"
 msgid "盆栽"
 msgstr "Цветок"
+
+#. Key:	RENLI
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,RENLI"
+msgid "人力"
+msgstr "рабочая сила"
+
+#. Key:	RGLGLZX
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,RGLGLZX"
+msgid "如果离管理中心太远，会失效！"
+msgstr "Если он находится слишком далеко от центра управления, он выйдет из строя!"
+
+#. Key:	RXH
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,RXH"
+msgid "日消耗"
+msgstr "Ежедневное потребление"
+
+#. Key:	SCPH
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,SCPH"
+msgid "生产偏好:"
+msgstr "Производственные предпочтения:"
+
+#. Key:	SHENGCHANLI
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,SHENGCHANLI"
+msgid "生产力"
+msgstr "производительные силы"
 
 #. Key:	SNHL
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6907,6 +7272,13 @@ msgctxt "BuildInfo,TD"
 msgid "台灯"
 msgstr "Настольная лампа"
 
+#. Key:	WFJZGD
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,WFJZGD"
+msgid "无法建造更多"
+msgstr "не могу построить больше"
+
 #. Key:	XT
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
 #: /Game/LocalizationText/BuildInfo.BuildInfo
@@ -6920,6 +7292,13 @@ msgstr "Украшение из головы медведя"
 msgctxt "BuildInfo,YG"
 msgid "衣柜"
 msgstr "Шкаф"
+
+#. Key:	YNJZYG
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,YNJZYG"
+msgid "只能建造一个"
+msgstr "построить только один"
 
 #. Key:	ZT
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -9805,6 +10184,13 @@ msgctxt "TipMessage,19"
 msgid "丢在地上的物品长时间不捡起来会消失"
 msgstr "Предметы, брошенные на землю, исчезнут, если их долго не поднимать."
 
+#. Key:	WPWF
+#. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
+#: /Game/LocalizationText/TipMessage.TipMessage
+msgctxt "TipMessage,WPWF"
+msgid "此物品无法装备在这"
+msgstr "Этот предмет нельзя экипировать здесь"
+
 #. Key:	95
 #. SourceLocation:	/Game/LocalizationText/GUN.GUN
 #: /Game/LocalizationText/GUN.GUN
@@ -9854,6 +10240,13 @@ msgctxt "UI,AF"
 msgid "非洲"
 msgstr "Африка"
 
+#. Key:	AILIS
+#. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
+#: /Game/LocalizationText/UICharacter.UICharacter
+msgctxt "UI,AILIS"
+msgid "爱丽丝"
+msgstr "Алиса"
+
 #. Key:	ALL
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
@@ -9889,6 +10282,13 @@ msgctxt "UI,Auto"
 msgid "自动"
 msgstr "автоматический"
 
+#. Key:	AutoRun
+#. SourceLocation:	/Game/LocalizationText/Screen.Screen
+#: /Game/LocalizationText/Screen.Screen
+msgctxt "UI,AutoRun"
+msgid "自动奔跑"
+msgstr "запускаться автоматически"
+
 #. Key:	autumn
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
@@ -9921,9 +10321,15 @@ msgstr "Назад"
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,BackSave"
-msgid "你确定要用这个存档覆盖之前的存档吗？\r\n"
-"注意覆盖以后之前的存档无法恢复"
+msgid "你确定要用这个存档覆盖之前的存档吗？\r\n注意覆盖以后之前的存档无法恢复"
 msgstr "Вы уверены? Это перезапишет ваше последнее сохранение!"
+
+#. Key:	BARRY
+#. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
+#: /Game/LocalizationText/UICharacter.UICharacter
+msgctxt "UI,BARRY"
+msgid "巴里"
+msgstr "Барри"
 
 #. Key:	BCG
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10204,6 +10610,13 @@ msgstr "Не задано имя сохранения или с таким им�
 msgctxt "UI,CF"
 msgid "裁缝"
 msgstr "Портной"
+
+#. Key:	CGJJRZ
+#. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
+#: /Game/LocalizationText/UICharacter.UICharacter
+msgctxt "UI,CGJJRZ"
+msgid "成功解救了一个人质，他会出现在管理中心帮助你！"
+msgstr "Успешно спасая заложника, он появится в центре управления и поможет вам!"
 
 #. Key:	ChangAn
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10617,6 +11030,13 @@ msgstr "Прочность:"
 msgctxt "UI,DX"
 msgid "蹲下"
 msgstr "присесть"
+
+#. Key:	DYRCLMD
+#. SourceLocation:	/Game/LocalizationText/Screen.Screen
+#: /Game/LocalizationText/Screen.Screen
+msgctxt "UI,DYRCLMD"
+msgid "第一人称鼠标灵敏度"
+msgstr "Чувствительность мыши от первого лица"
 
 #. Key:	DZCD
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11122,6 +11542,13 @@ msgctxt "UI,JH2"
 msgid "交互2"
 msgstr "Взаимодействие 2"
 
+#. Key:	JIEJIU
+#. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
+#: /Game/LocalizationText/UICharacter.UICharacter
+msgctxt "UI,JIEJIU"
+msgid "解救"
+msgstr "спасать"
+
 #. Key:	JINRU
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
@@ -11308,10 +11735,8 @@ msgstr "Визуальное кач-во на расстоянии"
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,KTDetail"
-msgid "病毒抗体\r\n"
-"抗体为0就会死亡"
-msgstr "иммунитет\r\n"
-"Если иммунитет упадет до 0, вы умрете."
+msgid "病毒抗体\r\n抗体为0就会死亡"
+msgstr "иммунитет\r\nЕсли иммунитет упадет до 0, вы умрете."
 
 #. Key:	Language
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11460,6 +11885,13 @@ msgctxt "UI,m249"
 msgid "M249"
 msgstr "Пулемёт M249"
 
+#. Key:	MAIKE
+#. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
+#: /Game/LocalizationText/UICharacter.UICharacter
+msgctxt "UI,MAIKE"
+msgid "麦克"
+msgstr "Майк"
+
 #. Key:	Main
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
@@ -11501,6 +11933,13 @@ msgstr "Время изготовления: "
 msgctxt "UI,Male"
 msgid "男"
 msgstr "Мужчина"
+
+#. Key:	MALI
+#. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
+#: /Game/LocalizationText/UICharacter.UICharacter
+msgctxt "UI,MALI"
+msgid "玛丽"
+msgstr "Мэри"
 
 #. Key:	MaxCharacter
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11613,6 +12052,13 @@ msgstr "Имя: "
 msgctxt "UI,MZDDX"
 msgid "未找到有用物品"
 msgstr "Полезный предмет не найден"
+
+#. Key:	MZLMD
+#. SourceLocation:	/Game/LocalizationText/Screen.Screen
+#: /Game/LocalizationText/Screen.Screen
+msgctxt "UI,MZLMD"
+msgid "瞄准鼠标灵敏度"
+msgstr "настройка чувствительности мыши"
 
 #. Key:	NA
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12062,6 +12508,13 @@ msgctxt "UI,QG"
 msgid "颧骨"
 msgstr "Скулы"
 
+#. Key:	QHXJ
+#. SourceLocation:	/Game/LocalizationText/Screen.Screen
+#: /Game/LocalizationText/Screen.Screen
+msgctxt "UI,QHXJ"
+msgid "切换视角"
+msgstr "переключить перспективу"
+
 #. Key:	QJGZZL
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
 #: /Game/LocalizationText/Screen.Screen
@@ -12269,12 +12722,8 @@ msgstr "Южная Америка"
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SAVE"
-msgid "你可以建造一个床加快时间流逝\r\n"
-"\r\n"
-"游戏全程自动存档"
-msgstr "Вы можете построить кровать, чтобы ускорить течение времени\r\n"
-"\r\n"
-"Игра автоматически сохраняется на протяжении всей игры"
+msgid "你可以建造一个床加快时间流逝\r\n\r\n游戏全程自动存档"
+msgstr "Вы можете построить кровать, чтобы ускорить течение времени\r\n\r\nИгра автоматически сохраняется на протяжении всей игры"
 
 #. Key:	Save
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12458,6 +12907,13 @@ msgctxt "UI,SoundSet"
 msgid "声音设置"
 msgstr "Настройки звука"
 
+#. Key:	SpecialZombie
+#. SourceLocation:	/Game/LocalizationText/Screen.Screen
+#: /Game/LocalizationText/Screen.Screen
+msgctxt "UI,SpecialZombie"
+msgid "特殊感染者"
+msgstr "особая инфекция"
+
 #. Key:	Split
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
@@ -12584,6 +13040,13 @@ msgctxt "UI,SS14"
 msgid "我想和你做笔交易"
 msgstr "торговля"
 
+#. Key:	SSHA
+#. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
+#: /Game/LocalizationText/UICharacter.UICharacter
+msgctxt "UI,SSHA"
+msgid "萨沙"
+msgstr "саша"
+
 #. Key:	SSJSSL01
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
@@ -12707,12 +13170,8 @@ msgstr "Лето"
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SW11"
-msgid "在打开箱子的状态下，左键单击物品可以快速转移。\r\n"
-"\r\n"
-"拖动物品中按下R旋转物品方向。"
-msgstr "В открытом ящике щелкните левой кнопкой мыши по предмету, чтобы быстро взять его.\r\n"
-"\r\n"
-"Нажмите R во время перетаскивания предмета, чтобы повернуть его положение."
+msgid "在打开箱子的状态下，左键单击物品可以快速转移。\r\n\r\n拖动物品中按下R旋转物品方向。"
+msgstr "В открытом ящике щелкните левой кнопкой мыши по предмету, чтобы быстро взять его.\r\n\r\nНажмите R во время перетаскивания предмета, чтобы повернуть его положение."
 
 #. Key:	SwitchServerMode
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12830,10 +13289,8 @@ msgstr "Выплавляется из руды, можно переплавит�
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TLDetail"
-msgid "体力\r\n"
-"每减少30点体力，伤害降低25%（不影响枪械）"
-msgstr "энергия\r\n"
-"За каждые 30 очков урон снижается на 25% (не действует на огнестрельное оружие)"
+msgid "体力\r\n每减少30点体力，伤害降低25%（不影响枪械）"
+msgstr "энергия\r\nЗа каждые 30 очков урон снижается на 25% (не действует на огнестрельное оружие)"
 
 #. Key:	toLen
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -13378,10 +13835,8 @@ msgstr "Оружейник"
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,wsDetail"
-msgid "卫生\r\n"
-"影响丧尸发现几率，影响伤口感染几率，过低影响心情回复"
-msgstr "гигиена\r\n"
-"Влияет на вероятность быть обнаруженным зомби, заражение ран и на восстановление настроения, если оно слишком низкое."
+msgid "卫生\r\n影响丧尸发现几率，影响伤口感染几率，过低影响心情回复"
+msgstr "гигиена\r\nВлияет на вероятность быть обнаруженным зомби, заражение ран и на восстановление настроения, если оно слишком низкое."
 
 #. Key:	WSYQX
 #. SourceLocation:	/Game/LocalizationText/UI.UI
