@@ -1,17 +1,22 @@
-﻿# Game Russian translation.
-# Fill out your copyright notice in the Description page of Project Settings.
+# Game Russian translation.
+# Copyright Epic Games, Inc. All Rights Reserved.
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: Game\n"
+"Project-Id-Version: noonesurvived\n"
 "POT-Creation-Date: 2023-10-25 09:56\n"
-"PO-Revision-Date: 2023-10-25 09:56\n"
-"Language-Team: \n"
+"PO-Revision-Date: 2023-10-27 15:33\n"
+"Language-Team: Russian\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: noonesurvived\n"
+"X-Crowdin-Project-ID: 567073\n"
+"X-Crowdin-Language: ru\n"
+"X-Crowdin-File: Game.po\n"
+"X-Crowdin-File-ID: 9\n"
 
 #. Key:	2CD410E740F487818FE918876292782E
 #. SourceLocation:	/Game/Blueprint/ACF/Animal/Animal_Base.Default__Animal_Base_C.CharacterName
@@ -3090,8 +3095,20 @@ msgstr "Не удалось создать комнату!"
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/WBP_Main.WBP_Main_C:WidgetTree.TextBlock_0.Text
 #: /Game/Blueprint/UMG/MainUI/WBP_Main.WBP_Main_C:WidgetTree.TextBlock_0.Text
 msgctxt ",836EB7AB40D4C893FD6B23A855BE4F36"
-msgid "公告：\r\n\r\n因为游戏采用了最新的UnrealEngine5引擎，为了获得最好的游戏体验，请将显卡驱动升级到最新版本。\r\n\r\n否则你可能会看到模型显示不完整等情况。\r\n\r\n感谢！"
-msgstr "Объявление:\r\n\r\nПоскольку в игре используется новейший движок UnrealEngine5, чтобы получить наилучшие игровые возможности, обновите драйвер видеокарты до последней версии.\r\n\r\nВ противном случае вы можете увидеть неполное отображение модели и т. д.\r\n\r\nБлагодарим!"
+msgid "公告：\r\n"
+"\r\n"
+"因为游戏采用了最新的UnrealEngine5引擎，为了获得最好的游戏体验，请将显卡驱动升级到最新版本。\r\n"
+"\r\n"
+"否则你可能会看到模型显示不完整等情况。\r\n"
+"\r\n"
+"感谢！"
+msgstr "Объявление:\r\n"
+"\r\n"
+"Поскольку в игре используется новейший движок UnrealEngine5, чтобы получить наилучшие игровые возможности, обновите драйвер видеокарты до последней версии.\r\n"
+"\r\n"
+"В противном случае вы можете увидеть неполное отображение модели и т. д.\r\n"
+"\r\n"
+"Благодарим!"
 
 #. Key:	6D94E4B4492BEF00197AA29E81E62172
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/WBP_Main.WBP_Main_C:WidgetTree.WBP_StartButton_2.In Text
@@ -6016,8 +6033,10 @@ msgstr "Автоматич. деревянные шипы"
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",NPCMANAGER"
-msgid "这里可以管理NPC，设置生产资源偏好！\r\n当你拥有这个建筑以后，土匪营地会出现可营救的NPC"
-msgstr "Здесь вы можете управлять NPC и устанавливать предпочтения производимых ресурсов! \r\nКак только вы построите это здание, в лагере бандитов появятся NPC для спасения"
+msgid "这里可以管理NPC，设置生产资源偏好！\r\n"
+"当你拥有这个建筑以后，土匪营地会出现可营救的NPC"
+msgstr "Здесь вы можете управлять NPC и устанавливать предпочтения производимых ресурсов! \r\n"
+"Как только вы построите это здание, в лагере бандитов появятся NPC для спасения"
 
 #. Key:	Null
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -7039,7 +7058,7 @@ msgstr "Альпинистские ботинки"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F1"
 msgid "萝卜"
-msgstr "морковь"
+msgstr "Морковь"
 
 #. Key:	F10
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7186,7 +7205,7 @@ msgstr "Кулинария (5 том)"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F118"
 msgid "狗粮"
-msgstr "собачья еда"
+msgstr "Собачий корм"
 
 #. Key:	F119
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7200,7 +7219,7 @@ msgstr "консервированные овощи"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F12"
 msgid "橙子"
-msgstr "апельсин"
+msgstr "Апельсин"
 
 #. Key:	F120
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7326,7 +7345,7 @@ msgstr "Вкусная мясная лечебная диета"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F14"
 msgid "鱼"
-msgstr "рыба"
+msgstr "Рыба"
 
 #. Key:	F15
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7368,7 +7387,7 @@ msgstr "медвежатина"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F2"
 msgid "小麦"
-msgstr "пшеница"
+msgstr "Пшеница"
 
 #. Key:	F20
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7445,7 +7464,7 @@ msgstr "картофельный гарнир"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F3"
 msgid "玉米"
-msgstr "кукуруза"
+msgstr "Кукуруза"
 
 #. Key:	F30
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7753,7 +7772,7 @@ msgstr "богатые мясные консервы"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F7"
 msgid "草莓"
-msgstr "клубника"
+msgstr "Клубника"
 
 #. Key:	F70
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7907,7 +7926,7 @@ msgstr "Механика (1 том)"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F9"
 msgid "树莓"
-msgstr "малина"
+msgstr "Малина"
 
 #. Key:	F90
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -10623,7 +10642,7 @@ msgstr "Низкая выносливость влияет на урон"
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,05"
 msgid "在室内和室外温度会产生变化，一天中最冷的时候在凌晨。"
-msgstr "Существуют различия в температуре внутри и снаружи помещений, причем самая холодная часть дня приходится на ранние утренние часы."
+msgstr "Существуют различия в температуре внутри и снаружи помещений, а самая холодная часть дня приходится на ранние утренние часы."
 
 #. Key:	06
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -10818,7 +10837,8 @@ msgstr "разрядить"
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,BackSave"
-msgid "你确定要用这个存档覆盖之前的存档吗？\r\n注意覆盖以后之前的存档无法恢复"
+msgid "你确定要用这个存档覆盖之前的存档吗？\r\n"
+"注意覆盖以后之前的存档无法恢复"
 msgstr "Вы уверены? Это перезапишет ваше последнее сохранение!"
 
 #. Key:	Break
@@ -11414,7 +11434,7 @@ msgstr "Не хватает навыков шитья"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,FG"
 msgid "帧生成"
-msgstr "генерация кадров"
+msgstr "Генерация кадров"
 
 #. Key:	Find
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11673,7 +11693,7 @@ msgstr "строительный контроль"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,kd"
 msgid "矿洞"
-msgstr "Мой"
+msgstr "Шахта"
 
 #. Key:	KG
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12317,7 +12337,7 @@ msgstr "Время плавления: "
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,RR"
 msgid "光线重建"
-msgstr "Реконструкция лучей"
+msgstr "Ray reconstruction"
 
 #. Key:	RWKZ
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12344,8 +12364,12 @@ msgstr "Южная Америка"
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SAVE"
-msgid "你可以建造一个床加快时间流逝\r\n\r\n游戏全程自动存档"
-msgstr "Вы можете построить кровать, чтобы ускорить течение времени\r\n\r\nИгра автоматически сохраняется на протяжении всей игры"
+msgid "你可以建造一个床加快时间流逝\r\n"
+"\r\n"
+"游戏全程自动存档"
+msgstr "Вы можете построить кровать, чтобы ускорить течение времени\r\n"
+"\r\n"
+"Игра автоматически сохраняется на протяжении всей игры"
 
 #. Key:	Save
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12610,8 +12634,12 @@ msgstr "Лето"
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SW11"
-msgid "在打开箱子的状态下，左键单击物品可以快速转移。\r\n\r\n拖动物品中按下R旋转物品方向。"
-msgstr "В открытом ящике щелкните левой кнопкой мыши по предмету, чтобы быстро взять его.\r\n\r\nНажмите R во время перетаскивания предмета, чтобы повернуть его положение."
+msgid "在打开箱子的状态下，左键单击物品可以快速转移。\r\n"
+"\r\n"
+"拖动物品中按下R旋转物品方向。"
+msgstr "В открытом ящике щелкните левой кнопкой мыши по предмету, чтобы быстро взять его.\r\n"
+"\r\n"
+"Нажмите R во время перетаскивания предмета, чтобы повернуть его положение."
 
 #. Key:	SwitchServerMode
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -13177,8 +13205,10 @@ msgstr "Теплостойкость"
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,KTDetail"
-msgid "病毒抗体\r\n抗体为0就会死亡"
-msgstr "иммунитет\r\nЕсли иммунитет упадет до 0, вы умрете."
+msgid "病毒抗体\r\n"
+"抗体为0就会死亡"
+msgstr "иммунитет\r\n"
+"Если иммунитет упадет до 0, вы умрете."
 
 #. Key:	MAIKE
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -13268,8 +13298,10 @@ msgstr "вода"
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TLDetail"
-msgid "体力\r\n每减少30点体力，伤害降低25%（不影响枪械）"
-msgstr "энергия\r\nЗа каждые 30 очков урон снижается на 25% (не действует на огнестрельное оружие)"
+msgid "体力\r\n"
+"每减少30点体力，伤害降低25%（不影响枪械）"
+msgstr "энергия\r\n"
+"За каждые 30 очков урон снижается на 25% (не действует на огнестрельное оружие)"
 
 #. Key:	TZBDF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -13534,8 +13566,10 @@ msgstr "Влияет на урон соответствующего оружия
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,wsDetail"
-msgid "卫生\r\n影响丧尸发现几率，影响伤口感染几率，过低影响心情回复"
-msgstr "гигиена\r\nВлияет на вероятность быть обнаруженным зомби, заражение ран и на восстановление настроения, если оно слишком низкое."
+msgid "卫生\r\n"
+"影响丧尸发现几率，影响伤口感染几率，过低影响心情回复"
+msgstr "гигиена\r\n"
+"Влияет на вероятность быть обнаруженным зомби, заражение ран и на восстановление настроения, если оно слишком низкое."
 
 #. Key:	YZKX
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
