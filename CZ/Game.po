@@ -2818,14 +2818,14 @@ msgstr "Nesprávné heslo!"
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_DSServer.WBP_DSServer_C:WidgetTree.WBP_Join.In Text
 msgctxt ",6F03D9614CF463C18B07CB96306602DE"
 msgid "加入"
-msgstr "přidat se"
+msgstr "Připojit se"
 
 #. Key:	7071B2944E64F1D0A2537CA62BD591EB
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_DSServer.WBP_DSServer_C:WidgetTree.WBP_Search.In Text
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_DSServer.WBP_DSServer_C:WidgetTree.WBP_Search.In Text
 msgctxt ",7071B2944E64F1D0A2537CA62BD591EB"
 msgid "搜索"
-msgstr "Vyhledávání"
+msgstr "Vyhledat"
 
 #. Key:	F43A38CA419B4DC62020BDA1712DC2C8
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_GameSetting.Default__WBP_GameSetting_C.SSQDSelect(3).SSQDSelect
@@ -8684,7 +8684,7 @@ msgstr "Palivo v sudech"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M80"
 msgid "干电池"
-msgstr "Suché baterie"
+msgstr "Baterie"
 
 #. Key:	M81
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9671,7 +9671,7 @@ msgstr "Rozmazání pohybu"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,DTTS"
 msgid "地图01是64平方公里的大地图，地图02是16平方公里的小地图。"
-msgstr "Mapa 01 je velká mapa o rozloze 64 kilometrů čtverečních a mapa 02 je malá mapa o rozloze 16 kilometrů čtverečních."
+msgstr "Mapa 01 je velká o rozloze 64 km² a mapa 02 je malá o rozloze 16 km²."
 
 #. Key:	DTXZ
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -9685,7 +9685,7 @@ msgstr "Výběr mapy"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,DX"
 msgid "蹲下"
-msgstr "Přikrčte se"
+msgstr "Skrčit"
 
 #. Key:	DYRCLMD
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -9804,7 +9804,7 @@ msgstr "Vypnout"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,H"
 msgid "后"
-msgstr "Po"
+msgstr "Dozadu"
 
 #. Key:	HCLTJ
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10042,7 +10042,7 @@ msgstr "Citlivost zaměřování myši"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,ND01"
 msgid "休闲"
-msgstr "Začátečník"
+msgstr "Lehká"
 
 #. Key:	ND02
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10126,7 +10126,7 @@ msgstr "Kvalita globálního světla"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,QRGG"
 msgid "应用"
-msgstr "Aplikace"
+msgstr "Použít"
 
 #. Key:	QRTC
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11001,21 +11001,21 @@ msgstr "Kapacita:"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,CAR"
 msgid "车辆控制"
-msgstr "ovládání vozidla"
+msgstr "Nastavení vozidla"
 
 #. Key:	CARHANG
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,CARHANG"
 msgid "车辆手刹"
-msgstr "ruční brzda vozidla"
+msgstr "Ruční brzda"
 
 #. Key:	CARLINGHT
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,CARLINGHT"
 msgid "车灯"
-msgstr "světlomety"
+msgstr "Světla"
 
 #. Key:	CDDX
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11652,7 +11652,7 @@ msgstr "Lepší po ohřátí"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,JZBZKG"
 msgid "建造捕捉开关"
-msgstr "Sestavte spínače"
+msgstr "Volba uchycení"
 
 #. Key:	JZCD
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11666,7 +11666,7 @@ msgstr "Menu výstavby"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,JZKZ"
 msgid "建筑控制"
-msgstr "Kontrola budovy"
+msgstr "Nastavení stavby"
 
 #. Key:	kd
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12296,7 +12296,7 @@ msgstr "přetížení"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,RESMODE"
 msgid "超分辨率"
-msgstr "super rozlišení"
+msgstr "Technologie grafické karty"
 
 #. Key:	rizhao
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12324,7 +12324,7 @@ msgstr "Rekonstrukce paprsku"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,RWKZ"
 msgid "人物控制"
-msgstr "ovládání postavy"
+msgstr "Nastavení postavy"
 
 #. Key:	RYMessage
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12401,7 +12401,7 @@ msgstr "naslouchací server"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,ServerName"
 msgid "服务器名称："
-msgstr "Přesný název serveru:"
+msgstr "Název serveru:"
 
 #. Key:	shanchu
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12730,42 +12730,42 @@ msgstr "Použít "
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,USE1"
 msgid "快捷栏1"
-msgstr "lišta zkratek 1"
+msgstr "Rychlá volba 1"
 
 #. Key:	USE2
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,USE2"
 msgid "快捷栏2"
-msgstr "lišta zkratek 2"
+msgstr "Rychlá volba 2"
 
 #. Key:	USE3
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,USE3"
 msgid "快捷栏3"
-msgstr "lišta zkratek 3"
+msgstr "Rychlá volba 3"
 
 #. Key:	USE4
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,USE4"
 msgid "快捷栏4"
-msgstr "lišta zkratek 4"
+msgstr "Rychlá volba 4"
 
 #. Key:	USE5
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,USE5"
 msgid "快捷栏5"
-msgstr "lišta zkratek 5"
+msgstr "Rychlá volba 5"
 
 #. Key:	USE6
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,USE6"
 msgid "快捷栏6"
-msgstr "lišta zkratek 6"
+msgstr "Rychlá volba 6"
 
 #. Key:	useDDFRJ
 #. SourceLocation:	/Game/LocalizationText/UI.UI
