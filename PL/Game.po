@@ -1537,7 +1537,7 @@ msgstr "Niska"
 #: /Game/Blueprint/UMG/EscMenu/WBP_Setting.Default__WBP_Setting_C.Setting(1).Setting
 msgctxt ",36C199AA4147C714D62C5BA149D79EC9"
 msgid "中"
-msgstr "Średnie"
+msgstr "Średnia"
 
 #. Key:	F3BDDD104B77947183BF8B94D26442DE
 #. SourceLocation:	/Game/Blueprint/UMG/EscMenu/WBP_Setting.Default__WBP_Setting_C.Setting(2).Setting
@@ -2979,14 +2979,14 @@ msgstr "Wejście na serwer wymaga podania hasła:"
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_ServerSetting.WBP_ServerSetting_C:WidgetTree.ShowTex_3.Text
 msgctxt ",1CF0746C40F2A113503AC6AB4357271C"
 msgid "房间名称："
-msgstr "Nazwa pokoju: "
+msgstr "Nazwa serwera: "
 
 #. Key:	60C920AE4EEC3040FA97A59FA380B13C
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_ServerSetting.WBP_ServerSetting_C:WidgetTree.ShowTex_4.Text
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_ServerSetting.WBP_ServerSetting_C:WidgetTree.ShowTex_4.Text
 msgctxt ",60C920AE4EEC3040FA97A59FA380B13C"
 msgid "仅限好友加入："
-msgstr "Prywatny pokój: "
+msgstr "Serwer prywatny: "
 
 #. Key:	0414C204455F4F019180F78CF6ACBF9A
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_ServerSetting.WBP_ServerSetting_C:WidgetTree.TextBlock_68.Text
@@ -6717,7 +6717,7 @@ msgstr "Światło"
 #: /Game/LocalizationText/GUN.GUN
 msgctxt "UI,DJ"
 msgid "弹夹"
-msgstr "Spinacz"
+msgstr "Magazynek"
 
 #. Key:	JTL
 #. SourceLocation:	/Game/LocalizationText/GUN.GUN
@@ -7039,7 +7039,7 @@ msgstr "Buty na wędrówki"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F1"
 msgid "萝卜"
-msgstr "Rzodkiewka"
+msgstr "Marchewka"
 
 #. Key:	F10
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7718,7 +7718,7 @@ msgstr "Duża plastikowa butelka"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F65"
 msgid "铝壶"
-msgstr "Garnek aluminiowy"
+msgstr "Manierka"
 
 #. Key:	F66
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9524,7 +9524,7 @@ msgstr "Automatyczny"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,AutoRun"
 msgid "自动奔跑"
-msgstr "uruchomić automatycznie"
+msgstr "Automatyczne bieganie"
 
 #. Key:	BackGame
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -9538,7 +9538,7 @@ msgstr "Powrót"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,BCG"
 msgid "鼻唇沟"
-msgstr "Fałd nosowo-wargowy"
+msgstr "Fałdy nosowo-wargowe"
 
 #. Key:	BJY
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -9566,7 +9566,7 @@ msgstr "Krwawa przemoc"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,BP"
 msgid "奔跑"
-msgstr "Bieg"
+msgstr "Bieganie"
 
 #. Key:	BX
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -9629,7 +9629,7 @@ msgstr "Synchronizacja pionowa"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,DBD"
 msgid "饱和度"
-msgstr "Napojenie"
+msgstr "Nasycenie"
 
 #. Key:	Depth
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -9685,7 +9685,7 @@ msgstr "Wybór mapy"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,DX"
 msgid "蹲下"
-msgstr "Kucnij"
+msgstr "Kucanie"
 
 #. Key:	DYRCLMD
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -9776,7 +9776,7 @@ msgstr "Super wydajność"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,FSZL"
 msgid "反射质量"
-msgstr "Jakość odbicia"
+msgstr "Jakość odbić"
 
 #. Key:	FX
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -9797,28 +9797,28 @@ msgstr "Jasność"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,GB"
 msgid "关闭"
-msgstr "Zamknij"
+msgstr "Wyłącz"
 
 #. Key:	H
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,H"
 msgid "后"
-msgstr "Tył"
+msgstr "Do tyłu"
 
 #. Key:	HCLTJ
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,HCLTJ"
 msgid "后处理体积"
-msgstr "Jakość post-processing"
+msgstr "Jakość post-processingu"
 
 #. Key:	Height
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,Height"
 msgid "高度"
-msgstr "Wzrost"
+msgstr "Wysokość"
 
 #. Key:	HJY
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -9839,7 +9839,7 @@ msgstr "Jakość obrazu"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,HUXUE01"
 msgid "胡须"
-msgstr "Broda"
+msgstr "Zarost"
 
 #. Key:	hymr
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10000,7 +10000,7 @@ msgstr "Wróć do głównego menu"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,mm"
 msgid "眉毛"
-msgstr "Brew"
+msgstr "Brwi"
 
 #. Key:	MouseSpeed
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10035,7 +10035,7 @@ msgstr "Nazwa : "
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,MZLMD"
 msgid "瞄准鼠标灵敏度"
-msgstr "celowanie czułość myszy"
+msgstr "Czułość myszy podczas celowania"
 
 #. Key:	ND01
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10112,7 +10112,7 @@ msgstr "Kości policzkowe"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,QHXJ"
 msgid "切换视角"
-msgstr "zmienić perspektywę"
+msgstr "Zmiana perspektywy"
 
 #. Key:	QJGZZL
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10154,7 +10154,7 @@ msgstr "Przeładuj broń"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,Random"
 msgid "随机"
-msgstr "Losowy"
+msgstr "Losowe"
 
 #. Key:	RWTD
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10203,7 +10203,7 @@ msgstr "Ustawienia grafiki"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,SEDIAO"
 msgid "色调"
-msgstr "Ton"
+msgstr "Kolor"
 
 #. Key:	SetTipMessage
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10245,7 +10245,7 @@ msgstr "Rozmiar"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,SkinColor"
 msgid "肤色"
-msgstr "Kolor"
+msgstr "Kolor "
 
 #. Key:	SkinGZD
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10315,7 +10315,7 @@ msgstr "        Po wybuchu epidemii wirusa, mieszkałeś w schronie przez trzy l
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,T"
 msgid "跳"
-msgstr "Skok"
+msgstr "Skakanie"
 
 #. Key:	TD
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10455,7 +10455,7 @@ msgstr "W prawo"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,YanJ"
 msgid "眼睛"
-msgstr "Oko"
+msgstr "Oczy"
 
 #. Key:	YANJU
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10511,7 +10511,7 @@ msgstr "Ustawienia gry:"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,YY"
 msgid "阴影"
-msgstr "Cienie"
+msgstr "Ustawienia cieni"
 
 #. Key:	YZ
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11869,7 +11869,7 @@ msgstr "Nie znaleziono przydatnego przedmiotu"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,NA"
 msgid "北美"
-msgstr "Kitami"
+msgstr "Ameryka Północna"
 
 #. Key:	nailihuifu
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12296,7 +12296,7 @@ msgstr "Przeładuj"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,RESMODE"
 msgid "超分辨率"
-msgstr "mega rozdzielczość"
+msgstr "Upscaling"
 
 #. Key:	rizhao
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12387,14 +12387,14 @@ msgstr "Ustawienia wyszukiwania:"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,server01"
 msgid "专用服务器"
-msgstr "Prywatny serwer"
+msgstr "Prywatne serwery"
 
 #. Key:	server02
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,server02"
 msgid "监听服务器"
-msgstr "serwer nasłuchujący"
+msgstr "Serwer"
 
 #. Key:	ServerName
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12884,7 +12884,7 @@ msgstr "Źródło wody: "
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,WDXS"
 msgid "温度显示"
-msgstr "Wskaźnik temperatury"
+msgstr "Jednostka temperatury"
 
 #. Key:	WeaponNotUse
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -13297,7 +13297,7 @@ msgstr "Wpływa na życie, maksymalną wytrzymałość"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZFYF"
 msgid "细皮嫩肉"
-msgstr "Delikatny\r\nWiększa szansa na odniesienie obrażeń"
+msgstr "Delikatny\r\nZwiększona szansa na odniesienie obrażeń"
 
 #. Key:	TZFYZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -13311,42 +13311,42 @@ msgstr "Gruba skóra\r\nMniejsza szansa na odniesienie obrażeń"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZFZF"
 msgid "不堪重负"
-msgstr "Przytłoczony\r\nNie może nosić dużo"
+msgstr "Przytłoczony\r\nNie może nosić zbyt dużo"
 
 #. Key:	TZFZZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZFZZ"
 msgid "负重前行"
-msgstr "Wół\r\nMoże unieść więcej"
+msgstr "Muł\r\nMoże unieść więcej"
 
 #. Key:	TZKCF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZKCF"
 msgid "不擅交易"
-msgstr "Nieśmiały\r\nNie dobry w handlu"
+msgstr "Nieśmiały\r\nSłaby handlarz"
 
 #. Key:	TZKCZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZKCZ"
 msgid "口才大师"
-msgstr "Charyzmatyczny\r\nMistrz Elokwencji"
+msgstr "Charyzmatyczny\r\nMistrz elokwencji"
 
 #. Key:	TZKKF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZKKF"
 msgid "容易口渴"
-msgstr "Spragniony\r\nŁatwo spragniony"
+msgstr "Spragniony\r\nCzęsto chce się pić"
 
 #. Key:	TZKKZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZKKZ"
 msgid "不易口渴"
-msgstr "Wielbłąd\r\nNie jest spragniony"
+msgstr "Wielbłąd\r\nNRzadziej chce się pić"
 
 #. Key:	TZLGF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
