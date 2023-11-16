@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-10-25 09:56\n"
-"PO-Revision-Date: 2023-10-25 09:56\n"
+"POT-Creation-Date: 2023-11-15 03:25\n"
+"PO-Revision-Date: 2023-11-15 03:25\n"
 "Language-Team: \n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -10036,6 +10036,13 @@ msgstr "이름 : "
 msgctxt "UI,MZLMD"
 msgid "瞄准鼠标灵敏度"
 msgstr "마우스 감도 조준"
+
+#. Key:	NCFLJB
+#. SourceLocation:	/Game/LocalizationText/Screen.Screen
+#: /Game/LocalizationText/Screen.Screen
+msgctxt "UI,NCFLJB"
+msgid "你触发了警报！！！"
+msgstr "알람을 울렸어요! ! !"
 
 #. Key:	ND01
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
