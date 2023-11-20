@@ -193,14 +193,14 @@ msgstr "Chance de Intoxicação Alimentar"
 #: /Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_7.TZF_27_2477A82448AA37EFCFBF4883BE709EF2
 msgctxt ",36F28AD24381348428BD9687A35CBC18"
 msgid "胃病"
-msgstr "Problemas Estomacais"
+msgstr "Estômago Fraco\r\nCuidado com a alimentação."
 
 #. Key:	E6E3B15A4925B249E7A292B862DF098A
 #. SourceLocation:	/Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_7.TZZ_25_C35A51E443EAFDA67203CFBC1ACCE357
 #: /Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_7.TZZ_25_C35A51E443EAFDA67203CFBC1ACCE357
 msgctxt ",E6E3B15A4925B249E7A292B862DF098A"
 msgid "铁胃"
-msgstr "Estômago de Ferro"
+msgstr "Estômago de Ferro\r\nNão está fresco? Sem problemas."
 
 #. Key:	017C13554A303CDB96F5DAA161E199F6
 #. SourceLocation:	/Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_8.TipMessage_41_0D1B7B6342180F0BD1D386A6C8ADE0B3
@@ -13304,42 +13304,42 @@ msgstr "Afeta a Vida e a Resistência do Personagem"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZFYF"
 msgid "细皮嫩肉"
-msgstr "Pele Frágil"
+msgstr "Pele Frágil\r\nSe machuca facilmente."
 
 #. Key:	TZFYZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZFYZ"
 msgid "皮糙肉厚"
-msgstr "Pele de Ferro"
+msgstr "Pele de Ferro\r\nMenos propenso a ferimentos."
 
 #. Key:	TZFZF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZFZF"
 msgid "不堪重负"
-msgstr "Desorganizado"
+msgstr "Problemas de Coluna\r\nCarrega menos peso."
 
 #. Key:	TZFZZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZFZZ"
 msgid "负重前行"
-msgstr "Burro de Carga"
+msgstr "Burro de Carga\r\nPode carregar mais peso."
 
 #. Key:	TZKCF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZKCF"
 msgid "不擅交易"
-msgstr "Tímido"
+msgstr "Péssimos Negócios\r\nSem barganha."
 
 #. Key:	TZKCZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZKCZ"
 msgid "口才大师"
-msgstr "Carismático"
+msgstr "Mestre Mercante\r\nSobrevivente carismático."
 
 #. Key:	TZKKF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -13374,28 +13374,28 @@ msgstr "Otimista"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZLLF"
 msgid "力气较小"
-msgstr "Fraco"
+msgstr "Fraco\r\nLeve como uma pena."
 
 #. Key:	TZLLZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZLLZ"
 msgid "力大无穷"
-msgstr "Forte"
+msgstr "Forte\r\nNo pain, no gain."
 
 #. Key:	TZNLF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZNLF"
 msgid "耐力不好"
-msgstr "Sedentário"
+msgstr "Sedentário\r\nResistência limitada."
 
 #. Key:	TZNLZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZNLZ"
 msgid "耐力极好"
-msgstr "Resistente"
+msgstr "Atlético\r\nÓtima Resistência."
 
 #. Key:	TZQSF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -13416,70 +13416,70 @@ msgstr "Alimentação Saudável"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZRAXXF"
 msgid "学习困难症"
-msgstr "Disléxico"
+msgstr "Disléxico\r\nAprendizado lento."
 
 #. Key:	TZRAXXZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZRAXXZ"
 msgid "热爱学习"
-msgstr "Estudioso"
+msgstr "Estudioso\r\nAprendizado rápido."
 
 #. Key:	TZSDF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZSDF"
 msgid "不太灵活"
-msgstr "Desastrado"
+msgstr "Lento\r\nComo uma tartaruga."
 
 #. Key:	TZSDZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZSDZ"
 msgid "敏捷如兔"
-msgstr "Ágil"
+msgstr "Ágil\r\nComo uma lebre."
 
 #. Key:	TZSMF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZSMF"
 msgid "生命脆弱"
-msgstr "Inflexível"
+msgstr "Inflexível\r\nMenos saudável."
 
 #. Key:	TZSMZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZSMZ"
 msgid "生命强悍"
-msgstr "Resiliente"
+msgstr "Resiliente\r\nMais saudável."
 
 #. Key:	TZTJF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZTJF"
 msgid "不喜跑步"
-msgstr "Lento"
+msgstr "Asmático\r\nSe cansa facilmente."
 
 #. Key:	TZTJZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZTJZ"
 msgid "田径选手"
-msgstr "Corredor"
+msgstr "Corredor\r\nMaratonista."
 
 #. Key:	TZWQF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZWQF"
 msgid "不擅战斗"
-msgstr "Despreparado"
+msgstr "Despreparado\r\nMenos experiente em combates."
 
 #. Key:	TZWQZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZWQZ"
 msgid "武器大师"
-msgstr "Mestre das Armas"
+msgstr "Mestre das Armas\r\nGuerreiro experiente."
 
 #. Key:	TZWSF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -13500,14 +13500,14 @@ msgstr "Mantenha-se limpo!\r\nA Higiene influencia no Humor do personagem"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZXXF"
 msgid "粗心"
-msgstr "Mãos Ágeis"
+msgstr "Cuidadoso\r\nLeva mais tempo para encontrar items."
 
 #. Key:	TZXXZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZXXZ"
 msgid "细心"
-msgstr "Cuidadoso"
+msgstr "Olhos Ágeis\r\nEncontra itens com facilidade."
 
 #. Key:	TZZLF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
