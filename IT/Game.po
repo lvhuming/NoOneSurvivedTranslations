@@ -2139,7 +2139,7 @@ msgstr "Vita"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_19.Text
 msgctxt ",E31C6DA3490AA4EB9661B184FAD08B65"
 msgid "蛋白质-"
-msgstr "Proteina"
+msgstr "Proteine"
 
 #. Key:	EC749212496CEF6AB320469F8E66F8A3
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_2.Text
@@ -2972,7 +2972,7 @@ msgstr "Password del server:"
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_ServerSetting.WBP_ServerSetting_C:WidgetTree.ShowTex_2.Text
 msgctxt ",3D8D64F348C5C0E386AFEDB9DE2DFD13"
 msgid "进入服务器需要密码："
-msgstr "Per accedere al server è necessaria una password:"
+msgstr "Password necessaria per accedere:"
 
 #. Key:	1CF0746C40F2A113503AC6AB4357271C
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_ServerSetting.WBP_ServerSetting_C:WidgetTree.ShowTex_3.Text
@@ -2993,7 +2993,7 @@ msgstr "Solo gli amici possono partecipare:"
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_ServerSetting.WBP_ServerSetting_C:WidgetTree.TextBlock_68.Text
 msgctxt ",0414C204455F4F019180F78CF6ACBF9A"
 msgid "服务器设置："
-msgstr "Configurazione del server."
+msgstr "Configurazione del server"
 
 #. Key:	40A426BC44ED8982E71BDFA1475AF42C
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/SelectCharacter/WBP_SelectCharacterBegin.WBP_SelectCharacterBegin_C:ExecuteUbergraph_WBP_SelectCharacterBegin [Script Bytecode]
@@ -5520,7 +5520,7 @@ msgstr "Deposito di tronchi"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B84"
 msgid "木棍架"
-msgstr "Deposito ramoscelli"
+msgstr "Deposito di ramoscelli"
 
 #. Key:	B85
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -5800,7 +5800,7 @@ msgstr "magazzino"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",DLCW"
 msgid "电力刺网"
-msgstr "rete da posta elettrica"
+msgstr "Trappola a rete elettrica"
 
 #. Key:	door1
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -9412,7 +9412,7 @@ msgstr "Utilizza munizioni calibro 12"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W5"
 msgid "石刀"
-msgstr "Spada di pietra"
+msgstr "Coltello di pietra"
 
 #. Key:	W50
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9601,7 +9601,7 @@ msgstr "Crea"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,CJDRYX"
 msgid "创建多人游戏"
-msgstr "Crea una partita multiplayer"
+msgstr "Crea una partita"
 
 #. Key:	CKMS
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -9881,7 +9881,7 @@ msgstr "Interazione 2"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,JRDRYX"
 msgid "加入多人游戏"
-msgstr "Partecipa a una partita multiplayer"
+msgstr "Partecipa a una partita"
 
 #. Key:	KHMS
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -9937,7 +9937,7 @@ msgstr "Torcia elettrica"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,LoadGame"
 msgid "加载游戏"
-msgstr "Caricamento di gioco"
+msgstr "Carica salvataggio"
 
 #. Key:	LumenLight
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11680,7 +11680,7 @@ msgstr "controllo edilizio"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,kd"
 msgid "矿洞"
-msgstr "Mio"
+msgstr "Miniera"
 
 #. Key:	KG
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11778,7 +11778,7 @@ msgstr "Collega"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,load"
 msgid "加载"
-msgstr "Caricamento"
+msgstr "Carica"
 
 #. Key:	Lock
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12394,7 +12394,7 @@ msgstr "impostazioni di ricerca:"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,server01"
 msgid "专用服务器"
-msgstr "Server privato"
+msgstr "Server dedicato"
 
 #. Key:	server02
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12961,7 +12961,7 @@ msgstr "Rapporto di consumo:"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,XHLDZ"
 msgid "销毁领地桌"
-msgstr "distruggi la tabella dei territori"
+msgstr "Distruggi il banco del territorio"
 
 #. Key:	xianshifanwei
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -13038,7 +13038,7 @@ msgstr "Giro"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,ZISHA"
 msgid "自杀"
-msgstr "suicidio"
+msgstr "Suicidati"
 
 #. Key:	ZS
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -13094,7 +13094,7 @@ msgstr "barry"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,carbohydrate"
 msgid "碳水化合物"
-msgstr "Carboidrato"
+msgstr "Carboidrati"
 
 #. Key:	CGJJRZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -13150,7 +13150,7 @@ msgstr "Salute"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,JDL"
 msgid "击倒"
-msgstr "Stenditi"
+msgstr "Atterramento"
 
 #. Key:	JIEJIU
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -13185,7 +13185,7 @@ msgstr "Resistenza al calore"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,KTDetail"
 msgid "病毒抗体\r\n抗体为0就会死亡"
-msgstr "Anticorpi contro il virus\nMuore se l'anticorpo è 0"
+msgstr "Anticorpi contro il virus\nMorirai se raggiunge lo 0"
 
 #. Key:	MAIKE
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -13227,7 +13227,7 @@ msgstr "Forza fisica"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,protein"
 msgid "蛋白质"
-msgstr "Proteina"
+msgstr "Proteine"
 
 #. Key:	QXdetail
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -13542,7 +13542,7 @@ msgstr "Influenza il danno dell'arma corrispondente"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,wsDetail"
 msgid "卫生\r\n影响丧尸发现几率，影响伤口感染几率，过低影响心情回复"
-msgstr "Igiene\nInfluisce sulla possibilità di essere individuato dagli zombie, sulla possibilità di infezione delle ferite, e influisce sulla risposta dell'umore se è troppo basso"
+msgstr "Igiene\nInfluisce sulla possibilità di essere individuato dagli zombie, sulla possibilità di infezione delle ferite, e influisce neagtivamente l'umore se è troppo basso"
 
 #. Key:	YZKX
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -13556,7 +13556,7 @@ msgstr "Forza fisica"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,YZL"
 msgid "硬直"
-msgstr "Rigidità"
+msgstr "Impatto"
 
 #. Key:	CF
 #. SourceLocation:	/Game/LocalizationText/UIStudy.UIStudy
