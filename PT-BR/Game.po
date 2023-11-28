@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-11-15 03:25\n"
-"PO-Revision-Date: 2023-11-15 03:25\n"
+"POT-Creation-Date: 2023-11-28 08:38\n"
+"PO-Revision-Date: 2023-11-28 08:38\n"
 "Language-Team: \n"
 "Language: pt-BR\n"
 "MIME-Version: 1.0\n"
@@ -9729,6 +9729,13 @@ msgctxt "UI,Feamle"
 msgid "女"
 msgstr "Feminino"
 
+#. Key:	FENZZHONG
+#. SourceLocation:	/Game/LocalizationText/Screen.Screen
+#: /Game/LocalizationText/Screen.Screen
+msgctxt "UI,FENZZHONG"
+msgid "分钟"
+msgstr "minuto"
+
 #. Key:	FH
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
 #: /Game/LocalizationText/Screen.Screen
@@ -10498,6 +10505,13 @@ msgstr "Redefinir habilidades após a morte"
 msgctxt "UI,YNDSJ"
 msgid "一年的时间"
 msgstr "Duração do Ano"
+
+#. Key:	YTDCD
+#. SourceLocation:	/Game/LocalizationText/Screen.Screen
+#: /Game/LocalizationText/Screen.Screen
+msgctxt "UI,YTDCD"
+msgid "一天的长度"
+msgstr "duração do dia"
 
 #. Key:	YXND
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -12375,6 +12389,13 @@ msgctxt "UI,SaveGame"
 msgid "保存游戏"
 msgstr "Salvar Jogo"
 
+#. Key:	SBKZ
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,SBKZ"
+msgid "鼠标控制"
+msgstr "Controle do mouse"
+
 #. Key:	SCJGR
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
@@ -12942,6 +12963,13 @@ msgctxt "UI,WXL"
 msgid "未修理"
 msgstr "Não Reparado"
 
+#. Key:	WXMM
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,WXMM"
+msgid "过滤需要密码的服务器："
+msgstr "Filtre servidores que exigem senha:"
+
 #. Key:	WZSC
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
@@ -13019,6 +13047,13 @@ msgctxt "UI,YC"
 msgid "移除"
 msgstr "Remover"
 
+#. Key:	YXSZC001
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,YXSZC001"
+msgid "游戏设置"
+msgstr "configurações do jogo"
+
 #. Key:	ZBJ
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
@@ -13032,6 +13067,13 @@ msgstr "Criado no Tear"
 msgctxt "UI,ZD"
 msgid "转动"
 msgstr "Girar"
+
+#. Key:	ZDBC
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,ZDBC"
+msgid "自动保存"
+msgstr "Salvamento automático"
 
 #. Key:	ZISHA
 #. SourceLocation:	/Game/LocalizationText/UI.UI

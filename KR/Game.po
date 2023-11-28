@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-11-15 03:25\n"
-"PO-Revision-Date: 2023-11-15 03:25\n"
+"POT-Creation-Date: 2023-11-28 08:38\n"
+"PO-Revision-Date: 2023-11-28 08:38\n"
 "Language-Team: \n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -9729,6 +9729,13 @@ msgctxt "UI,Feamle"
 msgid "女"
 msgstr "여성"
 
+#. Key:	FENZZHONG
+#. SourceLocation:	/Game/LocalizationText/Screen.Screen
+#: /Game/LocalizationText/Screen.Screen
+msgctxt "UI,FENZZHONG"
+msgid "分钟"
+msgstr "분"
+
 #. Key:	FH
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
 #: /Game/LocalizationText/Screen.Screen
@@ -10498,6 +10505,13 @@ msgstr "사망시 모든 스킬및숙련도 초기화"
 msgctxt "UI,YNDSJ"
 msgid "一年的时间"
 msgstr "일년의 시간"
+
+#. Key:	YTDCD
+#. SourceLocation:	/Game/LocalizationText/Screen.Screen
+#: /Game/LocalizationText/Screen.Screen
+msgctxt "UI,YTDCD"
+msgid "一天的长度"
+msgstr "하루의 길이"
 
 #. Key:	YXND
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -12375,6 +12389,13 @@ msgctxt "UI,SaveGame"
 msgid "保存游戏"
 msgstr "게임을 저장"
 
+#. Key:	SBKZ
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,SBKZ"
+msgid "鼠标控制"
+msgstr "마우스 제어"
+
 #. Key:	SCJGR
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
@@ -12942,6 +12963,13 @@ msgctxt "UI,WXL"
 msgid "未修理"
 msgstr "수리되지 않은"
 
+#. Key:	WXMM
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,WXMM"
+msgid "过滤需要密码的服务器："
+msgstr "비밀번호가 필요한 서버를 필터링합니다."
+
 #. Key:	WZSC
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
@@ -13019,6 +13047,13 @@ msgctxt "UI,YC"
 msgid "移除"
 msgstr "제거하다"
 
+#. Key:	YXSZC001
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,YXSZC001"
+msgid "游戏设置"
+msgstr "게임 설정"
+
 #. Key:	ZBJ
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
@@ -13032,6 +13067,13 @@ msgstr "직조기에서 제작"
 msgctxt "UI,ZD"
 msgid "转动"
 msgstr "회전하기"
+
+#. Key:	ZDBC
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,ZDBC"
+msgid "自动保存"
+msgstr "자동 저장"
 
 #. Key:	ZISHA
 #. SourceLocation:	/Game/LocalizationText/UI.UI
