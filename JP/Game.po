@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-10-25 09:56\n"
-"PO-Revision-Date: 2023-10-25 09:56\n"
+"POT-Creation-Date: 2023-11-28 08:38\n"
+"PO-Revision-Date: 2023-11-28 08:38\n"
 "Language-Team: \n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
@@ -9729,6 +9729,13 @@ msgctxt "UI,Feamle"
 msgid "女"
 msgstr "女性"
 
+#. Key:	FENZZHONG
+#. SourceLocation:	/Game/LocalizationText/Screen.Screen
+#: /Game/LocalizationText/Screen.Screen
+msgctxt "UI,FENZZHONG"
+msgid "分钟"
+msgstr "分"
+
 #. Key:	FH
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
 #: /Game/LocalizationText/Screen.Screen
@@ -10036,6 +10043,13 @@ msgstr "名前 ： "
 msgctxt "UI,MZLMD"
 msgid "瞄准鼠标灵敏度"
 msgstr "エイミングマウスの感度"
+
+#. Key:	NCFLJB
+#. SourceLocation:	/Game/LocalizationText/Screen.Screen
+#: /Game/LocalizationText/Screen.Screen
+msgctxt "UI,NCFLJB"
+msgid "你触发了警报！！！"
+msgstr "警報を鳴らしたのはあなたです！ ！ ！"
 
 #. Key:	ND01
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10491,6 +10505,13 @@ msgstr "死亡後、すべてのスキルがリセットされます"
 msgctxt "UI,YNDSJ"
 msgid "一年的时间"
 msgstr "一年の日数"
+
+#. Key:	YTDCD
+#. SourceLocation:	/Game/LocalizationText/Screen.Screen
+#: /Game/LocalizationText/Screen.Screen
+msgctxt "UI,YTDCD"
+msgid "一天的长度"
+msgstr "一日の長さ"
 
 #. Key:	YXND
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -12368,6 +12389,13 @@ msgctxt "UI,SaveGame"
 msgid "保存游戏"
 msgstr "ゲームを保存する"
 
+#. Key:	SBKZ
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,SBKZ"
+msgid "鼠标控制"
+msgstr "マウスコントロール"
+
 #. Key:	SCJGR
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
@@ -12935,6 +12963,13 @@ msgctxt "UI,WXL"
 msgid "未修理"
 msgstr "未修理"
 
+#. Key:	WXMM
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,WXMM"
+msgid "过滤需要密码的服务器："
+msgstr "パスワードを必要とするサーバーをフィルタリングします。"
+
 #. Key:	WZSC
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
@@ -13012,6 +13047,13 @@ msgctxt "UI,YC"
 msgid "移除"
 msgstr "削除"
 
+#. Key:	YXSZC001
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,YXSZC001"
+msgid "游戏设置"
+msgstr "ゲームの設定"
+
 #. Key:	ZBJ
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
@@ -13025,6 +13067,13 @@ msgstr "電動ミシンで作成"
 msgctxt "UI,ZD"
 msgid "转动"
 msgstr "回す"
+
+#. Key:	ZDBC
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,ZDBC"
+msgid "自动保存"
+msgstr "自動保存"
 
 #. Key:	ZISHA
 #. SourceLocation:	/Game/LocalizationText/UI.UI
