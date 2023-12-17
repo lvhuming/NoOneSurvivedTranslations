@@ -116,28 +116,28 @@ msgstr "Obrona"
 #: /Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_1.TipMessage_41_0D1B7B6342180F0BD1D386A6C8ADE0B3
 msgctxt ",19AC3E7F4171121FDAC351BEE6BAD32D"
 msgid "负重"
-msgstr "Wczytaj"
+msgstr "Udźwig"
 
 #. Key:	6B154759470BA3F08F615E920930379E
 #. SourceLocation:	/Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_11.TipMessage_41_0D1B7B6342180F0BD1D386A6C8ADE0B3
 #: /Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_11.TipMessage_41_0D1B7B6342180F0BD1D386A6C8ADE0B3
 msgctxt ",6B154759470BA3F08F615E920930379E"
 msgid "疾跑耐力消耗"
-msgstr "Konsumpcja staminy podczas biegu"
+msgstr "Zużycie staminy podczas biegu"
 
 #. Key:	7C2B47074356869105F236B2DA55D6B5
 #. SourceLocation:	/Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_12.TipMessage_41_0D1B7B6342180F0BD1D386A6C8ADE0B3
 #: /Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_12.TipMessage_41_0D1B7B6342180F0BD1D386A6C8ADE0B3
 msgctxt ",7C2B47074356869105F236B2DA55D6B5"
 msgid "战斗获取经验"
-msgstr "Walcz, aby zdobywać doświadczenie"
+msgstr "Doświadczenie jest zdobywane w walce"
 
 #. Key:	43D1BDAC430C12636432F9B0A31832E9
 #. SourceLocation:	/Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_14.TipMessage_41_0D1B7B6342180F0BD1D386A6C8ADE0B3
 #: /Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_14.TipMessage_41_0D1B7B6342180F0BD1D386A6C8ADE0B3
 msgctxt ",43D1BDAC430C12636432F9B0A31832E9"
 msgid "搜索时间"
-msgstr "Czas wyszukiwania"
+msgstr "Czas przeszukiwania"
 
 #. Key:	D6A16FE4487F8C9FE0DFA48D534C86ED
 #. SourceLocation:	/Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_2.TipMessage_41_0D1B7B6342180F0BD1D386A6C8ADE0B3
@@ -151,7 +151,7 @@ msgstr "Wartość"
 #: /Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_3.TipMessage_41_0D1B7B6342180F0BD1D386A6C8ADE0B3
 msgctxt ",9E42FABC4D38C8662030F1806B8C2115"
 msgid "生命上限"
-msgstr "Limit życia"
+msgstr "Poziom życia"
 
 #. Key:	B4227B28456F62424876BF98D38BA59A
 #. SourceLocation:	/Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_3.TZF_27_2477A82448AA37EFCFBF4883BE709EF2
@@ -179,7 +179,7 @@ msgstr "Siła"
 #: /Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_6.TipMessage_41_0D1B7B6342180F0BD1D386A6C8ADE0B3
 msgctxt ",5CB0A2B9434116D064FC0780EE57DE6A"
 msgid "耐力上限"
-msgstr "Limit wytrzymałości"
+msgstr "Poziom wytrzymałości"
 
 #. Key:	0C797E8E40ACBD720B57B4B33B461ADD
 #. SourceLocation:	/Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_7.TipMessage_41_0D1B7B6342180F0BD1D386A6C8ADE0B3
@@ -928,7 +928,7 @@ msgstr "Produkcja zakończona"
 #: /Game/Blueprint/ACF/Player/HDCK_GameMode.HDCK_GameMode_C:ExecuteUbergraph_HDCK_GameMode [Script Bytecode]
 msgctxt ",C4C9089841ED96447C2336ADFE055AE0"
 msgid "存档失败！！！"
-msgstr "Zapis nie powiodł się! ! !"
+msgstr "Zapis nie powiodł się!"
 
 #. Key:	0EE4296D4AE97E2F2B01F4A0EC0AB712
 #. SourceLocation:	/Game/Blueprint/ACF/Player/HDCK_GameState.Default__HDCK_GameState_C:Team Manager.Teams(0 - Value).Teams.DisplayName
@@ -1005,14 +1005,14 @@ msgstr "Naciśnij spację, aby skoczyć lub wspiąć się na przeszkodę."
 #: /Game/Blueprint/ACF/Tutorial/WBP_TutorialTip0.WBP_TutorialTip0_C:WidgetTree.TextBlock_1.Text
 msgctxt ",F5C0F7184C00ACEDED9200871386DE0A"
 msgid "按下C蹲下，或者双击翻滚"
-msgstr "Naciśnij raz C, aby kucnąć lub dwa razy, aby się przeturlać."
+msgstr "Naciśnij raz <C>, aby kucnąć lub dwa razy, aby się przeturlać."
 
 #. Key:	2ECDFCFA49898CD10A445C8EF1757C70
 #. SourceLocation:	/Game/Blueprint/ACF/Tutorial/WBP_TutorialTip0.WBP_TutorialTip0_C:WidgetTree.TextBlock_140.Text
 #: /Game/Blueprint/ACF/Tutorial/WBP_TutorialTip0.WBP_TutorialTip0_C:WidgetTree.TextBlock_140.Text
 msgctxt ",2ECDFCFA49898CD10A445C8EF1757C70"
 msgid "按下W,A,S,D来移动角色"
-msgstr "Naciśnij W,A,S,D, aby poruszać postacią."
+msgstr "Naciskaj <W>,<A>,<S>,<D>, aby poruszać postacią."
 
 #. Key:	58F0265A40DBE9CFC7C484B4CAC7BEDC
 #. SourceLocation:	/Game/Blueprint/ACF/Tutorial/WBP_TutorialTip0.WBP_TutorialTip0_C:WidgetTree.TextBlock_2.Text
@@ -1040,7 +1040,7 @@ msgstr "Teraz spróbuj podnieść różne rodzaje broni i umieszczaj je w różn
 #: /Game/Blueprint/ACF/Tutorial/WBP_TutorialTip1.WBP_TutorialTip1_C:WidgetTree.TextBlock_2.Text
 msgctxt ",FF7908124DFD99DC2113E299B7A4DF92"
 msgid "按下Tab打开背包"
-msgstr "Naciśnij Tab, aby otworzyć plecak"
+msgstr "Naciśnij <Tab>, aby otworzyć plecak"
 
 #. Key:	FE9A11A64983540CD49265A21C19D48A
 #. SourceLocation:	/Game/Blueprint/ACF/Tutorial/WBP_TutorialTip2.WBP_TutorialTip2_C:WidgetTree.TextBlock.Text
@@ -1061,7 +1061,7 @@ msgstr "Tworzenie prostych przedmiotów"
 #: /Game/Blueprint/ACF/Tutorial/WBP_TutorialTip2.WBP_TutorialTip2_C:WidgetTree.TextBlock_2.Text
 msgctxt ",E862DA88405F37C84D2739B3CC6F5A0A"
 msgid "按下Tab打开背包"
-msgstr "Naciśnij Tab, aby otworzyć plecak."
+msgstr "Naciśnij <Tab>, aby otworzyć plecak."
 
 #. Key:	3A5A7CF64A92AEA9CFD151ADFA977830
 #. SourceLocation:	/Game/Blueprint/ACF/Tutorial/WBP_TutorialTip2.WBP_TutorialTip2_C:WidgetTree.TextBlock_53.Text
@@ -1082,7 +1082,7 @@ msgstr "Podnieś młotek budowlany."
 #: /Game/Blueprint/ACF/Tutorial/WBP_TutorialTip4.WBP_TutorialTip4_C:WidgetTree.TextBlock.Text
 msgctxt ",E61784BE4B6414ACB0E4E2A5B01A2ABD"
 msgid "将中心点对准已经建造或规划的地基，会自动捕捉位置"
-msgstr "Najedź na krawędź zaplanowanego lub zbudowanego fundamentu, a pozycja zostanie automatycznie uchwycona."
+msgstr "Najedź na krawędź zaplanowanego lub zbudowanego fundamentu, a pozycja zostanie ustawiona automatycznie."
 
 #. Key:	D411C0CB44D6E09B42405688CCE20686
 #. SourceLocation:	/Game/Blueprint/ACF/Tutorial/WBP_TutorialTip4.WBP_TutorialTip4_C:WidgetTree.TextBlock_1.Text
@@ -1096,7 +1096,7 @@ msgstr "Użyj kółka przewijania, aby zmienić pozycję przyciągania."
 #: /Game/Blueprint/ACF/Tutorial/WBP_TutorialTip4.WBP_TutorialTip4_C:WidgetTree.TextBlock_2.Text
 msgctxt ",9E4555E2446FA6BB1EAA7BBB6F27FD8A"
 msgid "打开建筑菜单面板，选择木材地基"
-msgstr "Trzymając młotek budowlany otwórz menu budowy (środkowy przycisk myszy) i wybierz drewniany fundament."
+msgstr "Weź do ręki młotek budowlany, otwórz menu budowy (środkowy przycisk myszy) i wybierz drewniany fundament."
 
 #. Key:	ED3DEEE7483A3B7BD7809285213F3032
 #. SourceLocation:	/Game/Blueprint/ACF/Tutorial/WBP_TutorialTip4.WBP_TutorialTip4_C:WidgetTree.TextBlock_3.Text
@@ -1110,7 +1110,7 @@ msgstr "Spróbuj postawic fundament tutaj."
 #: /Game/Blueprint/ACF/Tutorial/WBP_TutorialTip5.WBP_TutorialTip5_C:WidgetTree.TextBlock_2.Text
 msgctxt ",0FC7B32D443EA06EF7F13BB5DC4C9447"
 msgid "房屋的承重是需要梁柱的，你需要先规划梁柱，才可以建造墙体屋顶"
-msgstr "Przy budowie domu trzeba postawić belki i słupki, zanim będzie można budować ściany i dachy."
+msgstr "Podczas budowy domu, trzeba stawiać belki i słupki, zanim będzie można budować ściany i dachy."
 
 #. Key:	054871D843E0E2B8184EAA9FC13D17B1
 #. SourceLocation:	/Game/Blueprint/ACF/Tutorial/WBP_TutorialTip6.WBP_TutorialTip6_C:WidgetTree.TextBlock.Text
@@ -1145,7 +1145,7 @@ msgstr "Po zapoznaniu się z bronią możesz zakończyć trening."
 #: /Game/Blueprint/ACF/Tutorial/WBP_TutorialTip7.WBP_TutorialTip7_C:WidgetTree.TextBlock_1.Text
 msgctxt ",B5E30E844D9DAB3740F010AE9E26C525"
 msgid "按下Esc退出，开始真正的生存吧"
-msgstr "Naciśnij Esc aby wyjść i rozpocząć prawdziwe przetrwanie."
+msgstr "Naciśnij <Esc> aby wyjść i rozpocząć prawdziwe przetrwanie."
 
 #. Key:	E14242274DBF33A81F07A280CB8FA63E
 #. SourceLocation:	/Game/Blueprint/ACF/Tutorial/WBP_TutorialTip7.WBP_TutorialTip7_C:WidgetTree.TextBlock_2.Text
@@ -1159,7 +1159,7 @@ msgstr "Wciśnij i przytrzymaj prawy przycisk myszy, aby celować z widoku trzec
 #: /Game/Blueprint/ACF/Tutorial/WBP_TutorialTip7.WBP_TutorialTip7_C:WidgetTree.TextBlock_3.Text
 msgctxt ",811B025545D9BE8290B8D983D2645CAE"
 msgid "提升枪械技能或安装配件可有效改善后坐力"
-msgstr "Poprawia umiejętności posługiwania się bronią palną lub zainstalowanie akcesoriów może skutecznie poprawić odrzut."
+msgstr "Poprawa umiejętności posługiwania się bronią palną, lub zainstalowanie modyfikacji broni, może skutecznie poprawić odrzut."
 
 #. Key:	52A13B2248804E835DDB938858E96088
 #. SourceLocation:	/Game/Blueprint/ACF/Tutorial/WBP_TutorialTip8.WBP_TutorialTip8_C:WidgetTree.TextBlock.Text
@@ -1537,7 +1537,7 @@ msgstr "Niska"
 #: /Game/Blueprint/UMG/EscMenu/WBP_Setting.Default__WBP_Setting_C.Setting(1).Setting
 msgctxt ",36C199AA4147C714D62C5BA149D79EC9"
 msgid "中"
-msgstr "Średnie"
+msgstr "Średnia"
 
 #. Key:	F3BDDD104B77947183BF8B94D26442DE
 #. SourceLocation:	/Game/Blueprint/UMG/EscMenu/WBP_Setting.Default__WBP_Setting_C.Setting(2).Setting
@@ -12317,7 +12317,7 @@ msgstr "Przeładuj"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,RESMODE"
 msgid "超分辨率"
-msgstr "mega rozdzielczość"
+msgstr "Ulepszenie rozdzielczości"
 
 #. Key:	rizhao
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12485,7 +12485,7 @@ msgstr "Kupiec"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SS001"
 msgid "我想和你学习"
-msgstr "Chcę się uczyć"
+msgstr "Chcę się nauczyć: "
 
 #. Key:	SS02
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12499,7 +12499,7 @@ msgstr "Nie chcę się uczyć w tej chwili"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SS04"
 msgid "级"
-msgstr "Klasa"
+msgstr "Poziom "
 
 #. Key:	SS05
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -13318,7 +13318,7 @@ msgstr "Spragniony"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TLDetail"
 msgid "体力\r\n每减少30点体力，伤害降低25%（不影响枪械）"
-msgstr "Zmęczenie\r\nZa każde brakujące 30 punktów, obrażenia są zmniejszone o 25% (nie dotyczy broni palnej)"
+msgstr "Przemęczony\r\nZa każde brakujące 30 punktów, obrażenia są zmniejszone o 25% (nie dotyczy broni palnej)"
 
 #. Key:	TZBDF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -13360,77 +13360,77 @@ msgstr "Gruba skóra\r\nMniejsza szansa na odniesienie obrażeń"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZFZF"
 msgid "不堪重负"
-msgstr "Przytłoczony\r\nNie może nosić dużo"
+msgstr "Przytłoczony\r\nNie może dużo nosić"
 
 #. Key:	TZFZZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZFZZ"
 msgid "负重前行"
-msgstr "Wół\r\nMoże unieść więcej"
+msgstr "Muł\r\nMoże unieść więcej"
 
 #. Key:	TZKCF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZKCF"
 msgid "不擅交易"
-msgstr "Nieśmiały\r\nNie dobry w handlu"
+msgstr "Nieśmiały\r\nSłaby handlarz"
 
 #. Key:	TZKCZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZKCZ"
 msgid "口才大师"
-msgstr "Charyzmatyczny\r\nMistrz Elokwencji"
+msgstr "Charyzmatyczny\r\nMistrz elokwencji"
 
 #. Key:	TZKKF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZKKF"
 msgid "容易口渴"
-msgstr "Spragniony\r\nŁatwo spragniony"
+msgstr "Spragniony\r\nCzęsto czuje pragnienie"
 
 #. Key:	TZKKZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZKKZ"
 msgid "不易口渴"
-msgstr "Wielbłąd\r\nNie jest spragniony"
+msgstr "Wielbłąd\r\nRzadko czuje pragnienie"
 
 #. Key:	TZLGF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZLGF"
 msgid "悲观"
-msgstr "Pesymistyczny"
+msgstr "Pesymista"
 
 #. Key:	TZLGZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZLGZ"
 msgid "乐观"
-msgstr "Optymistyczny"
+msgstr "Optymista"
 
 #. Key:	TZLLF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZLLF"
 msgid "力气较小"
-msgstr "Słaby"
+msgstr "Słabeusz"
 
 #. Key:	TZLLZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZLLZ"
 msgid "力大无穷"
-msgstr "Silny"
+msgstr "Siłacz"
 
 #. Key:	TZNLF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZNLF"
 msgid "耐力不好"
-msgstr "Osiadły"
+msgstr "Wygodny"
 
 #. Key:	TZNLZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -13451,7 +13451,7 @@ msgstr "Obżartuch"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZQSZ"
 msgid "轻食主义"
-msgstr "Osoba z dietą"
+msgstr "Dietetyk"
 
 #. Key:	TZRAXXF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -13472,7 +13472,7 @@ msgstr "Nerd\r\nUwielbia się uczyć"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZSDF"
 msgid "不太灵活"
-msgstr "Niezdarny\r\nMniej zwinny"
+msgstr "Niezdara\r\nObniżona zwinność"
 
 #. Key:	TZSDZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -13514,7 +13514,7 @@ msgstr "Lekkoatleta"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZWQF"
 msgid "不擅战斗"
-msgstr "Nieprzygotowany\r\nNie jest dobry w walce"
+msgstr "Pacyfista\r\nSłaby w walce"
 
 #. Key:	TZWQZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -13528,7 +13528,7 @@ msgstr "Mistrz broni"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZWSF"
 msgid "邋遢"
-msgstr "Niechlujny"
+msgstr "Niechluj"
 
 #. Key:	TZWSZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -13542,14 +13542,14 @@ msgstr "Zwróć uwagę na higienę\r\nWpływa na samopoczucie"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZXXF"
 msgid "粗心"
-msgstr "Ostrożny\r\nNawolniejszy w znajdywaniu przedmiotów"
+msgstr "Ostrożny\r\nWolniej znajduje przedmioty"
 
 #. Key:	TZXXZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZXXZ"
 msgid "细心"
-msgstr "Szybkie ręce\r\nNajszybszy w znajdywaniu przedmiotów"
+msgstr "Szybkie ręce\r\nSzybciej znajduje przedmioty"
 
 #. Key:	TZZLF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
