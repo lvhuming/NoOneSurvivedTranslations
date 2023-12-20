@@ -249,35 +249,35 @@ msgstr "Zwykłe drewno"
 #: /Game/Blueprint/ACF/Item/Book/AutoCreate/BP_Book_JXX01.Default__BP_Book_JXX01_C.ItemInfo.Name
 msgctxt ",8944AFA9405919E726D077991AEDAAE6"
 msgid "机修（一卷）"
-msgstr "Naprawa maszyn (jeden tom)"
+msgstr "Naprawa maszyn (Tom 1)"
 
 #. Key:	31F49E9D41F757CFDDC432ADA8648D59
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Book/AutoCreate/BP_Book_JXX02.Default__BP_Book_JXX02_C.ItemInfo.Name
 #: /Game/Blueprint/ACF/Item/Book/AutoCreate/BP_Book_JXX02.Default__BP_Book_JXX02_C.ItemInfo.Name
 msgctxt ",31F49E9D41F757CFDDC432ADA8648D59"
 msgid "机修（二卷）"
-msgstr "Naprawa mechaniczna (tom 2)"
+msgstr "Konserwacja maszyn (Tom 2)"
 
 #. Key:	5FAEFD384D3FF8E0551DE3B4B083FCE0
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Book/AutoCreate/BP_Book_JXX03.Default__BP_Book_JXX03_C.ItemInfo.Name
 #: /Game/Blueprint/ACF/Item/Book/AutoCreate/BP_Book_JXX03.Default__BP_Book_JXX03_C.ItemInfo.Name
 msgctxt ",5FAEFD384D3FF8E0551DE3B4B083FCE0"
 msgid "机修（三卷）"
-msgstr "Naprawa mechaniczna (trzy tomy)"
+msgstr "Naprawa maszyn (Tom 3)"
 
 #. Key:	8639BD6A45A2FE276F8FF38BE734A253
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Book/AutoCreate/BP_Book_JXX04.Default__BP_Book_JXX04_C.ItemInfo.Name
 #: /Game/Blueprint/ACF/Item/Book/AutoCreate/BP_Book_JXX04.Default__BP_Book_JXX04_C.ItemInfo.Name
 msgctxt ",8639BD6A45A2FE276F8FF38BE734A253"
 msgid "机修（四卷）"
-msgstr "Naprawa mechaniczna (cztery tomy)"
+msgstr "Konserwacja maszyn (Tom 4)"
 
 #. Key:	6D0423B5410511AD3DF3BBB6CFA3791C
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Book/AutoCreate/BP_Book_JXX05.Default__BP_Book_JXX05_C.ItemInfo.Name
 #: /Game/Blueprint/ACF/Item/Book/AutoCreate/BP_Book_JXX05.Default__BP_Book_JXX05_C.ItemInfo.Name
 msgctxt ",6D0423B5410511AD3DF3BBB6CFA3791C"
 msgid "机修（五卷）"
-msgstr "Naprawa mechaniczna (pięć tomów)"
+msgstr "Konserwacja maszyn (Tom 5)"
 
 #. Key:	CA0037B449D92CACAD7CF89A6327A14B
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Food/AutoCreate/BP_Food_2MWDSG.Default__BP_Food_2MWDSG_C.ItemInfo.Name
@@ -2720,7 +2720,7 @@ msgstr "1"
 #: /Game/Blueprint/UMG/Inventory/WBP_WUQIJIAButton.WBP_WUQIJIAButton_C:OnDrop [Script Bytecode]
 msgctxt ",E4F51F7F4717721ABF45D0ABDF06657A"
 msgid "此物品无法装备在这"
-msgstr "Tego przedmiotu nie można tutaj wyposażyć"
+msgstr "Tego przedmiotu nie można włożyć"
 
 #. Key:	1D10CBC14B32479868B84389F49601B1
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/FaceUI/WBP_FaceSelectButton.Default__WBP_FaceSelectButton_C.In Text
@@ -3252,7 +3252,7 @@ msgstr "Aktualne współrzędne: {0}, {1}"
 #: /Game/Blueprint/UMG/NPCUMG/WBP_ItemTip.WBP_ItemTip_C:WidgetTree.Name.Text
 msgctxt ",C751D69149A36602BCB5259C6535ABA7"
 msgid "斧头"
-msgstr "topór"
+msgstr "Topór"
 
 #. Key:	6B5672FE4B8FDF39CD26C8B2527E9E21
 #. SourceLocation:	/Game/Blueprint/UMG/NPCUMG/WBP_jy.WBP_jy_C:WidgetTree.GX.Text
@@ -4610,7 +4610,7 @@ msgstr "PionowyKoniecDachu"
 #: /Game/HDCKBuildingSystem/Blueprints/NPC/E_BuildingType.E_BuildingType.DisplayNameMap(8 - Value).DisplayNameMap
 msgctxt ",F9AEB4DA4E4995AF5C0807AE1EEF8C90"
 msgid "transaction"
-msgstr "transakcja"
+msgstr "Transakcja"
 
 #. Key:	D87A92EB480D5FCB9667C089A2705977
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Foundation_SN.Default__Foundation_SN_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
@@ -4624,7 +4624,7 @@ msgstr "Podstawa wykonana z cementu wygląda na bardzo mocną i wytrzymuje znacz
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_DP_XDD.Default__Furniture_DP_XDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",94C5B9CB4E9CB06672829E9D45FBD7E4"
 msgid "地板"
-msgstr "podłoga"
+msgstr "Podłoga"
 
 #. Key:	3581A89C43D3A186CF54818DC0E637FF
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_DPBase.Default__Furniture_DPBase_C.BuildInfo.TipAdsorbent_45_0277CC26494BF1319349189E27EC6190
@@ -4701,7 +4701,7 @@ msgstr "Meble"
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_TYNFD.Default__Furniture_TYNFD_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 msgctxt ",38C900304C20AF832E37D8B3555C45BA"
 msgid "受遮挡或在没有太阳的天气无法发电"
-msgstr "Nie można wytwarzać energii elektrycznej ze względu na cień lub przy bezsłonecznej pogodzie"
+msgstr "Nie można wytwarzać energii elektrycznej ze względu na cień lub bezsłoneczną pogodę"
 
 #. Key:	B902044F444A770F5D16FEBFFB185A39
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_YSSJQ.Furniture_YSSJQ_C:ExecuteUbergraph_Furniture_YSSJQ [Script Bytecode]
@@ -5779,7 +5779,7 @@ msgstr "Szafa"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,YNJZYG"
 msgid "只能建造一个"
-msgstr "zbuduj tylko jeden"
+msgstr "Zbuduj tylko jeden"
 
 #. Key:	ZSJNAN
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6087,7 +6087,7 @@ msgstr "Miotacz ognia"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",QIANGJIA"
 msgid "枪架"
-msgstr "stojak na broń"
+msgstr "Stojak na broń"
 
 #. Key:	QT
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -6472,14 +6472,14 @@ msgstr "Koktajl Mołotowa"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",SHENGDANSHU"
 msgid "圣诞树"
-msgstr "drzewko świąteczne"
+msgstr "Drzewko świąteczne"
 
 #. Key:	SHITANG
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",SHITANG"
 msgid "食堂"
-msgstr "kantyna"
+msgstr "Kantyna"
 
 #. Key:	Stairs
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -6717,14 +6717,14 @@ msgstr "stojak na broń"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",XMY"
 msgid "畜牧场"
-msgstr "gospodarstwo hodowlane"
+msgstr "Gospodarstwo hodowlane"
 
 #. Key:	XUNLUTUOCHE
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",XUNLUTUOCHE"
 msgid "驯鹿拖车"
-msgstr "przyczepa z reniferami"
+msgstr "Przyczepa z reniferami"
 
 #. Key:	XZDP
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -8054,7 +8054,7 @@ msgstr "Ryba z grilla w miodzie"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,FR01"
 msgid "鱼竿"
-msgstr "wędka"
+msgstr "Wędka"
 
 #. Key:	G1
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8187,7 +8187,7 @@ msgstr "Łosoś"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,HAIXIANNONGTANG"
 msgid "海鲜浓汤"
-msgstr "zupa z owoców morza"
+msgstr "Zupa z owoców morza"
 
 #. Key:	HAIXIANRPOUPAI
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8215,7 +8215,7 @@ msgstr "Spodnie policyjne"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,JUXINGYACHI"
 msgid "巨型牙齿"
-msgstr "gigantyczne zęby"
+msgstr "Gigantyczne zęby"
 
 #. Key:	JX
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8250,7 +8250,7 @@ msgstr "grillowana ryba"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,LY"
 msgid "鲈鱼"
-msgstr "okoń morski"
+msgstr "Okoń morski"
 
 #. Key:	M1
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9104,21 +9104,21 @@ msgstr "Pazury zombie"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,SAGNSHIYACHI"
 msgid "丧尸牙齿"
-msgstr "zęby zombie"
+msgstr "Zęby zombie"
 
 #. Key:	SANGSHIDUYE
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,SANGSHIDUYE"
 msgid "丧尸毒液"
-msgstr "jad zombie"
+msgstr "Jad zombie"
 
 #. Key:	SHAUGNSHOUJIAN
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,SHAUGNSHOUJIAN"
 msgid "双手剑"
-msgstr "dwuręczny miecz"
+msgstr "Dwuręczny miecz"
 
 #. Key:	SHENGDANKU
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9755,35 +9755,35 @@ msgstr "Głowa świni"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,YR"
 msgid "鱼肉"
-msgstr "Mięso rybne"
+msgstr "Mięso z ryby"
 
 #. Key:	yuer
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,yuer"
 msgid "鱼饵"
-msgstr "przynęta"
+msgstr "Przynęta"
 
 #. Key:	YUROUMIANBAO
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,YUROUMIANBAO"
 msgid "鱼肉面包"
-msgstr "chleb rybny"
+msgstr "Chleb rybny"
 
 #. Key:	YUTANG
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,YUTANG"
 msgid "鱼汤"
-msgstr "zupa rybna"
+msgstr "Zupa rybna"
 
 #. Key:	yuxian
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,yuxian"
 msgid "鱼线"
-msgstr "żyłka wędkarska"
+msgstr "Żyłka wędkarska"
 
 #. Key:	ZHAYUPAI
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -11022,7 +11022,7 @@ msgstr "Przedmioty rzucone na ziemię znikną, jeśli nie zostaną podniesione p
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,20"
 msgid "开始钓鱼"
-msgstr "zacznij łowić ryby"
+msgstr "Zacznij łowić ryby"
 
 #. Key:	21
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -11064,7 +11064,7 @@ msgstr "Kiedy ryba ugryzie haczyk"
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,26"
 msgid "靠近水面"
-msgstr "blisko wody"
+msgstr "Blisko wody"
 
 #. Key:	WPWF
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -11596,7 +11596,7 @@ msgstr "Opis: "
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,DH123"
 msgid "兑换"
-msgstr "giełda"
+msgstr "Giełda"
 
 #. Key:	DHCG
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -13325,7 +13325,7 @@ msgstr "Zima"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,WNBNSM"
 msgid "我能帮你什么？"
-msgstr "co mogę dla ciebie zrobić?"
+msgstr "Co mogę dla ciebie zrobić?"
 
 #. Key:	WPBG
 #. SourceLocation:	/Game/LocalizationText/UI.UI
