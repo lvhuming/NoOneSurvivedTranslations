@@ -249,35 +249,35 @@ msgstr "Gewöhnliches Holz"
 #: /Game/Blueprint/ACF/Item/Book/AutoCreate/BP_Book_JXX01.Default__BP_Book_JXX01_C.ItemInfo.Name
 msgctxt ",8944AFA9405919E726D077991AEDAAE6"
 msgid "机修（一卷）"
-msgstr "Maschinenreparatur (ein Band)"
+msgstr "Maschinenreparatur (Band 1)"
 
 #. Key:	31F49E9D41F757CFDDC432ADA8648D59
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Book/AutoCreate/BP_Book_JXX02.Default__BP_Book_JXX02_C.ItemInfo.Name
 #: /Game/Blueprint/ACF/Item/Book/AutoCreate/BP_Book_JXX02.Default__BP_Book_JXX02_C.ItemInfo.Name
 msgctxt ",31F49E9D41F757CFDDC432ADA8648D59"
 msgid "机修（二卷）"
-msgstr "Mechanische Reparatur (Band 2)"
+msgstr "Maschinenreparatur (Band 2)"
 
 #. Key:	5FAEFD384D3FF8E0551DE3B4B083FCE0
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Book/AutoCreate/BP_Book_JXX03.Default__BP_Book_JXX03_C.ItemInfo.Name
 #: /Game/Blueprint/ACF/Item/Book/AutoCreate/BP_Book_JXX03.Default__BP_Book_JXX03_C.ItemInfo.Name
 msgctxt ",5FAEFD384D3FF8E0551DE3B4B083FCE0"
 msgid "机修（三卷）"
-msgstr "Mechanische Reparatur (Drei Bände)"
+msgstr "Maschinenreparatur (Band 3)"
 
 #. Key:	8639BD6A45A2FE276F8FF38BE734A253
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Book/AutoCreate/BP_Book_JXX04.Default__BP_Book_JXX04_C.ItemInfo.Name
 #: /Game/Blueprint/ACF/Item/Book/AutoCreate/BP_Book_JXX04.Default__BP_Book_JXX04_C.ItemInfo.Name
 msgctxt ",8639BD6A45A2FE276F8FF38BE734A253"
 msgid "机修（四卷）"
-msgstr "Mechanische Reparatur (Vier Bände)"
+msgstr "Maschinenreparatur (Band 4)"
 
 #. Key:	6D0423B5410511AD3DF3BBB6CFA3791C
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Book/AutoCreate/BP_Book_JXX05.Default__BP_Book_JXX05_C.ItemInfo.Name
 #: /Game/Blueprint/ACF/Item/Book/AutoCreate/BP_Book_JXX05.Default__BP_Book_JXX05_C.ItemInfo.Name
 msgctxt ",6D0423B5410511AD3DF3BBB6CFA3791C"
 msgid "机修（五卷）"
-msgstr "Mechanische Reparatur (Fünf Bände)"
+msgstr "Maschinenreparatur (Band 5)"
 
 #. Key:	CA0037B449D92CACAD7CF89A6327A14B
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Food/AutoCreate/BP_Food_2MWDSG.Default__BP_Food_2MWDSG_C.ItemInfo.Name
@@ -676,7 +676,7 @@ msgstr "Langer zweihändiger Vorschlaghammer"
 #: /Game/Blueprint/ACF/Item/Weapon/LongBlunt/BP_LongBluntStick_G.Default__BP_LongBluntStick_G_C.ItemInfo.Description
 msgctxt ",03AB65D04C8A9A3ADFD5C896CE9D09DD"
 msgid "露茜儿++"
-msgstr "Lucile++"
+msgstr "Baseballschläger mit Stahlnägeln"
 
 #. Key:	FD5D604D432226A201BDBD830BF11341
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/LongBlunt/Pickaxe/BP_ToolPickaxeBase.Default__BP_ToolPickaxeBase_C.ItemInfo.Name
@@ -4617,7 +4617,7 @@ msgstr "Transaktion"
 #: /Game/HDCKBuildingSystem/MeshBP/Foundation_SN.Default__Foundation_SN_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 msgctxt ",D87A92EB480D5FCB9667C089A2705977"
 msgid "水泥制作的地基，看起来很结实，可以承受相当多的重量。"
-msgstr "Das Fundament aus Zement sieht sehr stabil aus und kann ein beträchtliches Gewicht tragen."
+msgstr "Das Fundament besteht aus Zement, der stabil aussieht und ein beträchtliches Gewicht tragen kann."
 
 #. Key:	94C5B9CB4E9CB06672829E9D45FBD7E4
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_DP_XDD.Default__Furniture_DP_XDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
@@ -4701,7 +4701,7 @@ msgstr "Möbel"
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_TYNFD.Default__Furniture_TYNFD_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 msgctxt ",38C900304C20AF832E37D8B3555C45BA"
 msgid "受遮挡或在没有太阳的天气无法发电"
-msgstr "Aufgrund von Schatten oder sonnenlosem Wetter ist die Stromerzeugung nicht möglich"
+msgstr "Produziert keinen Strom im Schatten oder bei sonnenlosem Wetter"
 
 #. Key:	B902044F444A770F5D16FEBFFB185A39
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_YSSJQ.Furniture_YSSJQ_C:ExecuteUbergraph_Furniture_YSSJQ [Script Bytecode]
@@ -4750,14 +4750,14 @@ msgstr "Nicht genug Wasser!"
 #: /Game/HDCKBuildingSystem/MeshBP/OutStairs_Base_Wood.Default__OutStairs_Base_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 msgctxt ",A372CF1347F783CE178B2880767176EC"
 msgid "建房必备"
-msgstr "Notwendig für den Hausbau"
+msgstr "Unverzichtbar für den Hausbau"
 
 #. Key:	F520F45F4795728A37051484C5EABEDB
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_Wood.Default__Roof_20_intersection_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 #: /Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_Wood.Default__Roof_20_intersection_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 msgctxt ",F520F45F4795728A37051484C5EABEDB"
 msgid "用于连接外转角屋顶。"
-msgstr "Zum Anschluss von Außeneckdächern."
+msgstr "Zur Verbindung von Außeneckdächern."
 
 #. Key:	E8EA4D5B4493329CF32982ABD630233C
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Wattle_WoodDoor.Wattle_WoodDoor_C:ShowUI [Script Bytecode]
@@ -6724,7 +6724,7 @@ msgstr "Viehzuchtbetrieb"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",XUNLUTUOCHE"
 msgid "驯鹿拖车"
-msgstr "Rentieranhänger"
+msgstr "Rentierschlitten"
 
 #. Key:	XZDP
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -8047,14 +8047,14 @@ msgstr "Metallurgie (Band 1)"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,FENGMISHAOYU"
 msgid "蜂蜜烧鱼"
-msgstr "Mit Honig gegrillter Fisch"
+msgstr "Gegrillter Fisch mit Honig"
 
 #. Key:	FR01
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,FR01"
 msgid "鱼竿"
-msgstr "Angelrute"
+msgstr "Angel"
 
 #. Key:	G1
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8957,7 +8957,7 @@ msgstr "Baumwollhose"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,MWFENGMISHAOYU"
 msgid "美味蜂蜜烧鱼"
-msgstr "Köstlicher, mit Honig gegrillter Fisch"
+msgstr "Köstlicher, gegrillter Fisch mit Honig"
 
 #. Key:	MWHAIXIANROUPAI
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9118,7 +9118,7 @@ msgstr "Zombiegift"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,SHAUGNSHOUJIAN"
 msgid "双手剑"
-msgstr "Zweihänder"
+msgstr "Zweihandschwert"
 
 #. Key:	SHENGDANKU
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -11022,21 +11022,21 @@ msgstr "Gegenstände, die für längere Zeit auf den Boden liegen, ohne dass man
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,20"
 msgid "开始钓鱼"
-msgstr "Fangen Sie an zu fischen"
+msgstr "Angel beginnen"
 
 #. Key:	21
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,21"
 msgid "放弃钓鱼。"
-msgstr "Gib das Angeln auf."
+msgstr "Angeln beenden."
 
 #. Key:	22
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,22"
 msgid "让进度条保持在绿色安全区域，当下方进度条充满时完成钓鱼。"
-msgstr "Halten Sie den Fortschrittsbalken im grünen, sicheren Bereich und schließen Sie das Angeln ab, wenn der Fortschrittsbalken unten voll ist."
+msgstr "Halten Sie den Fortschrittsbalken im grünen, sicheren Bereich und schließen Sie das Angeln ab, wenn dieser unten voll ist."
 
 #. Key:	23
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -11057,7 +11057,7 @@ msgstr "Angeln ist nur in der Nähe von Wasser möglich."
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,25"
 msgid "鱼咬钩时"
-msgstr "Wenn der Fisch in den Haken beißt"
+msgstr "Wenn der Fisch anbeißt"
 
 #. Key:	26
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -11848,7 +11848,7 @@ msgstr "Übertragung von Signalen der Stufe 3"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,FSYJXH"
 msgid "发射一级信号"
-msgstr "Übertragen Sie ein Signal der ersten Ebene"
+msgstr "Übertragen Sie ein Signal der 1. Stufe"
 
 #. Key:	Ftip
 #. SourceLocation:	/Game/LocalizationText/UI.UI
