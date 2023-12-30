@@ -5044,14 +5044,14 @@ msgstr "Mur en bois (avec ouverture pour porte)"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B20"
 msgid "砖墙(三角)"
-msgstr "Pignon en briques (45 degrès)"
+msgstr "Pignon en briques (45°)"
 
 #. Key:	B21
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B21"
 msgid "砖墙(三角1/3)"
-msgstr "Pignon en briques (20 degrès)"
+msgstr "Pignon en briques (20°)"
 
 #. Key:	B22
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -5086,7 +5086,7 @@ msgstr "Porte en fer"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B26"
 msgid "茅草屋顶(45度连接)"
-msgstr "Toit de chaume (joint à 45 degrés)"
+msgstr "Toit en chaume (joint à 45°)"
 
 #. Key:	B27
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6143,28 +6143,28 @@ msgstr "Escalier spécial extérieur en pierre"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",Roof20"
 msgid "茅草屋顶(20度)"
-msgstr "Toit de chaume (20 degrés)"
+msgstr "Toit en chaume (20°)"
 
 #. Key:	Roof20_02
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",Roof20_02"
 msgid "石材屋顶(20度)"
-msgstr "Toit en pierre (20 degrés)"
+msgstr "Toit en pierre (20°)"
 
 #. Key:	Roof45
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",Roof45"
 msgid "茅草屋顶(45度)"
-msgstr "Toit de chaume (45 degrés)"
+msgstr "Toit en chaume (45°)"
 
 #. Key:	Roof45_02
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",Roof45_02"
 msgid "石材屋顶(45度)"
-msgstr "Toit en pierre (45 degrés)"
+msgstr "Toit en pierre (45°)"
 
 #. Key:	Roof45_02Detail
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -6192,7 +6192,7 @@ msgstr "Poutre ou poteau"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",Roof45Detail"
 msgid "茅草屋顶，可以一定程度起到遮风挡雨的作用。"
-msgstr "Les toits de chaume peuvent protéger du vent et de la pluie dans une certaine mesure."
+msgstr "Les toits en chaume peuvent protéger du vent et de la pluie dans une certaine mesure."
 
 #. Key:	RoofBase
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -6206,28 +6206,28 @@ msgstr "Toit"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofCorner20"
 msgid "茅草屋顶(20度连接角)"
-msgstr "Toit de chaume (angle de connexion de 20 degrés)"
+msgstr "Toit en chaume (angle de connexion de 20°)"
 
 #. Key:	RoofCorner20_02
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofCorner20_02"
 msgid "石材屋顶(20度连接角)"
-msgstr "Toit en pierre (angle de raccordement de 20 degrés)"
+msgstr "Toit en pierre (angle de raccordement de 20°)"
 
 #. Key:	RoofCorner45
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofCorner45"
 msgid "茅草屋顶(45度连接角)"
-msgstr "Toit de chaume (angle de connexion de 45 degrés)"
+msgstr "Toit en chaume (angle de connexion de 45°)"
 
 #. Key:	RoofCorner45_02
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofCorner45_02"
 msgid "石材屋顶(45度连接角)"
-msgstr "Toit en pierre (angle de raccordement de 45 degrés)"
+msgstr "Toit en pierre (angle de raccordement de 45°)"
 
 #. Key:	RoofCorner45Detail
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -6283,14 +6283,14 @@ msgstr "Avant-toit en pierre (raccordement)"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofEnd2_20"
 msgid "茅草屋檐(20度竖向)"
-msgstr "Avant-toit en chaume (vertical à 20 degrés)"
+msgstr "Avant-toit en chaume (vertical à 20°)"
 
 #. Key:	RoofEnd2_20_02
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofEnd2_20_02"
 msgid "石材屋檐(20度竖向)"
-msgstr "Avant-toit en pierre (vertical à 20 degrés)"
+msgstr "Avant-toit en pierre (vertical à 20°)"
 
 #. Key:	RoofEnd3Intersection
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -6325,14 +6325,14 @@ msgstr "Avant-toit en pierre (horizontal)"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofEndVertical"
 msgid "茅草屋檐(45度竖向)"
-msgstr "Avant-toits en chaume (45 degrés verticaux)"
+msgstr "Avant-toits en chaume (45° verticaux)"
 
 #. Key:	RoofEndVertical_02
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofEndVertical_02"
 msgid "石材屋檐(45度竖向)"
-msgstr "Avant-toits en pierre (45 degrés verticaux)"
+msgstr "Avant-toits en pierre (45° verticaux)"
 
 #. Key:	RoofEndVerticalDetail
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -6346,28 +6346,28 @@ msgstr "Attaché au bord du toit."
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofIntersection20"
 msgid "茅草屋顶(20度连接)"
-msgstr "Toit de chaume (connexion à 20 degrés)"
+msgstr "Toit en chaume (connexion à 20°)"
 
 #. Key:	RoofIntersection20_02
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofIntersection20_02"
 msgid "石材屋顶(20度连接)"
-msgstr "Toit en pierre (connexion à 20 degrés)"
+msgstr "Toit en pierre (connexion à 20°)"
 
 #. Key:	RoofIntersection45
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofIntersection45"
 msgid "茅草屋顶(45度连接)"
-msgstr "Toit de chaume (connexion à 45 degrés)"
+msgstr "Toit en chaume (connexion à 45°)"
 
 #. Key:	RoofIntersection45_02
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofIntersection45_02"
 msgid "石材屋顶(45度连接)"
-msgstr "Toit en pierre (raccordement à 45 degrés)"
+msgstr "Toit en pierre (raccordement à 45°)"
 
 #. Key:	RoofIntersection45Detail
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -6423,42 +6423,42 @@ msgstr "Toiture en pierre (té simple grille)"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofTop_Wood_01"
 msgid "茅草屋顶(单格)"
-msgstr "Toit de chaume (grille simple)"
+msgstr "Toit en chaume (grille simple)"
 
 #. Key:	RoofTop_Wood_02
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofTop_Wood_02"
 msgid "茅草屋顶(单格转角)"
-msgstr "Toit de chaume (coin simple)"
+msgstr "Toit en chaume (coin simple)"
 
 #. Key:	RoofTop_Wood_03
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofTop_Wood_03"
 msgid "茅草屋顶(单格十字)"
-msgstr "Toit de chaume (croix simple)"
+msgstr "Toit en chaume (croix simple)"
 
 #. Key:	RoofTop_Wood_04
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofTop_Wood_04"
 msgid "茅草屋顶(单格结尾)"
-msgstr "Toit de chaume (simple extrémité)"
+msgstr "Toit en chaume (simple extrémité)"
 
 #. Key:	RoofTop_Wood_05
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofTop_Wood_05"
 msgid "茅草屋顶(单格无连接)"
-msgstr "Toit de chaume (cellule individuelle sans connexion)"
+msgstr "Toit en chaume (cellule individuelle sans connexion)"
 
 #. Key:	RoofTop_Wood_06
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofTop_Wood_06"
 msgid "茅草屋顶(单格三通)"
-msgstr "Toit de chaume (té simple grille)"
+msgstr "Toit en chaume (té simple grille)"
 
 #. Key:	RSP
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -6654,7 +6654,7 @@ msgstr "Pignon en pierre"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",WallTriangle20"
 msgid "石材墙体(三角1/3)未建模"
-msgstr "Pignon en pierre (20 degrès)"
+msgstr "Pignon en pierre (20°)"
 
 #. Key:	WallWindow
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -11288,14 +11288,14 @@ msgstr "Structure"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,BuildRoof20"
 msgid "屋顶20度"
-msgstr "Toitures à 20 degrès"
+msgstr "Toitures à 20°"
 
 #. Key:	BuildRoof45
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,BuildRoof45"
 msgid "屋顶45度"
-msgstr "Toitures à 45 degrès"
+msgstr "Toitures à 45°"
 
 #. Key:	BuildRoofEnd
 #. SourceLocation:	/Game/LocalizationText/UI.UI
