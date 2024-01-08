@@ -151,21 +151,21 @@ msgstr "Valeur de transaction de la contrepartie"
 #: /Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_3.TipMessage_41_0D1B7B6342180F0BD1D386A6C8ADE0B3
 msgctxt ",9E42FABC4D38C8662030F1806B8C2115"
 msgid "生命上限"
-msgstr "Limite de vie"
+msgstr "Limite de santé"
 
 #. Key:	B4227B28456F62424876BF98D38BA59A
 #. SourceLocation:	/Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_3.TZF_27_2477A82448AA37EFCFBF4883BE709EF2
 #: /Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_3.TZF_27_2477A82448AA37EFCFBF4883BE709EF2
 msgctxt ",B4227B28456F62424876BF98D38BA59A"
 msgid "生命脆弱"
-msgstr "La vie est fragile"
+msgstr "La santé est fragile"
 
 #. Key:	C0C0173B4DBC2AE07D74ABBAEF6ABAD0
 #. SourceLocation:	/Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_3.TZZ_25_C35A51E443EAFDA67203CFBC1ACCE357
 #: /Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_3.TZZ_25_C35A51E443EAFDA67203CFBC1ACCE357
 msgctxt ",C0C0173B4DBC2AE07D74ABBAEF6ABAD0"
 msgid "生命强悍"
-msgstr "La vie est forte"
+msgstr "La santé est forte"
 
 #. Key:	81A960174CE991FE49649189E5DD74B2
 #. SourceLocation:	/Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_5.TipMessage_41_0D1B7B6342180F0BD1D386A6C8ADE0B3
@@ -508,7 +508,7 @@ msgstr "Seul"
 #: /Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/E_FireMode.E_FireMode.DisplayNameMap(1 - Value).DisplayNameMap
 msgctxt ",C8909F544D82D283B4CBAF86C0E811D3"
 msgid "TripleHair"
-msgstr "Rafales de trois"
+msgstr "Rafale"
 
 #. Key:	4FB41E114459F569BCE7BC99E7DB61C6
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/E_FireMode.E_FireMode.DisplayNameMap(2 - Value).DisplayNameMap
@@ -851,7 +851,7 @@ msgstr "RightSleep"
 #: /Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(5 - Value).DisplayNameMap
 msgctxt ",AB6BD8F84FE5E1ACA7EBEF8875C626FF"
 msgid "DrinkWater"
-msgstr "Bois de l'eau"
+msgstr "Boire de l'eau"
 
 #. Key:	5EBECD7B4AE8560B73AA0A93ABBB9CAB
 #. SourceLocation:	/Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(6 - Value).DisplayNameMap
@@ -1726,7 +1726,7 @@ msgstr "Vide"
 #: /Game/Blueprint/UMG/Furniture/WBP_DCZDetail.WBP_DCZDetail_C:WidgetTree.TextBlock_233.Text
 msgctxt ",867940C94407F9B1E6580C8C164DED1C"
 msgid "电量:"
-msgstr "Pouvoir:"
+msgstr "Capacité:"
 
 #. Key:	38F6DAE24E9F7480E7C3C59E4C5D0AB4
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_GNJZSelectButton.WBP_GNJZSelectButton_C:WidgetTree.Name.Text
@@ -1901,7 +1901,7 @@ msgstr "Temps estimé avant maturité"
 #: /Game/Blueprint/UMG/Furniture/WBP_SPX.WBP_SPX_C:WidgetTree.TextBlock.Text
 msgctxt ",26CB1E6648D1B9871E000B8167164F09"
 msgid "灌溉"
-msgstr "Irrigation"
+msgstr "Irriguer"
 
 #. Key:	ECAB878844DB5540EF7B15AB40273797
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_SPX.WBP_SPX_C:WidgetTree.TextBlock_115.Text
@@ -2097,14 +2097,14 @@ msgstr "Fabrication d'armes+"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_13.Text
 msgctxt ",38B8771D464AA9F6D487D9AA4DE283A3"
 msgid "锐器+"
-msgstr "Objets tranchants+"
+msgstr "Armes tranchantes+"
 
 #. Key:	C63B559A430C8967E980F183A98EDD89
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_14.Text
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_14.Text
 msgctxt ",C63B559A430C8967E980F183A98EDD89"
 msgid "钝器+"
-msgstr "Objet contendant+"
+msgstr "Armes contondantes+"
 
 #. Key:	1CCC10BB4AD081DB620F09A1FD46FBFB
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_15.Text
@@ -2272,7 +2272,7 @@ msgstr "Hiver"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_36.Text
 msgctxt ",B8DF58C94EDF690F7BE9EDB76D1EE91A"
 msgid "晴天"
-msgstr "Ensoleillé"
+msgstr "Ensoleillement"
 
 #. Key:	1B84894446F973C99A4BDCBAD915BF17
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_37.Text
@@ -2573,7 +2573,7 @@ msgstr "1"
 #: /Game/Blueprint/UMG/Inventory/WBP_ItemToolTip.WBP_ItemToolTip_C:SetFoodShow [Script Bytecode]
 msgctxt ",57D29AF64B249E6B779C5C809CA3B4CD"
 msgid "生命回复"
-msgstr "Récupération de la vie"
+msgstr "Récupération de la santé"
 
 #. Key:	F129924B4E7FED6DE53839AA9F668B19
 #. SourceLocation:	/Game/Blueprint/UMG/Inventory/WBP_ItemToolTip.WBP_ItemToolTip_C:WidgetTree.Detail.Text
@@ -2804,7 +2804,7 @@ msgstr "Message"
 #: /Game/Blueprint/UMG/MainUI/Child/TipDelSlot.TipDelSlot_C:WidgetTree.TextBlock_107.Text
 msgctxt ",E0BDBA2A4577298FB1E9F9939B39A11B"
 msgid "确认删除存档吗？"
-msgstr "Voulez-vous vraiment supprimer l'archive ?"
+msgstr "Voulez-vous vraiment supprimer la savegarde ?"
 
 #. Key:	A8ACAAC6459AA81F4C0AD08518C85108
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/TipPasswordCheck.TipPasswordCheck_C:WidgetTree.EditableTextBox_84.HintText
@@ -2825,7 +2825,7 @@ msgstr "Mot de passe incorrect!"
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_DSServer.WBP_DSServer_C:WidgetTree.WBP_Join.In Text
 msgctxt ",6F03D9614CF463C18B07CB96306602DE"
 msgid "加入"
-msgstr "Se joindre à"
+msgstr "Rejoindre"
 
 #. Key:	7071B2944E64F1D0A2537CA62BD591EB
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_DSServer.WBP_DSServer_C:WidgetTree.WBP_Search.In Text
@@ -3364,21 +3364,21 @@ msgstr "Essence"
 #: /Game/Blueprint/UMG/ScreenMessage/WBP_GunMessage.WBP_GunMessage_C:ExecuteUbergraph_WBP_GunMessage [Script Bytecode]
 msgctxt ",2191E6F14098A0C04EFC4FA4B26ECAE8"
 msgid "单发"
-msgstr "Coup unique"
+msgstr "Semi-automatique"
 
 #. Key:	A42B7F1648E577F99CD8BD8A411702B9
 #. SourceLocation:	/Game/Blueprint/UMG/ScreenMessage/WBP_GunMessage.WBP_GunMessage_C:ExecuteUbergraph_WBP_GunMessage [Script Bytecode]
 #: /Game/Blueprint/UMG/ScreenMessage/WBP_GunMessage.WBP_GunMessage_C:ExecuteUbergraph_WBP_GunMessage [Script Bytecode]
 msgctxt ",A42B7F1648E577F99CD8BD8A411702B9"
 msgid "全自动"
-msgstr "Entièrement automatique"
+msgstr "Automatique"
 
 #. Key:	A44DFAB2422A13E46691CBA995DFA56F
 #. SourceLocation:	/Game/Blueprint/UMG/ScreenMessage/WBP_GunMessage.WBP_GunMessage_C:ExecuteUbergraph_WBP_GunMessage [Script Bytecode]
 #: /Game/Blueprint/UMG/ScreenMessage/WBP_GunMessage.WBP_GunMessage_C:ExecuteUbergraph_WBP_GunMessage [Script Bytecode]
 msgctxt ",A44DFAB2422A13E46691CBA995DFA56F"
 msgid "三连发"
-msgstr "Rafales de trois"
+msgstr "Rafale"
 
 #. Key:	8F52D80D463B7D429D6DF3B7E12D1EF9
 #. SourceLocation:	/Game/Blueprint/UMG/ScreenMessage/WBP_GunMessage.WBP_GunMessage_C:WidgetTree.AmmoNumText.Text
@@ -3392,7 +3392,7 @@ msgstr "29"
 #: /Game/Blueprint/UMG/ScreenMessage/WBP_GunMessage.WBP_GunMessage_C:WidgetTree.FireModeText.Text
 msgctxt ",F00081A64CDE27C741FF1FABE1BA6D86"
 msgid "单发"
-msgstr "Coup unique"
+msgstr "Semi-automatique"
 
 #. Key:	1106BD14437B3388798AB6A9D11181B9
 #. SourceLocation:	/Game/Blueprint/UMG/State/WBP_StateOne.WBP_StateOne_C:WidgetTree.Text02.Text
@@ -3602,14 +3602,14 @@ msgstr "Récupérateur d'eau de pluie"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_24.In Text
 msgctxt ",24791B5F496A7379DD1A5DABE8249766"
 msgid "制衣台"
-msgstr "Mettre la table"
+msgstr "Table de confection textile"
 
 #. Key:	68475427496E27E22A3F4DB608EF5675
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_25.In Text
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_25.In Text
 msgctxt ",68475427496E27E22A3F4DB608EF5675"
 msgid "开关"
-msgstr "Changer"
+msgstr "Interrupteur"
 
 #. Key:	78654B7C40CB825C0C5430BC0293D7F9
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_26.In Text
@@ -3861,7 +3861,7 @@ msgstr "Générateur thermique"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_58.In Text
 msgctxt ",F618CC164355622BE74E469B9F2F7BDA"
 msgid "电熔炉"
-msgstr "Four électrique"
+msgstr "Forge électrique"
 
 #. Key:	7A7B37B14D17BF08CE96FE8C76CE1D2A
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_59.In Text
@@ -3896,7 +3896,7 @@ msgstr "Échappement scellé"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_62.In Text
 msgctxt ",76AB6D6C4BB02B632778CAB4C55641E7"
 msgid "储水站"
-msgstr "Station de stockage d'eau"
+msgstr "Station de pompage"
 
 #. Key:	2825D84B46503305B687FE865D440131
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_63.In Text
@@ -3931,7 +3931,7 @@ msgstr "Pénicilline"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_67.In Text
 msgctxt ",4012F6B548F849403A5585B1A5DA68FD"
 msgid "病毒阻断剂"
-msgstr "Anti-virus"
+msgstr "Inhibiteur viral"
 
 #. Key:	B8EC20624117CFE11537B1B46FE1FEEC
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_68.In Text
@@ -4169,7 +4169,7 @@ msgstr "Lance en acier"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_98.In Text
 msgctxt ",5159A35C4632DF45C427CC9981E0117D"
 msgid "滤芯"
-msgstr "Élément de filtre"
+msgstr "Filtre"
 
 #. Key:	A0FD51544305999642F5E3AC450379F3
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_99.In Text
@@ -4610,7 +4610,7 @@ msgstr "ToitFinVertical"
 #: /Game/HDCKBuildingSystem/Blueprints/NPC/E_BuildingType.E_BuildingType.DisplayNameMap(8 - Value).DisplayNameMap
 msgctxt ",F9AEB4DA4E4995AF5C0807AE1EEF8C90"
 msgid "transaction"
-msgstr "transaction"
+msgstr "Transaction"
 
 #. Key:	D87A92EB480D5FCB9667C089A2705977
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Foundation_SN.Default__Foundation_SN_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
@@ -4624,7 +4624,7 @@ msgstr "La fondation en ciment semble très solide et peut supporter un poids co
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_DP_XDD.Default__Furniture_DP_XDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",94C5B9CB4E9CB06672829E9D45FBD7E4"
 msgid "地板"
-msgstr "sol"
+msgstr "Sol"
 
 #. Key:	3581A89C43D3A186CF54818DC0E637FF
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_DPBase.Default__Furniture_DPBase_C.BuildInfo.TipAdsorbent_45_0277CC26494BF1319349189E27EC6190
@@ -4638,7 +4638,7 @@ msgstr "aucun"
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_DPBase.Default__Furniture_DPBase_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",DBB3AB684DF31CA890C14AA433EBCB44"
 msgid "地基或地板"
-msgstr "fondation ou plancher"
+msgstr "Fondation ou plancher"
 
 #. Key:	ABE10B784F6D55A4DA2F40A4FBEC2520
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_DPBase.Default__Furniture_DPBase_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
@@ -4652,14 +4652,14 @@ msgstr "Une boîte pour ranger les objets sans les perdre."
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_DPLDD.Default__Furniture_DPLDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",B2257A584BA60D2BEFBC9F807E85001C"
 msgid "地板"
-msgstr "sol"
+msgstr "Sol"
 
 #. Key:	7CCCED78433FBE0BEEEFD09131C4426E
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_KG.Furniture_KG_C:ShowUI [Script Bytecode]
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_KG.Furniture_KG_C:ShowUI [Script Bytecode]
 msgctxt ",7CCCED78433FBE0BEEEFD09131C4426E"
 msgid "切换"
-msgstr "pour échanger"
+msgstr "Pour échanger"
 
 #. Key:	F5C4EE8C4E6DC7143610D6BC67865049
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_KG.Furniture_KG_C:ShowUI [Script Bytecode]
@@ -4673,7 +4673,7 @@ msgstr "{0}{1}"
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_MakeBase.Default__Furniture_MakeBase_C.BuildInfo.Name_38_B9A5B2DC4FBEF03FBCA85592B802C50C
 msgctxt ",DAB471E84209B1F415E38190944B2064"
 msgid "家具"
-msgstr "meubles"
+msgstr "Meubles"
 
 #. Key:	38B3499B4595D62EAD0BA7ACC4B72F5A
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_MakeBase.Default__Furniture_MakeBase_C.BuildInfo.TipAdsorbent_45_0277CC26494BF1319349189E27EC6190
@@ -4687,14 +4687,14 @@ msgstr "rien"
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_MakeBase.Default__Furniture_MakeBase_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",189175F84DA6BB896C3A64A385CB44CA"
 msgid "地基或地板"
-msgstr "fondation ou plancher"
+msgstr "Fondation ou plancher"
 
 #. Key:	BC879B3F4ECE110B894771976EFF65F1
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_MakeBase.Default__Furniture_MakeBase_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_MakeBase.Default__Furniture_MakeBase_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 msgctxt ",BC879B3F4ECE110B894771976EFF65F1"
 msgid "家具"
-msgstr "meubles"
+msgstr "Meubles"
 
 #. Key:	38C900304C20AF832E37D8B3555C45BA
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_TYNFD.Default__Furniture_TYNFD_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
@@ -5198,7 +5198,7 @@ msgstr "Muret en bois"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B40"
 msgid "淋浴间"
-msgstr "Salle de bain"
+msgstr "Douche"
 
 #. Key:	B41
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -5317,7 +5317,7 @@ msgstr "Métier à tisser"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B56"
 msgid "制衣台"
-msgstr "Mettre la table"
+msgstr "Table de confection textile"
 
 #. Key:	B57
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -5583,14 +5583,14 @@ msgstr "Congélateur"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,BL"
 msgid "壁炉"
-msgstr "cheminée"
+msgstr "Cheminée"
 
 #. Key:	CHUANGWEI
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,CHUANGWEI"
 msgid "床位"
-msgstr "lit"
+msgstr "Lit"
 
 #. Key:	CTG
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -5765,7 +5765,7 @@ msgstr "ne peut pas construire plus"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,XT"
 msgid "熊头装饰"
-msgstr "décoration tête d'ours"
+msgstr "Décoration (tête d'ours)"
 
 #. Key:	YG
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -5828,14 +5828,14 @@ msgstr "Pas de structure porteuse ou d'objets empêchant la construction"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",CK"
 msgid "仓库"
-msgstr "entrepôt"
+msgstr "Entrepôt"
 
 #. Key:	DLCW
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",DLCW"
 msgid "电力刺网"
-msgstr "filet maillant électrique"
+msgstr "Filet maillant électrique"
 
 #. Key:	door1
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5856,7 +5856,7 @@ msgstr "Porte"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",DPWS"
 msgid "植物园"
-msgstr "jardin botanique"
+msgstr "Jardin botanique"
 
 #. Key:	FDGL
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -5905,7 +5905,7 @@ msgstr "Les poutres longues, qui peuvent supporter le poids, sont indispensables
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",GLZX"
 msgid "管理中心"
-msgstr "Centre de contrôle"
+msgstr "Centre de gestion"
 
 #. Key:	GuardRail
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -6038,7 +6038,7 @@ msgstr "Il y aura régulièrement des marchands ici pour échanger des marchandi
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",KSW"
 msgid "采矿厂"
-msgstr "usine minière"
+msgstr "Usine minière"
 
 #. Key:	mdc
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -6087,7 +6087,7 @@ msgstr "Lance-flammes"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",QIANGJIA"
 msgid "枪架"
-msgstr "Râtelier à armes"
+msgstr "Râtelier pour armes à feu"
 
 #. Key:	QT
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -6710,7 +6710,7 @@ msgstr "À l'air solide et peut supporter un peu de poids."
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",WUQIJIAZI"
 msgid "武器架"
-msgstr "Râtelier"
+msgstr "Râtelier pour armes blanches"
 
 #. Key:	XMY
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -7179,7 +7179,7 @@ msgstr "Ingénierie (Volume 5)"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F109"
 msgid "武器大师（一卷）"
-msgstr "Maître d'armes (Volume 1)"
+msgstr "Fabrication d'armes (Volume 1)"
 
 #. Key:	F11
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7193,28 +7193,28 @@ msgstr "Pomme"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F110"
 msgid "武器大师（二卷）"
-msgstr "Maître d'armes (Volume 2)"
+msgstr "Fabrication d'armes (Volume 2)"
 
 #. Key:	F111
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F111"
 msgid "武器大师（三卷）"
-msgstr "Maître d'armes (Volume 3)"
+msgstr "Fabrication d'armes (Volume 3)"
 
 #. Key:	F112
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F112"
 msgid "武器大师（四卷）"
-msgstr "Maître d'armes (Volume 4)"
+msgstr "Fabrication d'armes (Volume 4)"
 
 #. Key:	F113
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F113"
 msgid "武器大师（五卷）"
-msgstr "Maître d'armes (Volume 5)"
+msgstr "Fabrication d'armes (Volume 5)"
 
 #. Key:	F114
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7788,7 +7788,7 @@ msgstr "Gourde"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F66"
 msgid "蔬菜肉罐头"
-msgstr "Viande végétale en conserve"
+msgstr "Viande et légumes en conserve"
 
 #. Key:	F67
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7823,14 +7823,14 @@ msgstr "Fraise"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F70"
 msgid "美味蔬菜肉罐头"
-msgstr "Délicieuse viande de légumes en conserve"
+msgstr "Délicieuse viande et légumes en conserve"
 
 #. Key:	F71
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F71"
 msgid "美味水果肉罐头"
-msgstr "Délicieuse viande de fruits en conserve"
+msgstr "Délicieuse viande et fruits en conserve"
 
 #. Key:	F72
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8516,14 +8516,14 @@ msgstr "Dessin de générateur thermique"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M43"
 msgid "太阳能组图纸"
-msgstr "Dessin du groupe solaire"
+msgstr "Dessin de centrale solaire"
 
 #. Key:	M44
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M44"
 msgid "储水站图纸"
-msgstr "Dessin de stations de stockage d'eau"
+msgstr "Dessin de station de pompage"
 
 #. Key:	M45
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8579,7 +8579,7 @@ msgstr "Dessin de machine à coudre"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M51"
 msgid "电熔炉图纸"
-msgstr "Dessin de fournaise électrique"
+msgstr "Dessin de forge électrique"
 
 #. Key:	M52
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8593,7 +8593,7 @@ msgstr "Plantation et construction de serres"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M53"
 msgid "冰箱图纸"
-msgstr "Dessins de réfrigérateur"
+msgstr "Dessin de réfrigérateur"
 
 #. Key:	M54
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8614,7 +8614,7 @@ msgstr "Composant électronique"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M56"
 msgid "燃油发电机"
-msgstr "Groupe électrogène à carburant"
+msgstr "Groupe électrogène"
 
 #. Key:	M57
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8649,7 +8649,7 @@ msgstr "Petite bouteille de carburant"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M60"
 msgid "电炉"
-msgstr "Four électrique"
+msgstr "Forge électrique"
 
 #. Key:	M61
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9055,7 +9055,7 @@ msgstr "Veste de cuir"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Q01"
 msgid "18C"
-msgstr "Glock 18"
+msgstr "G18"
 
 #. Key:	Q02
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9076,7 +9076,7 @@ msgstr "SCAR"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Q04"
 msgid "MP40"
-msgstr "MP40"
+msgstr "MP5K"
 
 #. Key:	Q05
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9174,7 +9174,7 @@ msgstr "Bandage"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,T11"
 msgid "包扎流血伤口"
-msgstr "Panser une plaie qui saigne"
+msgstr "Régénère la santé"
 
 #. Key:	T12
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9188,14 +9188,14 @@ msgstr "Pommade"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,T13"
 msgid "胃药"
-msgstr "Médecine gastrique"
+msgstr "Médicament contre les douleurs abdominales"
 
 #. Key:	T14
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,T14"
 msgid "治疗疟疾"
-msgstr "Traiter l'intoxication"
+msgstr "Traite l'intoxication"
 
 #. Key:	T15
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9230,7 +9230,7 @@ msgstr "Traiter l'infection"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,T19"
 msgid "病毒阻断剂"
-msgstr "Inhibiteurs viraux"
+msgstr "Inhibiteur viral"
 
 #. Key:	T2
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9335,7 +9335,7 @@ msgstr "Panneau solaire 300W"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,T9"
 msgid "滤芯"
-msgstr "Élement de filtre"
+msgstr "Filtre"
 
 #. Key:	W1
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9356,7 +9356,7 @@ msgstr "Torche"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W11"
 msgid "主要用于照明"
-msgstr "Principalement utilisé pour l'éclairage"
+msgstr "Utilisé pour l'éclairage"
 
 #. Key:	W12
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9552,7 +9552,7 @@ msgstr "Machette en acier"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W37"
 msgid "钢双手刀"
-msgstr "Wushu"
+msgstr "Couteau à deux mains en acier"
 
 #. Key:	W38
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9573,7 +9573,7 @@ msgstr "Lance en acier"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W4"
 msgid "主要用于砍树，必要时候也可以用来防身。"
-msgstr "Il est principalement utilisé pour couper des arbres et peut également être utilisé pour l'autodéfense si nécessaire."
+msgstr "Utile pour couper des arbres et peut également être utilisé pour l'autodéfense."
 
 #. Key:	W40
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9762,7 +9762,7 @@ msgstr "Viande de poisson"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,yuer"
 msgid "鱼饵"
-msgstr "appât"
+msgstr "Appât"
 
 #. Key:	YUROUMIANBAO
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -10896,7 +10896,7 @@ msgstr "Volume total"
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,01"
 msgid "当食物新鲜度开始变黄，吃下去可能会感染疟疾，新鲜度越低感染的可能性越大。"
-msgstr "Lorsque la fraîcheur de la nourriture commence à jaunir, vous pouvez être infecté par une intoxication après l'avoir mangé. Plus la fraîcheur est faible, plus la possibilité d'infection est grande."
+msgstr "Manger des aliments périmés peut entraîner une intoxication alimentaire. Plus l'indice de fraîcheur est faible, plus la probabilité d'intoxication est élevée."
 
 #. Key:	02
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -11463,7 +11463,7 @@ msgstr "Vide"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,ClearBody"
 msgid "清洗"
-msgstr "Nettoyer"
+msgstr "Se laver"
 
 #. Key:	Close
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11491,7 +11491,7 @@ msgstr "Consommables:"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,cook"
 msgid "烹饪"
-msgstr "Cuisine"
+msgstr "Cuisiner"
 
 #. Key:	CQTS
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11561,7 +11561,7 @@ msgstr "Fané"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,decompose"
 msgid "拆解"
-msgstr "Démantèlement"
+msgstr "Démanteler"
 
 #. Key:	decomposeing
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11596,7 +11596,7 @@ msgstr "Introduction:"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,DH123"
 msgid "兑换"
-msgstr "échange"
+msgstr "Échange"
 
 #. Key:	DHCG
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11736,7 +11736,7 @@ msgstr "Récupérer"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,EU"
 msgid "欧洲"
-msgstr "L'Europe "
+msgstr "Europe"
 
 #. Key:	FaileToJoin
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11750,7 +11750,7 @@ msgstr "Échec de l'adhésion !"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,fangru"
 msgid "放入"
-msgstr "Mettre dans un"
+msgstr "Déposer"
 
 #. Key:	fayue
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12037,7 +12037,7 @@ msgstr "Journal"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,JR"
 msgid "加热以后使用更佳"
-msgstr "Mieux vaut l'utiliser après l'avoir chauffer"
+msgstr "Offre de meilleures valeurs nutritives une fois chauffée"
 
 #. Key:	JZBZKG
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12065,14 +12065,14 @@ msgstr "Contrôle du bâtiment"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,kd"
 msgid "矿洞"
-msgstr "Le mien"
+msgstr "Mine"
 
 #. Key:	KG
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,KG"
 msgid "开关"
-msgstr "Changer"
+msgstr "Interrupteur"
 
 #. Key:	KGQ
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12177,14 +12177,14 @@ msgstr "Verrouillé"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,LXXH"
 msgid "练习消耗："
-msgstr "Required Materials:"
+msgstr "Matériaux requis:"
 
 #. Key:	Main
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Main"
 msgid "主界面"
-msgstr "Interface principale"
+msgstr "Interface"
 
 #. Key:	Make
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12590,7 +12590,7 @@ msgstr "Liste des joueurs :"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Pot01"
 msgid "注意这个操作会删除锅内物品"
-msgstr "A noter que cette opération supprimera le contenu de la marmite"
+msgstr "Cette opération supprimera le contenu de la marmite"
 
 #. Key:	QCCW01
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12695,14 +12695,14 @@ msgstr "Super résolution"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,rizhao"
 msgid "日照"
-msgstr "Ensoleillé"
+msgstr "Ensoleillement"
 
 #. Key:	RLSJ
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,RLSJ"
 msgid "熔炼时间："
-msgstr "Temps de fusion :"
+msgstr "Temps de production :"
 
 #. Key:	RR
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12716,7 +12716,7 @@ msgstr "Reconstruction de rayons"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,RWKS"
 msgid "我需要发送信号给我的人，但这会引来一大批丧尸，你愿意帮助我吗？我会给你一些回报"
-msgstr "Je dois envoyer un signal à mon peuple, mais cela attirera une horde de zombies, pouvez-vous m'aider ? Je te donnerai quelque chose en retour"
+msgstr "Je dois transmettre un signal radio, mais cela attirera une horde de zombies. Peux-tu m'aider ? Je te donnerai quelque chose en retour."
 
 #. Key:	RWKZ
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12779,7 +12779,7 @@ msgstr "Contrôle de la souris"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SCJGR"
 msgid "尸潮进攻日，无法入睡！"
-msgstr "Le jour de l'attaque des vagues de zombies, je ne peux pas dormir !"
+msgstr "Il m'est impossible de dormir le jour de l'attaque des zombies!"
 
 #. Key:	Search
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12863,14 +12863,14 @@ msgstr "Marchand(e)"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SS001"
 msgid "我想和你学习"
-msgstr "Je veux apprendre des compétences avec toi"
+msgstr "Que peux-tu m'apprendre?"
 
 #. Key:	SS02
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SS02"
 msgid "我不想学了"
-msgstr "Je ne souhaite pas apprendre maintenant"
+msgstr "J'ai changé d'avis"
 
 #. Key:	SS04
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12905,14 +12905,14 @@ msgstr "Salut, celui-ci est trop difficile pour être facile !"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SS08"
 msgid "不错，你已经掌握了。"
-msgstr "Oui, vous avez compris."
+msgstr "Bien! Tu as compris."
 
 #. Key:	SS09
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SS09"
 msgid "我并不想教你这个。"
-msgstr "Je ne veux pas t'apprendre ça."
+msgstr "Je ne veux pas t'apprendre cela gratuitement."
 
 #. Key:	SS10
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12933,14 +12933,14 @@ msgstr "Au revoir"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SS12"
 msgid "我想和你学习技能"
-msgstr "Je veux apprendre des compétences avec toi"
+msgstr "Que peux-tu m'apprendre?"
 
 #. Key:	SS13
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SS13"
 msgid "我这里有些好东西送给你"
-msgstr "J'ai de bonnes choses ici pour toi"
+msgstr "J'ai quelque chose qui peut t'intéresser"
 
 #. Key:	SS14
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -13080,7 +13080,7 @@ msgstr "Ajouter à la liste noire"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,TLD"
 msgid "由矿石熔炼而成，或者是通过拆卸物品获得，可以熔炼成锭"
-msgstr "Fondu à partir de minerai, ou obtenu en démantelant des objets, qui peuvent être fondus en lingots"
+msgstr "Fondu à partir de minerai ou obtenu en démantelant des objets. Peut être fondu en lingot"
 
 #. Key:	toLen
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -13206,7 +13206,7 @@ msgstr "Construit(e) avec un marteau de construction"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,useHXFYT"
 msgid "在化学反应台制作"
-msgstr "Fabriqué(e) sur un banc de réation chimique"
+msgstr "Fabriqué(e) sur un banc de réaction chimique"
 
 #. Key:	useJGT
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -13325,7 +13325,7 @@ msgstr "Hiver"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,WNBNSM"
 msgid "我能帮你什么？"
-msgstr "Que puis-je faire pour vous?"
+msgstr "Que puis-je faire pour toi?"
 
 #. Key:	WPBG
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -13374,14 +13374,14 @@ msgstr "Je n'en ai pas besoin maintenant !"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,WYLQJSJL"
 msgid "我要兑换击杀奖励"
-msgstr "Je veux récupérer la récompense de kill"
+msgstr "J'aimerais récupérer une récompense pour les zombies tués"
 
 #. Key:	WYLQWDBC
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,WYLQWDBC"
 msgid "我要领取我的报酬"
-msgstr "Je veux récupérer ma récompense"
+msgstr "J'aimerais récupérer ma récompense"
 
 #. Key:	WZKLYX
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -13416,7 +13416,7 @@ msgstr "Détruire le tableau de territoire"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,xianshifanwei"
 msgid "可用范围"
-msgstr "Plage disponible"
+msgstr "Portée"
 
 #. Key:	xinjian
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -13507,7 +13507,7 @@ msgstr "Se suicider"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,ZS"
 msgid "赠送"
-msgstr "Révéler"
+msgstr "Donner"
 
 #. Key:	ZSNYDD
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -13605,7 +13605,7 @@ msgstr "Résistance aux griffures"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,Health"
 msgid "生命"
-msgstr "Vie"
+msgstr "Santé"
 
 #. Key:	hygiene
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -13640,7 +13640,7 @@ msgstr "Résistance au froid"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,KK"
 msgid "口渴"
-msgstr "Assoiffé"
+msgstr "Hydratation"
 
 #. Key:	KRX
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -13654,7 +13654,7 @@ msgstr "Résistance à la chaleur"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,KTDetail"
 msgid "病毒抗体\r\n抗体为0就会死亡"
-msgstr "Anticorps viral\r\nSi l'anticorps passe à 0, vous mourez"
+msgstr "Système immunitaire\r\nSi le niveau d'anticorps descend à 0, vous mourrez"
 
 #. Key:	MAIKE
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -13696,7 +13696,7 @@ msgstr "Force physique"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,protein"
 msgid "蛋白质"
-msgstr "Protéine"
+msgstr "Protéines"
 
 #. Key:	QXdetail
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -13738,7 +13738,7 @@ msgstr "Défense de la tête"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,thirsty"
 msgid "口渴"
-msgstr "Soif"
+msgstr "Hydratation"
 
 #. Key:	TLDetail
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -13773,14 +13773,14 @@ msgstr "Affecte la vie, l'endurance maximale"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZFYF"
 msgid "细皮嫩肉"
-msgstr "Viande tendre"
+msgstr "Fragile"
 
 #. Key:	TZFYZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZFYZ"
 msgid "皮糙肉厚"
-msgstr "Peau épaisse"
+msgstr "Peau dure"
 
 #. Key:	TZFZF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -13843,7 +13843,7 @@ msgstr "Optimisme"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZLLF"
 msgid "力气较小"
-msgstr "Moins de pouvoir"
+msgstr "Manque de force"
 
 #. Key:	TZLLZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -13857,7 +13857,7 @@ msgstr "Puissance infinie"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZNLF"
 msgid "耐力不好"
-msgstr "Mauvaise endurance"
+msgstr "Manque d'endurance"
 
 #. Key:	TZNLZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -13892,56 +13892,56 @@ msgstr "Difficultés d'apprentissage"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZRAXXZ"
 msgid "热爱学习"
-msgstr "Aime apprendre"
+msgstr "Épistémophile"
 
 #. Key:	TZSDF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZSDF"
 msgid "不太灵活"
-msgstr "Moins souple"
+msgstr "Manque de souplesse"
 
 #. Key:	TZSDZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZSDZ"
 msgid "敏捷如兔"
-msgstr "Agile comme un lapin"
+msgstr "Rapide comme un lapin"
 
 #. Key:	TZSMF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZSMF"
 msgid "生命脆弱"
-msgstr "La vie est fragile"
+msgstr "Santé fragile"
 
 #. Key:	TZSMZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZSMZ"
 msgid "生命强悍"
-msgstr "La vie est forte"
+msgstr "Santé de fer"
 
 #. Key:	TZTJF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZTJF"
 msgid "不喜跑步"
-msgstr "N'aime pas courir"
+msgstr "Souffle court"
 
 #. Key:	TZTJZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZTJZ"
 msgid "田径选手"
-msgstr "Athléte"
+msgstr "Athlète"
 
 #. Key:	TZWQF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZWQF"
 msgid "不擅战斗"
-msgstr "Pas bon au combat"
+msgstr "Mauvais combattant"
 
 #. Key:	TZWQZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -13976,7 +13976,7 @@ msgstr "Imprudent"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZXXZ"
 msgid "细心"
-msgstr "Prudent"
+msgstr "Avisé"
 
 #. Key:	TZZLF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14011,7 +14011,7 @@ msgstr "Affecte les dégâts d'arme correspondants"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,wsDetail"
 msgid "卫生\r\n影响丧尸发现几率，影响伤口感染几率，过低影响心情回复"
-msgstr "Hygiène\r\nAffecte le risque de découverte de zombies, affecte le risque d'infection de la plaie et affecte la récupération de l'humeur si elle est trop faible"
+msgstr "Hygiène\r\nAffecte le risque de découverte par les zombies, le risque d'infection des plaies et le mental"
 
 #. Key:	YZKX
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14039,7 +14039,7 @@ msgstr "Tailleur"
 #: /Game/LocalizationText/UIStudy.UIStudy
 msgctxt "UI,DQ"
 msgid "钝器"
-msgstr "Arme contondante"
+msgstr "Armes contondantes"
 
 #. Key:	GC
 #. SourceLocation:	/Game/LocalizationText/UIStudy.UIStudy
@@ -14053,14 +14053,14 @@ msgstr "Ingénierie"
 #: /Game/LocalizationText/UIStudy.UIStudy
 msgctxt "UI,HX"
 msgid "电气化"
-msgstr "Électrification"
+msgstr "Électrochimie"
 
 #. Key:	JN
 #. SourceLocation:	/Game/LocalizationText/UIStudy.UIStudy
 #: /Game/LocalizationText/UIStudy.UIStudy
 msgctxt "UI,JN"
 msgid "技能"
-msgstr "Compétence"
+msgstr "Compétences"
 
 #. Key:	JX
 #. SourceLocation:	/Game/LocalizationText/UIStudy.UIStudy
@@ -14109,7 +14109,7 @@ msgstr "Armes à feu"
 #: /Game/LocalizationText/UIStudy.UIStudy
 msgctxt "UI,RQ"
 msgid "锐器"
-msgstr "Objets tranchants"
+msgstr "Armes tranchantes"
 
 #. Key:	SCBD
 #. SourceLocation:	/Game/LocalizationText/UIStudy.UIStudy
@@ -14137,7 +14137,7 @@ msgstr "Constitution"
 #: /Game/LocalizationText/UIStudy.UIStudy
 msgctxt "UI,WQ"
 msgid "武器"
-msgstr "Bras"
+msgstr "Armes"
 
 #. Key:	WQZJ
 #. SourceLocation:	/Game/LocalizationText/UIStudy.UIStudy
@@ -14158,4 +14158,4 @@ msgstr "Métallurgie"
 #: /Game/LocalizationText/UIStudy.UIStudy
 msgctxt "UI,YX"
 msgid "医学"
-msgstr "Médicament"
+msgstr "Médecine"
