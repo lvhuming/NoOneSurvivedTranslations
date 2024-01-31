@@ -249,35 +249,35 @@ msgstr "Common Wood"
 #: /Game/Blueprint/ACF/Item/Book/AutoCreate/BP_Book_JXX01.Default__BP_Book_JXX01_C.ItemInfo.Name
 msgctxt ",EA77E4304A790A0ED9771C9AB5C74CDF"
 msgid "机修（一卷）"
-msgstr "Machine repair (one volume)"
+msgstr "Maintenance (Volume 1)"
 
 #. Key:	A5DA98DB4391216538F451B43701790C
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Book/AutoCreate/BP_Book_JXX02.Default__BP_Book_JXX02_C.ItemInfo.Name
 #: /Game/Blueprint/ACF/Item/Book/AutoCreate/BP_Book_JXX02.Default__BP_Book_JXX02_C.ItemInfo.Name
 msgctxt ",A5DA98DB4391216538F451B43701790C"
 msgid "机修（二卷）"
-msgstr "Mechanical Repair (Volume 2)"
+msgstr "Maintenance (Volume 2)"
 
 #. Key:	93BD9C0D40AEBB7A8B82D3A64F585EC5
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Book/AutoCreate/BP_Book_JXX03.Default__BP_Book_JXX03_C.ItemInfo.Name
 #: /Game/Blueprint/ACF/Item/Book/AutoCreate/BP_Book_JXX03.Default__BP_Book_JXX03_C.ItemInfo.Name
 msgctxt ",93BD9C0D40AEBB7A8B82D3A64F585EC5"
 msgid "机修（三卷）"
-msgstr "Mechanical Repair (Three Volumes)"
+msgstr "Maintenance (Volume 3)"
 
 #. Key:	8BFCAD2D4FD119864F5375AAEC31553A
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Book/AutoCreate/BP_Book_JXX04.Default__BP_Book_JXX04_C.ItemInfo.Name
 #: /Game/Blueprint/ACF/Item/Book/AutoCreate/BP_Book_JXX04.Default__BP_Book_JXX04_C.ItemInfo.Name
 msgctxt ",8BFCAD2D4FD119864F5375AAEC31553A"
 msgid "机修（四卷）"
-msgstr "Mechanical Repair (Four Volumes)"
+msgstr "Maintenance (Volume 4)"
 
 #. Key:	3E8761D14F45FA93C0D1B486CBB370EC
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Book/AutoCreate/BP_Book_JXX05.Default__BP_Book_JXX05_C.ItemInfo.Name
 #: /Game/Blueprint/ACF/Item/Book/AutoCreate/BP_Book_JXX05.Default__BP_Book_JXX05_C.ItemInfo.Name
 msgctxt ",3E8761D14F45FA93C0D1B486CBB370EC"
 msgid "机修（五卷）"
-msgstr "Mechanical Repair (Five Volumes)"
+msgstr "Maintenance (Volume 5)"
 
 #. Key:	CA0037B449D92CACAD7CF89A6327A14B
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Food/AutoCreate/BP_Food_2MWDSG.Default__BP_Food_2MWDSG_C.ItemInfo.Name
@@ -648,14 +648,14 @@ msgstr "Revolver"
 #: /Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_sniper_SKS.Default__ACFGunBase_sniper_SKS_C.ItemInfo.Name
 msgctxt ",788A720D43761C9F57A1978C78DD3440"
 msgid "SKS"
-msgstr "SKS"
+msgstr "SKS Rifle"
 
 #. Key:	DFD83CE1499291F868ACF8833B4D514F
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_sniper_SVD.Default__ACFGunBase_sniper_SVD_C.ItemInfo.Name
 #: /Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_sniper_SVD.Default__ACFGunBase_sniper_SVD_C.ItemInfo.Name
 msgctxt ",DFD83CE1499291F868ACF8833B4D514F"
 msgid "SVD"
-msgstr "SVD"
+msgstr "SVD Sniper Rifle"
 
 #. Key:	1F99F44C4E0061BF010728B9C1DBDC30
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Ammo/BP_GunAmmoBase.Default__BP_GunAmmoBase_C.ItemInfo.Name
@@ -676,7 +676,7 @@ msgstr "Long Sledgehammer"
 #: /Game/Blueprint/ACF/Item/Weapon/LongBlunt/BP_LongBluntStick_G.Default__BP_LongBluntStick_G_C.ItemInfo.Description
 msgctxt ",DEB7106C4FEA46EF43152CA76F642403"
 msgid "露茜儿++"
-msgstr "Lucile++"
+msgstr "Spiked Bat++"
 
 #. Key:	FD5D604D432226A201BDBD830BF11341
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/LongBlunt/Pickaxe/BP_ToolPickaxeBase.Default__BP_ToolPickaxeBase_C.ItemInfo.Name
@@ -5625,7 +5625,7 @@ msgstr "Log Trap"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,DL"
 msgid "春节灯笼"
-msgstr "Chinese new year lanterns"
+msgstr "Chinese New Year Lanterns"
 
 #. Key:	DT01
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -5646,7 +5646,7 @@ msgstr "Large Carpet"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,FLFDJ"
 msgid "风力发电机"
-msgstr "Wind Turbines"
+msgstr "Wind Turbine"
 
 #. Key:	GH
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -5779,7 +5779,7 @@ msgstr "Desk Lamp"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,TZD"
 msgid "探照灯"
-msgstr "searchlight"
+msgstr "Searchlight"
 
 #. Key:	WFJZGD
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -8271,7 +8271,7 @@ msgstr "Police Helmet"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,JZ"
 msgid "饺子"
-msgstr "dumpling"
+msgstr "Dumplings"
 
 #. Key:	KAOYU
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8306,42 +8306,42 @@ msgstr "Fine Fabric"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M100"
 msgid "燃烧箭头图纸"
-msgstr "Burning Arrow Drawing"
+msgstr "Blueprint: Fire Arrow"
 
 #. Key:	M101
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M101"
 msgid "照明箭头图纸"
-msgstr "Illuminated arrow drawings"
+msgstr "Blueprint: Lighting Arrow"
 
 #. Key:	M102
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M102"
 msgid "穿甲箭头图纸"
-msgstr "Armor Piercing Arrow Drawing"
+msgstr "Blueprint: Armor-Piercing Arrow"
 
 #. Key:	M103
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M103"
 msgid "爆炸箭头图纸"
-msgstr "Exploding arrow drawings"
+msgstr "Blueprint: Explosive Arrow"
 
 #. Key:	M104
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M104"
 msgid "气味诱饵图纸"
-msgstr "Scent bait drawings"
+msgstr "Blueprint: Scent Bait"
 
 #. Key:	M105
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M105"
 msgid "风力发电机图纸"
-msgstr "Wind turbine drawings"
+msgstr "Blueprint: Wind Turbine"
 
 #. Key:	M11
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9020,7 +9020,7 @@ msgstr "Car Repair Kit"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M99"
 msgid "诱饵箭头图纸"
-msgstr "Bait Arrow Drawing"
+msgstr "Blueprint: Fish Bait"
 
 #. Key:	MEHAIXIANNONGTANG
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9783,28 +9783,28 @@ msgstr "12 Gauge Ammo"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W56"
 msgid "诱饵箭头"
-msgstr "bait arrow"
+msgstr "Fish Bait"
 
 #. Key:	W57
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W57"
 msgid "照明箭头"
-msgstr "illuminated arrow"
+msgstr "Lighting Arrow"
 
 #. Key:	W58
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W58"
 msgid "燃烧箭头"
-msgstr "burning arrow"
+msgstr "Fire Arrow"
 
 #. Key:	W59
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W59"
 msgid "穿甲箭头"
-msgstr "armor-piercing arrow"
+msgstr "Armor-Piercing Arrow"
 
 #. Key:	W6
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9818,14 +9818,14 @@ msgstr "Wooden Spear"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W60"
 msgid "爆炸箭头"
-msgstr "exploding arrow"
+msgstr "Explosive Arrow"
 
 #. Key:	W61
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W61"
 msgid "气味诱饵"
-msgstr "scent bait"
+msgstr "Scent Bait"
 
 #. Key:	W7
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9888,7 +9888,7 @@ msgstr "Fish Meat"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,YSY"
 msgid "夜视仪"
-msgstr "night vision goggles"
+msgstr "Night Vision Device"
 
 #. Key:	yuer
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -11204,7 +11204,7 @@ msgstr "Close to water"
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,27"
 msgid "按\"T\"打开夜视仪。"
-msgstr "Press \"T\" to turn on the night vision."
+msgstr "Press \"T\" to turn on the Night Vision."
 
 #. Key:	WPWF
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -12002,7 +12002,7 @@ msgstr "Use "
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,FWQCQGXKAISHI"
 msgid "服务器将在30秒后开始重启更新！！！"
-msgstr "The server will restart and update in 30 seconds! ! !"
+msgstr "The server will restart and update in 30 seconds!"
 
 #. Key:	FYZC
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12772,7 +12772,7 @@ msgstr "Are you sure to destroy the Safezone Table?"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,quanbushiqu"
 msgid "全部拾取"
-msgstr "Pick all"
+msgstr "Take Everything"
 
 #. Key:	QUANPING
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -13633,7 +13633,7 @@ msgstr "Remove"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,YUYINSHURU"
 msgid "语音"
-msgstr "voice"
+msgstr "Voice"
 
 #. Key:	YXSZC001
 #. SourceLocation:	/Game/LocalizationText/UI.UI
