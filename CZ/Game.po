@@ -249,35 +249,35 @@ msgstr "Běžné dřevo"
 #: /Game/Blueprint/ACF/Item/Book/AutoCreate/BP_Book_JXX01.Default__BP_Book_JXX01_C.ItemInfo.Name
 msgctxt ",EA77E4304A790A0ED9771C9AB5C74CDF"
 msgid "机修（一卷）"
-msgstr "Oprava stroje (jeden svazek)"
+msgstr "Mechanika (1.stupeň)"
 
 #. Key:	A5DA98DB4391216538F451B43701790C
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Book/AutoCreate/BP_Book_JXX02.Default__BP_Book_JXX02_C.ItemInfo.Name
 #: /Game/Blueprint/ACF/Item/Book/AutoCreate/BP_Book_JXX02.Default__BP_Book_JXX02_C.ItemInfo.Name
 msgctxt ",A5DA98DB4391216538F451B43701790C"
 msgid "机修（二卷）"
-msgstr "Mechanická oprava (svazek 2)"
+msgstr "Mechanika (2.stupeň)"
 
 #. Key:	93BD9C0D40AEBB7A8B82D3A64F585EC5
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Book/AutoCreate/BP_Book_JXX03.Default__BP_Book_JXX03_C.ItemInfo.Name
 #: /Game/Blueprint/ACF/Item/Book/AutoCreate/BP_Book_JXX03.Default__BP_Book_JXX03_C.ItemInfo.Name
 msgctxt ",93BD9C0D40AEBB7A8B82D3A64F585EC5"
 msgid "机修（三卷）"
-msgstr "Mechanická oprava (tři svazky)"
+msgstr "Mechanika (3.stupeň)"
 
 #. Key:	8BFCAD2D4FD119864F5375AAEC31553A
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Book/AutoCreate/BP_Book_JXX04.Default__BP_Book_JXX04_C.ItemInfo.Name
 #: /Game/Blueprint/ACF/Item/Book/AutoCreate/BP_Book_JXX04.Default__BP_Book_JXX04_C.ItemInfo.Name
 msgctxt ",8BFCAD2D4FD119864F5375AAEC31553A"
 msgid "机修（四卷）"
-msgstr "Mechanická oprava (čtyři svazky)"
+msgstr "Mechanika (4.stupeň)"
 
 #. Key:	3E8761D14F45FA93C0D1B486CBB370EC
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Book/AutoCreate/BP_Book_JXX05.Default__BP_Book_JXX05_C.ItemInfo.Name
 #: /Game/Blueprint/ACF/Item/Book/AutoCreate/BP_Book_JXX05.Default__BP_Book_JXX05_C.ItemInfo.Name
 msgctxt ",3E8761D14F45FA93C0D1B486CBB370EC"
 msgid "机修（五卷）"
-msgstr "Mechanická oprava (pět svazků)"
+msgstr "Mechanika (5.stupeň)"
 
 #. Key:	CA0037B449D92CACAD7CF89A6327A14B
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Food/AutoCreate/BP_Food_2MWDSG.Default__BP_Food_2MWDSG_C.ItemInfo.Name
@@ -648,14 +648,14 @@ msgstr "Revolver"
 #: /Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_sniper_SKS.Default__ACFGunBase_sniper_SKS_C.ItemInfo.Name
 msgctxt ",788A720D43761C9F57A1978C78DD3440"
 msgid "SKS"
-msgstr "SKS"
+msgstr "SKS Puška"
 
 #. Key:	DFD83CE1499291F868ACF8833B4D514F
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_sniper_SVD.Default__ACFGunBase_sniper_SVD_C.ItemInfo.Name
 #: /Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_sniper_SVD.Default__ACFGunBase_sniper_SVD_C.ItemInfo.Name
 msgctxt ",DFD83CE1499291F868ACF8833B4D514F"
 msgid "SVD"
-msgstr "SVD"
+msgstr "SVD Odstřelovačka"
 
 #. Key:	1F99F44C4E0061BF010728B9C1DBDC30
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Ammo/BP_GunAmmoBase.Default__BP_GunAmmoBase_C.ItemInfo.Name
@@ -676,7 +676,7 @@ msgstr "Dlouhý obouruční perlík"
 #: /Game/Blueprint/ACF/Item/Weapon/LongBlunt/BP_LongBluntStick_G.Default__BP_LongBluntStick_G_C.ItemInfo.Description
 msgctxt ",DEB7106C4FEA46EF43152CA76F642403"
 msgid "露茜儿++"
-msgstr "Lucile++"
+msgstr "Lucinka++"
 
 #. Key:	FD5D604D432226A201BDBD830BF11341
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/LongBlunt/Pickaxe/BP_ToolPickaxeBase.Default__BP_ToolPickaxeBase_C.ItemInfo.Name
@@ -4659,7 +4659,7 @@ msgstr "Podlaha"
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_FLFD.Default__Furniture_FLFD_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 msgctxt ",C9563C5F4D8ACA69F8302EAB4CACE526"
 msgid "受遮挡或在没有太阳的天气无法发电"
-msgstr "Nelze vyrábět elektřinu kvůli stínu nebo za bezslunečného počasí"
+msgstr "Nelze vyrábět elektřinu kvůli stínu nebo je zataženo"
 
 #. Key:	7CCCED78433FBE0BEEEFD09131C4426E
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_KG.Furniture_KG_C:ShowUI [Script Bytecode]
@@ -4708,7 +4708,7 @@ msgstr "Nábytek"
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_TYNFD.Default__Furniture_TYNFD_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 msgctxt ",38C900304C20AF832E37D8B3555C45BA"
 msgid "受遮挡或在没有太阳的天气无法发电"
-msgstr "Zastíněné nebo neschopné vyrábět elektřinu v nepřítomnosti slunce"
+msgstr "Nelze vyrábět elektřinu kvůli stínu nebo je zataženo"
 
 #. Key:	B902044F444A770F5D16FEBFFB185A39
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_YSSJQ.Furniture_YSSJQ_C:ExecuteUbergraph_Furniture_YSSJQ [Script Bytecode]
@@ -4785,7 +4785,7 @@ msgstr "lustr"
 #: /Game/HDCKBuildingSystem/Table/BuildTable.BuildTable.NewRow_11.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 msgctxt ",4348953248D241725A36BD85949AE223"
 msgid "受遮挡或在没有太阳的天气无法发电"
-msgstr "Nemožnost vyrábět elektřinu kvůli stínu nebo je zataženo"
+msgstr "Nelze vyrábět elektřinu kvůli stínu nebo je zataženo"
 
 #. Key:	64969B8E41D11BE2534B0787E7A4575B
 #. SourceLocation:	/Game/HDCKBuildingSystem/Table/BuildTable.BuildTable.NewRow_36.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
@@ -5646,7 +5646,7 @@ msgstr "Velký koberec"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,FLFDJ"
 msgid "风力发电机"
-msgstr "Větrné turbíny"
+msgstr "Větrná turbína"
 
 #. Key:	GH
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -5779,7 +5779,7 @@ msgstr "Stolní lampa"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,TZD"
 msgid "探照灯"
-msgstr "světlomet"
+msgstr "Světlomet"
 
 #. Key:	WFJZGD
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -8264,14 +8264,14 @@ msgstr "Policejní bunda"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,JYTK"
 msgid "警用头盔"
-msgstr "Policejní helmu"
+msgstr "Policejní helma"
 
 #. Key:	JZ
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,JZ"
 msgid "饺子"
-msgstr "knedlík"
+msgstr "Knedlíky"
 
 #. Key:	KAOYU
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8306,42 +8306,42 @@ msgstr "Jemné tkaniny"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M100"
 msgid "燃烧箭头图纸"
-msgstr "Kreslení hořící šipky"
+msgstr "Výkres ohnivého šípu"
 
 #. Key:	M101
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M101"
 msgid "照明箭头图纸"
-msgstr "Kresby světelných šipek"
+msgstr "Výkres světelného šípu"
 
 #. Key:	M102
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M102"
 msgid "穿甲箭头图纸"
-msgstr "Armor Piercing Arrow Kresba"
+msgstr "Výkres průbojného šípu"
 
 #. Key:	M103
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M103"
 msgid "爆炸箭头图纸"
-msgstr "Kresby explodujících šipek"
+msgstr "Výkres výbušného šípu"
 
 #. Key:	M104
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M104"
 msgid "气味诱饵图纸"
-msgstr "Nákresy pachových návnad"
+msgstr "Výkres vábničky"
 
 #. Key:	M105
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M105"
 msgid "风力发电机图纸"
-msgstr "Výkresy větrných turbín"
+msgstr "Výkres větrné turbíny"
 
 #. Key:	M11
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9020,7 +9020,7 @@ msgstr "Sada na opravu auta"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M99"
 msgid "诱饵箭头图纸"
-msgstr "Návnada Arrow Kreslení"
+msgstr "Výkres rybí návnady"
 
 #. Key:	MEHAIXIANNONGTANG
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9783,28 +9783,28 @@ msgstr "Munice ráže 12mm"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W56"
 msgid "诱饵箭头"
-msgstr "návnadový šíp"
+msgstr "Rybí návnada"
 
 #. Key:	W57
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W57"
 msgid "照明箭头"
-msgstr "osvětlená šipka"
+msgstr "Světelný šíp"
 
 #. Key:	W58
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W58"
 msgid "燃烧箭头"
-msgstr "hořící šíp"
+msgstr "Ohnivý šíp"
 
 #. Key:	W59
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W59"
 msgid "穿甲箭头"
-msgstr "pancéřový šíp"
+msgstr "Průbojný šíp"
 
 #. Key:	W6
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9818,14 +9818,14 @@ msgstr "Dřevěné kopí"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W60"
 msgid "爆炸箭头"
-msgstr "explodující šíp"
+msgstr "Výbušný šíp"
 
 #. Key:	W61
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W61"
 msgid "气味诱饵"
-msgstr "vonná návnada"
+msgstr "Vábnička"
 
 #. Key:	W7
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9888,7 +9888,7 @@ msgstr "Rybí maso"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,YSY"
 msgid "夜视仪"
-msgstr "brýle pro noční vidění"
+msgstr "Brýle pro noční vidění"
 
 #. Key:	yuer
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -11974,14 +11974,14 @@ msgstr "Je plný!"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,FSEJXH"
 msgid "发射二级信号"
-msgstr "yslat signál druhé úrovně"
+msgstr "Vyslat signál druhé úrovně"
 
 #. Key:	FSXJXH
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,FSXJXH"
 msgid "发射三级信号"
-msgstr "yslat signál třetí úrovně"
+msgstr "Vyslat signál třetí úrovně"
 
 #. Key:	FSYJXH
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12002,7 +12002,7 @@ msgstr "Otevřít "
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,FWQCQGXKAISHI"
 msgid "服务器将在30秒后开始重启更新！！！"
-msgstr "Server se restartuje a aktualizuje za 30 sekund! ! !"
+msgstr "Server se restartuje a aktualizuje za 30 sekund!"
 
 #. Key:	FYZC
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12772,7 +12772,7 @@ msgstr "Opravdu chcete zrušit ochrannou zónu?"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,quanbushiqu"
 msgid "全部拾取"
-msgstr "Vyberte všechny"
+msgstr "Vzít všechno"
 
 #. Key:	QUANPING
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -13633,7 +13633,7 @@ msgstr "Odstranit"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,YUYINSHURU"
 msgid "语音"
-msgstr "hlas"
+msgstr "Hlas"
 
 #. Key:	YXSZC001
 #. SourceLocation:	/Game/LocalizationText/UI.UI
