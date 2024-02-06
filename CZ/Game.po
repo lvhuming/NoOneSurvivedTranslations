@@ -249,35 +249,35 @@ msgstr "Běžné dřevo"
 #: /Game/Blueprint/ACF/Item/Book/AutoCreate/BP_Book_JXX01.Default__BP_Book_JXX01_C.ItemInfo.Name
 msgctxt ",3BA16DD845D2BC65D63806A22534090C"
 msgid "机修（一卷）"
-msgstr "Oprava stroje (jeden svazek)"
+msgstr "Mechanika (1.stupeň)"
 
 #. Key:	2E2A572B4A0817CDE34ACBA046BE2C7C
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Book/AutoCreate/BP_Book_JXX02.Default__BP_Book_JXX02_C.ItemInfo.Name
 #: /Game/Blueprint/ACF/Item/Book/AutoCreate/BP_Book_JXX02.Default__BP_Book_JXX02_C.ItemInfo.Name
 msgctxt ",2E2A572B4A0817CDE34ACBA046BE2C7C"
 msgid "机修（二卷）"
-msgstr "Mechanická oprava (svazek 2)"
+msgstr "Mechanika (2.stupeň)"
 
 #. Key:	0F359D924AD864CEA1BA35ABDFDD31E1
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Book/AutoCreate/BP_Book_JXX03.Default__BP_Book_JXX03_C.ItemInfo.Name
 #: /Game/Blueprint/ACF/Item/Book/AutoCreate/BP_Book_JXX03.Default__BP_Book_JXX03_C.ItemInfo.Name
 msgctxt ",0F359D924AD864CEA1BA35ABDFDD31E1"
 msgid "机修（三卷）"
-msgstr "Mechanická oprava (tři svazky)"
+msgstr "Mechanika (3.stupeň)"
 
 #. Key:	A77B0E224C0CC216EAE9688EBFDCD058
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Book/AutoCreate/BP_Book_JXX04.Default__BP_Book_JXX04_C.ItemInfo.Name
 #: /Game/Blueprint/ACF/Item/Book/AutoCreate/BP_Book_JXX04.Default__BP_Book_JXX04_C.ItemInfo.Name
 msgctxt ",A77B0E224C0CC216EAE9688EBFDCD058"
 msgid "机修（四卷）"
-msgstr "Mechanická oprava (čtyři svazky)"
+msgstr "Mechanika (4.stupeň)"
 
 #. Key:	ABDF5511407DE3DE8C1ADA90F287313D
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Book/AutoCreate/BP_Book_JXX05.Default__BP_Book_JXX05_C.ItemInfo.Name
 #: /Game/Blueprint/ACF/Item/Book/AutoCreate/BP_Book_JXX05.Default__BP_Book_JXX05_C.ItemInfo.Name
 msgctxt ",ABDF5511407DE3DE8C1ADA90F287313D"
 msgid "机修（五卷）"
-msgstr "Mechanická oprava (pět svazků)"
+msgstr "Mechanika (5.stupeň)"
 
 #. Key:	CA0037B449D92CACAD7CF89A6327A14B
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Food/AutoCreate/BP_Food_2MWDSG.Default__BP_Food_2MWDSG_C.ItemInfo.Name
@@ -648,14 +648,14 @@ msgstr "Revolver"
 #: /Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_sniper_SKS.Default__ACFGunBase_sniper_SKS_C.ItemInfo.Name
 msgctxt ",2609AABF4ACA0DE408B71A8B0736C391"
 msgid "SKS"
-msgstr "SKS"
+msgstr "SKS Puška"
 
 #. Key:	FFFB02F14BD4B8749D5F0EA7A4B63BDD
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_sniper_SVD.Default__ACFGunBase_sniper_SVD_C.ItemInfo.Name
 #: /Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_sniper_SVD.Default__ACFGunBase_sniper_SVD_C.ItemInfo.Name
 msgctxt ",FFFB02F14BD4B8749D5F0EA7A4B63BDD"
 msgid "SVD"
-msgstr "SVD"
+msgstr "SVD Odstřelovačka"
 
 #. Key:	1F99F44C4E0061BF010728B9C1DBDC30
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Ammo/BP_GunAmmoBase.Default__BP_GunAmmoBase_C.ItemInfo.Name
@@ -676,7 +676,7 @@ msgstr "Dlouhý obouruční perlík"
 #: /Game/Blueprint/ACF/Item/Weapon/LongBlunt/BP_LongBluntStick_G.Default__BP_LongBluntStick_G_C.ItemInfo.Description
 msgctxt ",3ECFC6774AB30DB7DB94C899B22A124D"
 msgid "露茜儿++"
-msgstr "Lucile++"
+msgstr "Lucinka++"
 
 #. Key:	FD5D604D432226A201BDBD830BF11341
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/LongBlunt/Pickaxe/BP_ToolPickaxeBase.Default__BP_ToolPickaxeBase_C.ItemInfo.Name
@@ -8201,7 +8201,7 @@ msgstr "Holografický zaměřovač"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,GDG"
 msgid "古代弓"
-msgstr "starověký luk"
+msgstr "Starodávný luk"
 
 #. Key:	GY
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
