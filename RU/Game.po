@@ -1,17 +1,22 @@
-﻿# Game Russian translation.
+# Game Russian translation.
 # Fill out your copyright notice in the Description page of Project Settings.
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: Game\n"
-"POT-Creation-Date: 2024-02-05 04:01\n"
-"PO-Revision-Date: 2024-02-05 04:01\n"
-"Language-Team: \n"
+"Project-Id-Version: noonesurvived\n"
+"POT-Creation-Date: 2024-03-13 08:07\n"
+"PO-Revision-Date: 2024-03-24 17:27\n"
+"Language-Team: Russian\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: noonesurvived\n"
+"X-Crowdin-Project-ID: 567073\n"
+"X-Crowdin-Language: ru\n"
+"X-Crowdin-File: Game.po\n"
+"X-Crowdin-File-ID: 9\n"
 
 #. Key:	2CD410E740F487818FE918876292782E
 #. SourceLocation:	/Game/Blueprint/ACF/Animal/Animal_Base.Default__Animal_Base_C.CharacterName
@@ -54,34 +59,6 @@ msgstr "Ремонт машин (5 том)"
 msgctxt ",62C8A03B4DD8D04AB4D1039910593300"
 msgid "机修（四卷）"
 msgstr "Ремонт машин (4 том)"
-
-#. Key:	A0CA007C4E5A8194B34458BE76C6076D
-#. SourceLocation:	/Game/Blueprint/ACF/Data/TableAsset/GunPJTable.GunPJTable.冲锋其补偿器01.ItemInfo_66_F92A1A3B448C3413FD56918B4BFB9241.Description
-#: /Game/Blueprint/ACF/Data/TableAsset/GunPJTable.GunPJTable.冲锋其补偿器01.ItemInfo_66_F92A1A3B448C3413FD56918B4BFB9241.Description
-msgctxt ",A0CA007C4E5A8194B34458BE76C6076D"
-msgid "型号01"
-msgstr "Модель 01"
-
-#. Key:	A09133804895936585956A9E0D67CDD5
-#. SourceLocation:	/Game/Blueprint/ACF/Data/TableAsset/GunPJTable.GunPJTable.冲锋其补偿器02.ItemInfo_66_F92A1A3B448C3413FD56918B4BFB9241.Description
-#: /Game/Blueprint/ACF/Data/TableAsset/GunPJTable.GunPJTable.冲锋其补偿器02.ItemInfo_66_F92A1A3B448C3413FD56918B4BFB9241.Description
-msgctxt ",A09133804895936585956A9E0D67CDD5"
-msgid "型号02"
-msgstr "Модель 02"
-
-#. Key:	1D57F8A1488B618B10E30EA698A0E320
-#. SourceLocation:	/Game/Blueprint/ACF/Data/TableAsset/GunPJTable.GunPJTable.步枪补偿器01.ItemInfo_66_F92A1A3B448C3413FD56918B4BFB9241.Description
-#: /Game/Blueprint/ACF/Data/TableAsset/GunPJTable.GunPJTable.步枪补偿器01.ItemInfo_66_F92A1A3B448C3413FD56918B4BFB9241.Description
-msgctxt ",1D57F8A1488B618B10E30EA698A0E320"
-msgid "型号01"
-msgstr "Модель 01"
-
-#. Key:	92A79EA54F019E7CFB67A49936AD53A4
-#. SourceLocation:	/Game/Blueprint/ACF/Data/TableAsset/GunPJTable.GunPJTable.步枪补偿器02.ItemInfo_66_F92A1A3B448C3413FD56918B4BFB9241.Description
-#: /Game/Blueprint/ACF/Data/TableAsset/GunPJTable.GunPJTable.步枪补偿器02.ItemInfo_66_F92A1A3B448C3413FD56918B4BFB9241.Description
-msgctxt ",92A79EA54F019E7CFB67A49936AD53A4"
-msgid "型号02"
-msgstr "Модель 02"
 
 #. Key:	A3EEE2ED4151882C6AADCC9C40E8CEE1
 #. SourceLocation:	/Game/Blueprint/ACF/Data/TableAsset/WeaponTable.WeaponTable.SKS狙击枪.ItemInfo_66_F92A1A3B448C3413FD56918B4BFB9241.Name
@@ -244,40 +221,40 @@ msgctxt ",D7A2064F4AEAF050DCC8059F653C95E0"
 msgid "普通木材"
 msgstr "обычная древесина"
 
-#. Key:	3BA16DD845D2BC65D63806A22534090C
+#. Key:	15E7D69D408030B039E7C795AF2C5CCB
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Book/AutoCreate/BP_Book_JXX01.Default__BP_Book_JXX01_C.ItemInfo.Name
 #: /Game/Blueprint/ACF/Item/Book/AutoCreate/BP_Book_JXX01.Default__BP_Book_JXX01_C.ItemInfo.Name
-msgctxt ",3BA16DD845D2BC65D63806A22534090C"
+msgctxt ",15E7D69D408030B039E7C795AF2C5CCB"
 msgid "机修（一卷）"
-msgstr "Ремонт машин (один том)"
+msgstr "Ремонт машин (1 том)"
 
-#. Key:	2E2A572B4A0817CDE34ACBA046BE2C7C
+#. Key:	AA97F5214707DE2C1BD71DAB8957F5B7
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Book/AutoCreate/BP_Book_JXX02.Default__BP_Book_JXX02_C.ItemInfo.Name
 #: /Game/Blueprint/ACF/Item/Book/AutoCreate/BP_Book_JXX02.Default__BP_Book_JXX02_C.ItemInfo.Name
-msgctxt ",2E2A572B4A0817CDE34ACBA046BE2C7C"
+msgctxt ",AA97F5214707DE2C1BD71DAB8957F5B7"
 msgid "机修（二卷）"
-msgstr "Механический ремонт (Том 2)"
+msgstr "Ремонт машин (2 том)"
 
-#. Key:	0F359D924AD864CEA1BA35ABDFDD31E1
+#. Key:	94441CC24A21B16B1CB93B9A92333624
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Book/AutoCreate/BP_Book_JXX03.Default__BP_Book_JXX03_C.ItemInfo.Name
 #: /Game/Blueprint/ACF/Item/Book/AutoCreate/BP_Book_JXX03.Default__BP_Book_JXX03_C.ItemInfo.Name
-msgctxt ",0F359D924AD864CEA1BA35ABDFDD31E1"
+msgctxt ",94441CC24A21B16B1CB93B9A92333624"
 msgid "机修（三卷）"
-msgstr "Механический ремонт (Три тома)"
+msgstr "Ремонт машин (3 том)"
 
-#. Key:	A77B0E224C0CC216EAE9688EBFDCD058
+#. Key:	0761B4D34F143D1CC6CFD8A486F6D549
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Book/AutoCreate/BP_Book_JXX04.Default__BP_Book_JXX04_C.ItemInfo.Name
 #: /Game/Blueprint/ACF/Item/Book/AutoCreate/BP_Book_JXX04.Default__BP_Book_JXX04_C.ItemInfo.Name
-msgctxt ",A77B0E224C0CC216EAE9688EBFDCD058"
+msgctxt ",0761B4D34F143D1CC6CFD8A486F6D549"
 msgid "机修（四卷）"
-msgstr "Механический ремонт (четыре тома)"
+msgstr "Ремонт машин (4 том)"
 
-#. Key:	ABDF5511407DE3DE8C1ADA90F287313D
+#. Key:	60EA8ABB48BF1ADE3141BAA6BDEEE383
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Book/AutoCreate/BP_Book_JXX05.Default__BP_Book_JXX05_C.ItemInfo.Name
 #: /Game/Blueprint/ACF/Item/Book/AutoCreate/BP_Book_JXX05.Default__BP_Book_JXX05_C.ItemInfo.Name
-msgctxt ",ABDF5511407DE3DE8C1ADA90F287313D"
+msgctxt ",60EA8ABB48BF1ADE3141BAA6BDEEE383"
 msgid "机修（五卷）"
-msgstr "Механический ремонт (пять томов)"
+msgstr "Ремонт машин (5 том)"
 
 #. Key:	CA0037B449D92CACAD7CF89A6327A14B
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Food/AutoCreate/BP_Food_2MWDSG.Default__BP_Food_2MWDSG_C.ItemInfo.Name
@@ -412,48 +389,6 @@ msgctxt ",C2FB8F65467776E7AEB688BC648150A4"
 msgid "箭矢基类"
 msgstr "Основание стрелы"
 
-#. Key:	65B9D0AC4641719F1248D084AEA1E68B
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/DJ/BP_GunAccessory_DJ_556_01.Default__BP_GunAccessory_DJ_556_01_C.ItemInfo.Description
-#: /Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/DJ/BP_GunAccessory_DJ_556_01.Default__BP_GunAccessory_DJ_556_01_C.ItemInfo.Description
-msgctxt ",65B9D0AC4641719F1248D084AEA1E68B"
-msgid "型号01"
-msgstr "Модель 01"
-
-#. Key:	E53B50614B125EA43C7319ABE5FF5B54
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/DJ/BP_GunAccessory_DJ_556_02.Default__BP_GunAccessory_DJ_556_02_C.ItemInfo.Description
-#: /Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/DJ/BP_GunAccessory_DJ_556_02.Default__BP_GunAccessory_DJ_556_02_C.ItemInfo.Description
-msgctxt ",E53B50614B125EA43C7319ABE5FF5B54"
-msgid "型号02"
-msgstr "Модель 02"
-
-#. Key:	BE882B1942A11BC3380AD9842F56AD6D
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/DJ/BP_GunAccessory_DJ_762_01.Default__BP_GunAccessory_DJ_762_01_C.ItemInfo.Description
-#: /Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/DJ/BP_GunAccessory_DJ_762_01.Default__BP_GunAccessory_DJ_762_01_C.ItemInfo.Description
-msgctxt ",BE882B1942A11BC3380AD9842F56AD6D"
-msgid "型号01"
-msgstr "Модель 01"
-
-#. Key:	A155D7BB42FA1F1D9BBE99BC3D318644
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/DJ/BP_GunAccessory_DJ_762_02.Default__BP_GunAccessory_DJ_762_02_C.ItemInfo.Description
-#: /Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/DJ/BP_GunAccessory_DJ_762_02.Default__BP_GunAccessory_DJ_762_02_C.ItemInfo.Description
-msgctxt ",A155D7BB42FA1F1D9BBE99BC3D318644"
-msgid "型号02"
-msgstr "Модель 02"
-
-#. Key:	89EFBD8D4FAE7A450F28D7A4E47532F9
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/DJ/BP_GunAccessory_DJ_9MM_01.Default__BP_GunAccessory_DJ_9MM_01_C.ItemInfo.Description
-#: /Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/DJ/BP_GunAccessory_DJ_9MM_01.Default__BP_GunAccessory_DJ_9MM_01_C.ItemInfo.Description
-msgctxt ",89EFBD8D4FAE7A450F28D7A4E47532F9"
-msgid "型号01"
-msgstr "Модель 01"
-
-#. Key:	ADC898E4437354A2CD987BBB0E97A892
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/DJ/BP_GunAccessory_DJ_9MM_02.Default__BP_GunAccessory_DJ_9MM_02_C.ItemInfo.Description
-#: /Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/DJ/BP_GunAccessory_DJ_9MM_02.Default__BP_GunAccessory_DJ_9MM_02_C.ItemInfo.Description
-msgctxt ",ADC898E4437354A2CD987BBB0E97A892"
-msgid "型号02"
-msgstr "Модель 02"
-
 #. Key:	FC41E7F4409AA042268DA480D2C3C17D
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/E_AimType.E_AimType.DisplayNameMap(0 - Value).DisplayNameMap
 #: /Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/E_AimType.E_AimType.DisplayNameMap(0 - Value).DisplayNameMap
@@ -524,118 +459,6 @@ msgctxt ",DE21265443F9742F80DB9DA060647590"
 msgid "枪口补偿器"
 msgstr "дульный компенсатор"
 
-#. Key:	E3688D77456351427654FEBAAAAC4A51
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/QK/BP_GunAccessoryQK_CF_BC01.Default__BP_GunAccessoryQK_CF_BC01_C.ItemInfo.Description
-#: /Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/QK/BP_GunAccessoryQK_CF_BC01.Default__BP_GunAccessoryQK_CF_BC01_C.ItemInfo.Description
-msgctxt ",E3688D77456351427654FEBAAAAC4A51"
-msgid "型号01"
-msgstr "Модель 01"
-
-#. Key:	0BBB1D5444E457D7E9838BAE660BCCF1
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/QK/BP_GunAccessoryQK_CF_BC02.Default__BP_GunAccessoryQK_CF_BC02_C.ItemInfo.Description
-#: /Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/QK/BP_GunAccessoryQK_CF_BC02.Default__BP_GunAccessoryQK_CF_BC02_C.ItemInfo.Description
-msgctxt ",0BBB1D5444E457D7E9838BAE660BCCF1"
-msgid "型号02"
-msgstr "Модель 02"
-
-#. Key:	AE0D7C1A4CBFC180B0B1A1BFFC983E85
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/QK/BP_GunAccessoryQK_JJ_BC01.Default__BP_GunAccessoryQK_JJ_BC01_C.ItemInfo.Description
-#: /Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/QK/BP_GunAccessoryQK_JJ_BC01.Default__BP_GunAccessoryQK_JJ_BC01_C.ItemInfo.Description
-msgctxt ",AE0D7C1A4CBFC180B0B1A1BFFC983E85"
-msgid "型号01"
-msgstr "Модель 01"
-
-#. Key:	18B5F39141BD22BE8B1F94AAF12809F4
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/QK/BP_GunAccessoryQK_JJ_BC02.Default__BP_GunAccessoryQK_JJ_BC02_C.ItemInfo.Description
-#: /Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/QK/BP_GunAccessoryQK_JJ_BC02.Default__BP_GunAccessoryQK_JJ_BC02_C.ItemInfo.Description
-msgctxt ",18B5F39141BD22BE8B1F94AAF12809F4"
-msgid "型号02"
-msgstr "Модель 02"
-
-#. Key:	CA8C9E6044B09FF07CA311B2EEEFBC31
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/QK/BP_GunAccessoryQK_RifleBC01.Default__BP_GunAccessoryQK_RifleBC01_C.ItemInfo.Description
-#: /Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/QK/BP_GunAccessoryQK_RifleBC01.Default__BP_GunAccessoryQK_RifleBC01_C.ItemInfo.Description
-msgctxt ",CA8C9E6044B09FF07CA311B2EEEFBC31"
-msgid "型号01"
-msgstr "Модель 01"
-
-#. Key:	63CFDC3241F641B37833438AFAF3A305
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/QK/BP_GunAccessoryQK_RifleBC02.Default__BP_GunAccessoryQK_RifleBC02_C.ItemInfo.Description
-#: /Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/QK/BP_GunAccessoryQK_RifleBC02.Default__BP_GunAccessoryQK_RifleBC02_C.ItemInfo.Description
-msgctxt ",63CFDC3241F641B37833438AFAF3A305"
-msgid "型号02"
-msgstr "Модель 02"
-
-#. Key:	E73B9B6B49B20AA86CFE0E8D2A7147B2
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/QT/BP_GunAccessory_CF_QT01.Default__BP_GunAccessory_CF_QT01_C.ItemInfo.Description
-#: /Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/QT/BP_GunAccessory_CF_QT01.Default__BP_GunAccessory_CF_QT01_C.ItemInfo.Description
-msgctxt ",E73B9B6B49B20AA86CFE0E8D2A7147B2"
-msgid "型号01"
-msgstr "Модель 01"
-
-#. Key:	5BF31BC949CC06B7413253BD34F47A81
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/QT/BP_GunAccessory_CF_QT02.Default__BP_GunAccessory_CF_QT02_C.ItemInfo.Description
-#: /Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/QT/BP_GunAccessory_CF_QT02.Default__BP_GunAccessory_CF_QT02_C.ItemInfo.Description
-msgctxt ",5BF31BC949CC06B7413253BD34F47A81"
-msgid "型号02"
-msgstr "Модель 02"
-
-#. Key:	80A4E4724AAE6980B6D642A2106C4A2B
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/QT/BP_GunAccessory_JJ_QT01.Default__BP_GunAccessory_JJ_QT01_C.ItemInfo.Description
-#: /Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/QT/BP_GunAccessory_JJ_QT01.Default__BP_GunAccessory_JJ_QT01_C.ItemInfo.Description
-msgctxt ",80A4E4724AAE6980B6D642A2106C4A2B"
-msgid "型号01"
-msgstr "Модель 01"
-
-#. Key:	49522E1B4B666E4A931F7C88A8BD3976
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/QT/BP_GunAccessory_JJ_QT02.Default__BP_GunAccessory_JJ_QT02_C.ItemInfo.Description
-#: /Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/QT/BP_GunAccessory_JJ_QT02.Default__BP_GunAccessory_JJ_QT02_C.ItemInfo.Description
-msgctxt ",49522E1B4B666E4A931F7C88A8BD3976"
-msgid "型号02"
-msgstr "Модель 02"
-
-#. Key:	44CC7FEA4D33CB65A13B6EA5F28FD88D
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/QT/BP_GunAccessory_Rifle_QT01.Default__BP_GunAccessory_Rifle_QT01_C.ItemInfo.Description
-#: /Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/QT/BP_GunAccessory_Rifle_QT01.Default__BP_GunAccessory_Rifle_QT01_C.ItemInfo.Description
-msgctxt ",44CC7FEA4D33CB65A13B6EA5F28FD88D"
-msgid "型号01"
-msgstr "Модель 01"
-
-#. Key:	8581D9784350C99718EB3E926D1B598A
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/QT/BP_GunAccessory_Rifle_QT02.Default__BP_GunAccessory_Rifle_QT02_C.ItemInfo.Description
-#: /Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/QT/BP_GunAccessory_Rifle_QT02.Default__BP_GunAccessory_Rifle_QT02_C.ItemInfo.Description
-msgctxt ",8581D9784350C99718EB3E926D1B598A"
-msgid "型号02"
-msgstr "Модель 02"
-
-#. Key:	9033FAF04ED71EEF1A8250B889C958B2
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/WB/BP_GunAccessory_WB_CZ01.Default__BP_GunAccessory_WB_CZ01_C.ItemInfo.Description
-#: /Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/WB/BP_GunAccessory_WB_CZ01.Default__BP_GunAccessory_WB_CZ01_C.ItemInfo.Description
-msgctxt ",9033FAF04ED71EEF1A8250B889C958B2"
-msgid "型号01"
-msgstr "Модель 01"
-
-#. Key:	317986CE47089F60B84059B3D0E1512D
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/WB/BP_GunAccessory_WB_CZ02.Default__BP_GunAccessory_WB_CZ02_C.ItemInfo.Description
-#: /Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/WB/BP_GunAccessory_WB_CZ02.Default__BP_GunAccessory_WB_CZ02_C.ItemInfo.Description
-msgctxt ",317986CE47089F60B84059B3D0E1512D"
-msgid "型号02"
-msgstr "Модель 02"
-
-#. Key:	7EA0116A4B5786B0A80D65A98C9DE125
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/WB/BP_GunAccessory_WB_SJ01.Default__BP_GunAccessory_WB_SJ01_C.ItemInfo.Description
-#: /Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/WB/BP_GunAccessory_WB_SJ01.Default__BP_GunAccessory_WB_SJ01_C.ItemInfo.Description
-msgctxt ",7EA0116A4B5786B0A80D65A98C9DE125"
-msgid "型号01"
-msgstr "Модель 01"
-
-#. Key:	8E63D7BE46B04DDAA64FC2919D87887E
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/WB/BP_GunAccessory_WB_SJ02.Default__BP_GunAccessory_WB_SJ02_C.ItemInfo.Description
-#: /Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/WB/BP_GunAccessory_WB_SJ02.Default__BP_GunAccessory_WB_SJ02_C.ItemInfo.Description
-msgctxt ",8E63D7BE46B04DDAA64FC2919D87887E"
-msgid "型号02"
-msgstr "Модель 02"
-
 #. Key:	2F32F7184EE08293DDC575A2F524D414
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_HandGun_Magnum.Default__ACFGunBase_HandGun_Magnum_C.ItemInfo.Name
 #: /Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_HandGun_Magnum.Default__ACFGunBase_HandGun_Magnum_C.ItemInfo.Name
@@ -643,19 +466,19 @@ msgctxt ",2F32F7184EE08293DDC575A2F524D414"
 msgid "左轮手枪"
 msgstr "револьвер"
 
-#. Key:	2609AABF4ACA0DE408B71A8B0736C391
+#. Key:	A9AF20C4464A2FCCD556B98049E332CC
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_sniper_SKS.Default__ACFGunBase_sniper_SKS_C.ItemInfo.Name
 #: /Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_sniper_SKS.Default__ACFGunBase_sniper_SKS_C.ItemInfo.Name
-msgctxt ",2609AABF4ACA0DE408B71A8B0736C391"
+msgctxt ",A9AF20C4464A2FCCD556B98049E332CC"
 msgid "SKS"
-msgstr "СКС"
+msgstr "Винтовка СКС"
 
-#. Key:	FFFB02F14BD4B8749D5F0EA7A4B63BDD
+#. Key:	F3B07B974B8226CAF5D9419ED0F3A64C
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_sniper_SVD.Default__ACFGunBase_sniper_SVD_C.ItemInfo.Name
 #: /Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_sniper_SVD.Default__ACFGunBase_sniper_SVD_C.ItemInfo.Name
-msgctxt ",FFFB02F14BD4B8749D5F0EA7A4B63BDD"
+msgctxt ",F3B07B974B8226CAF5D9419ED0F3A64C"
 msgid "SVD"
-msgstr "СВД"
+msgstr "СВД снайперская винтовка"
 
 #. Key:	1F99F44C4E0061BF010728B9C1DBDC30
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Ammo/BP_GunAmmoBase.Default__BP_GunAmmoBase_C.ItemInfo.Name
@@ -671,10 +494,10 @@ msgctxt ",E89BB0EF49E11ADED3881FAA844725DC"
 msgid "长的双手大锤"
 msgstr "длинная двуручная кувалда"
 
-#. Key:	3ECFC6774AB30DB7DB94C899B22A124D
+#. Key:	816B809E442B064BD3B914A2A04D2CF3
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/LongBlunt/BP_LongBluntStick_G.Default__BP_LongBluntStick_G_C.ItemInfo.Description
 #: /Game/Blueprint/ACF/Item/Weapon/LongBlunt/BP_LongBluntStick_G.Default__BP_LongBluntStick_G_C.ItemInfo.Description
-msgctxt ",3ECFC6774AB30DB7DB94C899B22A124D"
+msgctxt ",816B809E442B064BD3B914A2A04D2CF3"
 msgid "露茜儿++"
 msgstr "Люсиль++"
 
@@ -1047,14 +870,14 @@ msgstr "Нажмите Tab, чтобы открыть рюкзак"
 #: /Game/Blueprint/ACF/Tutorial/WBP_TutorialTip2.WBP_TutorialTip2_C:WidgetTree.TextBlock.Text
 msgctxt ",FE9A11A64983540CD49265A21C19D48A"
 msgid "属性页面"
-msgstr "страница свойств"
+msgstr "Страница свойств"
 
 #. Key:	C12D28E24DF61E9D26F30EA94EA043FF
 #. SourceLocation:	/Game/Blueprint/ACF/Tutorial/WBP_TutorialTip2.WBP_TutorialTip2_C:WidgetTree.TextBlock_1.Text
 #: /Game/Blueprint/ACF/Tutorial/WBP_TutorialTip2.WBP_TutorialTip2_C:WidgetTree.TextBlock_1.Text
 msgctxt ",C12D28E24DF61E9D26F30EA94EA043FF"
 msgid "简单物品制作"
-msgstr "простой крафт"
+msgstr "Простой крафт"
 
 #. Key:	E862DA88405F37C84D2739B3CC6F5A0A
 #. SourceLocation:	/Game/Blueprint/ACF/Tutorial/WBP_TutorialTip2.WBP_TutorialTip2_C:WidgetTree.TextBlock_2.Text
@@ -3097,8 +2920,20 @@ msgstr "Не удалось создать комнату!"
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/WBP_Main.WBP_Main_C:WidgetTree.TextBlock_0.Text
 #: /Game/Blueprint/UMG/MainUI/WBP_Main.WBP_Main_C:WidgetTree.TextBlock_0.Text
 msgctxt ",836EB7AB40D4C893FD6B23A855BE4F36"
-msgid "公告：\r\n\r\n因为游戏采用了最新的UnrealEngine5引擎，为了获得最好的游戏体验，请将显卡驱动升级到最新版本。\r\n\r\n否则你可能会看到模型显示不完整等情况。\r\n\r\n感谢！"
-msgstr "Объявление:\r\n\r\nПоскольку в игре используется новейший движок UnrealEngine5, чтобы получить наилучшие игровые возможности, обновите драйвер видеокарты до последней версии.\r\n\r\nВ противном случае вы можете увидеть неполное отображение модели и т. д.\r\n\r\nБлагодарим!"
+msgid "公告：\r\n"
+"\r\n"
+"因为游戏采用了最新的UnrealEngine5引擎，为了获得最好的游戏体验，请将显卡驱动升级到最新版本。\r\n"
+"\r\n"
+"否则你可能会看到模型显示不完整等情况。\r\n"
+"\r\n"
+"感谢！"
+msgstr "Объявление:\r\n"
+"\r\n"
+"Поскольку в игре используется новейший движок UnrealEngine5, чтобы получить наилучшие игровые возможности, обновите драйвер видеокарты до последней версии.\r\n"
+"\r\n"
+"В противном случае вы можете увидеть неполное отображение модели и т. д.\r\n"
+"\r\n"
+"Благодарим!"
 
 #. Key:	6D94E4B4492BEF00197AA29E81E62172
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/WBP_Main.WBP_Main_C:WidgetTree.WBP_StartButton_2.In Text
@@ -3519,6 +3354,13 @@ msgstr "Мед. стол"
 msgctxt ",42CCDC264FCA7E5F57C774A68D1FA7C2"
 msgid "干电池"
 msgstr "Батарейка"
+
+#. Key:	90D7107E43831E7B09B97ABCB3F4AD74
+#. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_130.In Text
+#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_130.In Text
+msgctxt ",90D7107E43831E7B09B97ABCB3F4AD74"
+msgid "钢大锤"
+msgstr "стальная кувалда"
 
 #. Key:	98BCDB424BE26E715DFD64AD69017AD9
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_14.In Text
@@ -4108,13 +3950,6 @@ msgctxt ",B8B69A364203615D8A5018B102D4B9C1"
 msgid "纺织机"
 msgstr "Ткацкий станок"
 
-#. Key:	90D7107E43831E7B09B97ABCB3F4AD74
-#. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_90.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_90.In Text
-msgctxt ",90D7107E43831E7B09B97ABCB3F4AD74"
-msgid "钢大锤"
-msgstr "стальная кувалда"
-
 #. Key:	B53BE0D643F0BC85688ACCAC6E911CA2
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_91.In Text
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_91.In Text
@@ -4612,17 +4447,17 @@ msgctxt ",F9AEB4DA4E4995AF5C0807AE1EEF8C90"
 msgid "transaction"
 msgstr "сделка"
 
-#. Key:	D87A92EB480D5FCB9667C089A2705977
+#. Key:	A535C1E74F3A1B927C3043B774F7F939
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Foundation_SN.Default__Foundation_SN_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 #: /Game/HDCKBuildingSystem/MeshBP/Foundation_SN.Default__Foundation_SN_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-msgctxt ",D87A92EB480D5FCB9667C089A2705977"
+msgctxt ",A535C1E74F3A1B927C3043B774F7F939"
 msgid "水泥制作的地基，看起来很结实，可以承受相当多的重量。"
 msgstr "Фундамент из цемента, достаточно прочный, чтобы выдержать значительный вес."
 
-#. Key:	94C5B9CB4E9CB06672829E9D45FBD7E4
+#. Key:	BC89A6AB4FEB8A750DE282B08F25104C
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_DP_XDD.Default__Furniture_DP_XDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_DP_XDD.Default__Furniture_DP_XDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
-msgctxt ",94C5B9CB4E9CB06672829E9D45FBD7E4"
+msgctxt ",BC89A6AB4FEB8A750DE282B08F25104C"
 msgid "地板"
 msgstr "Пол"
 
@@ -4647,10 +4482,10 @@ msgctxt ",ABE10B784F6D55A4DA2F40A4FBEC2520"
 msgid "用于保管物品的箱子，不会丢失物品。"
 msgstr "Ящик для хранения предметов без их потери."
 
-#. Key:	B2257A584BA60D2BEFBC9F807E85001C
+#. Key:	E30DED4441284C3A17E26F8AA33473DC
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_DPLDD.Default__Furniture_DPLDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_DPLDD.Default__Furniture_DPLDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
-msgctxt ",B2257A584BA60D2BEFBC9F807E85001C"
+msgctxt ",E30DED4441284C3A17E26F8AA33473DC"
 msgid "地板"
 msgstr "Пол"
 
@@ -4696,10 +4531,10 @@ msgctxt ",BC879B3F4ECE110B894771976EFF65F1"
 msgid "家具"
 msgstr "мебель"
 
-#. Key:	38C900304C20AF832E37D8B3555C45BA
+#. Key:	E8331EDC407563AB1D6608BD7F3C8D41
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_TYNFD.Default__Furniture_TYNFD_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_TYNFD.Default__Furniture_TYNFD_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-msgctxt ",38C900304C20AF832E37D8B3555C45BA"
+msgctxt ",E8331EDC407563AB1D6608BD7F3C8D41"
 msgid "受遮挡或在没有太阳的天气无法发电"
 msgstr "Не работает! В тени, ночь или пасмурная погода!"
 
@@ -4745,19 +4580,26 @@ msgctxt ",F3F8E148409A7CD56F64519CED4DC8A7"
 msgid "水不够！"
 msgstr "Недостаточно воды!"
 
-#. Key:	A372CF1347F783CE178B2880767176EC
+#. Key:	7BC1482A464284EBDB996AB0C86A5B7E
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/OutStairs_Base_Wood.Default__OutStairs_Base_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 #: /Game/HDCKBuildingSystem/MeshBP/OutStairs_Base_Wood.Default__OutStairs_Base_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-msgctxt ",A372CF1347F783CE178B2880767176EC"
+msgctxt ",7BC1482A464284EBDB996AB0C86A5B7E"
 msgid "建房必备"
 msgstr "Необходим для строительства дома"
 
-#. Key:	F520F45F4795728A37051484C5EABEDB
+#. Key:	13C3C4774229EED59BF336A6D7AA0A05
+#. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_BL.Default__Roof_20_intersection_BL_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
+#: /Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_BL.Default__Roof_20_intersection_BL_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
+msgctxt ",13C3C4774229EED59BF336A6D7AA0A05"
+msgid "用于连接外转角屋顶。"
+msgstr "для соединения внешнего угла крыши"
+
+#. Key:	39C6AEE04AEE20B8AEC8E593D3B6E21E
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_Wood.Default__Roof_20_intersection_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 #: /Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_Wood.Default__Roof_20_intersection_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-msgctxt ",F520F45F4795728A37051484C5EABEDB"
+msgctxt ",39C6AEE04AEE20B8AEC8E593D3B6E21E"
 msgid "用于连接外转角屋顶。"
-msgstr "Для соединения внешнего угла крыши"
+msgstr "для соединения внешнего угла крыши"
 
 #. Key:	E8EA4D5B4493329CF32982ABD630233C
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Wattle_WoodDoor.Wattle_WoodDoor_C:ShowUI [Script Bytecode]
@@ -5585,6 +5427,216 @@ msgctxt "BuildInfo,BL"
 msgid "壁炉"
 msgstr "Камин"
 
+#. Key:	BL01
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,BL01"
+msgid "玻璃墙体"
+msgstr "Стеклянная стена"
+
+#. Key:	BL02
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,BL02"
+msgid "玻璃立柱"
+msgstr "Стеклянная колонна"
+
+#. Key:	BL03
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,BL03"
+msgid "玻璃立柱(1/3)"
+msgstr "Стеклянная колонна (1/3)"
+
+#. Key:	BL04
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,BL04"
+msgid "玻璃墙体(带窗洞)"
+msgstr "Стеклянная оконная рама"
+
+#. Key:	BL05
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,BL05"
+msgid "玻璃墙体(正三角)"
+msgstr "Стеклянная стена (правый треугольник)"
+
+#. Key:	BL06
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,BL06"
+msgid "玻璃墙体(三角)"
+msgstr "Стеклянная стена (треугольник)"
+
+#. Key:	BL07
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,BL07"
+msgid "玻璃墙体(三角1/3)"
+msgstr "Стеклянная стена (треугольник 1/3)"
+
+#. Key:	BL09
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,BL09"
+msgid "玻璃墙体(1/3)"
+msgstr "Стеклянная стена (1/3)"
+
+#. Key:	BL10
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,BL10"
+msgid "玻璃横梁"
+msgstr "Стеклянная балка"
+
+#. Key:	BL11
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,BL11"
+msgid "玻璃横梁(三格)"
+msgstr "Стеклянная балка (три сетки)"
+
+#. Key:	BL12
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,BL12"
+msgid "玻璃横梁(两格)"
+msgstr "Стеклянная балка (две сетки)"
+
+#. Key:	BL13
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,BL13"
+msgid "玻璃横梁(四格)"
+msgstr "Стеклянная балка (четыре сетки)"
+
+#. Key:	BL14
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,BL14"
+msgid "玻璃地基"
+msgstr "Стеклянный фундамент"
+
+#. Key:	BL15
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,BL15"
+msgid "玻璃地板"
+msgstr "Стеклянный пол"
+
+#. Key:	BL16
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,BL16"
+msgid "玻璃楼梯(户外)"
+msgstr "Стеклянная лестница (наружная)"
+
+#. Key:	BL17
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,BL17"
+msgid "玻璃长楼梯"
+msgstr "Длинная стеклянная лестница"
+
+#. Key:	BL18
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,BL18"
+msgid "玻璃楼梯(转角)"
+msgstr "Стеклянная лестница (угловая)"
+
+#. Key:	BL19
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,BL19"
+msgid "玻璃屋顶(45度)"
+msgstr "Стеклянная крыша (45 градусов)"
+
+#. Key:	BL20
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,BL20"
+msgid "玻璃屋顶(20度连接)"
+msgstr "Стеклянная крыша (соединение 20 градусов)"
+
+#. Key:	BL21
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,BL21"
+msgid "玻璃屋顶(45度连接)"
+msgstr "Стеклянная крыша (соединение 45 градусов)"
+
+#. Key:	BL22
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,BL22"
+msgid "玻璃屋顶(45度连接角)"
+msgstr "Стеклянная крыша (соединение 45 градусов)"
+
+#. Key:	BL23
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,BL23"
+msgid "玻璃屋顶(20度)"
+msgstr "Стеклянная крыша (соединение 20 градусов)"
+
+#. Key:	BL24
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,BL24"
+msgid "玻璃屋顶(20度连接角)"
+msgstr "Стеклянная крыша (соединение 20 градусов)"
+
+#. Key:	BL25
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,BL25"
+msgid "玻璃屋顶(单格)"
+msgstr "Стеклянная крыша (одинарная сетка)"
+
+#. Key:	BL26
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,BL26"
+msgid "玻璃屋顶(单格转角)"
+msgstr "Стеклянная крыша (одинарная сетка)"
+
+#. Key:	BL27
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,BL27"
+msgid "玻璃屋顶(单格十字)"
+msgstr "Стеклянная крыша (поперечная одинарная)"
+
+#. Key:	BL28
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,BL28"
+msgid "玻璃屋顶(单格结尾)"
+msgstr "Стеклянная крыша односторонняя"
+
+#. Key:	BL29
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,BL29"
+msgid "玻璃屋顶(单格无连接)"
+msgstr "Стеклянная крыша без соединения"
+
+#. Key:	BL30
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,BL30"
+msgid "玻璃屋顶(单格三通)"
+msgstr "Стеклянная крыша Т-образная"
+
+#. Key:	BL_08
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,BL_08"
+msgid "玻璃墙体(带门洞)"
+msgstr "Стеклянный дверной проем"
+
 #. Key:	CHUANGWEI
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
 #: /Game/LocalizationText/BuildInfo.BuildInfo
@@ -5639,7 +5691,7 @@ msgstr "Большой ковер"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,FLFDJ"
 msgid "风力发电机"
-msgstr "Ветряные турбины"
+msgstr "Ветрогенератор"
 
 #. Key:	GH
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -5772,7 +5824,7 @@ msgstr "Настольная лампа"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,TZD"
 msgid "探照灯"
-msgstr "прожектор"
+msgstr "Прожектор"
 
 #. Key:	WFJZGD
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -5801,6 +5853,13 @@ msgstr "Шкаф"
 msgctxt "BuildInfo,YNJZYG"
 msgid "只能建造一个"
 msgstr "Может быть построено только одно."
+
+#. Key:	ZJQSJJ
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,ZJQSJJ"
+msgid "重机枪三脚架"
+msgstr "Тренога для пулемёта"
 
 #. Key:	ZSJNAN
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6072,8 +6131,10 @@ msgstr "Автоматич. деревянные шипы"
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",NPCMANAGER"
-msgid "这里可以管理NPC，设置生产资源偏好！\r\n当你拥有这个建筑以后，土匪营地会出现可营救的NPC"
-msgstr "Здесь вы можете управлять NPC и устанавливать предпочтения производимых ресурсов! \r\nКак только вы построите это здание, в лагере бандитов появятся NPC для спасения"
+msgid "这里可以管理NPC，设置生产资源偏好！\r\n"
+"当你拥有这个建筑以后，土匪营地会出现可营救的NPC"
+msgstr "Здесь вы можете управлять NPC и устанавливать предпочтения производимых ресурсов! \r\n"
+"Как только вы построите это здание, в лагере бандитов появятся NPC для спасения"
 
 #. Key:	Null
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -6845,6 +6906,20 @@ msgctxt "UI,WB"
 msgid "握把"
 msgstr "рукоятка"
 
+#. Key:	01
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,01"
+msgid "01"
+msgstr "01"
+
+#. Key:	02
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,02"
+msgid "02"
+msgstr "02"
+
 #. Key:	A1
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
@@ -7111,12 +7186,33 @@ msgctxt "ItemInfo,A9"
 msgid "防晒帽"
 msgstr "Панамка"
 
+#. Key:	DJ
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,DJ"
+msgid "电锯"
+msgstr "Бензопила"
+
+#. Key:	DRD
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,DRD"
+msgid "剁肉刀"
+msgstr "Измельчитель мяса"
+
 #. Key:	DSX
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,DSX"
 msgid "登山鞋"
 msgstr "Альпинистские ботинки"
+
+#. Key:	DTDC
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,DTDC"
+msgid "方头大锤"
+msgstr "Кувалда с квадратной головкой"
 
 #. Key:	F1
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8201,7 +8297,7 @@ msgstr "голографический прицел"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,GDG"
 msgid "古代弓"
-msgstr "древний лук"
+msgstr "Древний лук"
 
 #. Key:	GY
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8271,7 +8367,7 @@ msgstr "Полицейский шлем"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,JZ"
 msgid "饺子"
-msgstr "клецки"
+msgstr "Клецка"
 
 #. Key:	KAOYU
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8306,42 +8402,70 @@ msgstr "тонкая ткань"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M100"
 msgid "燃烧箭头图纸"
-msgstr "Рисунок горящей стрелы"
+msgstr "Чертеж: огненная стрела"
 
 #. Key:	M101
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M101"
 msgid "照明箭头图纸"
-msgstr "Световые рисунки стрелок"
+msgstr "Чертеж: осветительная стрела"
 
 #. Key:	M102
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M102"
 msgid "穿甲箭头图纸"
-msgstr "Рисунок бронебойной стрелы"
+msgstr "Чертеж: бронебойная стрела"
 
 #. Key:	M103
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M103"
 msgid "爆炸箭头图纸"
-msgstr "Взрывающиеся рисунки стрелок"
+msgstr "Чертеж: взрывная стрела"
 
 #. Key:	M104
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M104"
 msgid "气味诱饵图纸"
-msgstr "Рисунки ароматических приманок"
+msgstr "Чертеж: ароматическая приманка"
 
 #. Key:	M105
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M105"
 msgid "风力发电机图纸"
-msgstr "Чертежи ветряных турбин"
+msgstr "Чертеж: ветрогенератор"
+
+#. Key:	M106
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,M106"
+msgid "武士刀图纸"
+msgstr "Чертеж: катана"
+
+#. Key:	M107
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,M107"
+msgid "唐刀图纸"
+msgstr "Чертеж: Тан Дао"
+
+#. Key:	M108
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,M108"
+msgid "电锯图纸"
+msgstr "Чертеж: бензопила"
+
+#. Key:	M109
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,M109"
+msgid "复合弓图纸"
+msgstr "Чертеж: составной лук"
 
 #. Key:	M11
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8349,6 +8473,34 @@ msgstr "Чертежи ветряных турбин"
 msgctxt "ItemInfo,M11"
 msgid "酒精"
 msgstr "Алкоголь"
+
+#. Key:	M110
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,M110"
+msgid "战术匕首图纸"
+msgstr "Чертеж: тактический кинжал"
+
+#. Key:	M111
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,M111"
+msgid "剁肉刀图纸"
+msgstr "Чертеж: нож для мяса"
+
+#. Key:	M112
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,M112"
+msgid "方头大锤图纸"
+msgstr "Чертеж: кувалда с квадратной головкой"
+
+#. Key:	M113
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,M113"
+msgid "中世纪斧图纸"
+msgstr "Чертеж: старинный топор"
 
 #. Key:	M12
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9020,7 +9172,7 @@ msgstr "комплект для ремонта автомобиля"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M99"
 msgid "诱饵箭头图纸"
-msgstr "Рисунок стрелки-приманки"
+msgstr "Чертеж: приманка для рыбы"
 
 #. Key:	MEHAIXIANNONGTANG
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9421,6 +9573,13 @@ msgctxt "ItemInfo,T9"
 msgid "滤芯"
 msgstr "фильтрующий модуль"
 
+#. Key:	TD
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,TD"
+msgid "唐刀"
+msgstr "Тан Дао"
+
 #. Key:	W1
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
@@ -9783,28 +9942,28 @@ msgstr "патроны 12 калибра"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W56"
 msgid "诱饵箭头"
-msgstr "приманка стрела"
+msgstr "Приманка для рыбы"
 
 #. Key:	W57
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W57"
 msgid "照明箭头"
-msgstr "светящаяся стрелка"
+msgstr "Осветительная стрела"
 
 #. Key:	W58
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W58"
 msgid "燃烧箭头"
-msgstr "горящая стрела"
+msgstr "Огненная стрела"
 
 #. Key:	W59
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W59"
 msgid "穿甲箭头"
-msgstr "бронебойная стрела"
+msgstr "Бронебойная стрела"
 
 #. Key:	W6
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9818,14 +9977,14 @@ msgstr "деревянное копье"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W60"
 msgid "爆炸箭头"
-msgstr "взрывающаяся стрела"
+msgstr "Разрывная стрела"
 
 #. Key:	W61
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W61"
 msgid "气味诱饵"
-msgstr "ароматическая приманка"
+msgstr "Ароматическая приманка"
 
 #. Key:	W7
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9876,6 +10035,13 @@ msgctxt "ItemInfo,WMZT"
 msgid "完美猪头"
 msgstr "Идеальная голова свиньи"
 
+#. Key:	WSD
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,WSD"
+msgid "武士刀"
+msgstr "Катана"
+
 #. Key:	YR
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
@@ -9888,7 +10054,7 @@ msgstr "Рыбное филе"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,YSY"
 msgid "夜视仪"
-msgstr "очки ночного видения"
+msgstr "Прибор ночного видения"
 
 #. Key:	yuer
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9924,6 +10090,20 @@ msgstr "Леска"
 msgctxt "ItemInfo,ZHAYUPAI"
 msgid "炸鱼排"
 msgstr "Рыбный стейк"
+
+#. Key:	ZSBS
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,ZSBS"
+msgid "战术匕首"
+msgstr "Тактический кинжал"
+
+#. Key:	ZSJF
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,ZSJF"
+msgid "中世纪斧"
+msgstr "Древний топор"
 
 #. Key:	Auto
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11204,7 +11384,7 @@ msgstr "Близко к воде"
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,27"
 msgid "按\"T\"打开夜视仪。"
-msgstr "Нажмите «T», чтобы включить ночное видение."
+msgstr "Нажмите \\\"T\\\" чтобы включить прибор ночного видения"
 
 #. Key:	WPWF
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -11308,7 +11488,8 @@ msgstr "разрядить"
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,BackSave"
-msgid "你确定要用这个存档覆盖之前的存档吗？\r\n注意覆盖以后之前的存档无法恢复"
+msgid "你确定要用这个存档覆盖之前的存档吗？\r\n"
+"注意覆盖以后之前的存档无法恢复"
 msgstr "Вы уверены? Это перезапишет ваше последнее сохранение!"
 
 #. Key:	Break
@@ -12002,7 +12183,7 @@ msgstr "использовать "
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,FWQCQGXKAISHI"
 msgid "服务器将在30秒后开始重启更新！！！"
-msgstr "Сервер перезагрузится и обновится через 30 секунд! ! !"
+msgstr "Сервер перезагрузится через 30 секунд!!!"
 
 #. Key:	FYZC
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12746,6 +12927,13 @@ msgctxt "UI,Pot01"
 msgid "注意这个操作会删除锅内物品"
 msgstr "Обратите внимание: эта операция удалит содержимое котелка."
 
+#. Key:	PZWQ
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,PZWQ"
+msgid "配置武器"
+msgstr "Настройка оружия"
+
 #. Key:	QCCW01
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
@@ -12772,7 +12960,7 @@ msgstr "Вы действительно хотите удалить ''Защит
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,quanbushiqu"
 msgid "全部拾取"
-msgstr "Выбрать все"
+msgstr "Забрать все"
 
 #. Key:	QUANPING
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12822,6 +13010,13 @@ msgstr "Отменить авторизацию"
 msgctxt "UI,QYBY"
 msgid "缺少枪油"
 msgstr "Отсутствие оружейного масла"
+
+#. Key:	QZD
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,QZD"
+msgid "全自动"
+msgstr "Полностью автоматический"
 
 #. Key:	R
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12904,8 +13099,12 @@ msgstr "Южная Америка"
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SAVE"
-msgid "你可以建造一个床加快时间流逝\r\n\r\n游戏全程自动存档"
-msgstr "Вы можете построить кровать, чтобы ускорить течение времени\r\n\r\nИгра автоматически сохраняется на протяжении всей игры"
+msgid "你可以建造一个床加快时间流逝\r\n"
+"\r\n"
+"游戏全程自动存档"
+msgstr "Вы можете построить кровать, чтобы ускорить течение времени\r\n"
+"\r\n"
+"Игра автоматически сохраняется на протяжении всей игры"
 
 #. Key:	Save
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -13177,8 +13376,12 @@ msgstr "Лето"
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SW11"
-msgid "在打开箱子的状态下，左键单击物品可以快速转移。\r\n\r\n拖动物品中按下R旋转物品方向。"
-msgstr "В открытом ящике щелкните левой кнопкой мыши по предмету, чтобы быстро взять его.\r\n\r\nНажмите R во время перетаскивания предмета, чтобы повернуть его положение."
+msgid "在打开箱子的状态下，左键单击物品可以快速转移。\r\n"
+"\r\n"
+"拖动物品中按下R旋转物品方向。"
+msgstr "В открытом ящике щелкните левой кнопкой мыши по предмету, чтобы быстро взять его.\r\n"
+"\r\n"
+"Нажмите R во время перетаскивания предмета, чтобы повернуть его положение."
 
 #. Key:	SwitchServerMode
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -13221,6 +13424,13 @@ msgstr "диалог"
 msgctxt "UI,TC"
 msgid "退出"
 msgstr "выход"
+
+#. Key:	TCSY
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,TCSY"
+msgid "退出使用"
+msgstr "Выйти"
 
 #. Key:	TCXX
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -13633,7 +13843,7 @@ msgstr "Удалить"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,YUYINSHURU"
 msgid "语音"
-msgstr "голос"
+msgstr "Голосовая связь"
 
 #. Key:	YXSZC001
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -13821,8 +14031,10 @@ msgstr "Теплостойкость"
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,KTDetail"
-msgid "病毒抗体\r\n抗体为0就会死亡"
-msgstr "иммунитет\r\nЕсли иммунитет упадет до 0, вы умрете."
+msgid "病毒抗体\r\n"
+"抗体为0就会死亡"
+msgstr "иммунитет\r\n"
+"Если иммунитет упадет до 0, вы умрете."
 
 #. Key:	MAIKE
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -13912,8 +14124,10 @@ msgstr "вода"
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TLDetail"
-msgid "体力\r\n每减少30点体力，伤害降低25%（不影响枪械）"
-msgstr "энергия\r\nЗа каждые 30 очков урон снижается на 25% (не действует на огнестрельное оружие)"
+msgid "体力\r\n"
+"每减少30点体力，伤害降低25%（不影响枪械）"
+msgstr "энергия\r\n"
+"За каждые 30 очков урон снижается на 25% (не действует на огнестрельное оружие)"
 
 #. Key:	TZBDF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14178,8 +14392,10 @@ msgstr "Влияет на урон соответствующего оружия
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,wsDetail"
-msgid "卫生\r\n影响丧尸发现几率，影响伤口感染几率，过低影响心情回复"
-msgstr "гигиена\r\nВлияет на вероятность быть обнаруженным зомби, заражение ран и на восстановление настроения, если оно слишком низкое."
+msgid "卫生\r\n"
+"影响丧尸发现几率，影响伤口感染几率，过低影响心情回复"
+msgstr "гигиена\r\n"
+"Влияет на вероятность быть обнаруженным зомби, заражение ран и на восстановление настроения, если оно слишком низкое."
 
 #. Key:	YZKX
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
