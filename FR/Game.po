@@ -2860,7 +2860,7 @@ msgstr "Annonce:\r\n\r\nÉtant donné que le jeu utilise le dernier moteur Unrea
 #: /Game/Blueprint/UMG/MainUI/WBP_Main.WBP_Main_C:WidgetTree.WBP_StartButton_2.In Text
 msgctxt ",6D94E4B4492BEF00197AA29E81E62172"
 msgid "新手训练营（教程）"
-msgstr "Camp d'entraînement (Tutoriel)"
+msgstr "Camp d'entraînement"
 
 #. Key:	F4BF7A6C48622D449AFBF195173F9A89
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/WBP_RoomSlot.WBP_RoomSlot_C:ExecuteUbergraph_WBP_RoomSlot [Script Bytecode]
@@ -6577,7 +6577,7 @@ msgstr "Poutres plus longues pour supporter le poids."
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",VerticalBeam"
 msgid "木材立柱"
-msgstr "Montants en bois"
+msgstr "Colonne en bois"
 
 #. Key:	VerticalBeamAdsorbent
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -7116,14 +7116,14 @@ msgstr "Chapeau de soleil"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,ArrmorCFY"
 msgid "冲锋衣"
-msgstr "Vestes"
+msgstr "Veste"
 
 #. Key:	ArrmorMTC
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,ArrmorMTC"
 msgid "摩托车头盔"
-msgstr "casque de moto"
+msgstr "Casque de moto"
 
 #. Key:	DJ
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -10518,7 +10518,7 @@ msgstr "Effet de particules"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,Male"
 msgid "男"
-msgstr "Masculin"
+msgstr "Homme"
 
 #. Key:	MaxCharacter
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10749,7 +10749,7 @@ msgstr "Graphismes"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,SEDIAO"
 msgid "色调"
-msgstr "Ton"
+msgstr "Teinte"
 
 #. Key:	SetTipMessage
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11344,35 +11344,35 @@ msgstr "Niveau d'arme contondante"
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,BSBJ"
 msgid "发出噪音半径"
-msgstr "rayon de bruit"
+msgstr "Rayon sonore"
 
 #. Key:	CFTip
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,CFTip"
 msgid "裁缝等级"
-msgstr "niveau de tailleur"
+msgstr "Niveau de confection"
 
 #. Key:	CR
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,CR"
 msgid "防御"
-msgstr "la défense"
+msgstr "Défense"
 
 #. Key:	CX
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,CX"
 msgid "物品搜索时间"
-msgstr "Temps de recherche d'article"
+msgstr "Temps de recherche"
 
 #. Key:	HL
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,HL"
 msgid "开局携带的食物和水"
-msgstr "Nourriture et eau à apporter au départ"
+msgstr "Nourriture et eau dans le pack de début de partie"
 
 #. Key:	HMHFTip
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -11386,21 +11386,21 @@ msgstr "Durée de l'infection"
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,HPZYTip"
 msgid "枪械获得经验"
-msgstr "Les armes à feu acquièrent de l'expérience"
+msgstr "Acquisition de compétences en armes à feu"
 
 #. Key:	JJY
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,JJY"
 msgid "医学等级"
-msgstr "qualité médicale"
+msgstr "Qualité médicale"
 
 #. Key:	KKTip
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,KKTip"
 msgid "口渴速度"
-msgstr "Vitesse de soif"
+msgstr "Hydratation"
 
 #. Key:	LSTip
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -11421,28 +11421,28 @@ msgstr "Niveau de cuisson"
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,QWXR"
 msgid "疟疾概率"
-msgstr "probabilité de paludisme"
+msgstr "Risque d'intoxication"
 
 #. Key:	RSZYTip
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,RSZYTip"
 msgid "蛋白质消耗"
-msgstr "consommation de protéines"
+msgstr "Consommation de protéines"
 
 #. Key:	SJSCTip
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,SJSCTip"
 msgid "开局自带2本杂志，一本机械加工台图纸"
-msgstr "Il est livré avec 2 magasins et un dessin de table d'usinage au début."
+msgstr "Commence avec 2 magazines et un dessin de table d'usinage"
 
 #. Key:	TFTip
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,TFTip"
 msgid "锐器等级"
-msgstr "Niveau de dièse"
+msgstr "Niveau en armes tranchantes"
 
 #. Key:	TSKRTip
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -11477,14 +11477,14 @@ msgstr "Probabilité de saignement"
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,XRTip"
 msgid "伤害"
-msgstr "nuire"
+msgstr "Dégâts"
 
 #. Key:	YDZA
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,YDZA"
 msgid "阅读获取经验值"
-msgstr "Lire pour gagner des points d'expérience"
+msgstr "Apprendre"
 
 #. Key:	YYJGTip
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -13045,7 +13045,7 @@ msgstr "Cette opération supprimera le contenu de la marmite"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,PZWQ"
 msgid "配置武器"
-msgstr "configurer les armes"
+msgstr "Configurer les armes"
 
 #. Key:	QCCW01
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -14060,21 +14060,21 @@ msgstr "pessimiste"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,BLPS"
 msgid "步履蹒跚"
-msgstr "chancelant"
+msgstr "Chancelant"
 
 #. Key:	BLQY
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,BLQY"
 msgid "步履轻盈"
-msgstr "lumière sur la marche"
+msgstr "Lumière sur la marche"
 
 #. Key:	BQS
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,BQS"
 msgid "棒球手"
-msgstr "joueur de baseball"
+msgstr "Joueur de baseball"
 
 #. Key:	BS
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14088,21 +14088,21 @@ msgstr "faim"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,BSBJ"
 msgid "笨手笨脚"
-msgstr "maladroit"
+msgstr "Maladroit"
 
 #. Key:	BYG
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,BYG"
 msgid "搬运工"
-msgstr "porter"
+msgstr "Transporteur(se)"
 
 #. Key:	BYGDescribute
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,BYGDescribute"
 msgid "初始拥有 1 级体质等级\r\n负重 +20"
-msgstr "Commencez avec un niveau physique de 1\r\nPoids +20"
+msgstr "Commencez avec un niveau physique de 1\r\nCharge: +20"
 
 #. Key:	carbohydrate
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14137,21 +14137,21 @@ msgstr "Fragile"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,CX"
 msgid "粗心"
-msgstr "imprudent"
+msgstr "Imprudent"
 
 #. Key:	Damage
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,Damage"
 msgid "伤害"
-msgstr "Dégat"
+msgstr "Dégâts"
 
 #. Key:	DS
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,DS"
 msgid "点数"
-msgstr "score"
+msgstr "Score"
 
 #. Key:	DZL
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14172,7 +14172,7 @@ msgstr "Défense"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,FZ"
 msgid "负重"
-msgstr "supporter le poids"
+msgstr "Capacité de charge"
 
 #. Key:	FZX
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14186,14 +14186,14 @@ msgstr "Résistance aux griffures"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,GCS"
 msgid "工程师"
-msgstr "ingénieur"
+msgstr "Ingénieur(e)"
 
 #. Key:	GCSDescribute
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,GCSDescribute"
 msgid "初始拥有 1 级工程等级\r\n建筑物生命值 +30%"
-msgstr "Commencez par le niveau d'ingénierie 1\r\nSanté du bâtiment +30 %"
+msgstr "Commencez avec le niveau d'ingénierie 1\r\nSolidité des bâtiments: +30%"
 
 #. Key:	GeneralTX
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14228,28 +14228,28 @@ msgstr "Santé"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,HL"
 msgid "慌乱"
-msgstr "panique"
+msgstr "Paniqué"
 
 #. Key:	HLSY
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,HLSY"
 msgid "合理使用"
-msgstr "utilisation équitable"
+msgstr "Utilisation équitable"
 
 #. Key:	HMHF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,HMHF"
 msgid "缓慢恢复"
-msgstr "lente récupération"
+msgstr "Récupération lente"
 
 #. Key:	HPZY
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,HPZY"
 msgid "和平主义"
-msgstr "Pacifisme"
+msgstr "Pacifiste"
 
 #. Key:	hygiene
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14263,14 +14263,14 @@ msgstr "Hygiène"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,JC"
 msgid "警察"
-msgstr "police"
+msgstr "Policier(ère)"
 
 #. Key:	JCDescribe
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,JCDescribe"
 msgid "新手礼包衣物替换为警用衣物\r\n枪械磨损 -25%"
-msgstr "Les vêtements du coffret cadeau novice sont remplacés par des vêtements de police\r\nUsure des armes -25%"
+msgstr "Les vêtements du pack de début de partie sont remplacés par des vêtements de police\r\nUsure des armes: -25%"
 
 #. Key:	JDL
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14291,7 +14291,7 @@ msgstr "Sauvetage"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,JJY"
 msgid "急救员"
-msgstr "premier intervenant"
+msgstr "Premier intervenant"
 
 #. Key:	JJYT
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14312,7 +14312,7 @@ msgstr "Plein d'énergie"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,JZSH"
 msgid "近战伤害"
-msgstr "dégâts de mélée"
+msgstr "Dégâts de mélée"
 
 #. Key:	KCDS
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14333,7 +14333,7 @@ msgstr "Résistance au froid"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,KK"
 msgid "口渴"
-msgstr "Hydratation"
+msgstr "Déshydrataté"
 
 #. Key:	KRX
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14361,7 +14361,7 @@ msgstr "Système immunitaire\r\nSi le niveau d'anticorps descend à 0, vous mour
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,LG"
 msgid "乐观"
-msgstr "optimisme"
+msgstr "Optimiste"
 
 #. Key:	LLMS
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14382,7 +14382,7 @@ msgstr "Affecte le nombre d'objets obtenus grâce à la collecte"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,LS"
 msgid "猎手"
-msgstr "chasseur"
+msgstr "Chasseur"
 
 #. Key:	MAIKE
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14431,7 +14431,7 @@ msgstr "Résistant à la soif"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,NLHF"
 msgid "耐力恢复"
-msgstr "La récupération de l'endurance"
+msgstr "Récupération d'endurance"
 
 #. Key:	NLXH
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14459,7 +14459,7 @@ msgstr "Force physique"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,PRDS"
 msgid "烹饪大师"
-msgstr "maître de cuisine"
+msgstr "Fin gourmet"
 
 #. Key:	protein
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14480,14 +14480,14 @@ msgstr "Faiblesse de la rate et de l'estomac"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,QJ"
 msgid "强健"
-msgstr "fort"
+msgstr "Robuste"
 
 #. Key:	QS
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,QS"
 msgid "轻食"
-msgstr "nourriture allégée"
+msgstr "Nourriture allégée"
 
 #. Key:	QXdetail
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14501,14 +14501,14 @@ msgstr "Réduit le recul des armes à feu et le tremblement lors de la visée"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,QZ"
 msgid "强壮"
-msgstr "fort"
+msgstr "Fort"
 
 #. Key:	RSZY
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,RSZY"
 msgid "肉食主义"
-msgstr "Carnisme"
+msgstr "Carnivore"
 
 #. Key:	SD
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14522,7 +14522,7 @@ msgstr "Rapidité"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,SJSC"
 msgid "书籍收藏"
-msgstr "collection de livres"
+msgstr "Collection de livres"
 
 #. Key:	SQRY
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14585,14 +14585,14 @@ msgstr "Force physique\r\nPour chaque 30 points de HP, les dégâts sont réduit
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TSKR"
 msgid "碳水狂热"
-msgstr "manie des glucides"
+msgstr "Manie des glucides"
 
 #. Key:	TW
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TW"
 msgid "铁胃"
-msgstr "estomac de fer"
+msgstr "Estomac de fer"
 
 #. Key:	TX
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14606,14 +14606,14 @@ msgstr "Physiquement faible"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TXJ"
 msgid "探险家"
-msgstr "Explorateur"
+msgstr "Explorateur(trice)"
 
 #. Key:	TXJDescribute
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TXJDescribute"
 msgid "新手礼包中额外拥有一把钢双手刀\r\n抗热 +30%  抗寒 +20% 防抓 +20%"
-msgstr "Il y a une épée à deux mains en acier supplémentaire dans le coffret cadeau pour novice.\r\nRésistance à la chaleur +30% Résistance au froid +20% Résistance aux rayures +20%"
+msgstr "Il y a une épée à deux mains en acier supplémentaire dans le pack de début de partie.\r\nRésistance à la chaleur: +30%\r\nRésistance au froid: +20%\r\nRésistance aux griffures: +20%"
 
 #. Key:	TZBDF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14886,7 +14886,7 @@ msgstr "Hygiène\r\nAffecte le risque de découverte par les zombies, le risque 
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,XJRM"
 msgid "酗酒如命"
-msgstr "ivre"
+msgstr "Alcoolique"
 
 #. Key:	XPNR
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14900,42 +14900,42 @@ msgstr "Peau fine et viande tendre"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,XR"
 msgid "虚弱"
-msgstr "faible"
+msgstr "Faible"
 
 #. Key:	YDY
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,YDY"
 msgid "运动员"
-msgstr "athlète"
+msgstr "Athlète"
 
 #. Key:	YDZA
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,YDZA"
 msgid "愚笨"
-msgstr "stupide"
+msgstr "Stupide"
 
 #. Key:	YMSH
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,YMSH"
 msgid "聪颖"
-msgstr "intelligent"
+msgstr "Intelligent"
 
 #. Key:	YS
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,YS"
 msgid "医生"
-msgstr "médecin"
+msgstr "Médecin"
 
 #. Key:	YSDesscribe
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,YSDesscribe"
 msgid "初始拥有 1 级医学等级\r\n药物效果 +15%"
-msgstr "Commencez par le niveau médical 1\r\nEffet du médicament +15 %"
+msgstr "Commencez avec le niveau de médecine 1\r\nEffet des médicaments: +15%"
 
 #. Key:	YXZS
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14949,7 +14949,7 @@ msgstr "connaissances médicales"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,YYJG"
 msgid "业余技工"
-msgstr "mécanicien amateur"
+msgstr "Mécanicien amateur"
 
 #. Key:	YYXJ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14963,7 +14963,7 @@ msgstr "Nutritionniste"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,YZKX"
 msgid "硬直抵抗"
-msgstr "Résistance aux dégats"
+msgstr "Résistance aux dégâts"
 
 #. Key:	YZL
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14977,35 +14977,35 @@ msgstr "Résistance"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,ZBCF"
 msgid "准备充分"
-msgstr "bien préparé"
+msgstr "Bien préparé"
 
 #. Key:	ZDK
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,ZDK"
 msgid "战斗狂"
-msgstr "Combattre la manie"
+msgstr "Combattant"
 
 #. Key:	ZLWZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,ZLWZ"
 msgid "杂乱无章"
-msgstr "désorganisé"
+msgstr "Désorganisé"
 
 #. Key:	ZXZZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,ZXZZ"
 msgid "专心致志"
-msgstr "se concentrer"
+msgstr "Concentré"
 
 #. Key:	ZZBS
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,ZZBS"
 msgid "拙嘴笨舌"
-msgstr "langue maladroite"
+msgstr "Langue maladroite"
 
 #. Key:	DQ
 #. SourceLocation:	/Game/LocalizationText/UIStudy.UIStudy
@@ -15061,7 +15061,7 @@ msgstr "Réparation de machines"
 #: /Game/LocalizationText/UIStudy.UIStudy
 msgctxt "UI,KJ"
 msgid "科技"
-msgstr "Technologie"
+msgstr "Technologies"
 
 #. Key:	LL
 #. SourceLocation:	/Game/LocalizationText/UIStudy.UIStudy
