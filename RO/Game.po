@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2024-04-17 02:24\n"
-"PO-Revision-Date: 2024-04-17 02:24\n"
+"POT-Creation-Date: 2024-04-23 10:59\n"
+"PO-Revision-Date: 2024-04-23 10:59\n"
 "Language-Team: \n"
 "Language: ro\n"
 "MIME-Version: 1.0\n"
@@ -5359,14 +5359,14 @@ msgstr "perete de sticla"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,BL02"
 msgid "钢立柱"
-msgstr ""
+msgstr "coloană de oțel"
 
 #. Key:	BL03
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,BL03"
 msgid "钢立柱(1/3)"
-msgstr ""
+msgstr "Coloană din oțel (1/3)"
 
 #. Key:	BL04
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -5408,28 +5408,28 @@ msgstr "Perete de sticlă (1/3)"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,BL10"
 msgid "钢横梁"
-msgstr ""
+msgstr "Grinda de otel"
 
 #. Key:	BL11
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,BL11"
 msgid "钢横梁(三格)"
-msgstr ""
+msgstr "Grinda de oțel (trei grile)"
 
 #. Key:	BL12
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,BL12"
 msgid "钢横梁(两格)"
-msgstr ""
+msgstr "Grinda de otel (doua grile)"
 
 #. Key:	BL13
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,BL13"
 msgid "钢横梁(四格)"
-msgstr ""
+msgstr "Grinzi de oțel (patru grile)"
 
 #. Key:	BL14
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -11367,6 +11367,13 @@ msgctxt "TipMessage,CX"
 msgid "物品搜索时间"
 msgstr "Timpul de căutare a articolului"
 
+#. Key:	guntip123
+#. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
+#: /Game/LocalizationText/TipMessage.TipMessage
+msgctxt "TipMessage,guntip123"
+msgid "在第一人称下按下Shift可以屏息，减少枪械瞄准晃动"
+msgstr "Dacă apăsați pe Shift în modul prima persoană, vă puteți ține respirația pentru a reduce mișcarea țintirii armei."
+
 #. Key:	HL
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
 #: /Game/LocalizationText/TipMessage.TipMessage
@@ -14368,7 +14375,7 @@ msgstr "optimism"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,LLMS"
 msgid "影响基础防御、伤害"
-msgstr ""
+msgstr "Afectează apărarea de bază și daunele"
 
 #. Key:	LQMS
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14411,6 +14418,13 @@ msgstr "rezistență maximă"
 msgctxt "UI,mood"
 msgid "心态"
 msgstr "stare de spirit"
+
+#. Key:	MS_TXSJ
+#. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
+#: /Game/LocalizationText/UICharacter.UICharacter
+msgctxt "UI,MS_TXSJ"
+msgid "体型加成："
+msgstr "Bonus de dimensiune:"
 
 #. Key:	NGQJ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14614,6 +14628,62 @@ msgstr "Explorator"
 msgctxt "UI,TXJDescribute"
 msgid "新手礼包中额外拥有一把钢双手刀\r\n抗热 +30%  抗寒 +20% 防抓 +20%"
 msgstr "Există o sabie suplimentară din oțel cu două mâini în pachetul cadou pentru începători\r\nRezistență la căldură +30% Rezistență la frig +20% Rezistență la zgârieturi +20%"
+
+#. Key:	TZ_GRDesscribute
+#. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
+#: /Game/LocalizationText/UICharacter.UICharacter
+msgctxt "UI,TZ_GRDesscribute"
+msgid "感染概率"
+msgstr "Probabilitatea de infectare"
+
+#. Key:	TZ_HM
+#. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
+#: /Game/LocalizationText/UICharacter.UICharacter
+msgctxt "UI,TZ_HM"
+msgid "缓慢"
+msgstr "încet"
+
+#. Key:	TZ_KS
+#. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
+#: /Game/LocalizationText/UICharacter.UICharacter
+msgctxt "UI,TZ_KS"
+msgid "快速"
+msgstr "rapid"
+
+#. Key:	TZ_MYRH
+#. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
+#: /Game/LocalizationText/UICharacter.UICharacter
+msgctxt "UI,TZ_MYRH"
+msgid "免疫弱化"
+msgstr "Imunitatea slăbită"
+
+#. Key:	TZ_MYZQ
+#. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
+#: /Game/LocalizationText/UICharacter.UICharacter
+msgctxt "UI,TZ_MYZQ"
+msgid "免疫增强"
+msgstr "creșterea imunității"
+
+#. Key:	TZ_TF
+#. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
+#: /Game/LocalizationText/UICharacter.UICharacter
+msgctxt "UI,TZ_TF"
+msgid "屠夫"
+msgstr "Măcelar"
+
+#. Key:	TZ_WL
+#. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
+#: /Game/LocalizationText/UICharacter.UICharacter
+msgctxt "UI,TZ_WL"
+msgid "无力"
+msgstr "Neputincios"
+
+#. Key:	TZ_YL
+#. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
+#: /Game/LocalizationText/UICharacter.UICharacter
+msgctxt "UI,TZ_YL"
+msgid "有力"
+msgstr "puternic"
 
 #. Key:	TZBDF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14999,6 +15069,83 @@ msgstr "dezorganizat"
 msgctxt "UI,ZXZZ"
 msgid "专心致志"
 msgstr "concentrat"
+
+#. Key:	ZY_BH
+#. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
+#: /Game/LocalizationText/UICharacter.UICharacter
+msgctxt "UI,ZY_BH"
+msgid "病患"
+msgstr "rabdator"
+
+#. Key:	ZY_BH_Desscribute
+#. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
+#: /Game/LocalizationText/UICharacter.UICharacter
+msgctxt "UI,ZY_BH_Desscribute"
+msgid "耐力 -15%  耐力消耗 +10%\r\n负重 -13  速度 -10%  感染概率 +20%"
+msgstr "Rezistență -15% Consum de rezistență +10%\r\nGreutate -13 Viteză -10% Probabilitate de infectare +20%"
+
+#. Key:	ZY_FW
+#. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
+#: /Game/LocalizationText/UICharacter.UICharacter
+msgctxt "UI,ZY_FW"
+msgid "废物"
+msgstr "deşeuri"
+
+#. Key:	ZY_FW_Describute
+#. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
+#: /Game/LocalizationText/UICharacter.UICharacter
+msgctxt "UI,ZY_FW_Describute"
+msgid "耐力 -30%  速度 -10  搜索速度 -30%  最大生命 -20%\r\n近战伤害 -4  负重 -10  防御 -4 "
+msgstr "Rezistență -30% Viteză -10 Viteză de căutare -30% Sănătate maximă -20%\r\nDaune la corp la corp -4 Greutate de transport -10 Apărare -4"
+
+#. Key:	ZY_LS
+#. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
+#: /Game/LocalizationText/UICharacter.UICharacter
+msgctxt "UI,ZY_LS"
+msgid "力士"
+msgstr "Luptător de sumo"
+
+#. Key:	ZY_LS_Describute
+#. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
+#: /Game/LocalizationText/UICharacter.UICharacter
+msgctxt "UI,ZY_LS_Describute"
+msgid "初始体质、力量等级 +1  近战伤害 +4\r\n蛋白质、碳水消耗速度 +20%  速度 -10"
+msgstr "Constituție inițială, nivel de forță +1, daune la corp la corp +4\r\nViteza consumului de proteine si carbohidrati +20% viteza -10"
+
+#. Key:	ZY_NF
+#. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
+#: /Game/LocalizationText/UICharacter.UICharacter
+msgctxt "UI,ZY_NF"
+msgid "农夫"
+msgstr "agricultor"
+
+#. Key:	ZY_NF_Describute
+#. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
+#: /Game/LocalizationText/UICharacter.UICharacter
+msgctxt "UI,ZY_NF_Describute"
+msgid "初始农业等级 +3 农业经验获取 +20%\r\n初始自带四组种子、两只鸡"
+msgstr "Nivel agricol inițial +3, câștig de experiență agricolă +20%\r\nInițial vine cu patru seturi de semințe și doi pui"
+
+#. Key:	ZY_WXZ
+#. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
+#: /Game/LocalizationText/UICharacter.UICharacter
+msgctxt "UI,ZY_WXZ"
+msgid "未选择"
+msgstr "Nu a fost ales"
+
+#. Key:	ZY_XS
+#. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
+#: /Game/LocalizationText/UICharacter.UICharacter
+msgctxt "UI,ZY_XS"
+msgid "学生"
+msgstr "student"
+
+#. Key:	ZY_XS_Describute
+#. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
+#: /Game/LocalizationText/UICharacter.UICharacter
+msgctxt "UI,ZY_XS_Describute"
+msgid "拥有初始背包、随机获得五本书\r\n防御 -5  近战伤害 -2"
+msgstr "Aveți un rucsac inițial și primiți cinci cărți aleatoriu\r\nApărare -5 Daune la corp la corp -2"
 
 #. Key:	ZZBS
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
