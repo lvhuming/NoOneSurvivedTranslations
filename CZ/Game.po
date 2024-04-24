@@ -10707,7 +10707,7 @@ msgstr "Klikni pro změnu"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,RWTD"
 msgid "人物特点："
-msgstr "Charakteristika postavy:"
+msgstr "Vlastnosti postavy:"
 
 #. Key:	SBX
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11330,7 +11330,7 @@ msgstr "Stiskněte \"T\" pro zapnutí nočního vidění."
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,BGTip"
 msgid "心态消耗"
-msgstr "Mentální spotřeba"
+msgstr "Spotřeba nálady"
 
 #. Key:	BQSTip
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -11351,7 +11351,7 @@ msgstr "Rádius hluku"
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,CFTip"
 msgid "裁缝等级"
-msgstr "úroveň na míru"
+msgstr "Krejčovství +2"
 
 #. Key:	CR
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -11365,7 +11365,7 @@ msgstr "Obrana"
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,CX"
 msgid "物品搜索时间"
-msgstr "Doba hledání"
+msgstr "Doba prohledávání"
 
 #. Key:	guntip123
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -11421,7 +11421,7 @@ msgstr "Úroveň střelných zbraní"
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,PRDSTip"
 msgid "烹饪等级"
-msgstr "Úroveň vaření"
+msgstr "Vaření +2"
 
 #. Key:	QWXR
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -11442,7 +11442,7 @@ msgstr "Spotřeba bílkovin"
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,SJSCTip"
 msgid "开局自带2本杂志，一本机械加工台图纸"
-msgstr "Přidává 2 zásobníky a výkres obráběcího stolu na začátku."
+msgstr "Přidává 2 zásobníky a výkres obráběcího stolu"
 
 #. Key:	TFTip
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -11470,7 +11470,7 @@ msgstr "Tento předmět zde nelze použít"
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,XJRM"
 msgid "喝酒获得水分"
-msgstr "Pro utišení žízně můžete pít alkohol"
+msgstr "Utišení žízně tekutinami a alkoholem"
 
 #. Key:	XPNR
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -11484,21 +11484,21 @@ msgstr "Pravděpodobnost krvácení"
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,XRTip"
 msgid "伤害"
-msgstr "Poškodit"
+msgstr "Poškození"
 
 #. Key:	YDZA
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,YDZA"
 msgid "阅读获取经验值"
-msgstr "Pro získání zkušeností, přečtěte"
+msgstr "Získávání zkušeností četbou"
 
 #. Key:	YYJGTip
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,YYJGTip"
 msgid "工程等级 +1 机械等级 +1"
-msgstr "Technika +1 Mechanika +1"
+msgstr "Inženýrství +1 Strojní zařízení +1"
 
 #. Key:	ZLWZ
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -11512,7 +11512,7 @@ msgstr "Kapacita batohu"
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,ZZBS"
 msgid "与商人交易价值"
-msgstr "Obchodujte hodnotu s obchodníky"
+msgstr "Prodejní ceny u obchodníků"
 
 #. Key:	AddBuff
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -14102,14 +14102,14 @@ msgstr "Nemotorný"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,BYG"
 msgid "搬运工"
-msgstr "Nosič"
+msgstr "Portýr"
 
 #. Key:	BYGDescribute
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,BYGDescribute"
 msgid "初始拥有 1 级体质等级\r\n负重 +20"
-msgstr "Začínáte s fyzickou úrovní 1\r\nHmotnost +20"
+msgstr "Fyzická úroveň 1\r\nNosnost +20"
 
 #. Key:	carbohydrate
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14123,7 +14123,7 @@ msgstr "Cukry"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,CF"
 msgid "裁缝"
-msgstr "Krejčovství"
+msgstr "Krejčí"
 
 #. Key:	CGJJRZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14200,7 +14200,7 @@ msgstr "Inženýr"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,GCSDescribute"
 msgid "初始拥有 1 级工程等级\r\n建筑物生命值 +30%"
-msgstr "Začínáte s inženýrstvím 1\r\nOdolnost budov + 30 %"
+msgstr "Inženýrství 1\r\nOdolnost budov + 30 %"
 
 #. Key:	GeneralTX
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14235,7 +14235,7 @@ msgstr "Zdraví"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,HL"
 msgid "慌乱"
-msgstr "Panika"
+msgstr "Nervák"
 
 #. Key:	HLSY
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14256,7 +14256,7 @@ msgstr "Pomalé léčení"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,HPZY"
 msgid "和平主义"
-msgstr "Pacifismus"
+msgstr "Pacifista"
 
 #. Key:	hygiene
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14340,7 +14340,7 @@ msgstr "Odolnost proti chladu"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,KK"
 msgid "口渴"
-msgstr "Tekutiny"
+msgstr "Žíznivý"
 
 #. Key:	KRX
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14494,7 +14494,7 @@ msgstr "Bolavé bříško"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,QJ"
 msgid "强健"
-msgstr "Silný"
+msgstr "Pevný"
 
 #. Key:	QS
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14536,14 +14536,14 @@ msgstr "Rychlost"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,SJSC"
 msgid "书籍收藏"
-msgstr "Sbírka knih"
+msgstr "Knihomol"
 
 #. Key:	SQRY
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,SQRY"
 msgid "身轻如燕"
-msgstr "Lehký jako pták"
+msgstr "Tichošlápek"
 
 #. Key:	SSHA
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14641,14 +14641,14 @@ msgstr "Pravděpodobnost infekce"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZ_HM"
 msgid "缓慢"
-msgstr "pomalý"
+msgstr "Loudal"
 
 #. Key:	TZ_KS
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZ_KS"
 msgid "快速"
-msgstr "rychle"
+msgstr "Běžec"
 
 #. Key:	TZ_MYRH
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14662,7 +14662,7 @@ msgstr "Oslabená imunita"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZ_MYZQ"
 msgid "免疫增强"
-msgstr "posílení imunity"
+msgstr "Posílená imunita"
 
 #. Key:	TZ_TF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14676,14 +14676,14 @@ msgstr "Řezník"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZ_WL"
 msgid "无力"
-msgstr "Bezmocný"
+msgstr "Slabý"
 
 #. Key:	TZ_YL
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZ_YL"
 msgid "有力"
-msgstr "silný"
+msgstr "Silný"
 
 #. Key:	TZBDF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -15005,7 +15005,7 @@ msgstr "Doktor"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,YSDesscribe"
 msgid "初始拥有 1 级医学等级\r\n药物效果 +15%"
-msgstr "Začněte s lékařskou úrovní 1\r\nÚčinek léků +15 %"
+msgstr "Lékařství +1\r\nÚčinek léků +15 %"
 
 #. Key:	YXZS
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -15075,77 +15075,77 @@ msgstr "Soustředěný"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,ZY_BH"
 msgid "病患"
-msgstr "trpěliví"
+msgstr "Pacient"
 
 #. Key:	ZY_BH_Desscribute
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,ZY_BH_Desscribute"
 msgid "耐力 -15%  耐力消耗 +10%\r\n负重 -13  速度 -10%  感染概率 +20%"
-msgstr "Výdrž -15% Spotřeba výdrže +10%\r\nHmotnost -13 Rychlost -10% Pravděpodobnost infekce +20%"
+msgstr "Výdrž -15% Spotřeba výdrže +10%\r\nNosnost -13 Rychlost -10% Pravděpodobnost infekce +20%"
 
 #. Key:	ZY_FW
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,ZY_FW"
 msgid "废物"
-msgstr "odpad"
+msgstr "Odpadlík"
 
 #. Key:	ZY_FW_Describute
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,ZY_FW_Describute"
 msgid "耐力 -30%  速度 -10  搜索速度 -30%  最大生命 -20%\r\n近战伤害 -4  负重 -10  防御 -4 "
-msgstr "Výdrž -30% Rychlost -10 Rychlost vyhledávání -30% Maximální zdraví -20%\r\nPoškození zblízka -4 Nosná hmotnost -10 Obrana -4"
+msgstr "Výdrž -30% Rychlost -10 Rychlost prohledávání -30% Maximální zdraví -20%\r\nPoškození zblízka -4 Nosnost -10 Obrana -4"
 
 #. Key:	ZY_LS
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,ZY_LS"
 msgid "力士"
-msgstr "Sumo zápasník"
+msgstr "Zápasník sumo"
 
 #. Key:	ZY_LS_Describute
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,ZY_LS_Describute"
 msgid "初始体质、力量等级 +1  近战伤害 +4\r\n蛋白质、碳水消耗速度 +20%  速度 -10"
-msgstr "Počáteční složení, úroveň síly +1, poškození zblízka +4\r\nRychlost konzumace bílkovin a sacharidů +20% rychlost -10"
+msgstr "Vitalita a síla +1, poškození zblízka +4\r\nRychlost konzumace bílkovin a cukrů +20%, rychlost -10"
 
 #. Key:	ZY_NF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,ZY_NF"
 msgid "农夫"
-msgstr "zemědělec"
+msgstr "Zemědělec"
 
 #. Key:	ZY_NF_Describute
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,ZY_NF_Describute"
 msgid "初始农业等级 +3 农业经验获取 +20%\r\n初始自带四组种子、两只鸡"
-msgstr "Počáteční zemědělská úroveň +3, zisk zemědělských zkušeností +20 %\r\nZpočátku obsahuje čtyři sady semen a dvě kuřata"
+msgstr "Zemědělství +3, zisk zemědělských zkušeností +20 %\r\nNa začátku obdrží čtyři sady semen a dvě kuřata"
 
 #. Key:	ZY_WXZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,ZY_WXZ"
 msgid "未选择"
-msgstr "Nevybraný"
+msgstr "Nevybráno"
 
 #. Key:	ZY_XS
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,ZY_XS"
 msgid "学生"
-msgstr "student"
+msgstr "Student"
 
 #. Key:	ZY_XS_Describute
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,ZY_XS_Describute"
 msgid "拥有初始背包、随机获得五本书\r\n防御 -5  近战伤害 -2"
-msgstr "Mějte počáteční batoh a získejte náhodně pět knih\r\nObrana -5 Poškození zblízka -2"
+msgstr "Batoh a pět náhodných knih\r\nObrana -5 Poškození zblízka -2"
 
 #. Key:	ZZBS
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
