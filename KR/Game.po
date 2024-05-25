@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2024-04-24 10:18\n"
-"PO-Revision-Date: 2024-04-24 10:18\n"
+"POT-Creation-Date: 2024-05-25 05:03\n"
+"PO-Revision-Date: 2024-05-25 05:03\n"
 "Language-Team: \n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -1511,6 +1511,27 @@ msgctxt ",E856DFBD4AF5AFF9EADA9490BC71041B"
 msgid "18"
 msgstr "18"
 
+#. Key:	85A4F9F449852268CE75F49289DCC846
+#. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_NewCarInventory02.WBP_NewCarInventory02_C:Update [Script Bytecode]
+#: /Game/Blueprint/UMG/Furniture/WBP_NewCarInventory02.WBP_NewCarInventory02_C:Update [Script Bytecode]
+msgctxt ",85A4F9F449852268CE75F49289DCC846"
+msgid "燃料："
+msgstr "연료:"
+
+#. Key:	BFBB66B5442A5C72DD1DFCBABC586CB7
+#. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_NewCarInventory02.WBP_NewCarInventory02_C:WidgetTree.Repir_2.ToolTipText
+#: /Game/Blueprint/UMG/Furniture/WBP_NewCarInventory02.WBP_NewCarInventory02_C:WidgetTree.Repir_2.ToolTipText
+msgctxt ",BFBB66B5442A5C72DD1DFCBABC586CB7"
+msgid "重置位置"
+msgstr "위치 재설정"
+
+#. Key:	C602FCB44E648C02BDDBF081D1AE78C1
+#. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_NewCarInventory02.WBP_NewCarInventory02_C:WidgetTree.TextRY.Text
+#: /Game/Blueprint/UMG/Furniture/WBP_NewCarInventory02.WBP_NewCarInventory02_C:WidgetTree.TextRY.Text
+msgctxt ",C602FCB44E648C02BDDBF081D1AE78C1"
+msgid "燃料：10/50L"
+msgstr "연료: 10/50L"
+
 #. Key:	7086737C4A1B737FFF1DC498B7DD48CC
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_NPCAssign.WBP_NPCAssign_C:WidgetTree.Image_177.ToolTipText
 #: /Game/Blueprint/UMG/Furniture/WBP_NPCAssign.WBP_NPCAssign_C:WidgetTree.Image_177.ToolTipText
@@ -2271,6 +2292,13 @@ msgstr "너무 젖어"
 #. SourceLocation:	/Game/Blueprint/UMG/Inventory/WBP_AddRYButton.WBP_AddRYButton_C:OnDrop [Script Bytecode]
 #: /Game/Blueprint/UMG/Inventory/WBP_AddRYButton.WBP_AddRYButton_C:OnDrop [Script Bytecode]
 msgctxt ",F698474D4774B3EAED811995AC987E07"
+msgid "此物品无法装备在这"
+msgstr "이 아이템은 여기에 장착할 수 없습니다"
+
+#. Key:	67D84995480CCD83807A0DA7238D60B5
+#. SourceLocation:	/Game/Blueprint/UMG/Inventory/WBP_CarUseButton.WBP_CarUseButton_C:OnDrop [Script Bytecode]
+#: /Game/Blueprint/UMG/Inventory/WBP_CarUseButton.WBP_CarUseButton_C:OnDrop [Script Bytecode]
+msgctxt ",67D84995480CCD83807A0DA7238D60B5"
 msgid "此物品无法装备在这"
 msgstr "이 아이템은 여기에 장착할 수 없습니다"
 
@@ -3113,6 +3141,41 @@ msgstr "Km/h"
 msgctxt ",BB154E9F4CD911E0A5B38BA239AA67F0"
 msgid "燃油"
 msgstr "연료"
+
+#. Key:	B54CE8AB4FB8B7C66ACA64A1683050C0
+#. SourceLocation:	/Game/Blueprint/UMG/ScreenMessage/WBP_CarMessage1.WBP_CarMessage1_C:Update Show [Script Bytecode]
+#: /Game/Blueprint/UMG/ScreenMessage/WBP_CarMessage1.WBP_CarMessage1_C:Update Show [Script Bytecode]
+msgctxt ",B54CE8AB4FB8B7C66ACA64A1683050C0"
+msgid "N"
+msgstr "N"
+
+#. Key:	B873799B495043C4013E0392393B3E68
+#. SourceLocation:	/Game/Blueprint/UMG/ScreenMessage/WBP_CarMessage1.WBP_CarMessage1_C:Update Show [Script Bytecode]
+#: /Game/Blueprint/UMG/ScreenMessage/WBP_CarMessage1.WBP_CarMessage1_C:Update Show [Script Bytecode]
+msgctxt ",B873799B495043C4013E0392393B3E68"
+msgid "R"
+msgstr "아르 자형"
+
+#. Key:	BEEF18C84298E2C2A78C99B2311BD83D
+#. SourceLocation:	/Game/Blueprint/UMG/ScreenMessage/WBP_CarMessage1.WBP_CarMessage1_C:WidgetTree.Gear.Text
+#: /Game/Blueprint/UMG/ScreenMessage/WBP_CarMessage1.WBP_CarMessage1_C:WidgetTree.Gear.Text
+msgctxt ",BEEF18C84298E2C2A78C99B2311BD83D"
+msgid "1"
+msgstr "1"
+
+#. Key:	AFD952BB466984D8ABE2E9A50CA6B4B5
+#. SourceLocation:	/Game/Blueprint/UMG/ScreenMessage/WBP_CarMessage1.WBP_CarMessage1_C:WidgetTree.SpeedLabel_1.Text
+#: /Game/Blueprint/UMG/ScreenMessage/WBP_CarMessage1.WBP_CarMessage1_C:WidgetTree.SpeedLabel_1.Text
+msgctxt ",AFD952BB466984D8ABE2E9A50CA6B4B5"
+msgid "99"
+msgstr "99"
+
+#. Key:	EDCE26034549C7B0019A51A20BF5390E
+#. SourceLocation:	/Game/Blueprint/UMG/ScreenMessage/WBP_CarMessage1.WBP_CarMessage1_C:WidgetTree.UnitLabel_1.Text
+#: /Game/Blueprint/UMG/ScreenMessage/WBP_CarMessage1.WBP_CarMessage1_C:WidgetTree.UnitLabel_1.Text
+msgctxt ",EDCE26034549C7B0019A51A20BF5390E"
+msgid "Km/h"
+msgstr "km/h"
 
 #. Key:	2191E6F14098A0C04EFC4FA4B26ECAE8
 #. SourceLocation:	/Game/Blueprint/UMG/ScreenMessage/WBP_GunMessage.WBP_GunMessage_C:ExecuteUbergraph_WBP_GunMessage [Script Bytecode]
@@ -4073,6 +4136,13 @@ msgctxt ",6637FA9A490D558CD9C89DAD12BCB992"
 msgid "Tex"
 msgstr "텍스"
 
+#. Key:	9D4BFA0A43886366F83B349E20416660
+#. SourceLocation:	/Game/Blueprint/Vehicles/Base/BP_VehicleBase.BP_VehicleBase_C:ExecuteUbergraph_BP_VehicleBase [Script Bytecode]
+#: /Game/Blueprint/Vehicles/Base/BP_VehicleBase.BP_VehicleBase_C:ExecuteUbergraph_BP_VehicleBase [Script Bytecode]
+msgctxt ",9D4BFA0A43886366F83B349E20416660"
+msgid "缺少电源"
+msgstr "힘의 부족"
+
 #. Key:	DA76A68842D939CD40D943A24231BEB6
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/BuildMeshBase.Default__BuildMeshBase_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 #: /Game/HDCKBuildingSystem/Blueprints/Base/BuildMeshBase.Default__BuildMeshBase_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
@@ -4170,6 +4240,27 @@ msgstr "기초 또는 바닥"
 msgctxt ",437C1B55408A255EEF2D3398F073B7E3"
 msgid "家具"
 msgstr "가구"
+
+#. Key:	183EFA0841D6642E43833ABE143BEE91
+#. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildMode.E_BuildMode.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/HDCKBuildingSystem/Blueprints/E_BuildMode.E_BuildMode.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",183EFA0841D6642E43833ABE143BEE91"
+msgid "Destroy"
+msgstr "파괴하다"
+
+#. Key:	7F7ADDD64EE44CDD61D6CABA8426EDB2
+#. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildMode.E_BuildMode.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/HDCKBuildingSystem/Blueprints/E_BuildMode.E_BuildMode.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",7F7ADDD64EE44CDD61D6CABA8426EDB2"
+msgid "Change"
+msgstr "변화"
+
+#. Key:	3AB8B9F942250C691556DC95CF6C88FD
+#. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildMode.E_BuildMode.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/HDCKBuildingSystem/Blueprints/E_BuildMode.E_BuildMode.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",3AB8B9F942250C691556DC95CF6C88FD"
+msgid "Fix"
+msgstr "고치다"
 
 #. Key:	E9A10E33421DF89FF3203C8259441E89
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(0 - Value).DisplayNameMap
@@ -4367,17 +4458,17 @@ msgctxt ",F9AEB4DA4E4995AF5C0807AE1EEF8C90"
 msgid "transaction"
 msgstr "거래"
 
-#. Key:	A535C1E74F3A1B927C3043B774F7F939
+#. Key:	C8C6C47145E2929509332DA0C373BD50
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Foundation_SN.Default__Foundation_SN_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 #: /Game/HDCKBuildingSystem/MeshBP/Foundation_SN.Default__Foundation_SN_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-msgctxt ",A535C1E74F3A1B927C3043B774F7F939"
+msgctxt ",C8C6C47145E2929509332DA0C373BD50"
 msgid "水泥制作的地基，看起来很结实，可以承受相当多的重量。"
 msgstr "시멘트로 만든 기초는 매우 튼튼해 보이고 상당한 무게를 지탱할 수 있습니다."
 
-#. Key:	BC89A6AB4FEB8A750DE282B08F25104C
+#. Key:	51B36585484D58A9C7550487B942051D
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_DP_XDD.Default__Furniture_DP_XDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_DP_XDD.Default__Furniture_DP_XDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
-msgctxt ",BC89A6AB4FEB8A750DE282B08F25104C"
+msgctxt ",51B36585484D58A9C7550487B942051D"
 msgid "地板"
 msgstr "바닥"
 
@@ -4402,10 +4493,10 @@ msgctxt ",ABE10B784F6D55A4DA2F40A4FBEC2520"
 msgid "用于保管物品的箱子，不会丢失物品。"
 msgstr "물건을 보관할 수 있는 상자."
 
-#. Key:	E30DED4441284C3A17E26F8AA33473DC
+#. Key:	A01631F5494A67CDEA56DC8A740AE2CD
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_DPLDD.Default__Furniture_DPLDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_DPLDD.Default__Furniture_DPLDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
-msgctxt ",E30DED4441284C3A17E26F8AA33473DC"
+msgctxt ",A01631F5494A67CDEA56DC8A740AE2CD"
 msgid "地板"
 msgstr "바닥"
 
@@ -4451,10 +4542,10 @@ msgctxt ",BC879B3F4ECE110B894771976EFF65F1"
 msgid "家具"
 msgstr "가구"
 
-#. Key:	E8331EDC407563AB1D6608BD7F3C8D41
+#. Key:	28C9BC424B1A718657F86AB4ADB52C2F
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_TYNFD.Default__Furniture_TYNFD_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_TYNFD.Default__Furniture_TYNFD_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-msgctxt ",E8331EDC407563AB1D6608BD7F3C8D41"
+msgctxt ",28C9BC424B1A718657F86AB4ADB52C2F"
 msgid "受遮挡或在没有太阳的天气无法发电"
 msgstr "그늘이 있거나 날씨가 좋지 않아 전기를 생산할 수 없음"
 
@@ -4500,24 +4591,24 @@ msgctxt ",F3F8E148409A7CD56F64519CED4DC8A7"
 msgid "水不够！"
 msgstr "물이 부족해!"
 
-#. Key:	7BC1482A464284EBDB996AB0C86A5B7E
+#. Key:	B71798C540947845D5465B8661F76F35
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/OutStairs_Base_Wood.Default__OutStairs_Base_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 #: /Game/HDCKBuildingSystem/MeshBP/OutStairs_Base_Wood.Default__OutStairs_Base_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-msgctxt ",7BC1482A464284EBDB996AB0C86A5B7E"
+msgctxt ",B71798C540947845D5465B8661F76F35"
 msgid "建房必备"
 msgstr "집을 짓는데 꼭 필요한"
 
-#. Key:	13C3C4774229EED59BF336A6D7AA0A05
+#. Key:	98F8D5D646F2457CCD4CE8973F7C6BB0
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_BL.Default__Roof_20_intersection_BL_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 #: /Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_BL.Default__Roof_20_intersection_BL_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-msgctxt ",13C3C4774229EED59BF336A6D7AA0A05"
+msgctxt ",98F8D5D646F2457CCD4CE8973F7C6BB0"
 msgid "用于连接外转角屋顶。"
 msgstr "외부 코너 지붕을 연결하는 데 사용됩니다."
 
-#. Key:	39C6AEE04AEE20B8AEC8E593D3B6E21E
+#. Key:	C58CCE384069F1CAF5534CAEA7FF1642
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_Wood.Default__Roof_20_intersection_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 #: /Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_Wood.Default__Roof_20_intersection_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-msgctxt ",39C6AEE04AEE20B8AEC8E593D3B6E21E"
+msgctxt ",C58CCE384069F1CAF5534CAEA7FF1642"
 msgid "用于连接外转角屋顶。"
 msgstr "외부 코너 지붕을 연결하는 데 사용됩니다."
 
@@ -5738,6 +5829,13 @@ msgstr "시멘트 빔(3개의 그리드)"
 msgctxt "BuildInfo,SNLTHW"
 msgid "水泥楼梯(户外)"
 msgstr "콘크리트 계단(야외)"
+
+#. Key:	SNPD
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,SNPD"
+msgid "水泥坡道(户外)"
+msgstr "시멘트 램프(실외)"
 
 #. Key:	TD
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -9519,6 +9617,69 @@ msgctxt "ItemInfo,TD"
 msgid "唐刀"
 msgstr "탕다오"
 
+#. Key:	TZ_FDJ_01
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,TZ_FDJ_01"
+msgid "发动机图纸"
+msgstr "엔진 도면"
+
+#. Key:	TZ_FDJ_02
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,TZ_FDJ_02"
+msgid "增速器图纸"
+msgstr "속도 증가 드로잉"
+
+#. Key:	TZ_FDJ_03
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,TZ_FDJ_03"
+msgid "燃油过滤器图纸"
+msgstr "연료 필터 도면"
+
+#. Key:	TZ_HJ_01
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,TZ_HJ_01"
+msgid "简易护甲图纸"
+msgstr "간단한 갑옷 청사진"
+
+#. Key:	TZ_HJ_02
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,TZ_HJ_02"
+msgid "中等护甲图纸"
+msgstr "중형 방어구 설계도"
+
+#. Key:	TZ_HJ_03
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,TZ_HJ_03"
+msgid "高级护甲图纸"
+msgstr "고급 갑옷 청사진"
+
+#. Key:	TZ_LT_01
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,TZ_LT_01"
+msgid "普通轮胎图纸"
+msgstr "일반 타이어 도면"
+
+#. Key:	TZ_LT_02
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,TZ_LT_02"
+msgid "越野轮胎图纸"
+msgstr "오프로드 타이어 도면"
+
+#. Key:	TZ_LT_03
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,TZ_LT_03"
+msgid "装甲轮胎图纸"
+msgstr "기갑 타이어 도면"
+
 #. Key:	W1
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
@@ -11808,6 +11969,76 @@ msgctxt "UI,CARLINGHT"
 msgid "车灯"
 msgstr "헤드라이트"
 
+#. Key:	CarTip_FDJ_01
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,CarTip_FDJ_01"
+msgid "常规发动机。动力一般，油耗一般"
+msgstr "기존 엔진. 평균 출력, 평균 연료 소비량"
+
+#. Key:	CarTip_FDJ_02
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,CarTip_FDJ_02"
+msgid "速度最快，油耗最高"
+msgstr "가장 빠른 속도, 가장 높은 연료 소비"
+
+#. Key:	CarTip_FDJ_03
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,CarTip_FDJ_03"
+msgid "速度较快，油耗最低"
+msgstr "더 빠른 속도와 가장 낮은 연료 소비"
+
+#. Key:	CarTip_HJ_01
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,CarTip_HJ_01"
+msgid "初级车辆护甲，防御效果一般"
+msgstr "기본 차량 장갑, 평균 방어 효과"
+
+#. Key:	CarTip_HJ_02
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,CarTip_HJ_02"
+msgid "中级车辆护甲，防御效果显著"
+msgstr "상당한 방어 효과를 지닌 중형 차량 장갑"
+
+#. Key:	CarTip_HJ_03
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,CarTip_HJ_03"
+msgid "高级车辆护甲，防御效果最佳"
+msgstr "최고의 방어 효과를 지닌 첨단 차량 장갑"
+
+#. Key:	CarTip_LT_01
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,CarTip_LT_01"
+msgid "初级轮胎，手刹和抓地力偏差"
+msgstr "주니어 타이어, 핸드 브레이크 및 그립 바이어스"
+
+#. Key:	CarTip_LT_02
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,CarTip_LT_02"
+msgid "中级轮胎，手刹和抓地力效果不错"
+msgstr "중간 타이어, 좋은 핸드 브레이크 및 그립"
+
+#. Key:	CarTip_LT_03
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,CarTip_LT_03"
+msgid "高级轮胎，手刹和抓地力效果很出色"
+msgstr "프리미엄 타이어, 핸드 브레이크 및 그립이 훌륭합니다."
+
+#. Key:	CarTip_QCXLTJ_01
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,CarTip_QCXLTJ_01"
+msgid "用于修理汽车发动机"
+msgstr "자동차 엔진 수리에 사용됩니다."
+
 #. Key:	CDDX
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
@@ -11835,6 +12066,13 @@ msgstr "꾹누르기"
 msgctxt "UI,Change"
 msgid "改装"
 msgstr "개조"
+
+#. Key:	changebuildMesh
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,changebuildMesh"
+msgid "替换"
+msgstr "바꾸다"
 
 #. Key:	changwuqi
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12220,6 +12458,13 @@ msgstr "수선 도구가 부족하다."
 msgctxt "UI,FBTip02"
 msgid "裁缝技能不够"
 msgstr "재봉 기술이 부족하다"
+
+#. Key:	FDJTip_QSTJ
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,FDJTip_QSTJ"
+msgid "缺少汽车修理套件"
+msgstr "자동차 수리 키트 누락"
 
 #. Key:	FG
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -14139,6 +14384,27 @@ msgctxt "UI,CR"
 msgid "脆弱"
 msgstr "부서지기 쉬운"
 
+#. Key:	CSFH_JYFH
+#. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
+#: /Game/LocalizationText/UICharacter.UICharacter
+msgctxt "UI,CSFH_JYFH"
+msgid "简易护甲"
+msgstr "간단한 갑옷"
+
+#. Key:	CSHJ_QMFH
+#. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
+#: /Game/LocalizationText/UICharacter.UICharacter
+msgctxt "UI,CSHJ_QMFH"
+msgid "高级护甲"
+msgstr "고급 방어구"
+
+#. Key:	CSHJ_ZDFH
+#. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
+#: /Game/LocalizationText/UICharacter.UICharacter
+msgctxt "UI,CSHJ_ZDFH"
+msgid "中等护甲"
+msgstr "중간 갑옷"
+
 #. Key:	CX
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
@@ -14166,6 +14432,27 @@ msgstr "점수"
 msgctxt "UI,DZL"
 msgid "断肢"
 msgstr "절단"
+
+#. Key:	FDJ_PT
+#. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
+#: /Game/LocalizationText/UICharacter.UICharacter
+msgctxt "UI,FDJ_PT"
+msgid "发动机"
+msgstr "엔진"
+
+#. Key:	FDJ_RYGLQ
+#. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
+#: /Game/LocalizationText/UICharacter.UICharacter
+msgctxt "UI,FDJ_RYGLQ"
+msgid "燃油过滤器"
+msgstr "연료 필터"
+
+#. Key:	FDJ_ZSQ
+#. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
+#: /Game/LocalizationText/UICharacter.UICharacter
+msgctxt "UI,FDJ_ZSQ"
+msgid "增速器"
+msgstr "액셀러레이터"
 
 #. Key:	FY
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14382,7 +14669,7 @@ msgstr "기본방어력과 피해량에 영향을 줍니다."
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,LQMS"
 msgid "影响采集、拆解获得物品数量和人物移动速度"
-msgstr ""
+msgstr "수집 및 분해 시 획득하는 아이템의 개수와 캐릭터의 이동 속도에 영향을 줍니다."
 
 #. Key:	LS
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14390,6 +14677,27 @@ msgstr ""
 msgctxt "UI,LS"
 msgid "猎手"
 msgstr "사냥꾼"
+
+#. Key:	LT_PTLT
+#. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
+#: /Game/LocalizationText/UICharacter.UICharacter
+msgctxt "UI,LT_PTLT"
+msgid "普通轮胎"
+msgstr "일반 타이어"
+
+#. Key:	LT_YYLT
+#. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
+#: /Game/LocalizationText/UICharacter.UICharacter
+msgctxt "UI,LT_YYLT"
+msgid "越野轮胎"
+msgstr "오프로드 타이어"
+
+#. Key:	LT_ZJLT
+#. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
+#: /Game/LocalizationText/UICharacter.UICharacter
+msgctxt "UI,LT_ZJLT"
+msgid "装甲轮胎"
+msgstr "장갑 타이어"
 
 #. Key:	MAIKE
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14649,6 +14957,13 @@ msgstr "느린"
 msgctxt "UI,TZ_KS"
 msgid "快速"
 msgstr "빠른"
+
+#. Key:	TZ_LT
+#. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
+#: /Game/LocalizationText/UICharacter.UICharacter
+msgctxt "UI,TZ_LT"
+msgid "骆驼"
+msgstr "낙타"
 
 #. Key:	TZ_MYRH
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter

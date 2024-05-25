@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2024-04-24 10:18\n"
-"PO-Revision-Date: 2024-04-24 10:18\n"
+"POT-Creation-Date: 2024-05-25 05:03\n"
+"PO-Revision-Date: 2024-05-25 05:03\n"
 "Language-Team: \n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -1511,6 +1511,27 @@ msgctxt ",E856DFBD4AF5AFF9EADA9490BC71041B"
 msgid "18"
 msgstr "18"
 
+#. Key:	85A4F9F449852268CE75F49289DCC846
+#. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_NewCarInventory02.WBP_NewCarInventory02_C:Update [Script Bytecode]
+#: /Game/Blueprint/UMG/Furniture/WBP_NewCarInventory02.WBP_NewCarInventory02_C:Update [Script Bytecode]
+msgctxt ",85A4F9F449852268CE75F49289DCC846"
+msgid "燃料："
+msgstr "carburant:"
+
+#. Key:	BFBB66B5442A5C72DD1DFCBABC586CB7
+#. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_NewCarInventory02.WBP_NewCarInventory02_C:WidgetTree.Repir_2.ToolTipText
+#: /Game/Blueprint/UMG/Furniture/WBP_NewCarInventory02.WBP_NewCarInventory02_C:WidgetTree.Repir_2.ToolTipText
+msgctxt ",BFBB66B5442A5C72DD1DFCBABC586CB7"
+msgid "重置位置"
+msgstr "position de réinitialisation"
+
+#. Key:	C602FCB44E648C02BDDBF081D1AE78C1
+#. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_NewCarInventory02.WBP_NewCarInventory02_C:WidgetTree.TextRY.Text
+#: /Game/Blueprint/UMG/Furniture/WBP_NewCarInventory02.WBP_NewCarInventory02_C:WidgetTree.TextRY.Text
+msgctxt ",C602FCB44E648C02BDDBF081D1AE78C1"
+msgid "燃料：10/50L"
+msgstr "Carburant : 10/50L"
+
 #. Key:	7086737C4A1B737FFF1DC498B7DD48CC
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_NPCAssign.WBP_NPCAssign_C:WidgetTree.Image_177.ToolTipText
 #: /Game/Blueprint/UMG/Furniture/WBP_NPCAssign.WBP_NPCAssign_C:WidgetTree.Image_177.ToolTipText
@@ -2271,6 +2292,13 @@ msgstr "Trop humide"
 #. SourceLocation:	/Game/Blueprint/UMG/Inventory/WBP_AddRYButton.WBP_AddRYButton_C:OnDrop [Script Bytecode]
 #: /Game/Blueprint/UMG/Inventory/WBP_AddRYButton.WBP_AddRYButton_C:OnDrop [Script Bytecode]
 msgctxt ",F698474D4774B3EAED811995AC987E07"
+msgid "此物品无法装备在这"
+msgstr "Cet objet ne peut pas être équipé ici"
+
+#. Key:	67D84995480CCD83807A0DA7238D60B5
+#. SourceLocation:	/Game/Blueprint/UMG/Inventory/WBP_CarUseButton.WBP_CarUseButton_C:OnDrop [Script Bytecode]
+#: /Game/Blueprint/UMG/Inventory/WBP_CarUseButton.WBP_CarUseButton_C:OnDrop [Script Bytecode]
+msgctxt ",67D84995480CCD83807A0DA7238D60B5"
 msgid "此物品无法装备在这"
 msgstr "Cet objet ne peut pas être équipé ici"
 
@@ -3113,6 +3141,41 @@ msgstr "km/h"
 msgctxt ",BB154E9F4CD911E0A5B38BA239AA67F0"
 msgid "燃油"
 msgstr "Essence"
+
+#. Key:	B54CE8AB4FB8B7C66ACA64A1683050C0
+#. SourceLocation:	/Game/Blueprint/UMG/ScreenMessage/WBP_CarMessage1.WBP_CarMessage1_C:Update Show [Script Bytecode]
+#: /Game/Blueprint/UMG/ScreenMessage/WBP_CarMessage1.WBP_CarMessage1_C:Update Show [Script Bytecode]
+msgctxt ",B54CE8AB4FB8B7C66ACA64A1683050C0"
+msgid "N"
+msgstr "N"
+
+#. Key:	B873799B495043C4013E0392393B3E68
+#. SourceLocation:	/Game/Blueprint/UMG/ScreenMessage/WBP_CarMessage1.WBP_CarMessage1_C:Update Show [Script Bytecode]
+#: /Game/Blueprint/UMG/ScreenMessage/WBP_CarMessage1.WBP_CarMessage1_C:Update Show [Script Bytecode]
+msgctxt ",B873799B495043C4013E0392393B3E68"
+msgid "R"
+msgstr "R."
+
+#. Key:	BEEF18C84298E2C2A78C99B2311BD83D
+#. SourceLocation:	/Game/Blueprint/UMG/ScreenMessage/WBP_CarMessage1.WBP_CarMessage1_C:WidgetTree.Gear.Text
+#: /Game/Blueprint/UMG/ScreenMessage/WBP_CarMessage1.WBP_CarMessage1_C:WidgetTree.Gear.Text
+msgctxt ",BEEF18C84298E2C2A78C99B2311BD83D"
+msgid "1"
+msgstr "1"
+
+#. Key:	AFD952BB466984D8ABE2E9A50CA6B4B5
+#. SourceLocation:	/Game/Blueprint/UMG/ScreenMessage/WBP_CarMessage1.WBP_CarMessage1_C:WidgetTree.SpeedLabel_1.Text
+#: /Game/Blueprint/UMG/ScreenMessage/WBP_CarMessage1.WBP_CarMessage1_C:WidgetTree.SpeedLabel_1.Text
+msgctxt ",AFD952BB466984D8ABE2E9A50CA6B4B5"
+msgid "99"
+msgstr "99"
+
+#. Key:	EDCE26034549C7B0019A51A20BF5390E
+#. SourceLocation:	/Game/Blueprint/UMG/ScreenMessage/WBP_CarMessage1.WBP_CarMessage1_C:WidgetTree.UnitLabel_1.Text
+#: /Game/Blueprint/UMG/ScreenMessage/WBP_CarMessage1.WBP_CarMessage1_C:WidgetTree.UnitLabel_1.Text
+msgctxt ",EDCE26034549C7B0019A51A20BF5390E"
+msgid "Km/h"
+msgstr "Km/h"
 
 #. Key:	2191E6F14098A0C04EFC4FA4B26ECAE8
 #. SourceLocation:	/Game/Blueprint/UMG/ScreenMessage/WBP_GunMessage.WBP_GunMessage_C:ExecuteUbergraph_WBP_GunMessage [Script Bytecode]
@@ -4073,6 +4136,13 @@ msgctxt ",6637FA9A490D558CD9C89DAD12BCB992"
 msgid "Tex"
 msgstr "Tex"
 
+#. Key:	9D4BFA0A43886366F83B349E20416660
+#. SourceLocation:	/Game/Blueprint/Vehicles/Base/BP_VehicleBase.BP_VehicleBase_C:ExecuteUbergraph_BP_VehicleBase [Script Bytecode]
+#: /Game/Blueprint/Vehicles/Base/BP_VehicleBase.BP_VehicleBase_C:ExecuteUbergraph_BP_VehicleBase [Script Bytecode]
+msgctxt ",9D4BFA0A43886366F83B349E20416660"
+msgid "缺少电源"
+msgstr "manque de puissance"
+
 #. Key:	DA76A68842D939CD40D943A24231BEB6
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/BuildMeshBase.Default__BuildMeshBase_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 #: /Game/HDCKBuildingSystem/Blueprints/Base/BuildMeshBase.Default__BuildMeshBase_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
@@ -4170,6 +4240,27 @@ msgstr "Fondation ou plancher"
 msgctxt ",437C1B55408A255EEF2D3398F073B7E3"
 msgid "家具"
 msgstr "Meubles"
+
+#. Key:	183EFA0841D6642E43833ABE143BEE91
+#. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildMode.E_BuildMode.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/HDCKBuildingSystem/Blueprints/E_BuildMode.E_BuildMode.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",183EFA0841D6642E43833ABE143BEE91"
+msgid "Destroy"
+msgstr "Détruire"
+
+#. Key:	7F7ADDD64EE44CDD61D6CABA8426EDB2
+#. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildMode.E_BuildMode.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/HDCKBuildingSystem/Blueprints/E_BuildMode.E_BuildMode.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",7F7ADDD64EE44CDD61D6CABA8426EDB2"
+msgid "Change"
+msgstr "Changement"
+
+#. Key:	3AB8B9F942250C691556DC95CF6C88FD
+#. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildMode.E_BuildMode.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/HDCKBuildingSystem/Blueprints/E_BuildMode.E_BuildMode.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",3AB8B9F942250C691556DC95CF6C88FD"
+msgid "Fix"
+msgstr "Réparer"
 
 #. Key:	E9A10E33421DF89FF3203C8259441E89
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(0 - Value).DisplayNameMap
@@ -4367,17 +4458,17 @@ msgctxt ",F9AEB4DA4E4995AF5C0807AE1EEF8C90"
 msgid "transaction"
 msgstr "Transaction"
 
-#. Key:	A535C1E74F3A1B927C3043B774F7F939
+#. Key:	C8C6C47145E2929509332DA0C373BD50
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Foundation_SN.Default__Foundation_SN_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 #: /Game/HDCKBuildingSystem/MeshBP/Foundation_SN.Default__Foundation_SN_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-msgctxt ",A535C1E74F3A1B927C3043B774F7F939"
+msgctxt ",C8C6C47145E2929509332DA0C373BD50"
 msgid "水泥制作的地基，看起来很结实，可以承受相当多的重量。"
 msgstr "La fondation en ciment semble très solide et peut supporter un poids considérable."
 
-#. Key:	BC89A6AB4FEB8A750DE282B08F25104C
+#. Key:	51B36585484D58A9C7550487B942051D
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_DP_XDD.Default__Furniture_DP_XDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_DP_XDD.Default__Furniture_DP_XDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
-msgctxt ",BC89A6AB4FEB8A750DE282B08F25104C"
+msgctxt ",51B36585484D58A9C7550487B942051D"
 msgid "地板"
 msgstr "sol"
 
@@ -4402,10 +4493,10 @@ msgctxt ",ABE10B784F6D55A4DA2F40A4FBEC2520"
 msgid "用于保管物品的箱子，不会丢失物品。"
 msgstr "Une boîte pour ranger les objets sans les perdre."
 
-#. Key:	E30DED4441284C3A17E26F8AA33473DC
+#. Key:	A01631F5494A67CDEA56DC8A740AE2CD
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_DPLDD.Default__Furniture_DPLDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_DPLDD.Default__Furniture_DPLDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
-msgctxt ",E30DED4441284C3A17E26F8AA33473DC"
+msgctxt ",A01631F5494A67CDEA56DC8A740AE2CD"
 msgid "地板"
 msgstr "sol"
 
@@ -4451,10 +4542,10 @@ msgctxt ",BC879B3F4ECE110B894771976EFF65F1"
 msgid "家具"
 msgstr "Meubles"
 
-#. Key:	E8331EDC407563AB1D6608BD7F3C8D41
+#. Key:	28C9BC424B1A718657F86AB4ADB52C2F
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_TYNFD.Default__Furniture_TYNFD_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_TYNFD.Default__Furniture_TYNFD_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-msgctxt ",E8331EDC407563AB1D6608BD7F3C8D41"
+msgctxt ",28C9BC424B1A718657F86AB4ADB52C2F"
 msgid "受遮挡或在没有太阳的天气无法发电"
 msgstr "Impossible de produire de l'électricité à cause de l'ombre ou par temps sans soleil"
 
@@ -4500,24 +4591,24 @@ msgctxt ",F3F8E148409A7CD56F64519CED4DC8A7"
 msgid "水不够！"
 msgstr "Pas assez d'eau !"
 
-#. Key:	7BC1482A464284EBDB996AB0C86A5B7E
+#. Key:	B71798C540947845D5465B8661F76F35
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/OutStairs_Base_Wood.Default__OutStairs_Base_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 #: /Game/HDCKBuildingSystem/MeshBP/OutStairs_Base_Wood.Default__OutStairs_Base_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-msgctxt ",7BC1482A464284EBDB996AB0C86A5B7E"
+msgctxt ",B71798C540947845D5465B8661F76F35"
 msgid "建房必备"
 msgstr "Nécessaire pour construire une maison"
 
-#. Key:	13C3C4774229EED59BF336A6D7AA0A05
+#. Key:	98F8D5D646F2457CCD4CE8973F7C6BB0
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_BL.Default__Roof_20_intersection_BL_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 #: /Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_BL.Default__Roof_20_intersection_BL_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-msgctxt ",13C3C4774229EED59BF336A6D7AA0A05"
+msgctxt ",98F8D5D646F2457CCD4CE8973F7C6BB0"
 msgid "用于连接外转角屋顶。"
 msgstr "Pour relier les toits d'angle extérieurs."
 
-#. Key:	39C6AEE04AEE20B8AEC8E593D3B6E21E
+#. Key:	C58CCE384069F1CAF5534CAEA7FF1642
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_Wood.Default__Roof_20_intersection_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 #: /Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_Wood.Default__Roof_20_intersection_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-msgctxt ",39C6AEE04AEE20B8AEC8E593D3B6E21E"
+msgctxt ",C58CCE384069F1CAF5534CAEA7FF1642"
 msgid "用于连接外转角屋顶。"
 msgstr "Pour relier les toits d'angle extérieurs."
 
@@ -5738,6 +5829,13 @@ msgstr "Poutre en béton (3 éléments)"
 msgctxt "BuildInfo,SNLTHW"
 msgid "水泥楼梯(户外)"
 msgstr "Rampe en béton"
+
+#. Key:	SNPD
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,SNPD"
+msgid "水泥坡道(户外)"
+msgstr "Rampe en ciment (extérieure)"
 
 #. Key:	TD
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -9519,6 +9617,69 @@ msgctxt "ItemInfo,TD"
 msgid "唐刀"
 msgstr "Tang Dao"
 
+#. Key:	TZ_FDJ_01
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,TZ_FDJ_01"
+msgid "发动机图纸"
+msgstr "Dessins du moteur"
+
+#. Key:	TZ_FDJ_02
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,TZ_FDJ_02"
+msgid "增速器图纸"
+msgstr "Dessin augmentant la vitesse"
+
+#. Key:	TZ_FDJ_03
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,TZ_FDJ_03"
+msgid "燃油过滤器图纸"
+msgstr "dessins de filtre à carburant"
+
+#. Key:	TZ_HJ_01
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,TZ_HJ_01"
+msgid "简易护甲图纸"
+msgstr "Plans d'armure simples"
+
+#. Key:	TZ_HJ_02
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,TZ_HJ_02"
+msgid "中等护甲图纸"
+msgstr "Plan d'armure moyenne"
+
+#. Key:	TZ_HJ_03
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,TZ_HJ_03"
+msgid "高级护甲图纸"
+msgstr "Plans d'armure avancés"
+
+#. Key:	TZ_LT_01
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,TZ_LT_01"
+msgid "普通轮胎图纸"
+msgstr "Dessins de pneus ordinaires"
+
+#. Key:	TZ_LT_02
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,TZ_LT_02"
+msgid "越野轮胎图纸"
+msgstr "Dessins de pneus tout-terrain"
+
+#. Key:	TZ_LT_03
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,TZ_LT_03"
+msgid "装甲轮胎图纸"
+msgstr "Dessins de pneus blindés"
+
 #. Key:	W1
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
@@ -11808,6 +11969,76 @@ msgctxt "UI,CARLINGHT"
 msgid "车灯"
 msgstr "Phares"
 
+#. Key:	CarTip_FDJ_01
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,CarTip_FDJ_01"
+msgid "常规发动机。动力一般，油耗一般"
+msgstr "Moteur conventionnel. Puissance moyenne, consommation moyenne de carburant"
+
+#. Key:	CarTip_FDJ_02
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,CarTip_FDJ_02"
+msgid "速度最快，油耗最高"
+msgstr "Vitesse la plus rapide, consommation de carburant la plus élevée"
+
+#. Key:	CarTip_FDJ_03
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,CarTip_FDJ_03"
+msgid "速度较快，油耗最低"
+msgstr "Vitesse plus rapide et consommation de carburant la plus faible"
+
+#. Key:	CarTip_HJ_01
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,CarTip_HJ_01"
+msgid "初级车辆护甲，防御效果一般"
+msgstr "Blindage principal du véhicule, effet de défense moyen"
+
+#. Key:	CarTip_HJ_02
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,CarTip_HJ_02"
+msgid "中级车辆护甲，防御效果显著"
+msgstr "Blindage de véhicule intermédiaire avec un effet défensif significatif"
+
+#. Key:	CarTip_HJ_03
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,CarTip_HJ_03"
+msgid "高级车辆护甲，防御效果最佳"
+msgstr "Blindage de véhicule avancé avec le meilleur effet de défense"
+
+#. Key:	CarTip_LT_01
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,CarTip_LT_01"
+msgid "初级轮胎，手刹和抓地力偏差"
+msgstr "Pneus junior, frein à main et biais d'adhérence"
+
+#. Key:	CarTip_LT_02
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,CarTip_LT_02"
+msgid "中级轮胎，手刹和抓地力效果不错"
+msgstr "Pneus intermédiaires, bon frein à main et adhérence"
+
+#. Key:	CarTip_LT_03
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,CarTip_LT_03"
+msgid "高级轮胎，手刹和抓地力效果很出色"
+msgstr "Les pneus haut de gamme, le frein à main et l'adhérence sont excellents"
+
+#. Key:	CarTip_QCXLTJ_01
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,CarTip_QCXLTJ_01"
+msgid "用于修理汽车发动机"
+msgstr "Utilisé pour réparer les moteurs de voiture"
+
 #. Key:	CDDX
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
@@ -11835,6 +12066,13 @@ msgstr "Presser"
 msgctxt "UI,Change"
 msgid "改装"
 msgstr "Accessoires"
+
+#. Key:	changebuildMesh
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,changebuildMesh"
+msgid "替换"
+msgstr "remplacer"
 
 #. Key:	changwuqi
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12220,6 +12458,13 @@ msgstr "Outil de réparation manquant"
 msgctxt "UI,FBTip02"
 msgid "裁缝技能不够"
 msgstr "Pas assez de compétences en couture"
+
+#. Key:	FDJTip_QSTJ
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,FDJTip_QSTJ"
+msgid "缺少汽车修理套件"
+msgstr "Kit de réparation de voiture manquant"
 
 #. Key:	FG
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -14139,6 +14384,27 @@ msgctxt "UI,CR"
 msgid "脆弱"
 msgstr "Fragile"
 
+#. Key:	CSFH_JYFH
+#. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
+#: /Game/LocalizationText/UICharacter.UICharacter
+msgctxt "UI,CSFH_JYFH"
+msgid "简易护甲"
+msgstr "Armure simple"
+
+#. Key:	CSHJ_QMFH
+#. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
+#: /Game/LocalizationText/UICharacter.UICharacter
+msgctxt "UI,CSHJ_QMFH"
+msgid "高级护甲"
+msgstr "Armure avancée"
+
+#. Key:	CSHJ_ZDFH
+#. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
+#: /Game/LocalizationText/UICharacter.UICharacter
+msgctxt "UI,CSHJ_ZDFH"
+msgid "中等护甲"
+msgstr "armure moyenne"
+
 #. Key:	CX
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
@@ -14166,6 +14432,27 @@ msgstr "Score"
 msgctxt "UI,DZL"
 msgid "断肢"
 msgstr "Mutilation"
+
+#. Key:	FDJ_PT
+#. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
+#: /Game/LocalizationText/UICharacter.UICharacter
+msgctxt "UI,FDJ_PT"
+msgid "发动机"
+msgstr "moteur"
+
+#. Key:	FDJ_RYGLQ
+#. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
+#: /Game/LocalizationText/UICharacter.UICharacter
+msgctxt "UI,FDJ_RYGLQ"
+msgid "燃油过滤器"
+msgstr "filtre à carburant"
+
+#. Key:	FDJ_ZSQ
+#. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
+#: /Game/LocalizationText/UICharacter.UICharacter
+msgctxt "UI,FDJ_ZSQ"
+msgid "增速器"
+msgstr "accélérateur"
 
 #. Key:	FY
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14382,7 +14669,7 @@ msgstr "Affecte la défense de base et les dégâts"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,LQMS"
 msgid "影响采集、拆解获得物品数量和人物移动速度"
-msgstr ""
+msgstr "Affecte le nombre d'objets obtenus lors de la collecte et du démantèlement et la vitesse de déplacement des personnages"
 
 #. Key:	LS
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14390,6 +14677,27 @@ msgstr ""
 msgctxt "UI,LS"
 msgid "猎手"
 msgstr "Chasseur"
+
+#. Key:	LT_PTLT
+#. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
+#: /Game/LocalizationText/UICharacter.UICharacter
+msgctxt "UI,LT_PTLT"
+msgid "普通轮胎"
+msgstr "Pneus ordinaires"
+
+#. Key:	LT_YYLT
+#. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
+#: /Game/LocalizationText/UICharacter.UICharacter
+msgctxt "UI,LT_YYLT"
+msgid "越野轮胎"
+msgstr "Pneus tout-terrain"
+
+#. Key:	LT_ZJLT
+#. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
+#: /Game/LocalizationText/UICharacter.UICharacter
+msgctxt "UI,LT_ZJLT"
+msgid "装甲轮胎"
+msgstr "pneus blindés"
 
 #. Key:	MAIKE
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14649,6 +14957,13 @@ msgstr "lent"
 msgctxt "UI,TZ_KS"
 msgid "快速"
 msgstr "rapide"
+
+#. Key:	TZ_LT
+#. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
+#: /Game/LocalizationText/UICharacter.UICharacter
+msgctxt "UI,TZ_LT"
+msgid "骆驼"
+msgstr "chameau"
 
 #. Key:	TZ_MYRH
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
