@@ -1516,14 +1516,14 @@ msgstr "18"
 #: /Game/Blueprint/UMG/Furniture/WBP_NewCarInventory02.WBP_NewCarInventory02_C:Update [Script Bytecode]
 msgctxt ",85A4F9F449852268CE75F49289DCC846"
 msgid "燃料："
-msgstr "combustible:"
+msgstr "Combustible: "
 
 #. Key:	BFBB66B5442A5C72DD1DFCBABC586CB7
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_NewCarInventory02.WBP_NewCarInventory02_C:WidgetTree.Repir_2.ToolTipText
 #: /Game/Blueprint/UMG/Furniture/WBP_NewCarInventory02.WBP_NewCarInventory02_C:WidgetTree.Repir_2.ToolTipText
 msgctxt ",BFBB66B5442A5C72DD1DFCBABC586CB7"
 msgid "重置位置"
-msgstr "posición de reinicio"
+msgstr "Posición de reinicio"
 
 #. Key:	C602FCB44E648C02BDDBF081D1AE78C1
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_NewCarInventory02.WBP_NewCarInventory02_C:WidgetTree.TextRY.Text
@@ -3147,7 +3147,7 @@ msgstr "Gasolina"
 #: /Game/Blueprint/UMG/ScreenMessage/WBP_CarMessage1.WBP_CarMessage1_C:Update Show [Script Bytecode]
 msgctxt ",B54CE8AB4FB8B7C66ACA64A1683050C0"
 msgid "N"
-msgstr "norte"
+msgstr "Norte"
 
 #. Key:	B873799B495043C4013E0392393B3E68
 #. SourceLocation:	/Game/Blueprint/UMG/ScreenMessage/WBP_CarMessage1.WBP_CarMessage1_C:Update Show [Script Bytecode]
@@ -3175,7 +3175,7 @@ msgstr "99"
 #: /Game/Blueprint/UMG/ScreenMessage/WBP_CarMessage1.WBP_CarMessage1_C:WidgetTree.UnitLabel_1.Text
 msgctxt ",EDCE26034549C7B0019A51A20BF5390E"
 msgid "Km/h"
-msgstr "kilómetros por hora"
+msgstr "Kilómetros por hora"
 
 #. Key:	2191E6F14098A0C04EFC4FA4B26ECAE8
 #. SourceLocation:	/Game/Blueprint/UMG/ScreenMessage/WBP_GunMessage.WBP_GunMessage_C:ExecuteUbergraph_WBP_GunMessage [Script Bytecode]
@@ -4141,7 +4141,7 @@ msgstr "Texto"
 #: /Game/Blueprint/Vehicles/Base/BP_VehicleBase.BP_VehicleBase_C:ExecuteUbergraph_BP_VehicleBase [Script Bytecode]
 msgctxt ",9D4BFA0A43886366F83B349E20416660"
 msgid "缺少电源"
-msgstr "falta de poder"
+msgstr "Poder Insuficiente"
 
 #. Key:	DA76A68842D939CD40D943A24231BEB6
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/BuildMeshBase.Default__BuildMeshBase_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
@@ -4470,7 +4470,7 @@ msgstr "La base de cemento parece muy resistente y puede soportar un peso consid
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_DP_XDD.Default__Furniture_DP_XDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",51B36585484D58A9C7550487B942051D"
 msgid "地板"
-msgstr "piso"
+msgstr "Piso"
 
 #. Key:	3581A89C43D3A186CF54818DC0E637FF
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_DPBase.Default__Furniture_DPBase_C.BuildInfo.TipAdsorbent_45_0277CC26494BF1319349189E27EC6190
@@ -4498,7 +4498,7 @@ msgstr "Una caja para guardar objetos sin perderlos."
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_DPLDD.Default__Furniture_DPLDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",A01631F5494A67CDEA56DC8A740AE2CD"
 msgid "地板"
-msgstr "piso"
+msgstr "Piso"
 
 #. Key:	7CCCED78433FBE0BEEEFD09131C4426E
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_KG.Furniture_KG_C:ShowUI [Script Bytecode]
@@ -4547,7 +4547,7 @@ msgstr "Mobiliario"
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_TYNFD.Default__Furniture_TYNFD_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 msgctxt ",28C9BC424B1A718657F86AB4ADB52C2F"
 msgid "受遮挡或在没有太阳的天气无法发电"
-msgstr "No se puede generar electricidad debido a la sombra o en un clima sin sol."
+msgstr "No se puede generar electricidad a la sombra o en un día sin sol."
 
 #. Key:	B902044F444A770F5D16FEBFFB185A39
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_YSSJQ.Furniture_YSSJQ_C:ExecuteUbergraph_Furniture_YSSJQ [Script Bytecode]
@@ -4603,7 +4603,7 @@ msgstr "Necesario para construir una casa."
 #: /Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_BL.Default__Roof_20_intersection_BL_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 msgctxt ",98F8D5D646F2457CCD4CE8973F7C6BB0"
 msgid "用于连接外转角屋顶。"
-msgstr "Para unir tejados esquineros exteriores."
+msgstr "Para unir esquinas de tejado exteriores."
 
 #. Key:	C58CCE384069F1CAF5534CAEA7FF1642
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_Wood.Default__Roof_20_intersection_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
@@ -5835,7 +5835,7 @@ msgstr "Escaleras de Cemento (Exterior)"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,SNPD"
 msgid "水泥坡道(户外)"
-msgstr "Rampa de cemento (exterior)"
+msgstr "Rampa de cemento (Exterior)"
 
 #. Key:	TD
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -9622,63 +9622,63 @@ msgstr "Tang Dao"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,TZ_FDJ_01"
 msgid "发动机图纸"
-msgstr "Dibujos del motor"
+msgstr "Plano: Motor"
 
 #. Key:	TZ_FDJ_02
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,TZ_FDJ_02"
 msgid "增速器图纸"
-msgstr "Dibujo que aumenta la velocidad"
+msgstr "Plano: Aumento Velocidad"
 
 #. Key:	TZ_FDJ_03
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,TZ_FDJ_03"
 msgid "燃油过滤器图纸"
-msgstr "dibujos del filtro de combustible"
+msgstr "Plano: Filtro Combustible"
 
 #. Key:	TZ_HJ_01
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,TZ_HJ_01"
 msgid "简易护甲图纸"
-msgstr "Planos de armadura simples"
+msgstr "Plano: Armadura Simple"
 
 #. Key:	TZ_HJ_02
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,TZ_HJ_02"
 msgid "中等护甲图纸"
-msgstr "Plano de armadura media"
+msgstr "Plano; Armadura Media"
 
 #. Key:	TZ_HJ_03
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,TZ_HJ_03"
 msgid "高级护甲图纸"
-msgstr "Planos de armadura avanzados"
+msgstr "Plano: Armadura Avanzada"
 
 #. Key:	TZ_LT_01
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,TZ_LT_01"
 msgid "普通轮胎图纸"
-msgstr "Dibujos de neumáticos ordinarios."
+msgstr "Plano: Neumáticos."
 
 #. Key:	TZ_LT_02
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,TZ_LT_02"
 msgid "越野轮胎图纸"
-msgstr "Dibujos de neumáticos todoterreno."
+msgstr "Plano: Neumáticos Intermedios."
 
 #. Key:	TZ_LT_03
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,TZ_LT_03"
 msgid "装甲轮胎图纸"
-msgstr "Dibujos de neumáticos blindados."
+msgstr "Plano: Neumáticos Premium."
 
 #. Key:	W1
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -11974,70 +11974,70 @@ msgstr "Faros"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,CarTip_FDJ_01"
 msgid "常规发动机。动力一般，油耗一般"
-msgstr "Motor convencional. Potencia media, consumo medio de combustible."
+msgstr "Motor convencional. Potencia media, consumo medio."
 
 #. Key:	CarTip_FDJ_02
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,CarTip_FDJ_02"
 msgid "速度最快，油耗最高"
-msgstr "Velocidad más rápida, mayor consumo de combustible"
+msgstr "Alta Velocidad, Mayor consumo"
 
 #. Key:	CarTip_FDJ_03
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,CarTip_FDJ_03"
 msgid "速度较快，油耗最低"
-msgstr "Mayor velocidad y menor consumo de combustible"
+msgstr "Alta velocidad y menor consumo."
 
 #. Key:	CarTip_HJ_01
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,CarTip_HJ_01"
 msgid "初级车辆护甲，防御效果一般"
-msgstr "Blindaje primario del vehículo, efecto de defensa medio."
+msgstr "Blindaje primario, defensa ligera."
 
 #. Key:	CarTip_HJ_02
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,CarTip_HJ_02"
 msgid "中级车辆护甲，防御效果显著"
-msgstr "Blindaje de vehículo intermedio con importante efecto defensivo."
+msgstr "Blindaje intermedio, defensa avanzada."
 
 #. Key:	CarTip_HJ_03
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,CarTip_HJ_03"
 msgid "高级车辆护甲，防御效果最佳"
-msgstr "Armadura de vehículo avanzada con el mejor efecto de defensa."
+msgstr "Blindaje avanzado. Defensa elite."
 
 #. Key:	CarTip_LT_01
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,CarTip_LT_01"
 msgid "初级轮胎，手刹和抓地力偏差"
-msgstr "Neumáticos junior, freno de mano y agarre"
+msgstr "Neumáticos normales, agarre y frenada normal"
 
 #. Key:	CarTip_LT_02
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,CarTip_LT_02"
 msgid "中级轮胎，手刹和抓地力效果不错"
-msgstr "Neumáticos intermedios, buen freno de mano y agarre."
+msgstr "Neumáticos intermedios, agarre y frenada decente"
 
 #. Key:	CarTip_LT_03
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,CarTip_LT_03"
 msgid "高级轮胎，手刹和抓地力效果很出色"
-msgstr "Los neumáticos premium, el freno de mano y el agarre son excelentes."
+msgstr "Neumáticos premium, agarre y frenada excelente"
 
 #. Key:	CarTip_QCXLTJ_01
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,CarTip_QCXLTJ_01"
 msgid "用于修理汽车发动机"
-msgstr "Se utiliza para reparar motores de automóviles."
+msgstr "Se utiliza para reparar motores."
 
 #. Key:	CDDX
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12072,7 +12072,7 @@ msgstr "Mods"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,changebuildMesh"
 msgid "替换"
-msgstr "reemplazar"
+msgstr "Reemplazar"
 
 #. Key:	changwuqi
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12464,7 +12464,7 @@ msgstr "Habilidad de Sastreria insuficiente"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,FDJTip_QSTJ"
 msgid "缺少汽车修理套件"
-msgstr "Falta el kit de reparación del coche"
+msgstr "Falta el kit de reparación"
 
 #. Key:	FG
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -14389,21 +14389,21 @@ msgstr "Frágil"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,CSFH_JYFH"
 msgid "简易护甲"
-msgstr "armadura sencilla"
+msgstr "armadura Simple"
 
 #. Key:	CSHJ_QMFH
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,CSHJ_QMFH"
 msgid "高级护甲"
-msgstr "Armadura avanzada"
+msgstr "Armadura Avanzada"
 
 #. Key:	CSHJ_ZDFH
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,CSHJ_ZDFH"
 msgid "中等护甲"
-msgstr "armadura media"
+msgstr "armadura Media"
 
 #. Key:	CX
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14438,21 +14438,21 @@ msgstr "Posibilidad de Mutilación"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,FDJ_PT"
 msgid "发动机"
-msgstr "motor"
+msgstr "Motor"
 
 #. Key:	FDJ_RYGLQ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,FDJ_RYGLQ"
 msgid "燃油过滤器"
-msgstr "filtro de combustible"
+msgstr "Filtro de combustible"
 
 #. Key:	FDJ_ZSQ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,FDJ_ZSQ"
 msgid "增速器"
-msgstr "acelerador"
+msgstr "Acelerador"
 
 #. Key:	FY
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14683,21 +14683,21 @@ msgstr "Cazador"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,LT_PTLT"
 msgid "普通轮胎"
-msgstr "neumáticos ordinarios"
+msgstr "neumáticos."
 
 #. Key:	LT_YYLT
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,LT_YYLT"
 msgid "越野轮胎"
-msgstr "neumáticos todoterreno"
+msgstr "neumáticos Intermedios"
 
 #. Key:	LT_ZJLT
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,LT_ZJLT"
 msgid "装甲轮胎"
-msgstr "neumáticos blindados"
+msgstr "neumáticos Premium"
 
 #. Key:	MAIKE
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14963,7 +14963,7 @@ msgstr "Rápido"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZ_LT"
 msgid "骆驼"
-msgstr "camello"
+msgstr "Camello"
 
 #. Key:	TZ_MYRH
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
