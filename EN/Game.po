@@ -5394,7 +5394,7 @@ msgstr "Stick Rack"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B85"
 msgid "石头框"
-msgstr "Stone Rack"
+msgstr "Stone Basket"
 
 #. Key:	B86
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -11386,7 +11386,7 @@ msgstr "A locked cabinet or door can be opened with a crowbar."
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,12"
 msgid "用小锤可以拆除某些物品获取材料。"
-msgstr "Some items can be dismantled to obtain materials with a small hammer."
+msgstr "Some items can be dismantled to obtain materials with a small Knife."
 
 #. Key:	13
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -11645,7 +11645,7 @@ msgstr "Bleeding Probability"
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,XRTip"
 msgid "伤害"
-msgstr "Harm"
+msgstr "Damage"
 
 #. Key:	YDZA
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -14781,7 +14781,7 @@ msgstr "Fatigue Recovery"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,PRDS"
 msgid "烹饪大师"
-msgstr "Cooking Master"
+msgstr "Chef"
 
 #. Key:	protein
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14844,14 +14844,14 @@ msgstr "Speed"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,SJSC"
 msgid "书籍收藏"
-msgstr "Book Collection"
+msgstr "Book Collector"
 
 #. Key:	SQRY
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,SQRY"
 msgid "身轻如燕"
-msgstr "Light as a swallow"
+msgstr "Agile"
 
 #. Key:	SSHA
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14949,21 +14949,21 @@ msgstr "Probability of infection"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZ_HM"
 msgid "缓慢"
-msgstr "slow"
+msgstr "Slow"
 
 #. Key:	TZ_KS
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZ_KS"
 msgid "快速"
-msgstr "fast"
+msgstr "Fast"
 
 #. Key:	TZ_LT
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZ_LT"
 msgid "骆驼"
-msgstr "camel"
+msgstr "Sturdy"
 
 #. Key:	TZ_MYRH
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14998,7 +14998,7 @@ msgstr "Weakness"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZ_YL"
 msgid "有力"
-msgstr "powerful"
+msgstr "Powerful"
 
 #. Key:	TZBDF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -15369,7 +15369,7 @@ msgstr "Survivalist"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,ZDK"
 msgid "战斗狂"
-msgstr "Battle Maniac"
+msgstr "Marksman"
 
 #. Key:	ZLWZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -15390,7 +15390,7 @@ msgstr "Focused"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,ZY_BH"
 msgid "病患"
-msgstr "Patients"
+msgstr "Patient"
 
 #. Key:	ZY_BH_Desscribute
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -15404,7 +15404,7 @@ msgstr "Stamina -15% Stamina consumption +10% \nCarrying weight -13 Speed -10% I
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,ZY_FW"
 msgid "废物"
-msgstr "waste"
+msgstr "Beggar"
 
 #. Key:	ZY_FW_Describute
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -15418,7 +15418,7 @@ msgstr "Stamina -30% Speed -10 Search Speed -30% Max Health -20% \nMelee Damage 
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,ZY_LS"
 msgid "力士"
-msgstr "Sumo wrestlers"
+msgstr "Sumo Wrestler"
 
 #. Key:	ZY_LS_Describute
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -15432,7 +15432,7 @@ msgstr "Initial physique and strength level +1 Melee damage +4 Protein and carbo
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,ZY_NF"
 msgid "农夫"
-msgstr "farmer"
+msgstr "Farmer"
 
 #. Key:	ZY_NF_Describute
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -15453,7 +15453,7 @@ msgstr "Not selected"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,ZY_XS"
 msgid "学生"
-msgstr "student"
+msgstr "Student"
 
 #. Key:	ZY_XS_Describute
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -15467,7 +15467,7 @@ msgstr "Have a starting backpack, get five random books\nDefense -5 Melee damage
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,ZZBS"
 msgid "拙嘴笨舌"
-msgstr "Taciturn"
+msgstr "Ill Mannered"
 
 #. Key:	DQ
 #. SourceLocation:	/Game/LocalizationText/UIStudy.UIStudy
