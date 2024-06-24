@@ -1670,7 +1670,7 @@ msgstr "Harvest Time"
 #: /Game/Blueprint/UMG/Furniture/WBP_SPX.WBP_SPX_C:WidgetTree.TextBlock.Text
 msgctxt ",26CB1E6648D1B9871E000B8167164F09"
 msgid "灌溉"
-msgstr "Irrigation"
+msgstr "Irrigate"
 
 #. Key:	ECAB878844DB5540EF7B15AB40273797
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_SPX.WBP_SPX_C:WidgetTree.TextBlock_115.Text
@@ -3917,7 +3917,7 @@ msgstr "Steel Hammer"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_89.In Text
 msgctxt ",D9DDCEFB423648DEE630F5AAAFEE978B"
 msgid "钢棍"
-msgstr "Steel Mace"
+msgstr "Steel Sledgehammer"
 
 #. Key:	B8B69A364203615D8A5018B102D4B9C1
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_9.In Text
@@ -8467,7 +8467,7 @@ msgstr "Blueprint: Explosive Arrow"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M104"
 msgid "气味诱饵图纸"
-msgstr "Blueprint: Scent Bait"
+msgstr "Blueprint: Scent Decoy"
 
 #. Key:	M105
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9209,7 +9209,7 @@ msgstr "Car Repair Kit"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M99"
 msgid "诱饵箭头图纸"
-msgstr "Blueprint: Fish Bait"
+msgstr "Blueprint: Scent Decoy Arrow"
 
 #. Key:	MEHAIXIANNONGTANG
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9881,7 +9881,7 @@ msgstr "Steel Hammer"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W35"
 msgid "大型钢锤"
-msgstr "Steel Mace"
+msgstr "Steel Sledgehammer"
 
 #. Key:	W36
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -10042,7 +10042,7 @@ msgstr "12 Gauge Ammo"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W56"
 msgid "诱饵箭头"
-msgstr "Fish Bait"
+msgstr "Scent Decoy Arrow"
 
 #. Key:	W57
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -10084,7 +10084,7 @@ msgstr "Explosive Arrow"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W61"
 msgid "气味诱饵"
-msgstr "Scent Bait"
+msgstr "Scent Decoy"
 
 #. Key:	W7
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -10161,7 +10161,7 @@ msgstr "Night Vision Device"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,yuer"
 msgid "鱼饵"
-msgstr "Bait"
+msgstr "Scent Decoy Arrow"
 
 #. Key:	YUROUMIANBAO
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -11323,14 +11323,14 @@ msgstr "Hitting destructible objects with a blunt weapon does more damage."
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,03"
 msgid "快跑会快速消耗碳水化合物，蛋白质，口渴度。"
-msgstr "Sprinting burns carbohydrates, protein, and make you thirsty."
+msgstr "Sprinting burns carbohydrates and protein which makes you thirsty."
 
 #. Key:	04
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,04"
 msgid "体力过低会影响伤害。"
-msgstr "Low stamina will affect damage."
+msgstr "Low Stamina will affect damage."
 
 #. Key:	05
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -11400,7 +11400,7 @@ msgstr "Stuck? Use the Unstuck Character function in the Escape Menu."
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,14"
 msgid "人物前方近处有物体的话，可能会导致枪械无法瞄准。"
-msgstr "If there is an object near the front of the character, it may cause the firearm failing to aim."
+msgstr "If there is an object near the front of the character, it may cause the firearm to not aim."
 
 #. Key:	15
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -14368,7 +14368,7 @@ msgstr "Carbohydrate"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,CF"
 msgid "裁缝"
-msgstr "Tailor"
+msgstr "Tailoring"
 
 #. Key:	CGJJRZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14466,7 +14466,7 @@ msgstr "Defense"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,FZ"
 msgid "负重"
-msgstr "Weight Bearer"
+msgstr "Carry Weight"
 
 #. Key:	FZX
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14487,7 +14487,7 @@ msgstr "Engineer"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,GCSDescribute"
 msgid "初始拥有 1 级工程等级\r\n建筑物生命值 +30%"
-msgstr "Engineering +1\nBuilding Resistance +30%"
+msgstr "Engineering +1\n Building Experience +30%"
 
 #. Key:	GeneralTX
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14522,7 +14522,7 @@ msgstr "Health"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,HL"
 msgid "慌乱"
-msgstr "Panic"
+msgstr "Unprepared"
 
 #. Key:	HLSY
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14823,7 +14823,7 @@ msgstr "Reduce the recoil of the firearm and affect the hand shaking during accu
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,QZ"
 msgid "强壮"
-msgstr "Very Strong"
+msgstr "Body Builder"
 
 #. Key:	RSZY
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14970,7 +14970,7 @@ msgstr "Sturdy"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZ_MYRH"
 msgid "免疫弱化"
-msgstr "Weakened immunity"
+msgstr "Weakened Immunity"
 
 #. Key:	TZ_MYZQ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -15285,7 +15285,7 @@ msgstr "Fragile Skin"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,XR"
 msgid "虚弱"
-msgstr "Unhealthy"
+msgstr "Weakling"
 
 #. Key:	YDY
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -15397,7 +15397,7 @@ msgstr "Patient"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,ZY_BH_Desscribute"
 msgid "耐力 -15%  耐力消耗 +10%\r\n负重 -13  速度 -10%  感染概率 +20%"
-msgstr "Stamina -15% Stamina consumption +10% \nCarrying weight -13 Speed -10% Infection probability +20%"
+msgstr "Stamina -15% Stamina consumption +10% \nCarrying Weight -13 Speed -10% Infection probability +20%"
 
 #. Key:	ZY_FW
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
