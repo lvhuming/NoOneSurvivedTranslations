@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2024-05-25 05:03\n"
-"PO-Revision-Date: 2024-05-25 05:03\n"
+"POT-Creation-Date: 2024-06-26 01:33\n"
+"PO-Revision-Date: 2024-06-26 01:33\n"
 "Language-Team: \n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
@@ -2098,6 +2098,13 @@ msgstr "Zvětšení úderů"
 msgctxt ",257D695A47DEEA3FFC5862BD1084FDE4"
 msgid "增加疟疾"
 msgstr "Zvýšená malárie"
+
+#. Key:	1CFD73E945A37190BCF0739A47F75DE0
+#. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_46.Text
+#: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_46.Text
+msgctxt ",1CFD73E945A37190BCF0739A47F75DE0"
+msgid "Bike"
+msgstr "Kolo"
 
 #. Key:	97BC675945FB3BDDE453978AB70A74C7
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_47.Text
@@ -5949,6 +5956,13 @@ msgctxt ",door1"
 msgid "门洞"
 msgstr "Zárubeň"
 
+#. Key:	Door_BL_01
+#. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
+#: /Game/LocalizationText/BuildingInfo.BuildingInfo
+msgctxt ",Door_BL_01"
+msgid "玻璃门"
+msgstr "Skleněné dveře"
+
 #. Key:	DoorHole
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -6585,6 +6599,13 @@ msgstr "Vánoční strom"
 msgctxt ",SHITANG"
 msgid "食堂"
 msgstr "Jídelna"
+
+#. Key:	SJDT
+#. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
+#: /Game/LocalizationText/BuildingInfo.BuildingInfo
+msgctxt ",SJDT"
+msgid "升降电梯"
+msgstr "Výtah"
 
 #. Key:	Stairs
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -7223,6 +7244,13 @@ msgctxt "ItemInfo,ArrmorMTC"
 msgid "摩托车头盔"
 msgstr "Motorkářská helma"
 
+#. Key:	DINGWEIQI
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,DINGWEIQI"
+msgid "定位器"
+msgstr "Lokátor"
+
 #. Key:	DJ
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
@@ -7250,6 +7278,13 @@ msgstr "Turistické boty"
 msgctxt "ItemInfo,DTDC"
 msgid "方头大锤"
 msgstr "Bourací kladivo"
+
+#. Key:	DWQ_Describe
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,DWQ_Describe"
+msgid "显示死亡坐标，该物品为一次性消耗品"
+msgstr "Zobrazuje souřadnice smrti Tato položka je jednorázový spotřební materiál."
 
 #. Key:	F1
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9617,6 +9652,20 @@ msgctxt "ItemInfo,TD"
 msgid "唐刀"
 msgstr "Tang Dao"
 
+#. Key:	Tool_YOUQITONG
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tool_YOUQITONG"
+msgid "油漆"
+msgstr "malovat"
+
+#. Key:	Tool_YQT_Descripotion
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tool_YQT_Descripotion"
+msgid "可用于染色"
+msgstr "Lze použít k barvení"
+
 #. Key:	TZ_FDJ_01
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
@@ -11570,6 +11619,20 @@ msgctxt "TipMessage,KKTip"
 msgid "口渴速度"
 msgstr "Rychlost žízně"
 
+#. Key:	LoadTip_01
+#. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
+#: /Game/LocalizationText/TipMessage.TipMessage
+msgctxt "TipMessage,LoadTip_01"
+msgid "请不要耗尽发动机耐久度，否则车辆会发生爆炸！"
+msgstr "Nenechte si ujít životnost motoru, jinak vaše vozidlo exploduje!"
+
+#. Key:	LoadTip_02
+#. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
+#: /Game/LocalizationText/TipMessage.TipMessage
+msgctxt "TipMessage,LoadTip_02"
+msgid "背包中右键发动机可以消耗汽车修理工具修复即将损坏的发动机。"
+msgstr "Kliknutí pravým tlačítkem na motor v batohu může spotřebovat nástroje pro opravu auta na opravu motoru, který se má poškodit."
+
 #. Key:	LSTip
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
 #: /Game/LocalizationText/TipMessage.TipMessage
@@ -11653,6 +11716,13 @@ msgstr "Poškození"
 msgctxt "TipMessage,YDZA"
 msgid "阅读获取经验值"
 msgstr "Získávání zkušeností četbou"
+
+#. Key:	YQT_Tip_01
+#. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
+#: /Game/LocalizationText/TipMessage.TipMessage
+msgctxt "TipMessage,YQT_Tip_01"
+msgid "缺少油漆！"
+msgstr "Nedostatek barvy!"
 
 #. Key:	YYJGTip
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -11968,6 +12038,34 @@ msgstr "Ruční brzda"
 msgctxt "UI,CARLINGHT"
 msgid "车灯"
 msgstr "Světla"
+
+#. Key:	CarMend_UI_01
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,CarMend_UI_01"
+msgid "改装"
+msgstr "Modifikace"
+
+#. Key:	CarMend_UI_02
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,CarMend_UI_02"
+msgid "改色"
+msgstr "Změnit barvu"
+
+#. Key:	CarMend_UI_03
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,CarMend_UI_03"
+msgid "色彩还原"
+msgstr "reprodukci barev"
+
+#. Key:	CarMend_UI_04
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,CarMend_UI_04"
+msgid "保存改色"
+msgstr "Uložit změnu barvy"
 
 #. Key:	CarTip_FDJ_01
 #. SourceLocation:	/Game/LocalizationText/UI.UI

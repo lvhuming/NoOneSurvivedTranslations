@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2024-05-25 05:03\n"
-"PO-Revision-Date: 2024-05-25 05:03\n"
+"POT-Creation-Date: 2024-06-26 01:33\n"
+"PO-Revision-Date: 2024-06-26 01:33\n"
 "Language-Team: \n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -2098,6 +2098,13 @@ msgstr "넉다운 증가"
 msgctxt ",257D695A47DEEA3FFC5862BD1084FDE4"
 msgid "增加疟疾"
 msgstr "말라리아 증가"
+
+#. Key:	1CFD73E945A37190BCF0739A47F75DE0
+#. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_46.Text
+#: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_46.Text
+msgctxt ",1CFD73E945A37190BCF0739A47F75DE0"
+msgid "Bike"
+msgstr "자전거"
 
 #. Key:	97BC675945FB3BDDE453978AB70A74C7
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_47.Text
@@ -5949,6 +5956,13 @@ msgctxt ",door1"
 msgid "门洞"
 msgstr "출입구"
 
+#. Key:	Door_BL_01
+#. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
+#: /Game/LocalizationText/BuildingInfo.BuildingInfo
+msgctxt ",Door_BL_01"
+msgid "玻璃门"
+msgstr "유리문"
+
 #. Key:	DoorHole
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -6585,6 +6599,13 @@ msgstr "크리스마스 트리"
 msgctxt ",SHITANG"
 msgid "食堂"
 msgstr "반합"
+
+#. Key:	SJDT
+#. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
+#: /Game/LocalizationText/BuildingInfo.BuildingInfo
+msgctxt ",SJDT"
+msgid "升降电梯"
+msgstr "승강기"
 
 #. Key:	Stairs
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -7223,6 +7244,13 @@ msgctxt "ItemInfo,ArrmorMTC"
 msgid "摩托车头盔"
 msgstr "오토바이 헬멧"
 
+#. Key:	DINGWEIQI
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,DINGWEIQI"
+msgid "定位器"
+msgstr "광구 경계 설정자"
+
 #. Key:	DJ
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
@@ -7250,6 +7278,13 @@ msgstr "하이킹 신발"
 msgctxt "ItemInfo,DTDC"
 msgid "方头大锤"
 msgstr "사각 망치"
+
+#. Key:	DWQ_Describe
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,DWQ_Describe"
+msgid "显示死亡坐标，该物品为一次性消耗品"
+msgstr "사망 좌표를 표시합니다. 이 아이템은 일회용 소모품입니다."
 
 #. Key:	F1
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9617,6 +9652,20 @@ msgctxt "ItemInfo,TD"
 msgid "唐刀"
 msgstr "탕다오"
 
+#. Key:	Tool_YOUQITONG
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tool_YOUQITONG"
+msgid "油漆"
+msgstr "페인트"
+
+#. Key:	Tool_YQT_Descripotion
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tool_YQT_Descripotion"
+msgid "可用于染色"
+msgstr "염색에 사용 가능"
+
 #. Key:	TZ_FDJ_01
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
@@ -11570,6 +11619,20 @@ msgctxt "TipMessage,KKTip"
 msgid "口渴速度"
 msgstr "갈증 속도"
 
+#. Key:	LoadTip_01
+#. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
+#: /Game/LocalizationText/TipMessage.TipMessage
+msgctxt "TipMessage,LoadTip_01"
+msgid "请不要耗尽发动机耐久度，否则车辆会发生爆炸！"
+msgstr "엔진 내구성이 떨어지지 않도록 하십시오. 그렇지 않으면 차량이 폭발할 것입니다!"
+
+#. Key:	LoadTip_02
+#. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
+#: /Game/LocalizationText/TipMessage.TipMessage
+msgctxt "TipMessage,LoadTip_02"
+msgid "背包中右键发动机可以消耗汽车修理工具修复即将损坏的发动机。"
+msgstr "배낭에 있는 엔진을 마우스 오른쪽 버튼으로 클릭하면 자동차 수리 도구가 소모되어 손상될 엔진을 수리할 수 있습니다."
+
 #. Key:	LSTip
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
 #: /Game/LocalizationText/TipMessage.TipMessage
@@ -11653,6 +11716,13 @@ msgstr "피해"
 msgctxt "TipMessage,YDZA"
 msgid "阅读获取经验值"
 msgstr "경험치를 얻으려면 읽어보세요."
+
+#. Key:	YQT_Tip_01
+#. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
+#: /Game/LocalizationText/TipMessage.TipMessage
+msgctxt "TipMessage,YQT_Tip_01"
+msgid "缺少油漆！"
+msgstr "페인트가 부족해요!"
 
 #. Key:	YYJGTip
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -11968,6 +12038,34 @@ msgstr "차량 핸드 브레이크"
 msgctxt "UI,CARLINGHT"
 msgid "车灯"
 msgstr "헤드라이트"
+
+#. Key:	CarMend_UI_01
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,CarMend_UI_01"
+msgid "改装"
+msgstr "가감"
+
+#. Key:	CarMend_UI_02
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,CarMend_UI_02"
+msgid "改色"
+msgstr "색상 변경"
+
+#. Key:	CarMend_UI_03
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,CarMend_UI_03"
+msgid "色彩还原"
+msgstr "색 재현"
+
+#. Key:	CarMend_UI_04
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,CarMend_UI_04"
+msgid "保存改色"
+msgstr "색상 변경 저장"
 
 #. Key:	CarTip_FDJ_01
 #. SourceLocation:	/Game/LocalizationText/UI.UI
