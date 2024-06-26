@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2024-05-25 05:03\n"
-"PO-Revision-Date: 2024-05-25 05:03\n"
+"POT-Creation-Date: 2024-06-26 01:33\n"
+"PO-Revision-Date: 2024-06-26 01:33\n"
 "Language-Team: \n"
 "Language: en-001\n"
 "MIME-Version: 1.0\n"
@@ -1670,7 +1670,7 @@ msgstr "Harvest Time"
 #: /Game/Blueprint/UMG/Furniture/WBP_SPX.WBP_SPX_C:WidgetTree.TextBlock.Text
 msgctxt ",26CB1E6648D1B9871E000B8167164F09"
 msgid "灌溉"
-msgstr "Irrigation"
+msgstr "Irrigate"
 
 #. Key:	ECAB878844DB5540EF7B15AB40273797
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_SPX.WBP_SPX_C:WidgetTree.TextBlock_115.Text
@@ -2098,6 +2098,13 @@ msgstr "Knockdown Increase"
 msgctxt ",257D695A47DEEA3FFC5862BD1084FDE4"
 msgid "增加疟疾"
 msgstr "Food Poisoning +"
+
+#. Key:	1CFD73E945A37190BCF0739A47F75DE0
+#. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_46.Text
+#: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_46.Text
+msgctxt ",1CFD73E945A37190BCF0739A47F75DE0"
+msgid "Bike"
+msgstr "Bike"
 
 #. Key:	97BC675945FB3BDDE453978AB70A74C7
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_47.Text
@@ -3917,7 +3924,7 @@ msgstr "Steel Hammer"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_89.In Text
 msgctxt ",D9DDCEFB423648DEE630F5AAAFEE978B"
 msgid "钢棍"
-msgstr "Steel Mace"
+msgstr "Steel Sledgehammer"
 
 #. Key:	B8B69A364203615D8A5018B102D4B9C1
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_9.In Text
@@ -5394,7 +5401,7 @@ msgstr "Stick Rack"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B85"
 msgid "石头框"
-msgstr "Stone Rack"
+msgstr "Stone Basket"
 
 #. Key:	B86
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -5948,6 +5955,13 @@ msgstr "Electric Gillnet"
 msgctxt ",door1"
 msgid "门洞"
 msgstr "Doorway"
+
+#. Key:	Door_BL_01
+#. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
+#: /Game/LocalizationText/BuildingInfo.BuildingInfo
+msgctxt ",Door_BL_01"
+msgid "玻璃门"
+msgstr "Glass door"
 
 #. Key:	DoorHole
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -6586,6 +6600,13 @@ msgctxt ",SHITANG"
 msgid "食堂"
 msgstr "Canteen"
 
+#. Key:	SJDT
+#. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
+#: /Game/LocalizationText/BuildingInfo.BuildingInfo
+msgctxt ",SJDT"
+msgid "升降电梯"
+msgstr "Elevator"
+
 #. Key:	Stairs
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -7223,6 +7244,13 @@ msgctxt "ItemInfo,ArrmorMTC"
 msgid "摩托车头盔"
 msgstr "Motorcycle Helmet"
 
+#. Key:	DINGWEIQI
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,DINGWEIQI"
+msgid "定位器"
+msgstr "Locator"
+
 #. Key:	DJ
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
@@ -7249,7 +7277,14 @@ msgstr "Hiking Shoes"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,DTDC"
 msgid "方头大锤"
-msgstr "Square Sleedgehammer"
+msgstr "Square Sledgehammer"
+
+#. Key:	DWQ_Describe
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,DWQ_Describe"
+msgid "显示死亡坐标，该物品为一次性消耗品"
+msgstr "Displays the coordinates of death. This item is a one-time consumable"
 
 #. Key:	F1
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8467,7 +8502,7 @@ msgstr "Blueprint: Explosive Arrow"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M104"
 msgid "气味诱饵图纸"
-msgstr "Blueprint: Scent Bait"
+msgstr "Blueprint: Scent Decoy"
 
 #. Key:	M105
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9209,7 +9244,7 @@ msgstr "Car Repair Kit"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M99"
 msgid "诱饵箭头图纸"
-msgstr "Blueprint: Fish Bait"
+msgstr "Blueprint: Scent Decoy Arrow"
 
 #. Key:	MEHAIXIANNONGTANG
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9617,6 +9652,20 @@ msgctxt "ItemInfo,TD"
 msgid "唐刀"
 msgstr "Tang Dao"
 
+#. Key:	Tool_YOUQITONG
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tool_YOUQITONG"
+msgid "油漆"
+msgstr "paint"
+
+#. Key:	Tool_YQT_Descripotion
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tool_YQT_Descripotion"
+msgid "可用于染色"
+msgstr "Can be used for dyeing"
+
 #. Key:	TZ_FDJ_01
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
@@ -9664,21 +9713,21 @@ msgstr "Advanced Armor Blueprint"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,TZ_LT_01"
 msgid "普通轮胎图纸"
-msgstr "Ordinary tire drawings"
+msgstr "Ordinary Tyre Drawings"
 
 #. Key:	TZ_LT_02
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,TZ_LT_02"
 msgid "越野轮胎图纸"
-msgstr "Off-road tire drawings"
+msgstr "Off-Road Tyre Drawings"
 
 #. Key:	TZ_LT_03
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,TZ_LT_03"
 msgid "装甲轮胎图纸"
-msgstr "Armored tire blueprint"
+msgstr "Armoured Tyre Drawings"
 
 #. Key:	W1
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9881,21 +9930,21 @@ msgstr "Steel Hammer"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W35"
 msgid "大型钢锤"
-msgstr "Steel Mace"
+msgstr "Steel Sledgehammer"
 
 #. Key:	W36
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W36"
 msgid "钢砍刀"
-msgstr "Steel Machete"
+msgstr "Kukri"
 
 #. Key:	W37
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W37"
 msgid "钢双手刀"
-msgstr "Kukri"
+msgstr "Steel Machete"
 
 #. Key:	W38
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -10042,7 +10091,7 @@ msgstr "12 Gauge Ammo"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W56"
 msgid "诱饵箭头"
-msgstr "Fish Bait"
+msgstr "Scent Decoy Arrow"
 
 #. Key:	W57
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -10084,7 +10133,7 @@ msgstr "Explosive Arrow"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W61"
 msgid "气味诱饵"
-msgstr "Scent Bait"
+msgstr "Scent Decoy"
 
 #. Key:	W7
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -10161,7 +10210,7 @@ msgstr "Night Vision Device"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,yuer"
 msgid "鱼饵"
-msgstr "Bait"
+msgstr "Fish Bait"
 
 #. Key:	YUROUMIANBAO
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -11008,7 +11057,7 @@ msgstr "Zombies Strength"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,SSSL"
 msgid "丧尸数量"
-msgstr "Zombies Respawn"
+msgstr "Zombies Spawn"
 
 #. Key:	Start
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11323,14 +11372,14 @@ msgstr "Hitting destructible objects with a blunt weapon does more damage."
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,03"
 msgid "快跑会快速消耗碳水化合物，蛋白质，口渴度。"
-msgstr "Sprinting burns carbohydrates, protein, and make you thirsty."
+msgstr "Sprinting burns carbohydrates and protein which makes you thirsty."
 
 #. Key:	04
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,04"
 msgid "体力过低会影响伤害。"
-msgstr "Low stamina will affect damage."
+msgstr "Low Stamina will affect damage."
 
 #. Key:	05
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -11386,7 +11435,7 @@ msgstr "A locked cabinet or door can be opened with a crowbar."
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,12"
 msgid "用小锤可以拆除某些物品获取材料。"
-msgstr "Some items can be dismantled to obtain materials with a small hammer."
+msgstr "Some items can be dismantled to obtain materials with a small Knife."
 
 #. Key:	13
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -11400,7 +11449,7 @@ msgstr "Stuck? Use the Unstuck Character function in the Escape Menu."
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,14"
 msgid "人物前方近处有物体的话，可能会导致枪械无法瞄准。"
-msgstr "If there is an object near the front of the character, it may cause the firearm failing to aim."
+msgstr "If there is an object near the front of the character, it may cause the firearm to not aim."
 
 #. Key:	15
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -11570,6 +11619,20 @@ msgctxt "TipMessage,KKTip"
 msgid "口渴速度"
 msgstr "Thirst Rate"
 
+#. Key:	LoadTip_01
+#. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
+#: /Game/LocalizationText/TipMessage.TipMessage
+msgctxt "TipMessage,LoadTip_01"
+msgid "请不要耗尽发动机耐久度，否则车辆会发生爆炸！"
+msgstr "Please don't use up the engine durability, otherwise the vehicle will explode!"
+
+#. Key:	LoadTip_02
+#. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
+#: /Game/LocalizationText/TipMessage.TipMessage
+msgctxt "TipMessage,LoadTip_02"
+msgid "背包中右键发动机可以消耗汽车修理工具修复即将损坏的发动机。"
+msgstr "Right-clicking the engine in the backpack can consume car repair tools to repair the engine that is about to be damaged."
+
 #. Key:	LSTip
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
 #: /Game/LocalizationText/TipMessage.TipMessage
@@ -11645,7 +11708,7 @@ msgstr "Bleeding Probability"
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,XRTip"
 msgid "伤害"
-msgstr "Harm"
+msgstr "Damage"
 
 #. Key:	YDZA
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -11653,6 +11716,13 @@ msgstr "Harm"
 msgctxt "TipMessage,YDZA"
 msgid "阅读获取经验值"
 msgstr "Read to get experience"
+
+#. Key:	YQT_Tip_01
+#. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
+#: /Game/LocalizationText/TipMessage.TipMessage
+msgctxt "TipMessage,YQT_Tip_01"
+msgid "缺少油漆！"
+msgstr "Missing paint!"
 
 #. Key:	YYJGTip
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -11969,6 +12039,34 @@ msgctxt "UI,CARLINGHT"
 msgid "车灯"
 msgstr "Headlights"
 
+#. Key:	CarMend_UI_01
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,CarMend_UI_01"
+msgid "改装"
+msgstr "Modification"
+
+#. Key:	CarMend_UI_02
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,CarMend_UI_02"
+msgid "改色"
+msgstr "Color Change"
+
+#. Key:	CarMend_UI_03
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,CarMend_UI_03"
+msgid "色彩还原"
+msgstr "Color reproduction"
+
+#. Key:	CarMend_UI_04
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,CarMend_UI_04"
+msgid "保存改色"
+msgstr "Save color change"
+
 #. Key:	CarTip_FDJ_01
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
@@ -12016,21 +12114,21 @@ msgstr "Advanced vehicle armor, best defense effect"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,CarTip_LT_01"
 msgid "初级轮胎，手刹和抓地力偏差"
-msgstr "Primary tires, handbrakes and grip deviations"
+msgstr "Primary tyres, handbrakes and grip deviations"
 
 #. Key:	CarTip_LT_02
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,CarTip_LT_02"
 msgid "中级轮胎，手刹和抓地力效果不错"
-msgstr "Intermediate tires, good handbrake and grip"
+msgstr "Intermediate tyres, good handbrake and grip"
 
 #. Key:	CarTip_LT_03
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,CarTip_LT_03"
 msgid "高级轮胎，手刹和抓地力效果很出色"
-msgstr "Premium tires, handbrakes and grip are excellent"
+msgstr "Premium tyres, handbrakes and grip are excellent"
 
 #. Key:	CarTip_QCXLTJ_01
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12940,7 +13038,7 @@ msgstr "No corresponding item"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,MYJZQX"
 msgid "无建筑权限"
-msgstr "no building permission"
+msgstr "No Building Permission!"
 
 #. Key:	MZDDX
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -14263,14 +14361,14 @@ msgstr "This is what you deserve"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,ZW01"
 msgid "影响植物发育，没有水会死亡"
-msgstr "Affects plants yield, will die without water"
+msgstr "Effects plants yield and will die without water"
 
 #. Key:	ZW02
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,ZW02"
 msgid "影响植物发育，影响成熟时间"
-msgstr "Affects plant yield and harvest time"
+msgstr "Effects plant yield and harvest time"
 
 #. Key:	ZWYSS
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -14368,7 +14466,7 @@ msgstr "Carbohydrate"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,CF"
 msgid "裁缝"
-msgstr "Tailor"
+msgstr "Tailoring"
 
 #. Key:	CGJJRZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14466,7 +14564,7 @@ msgstr "Defense"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,FZ"
 msgid "负重"
-msgstr "Weight Bearer"
+msgstr "Carry Weight"
 
 #. Key:	FZX
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14487,7 +14585,7 @@ msgstr "Engineer"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,GCSDescribute"
 msgid "初始拥有 1 级工程等级\r\n建筑物生命值 +30%"
-msgstr "Engineering +1\nBuilding Resistance +30%"
+msgstr "Engineering +1\n Building Experience +30%"
 
 #. Key:	GeneralTX
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14501,7 +14599,7 @@ msgstr "Body Type"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,GodJQ"
 msgid "技巧+"
-msgstr "Tips+"
+msgstr "Dexterity+"
 
 #. Key:	GodLL
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14522,7 +14620,7 @@ msgstr "Health"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,HL"
 msgid "慌乱"
-msgstr "Panic"
+msgstr "Unprepared"
 
 #. Key:	HLSY
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14564,7 +14662,7 @@ msgstr "Police Officer"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,JCDescribe"
 msgid "新手礼包衣物替换为警用衣物\r\n枪械磨损 -25%"
-msgstr "Starter Kit: Police Clothing\r\nGun Condition +25%"
+msgstr "Starter Kit: Police Clothing\r\nFirearm Experience +25%"
 
 #. Key:	JDL
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14662,14 +14760,14 @@ msgstr "Optimistic"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,LLMS"
 msgid "影响基础防御、伤害"
-msgstr "Affects basic defense and damage"
+msgstr "Effects basic Defense and Damage"
 
 #. Key:	LQMS
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,LQMS"
 msgid "影响采集、拆解获得物品数量和人物移动速度"
-msgstr "Affects the number of items collected and dismantled and the character's movement speed"
+msgstr "Effects the number of items collected and dismantled and also the character's movement speed"
 
 #. Key:	LS
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14683,21 +14781,21 @@ msgstr "Hunter"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,LT_PTLT"
 msgid "普通轮胎"
-msgstr "Ordinary tires"
+msgstr "Ordinary Tyres"
 
 #. Key:	LT_YYLT
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,LT_YYLT"
 msgid "越野轮胎"
-msgstr "Off-road tires"
+msgstr "Off-Road Tyres"
 
 #. Key:	LT_ZJLT
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,LT_ZJLT"
 msgid "装甲轮胎"
-msgstr "Armored tires"
+msgstr "Armoured Tyres"
 
 #. Key:	MAIKE
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14781,7 +14879,7 @@ msgstr "Fatigue Recovery"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,PRDS"
 msgid "烹饪大师"
-msgstr "Cooking Master"
+msgstr "Chef"
 
 #. Key:	protein
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14823,7 +14921,7 @@ msgstr "Reduce the recoil of the firearm and affect the hand shaking during accu
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,QZ"
 msgid "强壮"
-msgstr "Very Strong"
+msgstr "Body Builder"
 
 #. Key:	RSZY
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14844,14 +14942,14 @@ msgstr "Speed"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,SJSC"
 msgid "书籍收藏"
-msgstr "Book Collection"
+msgstr "Book Collector"
 
 #. Key:	SQRY
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,SQRY"
 msgid "身轻如燕"
-msgstr "Light as a swallow"
+msgstr "Agile"
 
 #. Key:	SSHA
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14949,28 +15047,28 @@ msgstr "Probability of infection"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZ_HM"
 msgid "缓慢"
-msgstr "slow"
+msgstr "Slow"
 
 #. Key:	TZ_KS
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZ_KS"
 msgid "快速"
-msgstr "fast"
+msgstr "Fast"
 
 #. Key:	TZ_LT
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZ_LT"
 msgid "骆驼"
-msgstr "camel"
+msgstr "Sturdy"
 
 #. Key:	TZ_MYRH
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZ_MYRH"
 msgid "免疫弱化"
-msgstr "Weakened immunity"
+msgstr "Weakened Immunity"
 
 #. Key:	TZ_MYZQ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14998,7 +15096,7 @@ msgstr "Weakness"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZ_YL"
 msgid "有力"
-msgstr "powerful"
+msgstr "Powerful"
 
 #. Key:	TZBDF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -15019,7 +15117,7 @@ msgstr "High Immunity"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZdetail"
 msgid "影响生命，耐力上限"
-msgstr "Affects life, max stamina"
+msgstr "Effects Health and maximum Stamina"
 
 #. Key:	TZFYF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -15257,14 +15355,14 @@ msgstr "Antibodies"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,WQDetail"
 msgid "影响对应武器伤害"
-msgstr "Affects the corresponding weapon damage"
+msgstr "Effects the corresponding weapon damage"
 
 #. Key:	wsDetail
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,wsDetail"
 msgid "卫生\r\n影响丧尸发现几率，影响伤口感染几率，过低影响心情回复"
-msgstr "Hygiene\r\nAffects zombie perception, wound infection and mood recovery (if too low)"
+msgstr "Hygiene\r\nEffects zombie perception, wound infection and mood recovery (if too low)"
 
 #. Key:	XJRM
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -15285,7 +15383,7 @@ msgstr "Fragile Skin"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,XR"
 msgid "虚弱"
-msgstr "Unhealthy"
+msgstr "Weakling"
 
 #. Key:	YDY
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -15369,7 +15467,7 @@ msgstr "Survivalist"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,ZDK"
 msgid "战斗狂"
-msgstr "Battle Maniac"
+msgstr "Marksman"
 
 #. Key:	ZLWZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -15390,21 +15488,21 @@ msgstr "Focused"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,ZY_BH"
 msgid "病患"
-msgstr "Patients"
+msgstr "Patient"
 
 #. Key:	ZY_BH_Desscribute
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,ZY_BH_Desscribute"
 msgid "耐力 -15%  耐力消耗 +10%\r\n负重 -13  速度 -10%  感染概率 +20%"
-msgstr "Stamina -15% Stamina consumption +10% \nCarrying weight -13 Speed -10% Infection probability +20%"
+msgstr "Stamina -15% Stamina consumption +10% \nCarrying Weight -13 Speed -10% Infection probability +20%"
 
 #. Key:	ZY_FW
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,ZY_FW"
 msgid "废物"
-msgstr "waste"
+msgstr "Beggar"
 
 #. Key:	ZY_FW_Describute
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -15418,7 +15516,7 @@ msgstr "Stamina -30% Speed -10 Search Speed -30% Max Health -20% \nMelee Damage 
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,ZY_LS"
 msgid "力士"
-msgstr "Sumo wrestlers"
+msgstr "Sumo Wrestler"
 
 #. Key:	ZY_LS_Describute
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -15432,7 +15530,7 @@ msgstr "Initial physique and strength level +1 Melee damage +4 Protein and carbo
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,ZY_NF"
 msgid "农夫"
-msgstr "farmer"
+msgstr "Farmer"
 
 #. Key:	ZY_NF_Describute
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -15453,7 +15551,7 @@ msgstr "Not selected"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,ZY_XS"
 msgid "学生"
-msgstr "student"
+msgstr "Student"
 
 #. Key:	ZY_XS_Describute
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -15467,7 +15565,7 @@ msgstr "Have a starting backpack, get five random books\nDefense -5 Melee damage
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,ZZBS"
 msgid "拙嘴笨舌"
-msgstr "Taciturn"
+msgstr "Ill Mannered"
 
 #. Key:	DQ
 #. SourceLocation:	/Game/LocalizationText/UIStudy.UIStudy
@@ -15502,14 +15600,14 @@ msgstr " Skill"
 #: /Game/LocalizationText/UIStudy.UIStudy
 msgctxt "UI,JQ"
 msgid "技巧"
-msgstr "Skill"
+msgstr "Dexterity"
 
 #. Key:	JX
 #. SourceLocation:	/Game/LocalizationText/UIStudy.UIStudy
 #: /Game/LocalizationText/UIStudy.UIStudy
 msgctxt "UI,JX"
 msgid "机械"
-msgstr "Mechanics"
+msgstr "Mechanical"
 
 #. Key:	JXX
 #. SourceLocation:	/Game/LocalizationText/UIStudy.UIStudy
