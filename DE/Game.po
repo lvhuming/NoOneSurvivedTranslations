@@ -2125,7 +2125,7 @@ msgstr "Schalte Technologien ohne Materialien frei"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_49.Text
 msgctxt ",AAA9318C4DE84825C766D68B05A1C5DC"
 msgid "Spawn Car"
-msgstr "Auto Spawn"
+msgstr "Auto"
 
 #. Key:	8C948C4F4A27919FDC5B268A65FFF9F4
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_5.Text
@@ -4470,7 +4470,7 @@ msgstr "Transaktion"
 #: /Game/HDCKBuildingSystem/MeshBP/Foundation_SN.Default__Foundation_SN_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 msgctxt ",C8C6C47145E2929509332DA0C373BD50"
 msgid "水泥制作的地基，看起来很结实，可以承受相当多的重量。"
-msgstr "Das Fundament aus Zement sieht sehr stabil aus und kann ein beträchtliches Gewicht tragen."
+msgstr "Das Fundament besteht aus Zement, der stabil aussieht und ein beträchtliches Gewicht tragen kann."
 
 #. Key:	51B36585484D58A9C7550487B942051D
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_DP_XDD.Default__Furniture_DP_XDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
@@ -4610,14 +4610,14 @@ msgstr "Notwendig für den Hausbau"
 #: /Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_BL.Default__Roof_20_intersection_BL_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 msgctxt ",98F8D5D646F2457CCD4CE8973F7C6BB0"
 msgid "用于连接外转角屋顶。"
-msgstr "Zum Anschluss von Außeneckdächern."
+msgstr "Zur Verbindung von Außeneckdächern.."
 
 #. Key:	C58CCE384069F1CAF5534CAEA7FF1642
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_Wood.Default__Roof_20_intersection_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 #: /Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_Wood.Default__Roof_20_intersection_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 msgctxt ",C58CCE384069F1CAF5534CAEA7FF1642"
 msgid "用于连接外转角屋顶。"
-msgstr "Zum Anschluss von Außeneckdächern."
+msgstr "Zur Verbindung von Außeneckdächern."
 
 #. Key:	E8EA4D5B4493329CF32982ABD630233C
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Wattle_WoodDoor.Wattle_WoodDoor_C:ShowUI [Script Bytecode]
@@ -9657,7 +9657,7 @@ msgstr "Tang Dao"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Tool_YOUQITONG"
 msgid "油漆"
-msgstr "malen"
+msgstr "Farbe"
 
 #. Key:	Tool_YQT_Descripotion
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -12066,7 +12066,6 @@ msgstr "Farbwiedergabe"
 msgctxt "UI,CarMend_UI_04"
 msgid "保存改色"
 msgstr "Farbwechsel speichern"
-
 #. Key:	CarTip_FDJ_01
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
