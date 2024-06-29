@@ -1516,14 +1516,14 @@ msgstr "18"
 #: /Game/Blueprint/UMG/Furniture/WBP_NewCarInventory02.WBP_NewCarInventory02_C:Update [Script Bytecode]
 msgctxt ",85A4F9F449852268CE75F49289DCC846"
 msgid "燃料："
-msgstr "palivo:"
+msgstr "Palivo:"
 
 #. Key:	BFBB66B5442A5C72DD1DFCBABC586CB7
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_NewCarInventory02.WBP_NewCarInventory02_C:WidgetTree.Repir_2.ToolTipText
 #: /Game/Blueprint/UMG/Furniture/WBP_NewCarInventory02.WBP_NewCarInventory02_C:WidgetTree.Repir_2.ToolTipText
 msgctxt ",BFBB66B5442A5C72DD1DFCBABC586CB7"
 msgid "重置位置"
-msgstr "resetovat polohu"
+msgstr "Resetovat polohu"
 
 #. Key:	C602FCB44E648C02BDDBF081D1AE78C1
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_NewCarInventory02.WBP_NewCarInventory02_C:WidgetTree.TextRY.Text
@@ -4148,7 +4148,7 @@ msgstr "Tex"
 #: /Game/Blueprint/Vehicles/Base/BP_VehicleBase.BP_VehicleBase_C:ExecuteUbergraph_BP_VehicleBase [Script Bytecode]
 msgctxt ",9D4BFA0A43886366F83B349E20416660"
 msgid "缺少电源"
-msgstr "nedostatek moci"
+msgstr "Nedostečné napájení"
 
 #. Key:	DA76A68842D939CD40D943A24231BEB6
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/BuildMeshBase.Default__BuildMeshBase_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
@@ -4260,7 +4260,7 @@ msgstr "Zničit"
 #: /Game/HDCKBuildingSystem/Blueprints/E_BuildMode.E_BuildMode.DisplayNameMap(1 - Value).DisplayNameMap
 msgctxt ",7F7ADDD64EE44CDD61D6CABA8426EDB2"
 msgid "Change"
-msgstr "Změna"
+msgstr "Změnit"
 
 #. Key:	3AB8B9F942250C691556DC95CF6C88FD
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildMode.E_BuildMode.DisplayNameMap(2 - Value).DisplayNameMap
@@ -4470,14 +4470,14 @@ msgstr "Obchod"
 #: /Game/HDCKBuildingSystem/MeshBP/Foundation_SN.Default__Foundation_SN_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 msgctxt ",C8C6C47145E2929509332DA0C373BD50"
 msgid "水泥制作的地基，看起来很结实，可以承受相当多的重量。"
-msgstr "Základ vyrobený z cementu vypadá velmi pevně a unese značnou váhu."
+msgstr "Základ je vyroben z cementu, který vypadá pevně a unese značnou váhu."
 
 #. Key:	51B36585484D58A9C7550487B942051D
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_DP_XDD.Default__Furniture_DP_XDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_DP_XDD.Default__Furniture_DP_XDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",51B36585484D58A9C7550487B942051D"
 msgid "地板"
-msgstr "podlaha"
+msgstr "Podlaha"
 
 #. Key:	3581A89C43D3A186CF54818DC0E637FF
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_DPBase.Default__Furniture_DPBase_C.BuildInfo.TipAdsorbent_45_0277CC26494BF1319349189E27EC6190
@@ -4505,7 +4505,7 @@ msgstr "Krabice pro ukládání předmětů bez jejich ztráty."
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_DPLDD.Default__Furniture_DPLDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",A01631F5494A67CDEA56DC8A740AE2CD"
 msgid "地板"
-msgstr "podlaha"
+msgstr "Podlaha"
 
 #. Key:	7CCCED78433FBE0BEEEFD09131C4426E
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_KG.Furniture_KG_C:ShowUI [Script Bytecode]
@@ -4554,7 +4554,7 @@ msgstr "Nábytek"
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_TYNFD.Default__Furniture_TYNFD_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 msgctxt ",28C9BC424B1A718657F86AB4ADB52C2F"
 msgid "受遮挡或在没有太阳的天气无法发电"
-msgstr "Nelze vyrábět elektřinu kvůli stínu nebo za bezslunečného počasí"
+msgstr "Nelze vyrábět elektřinu kvůli stínu nebo je zataženo"
 
 #. Key:	B902044F444A770F5D16FEBFFB185A39
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_YSSJQ.Furniture_YSSJQ_C:ExecuteUbergraph_Furniture_YSSJQ [Script Bytecode]
@@ -4610,14 +4610,14 @@ msgstr "Nezbytné pro stavbu domu"
 #: /Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_BL.Default__Roof_20_intersection_BL_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 msgctxt ",98F8D5D646F2457CCD4CE8973F7C6BB0"
 msgid "用于连接外转角屋顶。"
-msgstr "Pro napojení vnějších rohových střech."
+msgstr "Pro spojování vnějších rohových střech."
 
 #. Key:	C58CCE384069F1CAF5534CAEA7FF1642
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_Wood.Default__Roof_20_intersection_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 #: /Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_Wood.Default__Roof_20_intersection_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 msgctxt ",C58CCE384069F1CAF5534CAEA7FF1642"
 msgid "用于连接外转角屋顶。"
-msgstr "Pro napojení vnějších rohových střech."
+msgstr "Pro spojování vnějších rohových střech."
 
 #. Key:	E8EA4D5B4493329CF32982ABD630233C
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Wattle_WoodDoor.Wattle_WoodDoor_C:ShowUI [Script Bytecode]
@@ -5842,7 +5842,7 @@ msgstr "Betonové schody (venkovní)"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,SNPD"
 msgid "水泥坡道(户外)"
-msgstr "Cementová rampa (venkovní)"
+msgstr "Betonová rampa (venkovní)"
 
 #. Key:	TD
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -9657,7 +9657,7 @@ msgstr "Tang Dao"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Tool_YOUQITONG"
 msgid "油漆"
-msgstr "malovat"
+msgstr "Barva"
 
 #. Key:	Tool_YQT_Descripotion
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9671,63 +9671,63 @@ msgstr "Lze použít k barvení"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,TZ_FDJ_01"
 msgid "发动机图纸"
-msgstr "Výkresy motoru"
+msgstr "Výkres motoru"
 
 #. Key:	TZ_FDJ_02
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,TZ_FDJ_02"
 msgid "增速器图纸"
-msgstr "Kresba zvyšující rychlost"
+msgstr "Výkres plynového pedálu"
 
 #. Key:	TZ_FDJ_03
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,TZ_FDJ_03"
 msgid "燃油过滤器图纸"
-msgstr "výkresy palivového filtru"
+msgstr "Výkres palivového filtru"
 
 #. Key:	TZ_HJ_01
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,TZ_HJ_01"
 msgid "简易护甲图纸"
-msgstr "Jednoduché plány brnění"
+msgstr "Výkres jednoduchého pancéřování"
 
 #. Key:	TZ_HJ_02
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,TZ_HJ_02"
 msgid "中等护甲图纸"
-msgstr "Plán středního brnění"
+msgstr "Výkres středního panceřování"
 
 #. Key:	TZ_HJ_03
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,TZ_HJ_03"
 msgid "高级护甲图纸"
-msgstr "Pokročilé plány brnění"
+msgstr "Výkres pokročilého pancéřování"
 
 #. Key:	TZ_LT_01
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,TZ_LT_01"
 msgid "普通轮胎图纸"
-msgstr "Obyčejné výkresy pneumatik"
+msgstr "Výkres obyčejné pneumatiky"
 
 #. Key:	TZ_LT_02
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,TZ_LT_02"
 msgid "越野轮胎图纸"
-msgstr "Výkresy terénních pneumatik"
+msgstr "Výkres terénní pneumatiky"
 
 #. Key:	TZ_LT_03
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,TZ_LT_03"
 msgid "装甲轮胎图纸"
-msgstr "Výkresy obrněných pneumatik"
+msgstr "Výkres obrněné pneumatiky"
 
 #. Key:	W1
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -11624,14 +11624,14 @@ msgstr "Rychlost žízně"
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,LoadTip_01"
 msgid "请不要耗尽发动机耐久度，否则车辆会发生爆炸！"
-msgstr "Nenechte si ujít životnost motoru, jinak vaše vozidlo exploduje!"
+msgstr "Pokud životnost motoru klesne na nulu, vozidlo exploduje!"
 
 #. Key:	LoadTip_02
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,LoadTip_02"
 msgid "背包中右键发动机可以消耗汽车修理工具修复即将损坏的发动机。"
-msgstr "Kliknutí pravým tlačítkem na motor v batohu může spotřebovat nástroje pro opravu auta na opravu motoru, který se má poškodit."
+msgstr "Kliknutí pravým tlačítkem na motor v batohu, spotřebujute sadu na opravu auta k opravě poškozeného motoru."
 
 #. Key:	LSTip
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -12058,7 +12058,7 @@ msgstr "Změnit barvu"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,CarMend_UI_03"
 msgid "色彩还原"
-msgstr "reprodukci barev"
+msgstr "Zkopírovat barvu"
 
 #. Key:	CarMend_UI_04
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12072,63 +12072,63 @@ msgstr "Uložit změnu barvy"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,CarTip_FDJ_01"
 msgid "常规发动机。动力一般，油耗一般"
-msgstr "Konvenční motor. Průměrný výkon, průměrná spotřeba paliva"
+msgstr "Konvenční motor, průměrný výkon a spotřeba paliva"
 
 #. Key:	CarTip_FDJ_02
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,CarTip_FDJ_02"
 msgid "速度最快，油耗最高"
-msgstr "Nejvyšší rychlost, nejvyšší spotřeba paliva"
+msgstr "Závodní motor, nejvyšší rychlost a nejvyšší spotřeba paliva"
 
 #. Key:	CarTip_FDJ_03
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,CarTip_FDJ_03"
 msgid "速度较快，油耗最低"
-msgstr "Vyšší rychlost a nejnižší spotřeba paliva"
+msgstr "ECO motor, vyšší rychlost a nižší spotřeba paliva"
 
 #. Key:	CarTip_HJ_01
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,CarTip_HJ_01"
 msgid "初级车辆护甲，防御效果一般"
-msgstr "Primární pancíř vozidla, průměrný obranný účinek"
+msgstr "Jednoduché pancéřování vozidla, průměrný obranný účinek"
 
 #. Key:	CarTip_HJ_02
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,CarTip_HJ_02"
 msgid "中级车辆护甲，防御效果显著"
-msgstr "Střední pancíř vozidla s výrazným obranným účinkem"
+msgstr "Střední pancéřování vozidla, lepší obranný účinek"
 
 #. Key:	CarTip_HJ_03
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,CarTip_HJ_03"
 msgid "高级车辆护甲，防御效果最佳"
-msgstr "Pokročilé pancéřování vozidel s nejlepším obranným efektem"
+msgstr "Pokročilé pancéřování vozidla, nejlepší obranný účinek"
 
 #. Key:	CarTip_LT_01
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,CarTip_LT_01"
 msgid "初级轮胎，手刹和抓地力偏差"
-msgstr "Junior pneumatiky, ruční brzda a předpětí přilnavosti"
+msgstr "Obyčejné pneumatiky, slabší brzdná dráha a přilnavost"
 
 #. Key:	CarTip_LT_02
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,CarTip_LT_02"
 msgid "中级轮胎，手刹和抓地力效果不错"
-msgstr "Střední pneumatiky, dobrá ruční brzda a přilnavost"
+msgstr "Střední pneumatiky, lepší brzdná dráha a přilnavost"
 
 #. Key:	CarTip_LT_03
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,CarTip_LT_03"
 msgid "高级轮胎，手刹和抓地力效果很出色"
-msgstr "Prémiové pneumatiky, ruční brzda a přilnavost jsou skvělé"
+msgstr "Prémiové pneumatiky, vynikající brzdná dráha a přilnavost"
 
 #. Key:	CarTip_QCXLTJ_01
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12170,7 +12170,7 @@ msgstr "Vylepšení"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,changebuildMesh"
 msgid "替换"
-msgstr "nahradit"
+msgstr "Vyměnit"
 
 #. Key:	changwuqi
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -14487,21 +14487,21 @@ msgstr "Křehký"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,CSFH_JYFH"
 msgid "简易护甲"
-msgstr "Jednoduché brnění"
+msgstr "Jednoduchý pancéřování"
 
 #. Key:	CSHJ_QMFH
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,CSHJ_QMFH"
 msgid "高级护甲"
-msgstr "Pokročilé brnění"
+msgstr "Pokročilé panceřování"
 
 #. Key:	CSHJ_ZDFH
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,CSHJ_ZDFH"
 msgid "中等护甲"
-msgstr "střední brnění"
+msgstr "Střední panceřování"
 
 #. Key:	CX
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14536,21 +14536,21 @@ msgstr "Amputace končetiny"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,FDJ_PT"
 msgid "发动机"
-msgstr "motor"
+msgstr "Obyčejný motor"
 
 #. Key:	FDJ_RYGLQ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,FDJ_RYGLQ"
 msgid "燃油过滤器"
-msgstr "palivový filtr"
+msgstr "ECO motor"
 
 #. Key:	FDJ_ZSQ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,FDJ_ZSQ"
 msgid "增速器"
-msgstr "plynový pedál"
+msgstr "Závodní motor"
 
 #. Key:	FY
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14795,7 +14795,7 @@ msgstr "Terénní pneumatiky"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,LT_ZJLT"
 msgid "装甲轮胎"
-msgstr "obrněné pneumatiky"
+msgstr "Obrněné pneumatiky"
 
 #. Key:	MAIKE
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14830,7 +14830,7 @@ msgstr "Nálada"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,MS_TXSJ"
 msgid "体型加成："
-msgstr "Bonus za velikost:"
+msgstr "Bonus za postavu:"
 
 #. Key:	NGQJ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -15061,7 +15061,7 @@ msgstr "Běžec"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZ_LT"
 msgid "骆驼"
-msgstr "velbloud"
+msgstr "Velbloud"
 
 #. Key:	TZ_MYRH
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
