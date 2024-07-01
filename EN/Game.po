@@ -1837,8 +1837,8 @@ msgstr "Clothing"
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_1.Text
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_1.Text
 msgctxt ",46159C994865A551AA6AD5A39D194A56"
-msgid "枪械配件"
-msgstr "Firearms Mods"
+msgid "枪械配件/Firearms Mods"
+msgstr "WPN Mods"
 
 #. Key:	788171F949D09004E54914B48D5E5FD4
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_10.Text
@@ -1859,7 +1859,7 @@ msgstr "Cooking+"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_12.Text
 msgctxt ",07183D8644DE86CCA77C28A04ABFD006"
 msgid "武器制造+"
-msgstr "Weapon Crafting+"
+msgstr "WPN/Crafting+"
 
 #. Key:	38B8771D464AA9F6D487D9AA4DE283A3
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_13.Text
@@ -1873,7 +1873,7 @@ msgstr "Blades+"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_14.Text
 msgctxt ",C63B559A430C8967E980F183A98EDD89"
 msgid "钝器+"
-msgstr "Blunt Weapons+"
+msgstr "Blunt+"
 
 #. Key:	1CCC10BB4AD081DB620F09A1FD46FBFB
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_15.Text
@@ -2062,7 +2062,7 @@ msgstr "FPS Rate"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_39.Text
 msgctxt ",EDD6F13A40AEDE6E8CED81A715877201"
 msgid "保存"
-msgstr "Keep"
+msgstr "Save Game"
 
 #. Key:	82953B6242A3C383327AA28D77B8DB49
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_4.Text
@@ -2083,7 +2083,7 @@ msgstr "Damage Increase"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_41.Text
 msgctxt ",DEB9042443EF069BF71FC19D24BE6A33"
 msgid "断肢增加"
-msgstr "Decapitation Chance +"
+msgstr "Mutilation Rate+"
 
 #. Key:	233D5A434A78C427C610EC8FB48C8ED1
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_42.Text
@@ -2125,7 +2125,7 @@ msgstr "Unlock Skill Tree"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_49.Text
 msgctxt ",AAA9318C4DE84825C766D68B05A1C5DC"
 msgid "Spawn Car"
-msgstr "Spawn Car"
+msgstr "Car"
 
 #. Key:	8C948C4F4A27919FDC5B268A65FFF9F4
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_5.Text
@@ -2664,14 +2664,14 @@ msgstr "Zombie Wave Multiplier"
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_GameSetting.WBP_GameSetting_C:WidgetTree.ShowTex_13.Text
 msgctxt ",629AAA57465DF8D3DEBECAAC6C7D08A3"
 msgid "病毒致命率"
-msgstr "Virus Death Rate"
+msgstr "Infection Transmission Rate"
 
 #. Key:	9ADCC17141C6AAA9B282CBA73B8AF4CC
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_GameSetting.WBP_GameSetting_C:WidgetTree.SliderBD.ToolTipText
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_GameSetting.WBP_GameSetting_C:WidgetTree.SliderBD.ToolTipText
 msgctxt ",9ADCC17141C6AAA9B282CBA73B8AF4CC"
 msgid "提高病毒感染性，你需要更多抗体"
-msgstr "To increase your immunity, you need more antibodies"
+msgstr "The lower the number the less likely to be infected, a higher number is more likely"
 
 #. Key:	E0A8C10C4D611602E0E001BFDC5EA4DD
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_GameSetting.WBP_GameSetting_C:WidgetTree.TextBlock_140.Text
@@ -6605,7 +6605,7 @@ msgstr "Canteen"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",SJDT"
 msgid "升降电梯"
-msgstr "Elevator"
+msgstr "Scissor Lift"
 
 #. Key:	Stairs
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -7249,7 +7249,7 @@ msgstr "Motorcycle Helmet"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,DINGWEIQI"
 msgid "定位器"
-msgstr "Death Site Locator"
+msgstr "Grave Locator"
 
 #. Key:	DJ
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -13465,7 +13465,7 @@ msgstr "Maintenance"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,qxsq"
 msgid "取消授权"
-msgstr "Cancel Authorization"
+msgstr "Remove Authorisation"
 
 #. Key:	QYBY
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -13661,14 +13661,14 @@ msgstr "Spring"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SQ"
 msgid "授权"
-msgstr "Authorized"
+msgstr "Authorised"
 
 #. Key:	SQ01
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SQ01"
 msgid "授权"
-msgstr "Authorized"
+msgstr "Authorised"
 
 #. Key:	SR
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -13724,7 +13724,7 @@ msgstr "Hi, this one is so hard to come from the easy!"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SS08"
 msgid "不错，你已经掌握了。"
-msgstr "Yes, you've got the hang of it."
+msgstr "Yes, You've got the hang of it."
 
 #. Key:	SS09
 #. SourceLocation:	/Game/LocalizationText/UI.UI
