@@ -2146,7 +2146,7 @@ msgstr "Electrical+"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_7.Text
 msgctxt ",64D4745841D9C12BDAB22087FE6B4313"
 msgid "机械+"
-msgstr "Mechanics+"
+msgstr "Mechanical+"
 
 #. Key:	2F46E1564B04071A0A7C099CB780BDDF
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_8.Text
@@ -7249,7 +7249,7 @@ msgstr "Motorcycle Helmet"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,DINGWEIQI"
 msgid "定位器"
-msgstr "Locator"
+msgstr "Death Site Locator"
 
 #. Key:	DJ
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7284,7 +7284,7 @@ msgstr "Square Sledgehammer"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,DWQ_Describe"
 msgid "显示死亡坐标，该物品为一次性消耗品"
-msgstr "Displays the coordinates of death. This item is a one-time consumable"
+msgstr "Displays the coordinates of where you died on the map. This item is a one-time consumable"
 
 #. Key:	F1
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9657,7 +9657,7 @@ msgstr "Tang Dao"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Tool_YOUQITONG"
 msgid "油漆"
-msgstr "paint"
+msgstr "Paint"
 
 #. Key:	Tool_YQT_Descripotion
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -11624,14 +11624,14 @@ msgstr "Thirst Rate"
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,LoadTip_01"
 msgid "请不要耗尽发动机耐久度，否则车辆会发生爆炸！"
-msgstr "Please don't use up the engine durability, otherwise the vehicle will explode!"
+msgstr "Warning! Damage to the vehicle causing Engine durability loss will cause the vehicle to explode!"
 
 #. Key:	LoadTip_02
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,LoadTip_02"
 msgid "背包中右键发动机可以消耗汽车修理工具修复即将损坏的发动机。"
-msgstr "Right-clicking the engine in the backpack can consume car repair tools to repair the engine that is about to be damaged."
+msgstr "To repair a damaged Engine, Right-click the Engine in the backpack and use Car Repair Tools"
 
 #. Key:	LSTip
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -11722,14 +11722,14 @@ msgstr "Read to get experience"
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,YQT_Tip_01"
 msgid "缺少油漆！"
-msgstr "Missing paint!"
+msgstr "Missing Paint!"
 
 #. Key:	YYJGTip
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,YYJGTip"
 msgid "工程等级 +1 机械等级 +1"
-msgstr "Engineering Level +1 and Mechanics Level +1"
+msgstr "Engineering Level +1 and Mechanical Level +1"
 
 #. Key:	ZLWZ
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage

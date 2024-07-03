@@ -7249,7 +7249,7 @@ msgstr "Casco de moto"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,DINGWEIQI"
 msgid "定位器"
-msgstr "Locador"
+msgstr "Localizador"
 
 #. Key:	DJ
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9657,7 +9657,7 @@ msgstr "Tang Dao"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Tool_YOUQITONG"
 msgid "油漆"
-msgstr "pintar"
+msgstr "Teñir"
 
 #. Key:	Tool_YQT_Descripotion
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -11624,14 +11624,14 @@ msgstr "Velocidad de deshidratación"
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,LoadTip_01"
 msgid "请不要耗尽发动机耐久度，否则车辆会发生爆炸！"
-msgstr "¡No se quede sin durabilidad del motor o su vehículo explotará!"
+msgstr "¡Si te quedas sin durabilidad del motor, dejara de funcionar y puede explotar!"
 
 #. Key:	LoadTip_02
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,LoadTip_02"
 msgid "背包中右键发动机可以消耗汽车修理工具修复即将损坏的发动机。"
-msgstr "Hacer clic derecho en el motor en la mochila puede consumir herramientas de reparación de automóviles para reparar el motor que está a punto de dañarse."
+msgstr "Haciendo clic derecho en el motor de la mochila, consumirar herramientas de reparacion y repararas el motor que esta a punto de dejar de funcionar."
 
 #. Key:	LSTip
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -11722,7 +11722,7 @@ msgstr "Leelo para experiencia."
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,YQT_Tip_01"
 msgid "缺少油漆！"
-msgstr "¡Falta pintura!"
+msgstr "¡Necesitas pintura!"
 
 #. Key:	YYJGTip
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -12058,7 +12058,7 @@ msgstr "Cambiar el color"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,CarMend_UI_03"
 msgid "色彩还原"
-msgstr "reproducción del color"
+msgstr "Vista previa del color"
 
 #. Key:	CarMend_UI_04
 #. SourceLocation:	/Game/LocalizationText/UI.UI
