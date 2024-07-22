@@ -11057,7 +11057,7 @@ msgstr "Zombies Strength"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,SSSL"
 msgid "丧尸数量"
-msgstr "Zombies Spawn"
+msgstr "Zombies Spawn Number"
 
 #. Key:	Start
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11358,7 +11358,7 @@ msgstr "Master Volume"
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,01"
 msgid "当食物新鲜度开始变黄，吃下去可能会感染疟疾，新鲜度越低感染的可能性越大。"
-msgstr "When the freshness of the food begins to turn yellow, you may have Food Poisoning after eating it. The lower the freshness, the greater the possibility."
+msgstr "When the freshness of a food turns yellow or red you increase the chance to get Food Poisoning after eating it."
 
 #. Key:	02
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -11372,7 +11372,7 @@ msgstr "Hitting destructible objects with a blunt weapon does more damage."
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,03"
 msgid "快跑会快速消耗碳水化合物，蛋白质，口渴度。"
-msgstr "Sprinting burns carbohydrates and protein which makes you thirsty."
+msgstr "Sprinting burns carbohydrates and protein faster which can make you thirsty."
 
 #. Key:	04
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -11414,21 +11414,21 @@ msgstr "The better the arrow quality, the higher the recovery success rate."
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,09"
 msgid "使用动作菜单躺下或者坐下可以快速恢复耐力，较慢回复体力。"
-msgstr "Using the action menu to lie down or sit down can quickly restore Fatigue and Stamina."
+msgstr "Use the Action Menu (Default-I) to lie down or sit down to quickly restore Stamina and Fatigue."
 
 #. Key:	10
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,10"
 msgid "被攻击的话，会消耗当前穿戴物品的耐久。"
-msgstr "If attacked, it will reduce the durability of the currently worn item."
+msgstr "The durability of worn items will be lost if attacked."
 
 #. Key:	11
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,11"
 msgid "用撬棍可以打开锁上的柜子或门。"
-msgstr "A locked cabinet or door can be opened with a crowbar."
+msgstr "A locked door can sometimes be opened with a Crowbar."
 
 #. Key:	12
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -11463,7 +11463,7 @@ msgstr "Waiting for the item to be completed on the workbench can obtain relevan
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,16"
 msgid "正在倒下的树十分危险，尽量远离！"
-msgstr "Falling trees are very dangerous, try to stay away!"
+msgstr "Felled trees are very dangerousso so use caution when chopping wood!"
 
 #. Key:	17
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -11477,7 +11477,7 @@ msgstr "Find survivors on the map and barter with them in exchange for the resou
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,19"
 msgid "丢在地上的物品长时间不捡起来会消失"
-msgstr "Items thrown on the ground will disappear if they are not picked up for a long time"
+msgstr "Items left on the ground will disappear after a while if they are not picked up!"
 
 #. Key:	20
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -13598,7 +13598,7 @@ msgstr "Mouse Settings"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SCJGR"
 msgid "尸潮进攻日，无法入睡！"
-msgstr "On the day of the zombie wave attack, I can't sleep!"
+msgstr "Too near the time of the Zombie Wave attack to sleep!"
 
 #. Key:	Search
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -13913,7 +13913,7 @@ msgstr "Add to Blacklist"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,TLD"
 msgid "由矿石熔炼而成，或者是通过拆卸物品获得，可以熔炼成锭"
-msgstr "Smelted from ore, or obtained by dismantling items. Can be smelted into ingots"
+msgstr "Smelted from ore or obtained by dismantling items. Can be smelted into ingots"
 
 #. Key:	toLen
 #. SourceLocation:	/Game/LocalizationText/UI.UI
