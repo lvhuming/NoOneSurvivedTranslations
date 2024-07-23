@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2024-06-26 01:33\n"
-"PO-Revision-Date: 2024-06-26 01:33\n"
+"POT-Creation-Date: 2024-07-23 02:23\n"
+"PO-Revision-Date: 2024-07-23 02:23\n"
 "Language-Team: \n"
 "Language: en-001\n"
 "MIME-Version: 1.0\n"
@@ -1837,8 +1837,8 @@ msgstr "Clothing"
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_1.Text
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_1.Text
 msgctxt ",46159C994865A551AA6AD5A39D194A56"
-msgid "枪械配件/Firearms Mods"
-msgstr "WPN Mods"
+msgid "枪械配件"
+msgstr ""
 
 #. Key:	788171F949D09004E54914B48D5E5FD4
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_10.Text
@@ -4192,6 +4192,13 @@ msgctxt ",7E1AF86D4DF1A90B75698E8CE26CA187"
 msgid "{0}{1}"
 msgstr "{0}{1}"
 
+#. Key:	18DB16F34B2133E41134B8879250D76D
+#. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/Furniture_Elevator.Furniture_Elevator_C:ShowUI [Script Bytecode]
+#: /Game/HDCKBuildingSystem/Blueprints/Base/Furniture_Elevator.Furniture_Elevator_C:ShowUI [Script Bytecode]
+msgctxt ",18DB16F34B2133E41134B8879250D76D"
+msgid "{0}{1}"
+msgstr "{0}{1}"
+
 #. Key:	09026D324DDC6E57C1D28C93F1332CDC
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/Furniture_Inventory.Default__Furniture_Inventory_C.BuildInfo.Name_38_B9A5B2DC4FBEF03FBCA85592B802C50C
 #: /Game/HDCKBuildingSystem/Blueprints/Base/Furniture_Inventory.Default__Furniture_Inventory_C.BuildInfo.Name_38_B9A5B2DC4FBEF03FBCA85592B802C50C
@@ -4465,17 +4472,17 @@ msgctxt ",F9AEB4DA4E4995AF5C0807AE1EEF8C90"
 msgid "transaction"
 msgstr "Transaction"
 
-#. Key:	C8C6C47145E2929509332DA0C373BD50
+#. Key:	6F5F06164D66A95A577B27A19E66A2ED
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Foundation_SN.Default__Foundation_SN_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 #: /Game/HDCKBuildingSystem/MeshBP/Foundation_SN.Default__Foundation_SN_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-msgctxt ",C8C6C47145E2929509332DA0C373BD50"
+msgctxt ",6F5F06164D66A95A577B27A19E66A2ED"
 msgid "水泥制作的地基，看起来很结实，可以承受相当多的重量。"
-msgstr "The foundation, made of cement, looks very strong and can bear a considerable amount of weight."
+msgstr "The cement foundation looks very strong and can bear a lot of weight."
 
-#. Key:	51B36585484D58A9C7550487B942051D
+#. Key:	D061FF8746CD340749B506A88E67E039
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_DP_XDD.Default__Furniture_DP_XDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_DP_XDD.Default__Furniture_DP_XDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
-msgctxt ",51B36585484D58A9C7550487B942051D"
+msgctxt ",D061FF8746CD340749B506A88E67E039"
 msgid "地板"
 msgstr "floor"
 
@@ -4500,10 +4507,10 @@ msgctxt ",ABE10B784F6D55A4DA2F40A4FBEC2520"
 msgid "用于保管物品的箱子，不会丢失物品。"
 msgstr "A box for storing items avoiding lose them."
 
-#. Key:	A01631F5494A67CDEA56DC8A740AE2CD
+#. Key:	4E893AA0495C80D10D15F2AB037355E4
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_DPLDD.Default__Furniture_DPLDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_DPLDD.Default__Furniture_DPLDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
-msgctxt ",A01631F5494A67CDEA56DC8A740AE2CD"
+msgctxt ",4E893AA0495C80D10D15F2AB037355E4"
 msgid "地板"
 msgstr "floor"
 
@@ -4549,10 +4556,10 @@ msgctxt ",BC879B3F4ECE110B894771976EFF65F1"
 msgid "家具"
 msgstr "Furniture"
 
-#. Key:	28C9BC424B1A718657F86AB4ADB52C2F
+#. Key:	B5E8414F4E272D59A2B21EA0B7F3BDD7
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_TYNFD.Default__Furniture_TYNFD_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_TYNFD.Default__Furniture_TYNFD_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-msgctxt ",28C9BC424B1A718657F86AB4ADB52C2F"
+msgctxt ",B5E8414F4E272D59A2B21EA0B7F3BDD7"
 msgid "受遮挡或在没有太阳的天气无法发电"
 msgstr "Cannot generate electricity when blocked or when there is no sun"
 
@@ -4598,24 +4605,24 @@ msgctxt ",F3F8E148409A7CD56F64519CED4DC8A7"
 msgid "水不够！"
 msgstr "Not enough water!"
 
-#. Key:	B71798C540947845D5465B8661F76F35
+#. Key:	0BF69D5C45E62E6DFF3C4B8AB8DE86CD
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/OutStairs_Base_Wood.Default__OutStairs_Base_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 #: /Game/HDCKBuildingSystem/MeshBP/OutStairs_Base_Wood.Default__OutStairs_Base_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-msgctxt ",B71798C540947845D5465B8661F76F35"
+msgctxt ",0BF69D5C45E62E6DFF3C4B8AB8DE86CD"
 msgid "建房必备"
 msgstr "Necessary for building a house"
 
-#. Key:	98F8D5D646F2457CCD4CE8973F7C6BB0
+#. Key:	DC4FBDDD4A921252B066C7B27E6EAC8E
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_BL.Default__Roof_20_intersection_BL_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 #: /Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_BL.Default__Roof_20_intersection_BL_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-msgctxt ",98F8D5D646F2457CCD4CE8973F7C6BB0"
+msgctxt ",DC4FBDDD4A921252B066C7B27E6EAC8E"
 msgid "用于连接外转角屋顶。"
 msgstr "For connecting exterior corner roofs."
 
-#. Key:	C58CCE384069F1CAF5534CAEA7FF1642
+#. Key:	6DEEFB834D696C03979BA0A61A7C62F3
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_Wood.Default__Roof_20_intersection_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 #: /Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_Wood.Default__Roof_20_intersection_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-msgctxt ",C58CCE384069F1CAF5534CAEA7FF1642"
+msgctxt ",6DEEFB834D696C03979BA0A61A7C62F3"
 msgid "用于连接外转角屋顶。"
 msgstr "For connecting exterior corner roofs."
 
@@ -5711,6 +5718,13 @@ msgctxt "BuildInfo,DT02"
 msgid "大地毯"
 msgstr "Large Carpet"
 
+#. Key:	duifeitong
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,duifeitong"
+msgid "堆肥桶"
+msgstr "Compost bin"
+
 #. Key:	FLFDJ
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
 #: /Game/LocalizationText/BuildInfo.BuildInfo
@@ -5851,6 +5865,13 @@ msgctxt "BuildInfo,TD"
 msgid "台灯"
 msgstr "Desk Lamp"
 
+#. Key:	TIEXIANGZI
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,TIEXIANGZI"
+msgid "铁箱"
+msgstr "Iron Box"
+
 #. Key:	TZD
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
 #: /Game/LocalizationText/BuildInfo.BuildInfo
@@ -5941,6 +5962,13 @@ msgstr "No load-bearing structure or objects preventing construction"
 msgctxt ",CK"
 msgid "仓库"
 msgstr "Warehouse"
+
+#. Key:	dfeitongxioaguo
+#. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
+#: /Game/LocalizationText/BuildingInfo.BuildingInfo
+msgctxt ",dfeitongxioaguo"
+msgid "加快食物腐烂"
+msgstr "Accelerate food decay"
 
 #. Key:	DLCW
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -12227,6 +12255,13 @@ msgstr "Window"
 msgctxt "UI,CJIng"
 msgid "采集中..."
 msgstr "Collecting..."
+
+#. Key:	CJUITSDS
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,CJUITSDS"
+msgid "当前还有未使用的点数，确定创建人物吗？"
+msgstr "There are still unused points. Are you sure you want to create a character?"
 
 #. Key:	Clear
 #. SourceLocation:	/Game/LocalizationText/UI.UI
