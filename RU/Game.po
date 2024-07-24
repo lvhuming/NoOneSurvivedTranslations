@@ -1,17 +1,17 @@
-﻿# Game Russian translation.
+# Game Russian translation.
 # Fill out your copyright notice in the Description page of Project Settings.
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
 "POT-Creation-Date: 2024-07-23 02:23\n"
-"PO-Revision-Date: 2024-07-23 02:23\n"
-"Language-Team: \n"
+"PO-Revision-Date: 2024-07-24 13:43\n"
+"Language-Team: Russian\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
 
 #. Key:	2CD410E740F487818FE918876292782E
 #. SourceLocation:	/Game/Blueprint/ACF/Animal/Animal_Base.Default__Animal_Base_C.CharacterName
@@ -2887,8 +2887,20 @@ msgstr "Не удалось создать комнату!"
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/WBP_Main.WBP_Main_C:WidgetTree.TextBlock_0.Text
 #: /Game/Blueprint/UMG/MainUI/WBP_Main.WBP_Main_C:WidgetTree.TextBlock_0.Text
 msgctxt ",836EB7AB40D4C893FD6B23A855BE4F36"
-msgid "公告：\r\n\r\n因为游戏采用了最新的UnrealEngine5引擎，为了获得最好的游戏体验，请将显卡驱动升级到最新版本。\r\n\r\n否则你可能会看到模型显示不完整等情况。\r\n\r\n感谢！"
-msgstr "Объявление:\r\n\r\nПоскольку в игре используется новейший движок UnrealEngine5, чтобы получить наилучшие игровые возможности, обновите драйвер видеокарты до последней версии.\r\n\r\nВ противном случае вы можете увидеть неполное отображение модели и т. д.\r\n\r\nБлагодарим!"
+msgid "公告：\r\n"
+"\r\n"
+"因为游戏采用了最新的UnrealEngine5引擎，为了获得最好的游戏体验，请将显卡驱动升级到最新版本。\r\n"
+"\r\n"
+"否则你可能会看到模型显示不完整等情况。\r\n"
+"\r\n"
+"感谢！"
+msgstr "Объявление:\r\n"
+"\r\n"
+"Поскольку в игре используется новейший движок UnrealEngine5, чтобы получить наилучшие игровые возможности, обновите драйвер видеокарты до последней версии.\r\n"
+"\r\n"
+"В противном случае вы можете увидеть неполное отображение модели и т. д.\r\n"
+"\r\n"
+"Благодарим!"
 
 #. Key:	6D94E4B4492BEF00197AA29E81E62172
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/WBP_Main.WBP_Main_C:WidgetTree.WBP_StartButton_2.In Text
@@ -4477,14 +4489,14 @@ msgstr "сделка"
 #: /Game/HDCKBuildingSystem/MeshBP/Foundation_SN.Default__Foundation_SN_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 msgctxt ",6F5F06164D66A95A577B27A19E66A2ED"
 msgid "水泥制作的地基，看起来很结实，可以承受相当多的重量。"
-msgstr "Фундамент из цемента выглядит очень прочным и может выдержать значительный вес."
+msgstr "Фундамент из цемента, достаточно прочный, чтобы выдержать значительный вес."
 
 #. Key:	D061FF8746CD340749B506A88E67E039
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_DP_XDD.Default__Furniture_DP_XDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_DP_XDD.Default__Furniture_DP_XDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",D061FF8746CD340749B506A88E67E039"
 msgid "地板"
-msgstr "пол"
+msgstr "Пол"
 
 #. Key:	3581A89C43D3A186CF54818DC0E637FF
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_DPBase.Default__Furniture_DPBase_C.BuildInfo.TipAdsorbent_45_0277CC26494BF1319349189E27EC6190
@@ -4512,7 +4524,7 @@ msgstr "Ящик для хранения предметов без их поте
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_DPLDD.Default__Furniture_DPLDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",4E893AA0495C80D10D15F2AB037355E4"
 msgid "地板"
-msgstr "пол"
+msgstr "Пол"
 
 #. Key:	7CCCED78433FBE0BEEEFD09131C4426E
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_KG.Furniture_KG_C:ShowUI [Script Bytecode]
@@ -4561,7 +4573,7 @@ msgstr "мебель"
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_TYNFD.Default__Furniture_TYNFD_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 msgctxt ",B5E8414F4E272D59A2B21EA0B7F3BDD7"
 msgid "受遮挡或在没有太阳的天气无法发电"
-msgstr "Невозможно вырабатывать электроэнергию из-за тени или в пасмурную погоду."
+msgstr "Не работает! В тени, ночь или пасмурная погода!"
 
 #. Key:	B902044F444A770F5D16FEBFFB185A39
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_YSSJQ.Furniture_YSSJQ_C:ExecuteUbergraph_Furniture_YSSJQ [Script Bytecode]
@@ -4610,21 +4622,21 @@ msgstr "Недостаточно воды!"
 #: /Game/HDCKBuildingSystem/MeshBP/OutStairs_Base_Wood.Default__OutStairs_Base_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 msgctxt ",0BF69D5C45E62E6DFF3C4B8AB8DE86CD"
 msgid "建房必备"
-msgstr "Необходимо для строительства дома"
+msgstr "Необходим для строительства дома"
 
 #. Key:	DC4FBDDD4A921252B066C7B27E6EAC8E
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_BL.Default__Roof_20_intersection_BL_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 #: /Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_BL.Default__Roof_20_intersection_BL_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 msgctxt ",DC4FBDDD4A921252B066C7B27E6EAC8E"
 msgid "用于连接外转角屋顶。"
-msgstr "Для соединения наружных угловых крыш."
+msgstr "Для соединения внешнего угла крыши"
 
 #. Key:	6DEEFB834D696C03979BA0A61A7C62F3
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_Wood.Default__Roof_20_intersection_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 #: /Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_Wood.Default__Roof_20_intersection_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 msgctxt ",6DEEFB834D696C03979BA0A61A7C62F3"
 msgid "用于连接外转角屋顶。"
-msgstr "Для соединения наружных угловых крыш."
+msgstr "Для соединения внешнего угла крыши"
 
 #. Key:	E8EA4D5B4493329CF32982ABD630233C
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Wattle_WoodDoor.Wattle_WoodDoor_C:ShowUI [Script Bytecode]
@@ -5723,7 +5735,7 @@ msgstr "Большой ковер"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,duifeitong"
 msgid "堆肥桶"
-msgstr "Ведро для компоста"
+msgstr "Компостный ящик"
 
 #. Key:	FLFDJ
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -5870,7 +5882,7 @@ msgstr "Настольная лампа"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,TIEXIANGZI"
 msgid "铁箱"
-msgstr "железный ящик"
+msgstr "Железный ящик"
 
 #. Key:	TZD
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -5968,7 +5980,7 @@ msgstr "Склад"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",dfeitongxioaguo"
 msgid "加快食物腐烂"
-msgstr "ускоряет разложение пищи"
+msgstr "Ускоряет гниение органики"
 
 #. Key:	DLCW
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -6198,8 +6210,10 @@ msgstr "Автоматич. деревянные шипы"
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",NPCMANAGER"
-msgid "这里可以管理NPC，设置生产资源偏好！\r\n当你拥有这个建筑以后，土匪营地会出现可营救的NPC"
-msgstr "Здесь вы можете управлять NPC и устанавливать предпочтения производимых ресурсов! \r\nКак только вы построите это здание, в лагере бандитов появятся NPC для спасения"
+msgid "这里可以管理NPC，设置生产资源偏好！\r\n"
+"当你拥有这个建筑以后，土匪营地会出现可营救的NPC"
+msgstr "Здесь вы можете управлять NPC и устанавливать предпочтения производимых ресурсов! \r\n"
+"Как только вы построите это здание, в лагере бандитов появятся NPC для спасения"
 
 #. Key:	Null
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -11868,7 +11882,8 @@ msgstr "разрядить"
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,BackSave"
-msgid "你确定要用这个存档覆盖之前的存档吗？\r\n注意覆盖以后之前的存档无法恢复"
+msgid "你确定要用这个存档覆盖之前的存档吗？\r\n"
+"注意覆盖以后之前的存档无法恢复"
 msgstr "Вы уверены? Это перезапишет ваше последнее сохранение!"
 
 #. Key:	Break
@@ -13597,8 +13612,12 @@ msgstr "Южная Америка"
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SAVE"
-msgid "你可以建造一个床加快时间流逝\r\n\r\n游戏全程自动存档"
-msgstr "Вы можете построить кровать, чтобы ускорить течение времени\r\n\r\nИгра автоматически сохраняется на протяжении всей игры"
+msgid "你可以建造一个床加快时间流逝\r\n"
+"\r\n"
+"游戏全程自动存档"
+msgstr "Вы можете построить кровать, чтобы ускорить течение времени\r\n"
+"\r\n"
+"Игра автоматически сохраняется на протяжении всей игры"
 
 #. Key:	Save
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -13870,8 +13889,12 @@ msgstr "Лето"
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SW11"
-msgid "在打开箱子的状态下，左键单击物品可以快速转移。\r\n\r\n拖动物品中按下R旋转物品方向。"
-msgstr "В открытом ящике щелкните левой кнопкой мыши по предмету, чтобы быстро взять его.\r\n\r\nНажмите R во время перетаскивания предмета, чтобы повернуть его положение."
+msgid "在打开箱子的状态下，左键单击物品可以快速转移。\r\n"
+"\r\n"
+"拖动物品中按下R旋转物品方向。"
+msgstr "В открытом ящике щелкните левой кнопкой мыши по предмету, чтобы быстро взять его.\r\n"
+"\r\n"
+"Нажмите R во время перетаскивания предмета, чтобы повернуть его положение."
 
 #. Key:	SwitchServerMode
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -14486,8 +14509,10 @@ msgstr "Носильщик"
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,BYGDescribute"
-msgid "初始拥有 1 级体质等级\r\n负重 +20"
-msgstr "Физическая сила +1\r\nВес +20"
+msgid "初始拥有 1 级体质等级\r\n"
+"负重 +20"
+msgstr "Физическая сила +1\r\n"
+"Вес +20"
 
 #. Key:	carbohydrate
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14619,8 +14644,10 @@ msgstr "Инженер"
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,GCSDescribute"
-msgid "初始拥有 1 级工程等级\r\n建筑物生命值 +30%"
-msgstr "Инженер +1\r\nПрочность здания +30%"
+msgid "初始拥有 1 级工程等级\r\n"
+"建筑物生命值 +30%"
+msgstr "Инженер +1\r\n"
+"Прочность здания +30%"
 
 #. Key:	GeneralTX
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14696,8 +14723,10 @@ msgstr "Полицейский"
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,JCDescribe"
-msgid "新手礼包衣物替换为警用衣物\r\n枪械磨损 -25%"
-msgstr "Стартовый набор: полицейская одежда\r\nИзнос оружия -25%"
+msgid "新手礼包衣物替换为警用衣物\r\n"
+"枪械磨损 -25%"
+msgstr "Стартовый набор: полицейская одежда\r\n"
+"Износ оружия -25%"
 
 #. Key:	JDL
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14780,8 +14809,10 @@ msgstr "Быстрое восстановление"
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,KTDetail"
-msgid "病毒抗体\r\n抗体为0就会死亡"
-msgstr "иммунитет\r\nЕсли иммунитет упадет до 0, вы умрете."
+msgid "病毒抗体\r\n"
+"抗体为0就会死亡"
+msgstr "иммунитет\r\n"
+"Если иммунитет упадет до 0, вы умрете."
 
 #. Key:	LG
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -15032,8 +15063,10 @@ msgstr "Немощный"
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TLDetail"
-msgid "体力\r\n每减少30点体力，伤害降低25%（不影响枪械）"
-msgstr "энергия\r\nЗа каждые 30 очков урон снижается на 25% (не действует на огнестрельное оружие)"
+msgid "体力\r\n"
+"每减少30点体力，伤害降低25%（不影响枪械）"
+msgstr "энергия\r\n"
+"За каждые 30 очков урон снижается на 25% (не действует на огнестрельное оружие)"
 
 #. Key:	TSKR
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -15067,8 +15100,9 @@ msgstr "Исследователь"
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TXJDescribute"
-msgid "新手礼包中额外拥有一把钢双手刀\r\n抗热 +30%  抗寒 +20% 防抓 +20%"
-msgstr "Стартовый набор: Стальной меч \\\r  Стойкость к жаре +30%, холодостойкость +20% и устойчивость к царапинам +20%"
+msgid "新手礼包中额外拥有一把钢双手刀\r\n"
+"抗热 +30%  抗寒 +20% 防抓 +20%"
+msgstr "Стартовый набор: Стальной меч \\r  Стойкость к жаре +30%, холодостойкость +20% и устойчивость к царапинам +20%"
 
 #. Key:	TZ_GRDesscribute
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -15396,8 +15430,10 @@ msgstr "Влияет на урон соответствующего оружия
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,wsDetail"
-msgid "卫生\r\n影响丧尸发现几率，影响伤口感染几率，过低影响心情回复"
-msgstr "гигиена\r\nВлияет на вероятность быть обнаруженным зомби, заражение ран и на восстановление настроения, если оно слишком низкое."
+msgid "卫生\r\n"
+"影响丧尸发现几率，影响伤口感染几率，过低影响心情回复"
+msgstr "гигиена\r\n"
+"Влияет на вероятность быть обнаруженным зомби, заражение ран и на восстановление настроения, если оно слишком низкое."
 
 #. Key:	XJRM
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -15452,8 +15488,9 @@ msgstr "Доктор"
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,YSDesscribe"
-msgid "初始拥有 1 级医学等级\r\n药物效果 +15%"
-msgstr "Медицина +1\\\r Эффект от приема лекарств +15%"
+msgid "初始拥有 1 级医学等级\r\n"
+"药物效果 +15%"
+msgstr "Медицина +1\\r Эффект от приема лекарств +15%"
 
 #. Key:	YXZS
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -15529,8 +15566,9 @@ msgstr "Пациенты"
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,ZY_BH_Desscribute"
-msgid "耐力 -15%  耐力消耗 +10%\r\n负重 -13  速度 -10%  感染概率 +20%"
-msgstr "Выносливость -15% Расход выносливости +10%\\\r Переносимый вес -13 Скорость -10% Вероятность заражения +20%"
+msgid "耐力 -15%  耐力消耗 +10%\r\n"
+"负重 -13  速度 -10%  感染概率 +20%"
+msgstr "Выносливость -15% Расход выносливости +10%\\r Переносимый вес -13 Скорость -10% Вероятность заражения +20%"
 
 #. Key:	ZY_FW
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -15543,8 +15581,9 @@ msgstr "Растяпа"
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,ZY_FW_Describute"
-msgid "耐力 -30%  速度 -10  搜索速度 -30%  最大生命 -20%\r\n近战伤害 -4  负重 -10  防御 -4 "
-msgstr "Выносливость -30% Скорость -10 Скорость поиска -30% Максимальное здоровье -20%\\\r Ближний урон -4 Переносимый вес -10 Защита -4 "
+msgid "耐力 -30%  速度 -10  搜索速度 -30%  最大生命 -20%\r\n"
+"近战伤害 -4  负重 -10  防御 -4 "
+msgstr "Выносливость -30% Скорость -10 Скорость поиска -30% Максимальное здоровье -20%\\r Ближний урон -4 Переносимый вес -10 Защита -4 "
 
 #. Key:	ZY_LS
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -15557,8 +15596,9 @@ msgstr "Боец сумо"
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,ZY_LS_Describute"
-msgid "初始体质、力量等级 +1  近战伤害 +4\r\n蛋白质、碳水消耗速度 +20%  速度 -10"
-msgstr "Начальный уровень физической подготовки и силы +1, Урон в ближнем бою +4\\\r Нормы потребления белков и углеводов +20%, Скорость -10"
+msgid "初始体质、力量等级 +1  近战伤害 +4\r\n"
+"蛋白质、碳水消耗速度 +20%  速度 -10"
+msgstr "Начальный уровень физической подготовки и силы +1, Урон в ближнем бою +4\\r Нормы потребления белков и углеводов +20%, Скорость -10"
 
 #. Key:	ZY_NF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -15571,8 +15611,9 @@ msgstr "Фермер"
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,ZY_NF_Describute"
-msgid "初始农业等级 +3 农业经验获取 +20%\r\n初始自带四组种子、两只鸡"
-msgstr "Начальный сельскохозяйственный уровень +3, Приобретение опыта в с\\х +20%\\\r Начинает с четырьмя наборами семян и двумя цыплятами."
+msgid "初始农业等级 +3 农业经验获取 +20%\r\n"
+"初始自带四组种子、两只鸡"
+msgstr "Начальный сельскохозяйственный уровень +3, Приобретение опыта в с\\х +20%\\r Начинает с четырьмя наборами семян и двумя цыплятами."
 
 #. Key:	ZY_WXZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -15592,8 +15633,9 @@ msgstr "Студент"
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,ZY_XS_Describute"
-msgid "拥有初始背包、随机获得五本书\r\n防御 -5  近战伤害 -2"
-msgstr "Стартовый рюкзак, пять случайных книг,\\\r защита -5, урон в ближнем бою -2"
+msgid "拥有初始背包、随机获得五本书\r\n"
+"防御 -5  近战伤害 -2"
+msgstr "Стартовый рюкзак, пять случайных книг,\\r защита -5, урон в ближнем бою -2"
 
 #. Key:	ZZBS
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
