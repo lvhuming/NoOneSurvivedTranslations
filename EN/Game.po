@@ -536,14 +536,14 @@ msgstr "NULL"
 #: /Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(0 - Value).DisplayNameMap
 msgctxt ",FD23C90B4B0BEDE8A18429A85A651B61"
 msgid "SitDown"
-msgstr "SitDown"
+msgstr "Sit Down"
 
 #. Key:	B22CE20D4E7F232EA78E36BA6EFA3738
 #. SourceLocation:	/Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(1 - Value).DisplayNameMap
 #: /Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(1 - Value).DisplayNameMap
 msgctxt ",B22CE20D4E7F232EA78E36BA6EFA3738"
 msgid "SleepDown"
-msgstr "SleepDown"
+msgstr "Rest"
 
 #. Key:	5B2DED4A4728AC95D0842DB821EF72E3
 #. SourceLocation:	/Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(10 - Value).DisplayNameMap
@@ -634,7 +634,7 @@ msgstr "SitDownFront"
 #: /Game/Blueprint/ACF/Player/HDCK_CharacterBP.Default__HDCK_CharacterBP_C.TimeBuffDetail(0).TimeBuffDetail.TipMessage_56_5402F47A4785659B27440099C7CA676D
 msgctxt ",0D2F9EF34F24FE1D4DE8229B65941BC4"
 msgid "疟疾，减少耐力上限和回复"
-msgstr "Food Poisoning, reduces stamina and regeneration"
+msgstr "Food Poisoning, reduces Stamina and Stamina regen"
 
 #. Key:	508A302D479171AD2AFCB5BDF7BF0BD4
 #. SourceLocation:	/Game/Blueprint/ACF/Player/HDCK_CharacterBP.Default__HDCK_CharacterBP_C.TimeBuffDetail(1).TimeBuffDetail.TipMessage_56_5402F47A4785659B27440099C7CA676D
@@ -1089,28 +1089,28 @@ msgstr "NULL"
 #: /Game/Blueprint/Car/InCarMode.InCarMode.DisplayNameMap(1 - Value).DisplayNameMap
 msgctxt ",5B53C1EF463DB509CD48E7A4DDD3F482"
 msgid "FrontLeft"
-msgstr "FrontLeft"
+msgstr "Front Left"
 
 #. Key:	700402F4456BC61A64D4C8B0B01C8B25
 #. SourceLocation:	/Game/Blueprint/Car/InCarMode.InCarMode.DisplayNameMap(2 - Value).DisplayNameMap
 #: /Game/Blueprint/Car/InCarMode.InCarMode.DisplayNameMap(2 - Value).DisplayNameMap
 msgctxt ",700402F4456BC61A64D4C8B0B01C8B25"
 msgid "FrontRight"
-msgstr "FrontRight"
+msgstr "Front Right"
 
 #. Key:	D55BDFB74B2921B7A8ABB6A7019CDEBA
 #. SourceLocation:	/Game/Blueprint/Car/InCarMode.InCarMode.DisplayNameMap(3 - Value).DisplayNameMap
 #: /Game/Blueprint/Car/InCarMode.InCarMode.DisplayNameMap(3 - Value).DisplayNameMap
 msgctxt ",D55BDFB74B2921B7A8ABB6A7019CDEBA"
 msgid "BackLeft"
-msgstr "BackLeft"
+msgstr "Back Left"
 
 #. Key:	37FE7E904821DCB687C7288664B6AC33
 #. SourceLocation:	/Game/Blueprint/Car/InCarMode.InCarMode.DisplayNameMap(4 - Value).DisplayNameMap
 #: /Game/Blueprint/Car/InCarMode.InCarMode.DisplayNameMap(4 - Value).DisplayNameMap
 msgctxt ",37FE7E904821DCB687C7288664B6AC33"
 msgid "BackRight"
-msgstr "BackRight"
+msgstr "Back Right"
 
 #. Key:	2E3B7D0B496CE27913B296A3FCDA5298
 #. SourceLocation:	/Game/Blueprint/Ladder/BP_Ladder.BP_Ladder_C:ShowUI [Script Bytecode]
@@ -2664,14 +2664,14 @@ msgstr "Zombie Wave Multiplier"
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_GameSetting.WBP_GameSetting_C:WidgetTree.ShowTex_13.Text
 msgctxt ",629AAA57465DF8D3DEBECAAC6C7D08A3"
 msgid "病毒致命率"
-msgstr "Infection Transmission Rate"
+msgstr "Virus Death Rate"
 
 #. Key:	9ADCC17141C6AAA9B282CBA73B8AF4CC
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_GameSetting.WBP_GameSetting_C:WidgetTree.SliderBD.ToolTipText
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_GameSetting.WBP_GameSetting_C:WidgetTree.SliderBD.ToolTipText
 msgctxt ",9ADCC17141C6AAA9B282CBA73B8AF4CC"
 msgid "提高病毒感染性，你需要更多抗体"
-msgstr "The lower the number the less likely to be infected, a higher number is more likely"
+msgstr "The amount of Antibodies lost each time when infected."
 
 #. Key:	E0A8C10C4D611602E0E001BFDC5EA4DD
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_GameSetting.WBP_GameSetting_C:WidgetTree.TextBlock_140.Text
@@ -4484,7 +4484,7 @@ msgstr "The cement foundation looks very strong and can bear a lot of weight."
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_DP_XDD.Default__Furniture_DP_XDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",D061FF8746CD340749B506A88E67E039"
 msgid "地板"
-msgstr "floor"
+msgstr "Floor"
 
 #. Key:	3581A89C43D3A186CF54818DC0E637FF
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_DPBase.Default__Furniture_DPBase_C.BuildInfo.TipAdsorbent_45_0277CC26494BF1319349189E27EC6190
@@ -4505,14 +4505,14 @@ msgstr "Foundation or Floor"
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_DPBase.Default__Furniture_DPBase_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 msgctxt ",ABE10B784F6D55A4DA2F40A4FBEC2520"
 msgid "用于保管物品的箱子，不会丢失物品。"
-msgstr "A box for storing items avoiding lose them."
+msgstr "A box for storing items."
 
 #. Key:	4E893AA0495C80D10D15F2AB037355E4
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_DPLDD.Default__Furniture_DPLDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_DPLDD.Default__Furniture_DPLDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",4E893AA0495C80D10D15F2AB037355E4"
 msgid "地板"
-msgstr "floor"
+msgstr "Floor"
 
 #. Key:	7CCCED78433FBE0BEEEFD09131C4426E
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_KG.Furniture_KG_C:ShowUI [Script Bytecode]
@@ -4778,14 +4778,14 @@ msgstr "Roof (20°)"
 #: /Game/HDCKBuildingSystem/Table/E_SelectTypeChild.E_SelectTypeChild.DisplayNameMap(7 - Value).DisplayNameMap
 msgctxt ",B8084BE1473092BD2666BCB97BBD4309"
 msgid "RoofSingle"
-msgstr "RoofSingle"
+msgstr "Roof Single"
 
 #. Key:	11F3AB6849DC8617F502B08F7704F966
 #. SourceLocation:	/Game/HDCKBuildingSystem/Table/E_SelectTypeChild.E_SelectTypeChild.DisplayNameMap(8 - Value).DisplayNameMap
 #: /Game/HDCKBuildingSystem/Table/E_SelectTypeChild.E_SelectTypeChild.DisplayNameMap(8 - Value).DisplayNameMap
 msgctxt ",11F3AB6849DC8617F502B08F7704F966"
 msgid "RoofEnd"
-msgstr "RoofEnd"
+msgstr "Roof End"
 
 #. Key:	A4794C1D43A639CE329F498AA2BBCB83
 #. SourceLocation:	/Game/HDCKBuildingSystem/Table/E_SelectTypeChild.E_SelectTypeChild.DisplayNameMap(9 - Value).DisplayNameMap
@@ -5716,14 +5716,14 @@ msgstr "Rug"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,DT02"
 msgid "大地毯"
-msgstr "Large Carpet"
+msgstr "Small Carpet"
 
 #. Key:	duifeitong
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,duifeitong"
 msgid "堆肥桶"
-msgstr "Compost bin"
+msgstr "Compost Bin"
 
 #. Key:	FLFDJ
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -9510,7 +9510,7 @@ msgstr "Bandage"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,T11"
 msgid "包扎流血伤口"
-msgstr "Bandaging..."
+msgstr "Restores Health and stops Bleeding"
 
 #. Key:	T12
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9860,7 +9860,7 @@ msgstr "Sledgehammer"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W22"
 msgid "铁砍刀"
-msgstr "Iron Machete"
+msgstr "Iron Knife"
 
 #. Key:	W23
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -11267,7 +11267,7 @@ msgstr "Permadeath"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,YJSWTS"
 msgid "死亡以后重置所有技能"
-msgstr "Reset all skills after death"
+msgstr "Reset ALL skills after death!"
 
 #. Key:	YNDSJ
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11400,7 +11400,7 @@ msgstr "Hitting destructible objects with a blunt weapon does more damage."
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,03"
 msgid "快跑会快速消耗碳水化合物，蛋白质，口渴度。"
-msgstr "Sprinting burns carbohydrates and protein faster which can make you thirsty."
+msgstr "Sprinting burns Carbohydrates and Protein faster which can make you thirsty."
 
 #. Key:	04
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -11491,7 +11491,7 @@ msgstr "Waiting for the item to be completed on the workbench can obtain relevan
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,16"
 msgid "正在倒下的树十分危险，尽量远离！"
-msgstr "Felled trees are very dangerousso so use caution when chopping wood!"
+msgstr "Felled trees are very dangerous so use caution when chopping wood!"
 
 #. Key:	17
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -12261,7 +12261,7 @@ msgstr "Collecting..."
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,CJUITSDS"
 msgid "当前还有未使用的点数，确定创建人物吗？"
-msgstr "There are still unused points. Are you sure you want to create a character?"
+msgstr "There are still unused points left. Are you sure you want to create this character?"
 
 #. Key:	Clear
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12401,7 +12401,7 @@ msgstr "Hold press with the Building Hammer"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Detail"
 msgid "简介："
-msgstr "Introduction: "
+msgstr "Notes: "
 
 #. Key:	DH123
 #. SourceLocation:	/Game/LocalizationText/UI.UI
