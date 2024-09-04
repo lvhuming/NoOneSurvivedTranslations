@@ -1,17 +1,17 @@
-# Game Russian translation.
+﻿# Game Russian translation.
 # Fill out your copyright notice in the Description page of Project Settings.
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2024-07-23 02:23\n"
-"PO-Revision-Date: 2024-07-24 13:43\n"
-"Language-Team: Russian\n"
+"POT-Creation-Date: 2024-09-04 08:43\n"
+"PO-Revision-Date: 2024-09-04 08:43\n"
+"Language-Team: \n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 #. Key:	2CD410E740F487818FE918876292782E
 #. SourceLocation:	/Game/Blueprint/ACF/Animal/Animal_Base.Default__Animal_Base_C.CharacterName
@@ -628,34 +628,6 @@ msgstr "Сидит справа"
 msgctxt ",5B360E93460F8D8C091AE28009A197B1"
 msgid "SitDownFront"
 msgstr "Сидит спереди"
-
-#. Key:	0D2F9EF34F24FE1D4DE8229B65941BC4
-#. SourceLocation:	/Game/Blueprint/ACF/Player/HDCK_CharacterBP.Default__HDCK_CharacterBP_C.TimeBuffDetail(0).TimeBuffDetail.TipMessage_56_5402F47A4785659B27440099C7CA676D
-#: /Game/Blueprint/ACF/Player/HDCK_CharacterBP.Default__HDCK_CharacterBP_C.TimeBuffDetail(0).TimeBuffDetail.TipMessage_56_5402F47A4785659B27440099C7CA676D
-msgctxt ",0D2F9EF34F24FE1D4DE8229B65941BC4"
-msgid "疟疾，减少耐力上限和回复"
-msgstr "Дизентерия снижает макс. выносливости и её регенерацию"
-
-#. Key:	508A302D479171AD2AFCB5BDF7BF0BD4
-#. SourceLocation:	/Game/Blueprint/ACF/Player/HDCK_CharacterBP.Default__HDCK_CharacterBP_C.TimeBuffDetail(1).TimeBuffDetail.TipMessage_56_5402F47A4785659B27440099C7CA676D
-#: /Game/Blueprint/ACF/Player/HDCK_CharacterBP.Default__HDCK_CharacterBP_C.TimeBuffDetail(1).TimeBuffDetail.TipMessage_56_5402F47A4785659B27440099C7CA676D
-msgctxt ",508A302D479171AD2AFCB5BDF7BF0BD4"
-msgid "感染，大幅度持续掉血"
-msgstr "Инфекции приводят к сильной кровопотере"
-
-#. Key:	6633F35B4A96FB574842B3896808D3CB
-#. SourceLocation:	/Game/Blueprint/ACF/Player/HDCK_CharacterBP.Default__HDCK_CharacterBP_C.TimeBuffDetail(2).TimeBuffDetail.TipMessage_56_5402F47A4785659B27440099C7CA676D
-#: /Game/Blueprint/ACF/Player/HDCK_CharacterBP.Default__HDCK_CharacterBP_C.TimeBuffDetail(2).TimeBuffDetail.TipMessage_56_5402F47A4785659B27440099C7CA676D
-msgctxt ",6633F35B4A96FB574842B3896808D3CB"
-msgid "流血，持续掉血"
-msgstr "Сильное непрерывное кровотечение"
-
-#. Key:	7C0FCE4E48A440A1B873C4ABF1E1E7F3
-#. SourceLocation:	/Game/Blueprint/ACF/Player/HDCK_CharacterBP.Default__HDCK_CharacterBP_C.TimeBuffDetail(3).TimeBuffDetail.TipMessage_56_5402F47A4785659B27440099C7CA676D
-#: /Game/Blueprint/ACF/Player/HDCK_CharacterBP.Default__HDCK_CharacterBP_C.TimeBuffDetail(3).TimeBuffDetail.TipMessage_56_5402F47A4785659B27440099C7CA676D
-msgctxt ",7C0FCE4E48A440A1B873C4ABF1E1E7F3"
-msgid "食物"
-msgstr "Еда"
 
 #. Key:	096D56544FDEF1DB6D35EF95D685CC18
 #. SourceLocation:	/Game/Blueprint/ACF/Player/HDCK_CharacterBP.HDCK_CharacterBP_C:ExecuteUbergraph_HDCK_CharacterBP [Script Bytecode]
@@ -2352,8 +2324,8 @@ msgid "1"
 msgstr "1"
 
 #. Key:	57D29AF64B249E6B779C5C809CA3B4CD
-#. SourceLocation:	/Game/Blueprint/UMG/Inventory/WBP_ItemToolTip.WBP_ItemToolTip_C:SetFoodShow [Script Bytecode]
-#: /Game/Blueprint/UMG/Inventory/WBP_ItemToolTip.WBP_ItemToolTip_C:SetFoodShow [Script Bytecode]
+#. SourceLocation:	/Game/Blueprint/UMG/Inventory/WBP_ItemToolTip.WBP_ItemToolTip_C:Set Food Show [Script Bytecode]
+#: /Game/Blueprint/UMG/Inventory/WBP_ItemToolTip.WBP_ItemToolTip_C:Set Food Show [Script Bytecode]
 msgctxt ",57D29AF64B249E6B779C5C809CA3B4CD"
 msgid "生命回复"
 msgstr "восстановление жизни"
@@ -2887,20 +2859,8 @@ msgstr "Не удалось создать комнату!"
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/WBP_Main.WBP_Main_C:WidgetTree.TextBlock_0.Text
 #: /Game/Blueprint/UMG/MainUI/WBP_Main.WBP_Main_C:WidgetTree.TextBlock_0.Text
 msgctxt ",836EB7AB40D4C893FD6B23A855BE4F36"
-msgid "公告：\r\n"
-"\r\n"
-"因为游戏采用了最新的UnrealEngine5引擎，为了获得最好的游戏体验，请将显卡驱动升级到最新版本。\r\n"
-"\r\n"
-"否则你可能会看到模型显示不完整等情况。\r\n"
-"\r\n"
-"感谢！"
-msgstr "Объявление:\r\n"
-"\r\n"
-"Поскольку в игре используется новейший движок UnrealEngine5, чтобы получить наилучшие игровые возможности, обновите драйвер видеокарты до последней версии.\r\n"
-"\r\n"
-"В противном случае вы можете увидеть неполное отображение модели и т. д.\r\n"
-"\r\n"
-"Благодарим!"
+msgid "公告：\r\n\r\n因为游戏采用了最新的UnrealEngine5引擎，为了获得最好的游戏体验，请将显卡驱动升级到最新版本。\r\n\r\n否则你可能会看到模型显示不完整等情况。\r\n\r\n感谢！"
+msgstr "Объявление:\r\n\r\nПоскольку в игре используется новейший движок UnrealEngine5, чтобы получить наилучшие игровые возможности, обновите драйвер видеокарты до последней версии.\r\n\r\nВ противном случае вы можете увидеть неполное отображение модели и т. д.\r\n\r\nБлагодарим!"
 
 #. Key:	6D94E4B4492BEF00197AA29E81E62172
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/WBP_Main.WBP_Main_C:WidgetTree.WBP_StartButton_2.In Text
@@ -3371,47 +3331,12 @@ msgctxt ",E3406AF84800668795F5B3B077058216"
 msgid "橡胶"
 msgstr "резина"
 
-#. Key:	ACEA426B4B009B3EE05519BE089B19E3
-#. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_16.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_16.In Text
-msgctxt ",ACEA426B4B009B3EE05519BE089B19E3"
-msgid "药膏"
-msgstr "Мазь"
-
-#. Key:	AD47B6074A741186454472B5956049C7
-#. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_17.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_17.In Text
-msgctxt ",AD47B6074A741186454472B5956049C7"
-msgid "胃药"
-msgstr "Антибиотики"
-
-#. Key:	9100D96D4063969FA14D27937E72AC6D
-#. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_18.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_18.In Text
-msgctxt ",9100D96D4063969FA14D27937E72AC6D"
-msgid "感冒药"
-msgstr "Лекарство от простуды"
-
-#. Key:	8710C0014D4869B4CBF99993FFD25E15
-#. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_19.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_19.In Text
-msgctxt ",8710C0014D4869B4CBF99993FFD25E15"
-msgid "肾上腺素"
-msgstr "адреналин"
-
 #. Key:	5B20C11C40F75CC9326BD7AF00546A6C
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_2.In Text
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_2.In Text
 msgctxt ",5B20C11C40F75CC9326BD7AF00546A6C"
 msgid "铁锅"
 msgstr "вок"
-
-#. Key:	A512AB59440D6CE6105B21BAFC609ABC
-#. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_20.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_20.In Text
-msgctxt ",A512AB59440D6CE6105B21BAFC609ABC"
-msgid "医疗包"
-msgstr "аптечка"
 
 #. Key:	B232FF894251F2654E4C9A86C4D1351A
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_21.In Text
@@ -3756,20 +3681,6 @@ msgctxt ",FB4AA59C4F7B31F2F8C325B64FCF6379"
 msgid "淋浴间"
 msgstr "Душевая"
 
-#. Key:	16BC7F2545C7B3F99940CC83C9FC978C
-#. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_66.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_66.In Text
-msgctxt ",16BC7F2545C7B3F99940CC83C9FC978C"
-msgid "青霉素"
-msgstr "Противовирусное"
-
-#. Key:	4012F6B548F849403A5585B1A5DA68FD
-#. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_67.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_67.In Text
-msgctxt ",4012F6B548F849403A5585B1A5DA68FD"
-msgid "病毒阻断剂"
-msgstr "Блокатор вируса"
-
 #. Key:	B8EC20624117CFE11537B1B46FE1FEEC
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_68.In Text
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_68.In Text
@@ -4112,6 +4023,13 @@ msgstr "Защита брони"
 msgctxt ",374DA59B4CB3A602561BC88A1FB70306"
 msgid "硬直率"
 msgstr "Жестко и прямо"
+
+#. Key:	2F6BC3024826A31911E6A3A47D08DD4B
+#. SourceLocation:	/Game/Blueprint/UMG/WBP_BodyTip.WBP_BodyTip_C:WidgetTree.Name.Text
+#: /Game/Blueprint/UMG/WBP_BodyTip.WBP_BodyTip_C:WidgetTree.Name.Text
+msgctxt ",2F6BC3024826A31911E6A3A47D08DD4B"
+msgid "斧头"
+msgstr "Топор"
 
 #. Key:	66F2AE544AB372BF5355BFB45995DA70
 #. SourceLocation:	/Game/Blueprint/UMG/WBP_GetWater.WBP_GetWater_C:OnDrop [Script Bytecode]
@@ -6210,10 +6128,8 @@ msgstr "Автоматич. деревянные шипы"
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",NPCMANAGER"
-msgid "这里可以管理NPC，设置生产资源偏好！\r\n"
-"当你拥有这个建筑以后，土匪营地会出现可营救的NPC"
-msgstr "Здесь вы можете управлять NPC и устанавливать предпочтения производимых ресурсов! \r\n"
-"Как только вы построите это здание, в лагере бандитов появятся NPC для спасения"
+msgid "这里可以管理NPC，设置生产资源偏好！\r\n当你拥有这个建筑以后，土匪营地会出现可营救的NPC"
+msgstr "Здесь вы можете управлять NPC и устанавливать предпочтения производимых ресурсов! \r\nКак только вы построите это здание, в лагере бандитов появятся NPC для спасения"
 
 #. Key:	Null
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -9694,6 +9610,230 @@ msgctxt "ItemInfo,TD"
 msgid "唐刀"
 msgstr "Тан Дао"
 
+#. Key:	Tip_DKRWMBSY
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tip_DKRWMBSY"
+msgid "打开人物面板拖动至对应伤口处使用！！"
+msgstr "Откройте панель персонажа и перетащите на соответствующую рану для использования!!"
+
+#. Key:	Tip_MESW
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tip_MESW"
+msgid "美味食物"
+msgstr "Вкусная еда"
+
+#. Key:	Tip_YP_GRWS_BD
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tip_YP_GRWS_BD"
+msgid "治疗轻度外伤、轻度感染外伤。对中度外伤、中度感染外伤流血量 -80%"
+msgstr "Лечение легких травм и легких инфицированных травм. Для средних травм и средних инфицированных травм кровопотеря -80%"
+
+#. Key:	Tip_YP_GRWS_GJYLB
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tip_YP_GRWS_GJYLB"
+msgid "治疗所有外伤"
+msgstr "Лечение всех травм"
+
+#. Key:	Tip_YP_GRWS_JJMQ
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tip_YP_GRWS_JJMQ"
+msgid "治疗轻度外伤、轻度感染外伤。对中度外伤、中度感染外伤流血量 -50%"
+msgstr "Лечение легких травм и легких инфицированных травм. Для средних травм и средних инфицированных травм кровопотеря -50%"
+
+#. Key:	Tip_YP_GRWS_KJSB
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tip_YP_GRWS_KJSB"
+msgid "治疗轻度外伤、轻度感染外伤。对中度外伤、中度感染外伤流血量 -65%"
+msgstr "Лечение легких травм и легких инфицированных травм. Для средних травм и средних инфицированных травм кровопотеря -65%"
+
+#. Key:	Tip_YP_GRWS_KSSYG
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tip_YP_GRWS_KSSYG"
+msgid "治疗轻度、中度感染外伤和感染外伤。对重度外伤、感染外伤流血量 -80%"
+msgstr "Лечение легких и средних инфицированных травм. Для тяжелых травм и инфицированных травм кровопотеря -80%"
+
+#. Key:	Tip_YP_GRWS_KSSYHTP
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tip_YP_GRWS_KSSYHTP"
+msgid "治疗轻度、中度感染外伤和感染外伤。对重度外伤、感染外伤流血量 -60%"
+msgstr "Лечение легких и средних инфицированных травм. Для тяжелых травм и инфицированных травм кровопотеря -60%"
+
+#. Key:	Tip_YP_GRWS_SCSKQXJ
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tip_YP_GRWS_SCSKQXJ"
+msgid "治疗所有外伤"
+msgstr "Лечение всех травм"
+
+#. Key:	Tip_YP_GRWS_WKGJB
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tip_YP_GRWS_WKGJB"
+msgid "治疗所有外伤"
+msgstr "Лечение всех травм"
+
+#. Key:	Tip_YP_HF_01
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tip_YP_HF_01"
+msgid "持续恢复心态"
+msgstr "Постепенное восстановление психического состояния"
+
+#. Key:	Tip_YP_HF_02
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tip_YP_HF_02"
+msgid "提升耐力上限"
+msgstr "Увеличение максимальной выносливости"
+
+#. Key:	Tip_YP_HF_03
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tip_YP_HF_03"
+msgid "持续大幅度恢复耐力"
+msgstr "Постепенное значительное восстановление выносливости"
+
+#. Key:	Tip_YP_HF_04
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tip_YP_HF_04"
+msgid "恢复耐力"
+msgstr "Восстановление выносливости"
+
+#. Key:	Tip_YP_HF_05
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tip_YP_HF_05"
+msgid "恢复心态"
+msgstr "Восстановление психического состояния"
+
+#. Key:	Tip_YP_HX
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tip_YP_HX"
+msgid "使用后回复生命值和病毒感染"
+msgstr "Восстанавливает здоровье и снижает вирусную инфекцию после использования"
+
+#. Key:	Tip_YP_WS_CKT
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tip_YP_WS_CKT"
+msgid "治疗轻度外伤，对中度流血外伤流血量 -50%"
+msgstr "Лечение легких травм, для средних кровоточащих травм кровопотеря -50%"
+
+#. Key:	Tip_YP_WS_FHTJ
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tip_YP_WS_FHTJ"
+msgid "治疗所有未感染外伤"
+msgstr "Лечение всех неинфицированных травм"
+
+#. Key:	Tip_YP_WS_PFNHJ
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tip_YP_WS_PFNHJ"
+msgid "治疗轻度、中度外伤。对重度外伤流血量 -80%"
+msgstr "Лечение легких и средних травм. Для тяжелых травм кровопотеря -80%"
+
+#. Key:	Tip_YP_WS_SB
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tip_YP_WS_SB"
+msgid "治疗轻度外伤，对中度流血外伤流血量 -65%"
+msgstr "Лечение легких травм, для средних кровоточащих травм кровопотеря -65%"
+
+#. Key:	Tip_YP_WS_YG
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tip_YP_WS_YG"
+msgid "治疗轻度、中度外伤。对重度外伤流血量 -50%"
+msgstr "Лечение легких и средних травм. Для тяжелых травм кровопотеря -50%"
+
+#. Key:	Tip_YP_WS_YLB
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tip_YP_WS_YLB"
+msgid "治疗所有未感染外伤"
+msgstr "Лечение всех неинфицированных травм"
+
+#. Key:	Tip_YP_WS_ZXF
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tip_YP_WS_ZXF"
+msgid "治疗轻度、中度外伤。对重度外伤流血量 -65%"
+msgstr "Лечение легких и средних травм. Для тяжелых травм кровопотеря -65%"
+
+#. Key:	Tip_YP_ZL_01
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tip_YP_ZL_01"
+msgid "治疗全身虚弱、肌肉萎缩、低血糖"
+msgstr "Лечение общей слабости, мышечной атрофии, гипогликемии"
+
+#. Key:	Tip_YP_ZL_02
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tip_YP_ZL_02"
+msgid "治疗全身虚弱"
+msgstr "Лечение общей слабости"
+
+#. Key:	Tip_YP_ZL_03
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tip_YP_ZL_03"
+msgid "治疗低血糖"
+msgstr "Лечение гипогликемии"
+
+#. Key:	Tip_YP_ZL_04
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tip_YP_ZL_04"
+msgid "治疗热痉挛、中暑"
+msgstr "Лечение тепловых судорог, теплового удара"
+
+#. Key:	Tip_YP_ZL_05
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tip_YP_ZL_05"
+msgid "治疗中暑"
+msgstr "Лечение теплового удара"
+
+#. Key:	Tip_YP_ZL_06
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tip_YP_ZL_06"
+msgid "治疗霍乱、痢疾"
+msgstr "Лечение холеры, дизентерии"
+
+#. Key:	Tip_YP_ZL_07
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tip_YP_ZL_07"
+msgid "治疗痢疾"
+msgstr "Лечение дизентерии"
+
+#. Key:	Tip_YP_ZL_08
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tip_YP_ZL_08"
+msgid "治疗低温症、感冒"
+msgstr "Лечение гипотермии, простуды"
+
+#. Key:	Tip_YP_ZL_09
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tip_YP_ZL_09"
+msgid "治疗感冒"
+msgstr "Лечение простуды"
+
 #. Key:	Tool_YOUQITONG
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
@@ -10232,6 +10372,251 @@ msgstr "Идеальная голова свиньи"
 msgctxt "ItemInfo,WSD"
 msgid "武士刀"
 msgstr "Катана"
+
+#. Key:	YP_B_DBZBCJ
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,YP_B_DBZBCJ"
+msgid "蛋白质补充剂"
+msgstr "Протеиновая добавка"
+
+#. Key:	YP_B_GMY
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,YP_B_GMY"
+msgid "感冒药"
+msgstr "Лекарство от простуды"
+
+#. Key:	YP_B_HLQ
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,YP_B_HLQ"
+msgid "霍痢清"
+msgstr "Антидиарейное средство"
+
+#. Key:	YP_B_JRY
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,YP_B_JRY"
+msgid "解热药"
+msgstr "Жаропонижающее"
+
+#. Key:	YP_B_KJLY
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,YP_B_KJLY"
+msgid "抗痉挛药"
+msgstr "Противосудорожное средство"
+
+#. Key:	YP_B_PTTP
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,YP_B_PTTP"
+msgid "葡萄糖片"
+msgstr "Таблетки глюкозы"
+
+#. Key:	YP_B_WNYJ
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,YP_B_WNYJ"
+msgid "温暖药剂"
+msgstr "Согревающее средство"
+
+#. Key:	YP_B_YHSC
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,YP_B_YHSC"
+msgid "约翰圣草"
+msgstr "Зверобой"
+
+#. Key:	YP_B_YSJ
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,YP_B_YSJ"
+msgid "益生菌"
+msgstr "Пробиотики"
+
+#. Key:	YP_B_YYBCJ
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,YP_B_YYBCJ"
+msgid "营养补充剂"
+msgstr "Пищевая добавка"
+
+#. Key:	YP_HF_ASYP
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,YP_HF_ASYP"
+msgid "安神药片"
+msgstr "Успокоительные таблетки"
+
+#. Key:	YP_HF_BDZDJ
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,YP_HF_BDZDJ"
+msgid "病毒阻断剂"
+msgstr "Вирусный блокатор"
+
+#. Key:	YP_HF_GRYZZXJ
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,YP_HF_GRYZZXJ"
+msgid "感染抑制止血剂"
+msgstr "Гемостатический агент для подавления инфекции"
+
+#. Key:	YP_HF_JDNXJ
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,YP_HF_JDNXJ"
+msgid "解毒凝血剂X"
+msgstr "Детоксикационный коагулянт X"
+
+#. Key:	YP_HF_KBDXQ
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,YP_HF_KBDXQ"
+msgid "抗病毒血清"
+msgstr "Антивирусная сыворотка"
+
+#. Key:	YP_HF_QMS
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,YP_HF_QMS"
+msgid "青霉素"
+msgstr "Пенициллин"
+
+#. Key:	YP_HF_SSXS
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,YP_HF_SSXS"
+msgid "肾上腺素"
+msgstr "Адреналин"
+
+#. Key:	YP_HF_XBZSZXJ
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,YP_HF_XBZSZXJ"
+msgid "细胞再生止血剂"
+msgstr "Гемостатический агент для регенерации клеток"
+
+#. Key:	YP_HF_XFJ
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,YP_HF_XFJ"
+msgid "兴奋剂"
+msgstr "Стимулятор"
+
+#. Key:	YP_HF_ZJJ
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,YP_HF_ZJJ"
+msgid "镇静剂"
+msgstr "Седативное средство"
+
+#. Key:	YP_WS_BD
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,YP_WS_BD"
+msgid "绷带"
+msgstr "Бинт"
+
+#. Key:	YP_WS_CKT
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,YP_WS_CKT"
+msgid "创口贴"
+msgstr "Пластырь"
+
+#. Key:	YP_WS_FHTJ
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,YP_WS_FHTJ"
+msgid "缝合套件"
+msgstr "Набор для шитья"
+
+#. Key:	YP_WS_GJYLB
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,YP_WS_GJYLB"
+msgid "高级医疗包"
+msgstr "Продвинутый медицинский набор"
+
+#. Key:	YP_WS_JJMQ
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,YP_WS_JJMQ"
+msgid "酒精棉球"
+msgstr "Спиртовые шарики"
+
+#. Key:	YP_WS_KJSB
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,YP_WS_KJSB"
+msgid "抗菌纱布"
+msgstr "Антибактериальная марля"
+
+#. Key:	YP_WS_KSSYG
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,YP_WS_KSSYG"
+msgid "抗生素药膏"
+msgstr "Антибиотическая мазь"
+
+#. Key:	YP_WS_KSSYHTP
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,YP_WS_KSSYHTP"
+msgid "抗生素愈合贴片"
+msgstr "Антибиотическая повязка"
+
+#. Key:	YP_WS_PFNHJ
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,YP_WS_PFNHJ"
+msgid "皮肤粘合剂"
+msgstr "Кожный клей"
+
+#. Key:	YP_WS_SB
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,YP_WS_SB"
+msgid "纱布"
+msgstr "Марля"
+
+#. Key:	YP_WS_SCSKQXJ
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,YP_WS_SCSKQXJ"
+msgid "深层伤口清洗剂"
+msgstr "Средство для глубокой очистки ран"
+
+#. Key:	YP_WS_WKGJB
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,YP_WS_WKGJB"
+msgid "外科工具包"
+msgstr "Хирургический набор"
+
+#. Key:	YP_WS_YG
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,YP_WS_YG"
+msgid "药膏"
+msgstr "Мазь"
+
+#. Key:	YP_WS_YLB
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,YP_WS_YLB"
+msgid "医疗包"
+msgstr "Медицинский набор"
+
+#. Key:	YP_WS_ZXF
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,YP_WS_ZXF"
+msgid "止血粉"
+msgstr "Кровоостанавливающий порошок"
 
 #. Key:	YR
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -11882,8 +12267,7 @@ msgstr "разрядить"
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,BackSave"
-msgid "你确定要用这个存档覆盖之前的存档吗？\r\n"
-"注意覆盖以后之前的存档无法恢复"
+msgid "你确定要用这个存档覆盖之前的存档吗？\r\n注意覆盖以后之前的存档无法恢复"
 msgstr "Вы уверены? Это перезапишет ваше последнее сохранение!"
 
 #. Key:	Break
@@ -13612,12 +13996,8 @@ msgstr "Южная Америка"
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SAVE"
-msgid "你可以建造一个床加快时间流逝\r\n"
-"\r\n"
-"游戏全程自动存档"
-msgstr "Вы можете построить кровать, чтобы ускорить течение времени\r\n"
-"\r\n"
-"Игра автоматически сохраняется на протяжении всей игры"
+msgid "你可以建造一个床加快时间流逝\r\n\r\n游戏全程自动存档"
+msgstr "Вы можете построить кровать, чтобы ускорить течение времени\r\n\r\nИгра автоматически сохраняется на протяжении всей игры"
 
 #. Key:	Save
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -13889,12 +14269,8 @@ msgstr "Лето"
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SW11"
-msgid "在打开箱子的状态下，左键单击物品可以快速转移。\r\n"
-"\r\n"
-"拖动物品中按下R旋转物品方向。"
-msgstr "В открытом ящике щелкните левой кнопкой мыши по предмету, чтобы быстро взять его.\r\n"
-"\r\n"
-"Нажмите R во время перетаскивания предмета, чтобы повернуть его положение."
+msgid "在打开箱子的状态下，左键单击物品可以快速转移。\r\n\r\n拖动物品中按下R旋转物品方向。"
+msgstr "В открытом ящике щелкните левой кнопкой мыши по предмету, чтобы быстро взять его.\r\n\r\nНажмите R во время перетаскивания предмета, чтобы повернуть его положение."
 
 #. Key:	SwitchServerMode
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -14218,6 +14594,118 @@ msgctxt "UI,WNBNSM"
 msgid "我能帮你什么？"
 msgstr "Что я могу сделать для вас?"
 
+#. Key:	Wound_FS_DWZ
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,Wound_FS_DWZ"
+msgid "低温症"
+msgstr "Гипотермия"
+
+#. Key:	Wound_FS_GM
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,Wound_FS_GM"
+msgid "感冒"
+msgstr "Простуда"
+
+#. Key:	Wound_GRWS_01
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,Wound_GRWS_01"
+msgid "轻度感染外伤"
+msgstr "Легкая инфицированная травма"
+
+#. Key:	Wound_GRWS_02
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,Wound_GRWS_02"
+msgid "中度感染外伤"
+msgstr "Умеренная инфицированная травма"
+
+#. Key:	Wound_GRWS_03
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,Wound_GRWS_03"
+msgid "重度感染外伤"
+msgstr "Тяжелая инфицированная травма"
+
+#. Key:	Wound_LJ_HL
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,Wound_LJ_HL"
+msgid "霍乱"
+msgstr "Холера"
+
+#. Key:	Wound_LJ_LJ
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,Wound_LJ_LJ"
+msgid "痢疾"
+msgstr "Дизентерия"
+
+#. Key:	Wound_WS_01
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,Wound_WS_01"
+msgid "轻度外伤"
+msgstr "Легкая травма"
+
+#. Key:	Wound_WS_02
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,Wound_WS_02"
+msgid "中度外伤"
+msgstr "Умеренная травма"
+
+#. Key:	Wound_WS_03
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,Wound_WS_03"
+msgid "重度外伤"
+msgstr "Тяжелая травма"
+
+#. Key:	Wound_YY_YY
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,Wound_YY_YY"
+msgid "抑郁"
+msgstr "Депрессия"
+
+#. Key:	Wound_YYBL_DXT
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,Wound_YYBL_DXT"
+msgid "低血糖"
+msgstr "Гипогликемия"
+
+#. Key:	Wound_YYBL_JRWS
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,Wound_YYBL_JRWS"
+msgid "肌肉萎缩"
+msgstr "Атрофия мышц"
+
+#. Key:	Wound_YYBL_QSWS
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,Wound_YYBL_QSWS"
+msgid "全身虚弱"
+msgstr "Общая слабость"
+
+#. Key:	Wound_ZS_RJL
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,Wound_ZS_RJL"
+msgid "热痉挛"
+msgstr "Тепловые судороги"
+
+#. Key:	Wound_ZS_ZS
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,Wound_ZS_ZS"
+msgid "中暑"
+msgstr "Тепловой удар"
+
 #. Key:	WPBG
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
@@ -14365,6 +14853,20 @@ msgctxt "UI,YUYINSHURU"
 msgid "语音"
 msgstr "Голосовая связь"
 
+#. Key:	YW_Tip_01
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,YW_Tip_01"
+msgid "当前伤势严重，无法使用该药物！！！"
+msgstr "Текущее состояние слишком серьезное, чтобы использовать это лекарство!!!"
+
+#. Key:	YW_Tip_02
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,YW_Tip_02"
+msgid "无法使用！"
+msgstr "Невозможно использовать!"
+
 #. Key:	YXSZC001
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
@@ -14509,10 +15011,8 @@ msgstr "Носильщик"
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,BYGDescribute"
-msgid "初始拥有 1 级体质等级\r\n"
-"负重 +20"
-msgstr "Физическая сила +1\r\n"
-"Вес +20"
+msgid "初始拥有 1 级体质等级\r\n负重 +20"
+msgstr "Физическая сила +1\r\nВес +20"
 
 #. Key:	carbohydrate
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14644,10 +15144,8 @@ msgstr "Инженер"
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,GCSDescribute"
-msgid "初始拥有 1 级工程等级\r\n"
-"建筑物生命值 +30%"
-msgstr "Инженер +1\r\n"
-"Прочность здания +30%"
+msgid "初始拥有 1 级工程等级\r\n建筑物生命值 +30%"
+msgstr "Инженер +1\r\nПрочность здания +30%"
 
 #. Key:	GeneralTX
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14723,10 +15221,8 @@ msgstr "Полицейский"
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,JCDescribe"
-msgid "新手礼包衣物替换为警用衣物\r\n"
-"枪械磨损 -25%"
-msgstr "Стартовый набор: полицейская одежда\r\n"
-"Износ оружия -25%"
+msgid "新手礼包衣物替换为警用衣物\r\n枪械磨损 -25%"
+msgstr "Стартовый набор: полицейская одежда\r\nИзнос оружия -25%"
 
 #. Key:	JDL
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14809,10 +15305,8 @@ msgstr "Быстрое восстановление"
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,KTDetail"
-msgid "病毒抗体\r\n"
-"抗体为0就会死亡"
-msgstr "иммунитет\r\n"
-"Если иммунитет упадет до 0, вы умрете."
+msgid "病毒抗体\r\n抗体为0就会死亡"
+msgstr "иммунитет\r\nЕсли иммунитет упадет до 0, вы умрете."
 
 #. Key:	LG
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -14890,6 +15384,13 @@ msgstr "максимум выносливости"
 msgctxt "UI,mood"
 msgid "心态"
 msgstr "настроение"
+
+#. Key:	Moodrenew
+#. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
+#: /Game/LocalizationText/UICharacter.UICharacter
+msgctxt "UI,Moodrenew"
+msgid "心态恢复"
+msgstr "Восстановление психического состояния"
 
 #. Key:	MS_TXSJ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -15063,10 +15564,8 @@ msgstr "Немощный"
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TLDetail"
-msgid "体力\r\n"
-"每减少30点体力，伤害降低25%（不影响枪械）"
-msgstr "энергия\r\n"
-"За каждые 30 очков урон снижается на 25% (не действует на огнестрельное оружие)"
+msgid "体力\r\n每减少30点体力，伤害降低25%（不影响枪械）"
+msgstr "энергия\r\nЗа каждые 30 очков урон снижается на 25% (не действует на огнестрельное оружие)"
 
 #. Key:	TSKR
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -15100,9 +15599,8 @@ msgstr "Исследователь"
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TXJDescribute"
-msgid "新手礼包中额外拥有一把钢双手刀\r\n"
-"抗热 +30%  抗寒 +20% 防抓 +20%"
-msgstr "Стартовый набор: Стальной меч \\r  Стойкость к жаре +30%, холодостойкость +20% и устойчивость к царапинам +20%"
+msgid "新手礼包中额外拥有一把钢双手刀\r\n抗热 +30%  抗寒 +20% 防抓 +20%"
+msgstr "Стартовый набор: Стальной меч \\\r  Стойкость к жаре +30%, холодостойкость +20% и устойчивость к царапинам +20%"
 
 #. Key:	TZ_GRDesscribute
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -15430,10 +15928,8 @@ msgstr "Влияет на урон соответствующего оружия
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,wsDetail"
-msgid "卫生\r\n"
-"影响丧尸发现几率，影响伤口感染几率，过低影响心情回复"
-msgstr "гигиена\r\n"
-"Влияет на вероятность быть обнаруженным зомби, заражение ран и на восстановление настроения, если оно слишком низкое."
+msgid "卫生\r\n影响丧尸发现几率，影响伤口感染几率，过低影响心情回复"
+msgstr "гигиена\r\nВлияет на вероятность быть обнаруженным зомби, заражение ран и на восстановление настроения, если оно слишком низкое."
 
 #. Key:	XJRM
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -15488,9 +15984,8 @@ msgstr "Доктор"
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,YSDesscribe"
-msgid "初始拥有 1 级医学等级\r\n"
-"药物效果 +15%"
-msgstr "Медицина +1\\r Эффект от приема лекарств +15%"
+msgid "初始拥有 1 级医学等级\r\n药物效果 +15%"
+msgstr "Медицина +1\\\r Эффект от приема лекарств +15%"
 
 #. Key:	YXZS
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -15566,9 +16061,8 @@ msgstr "Пациенты"
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,ZY_BH_Desscribute"
-msgid "耐力 -15%  耐力消耗 +10%\r\n"
-"负重 -13  速度 -10%  感染概率 +20%"
-msgstr "Выносливость -15% Расход выносливости +10%\\r Переносимый вес -13 Скорость -10% Вероятность заражения +20%"
+msgid "耐力 -15%  耐力消耗 +10%\r\n负重 -13  速度 -10%  感染概率 +20%"
+msgstr "Выносливость -15% Расход выносливости +10%\\\r Переносимый вес -13 Скорость -10% Вероятность заражения +20%"
 
 #. Key:	ZY_FW
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -15581,9 +16075,8 @@ msgstr "Растяпа"
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,ZY_FW_Describute"
-msgid "耐力 -30%  速度 -10  搜索速度 -30%  最大生命 -20%\r\n"
-"近战伤害 -4  负重 -10  防御 -4 "
-msgstr "Выносливость -30% Скорость -10 Скорость поиска -30% Максимальное здоровье -20%\\r Ближний урон -4 Переносимый вес -10 Защита -4 "
+msgid "耐力 -30%  速度 -10  搜索速度 -30%  最大生命 -20%\r\n近战伤害 -4  负重 -10  防御 -4 "
+msgstr "Выносливость -30% Скорость -10 Скорость поиска -30% Максимальное здоровье -20%\\\r Ближний урон -4 Переносимый вес -10 Защита -4 "
 
 #. Key:	ZY_LS
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -15596,9 +16089,8 @@ msgstr "Боец сумо"
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,ZY_LS_Describute"
-msgid "初始体质、力量等级 +1  近战伤害 +4\r\n"
-"蛋白质、碳水消耗速度 +20%  速度 -10"
-msgstr "Начальный уровень физической подготовки и силы +1, Урон в ближнем бою +4\\r Нормы потребления белков и углеводов +20%, Скорость -10"
+msgid "初始体质、力量等级 +1  近战伤害 +4\r\n蛋白质、碳水消耗速度 +20%  速度 -10"
+msgstr "Начальный уровень физической подготовки и силы +1, Урон в ближнем бою +4\\\r Нормы потребления белков и углеводов +20%, Скорость -10"
 
 #. Key:	ZY_NF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -15611,9 +16103,8 @@ msgstr "Фермер"
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,ZY_NF_Describute"
-msgid "初始农业等级 +3 农业经验获取 +20%\r\n"
-"初始自带四组种子、两只鸡"
-msgstr "Начальный сельскохозяйственный уровень +3, Приобретение опыта в с\\х +20%\\r Начинает с четырьмя наборами семян и двумя цыплятами."
+msgid "初始农业等级 +3 农业经验获取 +20%\r\n初始自带四组种子、两只鸡"
+msgstr "Начальный сельскохозяйственный уровень +3, Приобретение опыта в с\\х +20%\\\r Начинает с четырьмя наборами семян и двумя цыплятами."
 
 #. Key:	ZY_WXZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -15633,9 +16124,8 @@ msgstr "Студент"
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,ZY_XS_Describute"
-msgid "拥有初始背包、随机获得五本书\r\n"
-"防御 -5  近战伤害 -2"
-msgstr "Стартовый рюкзак, пять случайных книг,\\r защита -5, урон в ближнем бою -2"
+msgid "拥有初始背包、随机获得五本书\r\n防御 -5  近战伤害 -2"
+msgstr "Стартовый рюкзак, пять случайных книг,\\\r защита -5, урон в ближнем бою -2"
 
 #. Key:	ZZBS
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter

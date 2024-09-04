@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2024-07-23 02:23\n"
-"PO-Revision-Date: 2024-07-23 02:23\n"
+"POT-Creation-Date: 2024-09-04 08:43\n"
+"PO-Revision-Date: 2024-09-04 08:43\n"
 "Language-Team: \n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -628,34 +628,6 @@ msgstr "Siediti a destra"
 msgctxt ",5B360E93460F8D8C091AE28009A197B1"
 msgid "SitDownFront"
 msgstr "Siediti avanti"
-
-#. Key:	0D2F9EF34F24FE1D4DE8229B65941BC4
-#. SourceLocation:	/Game/Blueprint/ACF/Player/HDCK_CharacterBP.Default__HDCK_CharacterBP_C.TimeBuffDetail(0).TimeBuffDetail.TipMessage_56_5402F47A4785659B27440099C7CA676D
-#: /Game/Blueprint/ACF/Player/HDCK_CharacterBP.Default__HDCK_CharacterBP_C.TimeBuffDetail(0).TimeBuffDetail.TipMessage_56_5402F47A4785659B27440099C7CA676D
-msgctxt ",0D2F9EF34F24FE1D4DE8229B65941BC4"
-msgid "疟疾，减少耐力上限和回复"
-msgstr "Dissenteria, riduzione della capacità di resistenza e recupero"
-
-#. Key:	508A302D479171AD2AFCB5BDF7BF0BD4
-#. SourceLocation:	/Game/Blueprint/ACF/Player/HDCK_CharacterBP.Default__HDCK_CharacterBP_C.TimeBuffDetail(1).TimeBuffDetail.TipMessage_56_5402F47A4785659B27440099C7CA676D
-#: /Game/Blueprint/ACF/Player/HDCK_CharacterBP.Default__HDCK_CharacterBP_C.TimeBuffDetail(1).TimeBuffDetail.TipMessage_56_5402F47A4785659B27440099C7CA676D
-msgctxt ",508A302D479171AD2AFCB5BDF7BF0BD4"
-msgid "感染，大幅度持续掉血"
-msgstr "Infezione, perdita di sangue significativa e continua"
-
-#. Key:	6633F35B4A96FB574842B3896808D3CB
-#. SourceLocation:	/Game/Blueprint/ACF/Player/HDCK_CharacterBP.Default__HDCK_CharacterBP_C.TimeBuffDetail(2).TimeBuffDetail.TipMessage_56_5402F47A4785659B27440099C7CA676D
-#: /Game/Blueprint/ACF/Player/HDCK_CharacterBP.Default__HDCK_CharacterBP_C.TimeBuffDetail(2).TimeBuffDetail.TipMessage_56_5402F47A4785659B27440099C7CA676D
-msgctxt ",6633F35B4A96FB574842B3896808D3CB"
-msgid "流血，持续掉血"
-msgstr "Emorragia, perdita continua di sangue"
-
-#. Key:	7C0FCE4E48A440A1B873C4ABF1E1E7F3
-#. SourceLocation:	/Game/Blueprint/ACF/Player/HDCK_CharacterBP.Default__HDCK_CharacterBP_C.TimeBuffDetail(3).TimeBuffDetail.TipMessage_56_5402F47A4785659B27440099C7CA676D
-#: /Game/Blueprint/ACF/Player/HDCK_CharacterBP.Default__HDCK_CharacterBP_C.TimeBuffDetail(3).TimeBuffDetail.TipMessage_56_5402F47A4785659B27440099C7CA676D
-msgctxt ",7C0FCE4E48A440A1B873C4ABF1E1E7F3"
-msgid "食物"
-msgstr "Cibo"
 
 #. Key:	096D56544FDEF1DB6D35EF95D685CC18
 #. SourceLocation:	/Game/Blueprint/ACF/Player/HDCK_CharacterBP.HDCK_CharacterBP_C:ExecuteUbergraph_HDCK_CharacterBP [Script Bytecode]
@@ -2352,8 +2324,8 @@ msgid "1"
 msgstr "1"
 
 #. Key:	57D29AF64B249E6B779C5C809CA3B4CD
-#. SourceLocation:	/Game/Blueprint/UMG/Inventory/WBP_ItemToolTip.WBP_ItemToolTip_C:SetFoodShow [Script Bytecode]
-#: /Game/Blueprint/UMG/Inventory/WBP_ItemToolTip.WBP_ItemToolTip_C:SetFoodShow [Script Bytecode]
+#. SourceLocation:	/Game/Blueprint/UMG/Inventory/WBP_ItemToolTip.WBP_ItemToolTip_C:Set Food Show [Script Bytecode]
+#: /Game/Blueprint/UMG/Inventory/WBP_ItemToolTip.WBP_ItemToolTip_C:Set Food Show [Script Bytecode]
 msgctxt ",57D29AF64B249E6B779C5C809CA3B4CD"
 msgid "生命回复"
 msgstr "Recupero della vita"
@@ -3359,47 +3331,12 @@ msgctxt ",E3406AF84800668795F5B3B077058216"
 msgid "橡胶"
 msgstr "Gomma"
 
-#. Key:	ACEA426B4B009B3EE05519BE089B19E3
-#. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_16.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_16.In Text
-msgctxt ",ACEA426B4B009B3EE05519BE089B19E3"
-msgid "药膏"
-msgstr "Pomata"
-
-#. Key:	AD47B6074A741186454472B5956049C7
-#. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_17.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_17.In Text
-msgctxt ",AD47B6074A741186454472B5956049C7"
-msgid "胃药"
-msgstr "Medicina per la dissenteria"
-
-#. Key:	9100D96D4063969FA14D27937E72AC6D
-#. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_18.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_18.In Text
-msgctxt ",9100D96D4063969FA14D27937E72AC6D"
-msgid "感冒药"
-msgstr "Medicinale per il raffreddore e l'influenza"
-
-#. Key:	8710C0014D4869B4CBF99993FFD25E15
-#. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_19.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_19.In Text
-msgctxt ",8710C0014D4869B4CBF99993FFD25E15"
-msgid "肾上腺素"
-msgstr "Adrenalina"
-
 #. Key:	5B20C11C40F75CC9326BD7AF00546A6C
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_2.In Text
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_2.In Text
 msgctxt ",5B20C11C40F75CC9326BD7AF00546A6C"
 msgid "铁锅"
 msgstr "Pentola di ferro"
-
-#. Key:	A512AB59440D6CE6105B21BAFC609ABC
-#. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_20.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_20.In Text
-msgctxt ",A512AB59440D6CE6105B21BAFC609ABC"
-msgid "医疗包"
-msgstr "Kit medico"
 
 #. Key:	B232FF894251F2654E4C9A86C4D1351A
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_21.In Text
@@ -3744,20 +3681,6 @@ msgctxt ",FB4AA59C4F7B31F2F8C325B64FCF6379"
 msgid "淋浴间"
 msgstr "Cabina doccia"
 
-#. Key:	16BC7F2545C7B3F99940CC83C9FC978C
-#. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_66.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_66.In Text
-msgctxt ",16BC7F2545C7B3F99940CC83C9FC978C"
-msgid "青霉素"
-msgstr "Penicillina"
-
-#. Key:	4012F6B548F849403A5585B1A5DA68FD
-#. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_67.In Text
-#: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_67.In Text
-msgctxt ",4012F6B548F849403A5585B1A5DA68FD"
-msgid "病毒阻断剂"
-msgstr "Anti-virus"
-
 #. Key:	B8EC20624117CFE11537B1B46FE1FEEC
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_68.In Text
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_68.In Text
@@ -4100,6 +4023,13 @@ msgstr "Resistenza alla fatica"
 msgctxt ",374DA59B4CB3A602561BC88A1FB70306"
 msgid "硬直率"
 msgstr "Difficoltà e linearità"
+
+#. Key:	2F6BC3024826A31911E6A3A47D08DD4B
+#. SourceLocation:	/Game/Blueprint/UMG/WBP_BodyTip.WBP_BodyTip_C:WidgetTree.Name.Text
+#: /Game/Blueprint/UMG/WBP_BodyTip.WBP_BodyTip_C:WidgetTree.Name.Text
+msgctxt ",2F6BC3024826A31911E6A3A47D08DD4B"
+msgid "斧头"
+msgstr "Accetta"
 
 #. Key:	66F2AE544AB372BF5355BFB45995DA70
 #. SourceLocation:	/Game/Blueprint/UMG/WBP_GetWater.WBP_GetWater_C:OnDrop [Script Bytecode]
@@ -9680,6 +9610,230 @@ msgctxt "ItemInfo,TD"
 msgid "唐刀"
 msgstr "Tang Dao"
 
+#. Key:	Tip_DKRWMBSY
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tip_DKRWMBSY"
+msgid "打开人物面板拖动至对应伤口处使用！！"
+msgstr "Apri il pannello del personaggio e trascina sull'area interessata per utilizzarlo!"
+
+#. Key:	Tip_MESW
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tip_MESW"
+msgid "美味食物"
+msgstr "Cibo delizioso"
+
+#. Key:	Tip_YP_GRWS_BD
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tip_YP_GRWS_BD"
+msgid "治疗轻度外伤、轻度感染外伤。对中度外伤、中度感染外伤流血量 -80%"
+msgstr "Trattamento di ferite lievi e lievi infette. Per ferite moderate e moderate infette, riduzione del sanguinamento dell'80%"
+
+#. Key:	Tip_YP_GRWS_GJYLB
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tip_YP_GRWS_GJYLB"
+msgid "治疗所有外伤"
+msgstr "Cura tutte le ferite esterne"
+
+#. Key:	Tip_YP_GRWS_JJMQ
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tip_YP_GRWS_JJMQ"
+msgid "治疗轻度外伤、轻度感染外伤。对中度外伤、中度感染外伤流血量 -50%"
+msgstr "Trattamento di ferite lievi e lievi infette. Per ferite moderate e moderate infette, riduzione del sanguinamento del 50%"
+
+#. Key:	Tip_YP_GRWS_KJSB
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tip_YP_GRWS_KJSB"
+msgid "治疗轻度外伤、轻度感染外伤。对中度外伤、中度感染外伤流血量 -65%"
+msgstr "Trattamento di ferite lievi e lievi infette. Per ferite moderate e moderate infette, riduzione del sanguinamento del 65%"
+
+#. Key:	Tip_YP_GRWS_KSSYG
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tip_YP_GRWS_KSSYG"
+msgid "治疗轻度、中度感染外伤和感染外伤。对重度外伤、感染外伤流血量 -80%"
+msgstr "Trattamento di ferite lievi e moderate infette e non infette. Per ferite gravi e infette, riduzione del sanguinamento dell'80%"
+
+#. Key:	Tip_YP_GRWS_KSSYHTP
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tip_YP_GRWS_KSSYHTP"
+msgid "治疗轻度、中度感染外伤和感染外伤。对重度外伤、感染外伤流血量 -60%"
+msgstr "Trattamento di ferite lievi e moderate infette e non infette. Per ferite gravi e infette, riduzione del sanguinamento del 60%"
+
+#. Key:	Tip_YP_GRWS_SCSKQXJ
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tip_YP_GRWS_SCSKQXJ"
+msgid "治疗所有外伤"
+msgstr "Cura tutte le ferite esterne"
+
+#. Key:	Tip_YP_GRWS_WKGJB
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tip_YP_GRWS_WKGJB"
+msgid "治疗所有外伤"
+msgstr "Cura tutte le ferite esterne"
+
+#. Key:	Tip_YP_HF_01
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tip_YP_HF_01"
+msgid "持续恢复心态"
+msgstr "Ripristina stato mentale in modo continuo"
+
+#. Key:	Tip_YP_HF_02
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tip_YP_HF_02"
+msgid "提升耐力上限"
+msgstr "Aumenta il limite della resistenza"
+
+#. Key:	Tip_YP_HF_03
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tip_YP_HF_03"
+msgid "持续大幅度恢复耐力"
+msgstr "Ripristina resistenza in modo significativo e continuo"
+
+#. Key:	Tip_YP_HF_04
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tip_YP_HF_04"
+msgid "恢复耐力"
+msgstr "Ripristina resistenza"
+
+#. Key:	Tip_YP_HF_05
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tip_YP_HF_05"
+msgid "恢复心态"
+msgstr "Ripristina stato mentale"
+
+#. Key:	Tip_YP_HX
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tip_YP_HX"
+msgid "使用后回复生命值和病毒感染"
+msgstr "Ripristina punti salute e cura l'infezione virale dopo l'uso"
+
+#. Key:	Tip_YP_WS_CKT
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tip_YP_WS_CKT"
+msgid "治疗轻度外伤，对中度流血外伤流血量 -50%"
+msgstr "Trattamento di ferite lievi, per ferite moderate con sanguinamento, riduzione del sanguinamento del 50%"
+
+#. Key:	Tip_YP_WS_FHTJ
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tip_YP_WS_FHTJ"
+msgid "治疗所有未感染外伤"
+msgstr "Trattamento di tutte le ferite non infette"
+
+#. Key:	Tip_YP_WS_PFNHJ
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tip_YP_WS_PFNHJ"
+msgid "治疗轻度、中度外伤。对重度外伤流血量 -80%"
+msgstr "Trattamento di ferite lievi e moderate. Per ferite gravi, riduzione del sanguinamento dell'80%"
+
+#. Key:	Tip_YP_WS_SB
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tip_YP_WS_SB"
+msgid "治疗轻度外伤，对中度流血外伤流血量 -65%"
+msgstr "Trattamento di ferite lievi, per ferite moderate con sanguinamento, riduzione del sanguinamento del 65%"
+
+#. Key:	Tip_YP_WS_YG
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tip_YP_WS_YG"
+msgid "治疗轻度、中度外伤。对重度外伤流血量 -50%"
+msgstr "Trattamento di ferite lievi e moderate. Per ferite gravi, riduzione del sanguinamento del 50%"
+
+#. Key:	Tip_YP_WS_YLB
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tip_YP_WS_YLB"
+msgid "治疗所有未感染外伤"
+msgstr "Trattamento di tutte le ferite non infette"
+
+#. Key:	Tip_YP_WS_ZXF
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tip_YP_WS_ZXF"
+msgid "治疗轻度、中度外伤。对重度外伤流血量 -65%"
+msgstr "Trattamento di ferite lievi e moderate. Per ferite gravi, riduzione del sanguinamento del 65%"
+
+#. Key:	Tip_YP_ZL_01
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tip_YP_ZL_01"
+msgid "治疗全身虚弱、肌肉萎缩、低血糖"
+msgstr "Cura debilitazione generale, atrofia muscolare, ipoglicemia"
+
+#. Key:	Tip_YP_ZL_02
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tip_YP_ZL_02"
+msgid "治疗全身虚弱"
+msgstr "Cura debilitazione generale"
+
+#. Key:	Tip_YP_ZL_03
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tip_YP_ZL_03"
+msgid "治疗低血糖"
+msgstr "Cura ipoglicemia"
+
+#. Key:	Tip_YP_ZL_04
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tip_YP_ZL_04"
+msgid "治疗热痉挛、中暑"
+msgstr "Trattamento dei crampi da calore, colpo di calore"
+
+#. Key:	Tip_YP_ZL_05
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tip_YP_ZL_05"
+msgid "治疗中暑"
+msgstr "Cura il colpo di calore"
+
+#. Key:	Tip_YP_ZL_06
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tip_YP_ZL_06"
+msgid "治疗霍乱、痢疾"
+msgstr "Trattamento del colera, dissenteria"
+
+#. Key:	Tip_YP_ZL_07
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tip_YP_ZL_07"
+msgid "治疗痢疾"
+msgstr "Trattamento della dissenteria"
+
+#. Key:	Tip_YP_ZL_08
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tip_YP_ZL_08"
+msgid "治疗低温症、感冒"
+msgstr "Cura ipotermia e raffreddore"
+
+#. Key:	Tip_YP_ZL_09
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tip_YP_ZL_09"
+msgid "治疗感冒"
+msgstr "Cura il raffreddore"
+
 #. Key:	Tool_YOUQITONG
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
@@ -10218,6 +10372,251 @@ msgstr "Testa di maiale perfetta"
 msgctxt "ItemInfo,WSD"
 msgid "武士刀"
 msgstr "spada samurai"
+
+#. Key:	YP_B_DBZBCJ
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,YP_B_DBZBCJ"
+msgid "蛋白质补充剂"
+msgstr "Integratori proteici"
+
+#. Key:	YP_B_GMY
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,YP_B_GMY"
+msgid "感冒药"
+msgstr "Medicinale per il raffreddore"
+
+#. Key:	YP_B_HLQ
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,YP_B_HLQ"
+msgid "霍痢清"
+msgstr "Antibiotici per Colera"
+
+#. Key:	YP_B_JRY
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,YP_B_JRY"
+msgid "解热药"
+msgstr "Antipiretico"
+
+#. Key:	YP_B_KJLY
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,YP_B_KJLY"
+msgid "抗痉挛药"
+msgstr "Anticonvulsivante"
+
+#. Key:	YP_B_PTTP
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,YP_B_PTTP"
+msgid "葡萄糖片"
+msgstr "Compresse di glucosio"
+
+#. Key:	YP_B_WNYJ
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,YP_B_WNYJ"
+msgid "温暖药剂"
+msgstr "Agente riscaldante"
+
+#. Key:	YP_B_YHSC
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,YP_B_YHSC"
+msgid "约翰圣草"
+msgstr "Iperico"
+
+#. Key:	YP_B_YSJ
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,YP_B_YSJ"
+msgid "益生菌"
+msgstr "Probiotici"
+
+#. Key:	YP_B_YYBCJ
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,YP_B_YYBCJ"
+msgid "营养补充剂"
+msgstr "Integratore nutrizionale"
+
+#. Key:	YP_HF_ASYP
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,YP_HF_ASYP"
+msgid "安神药片"
+msgstr "Calmante"
+
+#. Key:	YP_HF_BDZDJ
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,YP_HF_BDZDJ"
+msgid "病毒阻断剂"
+msgstr "Bloccante virale"
+
+#. Key:	YP_HF_GRYZZXJ
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,YP_HF_GRYZZXJ"
+msgid "感染抑制止血剂"
+msgstr "Emostatico per l'infezione"
+
+#. Key:	YP_HF_JDNXJ
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,YP_HF_JDNXJ"
+msgid "解毒凝血剂X"
+msgstr "Antitossina X"
+
+#. Key:	YP_HF_KBDXQ
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,YP_HF_KBDXQ"
+msgid "抗病毒血清"
+msgstr "Siero antivirale"
+
+#. Key:	YP_HF_QMS
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,YP_HF_QMS"
+msgid "青霉素"
+msgstr "Penicillina"
+
+#. Key:	YP_HF_SSXS
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,YP_HF_SSXS"
+msgid "肾上腺素"
+msgstr "Adrenalina"
+
+#. Key:	YP_HF_XBZSZXJ
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,YP_HF_XBZSZXJ"
+msgid "细胞再生止血剂"
+msgstr "Emostatico rigenerativo cellulare"
+
+#. Key:	YP_HF_XFJ
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,YP_HF_XFJ"
+msgid "兴奋剂"
+msgstr "Stimolante"
+
+#. Key:	YP_HF_ZJJ
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,YP_HF_ZJJ"
+msgid "镇静剂"
+msgstr "Sedativo"
+
+#. Key:	YP_WS_BD
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,YP_WS_BD"
+msgid "绷带"
+msgstr "Benda"
+
+#. Key:	YP_WS_CKT
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,YP_WS_CKT"
+msgid "创口贴"
+msgstr "Cerotto"
+
+#. Key:	YP_WS_FHTJ
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,YP_WS_FHTJ"
+msgid "缝合套件"
+msgstr "Kit di sutura"
+
+#. Key:	YP_WS_GJYLB
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,YP_WS_GJYLB"
+msgid "高级医疗包"
+msgstr "Kit medico avanzato"
+
+#. Key:	YP_WS_JJMQ
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,YP_WS_JJMQ"
+msgid "酒精棉球"
+msgstr "Tamponi alcolici"
+
+#. Key:	YP_WS_KJSB
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,YP_WS_KJSB"
+msgid "抗菌纱布"
+msgstr "Garza antibatterica"
+
+#. Key:	YP_WS_KSSYG
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,YP_WS_KSSYG"
+msgid "抗生素药膏"
+msgstr "Unguento antibiotico"
+
+#. Key:	YP_WS_KSSYHTP
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,YP_WS_KSSYHTP"
+msgid "抗生素愈合贴片"
+msgstr "Cerotto antibiotico"
+
+#. Key:	YP_WS_PFNHJ
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,YP_WS_PFNHJ"
+msgid "皮肤粘合剂"
+msgstr "Adesivo cutaneo"
+
+#. Key:	YP_WS_SB
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,YP_WS_SB"
+msgid "纱布"
+msgstr "Garza"
+
+#. Key:	YP_WS_SCSKQXJ
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,YP_WS_SCSKQXJ"
+msgid "深层伤口清洗剂"
+msgstr "Detergente per ferite profonde"
+
+#. Key:	YP_WS_WKGJB
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,YP_WS_WKGJB"
+msgid "外科工具包"
+msgstr "Kit da chirurgo"
+
+#. Key:	YP_WS_YG
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,YP_WS_YG"
+msgid "药膏"
+msgstr "Unguento"
+
+#. Key:	YP_WS_YLB
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,YP_WS_YLB"
+msgid "医疗包"
+msgstr "Kit di pronto soccorso"
+
+#. Key:	YP_WS_ZXF
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,YP_WS_ZXF"
+msgid "止血粉"
+msgstr "Polvere emostatica"
 
 #. Key:	YR
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -14195,6 +14594,118 @@ msgctxt "UI,WNBNSM"
 msgid "我能帮你什么？"
 msgstr "Cosa posso fare per te?"
 
+#. Key:	Wound_FS_DWZ
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,Wound_FS_DWZ"
+msgid "低温症"
+msgstr "Ipotermia"
+
+#. Key:	Wound_FS_GM
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,Wound_FS_GM"
+msgid "感冒"
+msgstr "Raffreddore"
+
+#. Key:	Wound_GRWS_01
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,Wound_GRWS_01"
+msgid "轻度感染外伤"
+msgstr "Infezione da trauma lieve"
+
+#. Key:	Wound_GRWS_02
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,Wound_GRWS_02"
+msgid "中度感染外伤"
+msgstr "Infezione da trauma moderato"
+
+#. Key:	Wound_GRWS_03
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,Wound_GRWS_03"
+msgid "重度感染外伤"
+msgstr "Infezione da trauma grave"
+
+#. Key:	Wound_LJ_HL
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,Wound_LJ_HL"
+msgid "霍乱"
+msgstr "Colera"
+
+#. Key:	Wound_LJ_LJ
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,Wound_LJ_LJ"
+msgid "痢疾"
+msgstr "Dissenteria"
+
+#. Key:	Wound_WS_01
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,Wound_WS_01"
+msgid "轻度外伤"
+msgstr "Trauma lieve"
+
+#. Key:	Wound_WS_02
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,Wound_WS_02"
+msgid "中度外伤"
+msgstr "Trauma moderato"
+
+#. Key:	Wound_WS_03
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,Wound_WS_03"
+msgid "重度外伤"
+msgstr "Trauma grave"
+
+#. Key:	Wound_YY_YY
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,Wound_YY_YY"
+msgid "抑郁"
+msgstr "Depressione"
+
+#. Key:	Wound_YYBL_DXT
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,Wound_YYBL_DXT"
+msgid "低血糖"
+msgstr "Ipoglicemia"
+
+#. Key:	Wound_YYBL_JRWS
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,Wound_YYBL_JRWS"
+msgid "肌肉萎缩"
+msgstr "Atrofia muscolare"
+
+#. Key:	Wound_YYBL_QSWS
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,Wound_YYBL_QSWS"
+msgid "全身虚弱"
+msgstr "Debolezza generale"
+
+#. Key:	Wound_ZS_RJL
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,Wound_ZS_RJL"
+msgid "热痉挛"
+msgstr "Crampi da calore"
+
+#. Key:	Wound_ZS_ZS
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,Wound_ZS_ZS"
+msgid "中暑"
+msgstr "Colpo di calore"
+
 #. Key:	WPBG
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
@@ -14341,6 +14852,20 @@ msgstr "Rimuovere"
 msgctxt "UI,YUYINSHURU"
 msgid "语音"
 msgstr "Voce"
+
+#. Key:	YW_Tip_01
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,YW_Tip_01"
+msgid "当前伤势严重，无法使用该药物！！！"
+msgstr "Condizioni attuali gravi, impossibile usare questo farmaco!!!"
+
+#. Key:	YW_Tip_02
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,YW_Tip_02"
+msgid "无法使用！"
+msgstr "Impossibile usare!"
 
 #. Key:	YXSZC001
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -14859,6 +15384,13 @@ msgstr "Resistenza massima"
 msgctxt "UI,mood"
 msgid "心态"
 msgstr "Mentalità"
+
+#. Key:	Moodrenew
+#. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
+#: /Game/LocalizationText/UICharacter.UICharacter
+msgctxt "UI,Moodrenew"
+msgid "心态恢复"
+msgstr "Recupero mentale"
 
 #. Key:	MS_TXSJ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
