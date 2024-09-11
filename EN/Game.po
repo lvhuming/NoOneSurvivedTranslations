@@ -1810,7 +1810,7 @@ msgstr "Clothing"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_1.Text
 msgctxt ",46159C994865A551AA6AD5A39D194A56"
 msgid "枪械配件"
-msgstr "Firearm Acc's"
+msgstr "WPN Mod's"
 
 #. Key:	788171F949D09004E54914B48D5E5FD4
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_10.Text
@@ -1831,7 +1831,7 @@ msgstr "Cooking+"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_12.Text
 msgctxt ",07183D8644DE86CCA77C28A04ABFD006"
 msgid "武器制造+"
-msgstr "WPN/Crafting+"
+msgstr "WPN/Craft+"
 
 #. Key:	38B8771D464AA9F6D487D9AA4DE283A3
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_13.Text
@@ -1866,7 +1866,7 @@ msgstr "Conditioning+"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_17.Text
 msgctxt ",0928DBE0408A27E207C2D29145B40B53"
 msgid "满状态+"
-msgstr "Overall Stats"
+msgstr "Replenish All Stats"
 
 #. Key:	7E0D35D04487BF2FCA42F68796859048
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_18.Text
@@ -1887,7 +1887,7 @@ msgstr "Protein-"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_2.Text
 msgctxt ",EC749212496CEF6AB320469F8E66F8A3"
 msgid "材料"
-msgstr "Material"
+msgstr "Materials"
 
 #. Key:	1C53B8C149A4115EE6BD2AAED1889ED4
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_20.Text
@@ -1964,7 +1964,7 @@ msgstr "Day +1"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_3.Text
 msgctxt ",F895FF4F46F21F692C19CA91D155CFE5"
 msgid "道具"
-msgstr "Tool"
+msgstr "Tools"
 
 #. Key:	C0AECA14478D1D438B3C3098A107B0DE
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_30.Text
@@ -2062,7 +2062,7 @@ msgstr "Mutilation Rate+"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_42.Text
 msgctxt ",233D5A434A78C427C610EC8FB48C8ED1"
 msgid "击倒增加"
-msgstr "Knockdown Increase"
+msgstr "Knockdown Increase+"
 
 #. Key:	257D695A47DEEA3FFC5862BD1084FDE4
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_43.Text
@@ -2076,7 +2076,7 @@ msgstr "Food Poisoning +"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_46.Text
 msgctxt ",1CFD73E945A37190BCF0739A47F75DE0"
 msgid "Bike"
-msgstr "Bike"
+msgstr "SPN Bike"
 
 #. Key:	97BC675945FB3BDDE453978AB70A74C7
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_47.Text
@@ -2097,7 +2097,7 @@ msgstr "Unlock Skill Tree"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_49.Text
 msgctxt ",AAA9318C4DE84825C766D68B05A1C5DC"
 msgid "Spawn Car"
-msgstr "Car"
+msgstr "SPN Car"
 
 #. Key:	8C948C4F4A27919FDC5B268A65FFF9F4
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_5.Text
@@ -2139,7 +2139,7 @@ msgstr "Metallurgy+"
 #: /Game/Blueprint/UMG/God/WBP_ItemList.WBP_ItemList_C:WidgetTree.TextBlock.Text
 msgctxt ",6F5F51994CAB7AD0679A3CBCF6E70E65"
 msgid "食物"
-msgstr "Food"
+msgstr "Foods"
 
 #. Key:	FD3B7C9F47DAD0944C1A9A9EDF7DD54F
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_ItemList.WBP_ItemList_C:WidgetTree.TextBlock_0.Text
@@ -14753,7 +14753,7 @@ msgstr "I don't need it now!"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,WYLQJSJL"
 msgid "我要兑换击杀奖励"
-msgstr "I want to redeem some trophies for a reward"
+msgstr "Can I redeem some Zombie Trophies for a reward?"
 
 #. Key:	WYLQWDBC
 #. SourceLocation:	/Game/LocalizationText/UI.UI
