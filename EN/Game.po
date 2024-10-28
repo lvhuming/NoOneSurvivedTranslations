@@ -802,7 +802,7 @@ msgstr "Pick up the Building Hammer"
 #: /Game/Blueprint/ACF/Tutorial/WBP_TutorialTip4.WBP_TutorialTip4_C:WidgetTree.TextBlock.Text
 msgctxt ",E61784BE4B6414ACB0E4E2A5B01A2ABD"
 msgid "将中心点对准已经建造或规划的地基，会自动捕捉位置"
-msgstr "Align the center point with an already constructed or planned foundation and the position will be automatically captured"
+msgstr "Align the centre point with an already constructed or planned foundation and the position will be automatically captured"
 
 #. Key:	D411C0CB44D6E09B42405688CCE20686
 #. SourceLocation:	/Game/Blueprint/ACF/Tutorial/WBP_TutorialTip4.WBP_TutorialTip4_C:WidgetTree.TextBlock_1.Text
@@ -1810,7 +1810,7 @@ msgstr "Clothing"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_1.Text
 msgctxt ",46159C994865A551AA6AD5A39D194A56"
 msgid "枪械配件"
-msgstr "WPN Mod's"
+msgstr "Mod's"
 
 #. Key:	788171F949D09004E54914B48D5E5FD4
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_10.Text
@@ -2860,7 +2860,7 @@ msgstr "Creation Failed!"
 #: /Game/Blueprint/UMG/MainUI/WBP_Main.WBP_Main_C:WidgetTree.TextBlock_0.Text
 msgctxt ",836EB7AB40D4C893FD6B23A855BE4F36"
 msgid "公告：\r\n\r\n因为游戏采用了最新的UnrealEngine5引擎，为了获得最好的游戏体验，请将显卡驱动升级到最新版本。\r\n\r\n否则你可能会看到模型显示不完整等情况。\r\n\r\n感谢！"
-msgstr "Warning:\r\n\r\nThe game uses the latest Unreal Engine 5 engine, in order to get the best gaming experience, please upgrade your graphics card driver to the latest version.\r\n\r\nOtherwise you may have texture and models issues.\r\n\r\nHave fun! Thank you!"
+msgstr "Warning:\r\n\r\nThe game uses the latest Unreal Engine 5 engine, in order to get the best gaming experience, please upgrade your Graphics Card driver to the latest version.\r\n\r\nOtherwise you may have texture and models issues.\r\n\r\nHave fun! Thank you!"
 
 #. Key:	6D94E4B4492BEF00197AA29E81E62172
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/WBP_Main.WBP_Main_C:WidgetTree.WBP_StartButton_2.In Text
@@ -5744,7 +5744,7 @@ msgstr "Dwellers"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,RGLGLZX"
 msgid "如果离管理中心太远，会失效！"
-msgstr "It will fail if far from the Management Center!"
+msgstr "It will fail if too far from the Control Centre!"
 
 #. Key:	RXH
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6185,7 +6185,7 @@ msgstr "Stone Floor"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RockFloorDetail"
 msgid "踩在上面吱吱作响。"
-msgstr "Squeeze on it."
+msgstr "Stone Floor."
 
 #. Key:	RockFoundation
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -6773,7 +6773,7 @@ msgstr "Beams / Other Floors"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",WoodFloorDetail"
 msgid "踩在上面吱吱作响。"
-msgstr "Squeeze on it."
+msgstr "Wood Plank Floor."
 
 #. Key:	WoodFoundation
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -9860,14 +9860,14 @@ msgstr "Engine Drawings"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,TZ_FDJ_02"
 msgid "增速器图纸"
-msgstr "Speed Boosters Drawings"
+msgstr "Turbo Boosters Drawings"
 
 #. Key:	TZ_FDJ_03
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,TZ_FDJ_03"
 msgid "燃油过滤器图纸"
-msgstr "Fuel filter Drawing"
+msgstr "Fuel Filter Drawing"
 
 #. Key:	TZ_HJ_01
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -10686,7 +10686,7 @@ msgstr "Viking Axe"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,altlook"
 msgid "自由视角"
-msgstr "Free perspective"
+msgstr "Free Perspective"
 
 #. Key:	Auto
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -12506,7 +12506,7 @@ msgstr "Save color change"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,CarTip_FDJ_01"
 msgid "常规发动机。动力一般，油耗一般"
-msgstr "Conventional engine. Average power and average fuel consumption"
+msgstr "Conventional Engine. Average power and average fuel consumption"
 
 #. Key:	CarTip_FDJ_02
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12569,7 +12569,7 @@ msgstr "Premium tyres, handbrakes and grip are excellent"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,CarTip_QCXLTJ_01"
 msgid "用于修理汽车发动机"
-msgstr "For repairing car engines"
+msgstr "For repairing car Engines"
 
 #. Key:	CDDX
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -13493,7 +13493,7 @@ msgstr "More"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,MS_TZMS"
 msgid "该图纸可在科技面板中进行学习使用"
-msgstr "This blueprint can be learned and used in the technology panel"
+msgstr "This blueprint can be learned and used in the Technology Tree UI"
 
 #. Key:	MWSW
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -14116,7 +14116,7 @@ msgstr "Delete"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,shengqingshenpitext"
 msgid "申请审批"
-msgstr "Application approval"
+msgstr "Application Approval"
 
 #. Key:	SHWNGQINGJIARU
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -14172,7 +14172,7 @@ msgstr "Apply to join"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,sqtishitext589"
 msgid "已经申请，等待批准！！！"
-msgstr "Application submitted, waiting for approval!!!"
+msgstr "Application submitted, waiting for approval.."
 
 #. Key:	SR
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -14928,7 +14928,7 @@ msgstr "VoIP"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,YW_Tip_01"
 msgid "当前伤势严重，无法使用该药物！！！"
-msgstr "Current injury is severe, unable to use this medication!!!"
+msgstr "Current injury is too severe, unable to use this medication!"
 
 #. Key:	YW_Tip_02
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -15103,7 +15103,7 @@ msgstr "Tailoring"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,CGJJRZ"
 msgid "成功解救了一个人质，他会出现在管理中心帮助你！"
-msgstr "Successfully rescued a Hostage, that will appear in the Management Center to help you!"
+msgstr "Successfully rescued a Hostage that will appear in the Control Centre to help you!"
 
 #. Key:	CR
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -15166,7 +15166,7 @@ msgstr "Mutilation Rate"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,FDJ_PT"
 msgid "发动机"
-msgstr "engine"
+msgstr "Engine"
 
 #. Key:	FDJ_RYGLQ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -15180,7 +15180,7 @@ msgstr "Fuel Filter"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,FDJ_ZSQ"
 msgid "增速器"
-msgstr "Speed up device"
+msgstr "Turbo Booster"
 
 #. Key:	FY
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
