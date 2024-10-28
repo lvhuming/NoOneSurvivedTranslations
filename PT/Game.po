@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2024-09-04 08:43\n"
-"PO-Revision-Date: 2024-09-04 08:43\n"
+"POT-Creation-Date: 2024-10-28 03:21\n"
+"PO-Revision-Date: 2024-10-28 03:21\n"
 "Language-Team: \n"
 "Language: pt\n"
 "MIME-Version: 1.0\n"
@@ -10681,6 +10681,13 @@ msgctxt "ItemInfo,ZSJF"
 msgid "中世纪斧"
 msgstr "machado medieval"
 
+#. Key:	altlook
+#. SourceLocation:	/Game/LocalizationText/Screen.Screen
+#: /Game/LocalizationText/Screen.Screen
+msgctxt "UI,altlook"
+msgid "自由视角"
+msgstr "Visão livre"
+
 #. Key:	Auto
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
 #: /Game/LocalizationText/Screen.Screen
@@ -12753,6 +12760,20 @@ msgctxt "UI,Day"
 msgid "天"
 msgstr "Dias"
 
+#. Key:	DCZ_JZMC
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,DCZ_JZMC"
+msgid "建筑名称："
+msgstr "Nome do edifício:"
+
+#. Key:	DCZ_LJXX
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,DCZ_LJXX"
+msgid "已连接建筑"
+msgstr "Edifício conectado"
+
 #. Key:	DCZTip
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
@@ -13264,6 +13285,13 @@ msgctxt "UI,JR"
 msgid "加热以后使用更佳"
 msgstr "Servir depois de aquecido"
 
+#. Key:	jujiegaibian
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,jujiegaibian"
+msgid "拒绝"
+msgstr "Rejeitar"
+
 #. Key:	JZBZKG
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
@@ -13397,6 +13425,13 @@ msgctxt "UI,Lock"
 msgid "锁住了"
 msgstr "Bloqueado"
 
+#. Key:	LPTip
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,LPTip"
+msgid "会在地图上显示路牌中的描述信息"
+msgstr "Exibirá as informações de descrição nas placas de rua no mapa"
+
 #. Key:	LXXH
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
@@ -13452,6 +13487,13 @@ msgstr "Fazendo outras coisas, espere!"
 msgctxt "UI,More"
 msgid "更多"
 msgstr "Mais"
+
+#. Key:	MS_TZMS
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,MS_TZMS"
+msgid "该图纸可在科技面板中进行学习使用"
+msgstr "Este desenho pode ser aprendido e usado no painel de tecnologia"
 
 #. Key:	MWSW
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -14069,6 +14111,20 @@ msgctxt "UI,shanchu"
 msgid "删除"
 msgstr "Excluir"
 
+#. Key:	shengqingshenpitext
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,shengqingshenpitext"
+msgid "申请审批"
+msgstr "Solicitar aprovação"
+
+#. Key:	SHWNGQINGJIARU
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,SHWNGQINGJIARU"
+msgid "申请"
+msgstr "Solicitar"
+
 #. Key:	SJ
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
@@ -14103,6 +14159,20 @@ msgstr "Autorizado"
 msgctxt "UI,SQ01"
 msgid "授权"
 msgstr "Autorizado"
+
+#. Key:	sqjrtext003
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,sqjrtext003"
+msgid "申请加入"
+msgstr "Solicitar adesão"
+
+#. Key:	sqtishitext589
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,sqtishitext589"
+msgid "已经申请，等待批准！！！"
+msgstr "Já solicitado, aguardando aprovação!!!"
 
 #. Key:	SR
 #. SourceLocation:	/Game/LocalizationText/UI.UI

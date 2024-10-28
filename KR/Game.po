@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2024-09-04 08:43\n"
-"PO-Revision-Date: 2024-09-04 08:43\n"
+"POT-Creation-Date: 2024-10-28 03:21\n"
+"PO-Revision-Date: 2024-10-28 03:21\n"
 "Language-Team: \n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -10681,6 +10681,13 @@ msgctxt "ItemInfo,ZSJF"
 msgid "中世纪斧"
 msgstr "중세 도끼"
 
+#. Key:	altlook
+#. SourceLocation:	/Game/LocalizationText/Screen.Screen
+#: /Game/LocalizationText/Screen.Screen
+msgctxt "UI,altlook"
+msgid "自由视角"
+msgstr "자유 시점"
+
 #. Key:	Auto
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
 #: /Game/LocalizationText/Screen.Screen
@@ -12753,6 +12760,20 @@ msgctxt "UI,Day"
 msgid "天"
 msgstr "일"
 
+#. Key:	DCZ_JZMC
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,DCZ_JZMC"
+msgid "建筑名称："
+msgstr "건물 이름:"
+
+#. Key:	DCZ_LJXX
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,DCZ_LJXX"
+msgid "已连接建筑"
+msgstr "연결된 건물"
+
 #. Key:	DCZTip
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
@@ -13264,6 +13285,13 @@ msgctxt "UI,JR"
 msgid "加热以后使用更佳"
 msgstr "가열 조리 후 섭취하는것이 좋습니다."
 
+#. Key:	jujiegaibian
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,jujiegaibian"
+msgid "拒绝"
+msgstr "거부"
+
 #. Key:	JZBZKG
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
@@ -13397,6 +13425,13 @@ msgctxt "UI,Lock"
 msgid "锁住了"
 msgstr "잠긴상태"
 
+#. Key:	LPTip
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,LPTip"
+msgid "会在地图上显示路牌中的描述信息"
+msgstr "지도에 도로 표지판의 설명 정보가 표시됩니다"
+
 #. Key:	LXXH
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
@@ -13452,6 +13487,13 @@ msgstr "다른 일을 하고 있으니 기다려 주세요!"
 msgctxt "UI,More"
 msgid "更多"
 msgstr "더보기"
+
+#. Key:	MS_TZMS
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,MS_TZMS"
+msgid "该图纸可在科技面板中进行学习使用"
+msgstr "이 도면은 기술 패널에서 학습하여 사용할 수 있습니다"
 
 #. Key:	MWSW
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -14069,6 +14111,20 @@ msgctxt "UI,shanchu"
 msgid "删除"
 msgstr "삭제"
 
+#. Key:	shengqingshenpitext
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,shengqingshenpitext"
+msgid "申请审批"
+msgstr "신청 승인"
+
+#. Key:	SHWNGQINGJIARU
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,SHWNGQINGJIARU"
+msgid "申请"
+msgstr "신청"
+
 #. Key:	SJ
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
@@ -14103,6 +14159,20 @@ msgstr "인정 받은"
 msgctxt "UI,SQ01"
 msgid "授权"
 msgstr "인정 받은"
+
+#. Key:	sqjrtext003
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,sqjrtext003"
+msgid "申请加入"
+msgstr "가입 신청"
+
+#. Key:	sqtishitext589
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,sqtishitext589"
+msgid "已经申请，等待批准！！！"
+msgstr "신청 완료, 승인 대기 중!!!"
 
 #. Key:	SR
 #. SourceLocation:	/Game/LocalizationText/UI.UI
