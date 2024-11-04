@@ -11869,7 +11869,7 @@ msgstr "A locked door can sometimes be opened with a Crowbar."
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,12"
 msgid "用小锤可以拆除某些物品获取材料。"
-msgstr "Some items can be dismantled to obtain materials with a small Knife."
+msgstr "Some items can be dismantled to obtain materials with an equipped Knife."
 
 #. Key:	13
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -11883,7 +11883,7 @@ msgstr "Stuck? Use the Unstuck Character function in the Escape Menu."
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,14"
 msgid "人物前方近处有物体的话，可能会导致枪械无法瞄准。"
-msgstr "If there is an object near the front of the character, it may cause the firearm to not aim."
+msgstr "If there is an object near the front of the character, it may cause the firearm to not aim and fire."
 
 #. Key:	15
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -11897,7 +11897,7 @@ msgstr "Waiting for the item to be completed on the workbench can obtain relevan
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,16"
 msgid "正在倒下的树十分危险，尽量远离！"
-msgstr "Felled trees are very dangerous so use caution when chopping wood!"
+msgstr "Falling trees are very dangerous so use caution when chopping wood!"
 
 #. Key:	17
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -12569,7 +12569,7 @@ msgstr "Premium tyres, handbrakes and grip are excellent"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,CarTip_QCXLTJ_01"
 msgid "用于修理汽车发动机"
-msgstr "For repairing car Engines"
+msgstr "For repairing vehicle Engines"
 
 #. Key:	CDDX
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -13626,7 +13626,7 @@ msgstr "Insufficient materials required!"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,NeedKnife"
 msgid "需要使用匕首"
-msgstr "Requires the use of a knife"
+msgstr "Requires the use of an equipped knife"
 
 #. Key:	NeedLQ
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -14116,7 +14116,7 @@ msgstr "Delete"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,shengqingshenpitext"
 msgid "申请审批"
-msgstr "Application Approval"
+msgstr "Applications"
 
 #. Key:	SHWNGQINGJIARU
 #. SourceLocation:	/Game/LocalizationText/UI.UI
