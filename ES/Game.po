@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2024-10-28 03:21\n"
-"PO-Revision-Date: 2024-10-28 03:21\n"
+"POT-Creation-Date: 2024-11-05 02:17\n"
+"PO-Revision-Date: 2024-11-05 02:17\n"
 "Language-Team: \n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -4346,6 +4346,20 @@ msgctxt ",BAF666814A58F651C8D4339B3D0BE157"
 msgid "StairsCorner"
 msgstr "Esquina de Escalera"
 
+#. Key:	AB5F89A34C03F62C7A51B0B74607BF3C
+#. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(27 - Value).DisplayNameMap
+#: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(27 - Value).DisplayNameMap
+msgctxt ",AB5F89A34C03F62C7A51B0B74607BF3C"
+msgid "FoundationTriangle"
+msgstr "Triángulo de Fundación"
+
+#. Key:	CB776D864C21BA46F8498490260F66EE
+#. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(28 - Value).DisplayNameMap
+#: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(28 - Value).DisplayNameMap
+msgctxt ",CB776D864C21BA46F8498490260F66EE"
+msgid "FloorTriangle"
+msgstr "Triángulo de Piso"
+
 #. Key:	8AB657134BC71D80A664569881FBD37B
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(3 - Value).DisplayNameMap
 #: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(3 - Value).DisplayNameMap
@@ -4402,17 +4416,10 @@ msgctxt ",F9AEB4DA4E4995AF5C0807AE1EEF8C90"
 msgid "transaction"
 msgstr "Transacción"
 
-#. Key:	6F5F06164D66A95A577B27A19E66A2ED
-#. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Foundation_SN.Default__Foundation_SN_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-#: /Game/HDCKBuildingSystem/MeshBP/Foundation_SN.Default__Foundation_SN_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-msgctxt ",6F5F06164D66A95A577B27A19E66A2ED"
-msgid "水泥制作的地基，看起来很结实，可以承受相当多的重量。"
-msgstr "La base de cemento parece muy resistente y puede soportar un peso considerable."
-
-#. Key:	D061FF8746CD340749B506A88E67E039
+#. Key:	D77B99D44930AC9A82CEED89E8B37DC0
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_DP_XDD.Default__Furniture_DP_XDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_DP_XDD.Default__Furniture_DP_XDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
-msgctxt ",D061FF8746CD340749B506A88E67E039"
+msgctxt ",D77B99D44930AC9A82CEED89E8B37DC0"
 msgid "地板"
 msgstr "Piso"
 
@@ -4437,12 +4444,12 @@ msgctxt ",ABE10B784F6D55A4DA2F40A4FBEC2520"
 msgid "用于保管物品的箱子，不会丢失物品。"
 msgstr "Una caja para guardar objetos sin perderlos."
 
-#. Key:	4E893AA0495C80D10D15F2AB037355E4
+#. Key:	43F671C54CC04C8A84F20C97497EB0E9
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_DPLDD.Default__Furniture_DPLDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_DPLDD.Default__Furniture_DPLDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
-msgctxt ",4E893AA0495C80D10D15F2AB037355E4"
+msgctxt ",43F671C54CC04C8A84F20C97497EB0E9"
 msgid "地板"
-msgstr "piso"
+msgstr "Piso"
 
 #. Key:	7CCCED78433FBE0BEEEFD09131C4426E
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_KG.Furniture_KG_C:ShowUI [Script Bytecode]
@@ -4486,12 +4493,12 @@ msgctxt ",BC879B3F4ECE110B894771976EFF65F1"
 msgid "家具"
 msgstr "Mobiliario"
 
-#. Key:	B5E8414F4E272D59A2B21EA0B7F3BDD7
+#. Key:	38199CD246D19DDAD431179140C1B163
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_TYNFD.Default__Furniture_TYNFD_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_TYNFD.Default__Furniture_TYNFD_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-msgctxt ",B5E8414F4E272D59A2B21EA0B7F3BDD7"
+msgctxt ",38199CD246D19DDAD431179140C1B163"
 msgid "受遮挡或在没有太阳的天气无法发电"
-msgstr "No se puede generar electricidad a la sombra o en un día sin sol."
+msgstr "No puede generar electricidad cuando está bloqueado o en días sin sol"
 
 #. Key:	B902044F444A770F5D16FEBFFB185A39
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_YSSJQ.Furniture_YSSJQ_C:ExecuteUbergraph_Furniture_YSSJQ [Script Bytecode]
@@ -4535,26 +4542,26 @@ msgctxt ",F3F8E148409A7CD56F64519CED4DC8A7"
 msgid "水不够！"
 msgstr "¡No hay suficiente agua!"
 
-#. Key:	0BF69D5C45E62E6DFF3C4B8AB8DE86CD
+#. Key:	D7923A1A4546D1AF1A6482AC35AE3F73
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/OutStairs_Base_Wood.Default__OutStairs_Base_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 #: /Game/HDCKBuildingSystem/MeshBP/OutStairs_Base_Wood.Default__OutStairs_Base_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-msgctxt ",0BF69D5C45E62E6DFF3C4B8AB8DE86CD"
+msgctxt ",D7923A1A4546D1AF1A6482AC35AE3F73"
 msgid "建房必备"
-msgstr "Necesario para construir una casa."
+msgstr "Esencial para construir una casa"
 
-#. Key:	DC4FBDDD4A921252B066C7B27E6EAC8E
+#. Key:	E72D2DBC408F4B7BA60B31A9A23881BD
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_BL.Default__Roof_20_intersection_BL_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 #: /Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_BL.Default__Roof_20_intersection_BL_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-msgctxt ",DC4FBDDD4A921252B066C7B27E6EAC8E"
+msgctxt ",E72D2DBC408F4B7BA60B31A9A23881BD"
 msgid "用于连接外转角屋顶。"
-msgstr "Para unir esquinas de tejado exteriores."
+msgstr "Usado para conectar techos de esquina exterior."
 
-#. Key:	6DEEFB834D696C03979BA0A61A7C62F3
+#. Key:	4C391853447EC1E168C3C098BD28E9EF
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_Wood.Default__Roof_20_intersection_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 #: /Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_Wood.Default__Roof_20_intersection_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-msgctxt ",6DEEFB834D696C03979BA0A61A7C62F3"
+msgctxt ",4C391853447EC1E168C3C098BD28E9EF"
 msgid "用于连接外转角屋顶。"
-msgstr "Para unir tejados de esquina exteriores."
+msgstr "Usado para conectar techos de esquina exterior."
 
 #. Key:	E8EA4D5B4493329CF32982ABD630233C
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Wattle_WoodDoor.Wattle_WoodDoor_C:ShowUI [Script Bytecode]
@@ -4597,13 +4604,6 @@ msgstr "Imprescindible para construir una casa"
 msgctxt ",FF09B24548010A88880671934DB31229"
 msgid "用于连接外转角屋顶。"
 msgstr "Para conectar techos de esquinas exteriores."
-
-#. Key:	57ABD74342F884D14ADE9FA7585DF620
-#. SourceLocation:	/Game/HDCKBuildingSystem/Table/BuildTable.BuildTable.SN_DJ.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-#: /Game/HDCKBuildingSystem/Table/BuildTable.BuildTable.SN_DJ.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-msgctxt ",57ABD74342F884D14ADE9FA7585DF620"
-msgid "水泥制作的地基，看起来很结实，可以承受相当多的重量。"
-msgstr "La base está hecha de cemento, que se ve fuerte y puede soportar una cantidad considerable de peso. "
 
 #. Key:	EF14908E4E8701B13C2A61911CC79713
 #. SourceLocation:	/Game/HDCKBuildingSystem/Table/E_SelectType.E_SelectType.DisplayNameMap(0 - Value).DisplayNameMap
@@ -5977,6 +5977,20 @@ msgctxt ",FourHorizontalBeamDetail"
 msgid "长横梁，可以承受重量，是搭建大房子的必备。"
 msgstr "Las vigas largas, soportan estructuras y son imprescindibles para construir casas grandes."
 
+#. Key:	GlassTr123
+#. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
+#: /Game/LocalizationText/BuildingInfo.BuildingInfo
+msgctxt ",GlassTr123"
+msgid "玻璃地基（三角）"
+msgstr "Fundación de Vidrio (Triángulo)"
+
+#. Key:	GlassTrFloor123
+#. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
+#: /Game/LocalizationText/BuildingInfo.BuildingInfo
+msgctxt ",GlassTrFloor123"
+msgid "玻璃地板（三角）"
+msgstr "Piso de Vidrio (Triángulo)"
+
 #. Key:	GLZX
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -6565,6 +6579,27 @@ msgctxt ",SJDT"
 msgid "升降电梯"
 msgstr "Elevar"
 
+#. Key:	SNDIBANSANJIAO2
+#. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
+#: /Game/LocalizationText/BuildingInfo.BuildingInfo
+msgctxt ",SNDIBANSANJIAO2"
+msgid "水泥地板（三角）"
+msgstr "Piso de Cemento (Triángulo)"
+
+#. Key:	SNDIJIJIESHAO1233
+#. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
+#: /Game/LocalizationText/BuildingInfo.BuildingInfo
+msgctxt ",SNDIJIJIESHAO1233"
+msgid "水泥制作的地基，看起来很结实，可以承受相当多的重量。"
+msgstr "Fundación hecha de cemento, parece muy sólida y puede soportar bastante peso."
+
+#. Key:	SNDJSANJIAO
+#. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
+#: /Game/LocalizationText/BuildingInfo.BuildingInfo
+msgctxt ",SNDJSANJIAO"
+msgid "水泥地基（三角）"
+msgstr "Fundación de Cemento (Triángulo)"
+
 #. Key:	Stairs
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -6613,6 +6648,20 @@ msgstr "Viga, Cimientos/Suelo"
 msgctxt ",StairsDetail"
 msgid "木头制成的楼梯。"
 msgstr "Escalera de Madera"
+
+#. Key:	StoneDIJI
+#. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
+#: /Game/LocalizationText/BuildingInfo.BuildingInfo
+msgctxt ",StoneDIJI"
+msgid "石材地基（三角）"
+msgstr "Fundación de Piedra (Triángulo)"
+
+#. Key:	StoneFloor23
+#. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
+#: /Game/LocalizationText/BuildingInfo.BuildingInfo
+msgctxt ",StoneFloor23"
+msgid "石材地板（三角）"
+msgstr "Piso de Piedra (Triángulo)"
 
 #. Key:	TDC
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -6775,6 +6824,13 @@ msgctxt ",WoodFloorDetail"
 msgid "踩在上面吱吱作响。"
 msgstr "Chirría cuando lo pisas."
 
+#. Key:	woodfloortr
+#. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
+#: /Game/LocalizationText/BuildingInfo.BuildingInfo
+msgctxt ",woodfloortr"
+msgid "木材地板（三角）"
+msgstr "Piso de Madera (Triángulo)"
+
 #. Key:	WoodFoundation
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -6788,6 +6844,13 @@ msgstr "Cimiento de Madera"
 msgctxt ",WoodFoundationDetail"
 msgid "看起来很结实，可以承受相当多的重量。"
 msgstr "Se ve resistente y aguanta bastante peso."
+
+#. Key:	woodsanjiao
+#. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
+#: /Game/LocalizationText/BuildingInfo.BuildingInfo
+msgctxt ",woodsanjiao"
+msgid "木材地基（三角）"
+msgstr "Fundación de Madera (Triángulo)"
 
 #. Key:	WUQIJIAZI
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
