@@ -4351,14 +4351,14 @@ msgstr "Esquina de Escalera"
 #: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(27 - Value).DisplayNameMap
 msgctxt ",AB5F89A34C03F62C7A51B0B74607BF3C"
 msgid "FoundationTriangle"
-msgstr "Triángulo de Fundación"
+msgstr "Cimiento Triangular"
 
 #. Key:	CB776D864C21BA46F8498490260F66EE
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(28 - Value).DisplayNameMap
 #: /Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(28 - Value).DisplayNameMap
 msgctxt ",CB776D864C21BA46F8498490260F66EE"
 msgid "FloorTriangle"
-msgstr "Triángulo de Piso"
+msgstr "Piso Triangular"
 
 #. Key:	8AB657134BC71D80A664569881FBD37B
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(3 - Value).DisplayNameMap
@@ -4547,21 +4547,21 @@ msgstr "¡No hay suficiente agua!"
 #: /Game/HDCKBuildingSystem/MeshBP/OutStairs_Base_Wood.Default__OutStairs_Base_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 msgctxt ",D7923A1A4546D1AF1A6482AC35AE3F73"
 msgid "建房必备"
-msgstr "Esencial para construir una casa"
+msgstr "Necesario para construir una casa."
 
 #. Key:	E72D2DBC408F4B7BA60B31A9A23881BD
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_BL.Default__Roof_20_intersection_BL_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 #: /Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_BL.Default__Roof_20_intersection_BL_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 msgctxt ",E72D2DBC408F4B7BA60B31A9A23881BD"
 msgid "用于连接外转角屋顶。"
-msgstr "Usado para conectar techos de esquina exterior."
+msgstr "Para unir esquinas de tejado exteriores."
 
 #. Key:	4C391853447EC1E168C3C098BD28E9EF
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_Wood.Default__Roof_20_intersection_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 #: /Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_Wood.Default__Roof_20_intersection_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 msgctxt ",4C391853447EC1E168C3C098BD28E9EF"
 msgid "用于连接外转角屋顶。"
-msgstr "Usado para conectar techos de esquina exterior."
+msgstr "Para unir esquinas de tejado exteriores."
 
 #. Key:	E8EA4D5B4493329CF32982ABD630233C
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Wattle_WoodDoor.Wattle_WoodDoor_C:ShowUI [Script Bytecode]
@@ -5982,7 +5982,7 @@ msgstr "Las vigas largas, soportan estructuras y son imprescindibles para constr
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",GlassTr123"
 msgid "玻璃地基（三角）"
-msgstr "Fundación de Vidrio (Triángulo)"
+msgstr "Cimiento de Vidrio (Triángulo)"
 
 #. Key:	GlassTrFloor123
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -6591,14 +6591,14 @@ msgstr "Piso de Cemento (Triángulo)"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",SNDIJIJIESHAO1233"
 msgid "水泥制作的地基，看起来很结实，可以承受相当多的重量。"
-msgstr "Fundación hecha de cemento, parece muy sólida y puede soportar bastante peso."
+msgstr "Cimientos hechos de cemento, parecen muy sólidos y puede soportar bastante peso."
 
 #. Key:	SNDJSANJIAO
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",SNDJSANJIAO"
 msgid "水泥地基（三角）"
-msgstr "Fundación de Cemento (Triángulo)"
+msgstr "Cimientos de Cemento (Triángulo)"
 
 #. Key:	Stairs
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -6654,7 +6654,7 @@ msgstr "Escalera de Madera"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",StoneDIJI"
 msgid "石材地基（三角）"
-msgstr "Fundación de Piedra (Triángulo)"
+msgstr "Cimientos de Piedra (Triángulo)"
 
 #. Key:	StoneFloor23
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -6850,7 +6850,7 @@ msgstr "Se ve resistente y aguanta bastante peso."
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",woodsanjiao"
 msgid "木材地基（三角）"
-msgstr "Fundación de Madera (Triángulo)"
+msgstr "Cimientos de Madera (Triángulo)"
 
 #. Key:	WUQIJIAZI
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -12212,7 +12212,7 @@ msgstr "Daño"
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,YDZA"
 msgid "阅读获取经验值"
-msgstr "Leelo para experiencia."
+msgstr "Experiencia a leer revistas: "
 
 #. Key:	YQT_Tip_01
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -15313,7 +15313,7 @@ msgstr "Vida"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,HL"
 msgid "慌乱"
-msgstr "Temeroso"
+msgstr "Fato de Preparacion"
 
 #. Key:	HLSY
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
