@@ -2545,7 +2545,7 @@ msgstr "Please start Steam to verify the game!"
 #: /Game/Blueprint/UMG/MainUI/Child/TipCharacter.TipCharacter_C:WidgetTree.TextBlock_107.Text
 msgctxt ",1D7C34834DD7C440C59867B541E1F4EF"
 msgid "确认删除角色吗？"
-msgstr "Are you sure you want to delete the role?"
+msgstr "Are you sure you want to delete the Character?"
 
 #. Key:	9EC932C0431AE107C5E9F3B09C1EF1F0
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/TipCheck.TipCheck_C:WidgetTree.TextBlock_107.Text
@@ -2559,7 +2559,7 @@ msgstr "Message"
 #: /Game/Blueprint/UMG/MainUI/Child/TipDelSlot.TipDelSlot_C:WidgetTree.TextBlock_107.Text
 msgctxt ",E0BDBA2A4577298FB1E9F9939B39A11B"
 msgid "确认删除存档吗？"
-msgstr "Are you sure you want to delete your save?"
+msgstr "Are you sure you want to delete your Save?"
 
 #. Key:	A8ACAAC6459AA81F4C0AD08518C85108
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/TipPasswordCheck.TipPasswordCheck_C:WidgetTree.EditableTextBox_84.HintText
@@ -12128,7 +12128,7 @@ msgstr "Warning! Damage to the vehicle causing Engine durability loss will cause
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,LoadTip_02"
 msgid "背包中右键发动机可以消耗汽车修理工具修复即将损坏的发动机。"
-msgstr "To repair a damaged Engine, Right-click the Engine in the backpack and use Car Repair Tools"
+msgstr "To repair a damaged Engine, Right-click the Engine in the backpack and use Car Repair Kits"
 
 #. Key:	LSTip
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -16223,7 +16223,7 @@ msgstr "Sumo Wrestler"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,ZY_LS_Describute"
 msgid "初始体质、力量等级 +1  近战伤害 +4\r\n蛋白质、碳水消耗速度 +20%  速度 -10"
-msgstr "Initial physique and strength level +1 Melee damage +4 Protein and carbohydrate consumption rate +20% Speed -10"
+msgstr "Initial Conditioning and Strength level +1 \nMelee Damage +4 \nProtein and Carbohydrate consumption rate +20% Speed -10"
 
 #. Key:	ZY_NF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
