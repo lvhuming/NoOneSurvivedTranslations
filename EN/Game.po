@@ -3861,14 +3861,14 @@ msgstr "Loom"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_91.In Text
 msgctxt ",B53BE0D643F0BC85688ACCAC6E911CA2"
 msgid "762子弹"
-msgstr "7.62mm Ammo"
+msgstr "7.62 Ammo"
 
 #. Key:	CCEA1679435409D6C3183B863520690B
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_92.In Text
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_92.In Text
 msgctxt ",CCEA1679435409D6C3183B863520690B"
 msgid "556子弹"
-msgstr "5.56mm Ammo"
+msgstr "5.56 Ammo"
 
 #. Key:	E987BA7A4F40FB8392162989C15EBC20
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_93.In Text
@@ -5289,7 +5289,7 @@ msgstr "Iron Gate"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B79"
 msgid "拒马"
-msgstr "Wooden Spike Wall"
+msgstr "Wooden Spikes"
 
 #. Key:	B8
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6682,7 +6682,7 @@ msgstr "This facility will increase the productivity of NPCs"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",TieJuMa"
 msgid "铁拒马"
-msgstr "Iron Spike Wall"
+msgstr "Iron Spikes"
 
 #. Key:	TwoHorizontalBeam
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -8299,14 +8299,14 @@ msgstr "Mod: Stock (Sniper Rifle)"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,G13"
 msgid "762扩容弹夹"
-msgstr "Mod: 7.62mm Extended Magazine"
+msgstr "Mod: 7.62 Extended Magazine"
 
 #. Key:	G14
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,G14"
 msgid "556扩容弹夹"
-msgstr "Mod: 5.56mm Extended Magazine"
+msgstr "Mod: 5.56 Extended Magazine"
 
 #. Key:	G15
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -10266,7 +10266,7 @@ msgstr "Uses 7.62mm Ammo"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W47"
 msgid "使用5.56口径弹药"
-msgstr "Uses 5.56mm Ammo"
+msgstr "Uses 5.56 Ammo"
 
 #. Key:	W48
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -11939,7 +11939,7 @@ msgstr "Some items can be dismantled to obtain materials with an equipped Knife.
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,13"
 msgid "卡住啦！使用退出菜单的脱离卡死功能。"
-msgstr "Stuck? Use the Unstuck Character function in the Escape Menu."
+msgstr "Stuck? Press "Escape" and use the "Unstuck Character" function in the Menu."
 
 #. Key:	14
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -14039,7 +14039,7 @@ msgstr "Use "
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,reload"
 msgid "重载 "
-msgstr "Overload"
+msgstr "Reset"
 
 #. Key:	RESMODE
 #. SourceLocation:	/Game/LocalizationText/UI.UI
