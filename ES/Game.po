@@ -4498,7 +4498,7 @@ msgstr "Mobiliario"
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_TYNFD.Default__Furniture_TYNFD_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 msgctxt ",2BEC3EF84E7CB0B8AAC8D0B46498854F"
 msgid "受遮挡或在没有太阳的天气无法发电"
-msgstr "No se puede generar electricidad si está bloqueado o en días sin sol."
+msgstr "No se puede generar electricidad cuando está bloqueado o en días sin sol."
 
 #. Key:	B902044F444A770F5D16FEBFFB185A39
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_YSSJQ.Furniture_YSSJQ_C:ExecuteUbergraph_Furniture_YSSJQ [Script Bytecode]
@@ -4547,21 +4547,21 @@ msgstr "¡No hay suficiente agua!"
 #: /Game/HDCKBuildingSystem/MeshBP/OutStairs_Base_Wood.Default__OutStairs_Base_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 msgctxt ",90CDCB1B49496C35B493FEA87D7FABB2"
 msgid "建房必备"
-msgstr "Esencial para construir una casa"
+msgstr "Necesario para construir una casa."
 
 #. Key:	0BA2E3B243591BA93DBAE196B2F34428
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_BL.Default__Roof_20_intersection_BL_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 #: /Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_BL.Default__Roof_20_intersection_BL_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 msgctxt ",0BA2E3B243591BA93DBAE196B2F34428"
 msgid "用于连接外转角屋顶。"
-msgstr "Usado para conectar techos en esquinas exteriores."
+msgstr "Para unir esquinas de tejado exteriores."
 
 #. Key:	B5F37C9B4CA2F6EC25F2378416CE004A
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_Wood.Default__Roof_20_intersection_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 #: /Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_Wood.Default__Roof_20_intersection_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 msgctxt ",B5F37C9B4CA2F6EC25F2378416CE004A"
 msgid "用于连接外转角屋顶。"
-msgstr "Usado para conectar techos en esquinas exteriores."
+msgstr "Para unir esquinas de tejado exteriores."
 
 #. Key:	E8EA4D5B4493329CF32982ABD630233C
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Wattle_WoodDoor.Wattle_WoodDoor_C:ShowUI [Script Bytecode]
@@ -5821,7 +5821,7 @@ msgstr "No puedo constuir mas"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,WQGG"
 msgid "武器挂钩"
-msgstr "Soporte para armas"
+msgstr "Expositor para armas"
 
 #. Key:	XT
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -10413,28 +10413,28 @@ msgstr "Su uso principal es picar piedras/minerales, aunque en caso de emergenci
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Weapon_SDRSD_01"
 msgid "圣诞燃烧瓶"
-msgstr "Cóctel molotov navideño"
+msgstr "Molotov navideño"
 
 #. Key:	Weapon_SDSL_01
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Weapon_SDSL_01"
 msgid "圣诞手雷"
-msgstr "Granada de Navidad"
+msgstr "Granada navideña"
 
 #. Key:	Weapon_TGDC_01
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Weapon_TGDC_01"
 msgid "糖果大锤"
-msgstr "Martillo de caramelo"
+msgstr "Mazo de caramelo"
 
 #. Key:	Weapon_TGQG_01
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Weapon_TGQG_01"
 msgid "糖果撬棍"
-msgstr "Palanca de caramelo"
+msgstr "Bastón de caramelo"
 
 #. Key:	WMLT
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -12569,14 +12569,14 @@ msgstr "Eliminar vehículo"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Car_Delete_Tip_01"
 msgid "删除车辆的同时会删除车辆中的所有物品，是否确认删除？"
-msgstr "Al eliminar el vehículo, también se eliminarán todos los objetos en su interior. ¿Desea confirmar la eliminación?"
+msgstr "Al eliminar el vehículo, también se eliminarán todos los objetos en su interior. ¿Confirmas la eliminación?"
 
 #. Key:	Car_Reset_Tip
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Car_Reset_Tip"
 msgid "重置车辆"
-msgstr "Restablecer vehículo"
+msgstr "Recuperar vehículo"
 
 #. Key:	CARHANG
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -13472,7 +13472,7 @@ msgstr "Tengo Frío"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Knapsack_Label_ColorMessage"
 msgid "请选择标签颜色："
-msgstr "Por favor, seleccione el color de la etiqueta:"
+msgstr "Por favor, selecciona el color de la etiqueta:"
 
 #. Key:	KPP
 #. SourceLocation:	/Game/LocalizationText/UI.UI
