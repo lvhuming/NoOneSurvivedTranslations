@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2024-11-05 02:17\n"
-"PO-Revision-Date: 2024-11-05 02:17\n"
+"POT-Creation-Date: 2024-12-25 05:06\n"
+"PO-Revision-Date: 2024-12-25 05:06\n"
 "Language-Team: \n"
 "Language: da\n"
 "MIME-Version: 1.0\n"
@@ -1490,13 +1490,6 @@ msgctxt ",85A4F9F449852268CE75F49289DCC846"
 msgid "燃料："
 msgstr "brændstof:"
 
-#. Key:	BFBB66B5442A5C72DD1DFCBABC586CB7
-#. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_NewCarInventory02.WBP_NewCarInventory02_C:WidgetTree.Repir_2.ToolTipText
-#: /Game/Blueprint/UMG/Furniture/WBP_NewCarInventory02.WBP_NewCarInventory02_C:WidgetTree.Repir_2.ToolTipText
-msgctxt ",BFBB66B5442A5C72DD1DFCBABC586CB7"
-msgid "重置位置"
-msgstr "nulstil position"
-
 #. Key:	C602FCB44E648C02BDDBF081D1AE78C1
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_NewCarInventory02.WBP_NewCarInventory02_C:WidgetTree.TextRY.Text
 #: /Game/Blueprint/UMG/Furniture/WBP_NewCarInventory02.WBP_NewCarInventory02_C:WidgetTree.TextRY.Text
@@ -2679,6 +2672,13 @@ msgstr "Deltag"
 msgctxt ",17B6B9D34796D38A9172D2AB4AFFD345"
 msgid "搜索"
 msgstr "Søg"
+
+#. Key:	DB163F9F414F00E2ACFCDEB8CD488D7D
+#. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_JoinGame.WBP_JoinGame_C:WidgetTree.WBP_Search_1.In Text
+#: /Game/Blueprint/UMG/MainUI/Child/WBP_JoinGame.WBP_JoinGame_C:WidgetTree.WBP_Search_1.In Text
+msgctxt ",DB163F9F414F00E2ACFCDEB8CD488D7D"
+msgid "好友"
+msgstr "Ven"
 
 #. Key:	264F21F94A312BE3982CE79C37D102D3
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_LoadGame.WBP_LoadGame_C:WidgetTree.TextBlock.Text
@@ -4416,10 +4416,10 @@ msgctxt ",F9AEB4DA4E4995AF5C0807AE1EEF8C90"
 msgid "transaction"
 msgstr "transaktion"
 
-#. Key:	D77B99D44930AC9A82CEED89E8B37DC0
+#. Key:	9736694F409E5D1B1314F7AF84B098ED
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_DP_XDD.Default__Furniture_DP_XDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_DP_XDD.Default__Furniture_DP_XDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
-msgctxt ",D77B99D44930AC9A82CEED89E8B37DC0"
+msgctxt ",9736694F409E5D1B1314F7AF84B098ED"
 msgid "地板"
 msgstr "Gulv"
 
@@ -4444,10 +4444,10 @@ msgctxt ",ABE10B784F6D55A4DA2F40A4FBEC2520"
 msgid "用于保管物品的箱子，不会丢失物品。"
 msgstr "En kasse til opbevaring af genstande, så genstande ikke kan gå tabt."
 
-#. Key:	43F671C54CC04C8A84F20C97497EB0E9
+#. Key:	B61CF9114286E769C84E6696E50285D9
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_DPLDD.Default__Furniture_DPLDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_DPLDD.Default__Furniture_DPLDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
-msgctxt ",43F671C54CC04C8A84F20C97497EB0E9"
+msgctxt ",B61CF9114286E769C84E6696E50285D9"
 msgid "地板"
 msgstr "Gulv"
 
@@ -4493,12 +4493,12 @@ msgctxt ",BC879B3F4ECE110B894771976EFF65F1"
 msgid "家具"
 msgstr "møbel"
 
-#. Key:	38199CD246D19DDAD431179140C1B163
+#. Key:	2BEC3EF84E7CB0B8AAC8D0B46498854F
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_TYNFD.Default__Furniture_TYNFD_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_TYNFD.Default__Furniture_TYNFD_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-msgctxt ",38199CD246D19DDAD431179140C1B163"
+msgctxt ",2BEC3EF84E7CB0B8AAC8D0B46498854F"
 msgid "受遮挡或在没有太阳的天气无法发电"
-msgstr "Kan ikke generere elektricitet, når det er skygget eller i overskyet vejr"
+msgstr "Kan ikke generere strøm, når det er skygget eller overskyet vejr uden sol"
 
 #. Key:	B902044F444A770F5D16FEBFFB185A39
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_YSSJQ.Furniture_YSSJQ_C:ExecuteUbergraph_Furniture_YSSJQ [Script Bytecode]
@@ -4542,24 +4542,24 @@ msgctxt ",F3F8E148409A7CD56F64519CED4DC8A7"
 msgid "水不够！"
 msgstr "Ikke nok vand!"
 
-#. Key:	D7923A1A4546D1AF1A6482AC35AE3F73
+#. Key:	90CDCB1B49496C35B493FEA87D7FABB2
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/OutStairs_Base_Wood.Default__OutStairs_Base_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 #: /Game/HDCKBuildingSystem/MeshBP/OutStairs_Base_Wood.Default__OutStairs_Base_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-msgctxt ",D7923A1A4546D1AF1A6482AC35AE3F73"
+msgctxt ",90CDCB1B49496C35B493FEA87D7FABB2"
 msgid "建房必备"
-msgstr "Nødvendigt til husbyggeri"
+msgstr "Essentiel til husbygning"
 
-#. Key:	E72D2DBC408F4B7BA60B31A9A23881BD
+#. Key:	0BA2E3B243591BA93DBAE196B2F34428
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_BL.Default__Roof_20_intersection_BL_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 #: /Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_BL.Default__Roof_20_intersection_BL_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-msgctxt ",E72D2DBC408F4B7BA60B31A9A23881BD"
+msgctxt ",0BA2E3B243591BA93DBAE196B2F34428"
 msgid "用于连接外转角屋顶。"
 msgstr "Bruges til at forbinde udvendige hjørnetage."
 
-#. Key:	4C391853447EC1E168C3C098BD28E9EF
+#. Key:	B5F37C9B4CA2F6EC25F2378416CE004A
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_Wood.Default__Roof_20_intersection_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 #: /Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_Wood.Default__Roof_20_intersection_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-msgctxt ",4C391853447EC1E168C3C098BD28E9EF"
+msgctxt ",B5F37C9B4CA2F6EC25F2378416CE004A"
 msgid "用于连接外转角屋顶。"
 msgstr "Bruges til at forbinde udvendige hjørnetage."
 
@@ -5815,6 +5815,13 @@ msgstr "søgelys"
 msgctxt "BuildInfo,WFJZGD"
 msgid "无法建造更多"
 msgstr "kan ikke bygge mere"
+
+#. Key:	WQGG
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,WQGG"
+msgid "武器挂钩"
+msgstr "Våbenkrog"
 
 #. Key:	XT
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -10401,6 +10408,34 @@ msgctxt "ItemInfo,W9"
 msgid "主要用于打碎石头，必要时候也可以用来防身。"
 msgstr "Det bruges hovedsageligt til at knække sten, og kan også bruges til selvforsvar, når det er nødvendigt."
 
+#. Key:	Weapon_SDRSD_01
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Weapon_SDRSD_01"
+msgid "圣诞燃烧瓶"
+msgstr "Julemolotov"
+
+#. Key:	Weapon_SDSL_01
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Weapon_SDSL_01"
+msgid "圣诞手雷"
+msgstr "Julegranat"
+
+#. Key:	Weapon_TGDC_01
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Weapon_TGDC_01"
+msgid "糖果大锤"
+msgstr "Sukkersliskæmpehammer"
+
+#. Key:	Weapon_TGQG_01
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Weapon_TGQG_01"
+msgid "糖果撬棍"
+msgstr "Sukkerslikbrækjern"
+
 #. Key:	WMLT
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
@@ -12522,6 +12557,27 @@ msgctxt "UI,CAR"
 msgid "车辆控制"
 msgstr "køretøjskontrol"
 
+#. Key:	Car_Delete_Tip
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,Car_Delete_Tip"
+msgid "删除车辆"
+msgstr "Slet køretøj"
+
+#. Key:	Car_Delete_Tip_01
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,Car_Delete_Tip_01"
+msgid "删除车辆的同时会删除车辆中的所有物品，是否确认删除？"
+msgstr "Ved sletning af køretøj vil alle genstande i køretøjet blive slettet. Bekræfter du sletningen?"
+
+#. Key:	Car_Reset_Tip
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,Car_Reset_Tip"
+msgid "重置车辆"
+msgstr "Nulstil køretøj"
+
 #. Key:	CARHANG
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
@@ -13306,6 +13362,13 @@ msgctxt "UI,HSD"
 msgid "华氏度"
 msgstr "Fahrenheit"
 
+#. Key:	Inventory_Label
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,Inventory_Label"
+msgid "标签"
+msgstr "Mærkat"
+
 #. Key:	itemDetail
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
@@ -13403,6 +13466,13 @@ msgstr "Oplåsning:"
 msgctxt "UI,KH"
 msgid "我感觉冷"
 msgstr "jeg har det koldt"
+
+#. Key:	Knapsack_Label_ColorMessage
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,Knapsack_Label_ColorMessage"
+msgid "请选择标签颜色："
+msgstr "Vælg venligst farven på mærkaten:"
 
 #. Key:	KPP
 #. SourceLocation:	/Game/LocalizationText/UI.UI
