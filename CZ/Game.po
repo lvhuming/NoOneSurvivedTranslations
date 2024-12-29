@@ -4498,7 +4498,7 @@ msgstr "Nábytek"
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_TYNFD.Default__Furniture_TYNFD_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 msgctxt ",2BEC3EF84E7CB0B8AAC8D0B46498854F"
 msgid "受遮挡或在没有太阳的天气无法发电"
-msgstr "V případě stínu nebo při zataženém počasí nelze vyrábět elektřinu"
+msgstr "Nelze generovat elektřinu, pokud je zastíněno nebo je zataženo"
 
 #. Key:	B902044F444A770F5D16FEBFFB185A39
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_YSSJQ.Furniture_YSSJQ_C:ExecuteUbergraph_Furniture_YSSJQ [Script Bytecode]
@@ -4547,7 +4547,7 @@ msgstr "Málo vody!"
 #: /Game/HDCKBuildingSystem/MeshBP/OutStairs_Base_Wood.Default__OutStairs_Base_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 msgctxt ",90CDCB1B49496C35B493FEA87D7FABB2"
 msgid "建房必备"
-msgstr "Nutnost pro stavbu domu"
+msgstr "Nezbytné pro stavbu domu"
 
 #. Key:	0BA2E3B243591BA93DBAE196B2F34428
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_BL.Default__Roof_20_intersection_BL_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
@@ -5821,7 +5821,7 @@ msgstr "Další nelze postavit"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,WQGG"
 msgid "武器挂钩"
-msgstr "Hák na zbraň"
+msgstr "Držák na zbraň"
 
 #. Key:	XT
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -10427,14 +10427,14 @@ msgstr "Vánoční granát"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Weapon_TGDC_01"
 msgid "糖果大锤"
-msgstr "Cukrové kladivo"
+msgstr "Vánoční kladivo"
 
 #. Key:	Weapon_TGQG_01
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Weapon_TGQG_01"
 msgid "糖果撬棍"
-msgstr "Cukrové páčidlo"
+msgstr "Vánoční páčidlo"
 
 #. Key:	WMLT
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -12569,7 +12569,7 @@ msgstr "Smazat vozidlo"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Car_Delete_Tip_01"
 msgid "删除车辆的同时会删除车辆中的所有物品，是否确认删除？"
-msgstr "Odstraněním vozidla odstraníte také všechny položky v něm, jste si jisti, že chcete odstranit?"
+msgstr "Smazáním vozidla odstraníte také všechny předměty v něm, opravdu chcete vozidlo smazat?"
 
 #. Key:	Car_Reset_Tip
 #. SourceLocation:	/Game/LocalizationText/UI.UI
