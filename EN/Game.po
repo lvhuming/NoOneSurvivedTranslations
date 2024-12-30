@@ -123,7 +123,7 @@ msgstr "Stamina Limit"
 #: /Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_7.TipMessage_41_0D1B7B6342180F0BD1D386A6C8ADE0B3
 msgctxt ",0C797E8E40ACBD720B57B4B33B461ADD"
 msgid "疟疾几率"
-msgstr "Food Poisoning Chance"
+msgstr "Dysentery Chance"
 
 #. Key:	36F28AD24381348428BD9687A35CBC18
 #. SourceLocation:	/Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_7.TZF_27_2477A82448AA37EFCFBF4883BE709EF2
@@ -5821,7 +5821,7 @@ msgstr "Building limit reached"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,WQGG"
 msgid "武器挂钩"
-msgstr "Weapon hook"
+msgstr "Weapon Wall Hook"
 
 #. Key:	XT
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -7963,7 +7963,7 @@ msgstr "Mushroom"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F60"
 msgid "有效治疗疟疾"
-msgstr "Effectively treats Food Poisoning"
+msgstr "Effectively treats Food Poisoning/Dysentery"
 
 #. Key:	F61
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9531,7 +9531,7 @@ msgstr "Gastric Medicine"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,T14"
 msgid "治疗疟疾"
-msgstr "Treats Food Poisoning"
+msgstr "Treats Food Poisoning/Dysentery"
 
 #. Key:	T15
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -11890,7 +11890,7 @@ msgstr "Master Volume"
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,01"
 msgid "当食物新鲜度开始变黄，吃下去可能会感染疟疾，新鲜度越低感染的可能性越大。"
-msgstr "When the freshness of a food turns yellow or red you increase the chance to get Food Poisoning after eating it."
+msgstr "When the freshness of a food turns yellow or red you increase the chance to get Dysentery after eating it."
 
 #. Key:	02
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -12184,7 +12184,7 @@ msgstr "Cooking Level"
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,QWXR"
 msgid "疟疾概率"
-msgstr "Food Poisoning Probability"
+msgstr "Dysentery Probability"
 
 #. Key:	RSZYTip
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -12562,7 +12562,7 @@ msgstr "Vehicle Control"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Car_Delete_Tip"
 msgid "删除车辆"
-msgstr "Delete vehicle"
+msgstr "Delete Vehicle"
 
 #. Key:	Car_Delete_Tip_01
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12576,7 +12576,7 @@ msgstr "Deleting the vehicle will also delete all items inside it. Are you sure 
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Car_Reset_Tip"
 msgid "重置车辆"
-msgstr "Reset vehicle"
+msgstr "Reset Vehicle"
 
 #. Key:	CARHANG
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -13780,7 +13780,7 @@ msgstr "Password required:"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,NJ"
 msgid "疟疾"
-msgstr "Food Poisoning"
+msgstr "Food Poisoning/Dysentery"
 
 #. Key:	NLSX
 #. SourceLocation:	/Game/LocalizationText/UI.UI
