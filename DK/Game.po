@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2024-12-25 05:06\n"
-"PO-Revision-Date: 2024-12-25 05:06\n"
+"POT-Creation-Date: 2025-01-20 13:47\n"
+"PO-Revision-Date: 2025-01-20 13:47\n"
 "Language-Team: \n"
 "Language: da\n"
 "MIME-Version: 1.0\n"
@@ -397,13 +397,6 @@ msgstr "Revolver"
 msgctxt ",A9AF20C4464A2FCCD556B98049E332CC"
 msgid "SKS"
 msgstr "SKS"
-
-#. Key:	F3B07B974B8226CAF5D9419ED0F3A64C
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_sniper_SVD.Default__ACFGunBase_sniper_SVD_C.ItemInfo.Name
-#: /Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_sniper_SVD.Default__ACFGunBase_sniper_SVD_C.ItemInfo.Name
-msgctxt ",F3B07B974B8226CAF5D9419ED0F3A64C"
-msgid "SVD"
-msgstr "SVD"
 
 #. Key:	1F99F44C4E0061BF010728B9C1DBDC30
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Ammo/BP_GunAmmoBase.Default__BP_GunAmmoBase_C.ItemInfo.Name
@@ -9904,6 +9897,34 @@ msgctxt "ItemInfo,Tip_YP_ZL_09"
 msgid "治疗感冒"
 msgstr "Behandling af forkølelse"
 
+#. Key:	Tool_CarRepir_Tip
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tool_CarRepir_Tip"
+msgid "可用于修理汽车发动机"
+msgstr "Kan bruges til at reparere bilmotorer"
+
+#. Key:	Tool_JZWQXLTJ
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tool_JZWQXLTJ"
+msgid "近战武器修理套件"
+msgstr "Reparationssæt til nærkampsvåben"
+
+#. Key:	Tool_JZWQXLTJ_Tip
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tool_JZWQXLTJ_Tip"
+msgid "可用于修复近战武器以及弓箭的耐久度"
+msgstr "Kan bruges til at reparere holdbarheden på nærkampsvåben og buer"
+
+#. Key:	Tool_XNB
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tool_XNB"
+msgid "仙女棒"
+msgstr "Fe-tryllestav"
+
 #. Key:	Tool_YOUQITONG
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
@@ -10408,6 +10429,13 @@ msgctxt "ItemInfo,W9"
 msgid "主要用于打碎石头，必要时候也可以用来防身。"
 msgstr "Det bruges hovedsageligt til at knække sten, og kan også bruges til selvforsvar, når det er nødvendigt."
 
+#. Key:	Weapon_BaoZhu
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Weapon_BaoZhu"
+msgid "爆竹"
+msgstr "Knaldperler"
+
 #. Key:	Weapon_SDRSD_01
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
@@ -10435,6 +10463,20 @@ msgstr "Sukkersliskæmpehammer"
 msgctxt "ItemInfo,Weapon_TGQG_01"
 msgid "糖果撬棍"
 msgstr "Sukkerslikbrækjern"
+
+#. Key:	Weapon_YanHua
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Weapon_YanHua"
+msgid "烟花"
+msgstr "Fyrværkeri"
+
+#. Key:	Weapon_YanHua_Tip
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Weapon_YanHua_Tip"
+msgid "可以用来吸引丧尸"
+msgstr "Kan bruges til at tiltrække zombier"
 
 #. Key:	WMLT
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -14558,6 +14600,13 @@ msgstr "Smeltet af malm, eller opnået ved demontering af emner, kan smeltes til
 msgctxt "UI,toLen"
 msgid "字符太长了！"
 msgstr "Tegnene er for lange!"
+
+#. Key:	Tool_JZWQXLTJ_Tip_02
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,Tool_JZWQXLTJ_Tip_02"
+msgid "缺少近战武器修理套件"
+msgstr "Mangler reparationssæt til nærkampsvåben"
 
 #. Key:	TPSCSL
 #. SourceLocation:	/Game/LocalizationText/UI.UI

@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2024-12-25 05:06\n"
-"PO-Revision-Date: 2024-12-25 05:06\n"
+"POT-Creation-Date: 2025-01-20 13:47\n"
+"PO-Revision-Date: 2025-01-20 13:47\n"
 "Language-Team: \n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
@@ -397,13 +397,6 @@ msgstr "Revolver"
 msgctxt ",A9AF20C4464A2FCCD556B98049E332CC"
 msgid "SKS"
 msgstr "SKS Puška"
-
-#. Key:	F3B07B974B8226CAF5D9419ED0F3A64C
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_sniper_SVD.Default__ACFGunBase_sniper_SVD_C.ItemInfo.Name
-#: /Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_sniper_SVD.Default__ACFGunBase_sniper_SVD_C.ItemInfo.Name
-msgctxt ",F3B07B974B8226CAF5D9419ED0F3A64C"
-msgid "SVD"
-msgstr "SVD Odstřelovačka"
 
 #. Key:	1F99F44C4E0061BF010728B9C1DBDC30
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Ammo/BP_GunAmmoBase.Default__BP_GunAmmoBase_C.ItemInfo.Name
@@ -9904,6 +9897,34 @@ msgctxt "ItemInfo,Tip_YP_ZL_09"
 msgid "治疗感冒"
 msgstr "Léčba nachlazení"
 
+#. Key:	Tool_CarRepir_Tip
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tool_CarRepir_Tip"
+msgid "可用于修理汽车发动机"
+msgstr "Lze použít k opravě automobilových motorů"
+
+#. Key:	Tool_JZWQXLTJ
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tool_JZWQXLTJ"
+msgid "近战武器修理套件"
+msgstr "Opravná sada na zbraně na blízko"
+
+#. Key:	Tool_JZWQXLTJ_Tip
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tool_JZWQXLTJ_Tip"
+msgid "可用于修复近战武器以及弓箭的耐久度"
+msgstr "Lze použít k opravě odolnosti zbraní na blízko a luků"
+
+#. Key:	Tool_XNB
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tool_XNB"
+msgid "仙女棒"
+msgstr "Vílí hůlka"
+
 #. Key:	Tool_YOUQITONG
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
@@ -10408,6 +10429,13 @@ msgctxt "ItemInfo,W9"
 msgid "主要用于打碎石头，必要时候也可以用来防身。"
 msgstr "Používá se hlavně k rozbíjení kamenů a v případě potřeby ho lze použít i k sebeobraně."
 
+#. Key:	Weapon_BaoZhu
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Weapon_BaoZhu"
+msgid "爆竹"
+msgstr "Petardy"
+
 #. Key:	Weapon_SDRSD_01
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
@@ -10435,6 +10463,20 @@ msgstr "Vánoční kladivo"
 msgctxt "ItemInfo,Weapon_TGQG_01"
 msgid "糖果撬棍"
 msgstr "Vánoční páčidlo"
+
+#. Key:	Weapon_YanHua
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Weapon_YanHua"
+msgid "烟花"
+msgstr "Rachejtle"
+
+#. Key:	Weapon_YanHua_Tip
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Weapon_YanHua_Tip"
+msgid "可以用来吸引丧尸"
+msgstr "Lze použít k přilákání zombie"
 
 #. Key:	WMLT
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -14558,6 +14600,13 @@ msgstr "Vyrobeno z roztavené rudy nebo získáno rozebráním předmětů, lze 
 msgctxt "UI,toLen"
 msgid "字符太长了！"
 msgstr "Text je dlouhý!"
+
+#. Key:	Tool_JZWQXLTJ_Tip_02
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,Tool_JZWQXLTJ_Tip_02"
+msgid "缺少近战武器修理套件"
+msgstr "Chybí opravná sada na zbraně na blízko"
 
 #. Key:	TPSCSL
 #. SourceLocation:	/Game/LocalizationText/UI.UI

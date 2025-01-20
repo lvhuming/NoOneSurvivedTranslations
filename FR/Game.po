@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2024-12-25 05:06\n"
-"PO-Revision-Date: 2024-12-25 05:06\n"
+"POT-Creation-Date: 2025-01-20 13:47\n"
+"PO-Revision-Date: 2025-01-20 13:47\n"
 "Language-Team: \n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -397,13 +397,6 @@ msgstr "Revolver"
 msgctxt ",A9AF20C4464A2FCCD556B98049E332CC"
 msgid "SKS"
 msgstr "SKS"
-
-#. Key:	F3B07B974B8226CAF5D9419ED0F3A64C
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_sniper_SVD.Default__ACFGunBase_sniper_SVD_C.ItemInfo.Name
-#: /Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_sniper_SVD.Default__ACFGunBase_sniper_SVD_C.ItemInfo.Name
-msgctxt ",F3B07B974B8226CAF5D9419ED0F3A64C"
-msgid "SVD"
-msgstr "SVD"
 
 #. Key:	1F99F44C4E0061BF010728B9C1DBDC30
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Ammo/BP_GunAmmoBase.Default__BP_GunAmmoBase_C.ItemInfo.Name
@@ -9904,6 +9897,34 @@ msgctxt "ItemInfo,Tip_YP_ZL_09"
 msgid "治疗感冒"
 msgstr "Traitement du rhume"
 
+#. Key:	Tool_CarRepir_Tip
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tool_CarRepir_Tip"
+msgid "可用于修理汽车发动机"
+msgstr "Peut être utilisée pour réparer le moteur des voitures"
+
+#. Key:	Tool_JZWQXLTJ
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tool_JZWQXLTJ"
+msgid "近战武器修理套件"
+msgstr "Kit de réparation pour armes de mêlée"
+
+#. Key:	Tool_JZWQXLTJ_Tip
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tool_JZWQXLTJ_Tip"
+msgid "可用于修复近战武器以及弓箭的耐久度"
+msgstr "Peut être utilisée pour réparer la durabilité des armes de mêlée et des arcs"
+
+#. Key:	Tool_XNB
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Tool_XNB"
+msgid "仙女棒"
+msgstr "Baguette magique"
+
 #. Key:	Tool_YOUQITONG
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
@@ -10408,6 +10429,13 @@ msgctxt "ItemInfo,W9"
 msgid "主要用于打碎石头，必要时候也可以用来防身。"
 msgstr "Elle est principalement utilisée pour casser des pierres, mais elle peut également être utilisée pour l'autodéfense si nécessaire."
 
+#. Key:	Weapon_BaoZhu
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Weapon_BaoZhu"
+msgid "爆竹"
+msgstr "Pétards"
+
 #. Key:	Weapon_SDRSD_01
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
@@ -10435,6 +10463,20 @@ msgstr "Marteau en sucre d'orge"
 msgctxt "ItemInfo,Weapon_TGQG_01"
 msgid "糖果撬棍"
 msgstr "Pied-de-biche en sucre d'orge"
+
+#. Key:	Weapon_YanHua
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Weapon_YanHua"
+msgid "烟花"
+msgstr "Feu d'artifice"
+
+#. Key:	Weapon_YanHua_Tip
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Weapon_YanHua_Tip"
+msgid "可以用来吸引丧尸"
+msgstr "Peut être utilisée pour attirer les zombies"
 
 #. Key:	WMLT
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -14558,6 +14600,13 @@ msgstr "Fondu à partir de minerai ou obtenu en démantelant des objets. Peut ê
 msgctxt "UI,toLen"
 msgid "字符太长了！"
 msgstr "Les caractères sont trop longs !"
+
+#. Key:	Tool_JZWQXLTJ_Tip_02
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,Tool_JZWQXLTJ_Tip_02"
+msgid "缺少近战武器修理套件"
+msgstr "Kit de réparation pour armes de mêlée manquant"
 
 #. Key:	TPSCSL
 #. SourceLocation:	/Game/LocalizationText/UI.UI
