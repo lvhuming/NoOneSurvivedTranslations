@@ -1376,7 +1376,7 @@ msgstr "20"
 #: /Game/Blueprint/UMG/Furniture/WBP_CarInventory01.WBP_CarInventory01_C:WidgetTree.Repir.ToolTipText
 msgctxt ",32F2C50042D534BEAA1662A2087AC8CA"
 msgid "放入汽车修理套件维修"
-msgstr "Put in a car repair kit for repairs"
+msgstr "Put in a Engine Repair Kit for repairs"
 
 #. Key:	808F715944DB629B18CE04BDF7A72F96
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_CarInventory01.WBP_CarInventory01_C:WidgetTree.Repir_2.ToolTipText
@@ -3287,7 +3287,7 @@ msgstr "Nutrient Solution"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_103.In Text
 msgctxt ",B15D04364C87BE5BFEE9C6BC4DB45FE4"
 msgid "汽车修理套件"
-msgstr "Car Repair Kit"
+msgstr "Engine Repair Kit"
 
 #. Key:	4492781C4F5E797D00FE94AE878EF46C
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_11.In Text
@@ -9258,7 +9258,7 @@ msgstr "Car Spare Parts"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M98"
 msgid "汽车修理套件"
-msgstr "Car Repair Kit"
+msgstr "Engine Repair Kit"
 
 #. Key:	M99
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9902,21 +9902,21 @@ msgstr "Treats Cold"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Tool_CarRepir_Tip"
 msgid "可用于修理汽车发动机"
-msgstr "Can be used to repair car engines"
+msgstr "Can be used to repair Car Engines"
 
 #. Key:	Tool_JZWQXLTJ
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Tool_JZWQXLTJ"
 msgid "近战武器修理套件"
-msgstr "Melee weapon repair kit"
+msgstr "Weapon Repair Kit"
 
 #. Key:	Tool_JZWQXLTJ_Tip
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Tool_JZWQXLTJ_Tip"
 msgid "可用于修复近战武器以及弓箭的耐久度"
-msgstr "Can be used to repair the durability of melee weapons and bows"
+msgstr "Can be used to repair the durability of Melee Weapons, Tools and Bows"
 
 #. Key:	Tool_XNB
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -12205,7 +12205,7 @@ msgstr "Warning! Damage to the vehicle causing Engine durability loss will cause
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,LoadTip_02"
 msgid "背包中右键发动机可以消耗汽车修理工具修复即将损坏的发动机。"
-msgstr "To repair a damaged Engine, Right-click the Engine in the backpack and use Car Repair Kits"
+msgstr "To repair a damaged Engine, Right-click the Engine in the Backpack and use an Engine Repair Kit"
 
 #. Key:	LSTip
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -13178,7 +13178,7 @@ msgstr "Insufficient Tailoring Skill"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,FDJTip_QSTJ"
 msgid "缺少汽车修理套件"
-msgstr "Missing car repair kit"
+msgstr "Missing Engine Repair Kit"
 
 #. Key:	FG
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -14606,7 +14606,7 @@ msgstr "The character's name is too long!"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Tool_JZWQXLTJ_Tip_02"
 msgid "缺少近战武器修理套件"
-msgstr "Lacking a melee weapon repair kit"
+msgstr "Lacking a Weapon Repair Kit"
 
 #. Key:	TPSCSL
 #. SourceLocation:	/Game/LocalizationText/UI.UI
