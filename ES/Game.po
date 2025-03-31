@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2025-01-20 13:47\n"
-"PO-Revision-Date: 2025-01-20 13:47\n"
+"POT-Creation-Date: 2025-03-31 12:17\n"
+"PO-Revision-Date: 2025-03-31 12:17\n"
 "Language-Team: \n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -19,6 +19,328 @@ msgstr ""
 msgctxt ",2CD410E740F487818FE918876292782E"
 msgid "Animal"
 msgstr "Animal"
+
+#. Key:	AnimNode_ApplyAdditive:LODThreshold
+#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_ApplyAdditive_1.ShowPinForProperties(4).ShowPinForProperties.PropertyTooltip
+#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_ApplyAdditive_1.ShowPinForProperties(4).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,AnimNode_ApplyAdditive:LODThreshold"
+msgid "* Max LOD that this node is allowed to run\n* For example if you have LODThreshold to be 2, it will run until LOD 2 (based on 0 index)\n* when the component LOD becomes 3, it will stop update/evaluate\n* currently transition would be issue and that has to be re-visited"
+msgstr "* Nivel máximo de LOD permitido para que este nodo se ejecute\n* Por ejemplo, si tienes LODThreshold configurado en 2, funcionará hasta LOD 2 (basándose en el índice 0)\n* cuando el LOD del componente se convierte en 3, dejará de actualizarse/evaluarse.\n* Actualmente, la transición sería un problema y tendría que ser revisada."
+
+#. Key:	AnimNode_AssetPlayerBase:BlendWeight
+#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequenceEvaluator_19.ShowPinForProperties(0).ShowPinForProperties.PropertyTooltip
+#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequenceEvaluator_19.ShowPinForProperties(0).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,AnimNode_AssetPlayerBase:BlendWeight"
+msgid "Last encountered blendweight for this node"
+msgstr "Último blendweight encontrado para este nodo"
+
+#. Key:	AnimNode_AssetPlayerBase:InternalTimeAccumulator
+#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequenceEvaluator_19.ShowPinForProperties(1).ShowPinForProperties.PropertyTooltip
+#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequenceEvaluator_19.ShowPinForProperties(1).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,AnimNode_AssetPlayerBase:InternalTimeAccumulator"
+msgid "Accumulated time used to reference the asset in this node"
+msgstr "Tiempo acumulado utilizado para referenciar el recurso en este nodo"
+
+#. Key:	AnimNode_SequenceEvaluator:bShouldLoop
+#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequenceEvaluator_19.ShowPinForProperties(10).ShowPinForProperties.PropertyTooltip
+#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequenceEvaluator_19.ShowPinForProperties(10).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,AnimNode_SequenceEvaluator:bShouldLoop"
+msgid "This only works if bTeleportToExplicitTime is false OR this node is set to use SyncGroup"
+msgstr "Esto solo funciona si bTeleportToExplicitTime es falso O este nodo está configurado para usar SyncGroup"
+
+#. Key:	AnimNode_SequenceEvaluator:bTeleportToExplicitTime
+#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequenceEvaluator_19.ShowPinForProperties(11).ShowPinForProperties.PropertyTooltip
+#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequenceEvaluator_19.ShowPinForProperties(11).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,AnimNode_SequenceEvaluator:bTeleportToExplicitTime"
+msgid "If true, teleport to explicit time, does NOT advance time (does not trigger notifies, does not extract Root Motion, etc.)\n      If false, will advance time (will trigger notifies, extract root motion if applicable, etc.)\n      Note: using a sync group forces advancing time regardless of what this option is set to."
+msgstr "Si es verdadero, teletransportar al tiempo explícito, NO avanzar el tiempo (no activa notificaciones, no extrae Root Motion, etc.)\nSi es falso, avanzará el tiempo (activará notificaciones, extraerá Root Motion si corresponde, etc.)\nNota: usar un grupo de sincronización obliga a avanzar el tiempo independientemente de esta opción."
+
+#. Key:	AnimNode_SequenceEvaluator:ReinitializationBehavior
+#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequenceEvaluator_19.ShowPinForProperties(12).ShowPinForProperties.PropertyTooltip
+#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequenceEvaluator_19.ShowPinForProperties(12).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,AnimNode_SequenceEvaluator:ReinitializationBehavior"
+msgid "What to do when SequenceEvaluator is reinitialized"
+msgstr "Qué hacer cuando SequenceEvaluator se reinicializa"
+
+#. Key:	AnimNode_SequenceEvaluator:StartPosition
+#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequenceEvaluator_19.ShowPinForProperties(13).ShowPinForProperties.PropertyTooltip
+#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequenceEvaluator_19.ShowPinForProperties(13).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,AnimNode_SequenceEvaluator:StartPosition"
+msgid "The start up position, it only applies when ReinitializationBehavior == StartPosition. Only used when bTeleportToExplicitTime is false."
+msgstr "La posición inicial, solo se aplica cuando ReinitializationBehavior == StartPosition. Solo se utiliza cuando bTeleportToExplicitTime es falso."
+
+#. Key:	AnimNode_SequenceEvaluator:GroupName
+#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequenceEvaluator_19.ShowPinForProperties(2).ShowPinForProperties.PropertyTooltip
+#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequenceEvaluator_19.ShowPinForProperties(2).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,AnimNode_SequenceEvaluator:GroupName"
+msgid "The group name that we synchronize with (NAME_None if it is not part of any group)."
+msgstr "El nombre del grupo con el que sincronizamos (NAME_None si no forma parte de ningún grupo)."
+
+#. Key:	AnimNode_SequenceEvaluator:GroupRole
+#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequenceEvaluator_19.ShowPinForProperties(3).ShowPinForProperties.PropertyTooltip
+#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequenceEvaluator_19.ShowPinForProperties(3).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,AnimNode_SequenceEvaluator:GroupRole"
+msgid "The role this node can assume within the group (ignored if GroupName is not set)"
+msgstr "El rol que este nodo puede asumir dentro del grupo (ignorado si GroupName no está configurado)"
+
+#. Key:	AnimNode_SequenceEvaluator:Method
+#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequenceEvaluator_19.ShowPinForProperties(4).ShowPinForProperties.PropertyTooltip
+#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequenceEvaluator_19.ShowPinForProperties(4).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,AnimNode_SequenceEvaluator:Method"
+msgid "How this node will synchronize with other animations."
+msgstr "Cómo este nodo se sincroniza con otras animaciones."
+
+#. Key:	AnimNode_SequenceEvaluator:bIgnoreForRelevancyTest
+#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequenceEvaluator_19.ShowPinForProperties(5).ShowPinForProperties.PropertyTooltip
+#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequenceEvaluator_19.ShowPinForProperties(5).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,AnimNode_SequenceEvaluator:bIgnoreForRelevancyTest"
+msgid "If true, \"Relevant anim\" nodes that look for the highest weighted animation in a state will ignore this node"
+msgstr "Si es verdadero, los nodos \"Relevant anim\" que buscan la animación de mayor peso en un estado ignorarán este nodo."
+
+#. Key:	AnimNode_SequenceEvaluator:Sequence
+#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequenceEvaluator_19.ShowPinForProperties(6).ShowPinForProperties.PropertyTooltip
+#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequenceEvaluator_19.ShowPinForProperties(6).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,AnimNode_SequenceEvaluator:Sequence"
+msgid "The animation sequence asset to evaluate"
+msgstr "El recurso de secuencia de animación a evaluar"
+
+#. Key:	AnimNode_SequenceEvaluator:ExplicitTime
+#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequenceEvaluator_19.ShowPinForProperties(7).ShowPinForProperties.PropertyTooltip
+#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequenceEvaluator_19.ShowPinForProperties(7).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,AnimNode_SequenceEvaluator:ExplicitTime"
+msgid "The time at which to evaluate the associated sequence"
+msgstr "El tiempo en el que se evaluará la secuencia asociada"
+
+#. Key:	AnimNode_SequenceEvaluator:bUseExplicitFrame
+#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequenceEvaluator_19.ShowPinForProperties(8).ShowPinForProperties.PropertyTooltip
+#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequenceEvaluator_19.ShowPinForProperties(8).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,AnimNode_SequenceEvaluator:bUseExplicitFrame"
+msgid "Whether to use ExplicitFrame (true) or ExplicitTime (false) when evaluating the associated sequence"
+msgstr "Si se utilizará ExplicitFrame (verdadero) o ExplicitTime (falso) al evaluar la secuencia asociada"
+
+#. Key:	AnimNode_SequenceEvaluator:ExplicitFrame
+#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequenceEvaluator_19.ShowPinForProperties(9).ShowPinForProperties.PropertyTooltip
+#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequenceEvaluator_19.ShowPinForProperties(9).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,AnimNode_SequenceEvaluator:ExplicitFrame"
+msgid "The frame at which to evaluate the associated sequence"
+msgstr "El fotograma en el que evaluar la secuencia asociada"
+
+#. Key:	AnimNode_SequencePlayer:StartPosition
+#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequencePlayer_2.ShowPinForProperties(10).ShowPinForProperties.PropertyTooltip
+#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequencePlayer_2.ShowPinForProperties(10).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,AnimNode_SequencePlayer:StartPosition"
+msgid "The start position between 0 and the length of the sequence to use when initializing. When looping, play will still jump back to the beginning when reaching the end."
+msgstr "La posición de inicio entre 0 y la longitud de la secuencia para usar al inicializar. Al hacer un bucle, la reproducción aún regresará al principio al alcanzar el final."
+
+#. Key:	AnimNode_SequencePlayer:bLoopAnimation
+#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequencePlayer_2.ShowPinForProperties(11).ShowPinForProperties.PropertyTooltip
+#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequencePlayer_2.ShowPinForProperties(11).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,AnimNode_SequencePlayer:bLoopAnimation"
+msgid "Should the animation loop back to the start when it reaches the end?"
+msgstr "¿Debe la animación reiniciarse desde el principio cuando llega al final?"
+
+#. Key:	AnimNode_SequencePlayer:bStartFromMatchingPose
+#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequencePlayer_2.ShowPinForProperties(12).ShowPinForProperties.PropertyTooltip
+#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequencePlayer_2.ShowPinForProperties(12).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,AnimNode_SequencePlayer:bStartFromMatchingPose"
+msgid "Use pose matching to choose the start position. Requires experimental PoseSearch plugin."
+msgstr "Usa la coincidencia de poses para elegir la posición de inicio. Requiere el plugin experimental PoseSearch."
+
+#. Key:	AnimNode_SequencePlayer:GroupName
+#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequencePlayer_2.ShowPinForProperties(2).ShowPinForProperties.PropertyTooltip
+#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequencePlayer_2.ShowPinForProperties(2).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,AnimNode_SequencePlayer:GroupName"
+msgid "The group name that we synchronize with (NAME_None if it is not part of any group)."
+msgstr "El nombre del grupo con el que sincronizamos (NAME_None si no forma parte de ningún grupo)."
+
+#. Key:	AnimNode_SequencePlayer:GroupRole
+#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequencePlayer_2.ShowPinForProperties(3).ShowPinForProperties.PropertyTooltip
+#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequencePlayer_2.ShowPinForProperties(3).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,AnimNode_SequencePlayer:GroupRole"
+msgid "The role this node can assume within the group (ignored if GroupName is not set)"
+msgstr "El rol que este nodo puede asumir dentro del grupo (ignorado si GroupName no está configurado)"
+
+#. Key:	AnimNode_SequencePlayer:Method
+#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequencePlayer_2.ShowPinForProperties(4).ShowPinForProperties.PropertyTooltip
+#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequencePlayer_2.ShowPinForProperties(4).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,AnimNode_SequencePlayer:Method"
+msgid "How this node will synchronize with other animations."
+msgstr "Cómo este nodo se sincroniza con otras animaciones."
+
+#. Key:	AnimNode_SequencePlayer:bIgnoreForRelevancyTest
+#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequencePlayer_2.ShowPinForProperties(5).ShowPinForProperties.PropertyTooltip
+#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequencePlayer_2.ShowPinForProperties(5).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,AnimNode_SequencePlayer:bIgnoreForRelevancyTest"
+msgid "If true, \"Relevant anim\" nodes that look for the highest weighted animation in a state will ignore this node"
+msgstr "Si es verdadero, los nodos \"Relevant anim\" que buscan la animación de mayor peso en un estado ignorarán este nodo."
+
+#. Key:	AnimNode_SequencePlayer:Sequence
+#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequencePlayer_2.ShowPinForProperties(6).ShowPinForProperties.PropertyTooltip
+#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequencePlayer_2.ShowPinForProperties(6).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,AnimNode_SequencePlayer:Sequence"
+msgid "The animation sequence asset to play"
+msgstr "El recurso de secuencia de animación para reproducir"
+
+#. Key:	AnimNode_SequencePlayer:PlayRateBasis
+#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequencePlayer_2.ShowPinForProperties(7).ShowPinForProperties.PropertyTooltip
+#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequencePlayer_2.ShowPinForProperties(7).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,AnimNode_SequencePlayer:PlayRateBasis"
+msgid "The Basis in which the PlayRate is expressed in. This is used to rescale PlayRate inputs.\nFor example a Basis of 100 means that the PlayRate input will be divided by 100."
+msgstr "La base en la que se expresa el PlayRate. Esto se utiliza para cambiar de escala las entradas de PlayRate.\nPor ejemplo, una base de 100 significa que la entrada PlayRate se dividirá por 100."
+
+#. Key:	AnimNode_SequencePlayer:PlayRate
+#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequencePlayer_2.ShowPinForProperties(8).ShowPinForProperties.PropertyTooltip
+#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequencePlayer_2.ShowPinForProperties(8).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,AnimNode_SequencePlayer:PlayRate"
+msgid "The play rate multiplier. Can be negative, which will cause the animation to play in reverse."
+msgstr "El multiplicador de la velocidad de reproducción. Puede ser negativo, lo que hará que la animación se reproduzca en reversa."
+
+#. Key:	AnimNode_SequencePlayer:PlayRateScaleBiasClampConstants
+#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequencePlayer_2.ShowPinForProperties(9).ShowPinForProperties.PropertyTooltip
+#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequencePlayer_2.ShowPinForProperties(9).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,AnimNode_SequencePlayer:PlayRateScaleBiasClampConstants"
+msgid "Additional scaling, offsetting and clamping of PlayRate input.\nPerformed after PlayRateBasis."
+msgstr "Escalado adicional, desplazamiento y clamping de la entrada PlayRate.\nSe realiza después de PlayRateBasis."
+
+#. Key:	AnimNode_TwoWayBlend:AlphaInputType
+#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_TwoWayBlend_1.ShowPinForProperties(2).ShowPinForProperties.PropertyTooltip
+#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_TwoWayBlend_1.ShowPinForProperties(2).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,AnimNode_TwoWayBlend:AlphaInputType"
+msgid "The data type used to control the alpha blending between the A and B poses.\n              Note: Changing this value will disconnect alpha input pins."
+msgstr "El tipo de datos usado para controlar la mezcla alfa entre las poses A y B.\nNota: Cambiar este valor desconectará los pines de entrada alfa."
+
+#. Key:	AnimNode_TwoWayBlend:bAlphaBoolEnabled
+#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_TwoWayBlend_1.ShowPinForProperties(3).ShowPinForProperties.PropertyTooltip
+#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_TwoWayBlend_1.ShowPinForProperties(3).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,AnimNode_TwoWayBlend:bAlphaBoolEnabled"
+msgid "The boolean value that controls the alpha blending when the alpha input type is set to 'Bool'"
+msgstr "El valor booleano que controla la mezcla alfa cuando el tipo de entrada alfa está configurado en 'Bool'"
+
+#. Key:	AnimNode_TwoWayBlend:bResetChildOnActivation
+#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_TwoWayBlend_1.ShowPinForProperties(4).ShowPinForProperties.PropertyTooltip
+#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_TwoWayBlend_1.ShowPinForProperties(4).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,AnimNode_TwoWayBlend:bResetChildOnActivation"
+msgid "This reinitializes child pose when re-activated. For example, when active child changes"
+msgstr "Esto reinicializa la pose del hijo cuando se reactiva. Por ejemplo, cuando cambia el hijo activo."
+
+#. Key:	AnimNode_TwoWayBlend:bAlwaysUpdateChildren
+#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_TwoWayBlend_1.ShowPinForProperties(5).ShowPinForProperties.PropertyTooltip
+#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_TwoWayBlend_1.ShowPinForProperties(5).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,AnimNode_TwoWayBlend:bAlwaysUpdateChildren"
+msgid "Always update children, regardless of whether or not that child has weight."
+msgstr "Siempre actualizar los hijos, sin importar si ese hijo tiene peso o no."
+
+#. Key:	AnimNode_TwoWayBlend:Alpha
+#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_TwoWayBlend_1.ShowPinForProperties(6).ShowPinForProperties.PropertyTooltip
+#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_TwoWayBlend_1.ShowPinForProperties(6).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,AnimNode_TwoWayBlend:Alpha"
+msgid "The float value that controls the alpha blending when the alpha input type is set to 'Float'"
+msgstr "El valor decimal que controla la mezcla alfa cuando el tipo de entrada alfa está configurado en 'Float'"
+
+#. Key:	AnimNode_TwoWayBlend:AlphaCurveName
+#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_TwoWayBlend_1.ShowPinForProperties(9).ShowPinForProperties.PropertyTooltip
+#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_TwoWayBlend_1.ShowPinForProperties(9).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,AnimNode_TwoWayBlend:AlphaCurveName"
+msgid "The animation curve that controls the alpha blending when the alpha input type is set to 'Curve'"
+msgstr "La curva de animación que controla la mezcla alfa cuando el tipo de entrada alfa está configurado en 'Curve'"
+
+#. Key:	EAnimPropertyAccessCallSite.WorkerThread_Unbatched
+#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_TwoWayBlend_4.AnimGraphNodeBinding_Base_0.PropertyBindings(0 - Value).PropertyBindings.CompiledContext
+#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_TwoWayBlend_4.AnimGraphNodeBinding_Base_0.PropertyBindings(0 - Value).PropertyBindings.CompiledContext
+msgctxt "UObjectDisplayNames,EAnimPropertyAccessCallSite.WorkerThread_Unbatched"
+msgid "Thread Safe"
+msgstr "Thread Safe"
+
+#. Key:	EAnimPropertyAccessCallSite.WorkerThread_Unbatched
+#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_TwoWayBlend_4.AnimGraphNodeBinding_Base_0.PropertyBindings(0 - Value).PropertyBindings.CompiledContextDesc
+#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_TwoWayBlend_4.AnimGraphNodeBinding_Base_0.PropertyBindings(0 - Value).PropertyBindings.CompiledContextDesc
+msgctxt "UObjectToolTips,EAnimPropertyAccessCallSite.WorkerThread_Unbatched"
+msgid "Access is made on a worker thread in the anim graph or in a BP function"
+msgstr "El acceso se realiza en un hilo de trabajo en el gráfico de animación o en una función BP"
+
+#. Key:	C1476F2648B65CB91FD0569ECD1B55C8
+#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_TwoWayBlend_4.AnimGraphNodeBinding_Base_0.PropertyBindings(0 - Value).PropertyBindings.PathAsText
+#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_TwoWayBlend_4.AnimGraphNodeBinding_Base_0.PropertyBindings(0 - Value).PropertyBindings.PathAsText
+msgctxt ",C1476F2648B65CB91FD0569ECD1B55C8"
+msgid "InAir.LandPrediction"
+msgstr "InAir.LandPrediction"
+
+#. Key:	ACFMoveset:MinSpeedToEnterStopTransition
+#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_3:K2Node_BreakStruct_0.ShowPinForProperties(15).ShowPinForProperties.PropertyTooltip
+#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_3:K2Node_BreakStruct_0.ShowPinForProperties(15).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,ACFMoveset:MinSpeedToEnterStopTransition"
+msgid "Stop transitions are triggered when your character suddenly stops while being ABOVE this speed"
+msgstr "Las transiciones de detención se activan cuando tu personaje se detiene repentinamente mientras está POR ENCIMA de esta velocidad"
+
+#. Key:	ACFMoveset:MinDecelerationToEnterStopTransition
+#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_3:K2Node_BreakStruct_0.ShowPinForProperties(16).ShowPinForProperties.PropertyTooltip
+#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_3:K2Node_BreakStruct_0.ShowPinForProperties(16).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,ACFMoveset:MinDecelerationToEnterStopTransition"
+msgid "Stop transitions are triggered when your character suddenly stops while being ABOVE this speed"
+msgstr "Las transiciones de detención se activan cuando tu personaje se detiene repentinamente mientras está POR ENCIMA de esta velocidad"
+
+#. Key:	ACFMoveset:ALSIdle
+#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_3:K2Node_BreakStruct_0.ShowPinForProperties(18).ShowPinForProperties.PropertyTooltip
+#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_3:K2Node_BreakStruct_0.ShowPinForProperties(18).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,ACFMoveset:ALSIdle"
+msgid "by LHM"
+msgstr "por LHM"
+
+#. Key:	ACFMoveset:ExternalData
+#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_3:K2Node_BreakStruct_0.ShowPinForProperties(4).ShowPinForProperties.PropertyTooltip
+#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_3:K2Node_BreakStruct_0.ShowPinForProperties(4).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,ACFMoveset:ExternalData"
+msgid "PUT HERE EXTERNAL DATA YOU MAY NEED"
+msgstr "COLOCAR AQUÍ DATOS EXTERNOS QUE PUEDAS NECESITAR"
+
+#. Key:	AnimNode_BlendListBase:bResetChildOnActivation
+#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.MeleeWeapon:AnimGraphNode_BlendListByInt_1.ShowPinForProperties(4).ShowPinForProperties.PropertyTooltip
+#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.MeleeWeapon:AnimGraphNode_BlendListByInt_1.ShowPinForProperties(4).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,AnimNode_BlendListBase:bResetChildOnActivation"
+msgid "This reinitializes the re-activated child if the child's weight was zero."
+msgstr "Esto reinicializa al hijo reactivado si el peso del hijo era cero."
+
+#. Key:	AnimNode_StateMachine:MaxTransitionsPerFrame
+#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.MeleeWeapon:AnimGraphNode_StateMachine_0.ShowPinForProperties(0).ShowPinForProperties.PropertyTooltip
+#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.MeleeWeapon:AnimGraphNode_StateMachine_0.ShowPinForProperties(0).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,AnimNode_StateMachine:MaxTransitionsPerFrame"
+msgid "The maximum number of transitions that can be taken by this machine 'simultaneously' in a single frame"
+msgstr "El número máximo de transiciones que esta máquina puede realizar 'simultáneamente' en un solo fotograma."
+
+#. Key:	AnimNode_StateMachine:MaxTransitionsRequests
+#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.MeleeWeapon:AnimGraphNode_StateMachine_0.ShowPinForProperties(1).ShowPinForProperties.PropertyTooltip
+#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.MeleeWeapon:AnimGraphNode_StateMachine_0.ShowPinForProperties(1).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,AnimNode_StateMachine:MaxTransitionsRequests"
+msgid "The maximum number of transition requests that can be buffered at any time.\nThe oldest transition requests are dropped to accommodate for newly created requests."
+msgstr "El número máximo de solicitudes de transición que pueden acumularse en cualquier momento.\nLas solicitudes de transición más antiguas se descartan para acomodar las nuevas solicitudes creadas."
+
+#. Key:	AnimNode_StateMachine:bSkipFirstUpdateTransition
+#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.MeleeWeapon:AnimGraphNode_StateMachine_0.ShowPinForProperties(2).ShowPinForProperties.PropertyTooltip
+#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.MeleeWeapon:AnimGraphNode_StateMachine_0.ShowPinForProperties(2).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,AnimNode_StateMachine:bSkipFirstUpdateTransition"
+msgid "When the state machine becomes relevant, it is initialized into the Entry state.\nIt then tries to take any valid transitions to possibly end up in a different state on that same frame.\n- if true, that new state starts full weight.\n- if false, a blend is created between the entry state and that new state.\nIn either case all visited State notifications (Begin/End) will be triggered."
+msgstr "Cuando la máquina de estados se vuelve relevante, se inicializa en el estado de Entrada.\nLuego intenta realizar cualquier transición válida para posiblemente terminar en un estado diferente en ese mismo frame.\n- si es verdadero, ese nuevo estado comienza con peso completo.\n- si es falso, se crea una mezcla entre el estado de entrada y ese nuevo estado.\nEn cualquier caso, se activarán todas las notificaciones de Estado visitadas (Inicio/Fin)."
+
+#. Key:	AnimNode_StateMachine:bReinitializeOnBecomingRelevant
+#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.MeleeWeapon:AnimGraphNode_StateMachine_0.ShowPinForProperties(3).ShowPinForProperties.PropertyTooltip
+#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.MeleeWeapon:AnimGraphNode_StateMachine_0.ShowPinForProperties(3).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,AnimNode_StateMachine:bReinitializeOnBecomingRelevant"
+msgid "Reinitialize the state machine if we have become relevant to the graph\nafter not being ticked on the previous frame(s)"
+msgstr "Reinicializar la máquina de estados si hemos llegado a ser relevantes para el gráfico\ndespués de no haber sido actualizados en el/los fotograma(s) anterior(es)"
+
+#. Key:	AnimNode_StateMachine:bCreateNotifyMetaData
+#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.MeleeWeapon:AnimGraphNode_StateMachine_0.ShowPinForProperties(4).ShowPinForProperties.PropertyTooltip
+#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.MeleeWeapon:AnimGraphNode_StateMachine_0.ShowPinForProperties(4).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,AnimNode_StateMachine:bCreateNotifyMetaData"
+msgid "Tag Notifies with meta data such as the active state and mirroring state.  Producing this\ndata has a  slight performance cost."
+msgstr "Etiquetar Notifies con metadatos como el estado activo y el estado de espejo. Producir estos\ndatos tiene un ligero costo de rendimiento."
+
+#. Key:	AnimNode_StateMachine:bAllowConduitEntryStates
+#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.MeleeWeapon:AnimGraphNode_StateMachine_0.ShowPinForProperties(5).ShowPinForProperties.PropertyTooltip
+#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.MeleeWeapon:AnimGraphNode_StateMachine_0.ShowPinForProperties(5).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,AnimNode_StateMachine:bAllowConduitEntryStates"
+msgid "Allows a conduit to be used as this state machine's entry state\nIf a valid entry state cannot be found at runtime then this will generate a reference pose!"
+msgstr "Permite que un conducto se use como estado de entrada en esta máquina de estados.\nSi no se encuentra un estado de entrada válido en tiempo de ejecución, esto generará una pose de referencia."
 
 #. Key:	A3EEE2ED4151882C6AADCC9C40E8CEE1
 #. SourceLocation:	/Game/Blueprint/ACF/Data/TableAsset/WeaponTable.WeaponTable.SKS狙击枪.ItemInfo_66_F92A1A3B448C3413FD56918B4BFB9241.Name
@@ -455,8 +777,8 @@ msgid "短的单手刀"
 msgstr "Cuchillo"
 
 #. Key:	5A59E05F4DEA91E378D72BA820DC9EE5
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Spear/BP_LongSharp_SpearBase.Default__BP_LongSharp_SpearBase_C.ItemInfo.Name
-#: /Game/Blueprint/ACF/Item/Weapon/Spear/BP_LongSharp_SpearBase.Default__BP_LongSharp_SpearBase_C.ItemInfo.Name
+#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Spear/BP_LongSharpBase_Spear.Default__BP_LongSharpBase_Spear_C.ItemInfo.Name
+#: /Game/Blueprint/ACF/Item/Weapon/Spear/BP_LongSharpBase_Spear.Default__BP_LongSharpBase_Spear_C.ItemInfo.Name
 msgctxt ",5A59E05F4DEA91E378D72BA820DC9EE5"
 msgid "长矛"
 msgstr "Lanza de Madera"
@@ -7251,6 +7573,83 @@ msgctxt "ItemInfo,A9"
 msgid "防晒帽"
 msgstr "Sombrero para el Sol"
 
+#. Key:	AmmoPHQ
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,AmmoPHQ"
+msgid "喷火器燃油"
+msgstr "Combustible para lanzallamas"
+
+#. Key:	Armour_DLC_XG_01
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Armour_DLC_XG_01"
+msgid "极速红潮帽"
+msgstr "Gorra de marea roja extrema"
+
+#. Key:	Armour_DLC_XG_02
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Armour_DLC_XG_02"
+msgid "极速红潮短袖"
+msgstr "Camiseta de marea roja extrema"
+
+#. Key:	Armour_DLC_XG_03
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Armour_DLC_XG_03"
+msgid "极速红潮短裙"
+msgstr "Falda de marea roja extrema"
+
+#. Key:	Armour_DLC_XG_04
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Armour_DLC_XG_04"
+msgid "极速红潮鞋"
+msgstr "Zapatos de marea roja extrema"
+
+#. Key:	Armour_DLC_XG_05
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Armour_DLC_XG_05"
+msgid "极速红潮手套"
+msgstr "Guantes de marea roja extrema"
+
+#. Key:	Armour_DLC_ZS_01
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Armour_DLC_ZS_01"
+msgid "猎鹰战术头盔"
+msgstr "Casco táctico Halcón"
+
+#. Key:	Armour_DLC_ZS_02
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Armour_DLC_ZS_02"
+msgid "猎鹰战术服"
+msgstr "Uniforme táctico Halcón"
+
+#. Key:	Armour_DLC_ZS_03
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Armour_DLC_ZS_03"
+msgid "猎鹰战术裤"
+msgstr "Pantalones tácticos Halcón"
+
+#. Key:	Armour_DLC_ZS_04
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Armour_DLC_ZS_04"
+msgid "猎鹰战术靴"
+msgstr "Botas tácticas Halcón"
+
+#. Key:	Armour_DLC_ZS_05
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Armour_DLC_ZS_05"
+msgid "猎鹰战术手套"
+msgstr "Guantes tácticos Halcón"
+
 #. Key:	ArrmorCFY
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
@@ -9691,57 +10090,57 @@ msgstr "Comida deliciosa"
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Tip_YP_GRWS_BD"
-msgid "治疗轻度外伤、轻度感染外伤。对中度外伤、中度感染外伤流血量 -80%"
-msgstr "Trata heridas leves y las leves infectadas. Para heridas moderadas y las moderadas infectadas, reduce el sangrado en un 80%"
+msgid "治疗轻度外伤、轻度感染外伤。对中度外伤、中度感染外伤流血量 -80%\r\n在人物状态栏中将物品拖动至受伤部位进行治疗"
+msgstr "Tratar heridas leves y heridas leves infectadas. Reduce en un 80% la hemorragia de heridas moderadas y moderadas infectadas\r\nArrastra los objetos al área lesionada en la barra de estado del personaje para tratarlas"
 
 #. Key:	Tip_YP_GRWS_GJYLB
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Tip_YP_GRWS_GJYLB"
-msgid "治疗所有外伤"
-msgstr "Tratar todas las heridas externas"
+msgid "治疗所有外伤\r\n在人物状态栏中将物品拖动至受伤部位进行治疗"
+msgstr "Tratar todas las heridas\r\nArrastra los objetos al área lesionada en la barra de estado del personaje para tratarlas"
 
 #. Key:	Tip_YP_GRWS_JJMQ
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Tip_YP_GRWS_JJMQ"
-msgid "治疗轻度外伤、轻度感染外伤。对中度外伤、中度感染外伤流血量 -50%"
-msgstr "Trata heridas leves y las leves infectadas. Para heridas moderadas y las moderadas infectadas, reduce el sangrado en un 50%"
+msgid "治疗轻度外伤、轻度感染外伤。对中度外伤、中度感染外伤流血量 -50%\r\n在人物状态栏中将物品拖动至受伤部位进行治疗"
+msgstr "Tratar heridas leves y heridas leves infectadas. Reduce en un 50% la hemorragia de heridas moderadas y moderadas infectadas\r\nArrastra los objetos al área lesionada en la barra de estado del personaje para tratarlas"
 
 #. Key:	Tip_YP_GRWS_KJSB
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Tip_YP_GRWS_KJSB"
-msgid "治疗轻度外伤、轻度感染外伤。对中度外伤、中度感染外伤流血量 -65%"
-msgstr "Trata heridas leves y las leves infectadas. Para heridas moderadas y las moderadas infectadas, reduce el sangrado en un 65%"
+msgid "治疗轻度外伤、轻度感染外伤。对中度外伤、中度感染外伤流血量 -65%\r\n在人物状态栏中将物品拖动至受伤部位进行治疗"
+msgstr "Tratar heridas leves y heridas leves infectadas. Reduce en un 65% la hemorragia de heridas moderadas y moderadas infectadas\r\nArrastra los objetos al área lesionada en la barra de estado del personaje para tratarlas"
 
 #. Key:	Tip_YP_GRWS_KSSYG
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Tip_YP_GRWS_KSSYG"
-msgid "治疗轻度、中度感染外伤和感染外伤。对重度外伤、感染外伤流血量 -80%"
-msgstr "Trata heridas leves y las leves infectadas. Para heridas moderadas y las moderadas infectadas, reduce el sangrado en un 80%"
+msgid "治疗轻度、中度感染外伤和感染外伤。对重度外伤、感染外伤流血量 -80%\r\n在人物状态栏中将物品拖动至受伤部位进行治疗"
+msgstr "Tratar heridas leves, moderadas y heridas infectadas. Reduce en un 80% la hemorragia de heridas graves e infectadas\r\nArrastra los objetos al área lesionada en la barra de estado del personaje para tratarlas"
 
 #. Key:	Tip_YP_GRWS_KSSYHTP
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Tip_YP_GRWS_KSSYHTP"
-msgid "治疗轻度、中度感染外伤和感染外伤。对重度外伤、感染外伤流血量 -60%"
-msgstr "Trata heridas leves y moderadas infectadas y no infectadas. Para heridas graves e infectadas, reduce el sangrado en un 60%"
+msgid "治疗轻度、中度感染外伤和感染外伤。对重度外伤、感染外伤流血量 -60%\r\n在人物状态栏中将物品拖动至受伤部位进行治疗"
+msgstr "Tratar heridas leves, moderadas y heridas infectadas. Reduce en un 60% la hemorragia de heridas graves e infectadas\r\nArrastra los objetos al área lesionada en la barra de estado del personaje para tratarlas"
 
 #. Key:	Tip_YP_GRWS_SCSKQXJ
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Tip_YP_GRWS_SCSKQXJ"
-msgid "治疗所有外伤"
-msgstr "Trata todas las heridas externas"
+msgid "治疗所有外伤\r\n在人物状态栏中将物品拖动至受伤部位进行治疗"
+msgstr "Tratar todas las heridas\r\nArrastra los objetos al área lesionada en la barra de estado del personaje para tratarlas"
 
 #. Key:	Tip_YP_GRWS_WKGJB
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Tip_YP_GRWS_WKGJB"
-msgid "治疗所有外伤"
-msgstr "Trata todas las heridas externas"
+msgid "治疗所有外伤\r\n在人物状态栏中将物品拖动至受伤部位进行治疗"
+msgstr "Tratar todas las heridas\r\nArrastra los objetos al área lesionada en la barra de estado del personaje para tratarlas"
 
 #. Key:	Tip_YP_HF_01
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9789,50 +10188,50 @@ msgstr "Recupera puntos de vida y reduce la infección viral después de usar"
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Tip_YP_WS_CKT"
-msgid "治疗轻度外伤，对中度流血外伤流血量 -50%"
-msgstr "Trata heridas leves, para heridas moderadas con sangrado, reduce el sangrado en un 50%"
+msgid "治疗轻度外伤，对中度流血外伤流血量 -50%\r\n在人物状态栏中将物品拖动至受伤部位进行治疗"
+msgstr "Tratar heridas leves, reduce en un 50% la hemorragia de heridas moderadas\r\nArrastra los objetos al área lesionada en la barra de estado del personaje para tratarlas"
 
 #. Key:	Tip_YP_WS_FHTJ
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Tip_YP_WS_FHTJ"
-msgid "治疗所有未感染外伤"
-msgstr "Trata todas las heridas no infectadas"
+msgid "治疗所有未感染外伤\r\n在人物状态栏中将物品拖动至受伤部位进行治疗"
+msgstr "Tratar todas las heridas no infectadas\r\nArrastra los objetos al área lesionada en la barra de estado del personaje para tratarlas"
 
 #. Key:	Tip_YP_WS_PFNHJ
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Tip_YP_WS_PFNHJ"
-msgid "治疗轻度、中度外伤。对重度外伤流血量 -80%"
-msgstr "Trata heridas leves y moderadas. Para heridas graves, reduce el sangrado en un 80%"
+msgid "治疗轻度、中度外伤。对重度外伤流血量 -80%\r\n在人物状态栏中将物品拖动至受伤部位进行治疗"
+msgstr "Tratar heridas leves y moderadas. Reduce en un 80% la hemorragia de heridas graves\r\nArrastra los objetos al área lesionada en la barra de estado del personaje para tratarlas"
 
 #. Key:	Tip_YP_WS_SB
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Tip_YP_WS_SB"
-msgid "治疗轻度外伤，对中度流血外伤流血量 -65%"
-msgstr "Trata heridas leves, para heridas moderadas con sangrado, reduce el sangrado en un 65%"
+msgid "治疗轻度外伤，对中度流血外伤流血量 -65%\r\n在人物状态栏中将物品拖动至受伤部位进行治疗"
+msgstr "Tratar heridas leves, reduce en un 65% la hemorragia de heridas moderadas\r\nArrastra los objetos al área lesionada en la barra de estado del personaje para tratarlas"
 
 #. Key:	Tip_YP_WS_YG
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Tip_YP_WS_YG"
-msgid "治疗轻度、中度外伤。对重度外伤流血量 -50%"
-msgstr "Trata heridas leves y moderadas. Para heridas graves, reduce el sangrado en un 50%"
+msgid "治疗轻度、中度外伤。对重度外伤流血量 -50%\r\n在人物状态栏中将物品拖动至受伤部位进行治疗"
+msgstr "Tratar heridas leves y moderadas. Reduce en un 50% la hemorragia de heridas graves\r\nArrastra los objetos al área lesionada en la barra de estado del personaje para tratarlas"
 
 #. Key:	Tip_YP_WS_YLB
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Tip_YP_WS_YLB"
-msgid "治疗所有未感染外伤"
-msgstr "Tratar todas las heridas no infectadas"
+msgid "治疗所有未感染外伤\r\n在人物状态栏中将物品拖动至受伤部位进行治疗"
+msgstr "Tratar todas las heridas no infectadas\r\nArrastra los objetos al área lesionada en la barra de estado del personaje para tratarlas"
 
 #. Key:	Tip_YP_WS_ZXF
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Tip_YP_WS_ZXF"
-msgid "治疗轻度、中度外伤。对重度外伤流血量 -65%"
-msgstr "Trata heridas leves y moderadas. Para heridas graves, reduce el sangrado en un 65%"
+msgid "治疗轻度、中度外伤。对重度外伤流血量 -65%\r\n在人物状态栏中将物品拖动至受伤部位进行治疗"
+msgstr "Tratar heridas leves y moderadas. Reduce en un 65% la hemorragia de heridas graves\r\nArrastra los objetos al área lesionada en la barra de estado del personaje para tratarlas"
 
 #. Key:	Tip_YP_ZL_01
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -10435,6 +10834,48 @@ msgstr "Su uso principal es picar piedras/minerales, aunque en caso de emergenci
 msgctxt "ItemInfo,Weapon_BaoZhu"
 msgid "爆竹"
 msgstr "Petardos"
+
+#. Key:	Weapon_Gun_DBS
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Weapon_Gun_DBS"
+msgid "DBS"
+msgstr "DBS"
+
+#. Key:	Weapon_Gun_DF122
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Weapon_Gun_DF122"
+msgid "DF122"
+msgstr "DF122"
+
+#. Key:	Weapon_Gun_Flamthrower_Tip
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Weapon_Gun_Flamthrower_Tip"
+msgid "使用燃油"
+msgstr "Usar combustible"
+
+#. Key:	Weapon_Gun_Flmathrower
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Weapon_Gun_Flmathrower"
+msgid "火焰喷射器"
+msgstr "Lanzallamas"
+
+#. Key:	Weapon_Gun_SAUG
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Weapon_Gun_SAUG"
+msgid "SAUG"
+msgstr "SAUG"
+
+#. Key:	Weapon_Gun_Tec9
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,Weapon_Gun_Tec9"
+msgid "Tec9"
+msgstr "Tec9"
 
 #. Key:	Weapon_SDRSD_01
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -12318,6 +12759,69 @@ msgstr "Capacidad de la mochila"
 msgctxt "TipMessage,ZZBS"
 msgid "与商人交易价值"
 msgstr "Comerciar/Trueque"
+
+#. Key:	Tutorial001
+#. SourceLocation:	/Game/LocalizationText/Tutorial.Tutorial
+#: /Game/LocalizationText/Tutorial.Tutorial
+msgctxt "Tutorial,Tutorial001"
+msgid "       在你远离那个安全又温暖的庇护所时前，按照庇护所惯例，所有被放逐的人都能得到一份末日爆发前的生存手册。里面详细记载了许多野外生存知识。这就是庇护所对于被放逐者的最后一丝温暖。"
+msgstr "       Antes de que te alejes de ese refugio seguro y cálido, de acuerdo con las reglas del refugio, todas las personas que sean exiliadas recibirán una copia del manual de supervivencia de antes del apocalipsis. Este manual detalla numerosos conocimientos de supervivencia en el exterior. Es el último gesto de calidez que el refugio ofrece a los exiliados."
+
+#. Key:	Tutorial002
+#. SourceLocation:	/Game/LocalizationText/Tutorial.Tutorial
+#: /Game/LocalizationText/Tutorial.Tutorial
+msgctxt "Tutorial,Tutorial002"
+msgid "我明白庇护所的选择，我会尽力学习在这末日生存的一切（需要新手指引）"
+msgstr "Comprendo la decisión del refugio. Haré lo posible por aprender todo para sobrevivir en este apocalipsis (Requiere guía para principiantes)."
+
+#. Key:	Tutorial003
+#. SourceLocation:	/Game/LocalizationText/Tutorial.Tutorial
+#: /Game/LocalizationText/Tutorial.Tutorial
+msgctxt "Tutorial,Tutorial003"
+msgid "这是庇护所对我无耻的抛弃！我绝不接受。（不需要新手指引）"
+msgstr "¡Esta es la vergonzosa traición del refugio hacia mí! ¡No lo aceptaré! (No requiere guía para principiantes)."
+
+#. Key:	Tutorial004
+#. SourceLocation:	/Game/LocalizationText/Tutorial.Tutorial
+#: /Game/LocalizationText/Tutorial.Tutorial
+msgctxt "Tutorial,Tutorial004"
+msgid "收集周围散落在地面上的资源\r\n\r\n收集木棍（<Green>{Value1}</>/5） \r\n收集石头（<Green>{Value2}</>/6）"
+msgstr "Recolecta los recursos esparcidos por el suelo a tu alrededor.\r\n\r\nRecolecta ramas (<Green>{Value1}</>/5). \r\nRecolecta piedras (<Green>{Value2}</>/6)."
+
+#. Key:	Tutorial005
+#. SourceLocation:	/Game/LocalizationText/Tutorial.Tutorial
+#: /Game/LocalizationText/Tutorial.Tutorial
+msgctxt "Tutorial,Tutorial005"
+msgid "收集够资源后按下Tap键打开背包界面后，在点击<Img id=\"ZZ\"/>工具图标制作石镐与石斧\r\n\r\n制作石镐（<Green>{Value1}</>/1） \r\n制作石斧（<Green>{Value2}</>/1）"
+msgstr "Una vez que tengas suficientes recursos, presiona la tecla Tab para abrir el inventario y luego haz clic en el ícono de herramientas <Img id=\"ZZ\"/> para fabricar un pico de piedra y un hacha de piedra.\r\n\r\nFabrica un pico de piedra (<Green>{Value1}</>/1). \r\nFabrica un hacha de piedra (<Green>{Value2}</>/1)."
+
+#. Key:	Tutorial006
+#. SourceLocation:	/Game/LocalizationText/Tutorial.Tutorial
+#: /Game/LocalizationText/Tutorial.Tutorial
+msgctxt "Tutorial,Tutorial006"
+msgid "装备制作好的工具，使用工具收集资源\r\n\r\n砍伐树木（<Green>{Value1}</>/5） \r\n击碎岩石（<Green>{Value2}</>/3） "
+msgstr "Equipa las herramientas que hayas fabricado y utiliza estas herramientas para recolectar recursos.\r\n\r\nCorta árboles (<Green>{Value1}</>/5). \r\nRompe rocas (<Green>{Value2}</>/3)."
+
+#. Key:	Tutorial007
+#. SourceLocation:	/Game/LocalizationText/Tutorial.Tutorial
+#: /Game/LocalizationText/Tutorial.Tutorial
+msgctxt "Tutorial,Tutorial007"
+msgid "按下Tab键打开背包后点击书籍图标后，找到选择<Img id=\"KJ\"/>科技页面解锁加工台（<Green>{Value1}</>/1） \r\n\r\n制作建造锤（<Green>{Value2}</>/1）\r\n\r\n使用建造锤，建造加工台（<Green>{Value3}</>/1） "
+msgstr "Presiona la tecla Tab para abrir el inventario, haz clic en el ícono de libro y encuentra la página de tecnología <Img id=\"KJ\"/> para desbloquear la estación de procesamiento (<Green>{Value1}</>/1) \r\n\r\nFabrica un martillo de construcción (<Green>{Value2}</>/1) \r\n\r\nUsa el martillo de construcción para crear la estación de procesamiento (<Green>{Value3}</>/1)."
+
+#. Key:	Tutorial008
+#. SourceLocation:	/Game/LocalizationText/Tutorial.Tutorial
+#: /Game/LocalizationText/Tutorial.Tutorial
+msgctxt "Tutorial,Tutorial008"
+msgid "按M键打开地图前往矿洞区域或者露天矿场搜集所需资源解锁木炭炉（<Green>{Value1}</>/1） \r\n\r\n使用建造锤，建造木炭炉（<Green>{Value2}</>/1） "
+msgstr "Presiona la tecla M para abrir el mapa y dirigirte a la zona de minas o a la mina a cielo abierto para recolectar los recursos necesarios y desbloquear el horno de carbón vegetal (<Green>{Value1}</>/1) \r\n\r\nUsa el martillo de construcción y construye el horno de carbón (<Green>{Value2}</>/1)."
+
+#. Key:	Tutorial009
+#. SourceLocation:	/Game/LocalizationText/Tutorial.Tutorial
+#: /Game/LocalizationText/Tutorial.Tutorial
+msgctxt "Tutorial,Tutorial009"
+msgid "你已经完成了基本的采集与建造任务，努力收集更多的资源和解锁更高的科技来为你打造一个只属于你的末日避护所，请记住！一切都是为了在末日下活下去。"
+msgstr "Has completado las tareas básicas de recolección y construcción. Esfuérzate por recolectar más recursos y desbloquear tecnologías superiores para construir tu propio refugio para el apocalipsis. ¡Recuerda! Todo es para sobrevivir en este fin del mundo."
 
 #. Key:	AddBuff
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -14850,113 +15354,113 @@ msgstr "¿En que te puedo ayudar?"
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Wound_FS_DWZ"
-msgid "低温症"
-msgstr "Hipotermia"
+msgid "低温症\r\n可使用温暖药剂进行治疗"
+msgstr "Hipotermia\r\nSe puede tratar con medicamentos para calentar"
 
 #. Key:	Wound_FS_GM
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Wound_FS_GM"
-msgid "感冒"
-msgstr "Resfriado"
+msgid "感冒\r\n可使用温暖药剂、感冒药进行治疗"
+msgstr "Resfriado\r\nSe puede tratar con medicamentos para calentar o medicamentos para el resfriado"
 
 #. Key:	Wound_GRWS_01
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Wound_GRWS_01"
-msgid "轻度感染外伤"
-msgstr "Trauma leve infectado"
+msgid "轻度感染外伤\r\n在人物状态栏中将医疗物品拖动至受伤部位进行治疗"
+msgstr "Herida leve infectada\r\nArrastra los objetos médicos al área lesionada en la barra de estado del personaje para tratarlas"
 
 #. Key:	Wound_GRWS_02
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Wound_GRWS_02"
-msgid "中度感染外伤"
-msgstr "Trauma moderado infectado"
+msgid "中度感染外伤\r\n在人物状态栏中将医疗物品拖动至受伤部位进行治疗"
+msgstr "Herida moderada infectada\r\nArrastra los objetos médicos al área lesionada en la barra de estado del personaje para tratarlas"
 
 #. Key:	Wound_GRWS_03
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Wound_GRWS_03"
-msgid "重度感染外伤"
-msgstr "Trauma grave infectado"
+msgid "重度感染外伤\r\n在人物状态栏中将医疗物品拖动至受伤部位进行治疗"
+msgstr "Herida grave infectada\r\nArrastra los objetos médicos al área lesionada en la barra de estado del personaje para tratarlas"
 
 #. Key:	Wound_LJ_HL
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Wound_LJ_HL"
-msgid "霍乱"
-msgstr "Colera"
+msgid "霍乱\r\n可使用霍利清进行治疗"
+msgstr "Cólera\r\nPuede tratarse con HoliQing"
 
 #. Key:	Wound_LJ_LJ
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Wound_LJ_LJ"
-msgid "痢疾"
-msgstr "Diarrea"
+msgid "痢疾\r\n可使用霍利清、益生菌进行治疗"
+msgstr "Diarrea\r\nSe puede tratar con medicinas como Holly Clean o probióticos"
 
 #. Key:	Wound_WS_01
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Wound_WS_01"
-msgid "轻度外伤"
-msgstr "Trauma leve"
+msgid "轻度外伤\r\n在人物状态栏中将医疗物品拖动至受伤部位进行治疗"
+msgstr "Herida leve\r\nArrastra los objetos médicos al área lesionada en la barra de estado del personaje para tratarlas"
 
 #. Key:	Wound_WS_02
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Wound_WS_02"
-msgid "中度外伤"
-msgstr "Trauma moderado"
+msgid "中度外伤\r\n在人物状态栏中将医疗物品拖动至受伤部位进行治疗"
+msgstr "Herida moderada\r\nArrastra los objetos médicos al área lesionada en la barra de estado del personaje para tratarlas"
 
 #. Key:	Wound_WS_03
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Wound_WS_03"
-msgid "重度外伤"
-msgstr "Trauma grave"
+msgid "重度外伤\r\n在人物状态栏中将医疗物品拖动至受伤部位进行治疗"
+msgstr "Herida grave\r\nArrastra los objetos médicos al área lesionada en la barra de estado del personaje para tratarlas"
 
 #. Key:	Wound_YY_YY
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Wound_YY_YY"
-msgid "抑郁"
-msgstr "Depresión"
+msgid "抑郁\r\n可使用约翰圣草、安神药品进行治疗"
+msgstr "Depresión\r\nSe puede tratar con hierba de San Juan o medicamentos tranquilizantes"
 
 #. Key:	Wound_YYBL_DXT
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Wound_YYBL_DXT"
-msgid "低血糖"
-msgstr "Hipoglucemia"
+msgid "低血糖\r\n可使用营养补充剂、葡萄糖片进行治疗"
+msgstr "Hipoglucemia\r\nSe puede tratar con suplementos nutricionales o pastillas de glucosa"
 
 #. Key:	Wound_YYBL_JRWS
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Wound_YYBL_JRWS"
-msgid "肌肉萎缩"
-msgstr "Atrofia muscular"
+msgid "肌肉萎缩\r\n可使用营养补充剂进行治疗"
+msgstr "Atrofia muscular\r\nSe puede tratar con suplementos nutricionales"
 
 #. Key:	Wound_YYBL_QSWS
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Wound_YYBL_QSWS"
-msgid "全身虚弱"
-msgstr "Debilidad general"
+msgid "全身虚弱\r\n可使用营养补充剂、蛋白质补充剂进行治疗"
+msgstr "Debilidad general\r\nSe puede tratar con suplementos nutricionales o de proteínas"
 
 #. Key:	Wound_ZS_RJL
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Wound_ZS_RJL"
-msgid "热痉挛"
-msgstr "Calambres por calor"
+msgid "热痉挛\r\n可使用热痉挛药进行治疗"
+msgstr "Calambres por calor\r\nSe puede tratar con medicamentos para calambres por calor"
 
 #. Key:	Wound_ZS_ZS
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Wound_ZS_ZS"
-msgid "中暑"
-msgstr "Golpe de calor"
+msgid "中暑\r\n可使用热痉挛药、解热药进行治疗"
+msgstr "Golpe de calor\r\nSe puede tratar con medicamentos para calambres por calor o antipiréticos"
 
 #. Key:	WPBG
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -15272,13 +15776,6 @@ msgstr "Comienza con un nivel físico de 1.\r\nPeso +20"
 msgctxt "UI,carbohydrate"
 msgid "碳水化合物"
 msgstr "Carbohidratos"
-
-#. Key:	CF
-#. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
-#: /Game/LocalizationText/UICharacter.UICharacter
-msgctxt "UI,CF"
-msgid "裁缝"
-msgstr "Sastre"
 
 #. Key:	CGJJRZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -16385,6 +16882,13 @@ msgstr "Mochila inicial y cinco libros al azar\r\nDefensa -5 Daño cuerpo a cuer
 msgctxt "UI,ZZBS"
 msgid "拙嘴笨舌"
 msgstr "Tartamudo"
+
+#. Key:	CF
+#. SourceLocation:	/Game/LocalizationText/UIStudy.UIStudy
+#: /Game/LocalizationText/UIStudy.UIStudy
+msgctxt "UI,CF"
+msgid "裁缝"
+msgstr "Sastre"
 
 #. Key:	DQ
 #. SourceLocation:	/Game/LocalizationText/UIStudy.UIStudy
