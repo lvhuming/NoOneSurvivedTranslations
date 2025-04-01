@@ -298,14 +298,14 @@ msgstr "COLOCAR AQUÍ DATOS EXTERNOS QUE PUEDAS NECESITAR"
 #: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.MeleeWeapon:AnimGraphNode_BlendListByInt_1.ShowPinForProperties(4).ShowPinForProperties.PropertyTooltip
 msgctxt "UObjectToolTips,AnimNode_BlendListBase:bResetChildOnActivation"
 msgid "This reinitializes the re-activated child if the child's weight was zero."
-msgstr "Esto reinicializa al hijo reactivado si el peso del hijo era cero."
+msgstr "Esto reinicializa al nodo reactivado si el peso del nodo era cero."
 
 #. Key:	AnimNode_StateMachine:MaxTransitionsPerFrame
 #. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.MeleeWeapon:AnimGraphNode_StateMachine_0.ShowPinForProperties(0).ShowPinForProperties.PropertyTooltip
 #: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.MeleeWeapon:AnimGraphNode_StateMachine_0.ShowPinForProperties(0).ShowPinForProperties.PropertyTooltip
 msgctxt "UObjectToolTips,AnimNode_StateMachine:MaxTransitionsPerFrame"
 msgid "The maximum number of transitions that can be taken by this machine 'simultaneously' in a single frame"
-msgstr "El número máximo de transiciones que esta máquina puede realizar 'simultáneamente' en un solo fotograma."
+msgstr "El número máximo de transiciones que esta máquina puede realizar 'simultáneamente' en un solo frame."
 
 #. Key:	AnimNode_StateMachine:MaxTransitionsRequests
 #. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.MeleeWeapon:AnimGraphNode_StateMachine_0.ShowPinForProperties(1).ShowPinForProperties.PropertyTooltip
@@ -326,21 +326,21 @@ msgstr "Cuando la máquina de estados se vuelve relevante, se inicializa en el e
 #: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.MeleeWeapon:AnimGraphNode_StateMachine_0.ShowPinForProperties(3).ShowPinForProperties.PropertyTooltip
 msgctxt "UObjectToolTips,AnimNode_StateMachine:bReinitializeOnBecomingRelevant"
 msgid "Reinitialize the state machine if we have become relevant to the graph\nafter not being ticked on the previous frame(s)"
-msgstr "Reinicializar la máquina de estados si hemos llegado a ser relevantes para el gráfico\ndespués de no haber sido actualizados en el/los fotograma(s) anterior(es)"
+msgstr "Reinicializar la máquina de estados si nos hemos vuelto relevantes para el gráfico después de no estar marcados en el/los frame/s anterior/es"
 
 #. Key:	AnimNode_StateMachine:bCreateNotifyMetaData
 #. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.MeleeWeapon:AnimGraphNode_StateMachine_0.ShowPinForProperties(4).ShowPinForProperties.PropertyTooltip
 #: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.MeleeWeapon:AnimGraphNode_StateMachine_0.ShowPinForProperties(4).ShowPinForProperties.PropertyTooltip
 msgctxt "UObjectToolTips,AnimNode_StateMachine:bCreateNotifyMetaData"
 msgid "Tag Notifies with meta data such as the active state and mirroring state.  Producing this\ndata has a  slight performance cost."
-msgstr "Etiquetar Notifies con metadatos como el estado activo y el estado de espejo. Producir estos\ndatos tiene un ligero costo de rendimiento."
+msgstr "La etiqueta muestra con metadatos el estado activo y el estado de duplicación. Generar estos datos tiene un pequeño impacto en el rendimiento".
 
 #. Key:	AnimNode_StateMachine:bAllowConduitEntryStates
 #. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.MeleeWeapon:AnimGraphNode_StateMachine_0.ShowPinForProperties(5).ShowPinForProperties.PropertyTooltip
 #: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.MeleeWeapon:AnimGraphNode_StateMachine_0.ShowPinForProperties(5).ShowPinForProperties.PropertyTooltip
 msgctxt "UObjectToolTips,AnimNode_StateMachine:bAllowConduitEntryStates"
 msgid "Allows a conduit to be used as this state machine's entry state\nIf a valid entry state cannot be found at runtime then this will generate a reference pose!"
-msgstr "Permite que un conducto se use como estado de entrada en esta máquina de estados.\nSi no se encuentra un estado de entrada válido en tiempo de ejecución, esto generará una pose de referencia."
+msgstr "Permite utilizar un conducto como estado de entrada de esta máquina de estados. Si no se puede encontrar un estado de entrada válido en tiempo de ejecución, esto generará una pose de referencia".
 
 #. Key:	A3EEE2ED4151882C6AADCC9C40E8CEE1
 #. SourceLocation:	/Game/Blueprint/ACF/Data/TableAsset/WeaponTable.WeaponTable.SKS狙击枪.ItemInfo_66_F92A1A3B448C3413FD56918B4BFB9241.Name
@@ -7578,77 +7578,77 @@ msgstr "Sombrero para el Sol"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,AmmoPHQ"
 msgid "喷火器燃油"
-msgstr "Combustible para lanzallamas"
+msgstr "Combustible de lanzallamas"
 
 #. Key:	Armour_DLC_XG_01
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Armour_DLC_XG_01"
 msgid "极速红潮帽"
-msgstr "Gorra de marea roja extrema"
+msgstr "Gorra -Red Racer-"
 
 #. Key:	Armour_DLC_XG_02
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Armour_DLC_XG_02"
 msgid "极速红潮短袖"
-msgstr "Camiseta de marea roja extrema"
+msgstr "Camiseta -Red Racer-"
 
 #. Key:	Armour_DLC_XG_03
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Armour_DLC_XG_03"
 msgid "极速红潮短裙"
-msgstr "Falda de marea roja extrema"
+msgstr "Falda -Red Racer-"
 
 #. Key:	Armour_DLC_XG_04
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Armour_DLC_XG_04"
 msgid "极速红潮鞋"
-msgstr "Zapatos de marea roja extrema"
+msgstr "Botas -Red Racer-"
 
 #. Key:	Armour_DLC_XG_05
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Armour_DLC_XG_05"
 msgid "极速红潮手套"
-msgstr "Guantes de marea roja extrema"
+msgstr "Guantes -Red Racer-"
 
 #. Key:	Armour_DLC_ZS_01
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Armour_DLC_ZS_01"
 msgid "猎鹰战术头盔"
-msgstr "Casco táctico Halcón"
+msgstr "Casco -Halcón-"
 
 #. Key:	Armour_DLC_ZS_02
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Armour_DLC_ZS_02"
 msgid "猎鹰战术服"
-msgstr "Uniforme táctico Halcón"
+msgstr "Uniforme -Halcón-"
 
 #. Key:	Armour_DLC_ZS_03
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Armour_DLC_ZS_03"
 msgid "猎鹰战术裤"
-msgstr "Pantalones tácticos Halcón"
+msgstr "Pantalones -Halcón-"
 
 #. Key:	Armour_DLC_ZS_04
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Armour_DLC_ZS_04"
 msgid "猎鹰战术靴"
-msgstr "Botas tácticas Halcón"
+msgstr "Botas -Halcón-"
 
 #. Key:	Armour_DLC_ZS_05
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Armour_DLC_ZS_05"
 msgid "猎鹰战术手套"
-msgstr "Guantes tácticos Halcón"
+msgstr "Guantes -Halcón-"
 
 #. Key:	ArrmorCFY
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -10091,56 +10091,56 @@ msgstr "Comida deliciosa"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Tip_YP_GRWS_BD"
 msgid "治疗轻度外伤、轻度感染外伤。对中度外伤、中度感染外伤流血量 -80%\r\n在人物状态栏中将物品拖动至受伤部位进行治疗"
-msgstr "Tratar heridas leves y heridas leves infectadas. Reduce en un 80% la hemorragia de heridas moderadas y moderadas infectadas\r\nArrastra los objetos al área lesionada en la barra de estado del personaje para tratarlas"
+msgstr "Trata heridas leves y las leves infectadas. Para heridas moderadas y las moderadas infectadas, reduce el sangrado en un 80 %\r\nArrastra el objeto al área lesionada en la barra de estado del personaje para curarte"
 
 #. Key:	Tip_YP_GRWS_GJYLB
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Tip_YP_GRWS_GJYLB"
 msgid "治疗所有外伤\r\n在人物状态栏中将物品拖动至受伤部位进行治疗"
-msgstr "Tratar todas las heridas\r\nArrastra los objetos al área lesionada en la barra de estado del personaje para tratarlas"
+msgstr "Tratar todas las heridas\r\nArrastra el objeto al área lesionada en la barra de estado del personaje para curarte"
 
 #. Key:	Tip_YP_GRWS_JJMQ
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Tip_YP_GRWS_JJMQ"
 msgid "治疗轻度外伤、轻度感染外伤。对中度外伤、中度感染外伤流血量 -50%\r\n在人物状态栏中将物品拖动至受伤部位进行治疗"
-msgstr "Tratar heridas leves y heridas leves infectadas. Reduce en un 50% la hemorragia de heridas moderadas y moderadas infectadas\r\nArrastra los objetos al área lesionada en la barra de estado del personaje para tratarlas"
+msgstr "Trata heridas leves y las leves infectadas. Para heridas moderadas y las moderadas infectadas, reduce el sangrado en un 50 %\r\nArrastra el objeto al área lesionada en la barra de estado del personaje para curarte"
 
 #. Key:	Tip_YP_GRWS_KJSB
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Tip_YP_GRWS_KJSB"
 msgid "治疗轻度外伤、轻度感染外伤。对中度外伤、中度感染外伤流血量 -65%\r\n在人物状态栏中将物品拖动至受伤部位进行治疗"
-msgstr "Tratar heridas leves y heridas leves infectadas. Reduce en un 65% la hemorragia de heridas moderadas y moderadas infectadas\r\nArrastra los objetos al área lesionada en la barra de estado del personaje para tratarlas"
+msgstr "Trata heridas leves y las leves infectadas. Para heridas moderadas y las moderadas infectadas, reduce el sangrado en un 65 %\r\nArrastra el objeto al área lesionada en la barra de estado del personaje para curarte"
 
 #. Key:	Tip_YP_GRWS_KSSYG
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Tip_YP_GRWS_KSSYG"
 msgid "治疗轻度、中度感染外伤和感染外伤。对重度外伤、感染外伤流血量 -80%\r\n在人物状态栏中将物品拖动至受伤部位进行治疗"
-msgstr "Tratar heridas leves, moderadas y heridas infectadas. Reduce en un 80% la hemorragia de heridas graves e infectadas\r\nArrastra los objetos al área lesionada en la barra de estado del personaje para tratarlas"
+msgstr "Trata heridas leves y las leves infectadas. Para heridas moderadas y las moderadas infectadas, reduce el sangrado en un 80 %\r\nArrastra el objeto al área lesionada en la barra de estado del personaje para curarte"
 
 #. Key:	Tip_YP_GRWS_KSSYHTP
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Tip_YP_GRWS_KSSYHTP"
 msgid "治疗轻度、中度感染外伤和感染外伤。对重度外伤、感染外伤流血量 -60%\r\n在人物状态栏中将物品拖动至受伤部位进行治疗"
-msgstr "Tratar heridas leves, moderadas y heridas infectadas. Reduce en un 60% la hemorragia de heridas graves e infectadas\r\nArrastra los objetos al área lesionada en la barra de estado del personaje para tratarlas"
+msgstr "Trata heridas leves y moderadas infectadas y no infectadas. Para heridas graves e infectadas, reduce el sangrado en un 60 %\r\nArrastra el objeto al área lesionada en la barra de estado del personaje para curarte"
 
 #. Key:	Tip_YP_GRWS_SCSKQXJ
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Tip_YP_GRWS_SCSKQXJ"
 msgid "治疗所有外伤\r\n在人物状态栏中将物品拖动至受伤部位进行治疗"
-msgstr "Tratar todas las heridas\r\nArrastra los objetos al área lesionada en la barra de estado del personaje para tratarlas"
+msgstr "Trata todas las heridas externas\r\nArrastra el objeto al área lesionada en la barra de estado del personaje para curarte"
 
 #. Key:	Tip_YP_GRWS_WKGJB
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Tip_YP_GRWS_WKGJB"
 msgid "治疗所有外伤\r\n在人物状态栏中将物品拖动至受伤部位进行治疗"
-msgstr "Tratar todas las heridas\r\nArrastra los objetos al área lesionada en la barra de estado del personaje para tratarlas"
+msgstr "Tratar todas las heridas\r\nArrastra el objeto al área lesionada en la barra de estado del personaje para curarte"
 
 #. Key:	Tip_YP_HF_01
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -10189,49 +10189,49 @@ msgstr "Recupera puntos de vida y reduce la infección viral después de usar"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Tip_YP_WS_CKT"
 msgid "治疗轻度外伤，对中度流血外伤流血量 -50%\r\n在人物状态栏中将物品拖动至受伤部位进行治疗"
-msgstr "Tratar heridas leves, reduce en un 50% la hemorragia de heridas moderadas\r\nArrastra los objetos al área lesionada en la barra de estado del personaje para tratarlas"
+msgstr "Trata heridas leves, para heridas moderadas con sangrado, reduce el sangrado en un 50 %\r\nArrastra el objeto al área lesionada en la barra de estado del personaje para curarte"
 
 #. Key:	Tip_YP_WS_FHTJ
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Tip_YP_WS_FHTJ"
 msgid "治疗所有未感染外伤\r\n在人物状态栏中将物品拖动至受伤部位进行治疗"
-msgstr "Tratar todas las heridas no infectadas\r\nArrastra los objetos al área lesionada en la barra de estado del personaje para tratarlas"
+msgstr "Trata todas las heridas no infectadas\r\nArrastra el objeto al área lesionada en la barra de estado del personaje para curarte"
 
 #. Key:	Tip_YP_WS_PFNHJ
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Tip_YP_WS_PFNHJ"
 msgid "治疗轻度、中度外伤。对重度外伤流血量 -80%\r\n在人物状态栏中将物品拖动至受伤部位进行治疗"
-msgstr "Tratar heridas leves y moderadas. Reduce en un 80% la hemorragia de heridas graves\r\nArrastra los objetos al área lesionada en la barra de estado del personaje para tratarlas"
+msgstr "Trata heridas leves y moderadas. Para heridas graves, reduce el sangrado en un 80 %\r\nArrastra el objeto al área lesionada en la barra de estado del personaje para curarte"
 
 #. Key:	Tip_YP_WS_SB
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Tip_YP_WS_SB"
 msgid "治疗轻度外伤，对中度流血外伤流血量 -65%\r\n在人物状态栏中将物品拖动至受伤部位进行治疗"
-msgstr "Tratar heridas leves, reduce en un 65% la hemorragia de heridas moderadas\r\nArrastra los objetos al área lesionada en la barra de estado del personaje para tratarlas"
+msgstr "Trata heridas leves, para heridas moderadas con sangrado, reduce el sangrado en un 65 %\r\nArrastra el objeto al área lesionada en la barra de estado del personaje para curarte"
 
 #. Key:	Tip_YP_WS_YG
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Tip_YP_WS_YG"
 msgid "治疗轻度、中度外伤。对重度外伤流血量 -50%\r\n在人物状态栏中将物品拖动至受伤部位进行治疗"
-msgstr "Tratar heridas leves y moderadas. Reduce en un 50% la hemorragia de heridas graves\r\nArrastra los objetos al área lesionada en la barra de estado del personaje para tratarlas"
+msgstr "Trata heridas leves y moderadas. Para heridas graves, reduce el sangrado en un 50 %\r\nArrastra el objeto al área lesionada en la barra de estado del personaje para curarte"
 
 #. Key:	Tip_YP_WS_YLB
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Tip_YP_WS_YLB"
 msgid "治疗所有未感染外伤\r\n在人物状态栏中将物品拖动至受伤部位进行治疗"
-msgstr "Tratar todas las heridas no infectadas\r\nArrastra los objetos al área lesionada en la barra de estado del personaje para tratarlas"
+msgstr "Tratar todas las heridas no infectadas\r\nArrastra el objeto al área lesionada en la barra de estado del personaje para curarte"
 
 #. Key:	Tip_YP_WS_ZXF
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Tip_YP_WS_ZXF"
 msgid "治疗轻度、中度外伤。对重度外伤流血量 -65%\r\n在人物状态栏中将物品拖动至受伤部位进行治疗"
-msgstr "Tratar heridas leves y moderadas. Reduce en un 65% la hemorragia de heridas graves\r\nArrastra los objetos al área lesionada en la barra de estado del personaje para tratarlas"
+msgstr "Trata heridas leves y moderadas. Para heridas graves, reduce el sangrado en un 65 %\r\nArrastra el objeto al área lesionada en la barra de estado del personaje para curarte"
 
 #. Key:	Tip_YP_ZL_01
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -10847,7 +10847,7 @@ msgstr "DBS"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Weapon_Gun_DF122"
 msgid "DF122"
-msgstr "DF122"
+msgstr "DF 122"
 
 #. Key:	Weapon_Gun_Flamthrower_Tip
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -10875,7 +10875,7 @@ msgstr "SAUG"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Weapon_Gun_Tec9"
 msgid "Tec9"
-msgstr "Tec9"
+msgstr "Tec 9"
 
 #. Key:	Weapon_SDRSD_01
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -12765,21 +12765,21 @@ msgstr "Comerciar/Trueque"
 #: /Game/LocalizationText/Tutorial.Tutorial
 msgctxt "Tutorial,Tutorial001"
 msgid "       在你远离那个安全又温暖的庇护所时前，按照庇护所惯例，所有被放逐的人都能得到一份末日爆发前的生存手册。里面详细记载了许多野外生存知识。这就是庇护所对于被放逐者的最后一丝温暖。"
-msgstr "       Antes de que te alejes de ese refugio seguro y cálido, de acuerdo con las reglas del refugio, todas las personas que sean exiliadas recibirán una copia del manual de supervivencia de antes del apocalipsis. Este manual detalla numerosos conocimientos de supervivencia en el exterior. Es el último gesto de calidez que el refugio ofrece a los exiliados."
+msgstr "       Antes de que te alejes de este lugar seguro y cálido, de acuerdo con las reglas del refugio, todas los exiliados recibirán una copia del manual de supervivencia de antes del apocalipsis. Este manual detalla conocimientos ancestrales de supervivencia . Es el último gesto de amabilidad que el refugio ofrece a los exiliados."
 
 #. Key:	Tutorial002
 #. SourceLocation:	/Game/LocalizationText/Tutorial.Tutorial
 #: /Game/LocalizationText/Tutorial.Tutorial
 msgctxt "Tutorial,Tutorial002"
 msgid "我明白庇护所的选择，我会尽力学习在这末日生存的一切（需要新手指引）"
-msgstr "Comprendo la decisión del refugio. Haré lo posible por aprender todo para sobrevivir en este apocalipsis (Requiere guía para principiantes)."
+msgstr "Comprendo la decisión del refugio. Haré lo posible para aprender a sobrevivir en este apocalipsis (Requiere guía para principiantes)."
 
 #. Key:	Tutorial003
 #. SourceLocation:	/Game/LocalizationText/Tutorial.Tutorial
 #: /Game/LocalizationText/Tutorial.Tutorial
 msgctxt "Tutorial,Tutorial003"
 msgid "这是庇护所对我无耻的抛弃！我绝不接受。（不需要新手指引）"
-msgstr "¡Esta es la vergonzosa traición del refugio hacia mí! ¡No lo aceptaré! (No requiere guía para principiantes)."
+msgstr "¡Esta es la traición del refugio! ¡No lo aceptaré! (No requiere guía para principiantes)."
 
 #. Key:	Tutorial004
 #. SourceLocation:	/Game/LocalizationText/Tutorial.Tutorial
@@ -15355,84 +15355,84 @@ msgstr "¿En que te puedo ayudar?"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Wound_FS_DWZ"
 msgid "低温症\r\n可使用温暖药剂进行治疗"
-msgstr "Hipotermia\r\nSe puede tratar con medicamentos para calentar"
+msgstr "Hipotermia\r\nSe puede tratar con medicamentos que te den calor"
 
 #. Key:	Wound_FS_GM
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Wound_FS_GM"
 msgid "感冒\r\n可使用温暖药剂、感冒药进行治疗"
-msgstr "Resfriado\r\nSe puede tratar con medicamentos para calentar o medicamentos para el resfriado"
+msgstr "Resfriado\r\nSe puede tratar con medicamentos para el resfriado o que te proporcionen calor"
 
 #. Key:	Wound_GRWS_01
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Wound_GRWS_01"
 msgid "轻度感染外伤\r\n在人物状态栏中将医疗物品拖动至受伤部位进行治疗"
-msgstr "Herida leve infectada\r\nArrastra los objetos médicos al área lesionada en la barra de estado del personaje para tratarlas"
+msgstr "Trauma leve infectad\r\nArrastra los objetos médicos al área lesionada en la barra de estado del personaje para curarte"
 
 #. Key:	Wound_GRWS_02
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Wound_GRWS_02"
 msgid "中度感染外伤\r\n在人物状态栏中将医疗物品拖动至受伤部位进行治疗"
-msgstr "Herida moderada infectada\r\nArrastra los objetos médicos al área lesionada en la barra de estado del personaje para tratarlas"
+msgstr "Trauma moderado infectado\r\nArrastra los objetos médicos al área lesionada en la barra de estado del personaje para curarte"
 
 #. Key:	Wound_GRWS_03
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Wound_GRWS_03"
 msgid "重度感染外伤\r\n在人物状态栏中将医疗物品拖动至受伤部位进行治疗"
-msgstr "Herida grave infectada\r\nArrastra los objetos médicos al área lesionada en la barra de estado del personaje para tratarlas"
+msgstr "Trauma grave infectado\r\nArrastra los objetos médicos al área lesionada en la barra de estado del personaje para curarte"
 
 #. Key:	Wound_LJ_HL
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Wound_LJ_HL"
 msgid "霍乱\r\n可使用霍利清进行治疗"
-msgstr "Cólera\r\nPuede tratarse con HoliQing"
+msgstr "Cólera\r\nPuede tratarse con -HoliQing-"
 
 #. Key:	Wound_LJ_LJ
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Wound_LJ_LJ"
 msgid "痢疾\r\n可使用霍利清、益生菌进行治疗"
-msgstr "Diarrea\r\nSe puede tratar con medicinas como Holly Clean o probióticos"
+msgstr "Diarrea\r\nSe puede tratar con medicinas como -Holly Clean- o probióticos"
 
 #. Key:	Wound_WS_01
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Wound_WS_01"
 msgid "轻度外伤\r\n在人物状态栏中将医疗物品拖动至受伤部位进行治疗"
-msgstr "Herida leve\r\nArrastra los objetos médicos al área lesionada en la barra de estado del personaje para tratarlas"
+msgstr "Trauma leve\r\nArrastra los objetos médicos al área lesionada en la barra de estado del personaje para curarte"
 
 #. Key:	Wound_WS_02
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Wound_WS_02"
 msgid "中度外伤\r\n在人物状态栏中将医疗物品拖动至受伤部位进行治疗"
-msgstr "Herida moderada\r\nArrastra los objetos médicos al área lesionada en la barra de estado del personaje para tratarlas"
+msgstr "Trauma moderado\r\nArrastra los objetos médicos al área lesionada en la barra de estado del personaje para curarte"
 
 #. Key:	Wound_WS_03
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Wound_WS_03"
 msgid "重度外伤\r\n在人物状态栏中将医疗物品拖动至受伤部位进行治疗"
-msgstr "Herida grave\r\nArrastra los objetos médicos al área lesionada en la barra de estado del personaje para tratarlas"
+msgstr "Trauma grave\r\nArrastra los objetos médicos al área lesionada en la barra de estado del personaje para curarte"
 
 #. Key:	Wound_YY_YY
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Wound_YY_YY"
 msgid "抑郁\r\n可使用约翰圣草、安神药品进行治疗"
-msgstr "Depresión\r\nSe puede tratar con hierba de San Juan o medicamentos tranquilizantes"
+msgstr "Depresión\r\nSe puede tratar con -Hierba de San Juan- o tranquilizantes"
 
 #. Key:	Wound_YYBL_DXT
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Wound_YYBL_DXT"
 msgid "低血糖\r\n可使用营养补充剂、葡萄糖片进行治疗"
-msgstr "Hipoglucemia\r\nSe puede tratar con suplementos nutricionales o pastillas de glucosa"
+msgstr "Hipoglucemia\r\nSe puede tratar con suplementos nutricionales o glucosa"
 
 #. Key:	Wound_YYBL_JRWS
 #. SourceLocation:	/Game/LocalizationText/UI.UI
