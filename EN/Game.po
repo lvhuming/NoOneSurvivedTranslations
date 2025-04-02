@@ -1803,7 +1803,7 @@ msgstr "18"
 #: /Game/Blueprint/UMG/Furniture/WBP_NewCarInventory02.WBP_NewCarInventory02_C:Update [Script Bytecode]
 msgctxt ",85A4F9F449852268CE75F49289DCC846"
 msgid "燃料："
-msgstr "fuel:"
+msgstr "Fuel:"
 
 #. Key:	C602FCB44E648C02BDDBF081D1AE78C1
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_NewCarInventory02.WBP_NewCarInventory02_C:WidgetTree.TextRY.Text
@@ -10273,7 +10273,7 @@ msgstr "Treats Heatstroke"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Tip_YP_ZL_06"
 msgid "治疗霍乱、痢疾"
-msgstr "Treat Cholera and Dysentery"
+msgstr "Treats Cholera and Dysentery"
 
 #. Key:	Tip_YP_ZL_07
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -10854,7 +10854,7 @@ msgstr "DF122"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Weapon_Gun_Flamthrower_Tip"
 msgid "使用燃油"
-msgstr "Fuel usage"
+msgstr "Fuel Usage"
 
 #. Key:	Weapon_Gun_Flmathrower
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -12765,21 +12765,21 @@ msgstr "Trade value with merchants"
 #: /Game/LocalizationText/Tutorial.Tutorial
 msgctxt "Tutorial,Tutorial001"
 msgid "       在你远离那个安全又温暖的庇护所时前，按照庇护所惯例，所有被放逐的人都能得到一份末日爆发前的生存手册。里面详细记载了许多野外生存知识。这就是庇护所对于被放逐者的最后一丝温暖。"
-msgstr "       Before you leave that safe and warm haven, according to the shelter's custom, all exiles are given a survival handbook from before the apocalypse outbreak. It contains detailed information on various wilderness survival skills. This is the shelter's final gesture of warmth towards the exiled."
+msgstr "       Before you leave the Haven, according to the shelter's custom, all exiles are given a survival handbook from before the apocalypse outbreak. It contains information on various wilderness survival skills. This is the shelter's final gesture towards the exiled."
 
 #. Key:	Tutorial002
 #. SourceLocation:	/Game/LocalizationText/Tutorial.Tutorial
 #: /Game/LocalizationText/Tutorial.Tutorial
 msgctxt "Tutorial,Tutorial002"
 msgid "我明白庇护所的选择，我会尽力学习在这末日生存的一切（需要新手指引）"
-msgstr "I understand the shelter's decision, and I will do my best to learn everything about surviving in this apocalypse (Tutorial Required)."
+msgstr "I will do my best to learn everything about surviving in this apocalypse (Tutorial Required)."
 
 #. Key:	Tutorial003
 #. SourceLocation:	/Game/LocalizationText/Tutorial.Tutorial
 #: /Game/LocalizationText/Tutorial.Tutorial
 msgctxt "Tutorial,Tutorial003"
 msgid "这是庇护所对我无耻的抛弃！我绝不接受。（不需要新手指引）"
-msgstr "This is the shelter's shameless abandonment of me! I will never accept it. (Tutorial Not Required)."
+msgstr "I know enough to make it out there! (Tutorial Not Required)."
 
 #. Key:	Tutorial004
 #. SourceLocation:	/Game/LocalizationText/Tutorial.Tutorial
@@ -12793,28 +12793,28 @@ msgstr "Collect resources scattered around the ground nearby.\r\n\r\nCollect sti
 #: /Game/LocalizationText/Tutorial.Tutorial
 msgctxt "Tutorial,Tutorial005"
 msgid "收集够资源后按下Tap键打开背包界面后，在点击<Img id=\"ZZ\"/>工具图标制作石镐与石斧\r\n\r\n制作石镐（<Green>{Value1}</>/1） \r\n制作石斧（<Green>{Value2}</>/1）"
-msgstr "After gathering enough resources, press the Tab key to open the inventory interface, then click the <Img id=\"ZZ\"/> tools icon to craft a stone pickaxe and stone axe.\r\n\r\nCraft a stone pickaxe (<Green>{Value1}</>/1).\r\nCraft a stone axe (<Green>{Value2}</>/1)."
+msgstr "After gathering enough resources, press the Tab key to open the Inventory interface, then click the <Img id=\"ZZ\"/> Tools Icon to craft a Stone Pickaxe and Stone Axe.\r\n\r\nCraft a Stone Pickaxe (<Green>{Value1}</>/1).\r\nCraft a Stone Axe (<Green>{Value2}</>/1)."
 
 #. Key:	Tutorial006
 #. SourceLocation:	/Game/LocalizationText/Tutorial.Tutorial
 #: /Game/LocalizationText/Tutorial.Tutorial
 msgctxt "Tutorial,Tutorial006"
 msgid "装备制作好的工具，使用工具收集资源\r\n\r\n砍伐树木（<Green>{Value1}</>/5） \r\n击碎岩石（<Green>{Value2}</>/3） "
-msgstr "Equip the crafted tools and use them to gather resources.\r\n\r\nChop down trees (<Green>{Value1}</>/5).\r\nBreak stones (<Green>{Value2}</>/3)."
+msgstr "Equip the crafted tools and use them to gather resources.\r\n\r\nChop down trees into Logs (<Green>{Value1}</>/5).\r\nMine Stone Nodes (<Green>{Value2}</>/3)."
 
 #. Key:	Tutorial007
 #. SourceLocation:	/Game/LocalizationText/Tutorial.Tutorial
 #: /Game/LocalizationText/Tutorial.Tutorial
 msgctxt "Tutorial,Tutorial007"
 msgid "按下Tab键打开背包后点击书籍图标后，找到选择<Img id=\"KJ\"/>科技页面解锁加工台（<Green>{Value1}</>/1） \r\n\r\n制作建造锤（<Green>{Value2}</>/1）\r\n\r\n使用建造锤，建造加工台（<Green>{Value3}</>/1） "
-msgstr "Press the Tab key to open the backpack, then click the book icon. Navigate to the <Img id=\"KJ\"/> tech page to unlock the processing table (<Green>{Value1}</>/1).\r\n\r\nCraft a construction hammer (<Green>{Value2}</>/1).\r\n\r\nUse the construction hammer to build a processing table (<Green>{Value3}</>/1)."
+msgstr "Press the Tab key to open the Backpack, click the Book Icon. Navigate to the <Img id=\"KJ\"/> Technology page to unlock the Crafting Table (<Green>{Value1}</>/1).\r\n\r\nCraft a Construction Hammer (<Green>{Value2}</>/1).\r\n\r\nUse the Construction Hammer to build a Crafting Table (<Green>{Value3}</>/1)."
 
 #. Key:	Tutorial008
 #. SourceLocation:	/Game/LocalizationText/Tutorial.Tutorial
 #: /Game/LocalizationText/Tutorial.Tutorial
 msgctxt "Tutorial,Tutorial008"
 msgid "按M键打开地图前往矿洞区域或者露天矿场搜集所需资源解锁木炭炉（<Green>{Value1}</>/1） \r\n\r\n使用建造锤，建造木炭炉（<Green>{Value2}</>/1） "
-msgstr "Press the M key to open the map and head to the cave area or open-pit mine to gather the necessary resources to unlock the charcoal furnace (<Green>{Value1}</>/1).\r\n\r\nUse the construction hammer to build a charcoal furnace (<Green>{Value2}</>/1)."
+msgstr "Press the M key to open the Map and head to a cave area or an open Ore field to mine Clay to unlock the Furnace (<Green>{Value1}</>/1).\r\n\r\nUse the Construction Hammer to build a Furnace (<Green>{Value2}</>/1)."
 
 #. Key:	Tutorial009
 #. SourceLocation:	/Game/LocalizationText/Tutorial.Tutorial
@@ -15355,14 +15355,14 @@ msgstr "Any jobs I can do for you?"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Wound_FS_DWZ"
 msgid "低温症\r\n可使用温暖药剂进行治疗"
-msgstr "Hypothermia\r\nUse warming agents for treatment"
+msgstr "Hypothermia\r\nUse Warming Agents for treatment"
 
 #. Key:	Wound_FS_GM
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Wound_FS_GM"
 msgid "感冒\r\n可使用温暖药剂、感冒药进行治疗"
-msgstr "Cold\r\nUse warming agents or cold medications for treatment"
+msgstr "Cold\r\nUse Warming Agents or Cold Medications for treatment"
 
 #. Key:	Wound_GRWS_01
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -15390,14 +15390,14 @@ msgstr "Severe infected external injuries\r\nDrag medical items to the injured a
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Wound_LJ_HL"
 msgid "霍乱\r\n可使用霍利清进行治疗"
-msgstr "Cholera\r\nCan be treated with Holyclear."
+msgstr "Cholera\r\nUse Dysentery Medicine for treatment."
 
 #. Key:	Wound_LJ_LJ
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Wound_LJ_LJ"
 msgid "痢疾\r\n可使用霍利清、益生菌进行治疗"
-msgstr "Dysentery\r\nUse holly-cleansing agents or probiotics for treatment"
+msgstr "Dysentery\r\nUse Dysentery Medicine, Probiotics or drink Herbal Tea for treatment"
 
 #. Key:	Wound_WS_01
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -15425,42 +15425,42 @@ msgstr "Severe external injuries\r\nDrag medical items to the injured area in th
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Wound_YY_YY"
 msgid "抑郁\r\n可使用约翰圣草、安神药品进行治疗"
-msgstr "Depression\r\nUse St. John's Wort or sedative medications for treatment"
+msgstr "Depression\r\nUse St. John's Wort or Sedative Medications for treatment"
 
 #. Key:	Wound_YYBL_DXT
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Wound_YYBL_DXT"
 msgid "低血糖\r\n可使用营养补充剂、葡萄糖片进行治疗"
-msgstr "Hypoglycemia\r\nUse nutritional supplements or glucose tablets for treatment"
+msgstr "Hypoglycemia\r\nUse Nutritional Supplements or Glucose Tablets for treatment"
 
 #. Key:	Wound_YYBL_JRWS
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Wound_YYBL_JRWS"
 msgid "肌肉萎缩\r\n可使用营养补充剂进行治疗"
-msgstr "Muscle atrophy\r\nUse nutritional supplements for treatment"
+msgstr "Muscle atrophy\r\nUse Nutritional Supplements for treatment"
 
 #. Key:	Wound_YYBL_QSWS
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Wound_YYBL_QSWS"
 msgid "全身虚弱\r\n可使用营养补充剂、蛋白质补充剂进行治疗"
-msgstr "General weakness\r\nUse nutritional supplements or protein supplements for treatment"
+msgstr "General weakness\r\nUse Nutritional Supplements or Protein Supplements for treatment"
 
 #. Key:	Wound_ZS_RJL
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Wound_ZS_RJL"
 msgid "热痉挛\r\n可使用热痉挛药进行治疗"
-msgstr "Heat cramps\r\nUse heat cramp medications for treatment"
+msgstr "Heat cramps\r\nUse Antispasmodic Medicine for treatment"
 
 #. Key:	Wound_ZS_ZS
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Wound_ZS_ZS"
 msgid "中暑\r\n可使用热痉挛药、解热药进行治疗"
-msgstr "Heat stroke\r\nUse heat cramp medications or antipyretics for treatment"
+msgstr "Heat stroke\r\nUse Antipyretics Medicine for treatment"
 
 #. Key:	WPBG
 #. SourceLocation:	/Game/LocalizationText/UI.UI
