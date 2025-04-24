@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2025-03-31 12:17\n"
-"PO-Revision-Date: 2025-03-31 12:17\n"
+"POT-Creation-Date: 2025-04-24 06:09\n"
+"PO-Revision-Date: 2025-04-24 06:09\n"
 "Language-Team: \n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
@@ -566,6 +566,13 @@ msgctxt ",6B6E2B914267363D168051958D0E1DF6"
 msgid "主要用于砍树，必要时候也可以用来防身。"
 msgstr "Ağırlıklı olarak ağaç kesmek için kullanılır ve gerektiğinde nefsi müdafaa için de kullanılabilir."
 
+#. Key:	BF0A2AF147C11CAE756F39B8B66425B1
+#. SourceLocation:	/Game/Blueprint/ACF/Item/Tool/BP_ToolAxe.Default__BP_ToolAxe_C.ItemInfo.Name
+#: /Game/Blueprint/ACF/Item/Tool/BP_ToolAxe.Default__BP_ToolAxe_C.ItemInfo.Name
+msgctxt ",BF0A2AF147C11CAE756F39B8B66425B1"
+msgid "斧头"
+msgstr "Balta"
+
 #. Key:	3906A0864857BE406694849A0851429D
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Tool/BP_ToolPickaxe.Default__BP_ToolPickaxe_C.ItemInfo.Description
 #: /Game/Blueprint/ACF/Item/Tool/BP_ToolPickaxe.Default__BP_ToolPickaxe_C.ItemInfo.Description
@@ -761,13 +768,6 @@ msgstr "Uzun İki Elli Bıçak"
 msgctxt ",CCA911E24A891D88411C579C713650AF"
 msgid "短单斧"
 msgstr "Tek Balta"
-
-#. Key:	BF0A2AF147C11CAE756F39B8B66425B1
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/ShortSharp/Axe/BP_ToolAxeBase.Default__BP_ToolAxeBase_C.ItemInfo.Name
-#: /Game/Blueprint/ACF/Item/Weapon/ShortSharp/Axe/BP_ToolAxeBase.Default__BP_ToolAxeBase_C.ItemInfo.Name
-msgctxt ",BF0A2AF147C11CAE756F39B8B66425B1"
-msgid "斧头"
-msgstr "Balta"
 
 #. Key:	B622F1434FD69B2C080878B79A141547
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/ShortSharp/BP_ShortSharpBase.Default__BP_ShortSharpBase_C.ItemInfo.Name
@@ -7675,8 +7675,8 @@ msgstr "Bulucu"
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,DJ"
-msgid "电锯"
-msgstr "elektrikli testere"
+msgid "油锯"
+msgstr "Elektrikli Testere"
 
 #. Key:	DRD
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -11168,8 +11168,8 @@ msgstr "Gazlı bez"
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,YP_WS_SCSKQXJ"
-msgid "深层伤口清洗剂"
-msgstr "Derin yara temizleyici"
+msgid "组织修复射注器"
+msgstr "Doku Onarım Enjektörü"
 
 #. Key:	YP_WS_WKGJB
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -11196,8 +11196,8 @@ msgstr "Tıbbi paket"
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,YP_WS_ZXF"
-msgid "止血粉"
-msgstr "Kanama tozu"
+msgid "止血药膏"
+msgstr "Kan Durdurucu Merhem"
 
 #. Key:	YR
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -12920,6 +12920,13 @@ msgstr "Boşalt"
 msgctxt "UI,BackSave"
 msgid "你确定要用这个存档覆盖之前的存档吗？\r\n注意覆盖以后之前的存档无法恢复"
 msgstr "Bununla önceki kaydın üzerine yazmak istediğinizden emin misiniz?\r\nÜzerine yazıldıktan sonra önceki arşivin geri yüklenemeyeceğini unutmayın."
+
+#. Key:	Bow_Tip
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,Bow_Tip"
+msgid "缺少箭矢！！！"
+msgstr "Ok Eksik!!!"
 
 #. Key:	Break
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -15146,6 +15153,27 @@ msgstr "Kategori:"
 msgctxt "UI,TZKSQ"
 msgid "调整开锁器位置"
 msgstr "Ayırıcının Konumunu Ayarlayın"
+
+#. Key:	UI_JiaYou
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,UI_JiaYou"
+msgid "加油"
+msgstr "Yakıt Doldurma"
+
+#. Key:	UI_Tip_QSRY
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,UI_Tip_QSRY"
+msgid "缺少燃油"
+msgstr "Yakıt Eksik"
+
+#. Key:	UI_Tip_YouLiang
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,UI_Tip_YouLiang"
+msgid "油量"
+msgstr "Yakıt Miktarı"
 
 #. Key:	Use
 #. SourceLocation:	/Game/LocalizationText/UI.UI

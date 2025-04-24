@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2025-03-31 12:17\n"
-"PO-Revision-Date: 2025-03-31 12:17\n"
+"POT-Creation-Date: 2025-04-24 06:09\n"
+"PO-Revision-Date: 2025-04-24 06:09\n"
 "Language-Team: \n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -333,14 +333,14 @@ msgstr "Reinicializar la máquina de estados si nos hemos vuelto relevantes para
 #: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.MeleeWeapon:AnimGraphNode_StateMachine_0.ShowPinForProperties(4).ShowPinForProperties.PropertyTooltip
 msgctxt "UObjectToolTips,AnimNode_StateMachine:bCreateNotifyMetaData"
 msgid "Tag Notifies with meta data such as the active state and mirroring state.  Producing this\ndata has a  slight performance cost."
-msgstr "La etiqueta muestra con metadatos el estado activo y el estado de duplicación. Generar estos datos tiene un pequeño impacto en el rendimiento".
+msgstr "La etiqueta muestra con metadatos el estado activo y el estado de duplicación. Generar estos datos tiene un pequeño impacto en el rendimiento"
 
 #. Key:	AnimNode_StateMachine:bAllowConduitEntryStates
 #. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.MeleeWeapon:AnimGraphNode_StateMachine_0.ShowPinForProperties(5).ShowPinForProperties.PropertyTooltip
 #: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.MeleeWeapon:AnimGraphNode_StateMachine_0.ShowPinForProperties(5).ShowPinForProperties.PropertyTooltip
 msgctxt "UObjectToolTips,AnimNode_StateMachine:bAllowConduitEntryStates"
 msgid "Allows a conduit to be used as this state machine's entry state\nIf a valid entry state cannot be found at runtime then this will generate a reference pose!"
-msgstr "Permite utilizar un conducto como estado de entrada de esta máquina de estados. Si no se puede encontrar un estado de entrada válido en tiempo de ejecución, esto generará una pose de referencia".
+msgstr "Permite utilizar un conducto como estado de entrada de esta máquina de estados. Si no se puede encontrar un estado de entrada válido en tiempo de ejecución, esto generará una pose de referencia"
 
 #. Key:	A3EEE2ED4151882C6AADCC9C40E8CEE1
 #. SourceLocation:	/Game/Blueprint/ACF/Data/TableAsset/WeaponTable.WeaponTable.SKS狙击枪.ItemInfo_66_F92A1A3B448C3413FD56918B4BFB9241.Name
@@ -566,6 +566,13 @@ msgctxt ",6B6E2B914267363D168051958D0E1DF6"
 msgid "主要用于砍树，必要时候也可以用来防身。"
 msgstr "Se utiliza principalmente para talar árboles o como arma cuando es necesario."
 
+#. Key:	BF0A2AF147C11CAE756F39B8B66425B1
+#. SourceLocation:	/Game/Blueprint/ACF/Item/Tool/BP_ToolAxe.Default__BP_ToolAxe_C.ItemInfo.Name
+#: /Game/Blueprint/ACF/Item/Tool/BP_ToolAxe.Default__BP_ToolAxe_C.ItemInfo.Name
+msgctxt ",BF0A2AF147C11CAE756F39B8B66425B1"
+msgid "斧头"
+msgstr "Hacha"
+
 #. Key:	3906A0864857BE406694849A0851429D
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Tool/BP_ToolPickaxe.Default__BP_ToolPickaxe_C.ItemInfo.Description
 #: /Game/Blueprint/ACF/Item/Tool/BP_ToolPickaxe.Default__BP_ToolPickaxe_C.ItemInfo.Description
@@ -761,13 +768,6 @@ msgstr "Machete de Hierro"
 msgctxt ",CCA911E24A891D88411C579C713650AF"
 msgid "短单斧"
 msgstr "Hachuela"
-
-#. Key:	BF0A2AF147C11CAE756F39B8B66425B1
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/ShortSharp/Axe/BP_ToolAxeBase.Default__BP_ToolAxeBase_C.ItemInfo.Name
-#: /Game/Blueprint/ACF/Item/Weapon/ShortSharp/Axe/BP_ToolAxeBase.Default__BP_ToolAxeBase_C.ItemInfo.Name
-msgctxt ",BF0A2AF147C11CAE756F39B8B66425B1"
-msgid "斧头"
-msgstr "Hacha"
 
 #. Key:	B622F1434FD69B2C080878B79A141547
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/ShortSharp/BP_ShortSharpBase.Default__BP_ShortSharpBase_C.ItemInfo.Name
@@ -7675,7 +7675,7 @@ msgstr "Localizador"
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,DJ"
-msgid "电锯"
+msgid "油锯"
 msgstr "Motosierra"
 
 #. Key:	DRD
@@ -11168,8 +11168,8 @@ msgstr "Venda"
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,YP_WS_SCSKQXJ"
-msgid "深层伤口清洗剂"
-msgstr "Limpiador de heridas profundas"
+msgid "组织修复射注器"
+msgstr "Inyector de reparación de tejidos"
 
 #. Key:	YP_WS_WKGJB
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -11196,8 +11196,8 @@ msgstr "Kit médico"
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,YP_WS_ZXF"
-msgid "止血粉"
-msgstr "Polvo hemostático"
+msgid "止血药膏"
+msgstr "Pasta hemostática"
 
 #. Key:	YR
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -12920,6 +12920,13 @@ msgstr "Descargar"
 msgctxt "UI,BackSave"
 msgid "你确定要用这个存档覆盖之前的存档吗？\r\n注意覆盖以后之前的存档无法恢复"
 msgstr "¿Estás seguro de que deseas sobrescribir el guardado anterior?\r\nTen en cuenta que el archivo anterior no se podra recuperar una vez sobreescrito."
+
+#. Key:	Bow_Tip
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,Bow_Tip"
+msgid "缺少箭矢！！！"
+msgstr "¡Falta de flechas!!!"
 
 #. Key:	Break
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -15146,6 +15153,27 @@ msgstr "Categoría: "
 msgctxt "UI,TZKSQ"
 msgid "调整开锁器位置"
 msgstr "Ajusta la Ganzúa"
+
+#. Key:	UI_JiaYou
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,UI_JiaYou"
+msgid "加油"
+msgstr "Repostar"
+
+#. Key:	UI_Tip_QSRY
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,UI_Tip_QSRY"
+msgid "缺少燃油"
+msgstr "Falta de combustible"
+
+#. Key:	UI_Tip_YouLiang
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,UI_Tip_YouLiang"
+msgid "油量"
+msgstr "Nivel de combustible"
 
 #. Key:	Use
 #. SourceLocation:	/Game/LocalizationText/UI.UI

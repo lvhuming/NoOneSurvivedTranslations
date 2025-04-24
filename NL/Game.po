@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2025-03-31 12:17\n"
-"PO-Revision-Date: 2025-03-31 12:17\n"
+"POT-Creation-Date: 2025-04-24 06:09\n"
+"PO-Revision-Date: 2025-04-24 06:09\n"
 "Language-Team: \n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
@@ -566,6 +566,13 @@ msgctxt ",6B6E2B914267363D168051958D0E1DF6"
 msgid "主要用于砍树，必要时候也可以用来防身。"
 msgstr "Het wordt voornamelijk gebruikt voor het kappen van bomen en kan indien nodig ook worden gebruikt voor zelfverdediging."
 
+#. Key:	BF0A2AF147C11CAE756F39B8B66425B1
+#. SourceLocation:	/Game/Blueprint/ACF/Item/Tool/BP_ToolAxe.Default__BP_ToolAxe_C.ItemInfo.Name
+#: /Game/Blueprint/ACF/Item/Tool/BP_ToolAxe.Default__BP_ToolAxe_C.ItemInfo.Name
+msgctxt ",BF0A2AF147C11CAE756F39B8B66425B1"
+msgid "斧头"
+msgstr "bijl"
+
 #. Key:	3906A0864857BE406694849A0851429D
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Tool/BP_ToolPickaxe.Default__BP_ToolPickaxe_C.ItemInfo.Description
 #: /Game/Blueprint/ACF/Item/Tool/BP_ToolPickaxe.Default__BP_ToolPickaxe_C.ItemInfo.Description
@@ -761,13 +768,6 @@ msgstr "tweehandig mes"
 msgctxt ",CCA911E24A891D88411C579C713650AF"
 msgid "短单斧"
 msgstr "enkele bijl"
-
-#. Key:	BF0A2AF147C11CAE756F39B8B66425B1
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/ShortSharp/Axe/BP_ToolAxeBase.Default__BP_ToolAxeBase_C.ItemInfo.Name
-#: /Game/Blueprint/ACF/Item/Weapon/ShortSharp/Axe/BP_ToolAxeBase.Default__BP_ToolAxeBase_C.ItemInfo.Name
-msgctxt ",BF0A2AF147C11CAE756F39B8B66425B1"
-msgid "斧头"
-msgstr "bijl"
 
 #. Key:	B622F1434FD69B2C080878B79A141547
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/ShortSharp/BP_ShortSharpBase.Default__BP_ShortSharpBase_C.ItemInfo.Name
@@ -7675,8 +7675,8 @@ msgstr "Zoeker"
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,DJ"
-msgid "电锯"
-msgstr "kettingzaag"
+msgid "油锯"
+msgstr "Kettingzaag"
 
 #. Key:	DRD
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -11168,8 +11168,8 @@ msgstr "Gaaskompressen"
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,YP_WS_SCSKQXJ"
-msgid "深层伤口清洗剂"
-msgstr "Diepe wondreinigingsmiddel"
+msgid "组织修复射注器"
+msgstr "Weefselherstelinjector"
 
 #. Key:	YP_WS_WKGJB
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -11196,8 +11196,8 @@ msgstr "Medische kit"
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,YP_WS_ZXF"
-msgid "止血粉"
-msgstr "Stollingspoeder"
+msgid "止血药膏"
+msgstr "Bloedingstelpende zalf"
 
 #. Key:	YR
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -12920,6 +12920,13 @@ msgstr "lossen"
 msgctxt "UI,BackSave"
 msgid "你确定要用这个存档覆盖之前的存档吗？\r\n注意覆盖以后之前的存档无法恢复"
 msgstr "Weet je zeker dat je de vorige save wilt overschrijven met deze? Merk op dat het vorige archief niet kan worden hersteld na overschrijven"
+
+#. Key:	Bow_Tip
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,Bow_Tip"
+msgid "缺少箭矢！！！"
+msgstr "Tekort aan pijlen!!!"
 
 #. Key:	Break
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -15146,6 +15153,27 @@ msgstr "Categorie:"
 msgctxt "UI,TZKSQ"
 msgid "调整开锁器位置"
 msgstr "Pas de positie van de ontkoppelaar aan"
+
+#. Key:	UI_JiaYou
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,UI_JiaYou"
+msgid "加油"
+msgstr "Tanken"
+
+#. Key:	UI_Tip_QSRY
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,UI_Tip_QSRY"
+msgid "缺少燃油"
+msgstr "Brandstoftekort"
+
+#. Key:	UI_Tip_YouLiang
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,UI_Tip_YouLiang"
+msgid "油量"
+msgstr "Brandstofniveau"
 
 #. Key:	Use
 #. SourceLocation:	/Game/LocalizationText/UI.UI
