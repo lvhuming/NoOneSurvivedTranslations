@@ -340,7 +340,7 @@ msgstr "La etiqueta muestra con metadatos el estado activo y el estado de duplic
 #: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.MeleeWeapon:AnimGraphNode_StateMachine_0.ShowPinForProperties(5).ShowPinForProperties.PropertyTooltip
 msgctxt "UObjectToolTips,AnimNode_StateMachine:bAllowConduitEntryStates"
 msgid "Allows a conduit to be used as this state machine's entry state\nIf a valid entry state cannot be found at runtime then this will generate a reference pose!"
-msgstr "Permite utilizar un conducto como estado de entrada de esta máquina de estados. Si no se puede encontrar un estado de entrada válido en tiempo de ejecución, esto generará una pose de referencia"
+msgstr "Permite utilizar un conducto como estado de entrada de esta máquina de estados.\nSi no se puede encontrar un estado de entrada válido en tiempo de ejecución, esto generará una pose de referencia."
 
 #. Key:	A3EEE2ED4151882C6AADCC9C40E8CEE1
 #. SourceLocation:	/Game/Blueprint/ACF/Data/TableAsset/WeaponTable.WeaponTable.SKS狙击枪.ItemInfo_66_F92A1A3B448C3413FD56918B4BFB9241.Name
@@ -12947,7 +12947,7 @@ msgstr "¿Estás seguro de que deseas sobrescribir el guardado anterior?\r\nTen 
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Bow_Tip"
 msgid "缺少箭矢！！！"
-msgstr "¡Falta de flechas!!!"
+msgstr "¡Faltan flechas!!!"
 
 #. Key:	Break
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -15180,7 +15180,7 @@ msgstr "Categoría: "
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,TZKSQ"
 msgid "调整开锁器位置"
-msgstr "Ajusta la Ganzúa"
+msgstr "Ajusta de Ganzúa"
 
 #. Key:	UI_JiaYou
 #. SourceLocation:	/Game/LocalizationText/UI.UI
