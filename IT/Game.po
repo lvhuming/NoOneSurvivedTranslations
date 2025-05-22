@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2025-04-24 06:09\n"
-"PO-Revision-Date: 2025-04-24 06:09\n"
+"POT-Creation-Date: 2025-05-22 10:13\n"
+"PO-Revision-Date: 2025-05-22 10:13\n"
 "Language-Team: \n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -566,13 +566,6 @@ msgctxt ",6B6E2B914267363D168051958D0E1DF6"
 msgid "主要用于砍树，必要时候也可以用来防身。"
 msgstr "Viene utilizzato principalmente per il taglio degli alberi e può essere utilizzato anche per l'autodifesa quando necessario."
 
-#. Key:	BF0A2AF147C11CAE756F39B8B66425B1
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Tool/BP_ToolAxe.Default__BP_ToolAxe_C.ItemInfo.Name
-#: /Game/Blueprint/ACF/Item/Tool/BP_ToolAxe.Default__BP_ToolAxe_C.ItemInfo.Name
-msgctxt ",BF0A2AF147C11CAE756F39B8B66425B1"
-msgid "斧头"
-msgstr "Ascia"
-
 #. Key:	3906A0864857BE406694849A0851429D
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Tool/BP_ToolPickaxe.Default__BP_ToolPickaxe_C.ItemInfo.Description
 #: /Game/Blueprint/ACF/Item/Tool/BP_ToolPickaxe.Default__BP_ToolPickaxe_C.ItemInfo.Description
@@ -768,6 +761,13 @@ msgstr "Coltello da cucina "
 msgctxt ",CCA911E24A891D88411C579C713650AF"
 msgid "短单斧"
 msgstr "Ascia corta"
+
+#. Key:	BF0A2AF147C11CAE756F39B8B66425B1
+#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/ShortSharp/Axe/BP_ToolAxeBase.Default__BP_ToolAxeBase_C.ItemInfo.Name
+#: /Game/Blueprint/ACF/Item/Weapon/ShortSharp/Axe/BP_ToolAxeBase.Default__BP_ToolAxeBase_C.ItemInfo.Name
+msgctxt ",BF0A2AF147C11CAE756F39B8B66425B1"
+msgid "斧头"
+msgstr "Ascia"
 
 #. Key:	B622F1434FD69B2C080878B79A141547
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/ShortSharp/BP_ShortSharpBase.Default__BP_ShortSharpBase_C.ItemInfo.Name
@@ -3023,6 +3023,13 @@ msgctxt ",CC819A1447895FD466FEF7AA1DE2B9F7"
 msgid "删除"
 msgstr "Elimina"
 
+#. Key:	45E2CB7441522E184FD47A94E9EC381A
+#. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_Name.WBP_Name_C:WidgetTree.TextBlock_28.Text
+#: /Game/Blueprint/UMG/MainUI/Child/WBP_Name.WBP_Name_C:WidgetTree.TextBlock_28.Text
+msgctxt ",45E2CB7441522E184FD47A94E9EC381A"
+msgid "111111111111"
+msgstr "111111111111"
+
 #. Key:	FEB21BCC4870D846278BA9A227875DA1
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_ServerSetting.WBP_ServerSetting_C:WidgetTree.RoomName.Text
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_ServerSetting.WBP_ServerSetting_C:WidgetTree.RoomName.Text
@@ -4359,6 +4366,20 @@ msgstr "Non immagazzina acqua"
 msgctxt ",5604627744E8324B0E9AAB96BB219D3A"
 msgid "拖入容器装水"
 msgstr "Trascina i recipienti per l'acqua"
+
+#. Key:	4A2287974D69432C75AFFFAE63A14FE0
+#. SourceLocation:	/Game/Blueprint/UMG/WBP_GetWater1.WBP_GetWater1_C:OnDrop [Script Bytecode]
+#: /Game/Blueprint/UMG/WBP_GetWater1.WBP_GetWater1_C:OnDrop [Script Bytecode]
+msgctxt ",4A2287974D69432C75AFFFAE63A14FE0"
+msgid "这个没法储存水"
+msgstr "Questo non può contenere acqua"
+
+#. Key:	5D778BFB425003A9BFA2B6AB2A41F567
+#. SourceLocation:	/Game/Blueprint/UMG/WBP_GetWater1.WBP_GetWater1_C:WidgetTree.TextBlock_57.Text
+#: /Game/Blueprint/UMG/WBP_GetWater1.WBP_GetWater1_C:WidgetTree.TextBlock_57.Text
+msgctxt ",5D778BFB425003A9BFA2B6AB2A41F567"
+msgid "拖入容器装水"
+msgstr "Trascina nel contenitore per riempirlo d'acqua"
 
 #. Key:	97DD2C4C46F23E523F6FDF9B1E9A37BD
 #. SourceLocation:	/Game/Blueprint/UMG/WBP_ScreenMessage1.WBP_ScreenMessage1_C:WidgetTree.TextBlock.Text
@@ -14447,6 +14468,13 @@ msgctxt "UI,NotUseState"
 msgid "当前状态不可用！"
 msgstr "Stato attuale non disponibile!"
 
+#. Key:	NoWater_Tip
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,NoWater_Tip"
+msgid "没有水了。"
+msgstr "Non c'è più acqua."
+
 #. Key:	NowRL
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
@@ -15335,6 +15363,13 @@ msgstr "(Vuoto)"
 msgctxt "UI,WaterSource"
 msgid "水源"
 msgstr "Fonte d'acqua"
+
+#. Key:	WaterTip_01
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,WaterTip_01"
+msgid "水满了"
+msgstr "L'acqua è piena"
 
 #. Key:	WDXS
 #. SourceLocation:	/Game/LocalizationText/UI.UI
