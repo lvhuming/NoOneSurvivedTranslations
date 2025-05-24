@@ -1,17 +1,22 @@
-﻿# Game Russian translation.
+# Game Russian translation.
 # Fill out your copyright notice in the Description page of Project Settings.
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2025-05-22 10:13\n"
-"PO-Revision-Date: 2025-05-22 10:13\n"
-"Language-Team: \n"
+"POT-Creation-Date: 2024-12-23 05:35\n"
+"PO-Revision-Date: 2025-05-24 09:48\n"
+"Language-Team: Russian\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: noonesurvived\n"
+"X-Crowdin-Project-ID: 567073\n"
+"X-Crowdin-Language: ru\n"
+"X-Crowdin-File: Game.po\n"
+"X-Crowdin-File-ID: 9\n"
 
 #. Key:	2CD410E740F487818FE918876292782E
 #. SourceLocation:	/Game/Blueprint/ACF/Animal/Animal_Base.Default__Animal_Base_C.CharacterName
@@ -19,328 +24,6 @@ msgstr ""
 msgctxt ",2CD410E740F487818FE918876292782E"
 msgid "Animal"
 msgstr "Животное"
-
-#. Key:	AnimNode_ApplyAdditive:LODThreshold
-#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_ApplyAdditive_1.ShowPinForProperties(4).ShowPinForProperties.PropertyTooltip
-#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_ApplyAdditive_1.ShowPinForProperties(4).ShowPinForProperties.PropertyTooltip
-msgctxt "UObjectToolTips,AnimNode_ApplyAdditive:LODThreshold"
-msgid "* Max LOD that this node is allowed to run\n* For example if you have LODThreshold to be 2, it will run until LOD 2 (based on 0 index)\n* when the component LOD becomes 3, it will stop update/evaluate\n* currently transition would be issue and that has to be re-visited"
-msgstr "* Максимальный уровень детализации (LOD), при котором этот узел может работать\n* Например, если параметр LODThreshold установлен на 2, узел будет работать до уровня LOD 2 (на основе индекса 0)\n* Когда уровень детализации компонента становится 3, узел прекращает выполнение обновления/оценки\n* На данный момент есть проблемы с переходом, которые нужно пересмотреть"
-
-#. Key:	AnimNode_AssetPlayerBase:BlendWeight
-#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequenceEvaluator_19.ShowPinForProperties(0).ShowPinForProperties.PropertyTooltip
-#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequenceEvaluator_19.ShowPinForProperties(0).ShowPinForProperties.PropertyTooltip
-msgctxt "UObjectToolTips,AnimNode_AssetPlayerBase:BlendWeight"
-msgid "Last encountered blendweight for this node"
-msgstr "Последний встреченный коэффициент смешивания для данного узла."
-
-#. Key:	AnimNode_AssetPlayerBase:InternalTimeAccumulator
-#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequenceEvaluator_19.ShowPinForProperties(1).ShowPinForProperties.PropertyTooltip
-#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequenceEvaluator_19.ShowPinForProperties(1).ShowPinForProperties.PropertyTooltip
-msgctxt "UObjectToolTips,AnimNode_AssetPlayerBase:InternalTimeAccumulator"
-msgid "Accumulated time used to reference the asset in this node"
-msgstr "Накопленное время, используемое для обращения к ресурсу в этом узле."
-
-#. Key:	AnimNode_SequenceEvaluator:bShouldLoop
-#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequenceEvaluator_19.ShowPinForProperties(10).ShowPinForProperties.PropertyTooltip
-#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequenceEvaluator_19.ShowPinForProperties(10).ShowPinForProperties.PropertyTooltip
-msgctxt "UObjectToolTips,AnimNode_SequenceEvaluator:bShouldLoop"
-msgid "This only works if bTeleportToExplicitTime is false OR this node is set to use SyncGroup"
-msgstr "Работает только если bTeleportToExplicitTime равен false ИЛИ при использовании этого узла с SyncGroup"
-
-#. Key:	AnimNode_SequenceEvaluator:bTeleportToExplicitTime
-#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequenceEvaluator_19.ShowPinForProperties(11).ShowPinForProperties.PropertyTooltip
-#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequenceEvaluator_19.ShowPinForProperties(11).ShowPinForProperties.PropertyTooltip
-msgctxt "UObjectToolTips,AnimNode_SequenceEvaluator:bTeleportToExplicitTime"
-msgid "If true, teleport to explicit time, does NOT advance time (does not trigger notifies, does not extract Root Motion, etc.)\n      If false, will advance time (will trigger notifies, extract root motion if applicable, etc.)\n      Note: using a sync group forces advancing time regardless of what this option is set to."
-msgstr "Если true, телепортироваться к явному времени, БЕЗ продвижения времени (не вызываются уведомления, не извлекается корневое движение и т.д.).\nЕсли false, время будет продвигаться (вызываются уведомления, извлекается корневое движение, если это применимо и т.д.).\nПримечание: использование синхронной группы заставляет продвигать время независимо от того, как установлен этот параметр."
-
-#. Key:	AnimNode_SequenceEvaluator:ReinitializationBehavior
-#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequenceEvaluator_19.ShowPinForProperties(12).ShowPinForProperties.PropertyTooltip
-#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequenceEvaluator_19.ShowPinForProperties(12).ShowPinForProperties.PropertyTooltip
-msgctxt "UObjectToolTips,AnimNode_SequenceEvaluator:ReinitializationBehavior"
-msgid "What to do when SequenceEvaluator is reinitialized"
-msgstr "Действия при повторной инициализации SequenceEvaluator"
-
-#. Key:	AnimNode_SequenceEvaluator:StartPosition
-#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequenceEvaluator_19.ShowPinForProperties(13).ShowPinForProperties.PropertyTooltip
-#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequenceEvaluator_19.ShowPinForProperties(13).ShowPinForProperties.PropertyTooltip
-msgctxt "UObjectToolTips,AnimNode_SequenceEvaluator:StartPosition"
-msgid "The start up position, it only applies when ReinitializationBehavior == StartPosition. Only used when bTeleportToExplicitTime is false."
-msgstr "Начальная позиция, применяется только если ReinitializationBehavior == StartPosition. Используется только при значении bTeleportToExplicitTime равном false."
-
-#. Key:	AnimNode_SequenceEvaluator:GroupName
-#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequenceEvaluator_19.ShowPinForProperties(2).ShowPinForProperties.PropertyTooltip
-#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequenceEvaluator_19.ShowPinForProperties(2).ShowPinForProperties.PropertyTooltip
-msgctxt "UObjectToolTips,AnimNode_SequenceEvaluator:GroupName"
-msgid "The group name that we synchronize with (NAME_None if it is not part of any group)."
-msgstr "Имя группы, с которой мы синхронизируемся (NAME_None, если это не часть группы)."
-
-#. Key:	AnimNode_SequenceEvaluator:GroupRole
-#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequenceEvaluator_19.ShowPinForProperties(3).ShowPinForProperties.PropertyTooltip
-#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequenceEvaluator_19.ShowPinForProperties(3).ShowPinForProperties.PropertyTooltip
-msgctxt "UObjectToolTips,AnimNode_SequenceEvaluator:GroupRole"
-msgid "The role this node can assume within the group (ignored if GroupName is not set)"
-msgstr "Роль, которую данный узел может принимать в группе (игнорируется, если GroupName не установлен)"
-
-#. Key:	AnimNode_SequenceEvaluator:Method
-#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequenceEvaluator_19.ShowPinForProperties(4).ShowPinForProperties.PropertyTooltip
-#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequenceEvaluator_19.ShowPinForProperties(4).ShowPinForProperties.PropertyTooltip
-msgctxt "UObjectToolTips,AnimNode_SequenceEvaluator:Method"
-msgid "How this node will synchronize with other animations."
-msgstr "Как данный узел будет синхронизироваться с другими анимациями."
-
-#. Key:	AnimNode_SequenceEvaluator:bIgnoreForRelevancyTest
-#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequenceEvaluator_19.ShowPinForProperties(5).ShowPinForProperties.PropertyTooltip
-#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequenceEvaluator_19.ShowPinForProperties(5).ShowPinForProperties.PropertyTooltip
-msgctxt "UObjectToolTips,AnimNode_SequenceEvaluator:bIgnoreForRelevancyTest"
-msgid "If true, \"Relevant anim\" nodes that look for the highest weighted animation in a state will ignore this node"
-msgstr "Если true, узлы \"Relevant anim\", которые ищут анимацию с наибольшим весом в состоянии, будут игнорировать этот узел."
-
-#. Key:	AnimNode_SequenceEvaluator:Sequence
-#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequenceEvaluator_19.ShowPinForProperties(6).ShowPinForProperties.PropertyTooltip
-#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequenceEvaluator_19.ShowPinForProperties(6).ShowPinForProperties.PropertyTooltip
-msgctxt "UObjectToolTips,AnimNode_SequenceEvaluator:Sequence"
-msgid "The animation sequence asset to evaluate"
-msgstr "Анимационный последовательный ресурс для оценки."
-
-#. Key:	AnimNode_SequenceEvaluator:ExplicitTime
-#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequenceEvaluator_19.ShowPinForProperties(7).ShowPinForProperties.PropertyTooltip
-#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequenceEvaluator_19.ShowPinForProperties(7).ShowPinForProperties.PropertyTooltip
-msgctxt "UObjectToolTips,AnimNode_SequenceEvaluator:ExplicitTime"
-msgid "The time at which to evaluate the associated sequence"
-msgstr "Время, в которое необходимо оценить связанную последовательность"
-
-#. Key:	AnimNode_SequenceEvaluator:bUseExplicitFrame
-#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequenceEvaluator_19.ShowPinForProperties(8).ShowPinForProperties.PropertyTooltip
-#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequenceEvaluator_19.ShowPinForProperties(8).ShowPinForProperties.PropertyTooltip
-msgctxt "UObjectToolTips,AnimNode_SequenceEvaluator:bUseExplicitFrame"
-msgid "Whether to use ExplicitFrame (true) or ExplicitTime (false) when evaluating the associated sequence"
-msgstr "Использовать явный кадр (true) или явное время (false) при оценке связанной последовательности"
-
-#. Key:	AnimNode_SequenceEvaluator:ExplicitFrame
-#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequenceEvaluator_19.ShowPinForProperties(9).ShowPinForProperties.PropertyTooltip
-#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequenceEvaluator_19.ShowPinForProperties(9).ShowPinForProperties.PropertyTooltip
-msgctxt "UObjectToolTips,AnimNode_SequenceEvaluator:ExplicitFrame"
-msgid "The frame at which to evaluate the associated sequence"
-msgstr "Кадр, на котором следует оценить связанную последовательность."
-
-#. Key:	AnimNode_SequencePlayer:StartPosition
-#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequencePlayer_2.ShowPinForProperties(10).ShowPinForProperties.PropertyTooltip
-#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequencePlayer_2.ShowPinForProperties(10).ShowPinForProperties.PropertyTooltip
-msgctxt "UObjectToolTips,AnimNode_SequencePlayer:StartPosition"
-msgid "The start position between 0 and the length of the sequence to use when initializing. When looping, play will still jump back to the beginning when reaching the end."
-msgstr "Начальная позиция между 0 и длиной последовательности, используемая при инициализации. При зацикливании воспроизведение будет возвращаться к началу после достижения конца."
-
-#. Key:	AnimNode_SequencePlayer:bLoopAnimation
-#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequencePlayer_2.ShowPinForProperties(11).ShowPinForProperties.PropertyTooltip
-#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequencePlayer_2.ShowPinForProperties(11).ShowPinForProperties.PropertyTooltip
-msgctxt "UObjectToolTips,AnimNode_SequencePlayer:bLoopAnimation"
-msgid "Should the animation loop back to the start when it reaches the end?"
-msgstr "Должен ли анимационный цикл возвращаться к началу, когда он достигает конца?"
-
-#. Key:	AnimNode_SequencePlayer:bStartFromMatchingPose
-#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequencePlayer_2.ShowPinForProperties(12).ShowPinForProperties.PropertyTooltip
-#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequencePlayer_2.ShowPinForProperties(12).ShowPinForProperties.PropertyTooltip
-msgctxt "UObjectToolTips,AnimNode_SequencePlayer:bStartFromMatchingPose"
-msgid "Use pose matching to choose the start position. Requires experimental PoseSearch plugin."
-msgstr "Использовать сопоставление поз для выбора начальной позиции. Требуется экспериментальный плагин PoseSearch."
-
-#. Key:	AnimNode_SequencePlayer:GroupName
-#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequencePlayer_2.ShowPinForProperties(2).ShowPinForProperties.PropertyTooltip
-#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequencePlayer_2.ShowPinForProperties(2).ShowPinForProperties.PropertyTooltip
-msgctxt "UObjectToolTips,AnimNode_SequencePlayer:GroupName"
-msgid "The group name that we synchronize with (NAME_None if it is not part of any group)."
-msgstr "Имя группы, с которой мы синхронизируемся (NAME_None, если это не часть группы)."
-
-#. Key:	AnimNode_SequencePlayer:GroupRole
-#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequencePlayer_2.ShowPinForProperties(3).ShowPinForProperties.PropertyTooltip
-#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequencePlayer_2.ShowPinForProperties(3).ShowPinForProperties.PropertyTooltip
-msgctxt "UObjectToolTips,AnimNode_SequencePlayer:GroupRole"
-msgid "The role this node can assume within the group (ignored if GroupName is not set)"
-msgstr "Роль, которую данный узел может принимать в группе (игнорируется, если GroupName не установлен)"
-
-#. Key:	AnimNode_SequencePlayer:Method
-#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequencePlayer_2.ShowPinForProperties(4).ShowPinForProperties.PropertyTooltip
-#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequencePlayer_2.ShowPinForProperties(4).ShowPinForProperties.PropertyTooltip
-msgctxt "UObjectToolTips,AnimNode_SequencePlayer:Method"
-msgid "How this node will synchronize with other animations."
-msgstr "Как данный узел будет синхронизироваться с другими анимациями."
-
-#. Key:	AnimNode_SequencePlayer:bIgnoreForRelevancyTest
-#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequencePlayer_2.ShowPinForProperties(5).ShowPinForProperties.PropertyTooltip
-#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequencePlayer_2.ShowPinForProperties(5).ShowPinForProperties.PropertyTooltip
-msgctxt "UObjectToolTips,AnimNode_SequencePlayer:bIgnoreForRelevancyTest"
-msgid "If true, \"Relevant anim\" nodes that look for the highest weighted animation in a state will ignore this node"
-msgstr "Если true, узлы \"Relevant anim\", которые ищут анимацию с наибольшим весом в состоянии, будут игнорировать этот узел."
-
-#. Key:	AnimNode_SequencePlayer:Sequence
-#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequencePlayer_2.ShowPinForProperties(6).ShowPinForProperties.PropertyTooltip
-#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequencePlayer_2.ShowPinForProperties(6).ShowPinForProperties.PropertyTooltip
-msgctxt "UObjectToolTips,AnimNode_SequencePlayer:Sequence"
-msgid "The animation sequence asset to play"
-msgstr "Анимационный последовательный ресурс для воспроизведения."
-
-#. Key:	AnimNode_SequencePlayer:PlayRateBasis
-#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequencePlayer_2.ShowPinForProperties(7).ShowPinForProperties.PropertyTooltip
-#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequencePlayer_2.ShowPinForProperties(7).ShowPinForProperties.PropertyTooltip
-msgctxt "UObjectToolTips,AnimNode_SequencePlayer:PlayRateBasis"
-msgid "The Basis in which the PlayRate is expressed in. This is used to rescale PlayRate inputs.\nFor example a Basis of 100 means that the PlayRate input will be divided by 100."
-msgstr "Основное значение, в котором выражен PlayRate. Это используется для перерасчета входного значения скорости воспроизведения.\nНапример, основное значение 100 означает, что входное значение скорости воспроизведения будет делиться на 100."
-
-#. Key:	AnimNode_SequencePlayer:PlayRate
-#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequencePlayer_2.ShowPinForProperties(8).ShowPinForProperties.PropertyTooltip
-#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequencePlayer_2.ShowPinForProperties(8).ShowPinForProperties.PropertyTooltip
-msgctxt "UObjectToolTips,AnimNode_SequencePlayer:PlayRate"
-msgid "The play rate multiplier. Can be negative, which will cause the animation to play in reverse."
-msgstr "Множитель скорости воспроизведения. Может быть отрицательным, что приведет к воспроизведению анимации в обратном направлении."
-
-#. Key:	AnimNode_SequencePlayer:PlayRateScaleBiasClampConstants
-#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequencePlayer_2.ShowPinForProperties(9).ShowPinForProperties.PropertyTooltip
-#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_SequencePlayer_2.ShowPinForProperties(9).ShowPinForProperties.PropertyTooltip
-msgctxt "UObjectToolTips,AnimNode_SequencePlayer:PlayRateScaleBiasClampConstants"
-msgid "Additional scaling, offsetting and clamping of PlayRate input.\nPerformed after PlayRateBasis."
-msgstr "Дополнительное масштабирование, смещение и ограничение входного значения скорости воспроизведения.\nВыполняется после PlayRateBasis."
-
-#. Key:	AnimNode_TwoWayBlend:AlphaInputType
-#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_TwoWayBlend_1.ShowPinForProperties(2).ShowPinForProperties.PropertyTooltip
-#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_TwoWayBlend_1.ShowPinForProperties(2).ShowPinForProperties.PropertyTooltip
-msgctxt "UObjectToolTips,AnimNode_TwoWayBlend:AlphaInputType"
-msgid "The data type used to control the alpha blending between the A and B poses.\n              Note: Changing this value will disconnect alpha input pins."
-msgstr "Тип данных, используемых для управления альфа-смешиванием между позами A и B.\nПримечание: изменение этого значения отключит входные контакты альфа."
-
-#. Key:	AnimNode_TwoWayBlend:bAlphaBoolEnabled
-#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_TwoWayBlend_1.ShowPinForProperties(3).ShowPinForProperties.PropertyTooltip
-#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_TwoWayBlend_1.ShowPinForProperties(3).ShowPinForProperties.PropertyTooltip
-msgctxt "UObjectToolTips,AnimNode_TwoWayBlend:bAlphaBoolEnabled"
-msgid "The boolean value that controls the alpha blending when the alpha input type is set to 'Bool'"
-msgstr "Логическое значение, которое управляет альфа-смешиванием при установленном типе входа 'Bool'."
-
-#. Key:	AnimNode_TwoWayBlend:bResetChildOnActivation
-#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_TwoWayBlend_1.ShowPinForProperties(4).ShowPinForProperties.PropertyTooltip
-#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_TwoWayBlend_1.ShowPinForProperties(4).ShowPinForProperties.PropertyTooltip
-msgctxt "UObjectToolTips,AnimNode_TwoWayBlend:bResetChildOnActivation"
-msgid "This reinitializes child pose when re-activated. For example, when active child changes"
-msgstr "Переинициализирует позу дочернего объекта при повторной активации. Например, при изменении активного дочернего объекта."
-
-#. Key:	AnimNode_TwoWayBlend:bAlwaysUpdateChildren
-#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_TwoWayBlend_1.ShowPinForProperties(5).ShowPinForProperties.PropertyTooltip
-#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_TwoWayBlend_1.ShowPinForProperties(5).ShowPinForProperties.PropertyTooltip
-msgctxt "UObjectToolTips,AnimNode_TwoWayBlend:bAlwaysUpdateChildren"
-msgid "Always update children, regardless of whether or not that child has weight."
-msgstr "Всегда обновляйте дочерние элементы, независимо от того, есть у них вес или нет."
-
-#. Key:	AnimNode_TwoWayBlend:Alpha
-#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_TwoWayBlend_1.ShowPinForProperties(6).ShowPinForProperties.PropertyTooltip
-#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_TwoWayBlend_1.ShowPinForProperties(6).ShowPinForProperties.PropertyTooltip
-msgctxt "UObjectToolTips,AnimNode_TwoWayBlend:Alpha"
-msgid "The float value that controls the alpha blending when the alpha input type is set to 'Float'"
-msgstr "Значение с плавающей точкой, которое управляет альфа-смешиванием при установленном типе входа 'Float'."
-
-#. Key:	AnimNode_TwoWayBlend:AlphaCurveName
-#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_TwoWayBlend_1.ShowPinForProperties(9).ShowPinForProperties.PropertyTooltip
-#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_TwoWayBlend_1.ShowPinForProperties(9).ShowPinForProperties.PropertyTooltip
-msgctxt "UObjectToolTips,AnimNode_TwoWayBlend:AlphaCurveName"
-msgid "The animation curve that controls the alpha blending when the alpha input type is set to 'Curve'"
-msgstr "Анимационная кривая, которая управляет альфа-смешиванием при установленном типе входа 'Кривая'."
-
-#. Key:	EAnimPropertyAccessCallSite.WorkerThread_Unbatched
-#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_TwoWayBlend_4.AnimGraphNodeBinding_Base_0.PropertyBindings(0 - Value).PropertyBindings.CompiledContext
-#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_TwoWayBlend_4.AnimGraphNodeBinding_Base_0.PropertyBindings(0 - Value).PropertyBindings.CompiledContext
-msgctxt "UObjectDisplayNames,EAnimPropertyAccessCallSite.WorkerThread_Unbatched"
-msgid "Thread Safe"
-msgstr "Thread Safe"
-
-#. Key:	EAnimPropertyAccessCallSite.WorkerThread_Unbatched
-#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_TwoWayBlend_4.AnimGraphNodeBinding_Base_0.PropertyBindings(0 - Value).PropertyBindings.CompiledContextDesc
-#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_TwoWayBlend_4.AnimGraphNodeBinding_Base_0.PropertyBindings(0 - Value).PropertyBindings.CompiledContextDesc
-msgctxt "UObjectToolTips,EAnimPropertyAccessCallSite.WorkerThread_Unbatched"
-msgid "Access is made on a worker thread in the anim graph or in a BP function"
-msgstr "Доступ осуществляется на рабочем потоке в анимационном графе или в функции BP."
-
-#. Key:	C1476F2648B65CB91FD0569ECD1B55C8
-#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_TwoWayBlend_4.AnimGraphNodeBinding_Base_0.PropertyBindings(0 - Value).PropertyBindings.PathAsText
-#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_TwoWayBlend_4.AnimGraphNodeBinding_Base_0.PropertyBindings(0 - Value).PropertyBindings.PathAsText
-msgctxt ",C1476F2648B65CB91FD0569ECD1B55C8"
-msgid "InAir.LandPrediction"
-msgstr "InAir.LandPrediction"
-
-#. Key:	ACFMoveset:MinSpeedToEnterStopTransition
-#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_3:K2Node_BreakStruct_0.ShowPinForProperties(15).ShowPinForProperties.PropertyTooltip
-#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_3:K2Node_BreakStruct_0.ShowPinForProperties(15).ShowPinForProperties.PropertyTooltip
-msgctxt "UObjectToolTips,ACFMoveset:MinSpeedToEnterStopTransition"
-msgid "Stop transitions are triggered when your character suddenly stops while being ABOVE this speed"
-msgstr "Переходы остановки активируются, когда ваш персонаж вдруг резко останавливается при скорости ВЫШЕ этого значения."
-
-#. Key:	ACFMoveset:MinDecelerationToEnterStopTransition
-#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_3:K2Node_BreakStruct_0.ShowPinForProperties(16).ShowPinForProperties.PropertyTooltip
-#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_3:K2Node_BreakStruct_0.ShowPinForProperties(16).ShowPinForProperties.PropertyTooltip
-msgctxt "UObjectToolTips,ACFMoveset:MinDecelerationToEnterStopTransition"
-msgid "Stop transitions are triggered when your character suddenly stops while being ABOVE this speed"
-msgstr "Переходы остановки активируются, когда ваш персонаж вдруг резко останавливается при скорости ВЫШЕ этого значения."
-
-#. Key:	ACFMoveset:ALSIdle
-#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_3:K2Node_BreakStruct_0.ShowPinForProperties(18).ShowPinForProperties.PropertyTooltip
-#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_3:K2Node_BreakStruct_0.ShowPinForProperties(18).ShowPinForProperties.PropertyTooltip
-msgctxt "UObjectToolTips,ACFMoveset:ALSIdle"
-msgid "by LHM"
-msgstr "от LHM"
-
-#. Key:	ACFMoveset:ExternalData
-#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_3:K2Node_BreakStruct_0.ShowPinForProperties(4).ShowPinForProperties.PropertyTooltip
-#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_3:K2Node_BreakStruct_0.ShowPinForProperties(4).ShowPinForProperties.PropertyTooltip
-msgctxt "UObjectToolTips,ACFMoveset:ExternalData"
-msgid "PUT HERE EXTERNAL DATA YOU MAY NEED"
-msgstr "ПРОПИШИТЕ ЗДЕСЬ ВНЕШНИЕ ДАННЫЕ, КОТОРЫЕ МОГУТ ПОТРЕБОВАТЬСЯ"
-
-#. Key:	AnimNode_BlendListBase:bResetChildOnActivation
-#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.MeleeWeapon:AnimGraphNode_BlendListByInt_1.ShowPinForProperties(4).ShowPinForProperties.PropertyTooltip
-#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.MeleeWeapon:AnimGraphNode_BlendListByInt_1.ShowPinForProperties(4).ShowPinForProperties.PropertyTooltip
-msgctxt "UObjectToolTips,AnimNode_BlendListBase:bResetChildOnActivation"
-msgid "This reinitializes the re-activated child if the child's weight was zero."
-msgstr "Переинициализирует повторно активированный дочерний объект, если его вес был равен нулю."
-
-#. Key:	AnimNode_StateMachine:MaxTransitionsPerFrame
-#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.MeleeWeapon:AnimGraphNode_StateMachine_0.ShowPinForProperties(0).ShowPinForProperties.PropertyTooltip
-#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.MeleeWeapon:AnimGraphNode_StateMachine_0.ShowPinForProperties(0).ShowPinForProperties.PropertyTooltip
-msgctxt "UObjectToolTips,AnimNode_StateMachine:MaxTransitionsPerFrame"
-msgid "The maximum number of transitions that can be taken by this machine 'simultaneously' in a single frame"
-msgstr "Максимальное количество переходов, которые эта машина может совершать \"одновременно\" за один кадр."
-
-#. Key:	AnimNode_StateMachine:MaxTransitionsRequests
-#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.MeleeWeapon:AnimGraphNode_StateMachine_0.ShowPinForProperties(1).ShowPinForProperties.PropertyTooltip
-#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.MeleeWeapon:AnimGraphNode_StateMachine_0.ShowPinForProperties(1).ShowPinForProperties.PropertyTooltip
-msgctxt "UObjectToolTips,AnimNode_StateMachine:MaxTransitionsRequests"
-msgid "The maximum number of transition requests that can be buffered at any time.\nThe oldest transition requests are dropped to accommodate for newly created requests."
-msgstr "Максимальное количество запросов на переход, которое может быть буферизовано в любой момент времени.\nНаиболее старые запросы на переход удаляются, чтобы освободить место для вновь создаваемых запросов."
-
-#. Key:	AnimNode_StateMachine:bSkipFirstUpdateTransition
-#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.MeleeWeapon:AnimGraphNode_StateMachine_0.ShowPinForProperties(2).ShowPinForProperties.PropertyTooltip
-#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.MeleeWeapon:AnimGraphNode_StateMachine_0.ShowPinForProperties(2).ShowPinForProperties.PropertyTooltip
-msgctxt "UObjectToolTips,AnimNode_StateMachine:bSkipFirstUpdateTransition"
-msgid "When the state machine becomes relevant, it is initialized into the Entry state.\nIt then tries to take any valid transitions to possibly end up in a different state on that same frame.\n- if true, that new state starts full weight.\n- if false, a blend is created between the entry state and that new state.\nIn either case all visited State notifications (Begin/End) will be triggered."
-msgstr "Когда машина состояний становится релевантной, она инициализируется в состояние Entry.\nЗатем она пытается предпринять любые допустимые переходы, чтобы потенциально оказаться в другом состоянии в тот же кадр.\n- если true, новое состояние начинается с полного веса.\n- если false, создается смешивание между состоянием Entry и новым состоянием.\nВ любом случае все уведомления состояния (Begin/End), которые были посещены, будут сработаны."
-
-#. Key:	AnimNode_StateMachine:bReinitializeOnBecomingRelevant
-#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.MeleeWeapon:AnimGraphNode_StateMachine_0.ShowPinForProperties(3).ShowPinForProperties.PropertyTooltip
-#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.MeleeWeapon:AnimGraphNode_StateMachine_0.ShowPinForProperties(3).ShowPinForProperties.PropertyTooltip
-msgctxt "UObjectToolTips,AnimNode_StateMachine:bReinitializeOnBecomingRelevant"
-msgid "Reinitialize the state machine if we have become relevant to the graph\nafter not being ticked on the previous frame(s)"
-msgstr "Инициализируйте состояние машины, если оно стало актуальным для графа\nпосле пропуска кадров в предыдущем цикле обновления."
-
-#. Key:	AnimNode_StateMachine:bCreateNotifyMetaData
-#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.MeleeWeapon:AnimGraphNode_StateMachine_0.ShowPinForProperties(4).ShowPinForProperties.PropertyTooltip
-#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.MeleeWeapon:AnimGraphNode_StateMachine_0.ShowPinForProperties(4).ShowPinForProperties.PropertyTooltip
-msgctxt "UObjectToolTips,AnimNode_StateMachine:bCreateNotifyMetaData"
-msgid "Tag Notifies with meta data such as the active state and mirroring state.  Producing this\ndata has a  slight performance cost."
-msgstr "Тег уведомлений с метаданными, такими как активное состояние и состояние зеркалирования.\nСоздание данных имеет незначительные затраты на производительность."
-
-#. Key:	AnimNode_StateMachine:bAllowConduitEntryStates
-#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.MeleeWeapon:AnimGraphNode_StateMachine_0.ShowPinForProperties(5).ShowPinForProperties.PropertyTooltip
-#: /Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.MeleeWeapon:AnimGraphNode_StateMachine_0.ShowPinForProperties(5).ShowPinForProperties.PropertyTooltip
-msgctxt "UObjectToolTips,AnimNode_StateMachine:bAllowConduitEntryStates"
-msgid "Allows a conduit to be used as this state machine's entry state\nIf a valid entry state cannot be found at runtime then this will generate a reference pose!"
-msgstr "Позволяет использовать проводник в качестве начального состояния этой машины состояний.\nЕсли действительное начальное состояние не будет найдено во время выполнения, это создаст опорную позу!"
 
 #. Key:	A3EEE2ED4151882C6AADCC9C40E8CEE1
 #. SourceLocation:	/Game/Blueprint/ACF/Data/TableAsset/WeaponTable.WeaponTable.SKS狙击枪.ItemInfo_66_F92A1A3B448C3413FD56918B4BFB9241.Name
@@ -720,6 +403,13 @@ msgctxt ",A9AF20C4464A2FCCD556B98049E332CC"
 msgid "SKS"
 msgstr "Винтовка СКС"
 
+#. Key:	F3B07B974B8226CAF5D9419ED0F3A64C
+#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_sniper_SVD.Default__ACFGunBase_sniper_SVD_C.ItemInfo.Name
+#: /Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_sniper_SVD.Default__ACFGunBase_sniper_SVD_C.ItemInfo.Name
+msgctxt ",F3B07B974B8226CAF5D9419ED0F3A64C"
+msgid "SVD"
+msgstr "СВД снайперская винтовка"
+
 #. Key:	1F99F44C4E0061BF010728B9C1DBDC30
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Ammo/BP_GunAmmoBase.Default__BP_GunAmmoBase_C.ItemInfo.Name
 #: /Game/Blueprint/ACF/Item/Weapon/Gun/Ammo/BP_GunAmmoBase.Default__BP_GunAmmoBase_C.ItemInfo.Name
@@ -777,8 +467,8 @@ msgid "短的单手刀"
 msgstr "короткий одноручный нож"
 
 #. Key:	5A59E05F4DEA91E378D72BA820DC9EE5
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Spear/BP_LongSharpBase_Spear.Default__BP_LongSharpBase_Spear_C.ItemInfo.Name
-#: /Game/Blueprint/ACF/Item/Weapon/Spear/BP_LongSharpBase_Spear.Default__BP_LongSharpBase_Spear_C.ItemInfo.Name
+#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Spear/BP_LongSharp_SpearBase.Default__BP_LongSharp_SpearBase_C.ItemInfo.Name
+#: /Game/Blueprint/ACF/Item/Weapon/Spear/BP_LongSharp_SpearBase.Default__BP_LongSharp_SpearBase_C.ItemInfo.Name
 msgctxt ",5A59E05F4DEA91E378D72BA820DC9EE5"
 msgid "长矛"
 msgstr "копье"
@@ -2993,7 +2683,7 @@ msgstr "Обновить"
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_JoinGame.WBP_JoinGame_C:WidgetTree.WBP_Search_1.In Text
 msgctxt ",DB163F9F414F00E2ACFCDEB8CD488D7D"
 msgid "好友"
-msgstr "Друг"
+msgstr "Друзья"
 
 #. Key:	264F21F94A312BE3982CE79C37D102D3
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_LoadGame.WBP_LoadGame_C:WidgetTree.TextBlock.Text
@@ -3022,13 +2712,6 @@ msgstr "восстановить сохранение"
 msgctxt ",CC819A1447895FD466FEF7AA1DE2B9F7"
 msgid "删除"
 msgstr "Удалить"
-
-#. Key:	45E2CB7441522E184FD47A94E9EC381A
-#. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_Name.WBP_Name_C:WidgetTree.TextBlock_28.Text
-#: /Game/Blueprint/UMG/MainUI/Child/WBP_Name.WBP_Name_C:WidgetTree.TextBlock_28.Text
-msgctxt ",45E2CB7441522E184FD47A94E9EC381A"
-msgid "111111111111"
-msgstr "111111111111"
 
 #. Key:	FEB21BCC4870D846278BA9A227875DA1
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_ServerSetting.WBP_ServerSetting_C:WidgetTree.RoomName.Text
@@ -3181,8 +2864,20 @@ msgstr "Не удалось создать комнату!"
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/WBP_Main.WBP_Main_C:WidgetTree.TextBlock_0.Text
 #: /Game/Blueprint/UMG/MainUI/WBP_Main.WBP_Main_C:WidgetTree.TextBlock_0.Text
 msgctxt ",836EB7AB40D4C893FD6B23A855BE4F36"
-msgid "公告：\r\n\r\n因为游戏采用了最新的UnrealEngine5引擎，为了获得最好的游戏体验，请将显卡驱动升级到最新版本。\r\n\r\n否则你可能会看到模型显示不完整等情况。\r\n\r\n感谢！"
-msgstr "Объявление:\r\n\r\nПоскольку в игре используется новейший движок UnrealEngine5, чтобы получить наилучшие игровые возможности, обновите драйвер видеокарты до последней версии.\r\n\r\nВ противном случае вы можете увидеть неполное отображение модели и т. д.\r\n\r\nБлагодарим!"
+msgid "公告：\r\n"
+"\r\n"
+"因为游戏采用了最新的UnrealEngine5引擎，为了获得最好的游戏体验，请将显卡驱动升级到最新版本。\r\n"
+"\r\n"
+"否则你可能会看到模型显示不完整等情况。\r\n"
+"\r\n"
+"感谢！"
+msgstr "Объявление:\r\n"
+"\r\n"
+"Поскольку в игре используется новейший движок UnrealEngine5, чтобы получить наилучшие игровые возможности, обновите драйвер видеокарты до последней версии.\r\n"
+"\r\n"
+"В противном случае вы можете увидеть неполное отображение модели и т. д.\r\n"
+"\r\n"
+"Благодарим!"
 
 #. Key:	6D94E4B4492BEF00197AA29E81E62172
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/WBP_Main.WBP_Main_C:WidgetTree.WBP_StartButton_2.In Text
@@ -4367,20 +4062,6 @@ msgctxt ",5604627744E8324B0E9AAB96BB219D3A"
 msgid "拖入容器装水"
 msgstr "поместите емкость для воды"
 
-#. Key:	4A2287974D69432C75AFFFAE63A14FE0
-#. SourceLocation:	/Game/Blueprint/UMG/WBP_GetWater1.WBP_GetWater1_C:OnDrop [Script Bytecode]
-#: /Game/Blueprint/UMG/WBP_GetWater1.WBP_GetWater1_C:OnDrop [Script Bytecode]
-msgctxt ",4A2287974D69432C75AFFFAE63A14FE0"
-msgid "这个没法储存水"
-msgstr "Этот контейнер не может хранить воду"
-
-#. Key:	5D778BFB425003A9BFA2B6AB2A41F567
-#. SourceLocation:	/Game/Blueprint/UMG/WBP_GetWater1.WBP_GetWater1_C:WidgetTree.TextBlock_57.Text
-#: /Game/Blueprint/UMG/WBP_GetWater1.WBP_GetWater1_C:WidgetTree.TextBlock_57.Text
-msgctxt ",5D778BFB425003A9BFA2B6AB2A41F567"
-msgid "拖入容器装水"
-msgstr "Перетащите в контейнер для наполнения водой"
-
 #. Key:	97DD2C4C46F23E523F6FDF9B1E9A37BD
 #. SourceLocation:	/Game/Blueprint/UMG/WBP_ScreenMessage1.WBP_ScreenMessage1_C:WidgetTree.TextBlock.Text
 #: /Game/Blueprint/UMG/WBP_ScreenMessage1.WBP_ScreenMessage1_C:WidgetTree.TextBlock.Text
@@ -4834,7 +4515,7 @@ msgstr "мебель"
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_TYNFD.Default__Furniture_TYNFD_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 msgctxt ",2BEC3EF84E7CB0B8AAC8D0B46498854F"
 msgid "受遮挡或在没有太阳的天气无法发电"
-msgstr "Затенение или отсутствие солнца не позволяет генерировать электроэнергию"
+msgstr "Не работает! В тени, ночь или пасмурная погода!"
 
 #. Key:	B902044F444A770F5D16FEBFFB185A39
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_YSSJQ.Furniture_YSSJQ_C:ExecuteUbergraph_Furniture_YSSJQ [Script Bytecode]
@@ -4883,21 +4564,21 @@ msgstr "Недостаточно воды!"
 #: /Game/HDCKBuildingSystem/MeshBP/OutStairs_Base_Wood.Default__OutStairs_Base_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 msgctxt ",90CDCB1B49496C35B493FEA87D7FABB2"
 msgid "建房必备"
-msgstr "Необходимое для строительства дома"
+msgstr "Необходим для строительства дома"
 
 #. Key:	0BA2E3B243591BA93DBAE196B2F34428
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_BL.Default__Roof_20_intersection_BL_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 #: /Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_BL.Default__Roof_20_intersection_BL_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 msgctxt ",0BA2E3B243591BA93DBAE196B2F34428"
 msgid "用于连接外转角屋顶。"
-msgstr "Используется для соединения внешних углов крыши."
+msgstr "для соединения внешнего угла крыши."
 
 #. Key:	B5F37C9B4CA2F6EC25F2378416CE004A
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_Wood.Default__Roof_20_intersection_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 #: /Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_Wood.Default__Roof_20_intersection_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 msgctxt ",B5F37C9B4CA2F6EC25F2378416CE004A"
 msgid "用于连接外转角屋顶。"
-msgstr "Используется для соединения внешних углов крыши."
+msgstr "для соединения внешнего угла крыши."
 
 #. Key:	E8EA4D5B4493329CF32982ABD630233C
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Wattle_WoodDoor.Wattle_WoodDoor_C:ShowUI [Script Bytecode]
@@ -4939,7 +4620,7 @@ msgstr "Необходим для строительства дома"
 #: /Game/HDCKBuildingSystem/Table/BuildTable.BuildTable.RoofIntersection20.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 msgctxt ",FF09B24548010A88880671934DB31229"
 msgid "用于连接外转角屋顶。"
-msgstr "Для соединения внешнего угла крыши"
+msgstr "для соединения внешнего угла крыши."
 
 #. Key:	EF14908E4E8701B13C2A61911CC79713
 #. SourceLocation:	/Game/HDCKBuildingSystem/Table/E_SelectType.E_SelectType.DisplayNameMap(0 - Value).DisplayNameMap
@@ -6157,7 +5838,7 @@ msgstr "Невозможно построить ещё"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,WQGG"
 msgid "武器挂钩"
-msgstr "Крючок для оружия"
+msgstr "Оружейная стойка"
 
 #. Key:	XT
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6485,8 +6166,10 @@ msgstr "Автоматич. деревянные шипы"
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",NPCMANAGER"
-msgid "这里可以管理NPC，设置生产资源偏好！\r\n当你拥有这个建筑以后，土匪营地会出现可营救的NPC"
-msgstr "Здесь вы можете управлять NPC и устанавливать предпочтения производимых ресурсов! \r\nКак только вы построите это здание, в лагере бандитов появятся NPC для спасения"
+msgid "这里可以管理NPC，设置生产资源偏好！\r\n"
+"当你拥有这个建筑以后，土匪营地会出现可营救的NPC"
+msgstr "Здесь вы можете управлять NPC и устанавливать предпочтения производимых ресурсов! \r\n"
+"Как только вы построите это здание, в лагере бандитов появятся NPC для спасения"
 
 #. Key:	Null
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -6808,7 +6491,7 @@ msgstr "Каменная крыша (соединение 45 градусов)"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",RoofIntersection45Detail"
 msgid "用于连接外转角屋顶。"
-msgstr "Для соединения внешнего угла крыши"
+msgstr "для соединения внешнего угла крыши."
 
 #. Key:	RoofTop_Stone_01
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -6934,7 +6617,7 @@ msgstr "Цементный пол (треугольный)"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",SNDIJIJIESHAO1233"
 msgid "水泥制作的地基，看起来很结实，可以承受相当多的重量。"
-msgstr "Фундамент из цемента, выглядит очень прочным и может выдерживать значительный вес."
+msgstr "Фундамент из цемента, достаточно прочный, чтобы выдержать значительный вес."
 
 #. Key:	SNDJSANJIAO
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -7594,83 +7277,6 @@ msgctxt "ItemInfo,A9"
 msgid "防晒帽"
 msgstr "Панамка"
 
-#. Key:	AmmoPHQ
-#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
-#: /Game/LocalizationText/ItemInfo.ItemInfo
-msgctxt "ItemInfo,AmmoPHQ"
-msgid "喷火器燃油"
-msgstr "Топливо для огнемета"
-
-#. Key:	Armour_DLC_XG_01
-#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
-#: /Game/LocalizationText/ItemInfo.ItemInfo
-msgctxt "ItemInfo,Armour_DLC_XG_01"
-msgid "极速红潮帽"
-msgstr "Кепка «Алая стремительность»"
-
-#. Key:	Armour_DLC_XG_02
-#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
-#: /Game/LocalizationText/ItemInfo.ItemInfo
-msgctxt "ItemInfo,Armour_DLC_XG_02"
-msgid "极速红潮短袖"
-msgstr "Футболка «Алая стремительность»"
-
-#. Key:	Armour_DLC_XG_03
-#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
-#: /Game/LocalizationText/ItemInfo.ItemInfo
-msgctxt "ItemInfo,Armour_DLC_XG_03"
-msgid "极速红潮短裙"
-msgstr "Юбка «Алая стремительность»"
-
-#. Key:	Armour_DLC_XG_04
-#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
-#: /Game/LocalizationText/ItemInfo.ItemInfo
-msgctxt "ItemInfo,Armour_DLC_XG_04"
-msgid "极速红潮鞋"
-msgstr "Обувь «Алая стремительность»"
-
-#. Key:	Armour_DLC_XG_05
-#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
-#: /Game/LocalizationText/ItemInfo.ItemInfo
-msgctxt "ItemInfo,Armour_DLC_XG_05"
-msgid "极速红潮手套"
-msgstr "Перчатки «Алая стремительность»"
-
-#. Key:	Armour_DLC_ZS_01
-#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
-#: /Game/LocalizationText/ItemInfo.ItemInfo
-msgctxt "ItemInfo,Armour_DLC_ZS_01"
-msgid "猎鹰战术头盔"
-msgstr "Тактический шлем «Сокол»"
-
-#. Key:	Armour_DLC_ZS_02
-#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
-#: /Game/LocalizationText/ItemInfo.ItemInfo
-msgctxt "ItemInfo,Armour_DLC_ZS_02"
-msgid "猎鹰战术服"
-msgstr "Тактический костюм \"Сокол\""
-
-#. Key:	Armour_DLC_ZS_03
-#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
-#: /Game/LocalizationText/ItemInfo.ItemInfo
-msgctxt "ItemInfo,Armour_DLC_ZS_03"
-msgid "猎鹰战术裤"
-msgstr "Тактические брюки \"Сокол\""
-
-#. Key:	Armour_DLC_ZS_04
-#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
-#: /Game/LocalizationText/ItemInfo.ItemInfo
-msgctxt "ItemInfo,Armour_DLC_ZS_04"
-msgid "猎鹰战术靴"
-msgstr "Тактические ботинки \"Сокол\""
-
-#. Key:	Armour_DLC_ZS_05
-#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
-#: /Game/LocalizationText/ItemInfo.ItemInfo
-msgctxt "ItemInfo,Armour_DLC_ZS_05"
-msgid "猎鹰战术手套"
-msgstr "Тактические перчатки «Сокол»"
-
 #. Key:	ArrmorCFY
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
@@ -7696,7 +7302,7 @@ msgstr "Локатор"
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,DJ"
-msgid "油锯"
+msgid "电锯"
 msgstr "Бензопила"
 
 #. Key:	DRD
@@ -10111,57 +9717,57 @@ msgstr "вкусная еда"
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Tip_YP_GRWS_BD"
-msgid "治疗轻度外伤、轻度感染外伤。对中度外伤、中度感染外伤流血量 -80%\r\n在人物状态栏中将物品拖动至受伤部位进行治疗"
-msgstr "Лечение легких травм и легких инфекционных травм. Уменьшение кровотечения при средних травмах и средних инфекционных травмах на -80%\r\nПеретащите предмет на травмированную область в состоянии персонажа для лечения"
+msgid "治疗轻度外伤、轻度感染外伤。对中度外伤、中度感染外伤流血量 -80%"
+msgstr "Лечение мелких ран, в т.ч. инфицированных. При ранениях средней тяжести, в том числе инфицированных, кровотечение уменьшается на 80%"
 
 #. Key:	Tip_YP_GRWS_GJYLB
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Tip_YP_GRWS_GJYLB"
-msgid "治疗所有外伤\r\n在人物状态栏中将物品拖动至受伤部位进行治疗"
-msgstr "Лечение всех травм\r\nПеретащите предмет на травмированную область в состоянии персонажа для лечения"
+msgid "治疗所有外伤"
+msgstr "Исцелить все травмы"
 
 #. Key:	Tip_YP_GRWS_JJMQ
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Tip_YP_GRWS_JJMQ"
-msgid "治疗轻度外伤、轻度感染外伤。对中度外伤、中度感染外伤流血量 -50%\r\n在人物状态栏中将物品拖动至受伤部位进行治疗"
-msgstr "Лечение легких травм и легких инфекционных травм. Уменьшение кровотечения при средних травмах и средних инфекционных травмах на -50%\r\nПеретащите предмет на травмированную область в состоянии персонажа для лечения"
+msgid "治疗轻度外伤、轻度感染外伤。对中度外伤、中度感染外伤流血量 -50%"
+msgstr "Лечение мелких ран, в т.ч. инфицированных. При ранениях средней тяжести, в том числе инфицированных, кровотечение уменьшается на 50%"
 
 #. Key:	Tip_YP_GRWS_KJSB
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Tip_YP_GRWS_KJSB"
-msgid "治疗轻度外伤、轻度感染外伤。对中度外伤、中度感染外伤流血量 -65%\r\n在人物状态栏中将物品拖动至受伤部位进行治疗"
-msgstr "Лечение легких травм и легких инфекционных травм. Уменьшение кровотечения при средних травмах и средних инфекционных травмах на -65%\r\nПеретащите предмет на травмированную область в состоянии персонажа для лечения"
+msgid "治疗轻度外伤、轻度感染外伤。对中度外伤、中度感染外伤流血量 -65%"
+msgstr "Лечение мелких ран, в т.ч. инфицированных. При ранениях средней тяжести, в том числе инфицированных, кровотечение уменьшается на 65%"
 
 #. Key:	Tip_YP_GRWS_KSSYG
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Tip_YP_GRWS_KSSYG"
-msgid "治疗轻度、中度感染外伤和感染外伤。对重度外伤、感染外伤流血量 -80%\r\n在人物状态栏中将物品拖动至受伤部位进行治疗"
-msgstr "Лечение легких и средних инфекционных травм. Уменьшение кровотечения при тяжелых травмах и инфекционных травмах на -80%\r\nПеретащите предмет на травмированную область в состоянии персонажа для лечения"
+msgid "治疗轻度、中度感染外伤和感染外伤。对重度外伤、感染外伤流血量 -80%"
+msgstr "Лечение легких и среднетяжелых инфицированных ран. При тяжелых и инфицированных ранениях кровотечение уменьшается на 80%"
 
 #. Key:	Tip_YP_GRWS_KSSYHTP
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Tip_YP_GRWS_KSSYHTP"
-msgid "治疗轻度、中度感染外伤和感染外伤。对重度外伤、感染外伤流血量 -60%\r\n在人物状态栏中将物品拖动至受伤部位进行治疗"
-msgstr "Лечение легких и средних инфекционных травм. Уменьшение кровотечения при тяжелых травмах и инфекционных травмах на -60%\r\nПеретащите предмет на травмированную область в состоянии персонажа для лечения"
+msgid "治疗轻度、中度感染外伤和感染外伤。对重度外伤、感染外伤流血量 -60%"
+msgstr "Лечение легких и среднетяжелых инфицированных ран. При тяжелых и инфицированных ранениях кровотечение уменьшается на 60%"
 
 #. Key:	Tip_YP_GRWS_SCSKQXJ
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Tip_YP_GRWS_SCSKQXJ"
-msgid "治疗所有外伤\r\n在人物状态栏中将物品拖动至受伤部位进行治疗"
-msgstr "Лечение всех травм\r\nПеретащите предмет на травмированную область в состоянии персонажа для лечения"
+msgid "治疗所有外伤"
+msgstr "Исцелить все травмы"
 
 #. Key:	Tip_YP_GRWS_WKGJB
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Tip_YP_GRWS_WKGJB"
-msgid "治疗所有外伤\r\n在人物状态栏中将物品拖动至受伤部位进行治疗"
-msgstr "Лечение всех травм\r\nПеретащите предмет на травмированную область в состоянии персонажа для лечения"
+msgid "治疗所有外伤"
+msgstr "Исцелить все травмы"
 
 #. Key:	Tip_YP_HF_01
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -10209,50 +9815,50 @@ msgstr "Восстанавливает здоровье и борется с в�
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Tip_YP_WS_CKT"
-msgid "治疗轻度外伤，对中度流血外伤流血量 -50%\r\n在人物状态栏中将物品拖动至受伤部位进行治疗"
-msgstr "Лечение легких травм. Уменьшение кровотечения при средних травмах на -50%\r\nПеретащите предмет на травмированную область в состоянии персонажа для лечения"
+msgid "治疗轻度外伤，对中度流血外伤流血量 -50%"
+msgstr "Лечение мелких ран, при умеренно кровоточащих ранах кровотечение уменьшается на 50%"
 
 #. Key:	Tip_YP_WS_FHTJ
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Tip_YP_WS_FHTJ"
-msgid "治疗所有未感染外伤\r\n在人物状态栏中将物品拖动至受伤部位进行治疗"
-msgstr "Лечение всех неинфицированных травм\r\nПеретащите предмет на травмированную область в состоянии персонажа для лечения"
+msgid "治疗所有未感染外伤"
+msgstr "Лечите все незараженные травмы"
 
 #. Key:	Tip_YP_WS_PFNHJ
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Tip_YP_WS_PFNHJ"
-msgid "治疗轻度、中度外伤。对重度外伤流血量 -80%\r\n在人物状态栏中将物品拖动至受伤部位进行治疗"
-msgstr "Лечение легких и средних травм. Уменьшение кровотечения при тяжелых травмах на -80%\r\nПеретащите предмет на травмированную область в состоянии персонажа для лечения"
+msgid "治疗轻度、中度外伤。对重度外伤流血量 -80%"
+msgstr "Лечение легких и среднетяжелых ран. При тяжелых ранах кровотечение уменьшается на 80%"
 
 #. Key:	Tip_YP_WS_SB
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Tip_YP_WS_SB"
-msgid "治疗轻度外伤，对中度流血外伤流血量 -65%\r\n在人物状态栏中将物品拖动至受伤部位进行治疗"
-msgstr "Лечение легких травм. Уменьшение кровотечения при средних травмах на -65%\r\nПеретащите предмет на травмированную область в состоянии персонажа для лечения"
+msgid "治疗轻度外伤，对中度流血外伤流血量 -65%"
+msgstr "Лечение мелких ран, при умеренно кровоточащих ранах кровотечение уменьшается на 65%"
 
 #. Key:	Tip_YP_WS_YG
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Tip_YP_WS_YG"
-msgid "治疗轻度、中度外伤。对重度外伤流血量 -50%\r\n在人物状态栏中将物品拖动至受伤部位进行治疗"
-msgstr "Лечение легких и средних травм. Уменьшение кровотечения при тяжелых травмах на -50%\r\nПеретащите предмет на травмированную область в состоянии персонажа для лечения"
+msgid "治疗轻度、中度外伤。对重度外伤流血量 -50%"
+msgstr "Лечение легких и среднетяжелых ран. При тяжелых ранах кровотечение уменьшается на 50%"
 
 #. Key:	Tip_YP_WS_YLB
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Tip_YP_WS_YLB"
-msgid "治疗所有未感染外伤\r\n在人物状态栏中将物品拖动至受伤部位进行治疗"
-msgstr "Лечение всех неинфицированных травм\r\nПеретащите предмет на травмированную область в состоянии персонажа для лечения"
+msgid "治疗所有未感染外伤"
+msgstr "Лечите все незараженные травмы"
 
 #. Key:	Tip_YP_WS_ZXF
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Tip_YP_WS_ZXF"
-msgid "治疗轻度、中度外伤。对重度外伤流血量 -65%\r\n在人物状态栏中将物品拖动至受伤部位进行治疗"
-msgstr "Лечение легких и средних травм. Уменьшение кровотечения при тяжелых травмах на -65%\r\nПеретащите предмет на травмированную область в состоянии персонажа для лечения"
+msgid "治疗轻度、中度外伤。对重度外伤流血量 -65%"
+msgstr "Лечение легких и среднетяжелых ран. При тяжелых ранах кровотечение уменьшается на 65%"
 
 #. Key:	Tip_YP_ZL_01
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -10316,34 +9922,6 @@ msgstr "Лечение переохлаждения и простуды"
 msgctxt "ItemInfo,Tip_YP_ZL_09"
 msgid "治疗感冒"
 msgstr "Лечение простуды"
-
-#. Key:	Tool_CarRepir_Tip
-#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
-#: /Game/LocalizationText/ItemInfo.ItemInfo
-msgctxt "ItemInfo,Tool_CarRepir_Tip"
-msgid "可用于修理汽车发动机"
-msgstr "Можно использовать для ремонта автомобильного двигателя"
-
-#. Key:	Tool_JZWQXLTJ
-#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
-#: /Game/LocalizationText/ItemInfo.ItemInfo
-msgctxt "ItemInfo,Tool_JZWQXLTJ"
-msgid "近战武器修理套件"
-msgstr "Набор для ремонта оружия ближнего боя"
-
-#. Key:	Tool_JZWQXLTJ_Tip
-#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
-#: /Game/LocalizationText/ItemInfo.ItemInfo
-msgctxt "ItemInfo,Tool_JZWQXLTJ_Tip"
-msgid "可用于修复近战武器以及弓箭的耐久度"
-msgstr "Можно использовать для восстановления прочности оружия ближнего боя и луков"
-
-#. Key:	Tool_XNB
-#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
-#: /Game/LocalizationText/ItemInfo.ItemInfo
-msgctxt "ItemInfo,Tool_XNB"
-msgid "仙女棒"
-msgstr "Волшебная палочка"
 
 #. Key:	Tool_YOUQITONG
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -10849,61 +10427,12 @@ msgctxt "ItemInfo,W9"
 msgid "主要用于打碎石头，必要时候也可以用来防身。"
 msgstr "Используется для разбивания камней и самообороны"
 
-#. Key:	Weapon_BaoZhu
-#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
-#: /Game/LocalizationText/ItemInfo.ItemInfo
-msgctxt "ItemInfo,Weapon_BaoZhu"
-msgid "爆竹"
-msgstr "Петарды"
-
-#. Key:	Weapon_Gun_DBS
-#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
-#: /Game/LocalizationText/ItemInfo.ItemInfo
-msgctxt "ItemInfo,Weapon_Gun_DBS"
-msgid "DBS"
-msgstr "DBS"
-
-#. Key:	Weapon_Gun_DF122
-#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
-#: /Game/LocalizationText/ItemInfo.ItemInfo
-msgctxt "ItemInfo,Weapon_Gun_DF122"
-msgid "DF122"
-msgstr "DF122"
-
-#. Key:	Weapon_Gun_Flamthrower_Tip
-#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
-#: /Game/LocalizationText/ItemInfo.ItemInfo
-msgctxt "ItemInfo,Weapon_Gun_Flamthrower_Tip"
-msgid "使用燃油"
-msgstr "Использовать топливо"
-
-#. Key:	Weapon_Gun_Flmathrower
-#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
-#: /Game/LocalizationText/ItemInfo.ItemInfo
-msgctxt "ItemInfo,Weapon_Gun_Flmathrower"
-msgid "火焰喷射器"
-msgstr "Огнемет"
-
-#. Key:	Weapon_Gun_SAUG
-#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
-#: /Game/LocalizationText/ItemInfo.ItemInfo
-msgctxt "ItemInfo,Weapon_Gun_SAUG"
-msgid "SAUG"
-msgstr "SAUG"
-
-#. Key:	Weapon_Gun_Tec9
-#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
-#: /Game/LocalizationText/ItemInfo.ItemInfo
-msgctxt "ItemInfo,Weapon_Gun_Tec9"
-msgid "Tec9"
-msgstr "Tec9"
-
 #. Key:	Weapon_SDRSD_01
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Weapon_SDRSD_01"
 msgid "圣诞燃烧瓶"
-msgstr "Рождественский коктейль Молотова"
+msgstr "Рождественский Молотов"
 
 #. Key:	Weapon_SDSL_01
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -10917,28 +10446,14 @@ msgstr "Рождественская граната"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Weapon_TGDC_01"
 msgid "糖果大锤"
-msgstr "Карамельный молот"
+msgstr "Конфета кувалда"
 
 #. Key:	Weapon_TGQG_01
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,Weapon_TGQG_01"
 msgid "糖果撬棍"
-msgstr "Карамельный лом"
-
-#. Key:	Weapon_YanHua
-#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
-#: /Game/LocalizationText/ItemInfo.ItemInfo
-msgctxt "ItemInfo,Weapon_YanHua"
-msgid "烟花"
-msgstr "Фейерверк"
-
-#. Key:	Weapon_YanHua_Tip
-#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
-#: /Game/LocalizationText/ItemInfo.ItemInfo
-msgctxt "ItemInfo,Weapon_YanHua_Tip"
-msgid "可以用来吸引丧尸"
-msgstr "Можно использовать для привлечения зомби"
+msgstr "Карамельная трость"
 
 #. Key:	WMLT
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -11189,8 +10704,8 @@ msgstr "Марля"
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,YP_WS_SCSKQXJ"
-msgid "组织修复射注器"
-msgstr "Инъектор для восстановления тканей"
+msgid "深层伤口清洗剂"
+msgstr "Средство для чистки глубоких ран"
 
 #. Key:	YP_WS_WKGJB
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -11217,8 +10732,8 @@ msgstr "Аптечка"
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,YP_WS_ZXF"
-msgid "止血药膏"
-msgstr "Кровоостанавливающая мазь"
+msgid "止血粉"
+msgstr "Кровоостанавливающий порошок"
 
 #. Key:	YR
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -11288,7 +10803,7 @@ msgstr "Древний топор"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,altlook"
 msgid "自由视角"
-msgstr "Свободный вид"
+msgstr "Свободная камера"
 
 #. Key:	Auto
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -12781,69 +12296,6 @@ msgctxt "TipMessage,ZZBS"
 msgid "与商人交易价值"
 msgstr "Стоимость товаров с торговцами"
 
-#. Key:	Tutorial001
-#. SourceLocation:	/Game/LocalizationText/Tutorial.Tutorial
-#: /Game/LocalizationText/Tutorial.Tutorial
-msgctxt "Tutorial,Tutorial001"
-msgid "       在你远离那个安全又温暖的庇护所时前，按照庇护所惯例，所有被放逐的人都能得到一份末日爆发前的生存手册。里面详细记载了许多野外生存知识。这就是庇护所对于被放逐者的最后一丝温暖。"
-msgstr "       Когда вы покидали это безопасное и теплое убежище, по традиции убежища каждому изгнанному предоставляли руководство по выживанию, созданное до начала апокалипсиса. В нем подробно описаны многие навыки выживания в дикой природе. Это была последняя капля тепла от убежища, которую они дарили изгнанным."
-
-#. Key:	Tutorial002
-#. SourceLocation:	/Game/LocalizationText/Tutorial.Tutorial
-#: /Game/LocalizationText/Tutorial.Tutorial
-msgctxt "Tutorial,Tutorial002"
-msgid "我明白庇护所的选择，我会尽力学习在这末日生存的一切（需要新手指引）"
-msgstr "Я понимаю выбор убежища. Я постараюсь изучить все, что нужно для выживания в этих условиях апокалипсиса (требуется руководство для новичков)"
-
-#. Key:	Tutorial003
-#. SourceLocation:	/Game/LocalizationText/Tutorial.Tutorial
-#: /Game/LocalizationText/Tutorial.Tutorial
-msgctxt "Tutorial,Tutorial003"
-msgid "这是庇护所对我无耻的抛弃！我绝不接受。（不需要新手指引）"
-msgstr "Это позорное предательство убежища! Я никогда не приму это. (руководство для новичков не требуется)"
-
-#. Key:	Tutorial004
-#. SourceLocation:	/Game/LocalizationText/Tutorial.Tutorial
-#: /Game/LocalizationText/Tutorial.Tutorial
-msgctxt "Tutorial,Tutorial004"
-msgid "收集周围散落在地面上的资源\r\n\r\n收集木棍（<Green>{Value1}</>/5） \r\n收集石头（<Green>{Value2}</>/6）"
-msgstr "Соберите разбросанные ресурсы вокруг.\r\n\r\nСоберите палки (<Green>{Value1}</>/5) \r\nСоберите камни (<Green>{Value2}</>/6)"
-
-#. Key:	Tutorial005
-#. SourceLocation:	/Game/LocalizationText/Tutorial.Tutorial
-#: /Game/LocalizationText/Tutorial.Tutorial
-msgctxt "Tutorial,Tutorial005"
-msgid "收集够资源后按下Tap键打开背包界面后，在点击<Img id=\"ZZ\"/>工具图标制作石镐与石斧\r\n\r\n制作石镐（<Green>{Value1}</>/1） \r\n制作石斧（<Green>{Value2}</>/1）"
-msgstr "Когда вы собрали достаточно ресурсов, нажмите Tab, чтобы открыть инвентарь, после чего выберите значок <Img id=\"ZZ\"/> инструмента для создания каменной кирки и каменного топора.\r\n\r\nСоздайте каменную кирку (<Green>{Value1}</>/1) \r\nСоздайте каменный топор (<Green>{Value2}</>/1)"
-
-#. Key:	Tutorial006
-#. SourceLocation:	/Game/LocalizationText/Tutorial.Tutorial
-#: /Game/LocalizationText/Tutorial.Tutorial
-msgctxt "Tutorial,Tutorial006"
-msgid "装备制作好的工具，使用工具收集资源\r\n\r\n砍伐树木（<Green>{Value1}</>/5） \r\n击碎岩石（<Green>{Value2}</>/3） "
-msgstr "Оснастите созданные инструменты и используйте их для сбора ресурсов.\r\n\r\nСпилите деревья (<Green>{Value1}</>/5) \r\nРазбейте камни (<Green>{Value2}</>/3) "
-
-#. Key:	Tutorial007
-#. SourceLocation:	/Game/LocalizationText/Tutorial.Tutorial
-#: /Game/LocalizationText/Tutorial.Tutorial
-msgctxt "Tutorial,Tutorial007"
-msgid "按下Tab键打开背包后点击书籍图标后，找到选择<Img id=\"KJ\"/>科技页面解锁加工台（<Green>{Value1}</>/1） \r\n\r\n制作建造锤（<Green>{Value2}</>/1）\r\n\r\n使用建造锤，建造加工台（<Green>{Value3}</>/1） "
-msgstr "Нажмите Tab, чтобы открыть инвентарь, затем выберите значок книги и откройте страницу <Img id=\"KJ\"/> технологии для разблокировки рабочего стола (<Green>{Value1}</>/1) \r\n\r\nСоздайте строительный молоток (<Green>{Value2}</>/1)\r\n\r\nИспользуйте строительный молоток, чтобы построить рабочий стол (<Green>{Value3}</>/1) "
-
-#. Key:	Tutorial008
-#. SourceLocation:	/Game/LocalizationText/Tutorial.Tutorial
-#: /Game/LocalizationText/Tutorial.Tutorial
-msgctxt "Tutorial,Tutorial008"
-msgid "按M键打开地图前往矿洞区域或者露天矿场搜集所需资源解锁木炭炉（<Green>{Value1}</>/1） \r\n\r\n使用建造锤，建造木炭炉（<Green>{Value2}</>/1） "
-msgstr "Нажмите клавишу M, чтобы открыть карту и отправиться в район шахт или открытого рудника для сбора необходимых ресурсов и разблокировки угольной печи (<Green>{Value1}</>/1) \r\n\r\nИспользуйте строительный молоток, чтобы построить угольную печь (<Green>{Value2}</>/1) "
-
-#. Key:	Tutorial009
-#. SourceLocation:	/Game/LocalizationText/Tutorial.Tutorial
-#: /Game/LocalizationText/Tutorial.Tutorial
-msgctxt "Tutorial,Tutorial009"
-msgid "你已经完成了基本的采集与建造任务，努力收集更多的资源和解锁更高的科技来为你打造一个只属于你的末日避护所，请记住！一切都是为了在末日下活下去。"
-msgstr "Вы уже завершили основные задания по сбору и строительству. Старайтесь собирать больше ресурсов и разблокировать более продвинутые технологии, чтобы создать свое уникальное убежище, которое поможет вам выжить в условиях апокалипсиса. Помните! Все это ради выживания."
-
 #. Key:	AddBuff
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
@@ -12939,15 +12391,9 @@ msgstr "разрядить"
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,BackSave"
-msgid "你确定要用这个存档覆盖之前的存档吗？\r\n注意覆盖以后之前的存档无法恢复"
+msgid "你确定要用这个存档覆盖之前的存档吗？\r\n"
+"注意覆盖以后之前的存档无法恢复"
 msgstr "Вы уверены? Это перезапишет ваше последнее сохранение!"
-
-#. Key:	Bow_Tip
-#. SourceLocation:	/Game/LocalizationText/UI.UI
-#: /Game/LocalizationText/UI.UI
-msgctxt "UI,Bow_Tip"
-msgid "缺少箭矢！！！"
-msgstr "Недостаточно стрел!!!"
 
 #. Key:	Break
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -13136,21 +12582,21 @@ msgstr "управление транспортным средством"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Car_Delete_Tip"
 msgid "删除车辆"
-msgstr "Удалить транспортное средство"
+msgstr "Удалить автомобиль"
 
 #. Key:	Car_Delete_Tip_01
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Car_Delete_Tip_01"
 msgid "删除车辆的同时会删除车辆中的所有物品，是否确认删除？"
-msgstr "При удалении транспорта будут удалены все находящиеся в нем предметы. Вы подтверждаете удаление?"
+msgstr "Удаление автомобиля также удалит все предметы внутри него. Вы уверены, что хотите продолжить?"
 
 #. Key:	Car_Reset_Tip
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Car_Reset_Tip"
 msgid "重置车辆"
-msgstr "Сбросить транспортное средство"
+msgstr "Установить автомобиль"
 
 #. Key:	CARHANG
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -13465,7 +12911,7 @@ msgstr "Название здания:"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,DCZ_LJXX"
 msgid "已连接建筑"
-msgstr "Соединено со зданием"
+msgstr "Подключенные здания"
 
 #. Key:	DCZTip
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -14137,7 +13583,7 @@ msgstr "заблокирован"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,LPTip"
 msgid "会在地图上显示路牌中的描述信息"
-msgstr "Будет отображать информацию с дорожных знаков на карте"
+msgstr "Отобразит информацию и описание дорожных знаков на карте"
 
 #. Key:	LXXH
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -14200,7 +13646,7 @@ msgstr "дополнительно"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,MS_TZMS"
 msgid "该图纸可在科技面板中进行学习使用"
-msgstr "Этот чертеж можно изучить и использовать в технологической панели"
+msgstr "Этот план можно изучить и использовать в дереве технологий"
 
 #. Key:	MWSW
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -14467,13 +13913,6 @@ msgstr "в использовании"
 msgctxt "UI,NotUseState"
 msgid "当前状态不可用！"
 msgstr "Текущий статус недоступен!"
-
-#. Key:	NoWater_Tip
-#. SourceLocation:	/Game/LocalizationText/UI.UI
-#: /Game/LocalizationText/UI.UI
-msgctxt "UI,NoWater_Tip"
-msgid "没有水了。"
-msgstr "Воды больше нет."
 
 #. Key:	NowRL
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -14752,8 +14191,12 @@ msgstr "Южная Америка"
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SAVE"
-msgid "你可以建造一个床加快时间流逝\r\n\r\n游戏全程自动存档"
-msgstr "Вы можете построить кровать, чтобы ускорить течение времени\r\n\r\nИгра автоматически сохраняется на протяжении всей игры"
+msgid "你可以建造一个床加快时间流逝\r\n"
+"\r\n"
+"游戏全程自动存档"
+msgstr "Вы можете построить кровать, чтобы ускорить течение времени\r\n"
+"\r\n"
+"Игра автоматически сохраняется на протяжении всей игры"
 
 #. Key:	Save
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -14830,14 +14273,14 @@ msgstr "Удалить"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,shengqingshenpitext"
 msgid "申请审批"
-msgstr "Заявка на одобрение"
+msgstr "Подать заявку"
 
 #. Key:	SHWNGQINGJIARU
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SHWNGQINGJIARU"
 msgid "申请"
-msgstr "Подать заявку"
+msgstr "Принять"
 
 #. Key:	SJ
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -14879,14 +14322,14 @@ msgstr "Авторизация"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,sqjrtext003"
 msgid "申请加入"
-msgstr "Подать заявку на вступление"
+msgstr "Принять заявку"
 
 #. Key:	sqtishitext589
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,sqtishitext589"
 msgid "已经申请，等待批准！！！"
-msgstr "Уже подано заявление, ожидается одобрение!!!"
+msgstr "Подайте заявку, ожидайте одобрения!!!"
 
 #. Key:	SR
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -15053,8 +14496,12 @@ msgstr "Лето"
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SW11"
-msgid "在打开箱子的状态下，左键单击物品可以快速转移。\r\n\r\n拖动物品中按下R旋转物品方向。"
-msgstr "В открытом ящике щелкните левой кнопкой мыши по предмету, чтобы быстро взять его.\r\n\r\nНажмите R во время перетаскивания предмета, чтобы повернуть его положение."
+msgid "在打开箱子的状态下，左键单击物品可以快速转移。\r\n"
+"\r\n"
+"拖动物品中按下R旋转物品方向。"
+msgstr "В открытом ящике щелкните левой кнопкой мыши по предмету, чтобы быстро взять его.\r\n"
+"\r\n"
+"Нажмите R во время перетаскивания предмета, чтобы повернуть его положение."
 
 #. Key:	SwitchServerMode
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -15140,13 +14587,6 @@ msgctxt "UI,toLen"
 msgid "字符太长了！"
 msgstr "Персонажи слишком длинные!"
 
-#. Key:	Tool_JZWQXLTJ_Tip_02
-#. SourceLocation:	/Game/LocalizationText/UI.UI
-#: /Game/LocalizationText/UI.UI
-msgctxt "UI,Tool_JZWQXLTJ_Tip_02"
-msgid "缺少近战武器修理套件"
-msgstr "Недостаточно наборов для ремонта оружия ближнего боя"
-
 #. Key:	TPSCSL
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
@@ -15181,27 +14621,6 @@ msgstr "категория:"
 msgctxt "UI,TZKSQ"
 msgid "调整开锁器位置"
 msgstr "Отрегулируйте положение открытия замка"
-
-#. Key:	UI_JiaYou
-#. SourceLocation:	/Game/LocalizationText/UI.UI
-#: /Game/LocalizationText/UI.UI
-msgctxt "UI,UI_JiaYou"
-msgid "加油"
-msgstr "Заправиться"
-
-#. Key:	UI_Tip_QSRY
-#. SourceLocation:	/Game/LocalizationText/UI.UI
-#: /Game/LocalizationText/UI.UI
-msgctxt "UI,UI_Tip_QSRY"
-msgid "缺少燃油"
-msgstr "Недостаточно топлива"
-
-#. Key:	UI_Tip_YouLiang
-#. SourceLocation:	/Game/LocalizationText/UI.UI
-#: /Game/LocalizationText/UI.UI
-msgctxt "UI,UI_Tip_YouLiang"
-msgid "油量"
-msgstr "Уровень топлива"
 
 #. Key:	Use
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -15364,13 +14783,6 @@ msgctxt "UI,WaterSource"
 msgid "水源"
 msgstr "источник воды"
 
-#. Key:	WaterTip_01
-#. SourceLocation:	/Game/LocalizationText/UI.UI
-#: /Game/LocalizationText/UI.UI
-msgctxt "UI,WaterTip_01"
-msgid "水满了"
-msgstr "Контейнер заполнен водой"
-
 #. Key:	WDXS
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
@@ -15417,113 +14829,113 @@ msgstr "Что я могу сделать для вас?"
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Wound_FS_DWZ"
-msgid "低温症\r\n可使用温暖药剂进行治疗"
-msgstr "Переохлаждение\r\nМожно использовать согревающий препарат для лечения"
+msgid "低温症"
+msgstr "Переохлаждение"
 
 #. Key:	Wound_FS_GM
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Wound_FS_GM"
-msgid "感冒\r\n可使用温暖药剂、感冒药进行治疗"
-msgstr "Простуда\r\nМожно использовать согревающий препарат или лекарства от простуды для лечения"
+msgid "感冒"
+msgstr "Простуда"
 
 #. Key:	Wound_GRWS_01
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Wound_GRWS_01"
-msgid "轻度感染外伤\r\n在人物状态栏中将医疗物品拖动至受伤部位进行治疗"
-msgstr "Легкая инфекция травмы\r\nВ статусной панели персонажа перетащите медицинские средства на травмированную область для лечения"
+msgid "轻度感染外伤"
+msgstr "Легкая инфицированная травма"
 
 #. Key:	Wound_GRWS_02
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Wound_GRWS_02"
-msgid "中度感染外伤\r\n在人物状态栏中将医疗物品拖动至受伤部位进行治疗"
-msgstr "Умеренная инфекция травмы\r\nВ статусной панели персонажа перетащите медицинские средства на травмированную область для лечения"
+msgid "中度感染外伤"
+msgstr "Средняя инфицированная травма"
 
 #. Key:	Wound_GRWS_03
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Wound_GRWS_03"
-msgid "重度感染外伤\r\n在人物状态栏中将医疗物品拖动至受伤部位进行治疗"
-msgstr "Тяжелая инфекция травмы\r\nВ статусной панели персонажа перетащите медицинские средства на травмированную область для лечения"
+msgid "重度感染外伤"
+msgstr "Тяжелая инфицированная травма"
 
 #. Key:	Wound_LJ_HL
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Wound_LJ_HL"
-msgid "霍乱\r\n可使用霍利清进行治疗"
-msgstr "Холера\r\nМожно использовать препарат \"Холиклин\" для лечения"
+msgid "霍乱"
+msgstr "Холера"
 
 #. Key:	Wound_LJ_LJ
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Wound_LJ_LJ"
-msgid "痢疾\r\n可使用霍利清、益生菌进行治疗"
-msgstr "Дизентерия\r\nМожно использовать препарат \"Холиклин\" или пробиотики для лечения"
+msgid "痢疾"
+msgstr "Дизентерия"
 
 #. Key:	Wound_WS_01
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Wound_WS_01"
-msgid "轻度外伤\r\n在人物状态栏中将医疗物品拖动至受伤部位进行治疗"
-msgstr "Легкая травма\r\nВ статусной панели персонажа перетащите медицинские средства на травмированную область для лечения"
+msgid "轻度外伤"
+msgstr "Легкая травма"
 
 #. Key:	Wound_WS_02
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Wound_WS_02"
-msgid "中度外伤\r\n在人物状态栏中将医疗物品拖动至受伤部位进行治疗"
-msgstr "Умеренная травма\r\nВ статусной панели персонажа перетащите медицинские средства на травмированную область для лечения"
+msgid "中度外伤"
+msgstr "Травма средней тяжести"
 
 #. Key:	Wound_WS_03
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Wound_WS_03"
-msgid "重度外伤\r\n在人物状态栏中将医疗物品拖动至受伤部位进行治疗"
-msgstr "Тяжелая травма\r\nВ статусной панели персонажа перетащите медицинские средства на травмированную область для лечения"
+msgid "重度外伤"
+msgstr "Тяжелая травма"
 
 #. Key:	Wound_YY_YY
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Wound_YY_YY"
-msgid "抑郁\r\n可使用约翰圣草、安神药品进行治疗"
-msgstr "Депрессия\r\nМожно использовать зверобой или успокоительные лекарства для лечения"
+msgid "抑郁"
+msgstr "Депрессия"
 
 #. Key:	Wound_YYBL_DXT
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Wound_YYBL_DXT"
-msgid "低血糖\r\n可使用营养补充剂、葡萄糖片进行治疗"
-msgstr "Гипогликемия\r\nМожно использовать пищевые добавки или таблетки глюкозы для лечения"
+msgid "低血糖"
+msgstr "Гипогликемия"
 
 #. Key:	Wound_YYBL_JRWS
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Wound_YYBL_JRWS"
-msgid "肌肉萎缩\r\n可使用营养补充剂进行治疗"
-msgstr "Мышечная атрофия\r\nМожно использовать пищевые добавки для лечения"
+msgid "肌肉萎缩"
+msgstr "Атрофия мышц"
 
 #. Key:	Wound_YYBL_QSWS
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Wound_YYBL_QSWS"
-msgid "全身虚弱\r\n可使用营养补充剂、蛋白质补充剂进行治疗"
-msgstr "Общее истощение\r\nМожно использовать пищевые добавки или добавки с протеином для лечения"
+msgid "全身虚弱"
+msgstr "Общая слабость"
 
 #. Key:	Wound_ZS_RJL
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Wound_ZS_RJL"
-msgid "热痉挛\r\n可使用热痉挛药进行治疗"
-msgstr "Тепловой спазм\r\nМожно использовать лекарство от теплового спазма для лечения"
+msgid "热痉挛"
+msgstr "Тепловые судороги"
 
 #. Key:	Wound_ZS_ZS
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Wound_ZS_ZS"
-msgid "中暑\r\n可使用热痉挛药、解热药进行治疗"
-msgstr "Тепловой удар\r\nМожно использовать лекарства от теплового спазма или жаропонижающие средства для лечения"
+msgid "中暑"
+msgstr "Тепловой удар"
 
 #. Key:	WPBG
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -15830,8 +15242,10 @@ msgstr "Носильщик"
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,BYGDescribute"
-msgid "初始拥有 1 级体质等级\r\n负重 +20"
-msgstr "Физическая сила +1\r\nВес +20"
+msgid "初始拥有 1 级体质等级\r\n"
+"负重 +20"
+msgstr "Физическая сила +1\r\n"
+"Вес +20"
 
 #. Key:	carbohydrate
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -15839,6 +15253,13 @@ msgstr "Физическая сила +1\r\nВес +20"
 msgctxt "UI,carbohydrate"
 msgid "碳水化合物"
 msgstr "углеводы"
+
+#. Key:	CF
+#. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
+#: /Game/LocalizationText/UICharacter.UICharacter
+msgctxt "UI,CF"
+msgid "裁缝"
+msgstr "Портной"
 
 #. Key:	CGJJRZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -15956,8 +15377,10 @@ msgstr "Инженер"
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,GCSDescribute"
-msgid "初始拥有 1 级工程等级\r\n建筑物生命值 +30%"
-msgstr "Инженер +1\r\nПрочность здания +30%"
+msgid "初始拥有 1 级工程等级\r\n"
+"建筑物生命值 +30%"
+msgstr "Инженер +1\r\n"
+"Прочность здания +30%"
 
 #. Key:	GeneralTX
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -16033,8 +15456,10 @@ msgstr "Полицейский"
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,JCDescribe"
-msgid "新手礼包衣物替换为警用衣物\r\n枪械磨损 -25%"
-msgstr "Стартовый набор: полицейская одежда\r\nИзнос оружия -25%"
+msgid "新手礼包衣物替换为警用衣物\r\n"
+"枪械磨损 -25%"
+msgstr "Стартовый набор: полицейская одежда\r\n"
+"Износ оружия -25%"
 
 #. Key:	JDL
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -16117,8 +15542,10 @@ msgstr "Быстрое восстановление"
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,KTDetail"
-msgid "病毒抗体\r\n抗体为0就会死亡"
-msgstr "иммунитет\r\nЕсли иммунитет упадет до 0, вы умрете."
+msgid "病毒抗体\r\n"
+"抗体为0就会死亡"
+msgstr "иммунитет\r\n"
+"Если иммунитет упадет до 0, вы умрете."
 
 #. Key:	LG
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -16376,8 +15803,10 @@ msgstr "Немощный"
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TLDetail"
-msgid "体力\r\n每减少30点体力，伤害降低25%（不影响枪械）"
-msgstr "энергия\r\nЗа каждые 30 очков урон снижается на 25% (не действует на огнестрельное оружие)"
+msgid "体力\r\n"
+"每减少30点体力，伤害降低25%（不影响枪械）"
+msgstr "энергия\r\n"
+"За каждые 30 очков урон снижается на 25% (не действует на огнестрельное оружие)"
 
 #. Key:	TSKR
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -16411,8 +15840,9 @@ msgstr "Исследователь"
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TXJDescribute"
-msgid "新手礼包中额外拥有一把钢双手刀\r\n抗热 +30%  抗寒 +20% 防抓 +20%"
-msgstr "Стартовый набор: Стальной меч \\\r  Стойкость к жаре +30%, холодостойкость +20% и устойчивость к царапинам +20%"
+msgid "新手礼包中额外拥有一把钢双手刀\r\n"
+"抗热 +30%  抗寒 +20% 防抓 +20%"
+msgstr "Стартовый набор: Стальной меч \\r  Стойкость к жаре +30%, холодостойкость +20% и устойчивость к царапинам +20%"
 
 #. Key:	TZ_GRDesscribute
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -16740,8 +16170,10 @@ msgstr "Влияет на урон соответствующего оружия
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,wsDetail"
-msgid "卫生\r\n影响丧尸发现几率，影响伤口感染几率，过低影响心情回复"
-msgstr "гигиена\r\nВлияет на вероятность быть обнаруженным зомби, заражение ран и на восстановление настроения, если оно слишком низкое."
+msgid "卫生\r\n"
+"影响丧尸发现几率，影响伤口感染几率，过低影响心情回复"
+msgstr "гигиена\r\n"
+"Влияет на вероятность быть обнаруженным зомби, заражение ран и на восстановление настроения, если оно слишком низкое."
 
 #. Key:	XJRM
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -16796,8 +16228,9 @@ msgstr "Доктор"
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,YSDesscribe"
-msgid "初始拥有 1 级医学等级\r\n药物效果 +15%"
-msgstr "Медицина +1\\\r Эффект от приема лекарств +15%"
+msgid "初始拥有 1 级医学等级\r\n"
+"药物效果 +15%"
+msgstr "Медицина +1\\r Эффект от приема лекарств +15%"
 
 #. Key:	YXZS
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -16873,8 +16306,9 @@ msgstr "Пациенты"
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,ZY_BH_Desscribute"
-msgid "耐力 -15%  耐力消耗 +10%\r\n负重 -13  速度 -10%  感染概率 +20%"
-msgstr "Выносливость -15% Расход выносливости +10%\\\r Переносимый вес -13 Скорость -10% Вероятность заражения +20%"
+msgid "耐力 -15%  耐力消耗 +10%\r\n"
+"负重 -13  速度 -10%  感染概率 +20%"
+msgstr "Выносливость -15% Расход выносливости +10%\\r Переносимый вес -13 Скорость -10% Вероятность заражения +20%"
 
 #. Key:	ZY_FW
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -16887,8 +16321,9 @@ msgstr "Растяпа"
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,ZY_FW_Describute"
-msgid "耐力 -30%  速度 -10  搜索速度 -30%  最大生命 -20%\r\n近战伤害 -4  负重 -10  防御 -4 "
-msgstr "Выносливость -30% Скорость -10 Скорость поиска -30% Максимальное здоровье -20%\\\r Ближний урон -4 Переносимый вес -10 Защита -4 "
+msgid "耐力 -30%  速度 -10  搜索速度 -30%  最大生命 -20%\r\n"
+"近战伤害 -4  负重 -10  防御 -4 "
+msgstr "Выносливость -30% Скорость -10 Скорость поиска -30% Максимальное здоровье -20%\\r Ближний урон -4 Переносимый вес -10 Защита -4 "
 
 #. Key:	ZY_LS
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -16901,8 +16336,9 @@ msgstr "Боец сумо"
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,ZY_LS_Describute"
-msgid "初始体质、力量等级 +1  近战伤害 +4\r\n蛋白质、碳水消耗速度 +20%  速度 -10"
-msgstr "Начальный уровень физической подготовки и силы +1, Урон в ближнем бою +4\\\r Нормы потребления белков и углеводов +20%, Скорость -10"
+msgid "初始体质、力量等级 +1  近战伤害 +4\r\n"
+"蛋白质、碳水消耗速度 +20%  速度 -10"
+msgstr "Начальный уровень физической подготовки и силы +1, Урон в ближнем бою +4\\r Нормы потребления белков и углеводов +20%, Скорость -10"
 
 #. Key:	ZY_NF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -16915,8 +16351,9 @@ msgstr "Фермер"
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,ZY_NF_Describute"
-msgid "初始农业等级 +3 农业经验获取 +20%\r\n初始自带四组种子、两只鸡"
-msgstr "Начальный сельскохозяйственный уровень +3, Приобретение опыта в с\\х +20%\\\r Начинает с четырьмя наборами семян и двумя цыплятами."
+msgid "初始农业等级 +3 农业经验获取 +20%\r\n"
+"初始自带四组种子、两只鸡"
+msgstr "Начальный сельскохозяйственный уровень +3, Приобретение опыта в с\\х +20%\\r Начинает с четырьмя наборами семян и двумя цыплятами."
 
 #. Key:	ZY_WXZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -16936,8 +16373,9 @@ msgstr "Студент"
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,ZY_XS_Describute"
-msgid "拥有初始背包、随机获得五本书\r\n防御 -5  近战伤害 -2"
-msgstr "Стартовый рюкзак, пять случайных книг,\\\r защита -5, урон в ближнем бою -2"
+msgid "拥有初始背包、随机获得五本书\r\n"
+"防御 -5  近战伤害 -2"
+msgstr "Стартовый рюкзак, пять случайных книг,\\r защита -5, урон в ближнем бою -2"
 
 #. Key:	ZZBS
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -16945,13 +16383,6 @@ msgstr "Стартовый рюкзак, пять случайных книг,\\
 msgctxt "UI,ZZBS"
 msgid "拙嘴笨舌"
 msgstr "Молчун"
-
-#. Key:	CF
-#. SourceLocation:	/Game/LocalizationText/UIStudy.UIStudy
-#: /Game/LocalizationText/UIStudy.UIStudy
-msgctxt "UI,CF"
-msgid "裁缝"
-msgstr "Портной"
 
 #. Key:	DQ
 #. SourceLocation:	/Game/LocalizationText/UIStudy.UIStudy
