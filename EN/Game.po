@@ -3182,7 +3182,7 @@ msgstr "Creation Failed!"
 #: /Game/Blueprint/UMG/MainUI/WBP_Main.WBP_Main_C:WidgetTree.TextBlock_0.Text
 msgctxt ",836EB7AB40D4C893FD6B23A855BE4F36"
 msgid "公告：\r\n\r\n因为游戏采用了最新的UnrealEngine5引擎，为了获得最好的游戏体验，请将显卡驱动升级到最新版本。\r\n\r\n否则你可能会看到模型显示不完整等情况。\r\n\r\n感谢！"
-msgstr "Warning:\r\n\r\nThe game uses the latest Unreal Engine 5 engine, in order to get the best gaming experience, please upgrade your Graphics Card driver to the latest version.\r\n\r\nOtherwise you may have texture and models issues.\r\n\r\nHave fun! Thank you!"
+msgstr "Warning:\r\n\r\nThe game uses the latest Unreal Engine 5, for the best gaming experience, please upgrade your graphics card drivers to the latest version.\r\n\r\nOtherwise, you may experience issues with textures or models.\r\n\r\n Thank you!"
 
 #. Key:	6D94E4B4492BEF00197AA29E81E62172
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/WBP_Main.WBP_Main_C:WidgetTree.WBP_StartButton_2.In Text
@@ -11421,7 +11421,7 @@ msgstr "Depth"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,DistanceField"
 msgid "距离场"
-msgstr "Field Depth"
+msgstr "Distance Field Shadows"
 
 #. Key:	DJZLJX01
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11617,7 +11617,7 @@ msgstr "Ambient Volume"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,HMZL"
 msgid "画面质量"
-msgstr "Picture Quality"
+msgstr "Video Quality Preset"
 
 #. Key:	HUXUE01
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -12093,7 +12093,7 @@ msgstr "Zombies Strength"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,SSSL"
 msgid "丧尸数量"
-msgstr "Zombies Spawn Number"
+msgstr "Zombie Spawn Limit"
 
 #. Key:	Start
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -12331,7 +12331,7 @@ msgstr "Left"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,ZB"
 msgid "植被"
-msgstr "Vegetation"
+msgstr "Vegetation Density"
 
 #. Key:	ZBMD
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -12401,7 +12401,7 @@ msgstr "When the freshness of a food turns yellow or red you increase the chance
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,02"
 msgid "使用钝器击打可摧毁的物体伤害比较高。"
-msgstr "Hitting destructible objects with a blunt weapon does more damage."
+msgstr "Blunt weapons do more damage to destructible objects."
 
 #. Key:	03
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -12415,7 +12415,7 @@ msgstr "Sprinting burns Carbohydrates and Protein faster which can make you thir
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,04"
 msgid "体力过低会影响伤害。"
-msgstr "Low Stamina will affect damage."
+msgstr "Low Stamina will reduce your damage."
 
 #. Key:	05
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -12443,7 +12443,7 @@ msgstr "The corresponding dishes can be obtained by heating the cans separately.
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,08"
 msgid "越好的箭矢回收成功率越高。"
-msgstr "The better the arrow quality, the higher the recovery success rate."
+msgstr "Higher quality arrows have a higher recovery success rate."
 
 #. Key:	09
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -12457,14 +12457,14 @@ msgstr "Use the Action Menu (Default-I) to lie down or sit down to quickly resto
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,10"
 msgid "被攻击的话，会消耗当前穿戴物品的耐久。"
-msgstr "The durability of worn items will be lost if attacked."
+msgstr "Worn items will lose durability if attacked."
 
 #. Key:	11
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,11"
 msgid "用撬棍可以打开锁上的柜子或门。"
-msgstr "A Locked Door can sometimes be opened with a Crowbar."
+msgstr "A locked door can sometimes be opened with a Crowbar."
 
 #. Key:	12
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -12485,7 +12485,7 @@ msgstr "Stuck? Press \"Escape\" and use the \"Unstuck Character\" function in th
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,14"
 msgid "人物前方近处有物体的话，可能会导致枪械无法瞄准。"
-msgstr "If there is an object near the front of the character, it may cause the firearm to not aim and fire."
+msgstr "Being too close to an object may prevent you from aiming your weapon."
 
 #. Key:	15
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -12506,7 +12506,7 @@ msgstr "Falling trees are very dangerous so use caution when chopping wood!"
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,17"
 msgid "寻找地图中的幸存者和他们进行以物易物，换取自己需要的资源。"
-msgstr "Find survivors on the map and barter with them in exchange for the resources you need."
+msgstr "Search the map for survivors and barter with them for the resources you need."
 
 #. Key:	19
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -15152,7 +15152,7 @@ msgstr "Lacking a Weapon Repair Kit"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,TPSCSL"
 msgid "尸潮生成数量"
-msgstr "Zombies Spawn Number"
+msgstr "Zombie Spawn Limit"
 
 #. Key:	TQEnd
 #. SourceLocation:	/Game/LocalizationText/UI.UI
