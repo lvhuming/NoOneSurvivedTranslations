@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2025-05-22 10:13\n"
-"PO-Revision-Date: 2025-05-22 10:13\n"
+"POT-Creation-Date: 2025-06-25 08:00\n"
+"PO-Revision-Date: 2025-06-25 08:00\n"
 "Language-Team: \n"
 "Language: vi\n"
 "MIME-Version: 1.0\n"
@@ -19,6 +19,27 @@ msgstr ""
 msgctxt ",2CD410E740F487818FE918876292782E"
 msgid "Animal"
 msgstr "Động vật"
+
+#. Key:	71984AAA49FD088D397B8CA8B45BAE23
+#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/E_DriveState.E_DriveState.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/Blueprint/ACF/AnimationBP/E_DriveState.E_DriveState.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",71984AAA49FD088D397B8CA8B45BAE23"
+msgid "Car"
+msgstr "Ô tô"
+
+#. Key:	E6CA35144362082247AFDBA83D43CC7A
+#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/E_DriveState.E_DriveState.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/Blueprint/ACF/AnimationBP/E_DriveState.E_DriveState.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",E6CA35144362082247AFDBA83D43CC7A"
+msgid "Bicycle"
+msgstr "Xe đạp"
+
+#. Key:	10D1C6D44C09295CB770FFB276D65633
+#. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/E_DriveState.E_DriveState.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/Blueprint/ACF/AnimationBP/E_DriveState.E_DriveState.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",10D1C6D44C09295CB770FFB276D65633"
+msgid "Helicopter"
+msgstr "Máy bay trực thăng"
 
 #. Key:	AnimNode_ApplyAdditive:LODThreshold
 #. SourceLocation:	/Game/Blueprint/ACF/AnimationBP/HDCK_AnimBP.AnimationStateGraph_2:AnimGraphNode_ApplyAdditive_1.ShowPinForProperties(4).ShowPinForProperties.PropertyTooltip
@@ -573,6 +594,13 @@ msgctxt ",3906A0864857BE406694849A0851429D"
 msgid "主要用于打碎石头，必要时候也可以用来防身。"
 msgstr "Dùng để đập đá. Có thể sử dụng như một vũ khí."
 
+#. Key:	FD5D604D432226A201BDBD830BF11341
+#. SourceLocation:	/Game/Blueprint/ACF/Item/Tool/BP_ToolPickaxe.Default__BP_ToolPickaxe_C.ItemInfo.Name
+#: /Game/Blueprint/ACF/Item/Tool/BP_ToolPickaxe.Default__BP_ToolPickaxe_C.ItemInfo.Name
+msgctxt ",FD5D604D432226A201BDBD830BF11341"
+msgid "石稿"
+msgstr "Bản thảo đá"
+
 #. Key:	330C2123417837492F10DB97418C4923
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Tool/Item_NotUse_Tool_Base.Default__Item_NotUse_Tool_Base_C.ItemInfo.Description
 #: /Game/Blueprint/ACF/Item/Tool/Item_NotUse_Tool_Base.Default__Item_NotUse_Tool_Base_C.ItemInfo.Description
@@ -740,13 +768,6 @@ msgstr "Búa tạ dài hai tay"
 msgctxt ",816B809E442B064BD3B914A2A04D2CF3"
 msgid "露茜儿++"
 msgstr "Lucile++"
-
-#. Key:	FD5D604D432226A201BDBD830BF11341
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/LongBlunt/Pickaxe/BP_ToolPickaxeBase.Default__BP_ToolPickaxeBase_C.ItemInfo.Name
-#: /Game/Blueprint/ACF/Item/Weapon/LongBlunt/Pickaxe/BP_ToolPickaxeBase.Default__BP_ToolPickaxeBase_C.ItemInfo.Name
-msgctxt ",FD5D604D432226A201BDBD830BF11341"
-msgid "石稿"
-msgstr "Bản thảo đá"
 
 #. Key:	194EB3E8475C76C56AC9DCB7390C606E
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/LongSharp/BP_LongSharpBase.Default__BP_LongSharpBase_C.ItemInfo.Name
@@ -1616,6 +1637,20 @@ msgctxt ",4A4A9A1F465FDFFE836727AA9A544C50"
 msgid "1"
 msgstr "1"
 
+#. Key:	4F79840C4580D5372DA5898CBDFC4F84
+#. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_Air.WBP_Air_C:Update [Script Bytecode]
+#: /Game/Blueprint/UMG/Furniture/WBP_Air.WBP_Air_C:Update [Script Bytecode]
+msgctxt ",4F79840C4580D5372DA5898CBDFC4F84"
+msgid "燃料："
+msgstr "Nhiên liệu:"
+
+#. Key:	FC61432E4C59D37606DB27AD88328416
+#. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_Air.WBP_Air_C:WidgetTree.TextRY.Text
+#: /Game/Blueprint/UMG/Furniture/WBP_Air.WBP_Air_C:WidgetTree.TextRY.Text
+msgctxt ",FC61432E4C59D37606DB27AD88328416"
+msgid "燃料：10/50L"
+msgstr "Nhiên liệu: 10/50L"
+
 #. Key:	C91B92F140E95FFF8720FCB5C77715EF
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_Bed.WBP_Bed_C:WidgetTree.TextBlock.Text
 #: /Game/Blueprint/UMG/Furniture/WBP_Bed.WBP_Bed_C:WidgetTree.TextBlock.Text
@@ -2413,6 +2448,13 @@ msgstr "Xe sinh sản"
 msgctxt ",8C948C4F4A27919FDC5B268A65FFF9F4"
 msgid "医学+"
 msgstr "Y học+"
+
+#. Key:	3E4074B54932A2B649A672A265280B80
+#. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_50.Text
+#: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_50.Text
+msgctxt ",3E4074B54932A2B649A672A265280B80"
+msgid "潜行+"
+msgstr "Lén lút+"
 
 #. Key:	E968D2B9404C381673D22FBDED974E1F
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_6.Text
@@ -4752,10 +4794,10 @@ msgctxt ",F9AEB4DA4E4995AF5C0807AE1EEF8C90"
 msgid "transaction"
 msgstr "giao dịch"
 
-#. Key:	9736694F409E5D1B1314F7AF84B098ED
+#. Key:	EC9B0C4F4E8058B42B330694464978EA
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_DP_XDD.Default__Furniture_DP_XDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_DP_XDD.Default__Furniture_DP_XDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
-msgctxt ",9736694F409E5D1B1314F7AF84B098ED"
+msgctxt ",EC9B0C4F4E8058B42B330694464978EA"
 msgid "地板"
 msgstr "Sàn nhà"
 
@@ -4780,10 +4822,10 @@ msgctxt ",ABE10B784F6D55A4DA2F40A4FBEC2520"
 msgid "用于保管物品的箱子，不会丢失物品。"
 msgstr "Rương chứa đồ. Tránh bị thất lạc."
 
-#. Key:	B61CF9114286E769C84E6696E50285D9
+#. Key:	1F9B652C4D5246BA73E615BCD523F56D
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_DPLDD.Default__Furniture_DPLDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_DPLDD.Default__Furniture_DPLDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
-msgctxt ",B61CF9114286E769C84E6696E50285D9"
+msgctxt ",1F9B652C4D5246BA73E615BCD523F56D"
 msgid "地板"
 msgstr "Sàn nhà"
 
@@ -4829,12 +4871,12 @@ msgctxt ",BC879B3F4ECE110B894771976EFF65F1"
 msgid "家具"
 msgstr "nội thất"
 
-#. Key:	2BEC3EF84E7CB0B8AAC8D0B46498854F
+#. Key:	3CD527BB467535BCA63FB8A5987F2A05
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_TYNFD.Default__Furniture_TYNFD_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_TYNFD.Default__Furniture_TYNFD_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-msgctxt ",2BEC3EF84E7CB0B8AAC8D0B46498854F"
+msgctxt ",3CD527BB467535BCA63FB8A5987F2A05"
 msgid "受遮挡或在没有太阳的天气无法发电"
-msgstr "Không thể phát điện khi bị che khuất hoặc không có ánh nắng mặt trời."
+msgstr "Không thể phát điện khi bị che khuất hoặc trong thời tiết không có nắng"
 
 #. Key:	B902044F444A770F5D16FEBFFB185A39
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_YSSJQ.Furniture_YSSJQ_C:ExecuteUbergraph_Furniture_YSSJQ [Script Bytecode]
@@ -4878,24 +4920,24 @@ msgctxt ",F3F8E148409A7CD56F64519CED4DC8A7"
 msgid "水不够！"
 msgstr "Không đủ nước!"
 
-#. Key:	90CDCB1B49496C35B493FEA87D7FABB2
+#. Key:	5A7810D041690A94173C39AB12402025
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/OutStairs_Base_Wood.Default__OutStairs_Base_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 #: /Game/HDCKBuildingSystem/MeshBP/OutStairs_Base_Wood.Default__OutStairs_Base_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-msgctxt ",90CDCB1B49496C35B493FEA87D7FABB2"
+msgctxt ",5A7810D041690A94173C39AB12402025"
 msgid "建房必备"
-msgstr "Nguyên liệu cần thiết để xây nhà"
+msgstr "Vật liệu cần thiết để xây nhà"
 
-#. Key:	0BA2E3B243591BA93DBAE196B2F34428
+#. Key:	3ED9336E4919E7212F89A494538BACCB
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_BL.Default__Roof_20_intersection_BL_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 #: /Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_BL.Default__Roof_20_intersection_BL_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-msgctxt ",0BA2E3B243591BA93DBAE196B2F34428"
+msgctxt ",3ED9336E4919E7212F89A494538BACCB"
 msgid "用于连接外转角屋顶。"
 msgstr "Dùng để kết nối mái góc ngoài."
 
-#. Key:	B5F37C9B4CA2F6EC25F2378416CE004A
+#. Key:	94DEABAA4EC3F4D38F948ABF9C3BE77B
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_Wood.Default__Roof_20_intersection_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 #: /Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_Wood.Default__Roof_20_intersection_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-msgctxt ",B5F37C9B4CA2F6EC25F2378416CE004A"
+msgctxt ",94DEABAA4EC3F4D38F948ABF9C3BE77B"
 msgid "用于连接外转角屋顶。"
 msgstr "Dùng để kết nối mái góc ngoài."
 
@@ -7250,6 +7292,13 @@ msgstr "Những ngôi nhà được cung cấp cho NPC ở"
 msgctxt ",ZHUFANG"
 msgid "住房"
 msgstr "nhà ở"
+
+#. Key:	zizhizhishengji8944
+#. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
+#: /Game/LocalizationText/BuildingInfo.BuildingInfo
+msgctxt ",zizhizhishengji8944"
+msgid "自制直升机"
+msgstr "Máy bay trực thăng tự chế"
 
 #. Key:	95
 #. SourceLocation:	/Game/LocalizationText/GUN.GUN
@@ -13135,14 +13184,14 @@ msgstr "Kiểm soát phương tiện"
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Car_Delete_Tip"
-msgid "删除车辆"
+msgid "删除载具"
 msgstr "Xóa phương tiện"
 
 #. Key:	Car_Delete_Tip_01
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Car_Delete_Tip_01"
-msgid "删除车辆的同时会删除车辆中的所有物品，是否确认删除？"
+msgid "删除载具的同时会删除载具中的所有物品，是否确认删除？"
 msgstr "Xóa phương tiện sẽ đồng thời xóa tất cả các vật phẩm trong phương tiện, bạn có chắc chắn muốn xóa không?"
 
 #. Key:	Car_Reset_Tip
@@ -13908,6 +13957,20 @@ msgctxt "UI,HammerZ"
 msgid "捕捉旋转"
 msgstr "Xoay theo snap"
 
+#. Key:	hipjiangdi3248
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,hipjiangdi3248"
+msgid "降低"
+msgstr "Hạ thấp"
+
+#. Key:	hipshegngao8596
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,hipshegngao8596"
+msgid "升高"
+msgstr "Nâng cao"
+
 #. Key:	HMD
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
@@ -14180,6 +14243,13 @@ msgstr "Hàng đợi đã đầy!"
 msgctxt "UI,MakeTime"
 msgid "制作时间："
 msgstr "Thời gian sản xuất:"
+
+#. Key:	meiyouzidan86913
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,meiyouzidan86913"
+msgid "没有可用子弹"
+msgstr "Không có đạn khả dụng"
 
 #. Key:	MLZ
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -14600,6 +14670,13 @@ msgstr "Đã hết!"
 msgctxt "UI,QCRL"
 msgid "取出燃料"
 msgstr "lấy nhiên liệu ra"
+
+#. Key:	qianxing876248a
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,qianxing876248a"
+msgid "蹲下可激活潜行，潜行下丧尸发现你的概率降低"
+msgstr "Ngồi xuống để kích hoạt chế độ lén lút, trong chế độ này xác suất bị thây ma phát hiện sẽ giảm"
 
 #. Key:	QRXHLDZM
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -17036,6 +17113,13 @@ msgstr "Nấu"
 msgctxt "UI,QX"
 msgid "枪械"
 msgstr "Súng ống"
+
+#. Key:	qx94434
+#. SourceLocation:	/Game/LocalizationText/UIStudy.UIStudy
+#: /Game/LocalizationText/UIStudy.UIStudy
+msgctxt "UI,qx94434"
+msgid "潜行"
+msgstr "Lén lút"
 
 #. Key:	RQ
 #. SourceLocation:	/Game/LocalizationText/UIStudy.UIStudy
