@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2025-06-25 08:00\n"
-"PO-Revision-Date: 2025-06-25 08:00\n"
+"POT-Creation-Date: 2025-09-06 07:36\n"
+"PO-Revision-Date: 2025-09-06 07:36\n"
 "Language-Team: \n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
@@ -594,13 +594,6 @@ msgctxt ",3906A0864857BE406694849A0851429D"
 msgid "主要用于打碎石头，必要时候也可以用来防身。"
 msgstr "Főleg kövek törésére szolgál, szükség esetén önvédelemre is használható。"
 
-#. Key:	FD5D604D432226A201BDBD830BF11341
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Tool/BP_ToolPickaxe.Default__BP_ToolPickaxe_C.ItemInfo.Name
-#: /Game/Blueprint/ACF/Item/Tool/BP_ToolPickaxe.Default__BP_ToolPickaxe_C.ItemInfo.Name
-msgctxt ",FD5D604D432226A201BDBD830BF11341"
-msgid "石稿"
-msgstr "kő kézirat"
-
 #. Key:	330C2123417837492F10DB97418C4923
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Tool/Item_NotUse_Tool_Base.Default__Item_NotUse_Tool_Base_C.ItemInfo.Description
 #: /Game/Blueprint/ACF/Item/Tool/Item_NotUse_Tool_Base.Default__Item_NotUse_Tool_Base_C.ItemInfo.Description
@@ -768,6 +761,13 @@ msgstr "hosszú kétkezes kalapács"
 msgctxt ",816B809E442B064BD3B914A2A04D2CF3"
 msgid "露茜儿++"
 msgstr "Lucile++"
+
+#. Key:	FD5D604D432226A201BDBD830BF11341
+#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/LongBlunt/Pickaxe/BP_ToolPickaxeBase.Default__BP_ToolPickaxeBase_C.ItemInfo.Name
+#: /Game/Blueprint/ACF/Item/Weapon/LongBlunt/Pickaxe/BP_ToolPickaxeBase.Default__BP_ToolPickaxeBase_C.ItemInfo.Name
+msgctxt ",FD5D604D432226A201BDBD830BF11341"
+msgid "石稿"
+msgstr "kő kézirat"
 
 #. Key:	194EB3E8475C76C56AC9DCB7390C606E
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/LongSharp/BP_LongSharpBase.Default__BP_LongSharpBase_C.ItemInfo.Name
@@ -2007,13 +2007,6 @@ msgstr "nedvesség"
 msgctxt ",0BDFF3E44ADF1D4E97787E869B4DF710"
 msgid "燃烧时间：0"
 msgstr "Égési idő: 0"
-
-#. Key:	A531484A4D7334448A41DF8CA71C2B71
-#. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_StoneFire.WBP_StoneFire_C:WidgetTree.Image_94.ToolTipText
-#: /Game/Blueprint/UMG/Furniture/WBP_StoneFire.WBP_StoneFire_C:WidgetTree.Image_94.ToolTipText
-msgctxt ",A531484A4D7334448A41DF8CA71C2B71"
-msgid "试着将三种不同的食材放入锅中烹饪"
-msgstr "Próbáljon meg három különböző hozzávalót főzni egy edényben"
 
 #. Key:	04FCF26444412C856D5A75A17C9A112E
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_StoneFire.WBP_StoneFire_C:WidgetTree.WBP_AddButton.ToolTipText
@@ -12333,6 +12326,13 @@ msgctxt "UI,YNDSJ"
 msgid "一年的时间"
 msgstr "Egy év múlva"
 
+#. Key:	youdangshiuyin423121
+#. SourceLocation:	/Game/LocalizationText/Screen.Screen
+#: /Game/LocalizationText/Screen.Screen
+msgctxt "UI,youdangshiuyin423121"
+msgid "游荡敌人"
+msgstr "Kóborló ellenségek"
+
 #. Key:	YTDCD
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
 #: /Game/LocalizationText/Screen.Screen
@@ -15280,6 +15280,13 @@ msgctxt "UI,UI_Tip_YouLiang"
 msgid "油量"
 msgstr "Üzemanyagszint"
 
+#. Key:	UIPUT021345340
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,UIPUT021345340"
+msgid "试着将三种不同的食材放入锅中烹饪"
+msgstr "Próbálj meg három különböző hozzávalót tenni a fazékba és főzni."
+
 #. Key:	Use
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
@@ -15741,6 +15748,13 @@ msgstr "A bacon 200 másodpercet vesz igénybe"
 msgctxt "UI,YC"
 msgid "移除"
 msgstr "távolítsa el"
+
+#. Key:	youdangdierentip43420
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,youdangdierentip43420"
+msgid "在地图上生成随机游荡的丧尸或者土匪"
+msgstr "Hozz létre véletlenszerűen kóborló zombikat vagy banditákat a térképen"
 
 #. Key:	YUYINSHURU
 #. SourceLocation:	/Game/LocalizationText/UI.UI
