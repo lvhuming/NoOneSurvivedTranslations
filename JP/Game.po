@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2025-09-06 07:36\n"
-"PO-Revision-Date: 2025-09-06 07:36\n"
+"POT-Creation-Date: 2025-12-27 07:17\n"
+"PO-Revision-Date: 2025-12-27 07:17\n"
 "Language-Team: \n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
@@ -798,8 +798,8 @@ msgid "短的单手刀"
 msgstr "短い片手ナイフ"
 
 #. Key:	5A59E05F4DEA91E378D72BA820DC9EE5
-#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Spear/BP_LongSharpBase_Spear.Default__BP_LongSharpBase_Spear_C.ItemInfo.Name
-#: /Game/Blueprint/ACF/Item/Weapon/Spear/BP_LongSharpBase_Spear.Default__BP_LongSharpBase_Spear_C.ItemInfo.Name
+#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Spear/BP_LongSharp_SpearBase.Default__BP_LongSharp_SpearBase_C.ItemInfo.Name
+#: /Game/Blueprint/ACF/Item/Weapon/Spear/BP_LongSharp_SpearBase.Default__BP_LongSharp_SpearBase_C.ItemInfo.Name
 msgctxt ",5A59E05F4DEA91E378D72BA820DC9EE5"
 msgid "长矛"
 msgstr "槍"
@@ -1420,12 +1420,1916 @@ msgctxt ",37FE7E904821DCB687C7288664B6AC33"
 msgid "BackRight"
 msgstr "戻る右"
 
+#. Key:	0B4A918444A0550E3E1D10ADAFFD2BED
+#. SourceLocation:	/Game/Blueprint/Dialogue/WBP_DialogueWidget.WBP_DialogueWidget_C:ExecuteUbergraph_WBP_DialogueWidget [Script Bytecode]
+#: /Game/Blueprint/Dialogue/WBP_DialogueWidget.WBP_DialogueWidget_C:ExecuteUbergraph_WBP_DialogueWidget [Script Bytecode]
+msgctxt ",0B4A918444A0550E3E1D10ADAFFD2BED"
+msgid "Next"
+msgstr "次へ"
+
+#. Key:	33D72CD742ED96F5B5E978A1EA155908
+#. SourceLocation:	/Game/Blueprint/Dialogue/WBP_DialogueWidget.WBP_DialogueWidget_C:ExecuteUbergraph_WBP_DialogueWidget [Script Bytecode]
+#: /Game/Blueprint/Dialogue/WBP_DialogueWidget.WBP_DialogueWidget_C:ExecuteUbergraph_WBP_DialogueWidget [Script Bytecode]
+msgctxt ",33D72CD742ED96F5B5E978A1EA155908"
+msgid "End conversation"
+msgstr "会話を終了する"
+
+#. Key:	9CA95D4F458732F3E6A021A6263BAC52
+#. SourceLocation:	/Game/Blueprint/Dialogue/WBP_DialogueWidget.WBP_DialogueWidget_C:ExecuteUbergraph_WBP_DialogueWidget [Script Bytecode]
+#: /Game/Blueprint/Dialogue/WBP_DialogueWidget.WBP_DialogueWidget_C:ExecuteUbergraph_WBP_DialogueWidget [Script Bytecode]
+msgctxt ",9CA95D4F458732F3E6A021A6263BAC52"
+msgid "Continue"
+msgstr "続ける"
+
+#. Key:	44BBBD7F4DB0B2535DB7E199999AD21E
+#. SourceLocation:	/Game/Blueprint/Dialogue/WBP_DialogueWidget.WBP_DialogueWidget_C:WidgetTree.GX.Text
+#: /Game/Blueprint/Dialogue/WBP_DialogueWidget.WBP_DialogueWidget_C:WidgetTree.GX.Text
+msgctxt ",44BBBD7F4DB0B2535DB7E199999AD21E"
+msgid "关系：50"
+msgstr "Relationship: 50"
+
+#. Key:	4C5144BD4F0CF0D0BDAE168F80AAD601
+#. SourceLocation:	/Game/Blueprint/Dialogue/WBP_DialogueWidget.WBP_DialogueWidget_C:WidgetTree.NextText.Text
+#: /Game/Blueprint/Dialogue/WBP_DialogueWidget.WBP_DialogueWidget_C:WidgetTree.NextText.Text
+msgctxt ",4C5144BD4F0CF0D0BDAE168F80AAD601"
+msgid "Continue"
+msgstr "続ける"
+
+#. Key:	3CD7A2A041074EF77C8EA09D85877EA0
+#. SourceLocation:	/Game/Blueprint/Dialogue/WBP_DialogueWidget.WBP_DialogueWidget_C:WidgetTree.SpeakerName.Text
+#: /Game/Blueprint/Dialogue/WBP_DialogueWidget.WBP_DialogueWidget_C:WidgetTree.SpeakerName.Text
+msgctxt ",3CD7A2A041074EF77C8EA09D85877EA0"
+msgid "Merchant"
+msgstr "商人"
+
 #. Key:	2E3B7D0B496CE27913B296A3FCDA5298
 #. SourceLocation:	/Game/Blueprint/Ladder/BP_Ladder.BP_Ladder_C:ShowUI [Script Bytecode]
 #: /Game/Blueprint/Ladder/BP_Ladder.BP_Ladder_C:ShowUI [Script Bytecode]
 msgctxt ",2E3B7D0B496CE27913B296A3FCDA5298"
 msgid "空格攀爬"
 msgstr "スペースキーで登る"
+
+#. Key:	C1D7FCC242F157DCCAD470975F6EC8F5
+#. SourceLocation:	/Game/Blueprint/QuestSystem/E_ObjectiveType.E_ObjectiveType.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/Blueprint/QuestSystem/E_ObjectiveType.E_ObjectiveType.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",C1D7FCC242F157DCCAD470975F6EC8F5"
+msgid "Location"
+msgstr "場所"
+
+#. Key:	B68E208E4F25B26E69CE2598D5AF6A9B
+#. SourceLocation:	/Game/Blueprint/QuestSystem/E_ObjectiveType.E_ObjectiveType.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/Blueprint/QuestSystem/E_ObjectiveType.E_ObjectiveType.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",B68E208E4F25B26E69CE2598D5AF6A9B"
+msgid "Kill"
+msgstr "殺す"
+
+#. Key:	85C1DC594704877A9487EB9A720B600E
+#. SourceLocation:	/Game/Blueprint/QuestSystem/E_ObjectiveType.E_ObjectiveType.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/Blueprint/QuestSystem/E_ObjectiveType.E_ObjectiveType.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",85C1DC594704877A9487EB9A720B600E"
+msgid "Interact"
+msgstr "インタラクト"
+
+#. Key:	2AF7E96043AF7B370ECD7B90C8C6952F
+#. SourceLocation:	/Game/Blueprint/QuestSystem/E_ObjectiveType.E_ObjectiveType.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/Blueprint/QuestSystem/E_ObjectiveType.E_ObjectiveType.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",2AF7E96043AF7B370ECD7B90C8C6952F"
+msgid "Collect"
+msgstr "収集"
+
+#. Key:	DA33BE724252E327E98AB9B68834DB48
+#. SourceLocation:	/Game/Blueprint/QuestSystem/E_ObjectiveType.E_ObjectiveType.DisplayNameMap(4 - Value).DisplayNameMap
+#: /Game/Blueprint/QuestSystem/E_ObjectiveType.E_ObjectiveType.DisplayNameMap(4 - Value).DisplayNameMap
+msgctxt ",DA33BE724252E327E98AB9B68834DB48"
+msgid "Building"
+msgstr "建築"
+
+#. Key:	F9DBEE5B4BA41FBF304B66A7E7FCC42B
+#. SourceLocation:	/Game/Blueprint/QuestSystem/E_ObjectiveType.E_ObjectiveType.DisplayNameMap(5 - Value).DisplayNameMap
+#: /Game/Blueprint/QuestSystem/E_ObjectiveType.E_ObjectiveType.DisplayNameMap(5 - Value).DisplayNameMap
+msgctxt ",F9DBEE5B4BA41FBF304B66A7E7FCC42B"
+msgid "Submit"
+msgstr "送信"
+
+#. Key:	03AA191A4F0C294B09948B94CDAAC3EB
+#. SourceLocation:	/Game/Blueprint/QuestSystem/E_ObjectiveType.E_ObjectiveType.DisplayNameMap(6 - Value).DisplayNameMap
+#: /Game/Blueprint/QuestSystem/E_ObjectiveType.E_ObjectiveType.DisplayNameMap(6 - Value).DisplayNameMap
+msgctxt ",03AA191A4F0C294B09948B94CDAAC3EB"
+msgid "Make"
+msgstr "作る"
+
+#. Key:	54C59DB24835F7E5330639861DDD45A7
+#. SourceLocation:	/Game/Blueprint/QuestSystem/E_ObjectiveType.E_ObjectiveType.DisplayNameMap(7 - Value).DisplayNameMap
+#: /Game/Blueprint/QuestSystem/E_ObjectiveType.E_ObjectiveType.DisplayNameMap(7 - Value).DisplayNameMap
+msgctxt ",54C59DB24835F7E5330639861DDD45A7"
+msgid "UnLock"
+msgstr "解除ロック"
+
+#. Key:	E01FD52D4A68651F89CE24B8C545EE29
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.001.LogDescription_10_32F75F4343592643E76DC28D283FA682
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.001.LogDescription_10_32F75F4343592643E76DC28D283FA682
+msgctxt ",E01FD52D4A68651F89CE24B8C545EE29"
+msgid "收集周围散落在地面上的资源"
+msgstr "周囲の地面に散らばっている資源を集める"
+
+#. Key:	F6D48F90468B97A35FACB791BD4941C4
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.001.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.001.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+msgctxt ",F6D48F90468B97A35FACB791BD4941C4"
+msgid "资源收集(1)"
+msgstr "資源採集(1)"
+
+#. Key:	373879F24C9D7EC02BAC21B3A1E818CB
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.001.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(0).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.001.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(0).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+msgctxt ",373879F24C9D7EC02BAC21B3A1E818CB"
+msgid "收集木棍"
+msgstr "木の棒を集める"
+
+#. Key:	910457E543D68A0DEBDEABA9FEE6DBE9
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.001.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(1).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.001.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(1).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+msgctxt ",910457E543D68A0DEBDEABA9FEE6DBE9"
+msgid "收集石头"
+msgstr "石を集める"
+
+#. Key:	157C18D940F9FFF1660C44BFE7FD07E2
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.002.LogDescription_10_32F75F4343592643E76DC28D283FA682
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.002.LogDescription_10_32F75F4343592643E76DC28D283FA682
+msgctxt ",157C18D940F9FFF1660C44BFE7FD07E2"
+msgid "收集够资源后按下Tap键打开背包界面后，在点击<Img id=\"ZZ\"/>工具图标制作石镐与石斧"
+msgstr "十分な資源を集めたら、Tapキーを押してインベントリ画面を開き、<Img id=\"ZZ\"/>ツールアイコンをクリックして石のツルハシと石の斧を作成する"
+
+#. Key:	22FFDFBB41B901F71B5CC7A2CB42612E
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.002.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.002.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+msgctxt ",22FFDFBB41B901F71B5CC7A2CB42612E"
+msgid "初级工具"
+msgstr "初級ツール"
+
+#. Key:	FE7603A54CCD78D62B27E6B3E1BEAF0B
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.002.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(0).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.002.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(0).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+msgctxt ",FE7603A54CCD78D62B27E6B3E1BEAF0B"
+msgid "制作石斧"
+msgstr "石の斧を作る"
+
+#. Key:	B83D2EF34C5EF4F0C655E095E7642131
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.002.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(1).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.002.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(1).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+msgctxt ",B83D2EF34C5EF4F0C655E095E7642131"
+msgid "制作石镐"
+msgstr "石のツルハシを作る"
+
+#. Key:	79C6A1BE403688E0938C5EAA41477E55
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.003.LogDescription_10_32F75F4343592643E76DC28D283FA682
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.003.LogDescription_10_32F75F4343592643E76DC28D283FA682
+msgctxt ",79C6A1BE403688E0938C5EAA41477E55"
+msgid "装备制作好的工具，使用工具收集资源"
+msgstr "作成した道具を装備し、その道具を使って資源を採集する"
+
+#. Key:	CD196B794F4608A6F97D48B7E1E51D6F
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.003.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.003.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+msgctxt ",CD196B794F4608A6F97D48B7E1E51D6F"
+msgid "资源收集(2)"
+msgstr "資源収集(2)"
+
+#. Key:	1A3D643B4E39C90D978056ABCC030BFD
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.003.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(0).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.003.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(0).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+msgctxt ",1A3D643B4E39C90D978056ABCC030BFD"
+msgid "砍伐树木"
+msgstr "木を伐採する"
+
+#. Key:	930D21CA482DAFF01B3DB0B9105B8877
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.003.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(1).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.003.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(1).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+msgctxt ",930D21CA482DAFF01B3DB0B9105B8877"
+msgid "击碎岩石"
+msgstr "岩石を砕く"
+
+#. Key:	2A05595043618E5DB56E59ABBAA062AE
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.004.LogDescription_10_32F75F4343592643E76DC28D283FA682
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.004.LogDescription_10_32F75F4343592643E76DC28D283FA682
+msgctxt ",2A05595043618E5DB56E59ABBAA062AE"
+msgid "按下Tab键打开背包后点击书籍图标后，找到选择<Img id=\"KJ\"/>科技页面解锁加工台"
+msgstr "Tabキーでインベントリを開き、本のアイコンをクリックしてから、<Img id=\"KJ\"/> 科学ページを見つけて選択し、加工台を解放しましょう。"
+
+#. Key:	9B61932C4293917783F8FF92E328F088
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.004.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.004.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+msgctxt ",9B61932C4293917783F8FF92E328F088"
+msgid "初级工作台"
+msgstr "初級作業台"
+
+#. Key:	A3060A9F4C698D1190A5D2A63F71E0DC
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.004.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(0).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.004.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(0).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+msgctxt ",A3060A9F4C698D1190A5D2A63F71E0DC"
+msgid "在科技树中解锁加工台"
+msgstr "技術ツリーで加工テーブルをアンロックする"
+
+#. Key:	66487B9A4529E8BFE657159299BAE41B
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.004.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(1).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(0).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.004.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(1).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(0).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+msgctxt ",66487B9A4529E8BFE657159299BAE41B"
+msgid "制作建造锤"
+msgstr "建築用ハンマーを作る"
+
+#. Key:	CEBCD9DA404E7134F18C4D8581D92998
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.004.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(1).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(1).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.004.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(1).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(1).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+msgctxt ",CEBCD9DA404E7134F18C4D8581D92998"
+msgid "使用建造锤，建造加工台"
+msgstr "建築ハンマーを使って加工台を建設する"
+
+#. Key:	8943A9914CF37C846E231B9E3FCAFF79
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.005.LogDescription_10_32F75F4343592643E76DC28D283FA682
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.005.LogDescription_10_32F75F4343592643E76DC28D283FA682
+msgctxt ",8943A9914CF37C846E231B9E3FCAFF79"
+msgid "按M键打开地图前往矿洞区域或者露天矿场搜集所需资源解锁木炭炉"
+msgstr "Mキーを押してマップを開き、鉱洞エリアまたは露天鉱場へ向かい、必要な資源を集めて木炭炉を解放しましょう。"
+
+#. Key:	11B215C44DB569125C5C25A6719DE0E7
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.005.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.005.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+msgctxt ",11B215C44DB569125C5C25A6719DE0E7"
+msgid "初级冶炼"
+msgstr "初級精錬"
+
+#. Key:	05EEEF464DE6EB667FEEDAAC31A7396D
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.005.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(0).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.005.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(0).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+msgctxt ",05EEEF464DE6EB667FEEDAAC31A7396D"
+msgid "击碎黏土矿石"
+msgstr "粘土鉱石を砕く"
+
+#. Key:	59F4041244DD985D23C1ECB27D0007B9
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.005.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(1).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.005.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(1).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+msgctxt ",59F4041244DD985D23C1ECB27D0007B9"
+msgid "收集黏土"
+msgstr "粘土を集める"
+
+#. Key:	62C9A4C64A8F86C9EDB67096C909B57A
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.005.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(1).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(0).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.005.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(1).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(0).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+msgctxt ",62C9A4C64A8F86C9EDB67096C909B57A"
+msgid "解锁木炭炉"
+msgstr "木炭炉をアンロック"
+
+#. Key:	1C8E65264B0418419676EB968DF43057
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.005.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(1).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(1).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.005.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(1).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(1).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+msgctxt ",1C8E65264B0418419676EB968DF43057"
+msgid "建造木炭炉"
+msgstr "木炭炉を建設する"
+
+#. Key:	756BC48D4620B7176340D98A5914045E
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.006.LogDescription_10_32F75F4343592643E76DC28D283FA682
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.006.LogDescription_10_32F75F4343592643E76DC28D283FA682
+msgctxt ",756BC48D4620B7176340D98A5914045E"
+msgid "[生存提示]：你现在手无寸铁，十分危险。你需要一把能保持安全距离的武器。木矛 (Wooden Spear) 是早期生存的最佳选择。近战优势：它的攻击距离长，可以让你在丧尸抓不到你的距离外进行攻击。投掷功能：它是可投掷的！按住右键瞄准，左键投掷。投掷造成的伤害极高，且能造成硬直，但投掷后需要去捡回它。"
+msgstr "[生存のヒント]：今、君は丸腰で非常に危険な状態だ。安全な距離を保てる武器が必要だ。木製の槍 (Wooden Spear) は初期の生存に最適な選択だ。近接戦の利点：攻撃範囲が長く、ゾンビが届かない距離から攻撃できる。投擲機能：投げることも可能だ！右クリックで狙いを定め、左クリックで投げる。投擲は非常に高いダメージを与え、硬直を引き起こすが、投げた後は回収する必要がある。"
+
+#. Key:	FE63237444F9CD7EECAF40BBF86FF0E8
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.006.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.006.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+msgctxt ",FE63237444F9CD7EECAF40BBF86FF0E8"
+msgid "生存指南：简易木矛"
+msgstr "サバイバルガイド：簡易木製スピア"
+
+#. Key:	54E5BF104902AA90B75EAF8F0D92A9EB
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.006.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(0).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.006.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(0).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+msgctxt ",54E5BF104902AA90B75EAF8F0D92A9EB"
+msgid "制作木矛"
+msgstr "木の槍を作る"
+
+#. Key:	4726E6FE4094B8D86D755288F268B730
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.007.LogDescription_10_32F75F4343592643E76DC28D283FA682
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.007.LogDescription_10_32F75F4343592643E76DC28D283FA682
+msgctxt ",4726E6FE4094B8D86D755288F268B730"
+msgid "[一张沾着血迹的褶皱纸条]“朋友，如果你能读到这就说明你命大。别再盲目流浪了。我在这张纸条旁边的战术地图上给你圈出了一个位置——那是汉克 (Hank) 的贸易站。去那里吧。汉克虽然脾气臭，但他那里有水、有枪，只要你肯干活，就能换到一切。带上地图，照着标记走。祝你好运。”"
+msgstr "[血痕のついたしわくちゃの紙切れ]「友よ、これを読んでいるということは、君は運が良かったということだ。もう無謀にさまようのはやめろ。この紙の横にある戦術マップに位置をマークしておいた——そこはハンク (Hank) の交易所だ。そこへ行け。ハンクは気難しいが、水も武器も揃っている。働く意志さえあれば、何でも手に入るだろう。地図を持って、マークに従って進め。幸運を祈る。」"
+
+#. Key:	98D2BF404F7E058A98A3C38B22B6EED2
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.007.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.007.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+msgctxt ",98D2BF404F7E058A98A3C38B22B6EED2"
+msgid "寻找生机：前往贸易站"
+msgstr "脱出方法を探す：交易所へ向かう"
+
+#. Key:	46BBEFFF4DAAB4DDCB779D90B6BAD631
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.008.LogDescription_10_32F75F4343592643E76DC28D283FA682
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.008.LogDescription_10_32F75F4343592643E76DC28D283FA682
+msgctxt ",46BBEFFF4DAAB4DDCB779D90B6BAD631"
+msgid "如果你想找抗生素、种子，或者是那些复杂的化学配方，你需要去找玛利亚 (Maria)。她经营着一座贸易站。她以前好像是个医生，或者是植物学家？反正她能把死人救活。去和她建立联系吧。在这个世道，认识一个好医生比拥有一把好枪更重要。"
+msgstr "抗生物質、種子、あるいは複雑な化学式を探しているなら、マリアを探してください。彼女は交易所を経営しています。以前は医者だったとか、もしかしたら植物学者だったとか？とにかく、死者を生き返らせることができるんです。彼女と連絡を取ってみてください。この世界では、良い銃を持つことよりも、良い医者を知ることの方が大切です。"
+
+#. Key:	F8E78B2B4980B99AAD2DD6979CA089E4
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.008.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.008.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+msgctxt ",F8E78B2B4980B99AAD2DD6979CA089E4"
+msgid "生命线：联络玛利亚"
+msgstr "ライフライン：マリアと連絡を取る"
+
+#. Key:	A96279E149B46D9B59A0E0A381078722
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.009.LogDescription_10_32F75F4343592643E76DC28D283FA682
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.009.LogDescription_10_32F75F4343592643E76DC28D283FA682
+msgctxt ",A96279E149B46D9B59A0E0A381078722"
+msgid "你还在用木刺陷阱防御基地吗？太原始了。听说过迈克 (Mike) 吗？那个住在垃圾场（或工厂区）的怪人。有人说他把自己的贸易站变成了一个巨大的电网。只要按下一个按钮，就能把方圆百米内的丧尸烤焦。虽然他说话颠三倒四的，但他手上有发电机、陷阱刀片和各种你看不懂的电子元件。如果你想让你的基地进入‘电气时代’，就去找他。"
+msgstr "まだ木のスパイクトラップで基地を守ってるのか？それじゃあ原始的すぎる。マイク（Mike）のことは聞いたことがあるか？あのゴミ捨て場（もしくは工業地帯）に住んでいる変人だ。噂じゃ、あいつは自分の交易所を巨大な電気グリッドに改造したらしい。ボタンひとつで、半径数百メートル以内のゾンビを丸焦げにできるんだとか。あいつの話し方は支離滅裂だが、発電機やトラップブレード、それにお前には理解できないような電子部品をいろいろ持っている。基地を『電気の時代』に進化させたいなら、あいつを探してみろ。"
+
+#. Key:	2C0C96BB4140CA0FCED403A6A406E277
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.009.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.009.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+msgctxt ",2C0C96BB4140CA0FCED403A6A406E277"
+msgid "科技前沿：拜访迈克"
+msgstr "テクノロジー最前線：マイクを訪ねて"
+
+#. Key:	B805B77B44B033415CB602A4FE787143
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.010.LogDescription_10_32F75F4343592643E76DC28D283FA682
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.010.LogDescription_10_32F75F4343592643E76DC28D283FA682
+msgctxt ",B805B77B44B033415CB602A4FE787143"
+msgid "[一段低沉、清晰的加密广播]“收听这条频段的幸存者，注意查看你们的终端。我刚刚上传了一个独立贸易站的坐标信号到你们的地图上。那里的主人叫莎拉 (Sarah)。她是这片废土上最顶尖的猎手，传说她能在两公里外打掉丧尸的脑袋。如果你痴迷于远距离狙杀，或者急需一套轻便的潜行装备，她是唯一能帮你的商人。跟着地图上的标记走就能找到她。但记住一条保命的规矩：接近她营地的时候，闭上嘴，放轻脚步。她讨厌噪音，更讨厌成群结队的蠢货。如果你发出的声音太大，迎接你的就不是商品，而是子弹。”"
+msgstr "[低く明瞭な暗号化された放送]「この周波数を聞いている生存者たち、端末を確認しろ。今、独立交易所の座標信号を地図にアップロードした。そこの主はサラ (Sarah) という名だ。彼女はこの荒れ果てた地で最高のハンターで、2キロ先のゾンビの頭を撃ち抜けると言われている。遠距離狙撃に夢中だったり、軽量な潜入装備が急ぎ必要なら、彼女だけが頼りだ。地図のマークに従えば彼女の場所にたどり着ける。ただし、生き延びるためのルールを一つ覚えておけ：彼女のキャンプに近づくときは、口を閉じ、足音を立てるな。彼女は騒音を嫌い、群れを成した愚か者をさらに嫌う。音を立てすぎれば、迎えるのは商品ではなく弾丸だ。」"
+
+#. Key:	999722444D15755A57A762A954D2C5D5
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.010.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.010.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+msgctxt ",999722444D15755A57A762A954D2C5D5"
+msgid "荒野魅影：拜访莎拉 "
+msgstr "荒野の幻影：サラを訪ねて"
+
+#. Key:	EED926EC4E4C87162CC514BB0A428E24
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.011.LogDescription_10_32F75F4343592643E76DC28D283FA682
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.011.LogDescription_10_32F75F4343592643E76DC28D283FA682
+msgctxt ",EED926EC4E4C87162CC514BB0A428E24"
+msgid "[路边的广告牌 / 广播]：“双腿跑不过丧尸，但 V8 引擎可以。李娜的修车厂 (Li Na's Garage) 现已开业！位于主干道旁的老加油站。我们提供：载具维修、改装套件、还有只要加满油就能跑遍全图的座驾。别再背着几十公斤的石头走路了，那看起来蠢透了。带着你的扳手和白狼币过来，让我们把废铁变成战车。”"
+msgstr "[道路脇の広告看板 / 放送]：「ゾンビより速く走れない？でもV8エンジンなら可能だ。リーナの修理工場 (Li Na's Garage) がついにオープン！幹線道路沿いの古いガソリンスタンドにて営業中。提供サービス：車両修理、改造キット、そして満タンの燃料でマップ全域を走り回れる愛車。数十キロの石を背負って歩くのはもうやめよう。それは見た目も最悪だ。スパナとホワイトウルフコインを持ってきて、廃鉄を戦車に変えよう。」"
+
+#. Key:	93A4ABBB42637A7BC5177CA84A91C5B1
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.011.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.011.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+msgctxt ",93A4ABBB42637A7BC5177CA84A91C5B1"
+msgid "全速前进：拜访李娜"
+msgstr "Full Speed Ahead: Visit Li Na"
+
+#. Key:	DFD5568549C96C343AD791B02BF25FE5
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10000.LogDescription_10_32F75F4343592643E76DC28D283FA682
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10000.LogDescription_10_32F75F4343592643E76DC28D283FA682
+msgctxt ",DFD5568549C96C343AD791B02BF25FE5"
+msgid "他对这些行尸走肉的恨意简直写在了脸上。他说得对，这些东西不仅仅是威胁，它们是这片土地上的瘟疫。为了证明我不是累赘，也为了能从他手里搞到点像样的装备，我得弄脏双手了。不用挑地方，只要是还在动的丧尸就行。干掉 5 个，让他看看我的本事。"
+msgstr "ゾンビへの憎悪は、彼の顔に滲み出ていた。彼の言う通り、ゾンビは単なる脅威ではなく、この地の疫病なのだ。自分が邪魔者ではないことを証明し、彼からまともな装備を手に入れるためには、手を汚すしかなかった。好き嫌いは無用だ。まだ動いているゾンビなら何でもいい。5体でも倒して、自分の実力を見せつけてやる。"
+
+#. Key:	6C0EF39A4AED128A40D8EBB171437ED3
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10000.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10000.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+msgctxt ",6C0EF39A4AED128A40D8EBB171437ED3"
+msgid "清理污秽"
+msgstr "穢れの清掃"
+
+#. Key:	B16FF0E34FA562DBE92D1B8D400BF3E3
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10000.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10000.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+msgctxt ",B16FF0E34FA562DBE92D1B8D400BF3E3"
+msgid "听到了吗？那声音……那种令人作呕的拖步声。那是地狱溢出来的声音。我不在乎它们以前是谁——是邻居、是朋友、甚至是家人。现在？它们只是一堆会行走的烂肉，是这片土地上的脓疮。每一个还在呼吸……或者说还在‘动’的丧尸，都是对我的侮辱。”“你想在这里混下去？你想从我这拿武器？那就证明你不是个软蛋。出去，宰了它们。我不挑食，随便在哪里，随便用什么方法。去杀掉 10 只丧尸，让它们彻底闭嘴。别让我看见你的刀是干净的。"
+msgstr "「聞こえたか？あの音…吐き気を催すような引きずる音。地獄が溢れ出る音だ。以前は誰だったかなんて関係ない。隣人でも、友人でも、家族でも。今は？ただ歩く腐った肉の山、この地に化膿した傷跡だ。まだ息をしているゾンビ…というか、まだ『動いている』ゾンビは、私への侮辱だ」「ここで生き残りたいのか？私に武器を欲しがるのか？なら臆病者じゃない。出て行って殺せ。私は場所も手段も選ばない。ゾンビを10体殺して口を封じろ。ナイフが汚れているのを見せないようにしろ」"
+
+#. Key:	0157938342E25636AFFA7689A5F90D23
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10001.LogDescription_10_32F75F4343592643E76DC28D283FA682
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10001.LogDescription_10_32F75F4343592643E76DC28D283FA682
+msgctxt ",0157938342E25636AFFA7689A5F90D23"
+msgid "他认为我在浪费宝贵的弹药。虽然他说话很难听，但道理没错——在这个资源匮乏的世界，我们必须学会高效杀敌。他要求我瞄准头部，用最少的子弹解决问题。这是成为合格战士的必修课。"
+msgstr "彼は、私が貴重な弾薬を無駄にしていると考えている。口の利き方はきついが、言っていることは正しい――この資源の乏しい世界では、効率よく敵を倒す術を身につけなければならない。彼は、頭を狙い、最小限の弾丸で片をつけろと要求してくる。これは、一人前の戦士になるための必修科目だ。"
+
+#. Key:	730ED8A24948A5C25492359FBC679B5E
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10001.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10001.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+msgctxt ",730ED8A24948A5C25492359FBC679B5E"
+msgid "节省弹药"
+msgstr "弾薬を節約する"
+
+#. Key:	3EFB838E45A8278D99078784EAB3070D
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10001.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(0).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10001.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(0).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+msgctxt ",3EFB838E45A8278D99078784EAB3070D"
+msgid "爆头击杀丧尸"
+msgstr "ヘッドショットでゾンビをキル"
+
+#. Key:	B69621A14A40293ACB983CBDA388293A
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10001.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10001.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+msgctxt ",B69621A14A40293ACB983CBDA388293A"
+msgid "刚才看你开枪的样子，我心都在滴血。你是想用子弹给它们洗澡吗？现在的每一颗子弹都比你的命还值钱！丧尸的弱点在脑袋，只有打烂那团浆糊，它们才会彻底停下。别再像个被吓坏的孩子一样乱扫射了。深呼吸，瞄准，一枪一个。去给我证明你能做到，别浪费我的库存。"
+msgstr "さっきの撃ち方を見てて、こっちの心臓が止まるかと思ったぞ。弾丸でやつらにシャワーでも浴びせたいのか？今の一発一発はお前の命より高いんだ！ゾンビの弱点は頭だ。あのドロドロの塊をぶち壊さない限り、完全には止まらない。怯えたガキみたいに無駄撃ちするのはやめろ。深呼吸して、狙って、一発で仕留めろ。できるってことを証明してこい。俺の在庫を無駄にするな。"
+
+#. Key:	DF6CA71B419620C0F846728D10C02936
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10002.LogDescription_10_32F75F4343592643E76DC28D283FA682
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10002.LogDescription_10_32F75F4343592643E76DC28D283FA682
+msgctxt ",DF6CA71B419620C0F846728D10C02936"
+msgid "汉克警告说弹药迟早会耗尽。为了在那一天到来时还能活下去，我必须掌握近身格斗的技巧。这极其危险，需要在丧尸的利爪边缘游走。他要求我仅使用木矛击杀丧尸，这是对勇气和反应速度的双重考验。"
+msgstr "ハンクは、弾薬はいずれ必ず尽きると警告していた。その日が来ても生き延びるためには、近接戦闘の技術を身につけなければならない。これは極めて危険で、ゾンビの爪先をかすめるような戦いになる。彼は、木の槍だけを使ってゾンビを倒すよう俺に要求した。これは勇気と反応速度の両方が試される課題だ。"
+
+#. Key:	B9AFC2194CD46D5704624C8EB9DAD496
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10002.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10002.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+msgctxt ",B9AFC2194CD46D5704624C8EB9DAD496"
+msgid "刀尖起舞"
+msgstr "刃の上の舞踏"
+
+#. Key:	7BA4D4104EEFD0BFA29C058E92FE9172
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10002.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(0).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10002.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(0).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+msgctxt ",7BA4D4104EEFD0BFA29C058E92FE9172"
+msgid "使用木矛击杀丧尸"
+msgstr "木の槍でゾンビを倒す"
+
+#. Key:	86F8B6F846E81080AD68F1BC804D6A61
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10002.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10002.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+msgctxt ",86F8B6F846E81080AD68F1BC804D6A61"
+msgid "你会开枪了，这很好。但子弹总有打光的时候，那时候你怎么办？哭着喊妈妈吗？真正的生存者必须学会用手里的冷兵器解决问题。去，找几只落单的丧尸，别用枪，用木矛干掉它们。记住，打一下就跑，别贪刀，控制好距离。如果你被抓伤了，别回来传染给我们。"
+msgstr "撃てるようになったのはいいことだ。でも、弾は必ず尽きる。そんな時はどうすればいい？泣き叫んで母親を呼ぶ？真のサバイバーは、近接武器で問題を解決する術を学ばなければならない。孤独なゾンビを数体見つけて、銃は使わず木の槍で倒せ。一度撃ったら逃げろ。欲張らず、十分な距離を保つこと。もし傷ついたとしても、戻ってきて私たちに感染させないように。"
+
+#. Key:	7FD4C96240AC57C558937DBFCB2EC782
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10003.LogDescription_10_32F75F4343592643E76DC28D283FA682
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10003.LogDescription_10_32F75F4343592643E76DC28D283FA682
+msgctxt ",7FD4C96240AC57C558937DBFCB2EC782"
+msgid "营地周围出现了一种危险的变异体——“毒爆者”（绿色爆炸丧尸）。它们体内充满易爆的酸性液体，近战极其致命，而枪声又容易引发连锁反应。Hank 建议使用弓箭进行远程、无声的清除。这是一次对潜行和精准度的终极考验。"
+msgstr "キャンプの周囲に危険な変異体――「毒爆者」（緑色に爆発するゾンビ）が現れた。やつらの体内は爆発性の酸性液体で満たされており、近接戦では極めて致命的だ。さらに銃声は連鎖爆発を引き起こしやすい。Hank は、弓矢を使った遠距離かつ無音の排除を提案している。これはステルスと精密さが究極的に試される任務だ。"
+
+#. Key:	C99B80A24B733969FCA8F99EC2D24A41
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10003.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10003.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+msgctxt ",C99B80A24B733969FCA8F99EC2D24A41"
+msgid "静默处理"
+msgstr "静かに処理する"
+
+#. Key:	005E98AF4506197F0FC72FB1A3830A76
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10003.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(0).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10003.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(0).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+msgctxt ",005E98AF4506197F0FC72FB1A3830A76"
+msgid "使用弓箭击杀毒爆者"
+msgstr "弓矢でブーマーを倒す"
+
+#. Key:	2FCFC4EA442911B077308BB3028CA666
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10003.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10003.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+msgctxt ",2FCFC4EA442911B077308BB3028CA666"
+msgid "你见过那种皮肤发绿、肿得像气球一样的家伙吗？那是‘毒爆者’。如果你蠢到用刀去砍它，或者用枪近距离轰它，溅出来的毒酸能把你那张脸融化掉。而且枪声会引来更多麻烦。这种时候，就要用老派的方法。弓箭。安静、致命，而且能让你保持安全距离。我要你去找几只这种绿皮怪物，用弓箭把它们射爆。别弄出动静，别弄脏自己。"
+msgstr "緑色の肌をした、風船のように膨らんだ生き物を見たことがありますか？あれは「ベイン・エクスプローダー」です。もしあなたが愚かにもナイフで切りつけたり、至近距離から撃ったりしたら、飛び散る酸で顔が溶けてしまいます。銃撃はさらなる厄介事を招くだけです。こういう状況では、昔ながらの方法、弓矢が必要です。静かで、威力も高く、安全な距離を保つことができます。この緑色の肌のモンスターを数匹見つけて、弓矢で全部撃ち殺してください。音を立てないように、そして汚れないように。"
+
+#. Key:	301914C34E985B5150F18AA4778A11B5
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10004.LogDescription_10_32F75F4343592643E76DC28D283FA682
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10004.LogDescription_10_32F75F4343592643E76DC28D283FA682
+msgctxt ",301914C34E985B5150F18AA4778A11B5"
+msgid "Hank 想要测试金属弓对护甲目标的杀伤力。普通丧尸已经构不成威胁，现在的目标是那些装备了防弹衣或头盔的前军事人员感染者。使用金属弓击穿它们的防御。作为回报，Hank 承诺会分享一种能轻易贯穿凯夫拉纤维的“穿甲箭”蓝图。"
+msgstr "Hank は金属弓が装甲目標に対してどれほどの殺傷力を持つかをテストしたいと考えている。通常のゾンビはもはや脅威ではなく、現在のターゲットは防弾チョッキやヘルメットを装備した元軍事関係者の感染者だ。金属弓を使用して彼らの防御を貫通することが求められる。報酬として、Hank はケブラー繊維を簡単に貫通できる“徹甲矢”の設計図を共有すると約束している。"
+
+#. Key:	DDD9999849218527A1F67D88BFD483D2
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10004.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10004.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+msgctxt ",DDD9999849218527A1F67D88BFD483D2"
+msgid "穿透测试"
+msgstr "貫通テスト"
+
+#. Key:	6018FB504C2D6652619B228D0DA8F7AA
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10004.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(0).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10004.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(0).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+msgctxt ",6018FB504C2D6652619B228D0DA8F7AA"
+msgid "击杀武装丧尸 "
+msgstr "武装ゾンビをキルする"
+
+#. Key:	34E1922B46C20970B5F1A9BB25FB644A
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10004.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10004.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+msgctxt ",34E1922B46C20970B5F1A9BB25FB644A"
+msgid "既然你手里有了那把金属弓，那我们就来试试它的极限。看到那些以前是警察或者士兵变成的丧尸了吗？它们身上还穿着防弹背心，戴着头盔。普通的木箭射上去就像在挠痒痒。但金属弓的磅数够大，只要距离合适，应该能射穿它们。拿着你的新玩具，去干掉几个穿着防具的丧尸。如果你能证明这把弓的威力，我就教你一种特殊的箭头制作方法——穿甲箭。那是专门为了把罐头撬开而设计的。"
+msgstr "もうその金属製の弓を手に入れたんだから、その限界を試してみようか。あそこに、元は警官や兵士だったゾンビが見えるだろ？まだ防弾チョッキを着てヘルメットをかぶっているやつらだ。普通の木の矢じゃ、当ててもくすぐったい程度にしかならない。でも金属弓はポンド数が十分に高いから、距離さえよければ貫通できるはずだ。その新しいおもちゃを持って、防具を着たゾンビを何体か仕留めてこい。この弓の威力を証明してみせたら、特別な矢じりの作り方――徹甲矢の作り方を教えてやる。それは、缶詰をこじ開けるためだけに設計された代物だ。"
+
+#. Key:	3B42B62A46D0B56B918740A26D10CFD4
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10005.LogDescription_10_32F75F4343592643E76DC28D283FA682
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10005.LogDescription_10_32F75F4343592643E76DC28D283FA682
+msgctxt ",3B42B62A46D0B56B918740A26D10CFD4"
+msgid "Hank 介绍了一种重型工具——大锤。虽然它的杀伤力不如利刃，但其巨大的冲击力能轻易击倒成群的丧尸，为逃脱或补刀创造机会。更重要的是，大锤是暴力的开锁器。Hank 提示我利用大锤的冲击力去开启那些被封锁的道路。"
+msgstr "Hank は重工具であるハンマーを紹介した。この武器は刃物ほどの殺傷力はないが、その巨大な衝撃力でゾンビの群れを簡単に倒し、逃げる機会や追撃のチャンスを作り出すことができる。さらに重要なのは、ハンマーが暴力的な鍵開けツールであることだ。Hank はハンマーの衝撃力を使って封鎖された道を開くように提案してきた。"
+
+#. Key:	A79334A74D68BF819D62BBBF5F62B21B
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10005.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10005.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+msgctxt ",A79334A74D68BF819D62BBBF5F62B21B"
+msgid "破门而入"
+msgstr "ドアを破る"
+
+#. Key:	6BE77EA247E5ADDFF482E8AB9F21FE18
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10005.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(0).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10005.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(0).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+msgctxt ",6BE77EA247E5ADDFF482E8AB9F21FE18"
+msgid "使用大锤击杀丧尸"
+msgstr "大槌を使ってゾンビをキルする"
+
+#. Key:	9F2FADE748CEEABFBD1218ACDF11A5DE
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10005.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10005.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+msgctxt ",9F2FADE748CEEABFBD1218ACDF11A5DE"
+msgid "有时候，潜行和弓箭解决不了所有问题。当那扇该死的门锁死，或者一大群行尸走肉把路堵死的时候，你需要一点‘重型说服力’。使用大锤。它沉得像块墓碑，挥起来慢得要命，而且很难直接把头骨砸碎。但它有一点好处：只要挨上一锤，没东西能站得稳。去附近的镇子上，找几扇锁着的门给我砸开，搜刮里面的东西。如果遇到挡路的丧尸，用锤子教教它们什么叫‘躺下’。别指望一击必杀，把它们砸倒就够了。"
+msgstr "ときには、ステルスや弓矢だけじゃどうにもならないことがある。クソッたれなドアに鍵をかけられていたり、大群のゾンビに道をふさがれたりしたときは、“重い説得力”が必要になる。大槌を使え。墓石みたいに重くて、振りは遅いし、頭蓋骨を一撃で砕くのも難しい。だが一つだけ利点がある。一発でも食らえば、何もかも立っていられなくなる。近くの町に行って、鍵のかかったドアを何枚かぶち破って中をあさってこい。道をふさいでいるゾンビがいたら、そのハンマーで“寝ろ”って教えてやれ。一撃必殺は期待するな。倒して地面に転がせればそれで十分だ。"
+
+#. Key:	96275AD6424EAF966B5C0294BFA53599
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10006.LogDescription_10_32F75F4343592643E76DC28D283FA682
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10006.LogDescription_10_32F75F4343592643E76DC28D283FA682
+msgctxt ",96275AD6424EAF966B5C0294BFA53599"
+msgid "Hank 交给我一把寒光闪闪的钢制双手刀。这种武器重心完美，刃口极其锋利，专为肢解而生。比起大锤的钝击，长刀能更高效地造成致命创伤。Hank 似乎对这种暴力的美学情有独钟，他要求我利用这把武器的高断肢率来“清理”丧尸。"
+msgstr "Hank は私に寒光を放つ鋼製の両手剣を渡した。この武器は重心が完璧で、刃が非常に鋭く、解体のために作られている。ハンマーの鈍い衝撃よりも、長刀は致命的な傷を効率的に与えることができる。Hank はこの暴力的な美学に特別な愛着を持っているようで、この武器の高い断肢率を利用してゾンビを“掃除”するよう求めてきた。"
+
+#. Key:	59E0DC2847A89D4B3CCE7180414E9F71
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10006.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10006.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+msgctxt ",59E0DC2847A89D4B3CCE7180414E9F71"
+msgid "收割者"
+msgstr "リーパー"
+
+#. Key:	EEDBCF8B43D72FDC7C6AB998D85C1097
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10006.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(0).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10006.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(0).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+msgctxt ",EEDBCF8B43D72FDC7C6AB998D85C1097"
+msgid "使用钢双手刀击杀丧尸"
+msgstr "鋼の両手剣でゾンビを倒す"
+
+#. Key:	73B2D46245455F1980E604825F46188F
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10006.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10006.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+msgctxt ",73B2D46245455F1980E604825F46188F"
+msgid "大锤适合砸门，但如果你想快速清理掉一群围上来的烂肉，你需要的是锋利度。极致的锋利度。这把钢制双手长刀是我最得意的收藏之一。它不是用来刺的，是用来挥砍的。只要角度对，它能像切黄油一样切断骨头。去试刀吧。别只是杀死它们，我要你把它们大卸八块。砍断它们的手臂，或者直接让它们的脑袋搬家。让这片土地见识一下什么叫真正的‘收割’。"
+msgstr "スレッジハンマーは扉を壊すのには便利だが、群がる肉食獣の大群を素早く一掃するには、鋭い切れ味が必要だ。とてつもない鋭さだ。この鋼鉄の両手剣は、私の誇り高き所有物の一つだ。突き刺すためではなく、斬りつけるためだ。正しい角度で突き刺せば、骨さえもバターのように切り裂く。試してみてくれ。殺すだけでなく、バラバラにしてほしい。腕を切り落とすか、首をはねるか。真の「収穫」とはどういうものか、この地に示してみせろ。"
+
+#. Key:	28C62BD74C96FEAECB39CAB382D4EA98
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10007.LogDescription_10_32F75F4343592643E76DC28D283FA682
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10007.LogDescription_10_32F75F4343592643E76DC28D283FA682
+msgctxt ",28C62BD74C96FEAECB39CAB382D4EA98"
+msgid "Hank 注意到了我手中的 G18C 手枪。这种武器以极高的射速著称，既是救命稻草也是弹药黑洞。Hank 挑战我使用这把武器进行实战，以测试我对后坐力的控制能力。如果我能证明自己，他承诺会用一把重型火力——霰弹枪来交换。"
+msgstr "Hank は私が持っているG18Cピストルに注目した。この武器は非常に高い射速で知られており、命を救う道具であると同時に弾薬の消耗が激しい。Hank はこの武器を使用して実戦を行い、反動制御能力をテストするよう挑戦してきた。もし私が自分を証明できれば、彼は重火力のショットガンと交換すると約束している。"
+
+#. Key:	2DFD2F244FF265AE0CEDD4B5AAFE7745
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10007.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10007.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+msgctxt ",2DFD2F244FF265AE0CEDD4B5AAFE7745"
+msgid "喷吐火舌"
+msgstr "火を吐く"
+
+#. Key:	CFF7E7744A0C8E3F813691901AD680CC
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10007.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(0).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10007.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(0).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+msgctxt ",CFF7E7744A0C8E3F813691901AD680CC"
+msgid "使用 18C 击杀丧尸"
+msgstr "18Cを使ってゾンビをキルする"
+
+#. Key:	1DFB6CA44E56794839E65A8DCE33E6B3
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10007.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10007.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+msgctxt ",1DFB6CA44E56794839E65A8DCE33E6B3"
+msgid "我看你捡到了一把小巧的18C 全自动手枪？那可是个暴躁的小野兽。大多数人拿它就像拿着一根滋水枪，只会对着天空乱射。我要看看你能不把它驾驭住。去，用它的全自动模式清理一波丧尸。记住，控制你的扳机，别两秒钟就把弹夹打空了还什么都没打中。完事后把枪给我，如果你表现得好，我就给你一把更适合成年人的‘扫帚’——一把能把它们轰成渣的霰弹枪。"
+msgstr "18Cフルオートピストルを見つけたようだな？ 獰猛な小悪魔だ。大抵の人は水鉄砲みたいに、空中に無差別に噴射するだけだ。君が扱えるか試してみたい。さあ、フルオートモードでゾンビの群れを一掃しよう。トリガーをしっかりコントロールすること。2秒以内にマガジンを空にし、何も撃たないうちに撃ち尽くすようなことはしないように。終わったら銃を渡してくれ。行儀よくしていれば、もっと大人向けの「ほうき」をあげる。ゾンビを粉々に吹き飛ばせるショットガンだ。"
+
+#. Key:	F2B67B4F46F06939CEE247A1708DB9CD
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10008.LogDescription_10_32F75F4343592643E76DC28D283FA682
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10008.LogDescription_10_32F75F4343592643E76DC28D283FA682
+msgctxt ",F2B67B4F46F06939CEE247A1708DB9CD"
+msgid "等等，如果你眼睛没瞎的话，应该能在那些幸存者营地或者体育用品店的废墟里找到些好东西。比如……工业级的金属复合弓。那可是好货色，滑轮结构能让你省不少力气。如果你能找到一把完整的带回来给我，我就能把它拆开，研究透它的结构，然后教你怎么用那些破铜烂铁自己造一把。听懂了吗？我要实物。去翻箱倒柜吧，运气也是实力的一部分。"
+msgstr "いいか、目が節穴じゃなけりゃ、生存者キャンプとかスポーツ用品店の廃墟で、何かいいモンが見つかるはずだ。たとえば……業務用の金属コンパウンドボウとかよ。あれは上物だ。カム構造のおかげで、かなり力を節約できる。もし状態のいいやつを丸ごと一丁見つけて持ってきてくれりゃ、俺が分解して構造を研究してやる。そのうえで、お前にガラクタから自分で一張り作る方法を教えてやるよ。分かったか？　俺が欲しいのは現物だ。片っ端からあさってこい。運も実力のうちだぞ。"
+
+#. Key:	261F46AA4DB1713B4F7D16AE437C6536
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10008.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10008.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+msgctxt ",261F46AA4DB1713B4F7D16AE437C6536"
+msgid "逆向工程"
+msgstr "リバースエンジニアリング"
+
+#. Key:	8C7E218144AC9099A12BE48BC6167022
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10008.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(0).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10008.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(0).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+msgctxt ",8C7E218144AC9099A12BE48BC6167022"
+msgid "提交今属弓"
+msgstr "今属弓を納品する"
+
+#. Key:	AC4755344854CBC74196B4BB95382CF2
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10008.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10008.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+msgctxt ",AC4755344854CBC74196B4BB95382CF2"
+msgid "Hank 提到了一种强力的远程武器——金属复合弓，这种工业产品通常散落在世界的某些角落。他承诺，只要我能找到一把成品并交给他进行拆解研究，他就会将制作蓝图传授给我。这笔交易很划算，虽然失去了一把现成的武器，但我将获得量产它的能力。"
+msgstr "Hank は強力な遠距離武器である金属複合弓について言及した。この工業製品は通常、世界のどこかに散らばっている。彼は、完成品を見つけて彼に渡し、分解研究を行えば、その製作設計図を教えてくれると約束している。この取引は非常にお得だ。完成した武器を失う代わりに、それを量産する能力を得ることができる。"
+
+#. Key:	09CDC74F4BC05C1BEF0E24A77A92449D
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10009.LogDescription_10_32F75F4343592643E76DC28D283FA682
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10009.LogDescription_10_32F75F4343592643E76DC28D283FA682
+msgctxt ",09CDC74F4BC05C1BEF0E24A77A92449D"
+msgid "Hank 拒绝直接提供武器。他要求我独自在世界中搜寻一把 SKS 步枪。这通常需要搜索军事区域或狩猎点。获得步枪后，我还需要证明自己的枪法——完成 20 次精准的爆头击杀。作为回报，Hank 承诺开放他的军用配件库。"
+msgstr "Hank は武器を直接提供することを拒否している。彼は私に世界中でSKSライフルを探すよう要求してきた。これは通常、軍事区域や狩猟ポイントを探索する必要がある。ライフルを入手した後、さらに自分の射撃技術を証明する必要がある——20回の正確なヘッドショットを達成することだ。報酬として、Hank は彼の軍用アクセサリー庫を開放すると約束している。"
+
+#. Key:	E712DF1C48F6C1B750E9F781120938AE
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10009.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10009.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+msgctxt ",E712DF1C48F6C1B750E9F781120938AE"
+msgid "老派作风"
+msgstr "昔ながらのやり方"
+
+#. Key:	7A02BC7648C9E6C43C822CB5A8833514
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10009.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(0).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10009.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(0).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+msgctxt ",7A02BC7648C9E6C43C822CB5A8833514"
+msgid "使用SKS爆头击杀丧尸"
+msgstr "SKSでヘッドショットしてゾンビをキルする"
+
+#. Key:	090D4BFD4B1744EFCEE8F8B238D02658
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10009.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10009.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+msgctxt ",090D4BFD4B1744EFCEE8F8B238D02658"
+msgid "你一直盯着我架子上那些瞄准镜和消音器看，口水都快流下来了。想要吗？听着，我不是慈善家。要想给枪装上这些好东西，你得先证明你会用枪。我要你去找一把经典的SKS 半自动步枪。别问我借，我不会给你的。去翻翻那些猎人的小木屋，或者去被洗劫过的军营碰碰运气。找到之后，别急着回来。用它干掉 20 个丧尸，必须是爆头。只有当你能用那该死的机械瞄具打准了，才有资格用我的瞄准镜。去吧，自己动手，丰衣足食。"
+msgstr "棚のスコープとサプレッサーを、よだれを垂らしながら見つめていただろう？欲しいか？いいか、俺は慈善家じゃないんだ。銃にこんな素敵なものを付けるには、まず使い方を知っていることを証明しなければならない。クラシックなSKSセミオートライフルを見つけてくれ。貸してくれなんて言わないでくれ。貸してやるからな。ハンターの小屋を探すか、荒らされた軍のキャンプで運試しをしてくれ。見つけたら、慌てて戻るな。それでゾンビ20体倒せ。ヘッドショットでもね。あの忌々しいアイアンサイトで命中させて初めて、俺のスコープを使う資格が与えられる。さあ、自分でやれ。そうすれば、たくさん手に入るぞ。"
+
+#. Key:	283FD2A7403E34E3C0145FA885F42CCD
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10010.LogDescription_10_32F75F4343592643E76DC28D283FA682
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10010.LogDescription_10_32F75F4343592643E76DC28D283FA682
+msgctxt ",283FD2A7403E34E3C0145FA885F42CCD"
+msgid "Hank 对营地周边不断增加的丧尸威胁感到厌烦。他发布了一个简单的悬赏：清除 50 只丧尸。没有任何战术限制，可以使用任何手段。作为报酬，他提供了一箱混合弹药，足以补充战斗的消耗。"
+msgstr "Hank はキャンプ周辺で増え続けるゾンビの脅威にうんざりしている。彼は簡単な懸賞を発表した：ゾンビ50体を掃除することだ。戦術的な制限はなく、どんな手段でも使用可能だ。報酬として、戦闘の消耗を補充するのに十分な混合弾薬の箱を提供してくれる。"
+
+#. Key:	D81583204E92CF80C2431E9CD5C282E5
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10010.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10010.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+msgctxt ",D81583204E92CF80C2431E9CD5C282E5"
+msgid "清理门户(1)"
+msgstr "身内の粛清(1)"
+
+#. Key:	5688DC4E4FB00F4E0D8B2C84C7B14C1F
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10010.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10010.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+msgctxt ",5688DC4E4FB00F4E0D8B2C84C7B14C1F"
+msgid "你已经学会了怎么用弓、怎么挥锤子、怎么打冷枪。现在，别那么多废话了，干点正事吧。营地周围的死人越来越多了，那股尸臭味熏得我睡不着觉。我要你出去，给这片区域来个大扫除。不管你用什么——枪、刀、甚至是牙齿咬——我不在此乎。只要让它们死透就行。杀掉 50 个，我就把我的私人弹药储备分你一点。这笔交易很公平，对吧？用你的子弹换我的子弹，前提是你得打得准。"
+msgstr "弓の使い方、ハンマーの振り方、そして狙撃の仕方を学んだ。さて、話はこれくらいにして、本題に入りましょう。キャンプの周囲には死体がどんどん増えてきていて、悪臭で眠れない。ここを徹底的に掃除してほしい。銃でもナイフでも、歯でも何でも構わない。とにかく、確実に死なせてくれ。50体仕留めたら、私の弾薬を少し分けてあげよう。公平な取引だろう？ちゃんと狙いを定められるなら、弾は私の分だ。"
+
+#. Key:	DB4486F3455D59DDE244D6889EC6E1A9
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10011.LogDescription_10_32F75F4343592643E76DC28D283FA682
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10011.LogDescription_10_32F75F4343592643E76DC28D283FA682
+msgctxt ",DB4486F3455D59DDE244D6889EC6E1A9"
+msgid "威胁等级提升。Hank 监测到大规模的丧尸活动，普通的清理已经不够了。他要求进行一次大规模的清洗行动：消灭 100 只丧尸。这是一场持久战，建议携带充足的补给。完成任务将获得极其丰厚的弹药补给，包括一些稀有的军用弹药。"
+msgstr "脅威レベルが上昇した。Hank は大規模なゾンビの活動を感知しており、通常の掃討ではもはや対処できない。彼は大規模な殲滅作戦を要求している：ゾンビを100体排除せよ。これは長期戦になるため、十分な物資を携行することを推奨する。任務を完了すれば、非常に豊富な弾薬補給が得られ、その中には希少な軍用弾薬も含まれている。"
+
+#. Key:	7D3174F54EC71BAAC231CB9A1E4AB62B
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10011.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10011.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+msgctxt ",7D3174F54EC71BAAC231CB9A1E4AB62B"
+msgid "清理门户(2)"
+msgstr "身内の粛清(2)"
+
+#. Key:	0B99A7D640590E05E08890B0E2EC29B9
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10011.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10011.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+msgctxt ",0B99A7D640590E05E08890B0E2EC29B9"
+msgid "如果你觉得杀 50 个只是热身，那好极了，因为麻烦找上门了。侦察兵报告说，一大波行尸走肉正在集结。如果不处理掉它们，我们很快就会被淹没。我要你出去，给它们来一场‘大清洗’。目标是 100 只。我知道这听起来很多，但如果你用对了方法——利用陷阱、燃烧弹，或者把它们堵在狭窄的走廊里——它们就是排着队等你收割的庄稼。只要你能把这个威胁消除，我就把军火库的大门为你敞开。成箱的子弹，甚至还有些穿甲的好货。只要你还有命回来拿。"
+msgstr "50体倒すのがウォーミングアップに過ぎないと思っているなら、結構だ。問題はこれからだ。偵察隊からゾンビの大群が集まっているという報告を受けた。対処しなければ、すぐに圧倒されてしまう。君に「浄化」作戦を依頼する。目標は100体だ。多いように聞こえるかもしれないが、罠や焼夷弾を使ったり、狭い通路に追い詰めたりといった正しい方法で実行すれば、収穫は十分にある。この脅威を排除できれば、武器庫の扉を開けてやる。弾丸の箱、さらには優秀な徹甲弾も用意してやる。生きて帰ってくればの話だが。"
+
+#. Key:	5BD96D1048B62418AE40D48CD8CFFD30
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10012.LogDescription_10_32F75F4343592643E76DC28D283FA682
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10012.LogDescription_10_32F75F4343592643E76DC28D283FA682
+msgctxt ",5BD96D1048B62418AE40D48CD8CFFD30"
+msgid "Hank 发布了最高级别的清理指令：消灭 300 只丧尸。这是一个惊人的数字，建议使用爆炸物、燃烧弹或载具来提高效率。如果只靠手中的步枪，这将会是一场漫长的噩梦。完成任务将获得极其庞大的弹药储备。"
+msgstr "Hank は最高レベルの掃討指令を発表した：ゾンビ300体を殲滅することだ。これは驚くべき数字であり、爆発物、燃焼弾、または車両を使用して効率を上げることを推奨している。手持ちのライフルだけでは、これは長い悪夢となるだろう。任務を完了すれば、非常に大量の弾薬備蓄が得られる。"
+
+#. Key:	F2BED2D0445658654CCE19935A37466D
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10012.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10012.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+msgctxt ",F2BED2D0445658654CCE19935A37466D"
+msgid "清理门户(3)：焦土政策"
+msgstr "身内の粛清(3)：焦土作戦"
+
+#. Key:	1B2B622F431A69B3B4E94EA746B48D07
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10012.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10012.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+msgctxt ",1B2B622F431A69B3B4E94EA746B48D07"
+msgid "我们要实行‘焦土政策’。出去，把它们全部干掉。别省子弹，别省炸药。我要看到尸体堆成山，我要看到地面被血染红。杀够 300 只，我会把压箱底的军火补给箱给你。那里面装的子弹够你打一场小型战争的。”"
+msgstr "焦土作戦を実行する。出撃して皆殺しにしろ。弾も爆薬も惜しむな。死体の山が見たい、血で赤く染まった地面が見たい。300人を殺せば、私の一番の宝物である弾薬箱を差し上げよう。小規模な戦争には十分な弾薬が詰まっている。"
+
+#. Key:	96EF125A435F971E782831AB808863FC
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10013.LogDescription_10_32F75F4343592643E76DC28D283FA682
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10013.LogDescription_10_32F75F4343592643E76DC28D283FA682
+msgctxt ",96EF125A435F971E782831AB808863FC"
+msgid "Hank 警告了一种名为“毒爆者”的特殊变异体。它们体内充满了易爆的毒液。Hank 要求我利用远程武器安全地引爆 10 只毒爆者。这种怪物死亡时会发生剧烈爆炸并释放毒气，绝对禁止近身肉搏。"
+msgstr "Hank は“毒爆者”と呼ばれる特殊な変異体について警告してきた。彼らの体内には爆発性の毒液が満ちている。Hank は遠距離武器を使用して安全に毒爆者10体を爆破するよう求めてきた。この怪物は死亡時に激しい爆発を起こし、毒ガスを放出するため、近接戦闘は絶対に禁止されている。"
+
+#. Key:	09BAA0D344B7B226882F219852B6C205
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10013.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10013.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+msgctxt ",09BAA0D344B7B226882F219852B6C205"
+msgid "危险品处置"
+msgstr "危険物廃棄"
+
+#. Key:	3ED999984A768D9C83335FA25FCA8ECB
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10013.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(0).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10013.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(0).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+msgctxt ",3ED999984A768D9C83335FA25FCA8ECB"
+msgid "击杀毒爆者"
+msgstr "毒爆者をキルする"
+
+#. Key:	614B9D8C4FCB1B2ED653329CDADB75B4
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10013.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10013.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+msgctxt ",614B9D8C4FCB1B2ED653329CDADB75B4"
+msgid "这附近多了一些恶心的东西。你见过它们吗？那些肿胀得像气球一样的怪物。它们肚子里装满了致命的毒气和酸液。如果你像个傻瓜一样拿着刀冲上去砍，那是自寻死路。你会先被炸飞，然后肺部被腐蚀干净。听好了，这既是威胁也是机会。如果你能在它们靠近之前，从远处射爆它们，它们就会变成一颗人体炸弹，顺便带走周围的一圈丧尸。帮我清理掉 10 只毒爆者。记住，保持距离，打准点。为了你的肺着想。"
+msgstr "この辺りには気持ち悪いものがいる。見たことあるか？ 風船のように膨らんだ怪物どもだ。腹には猛毒ガスと酸が詰まっている。馬鹿なことをしてナイフを持って突進すれば、命を落とすことになる。まず吹き飛ばされ、肺が腐食してきれいになる。いいか、これは脅威であると同時に好機でもある。奴らが近づく前に遠くから撃つことができれば、奴らは人間爆弾となり、ゾンビの群れを一掃するだろう。このブラスター10発を片付けるのを手伝ってくれ。距離を保ち、慎重に狙うことを忘れずに。肺のためにもな。"
+
+#. Key:	EA92C119420A35F01D396A88D9114C15
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10014.LogDescription_10_32F75F4343592643E76DC28D283FA682
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10014.LogDescription_10_32F75F4343592643E76DC28D283FA682
+msgctxt ",EA92C119420A35F01D396A88D9114C15"
+msgid "出现了一种极度危险的红色毒爆者变种。这种怪物的爆炸对建筑结构具有毁灭性的破坏力。它是基地防御的首要威胁。Hank 要求我主动猎杀这些怪物，并在它们接触防御工事前将其引爆。保护基地完整性是第一要务。"
+msgstr "極めて危険な赤い毒爆者の変異種が現れた。この怪物の爆発は建造物の構造に壊滅的なダメージを与える。基地防衛における最優先の脅威だ。Hank は、こいつらが防御施設に接触する前に起爆させるため、積極的に狩りに出るように求めている。基地の完全性を守ることが最重要任務だ。"
+
+#. Key:	75220B584CDBBA0BE19D8783B7AE7155
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10014.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10014.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+msgctxt ",75220B584CDBBA0BE19D8783B7AE7155"
+msgid "红色警报：拆迁队"
+msgstr "レッドアラート：解体チーム"
+
+#. Key:	15244ABC4E52971C92F4FAB5279822FD
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10014.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10014.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+msgctxt ",15244ABC4E52971C92F4FAB5279822FD"
+msgid "如果你以为之前那些绿色的胖子很糟糕，那你得看看这个新变种。我们叫它**‘红魔’，或者‘拆迁办’**。它们全身通红，像是在警告你它有多不稳定。这种东西爆炸时的威力……简直就像是行走的 C4 炸药。昨天我亲眼看到一只红色的毒爆者炸塌了一整面加固的混凝土墙。如果你不想半夜醒来发现你的屋顶塌在脸上，就必须在它们靠近你的基地之前截住它们。只要看到红色的，立刻干掉它，离你的墙越远越好。"
+msgstr "あの緑のデブ野郎どもがもう十分ヤバいと思ったら、この新しい亜種をチェックしてみてください。私たちはこれを**「レッドデビル」、あるいは「デモリッションカンパニー」と呼んでいます。全身真っ赤で、まるでその不安定さを警告しているかのようです。その爆発力は…まるでC4を歩くようなものです。昨日、私は赤いバネリングが鉄筋コンクリートの壁を丸ごと吹き飛ばすのを目撃しました。真夜中に屋根が崩れ落ちているのを発見したくなかったら、拠点に近づく前に迎撃しなければなりません。赤いバネリングを見つけたらすぐに排除し、壁からできるだけ離れましょう。"
+
+#. Key:	E7363D4745F7580C1286779C8C823269
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10015.LogDescription_10_32F75F4343592643E76DC28D283FA682
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10015.LogDescription_10_32F75F4343592643E76DC28D283FA682
+msgctxt ",E7363D4745F7580C1286779C8C823269"
+msgid "出现了一种能够进行远程攻击的变异体“血尸”。它们喷吐的酸液具有极强的腐蚀性，能迅速破坏护甲并造成持续伤害。Hank 建议在移动中进行战斗，并利用掩体规避其抛物线攻击。消灭 10 只血尸以遏制这种威胁。"
+msgstr "遠距離攻撃が可能な変異体「血屍」が出現した。やつらが吐き出す酸液は極めて強い腐食性を持ち、装甲を素早く破壊し、継続的なダメージを与える。Hank は、移動しながら戦い、遮蔽物を利用してその放物線軌道の攻撃を回避するよう助言している。この脅威を抑えるため、血屍を10体排除しろ。"
+
+#. Key:	EA70B2CA4A848A11E8A155A0491C589F
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10015.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10015.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+msgctxt ",EA70B2CA4A848A11E8A155A0491C589F"
+msgid "酸液清洗"
+msgstr "酸洗浄"
+
+#. Key:	EECA32AD4CCD0EABAF34569EA246EA29
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10015.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(0).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10015.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(0).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+msgctxt ",EECA32AD4CCD0EABAF34569EA246EA29"
+msgid "击杀 喷吐血尸"
+msgstr "血屍をキルする"
+
+#. Key:	AE0EEAC348416B8977A2E6BEAE051DE8
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10015.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10015.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+msgctxt ",AE0EEAC348416B8977A2E6BEAE051DE8"
+msgid "你有没有闻到那股像是陈醋混合了烂肉的味道？那是血尸。这些该死的东西进化出了远程攻击的能力。它们会从喉咙里咳出一团强腐蚀性的酸液，直接喷到你脸上。我见过一个倒霉蛋，被喷中后，他的战术背心融化得跟黄油一样。别以为站在屋顶上就安全了，它们能像投篮一样把你打下来。去解决掉 10 只血尸。听我的建议：保持移动，别走直线。一旦看到它们仰起头，立刻找掩体！"
+msgstr "酢と腐った肉を混ぜたようなあの悪臭、嗅ぎ分けられるか？あれがブラッドゾンビだ。この忌々しいゾンビは遠距離攻撃を進化させている。喉から猛烈な腐食性の酸を吐き出し、顔面に直接噴射する。運の悪い奴らが当たってタクティカルベストがバターのように溶けるのを見たことがある。屋上にいるからといって安全だと思わないでくれ。奴らはバスケットボールみたいに撃ち落とすかもしれない。ブラッドゾンビ10体を始末しろ。忠告しておくが、一直線に歩かずに動き続けることだ。奴らが頭をもたげたら、すぐに身を隠すんだ！"
+
+#. Key:	9D9A52AB4CD778469EF07D917F53BDF1
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10016.LogDescription_10_32F75F4343592643E76DC28D283FA682
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10016.LogDescription_10_32F75F4343592643E76DC28D283FA682
+msgctxt ",9D9A52AB4CD778469EF07D917F53BDF1"
+msgid "Hank 警告了一种四肢着地的高速变异体“爬行者”。它们拥有极高的生命值和惊人的移动速度，且攻击判定点极低，极难被常规火力命中。这类敌人通常攻击腿部，极易造成骨折。建议使用霰弹枪或自动武器进行压制。"
+msgstr "Hank は四肢を地面につけて高速で移動する変異体“クローラー”について警告してきた。彼らは非常に高い体力と驚異的な移動速度を持ち、攻撃判定点が非常に低いため、通常の火力では命中が難しい。この種の敵は通常、脚部を攻撃し、骨折を引き起こしやすい。ショットガンや自動武器を使用して抑制することを推奨している。"
+
+#. Key:	7E8A776C4FF9F1E143B6FEA27B9F43D7
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10016.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10016.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+msgctxt ",7E8A776C4FF9F1E143B6FEA27B9F43D7"
+msgid "地面危机 "
+msgstr "地面の危機"
+
+#. Key:	CF3D5FE640A810E5ED847CBED031800F
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10016.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(0).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10016.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(0).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+msgctxt ",CF3D5FE640A810E5ED847CBED031800F"
+msgid "击杀 强化爬行者"
+msgstr "強化クロウラーをキルする"
+
+#. Key:	49DF03F747F60995C084B8B645597D66
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10016.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10016.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+msgctxt ",49DF03F747F60995C084B8B645597D66"
+msgid "嘿，别只顾着看天上或是远处的地平线。很多新手死就死在从来不看脚下。最近出现了一种新的变异体，我们叫它**‘爬行者’**。别搞错了，我说的不是那种腿断了在地上慢慢蹭的可怜虫。我说的是一种像蜘蛛一样四肢着地狂奔的怪物。它们的速度快得离谱，而且皮糙肉厚，普通的 9 毫米子弹打在它们背上跟挠痒痒一样。它们最喜欢趁你不注意，冲过来咬断你的跟腱。去干掉 5 只这种鬼东西。我的建议？用霰弹枪，别给它们近身的机会。"
+msgstr "おい、空や遠くの地平線ばかり見てんじゃねえ。新人の多くが足元に気を遣わずに死んでいく。最近、新たなミュータントが現れた。我々はそれを**「クローラー」**と呼んでいる。誤解しないでくれ、足を折られて地面をゆっくりと這うあの哀れな生き物のことを言っているのではない。蜘蛛のように四つん這いで走る怪物のことを言っているのだ。とんでもなく速く、信じられないほど頑丈だ。普通の9mm弾でも背中をくすぐられるほどだ。見ていない隙に襲い掛かり、アキレス腱を噛みちぎるのが得意だ。この怪物を5体倒せ。アドバイスは？ショットガンを使って、近づけさせないことだ。"
+
+#. Key:	067BF16F429D594017A422AB2E6ADCB2
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10017.LogDescription_10_32F75F4343592643E76DC28D283FA682
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10017.LogDescription_10_32F75F4343592643E76DC28D283FA682
+msgctxt ",067BF16F429D594017A422AB2E6ADCB2"
+msgid "遭遇极度危险的 Boss 级变异体“霸主”。这种巨型丧尸拥有极厚的脂肪层和骨骼装甲，对常规火力有极高的减伤。它虽然移动缓慢，但具有冲撞和毁灭性的近战能力。建议使用大口径武器（如马格南、狙击步枪）或爆炸物，并优先攻击头部以破坏其防御。"
+msgstr "極めて危険なボス級ミュータント「オーバーロード」に遭遇せよ。この巨大ゾンビは、極めて厚い脂肪層と骨格の装甲を有し、通常の火力によるダメージを大幅に軽減する。動きは遅いものの、突撃と破壊的な近接攻撃能力を持つ。防御を突破するには、大口径武器（マグナムやスナイパーライフルなど）や爆発物を使用し、頭部への攻撃を優先するのが推奨される。"
+
+#. Key:	D226E2264C88EAE47E3FF49D7500239A
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10017.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10017.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+msgctxt ",D226E2264C88EAE47E3FF49D7500239A"
+msgid "泰坦陨落"
+msgstr "タイタンフォール"
+
+#. Key:	A6D823B0444EC34E2486F08391C47B95
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10017.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(0).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10017.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(0).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+msgctxt ",A6D823B0444EC34E2486F08391C47B95"
+msgid "击杀 霸主丧尸"
+msgstr "オーバーロードゾンビをキルする"
+
+#. Key:	064E0B4F4166A92CDE04E8B2CF18CE64
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10017.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10017.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+msgctxt ",064E0B4F4166A92CDE04E8B2CF18CE64"
+msgid "我以为我们已经见识过最糟的情况了，直到侦察兵带回了那个消息。那个……东西。它有两层楼那么高，胖得像一座肉山，走起路来地面都在震动。我们的一支巡逻队碰上了它，子弹打在它身上就像是在给它挠痒痒。它甚至不用咬人，光是挥一下手就能把人拍成肉泥。我们叫它**‘霸主’**。听着，如果你想干掉它，普通的枪不管用。你需要穿甲弹、炸药，或者直接把枪管塞进它嘴里扣动扳机。去解决 3 只这种怪物。别逞强，如果打不死，就跑。"
+msgstr "俺たちはもう最悪の事態は見たと思っていた。あの報告が斥候から届くまでは。あの……“何か”だ。そいつは二階建ての建物くらいの高さがあって、肉の山みたいに太っていて、歩くだけで地面が揺れる。巡回隊の一つがそいつに遭遇したが、弾丸はまるでくすぐっているだけみたいだった。そいつは噛みつく必要すらない。腕を一振りするだけで、人間なんてミンチだ。俺たちはそいつを**『オーバーロード』**と呼んでいる。いいか、もし倒したいなら、普通の銃じゃ話にならない。徹甲弾か爆薬が要る。もしくは銃口を奴の口に突っ込んで引き金を引け。あの怪物を 3 体片付けてこい。無理はするな、倒せないと思ったら逃げろ。"
+
+#. Key:	BBBA481F48CCF14A70CBFA84DFD4B16F
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_LIE.DT_LIE.20000.LogDescription_10_32F75F4343592643E76DC28D283FA682
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_LIE.DT_LIE.20000.LogDescription_10_32F75F4343592643E76DC28D283FA682
+msgctxt ",BBBA481F48CCF14A70CBFA84DFD4B16F"
+msgid "商人李娜需要燃油来维持设备运转。她提供了一批自制的燃烧弹作为交换。这是一种极其有效的清场武器。"
+msgstr "商人のリナは、設備を動かし続けるための燃料を必要としている。彼女は交換品として、自家製の焼夷弾の一式を用意してくれた。これは、非常に高い制圧力を持つクリアリング用の武器だ。"
+
+#. Key:	DA70A47A4C3F9EF204474FA9BE9F2934
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_LIE.DT_LIE.20000.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_LIE.DT_LIE.20000.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+msgctxt ",DA70A47A4C3F9EF204474FA9BE9F2934"
+msgid "危险交易：液体火焰"
+msgstr "危険な取引：液体の炎"
+
+#. Key:	AC1B0666470B993BB351209DBFDB9E68
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_LIE.DT_LIE.20000.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_LIE.DT_LIE.20000.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+msgctxt ",AC1B0666470B993BB351209DBFDB9E68"
+msgid "新面孔？哼，希望你比上一个耐烧一点。我叫李娜。莎拉负责给你们缝补衣服，而我？我负责把挡路的东西炸上天。我的车间现在急需燃料。那台发电机像只永远吃不饱的野兽。我去不了加油站，那里全是死人。给我弄10瓶燃油来。去拆汽车、去搜刮油桶，我不问来源。作为回报，我会给你一些我亲手调制的‘鸡尾酒’。相信我，当你被那群丧尸围在角落里的时候，这一瓶子火能救你的命。"
+msgstr "新顔？ふーん、前のよりは長く持ちこたえられるといいな。私の名前はリー・ナ。サラが君の服を繕う担当で、私は？邪魔なものは何でも爆破する担当だ。私の工房は燃料が切実に必要だ。あの発電機はまるで飢えた獣のようだ。ガソリンスタンドには行けない。死体だらけだ。燃料を10本持ってきてくれ。車を解体して燃料のドラム缶を盗め。どこから来たかは気にしない。お礼に、自家製の「カクテル」を少しおごってやる。信じてくれ、ゾンビに追い詰められたら、この火の瓶が命を救うだろう。"
+
+#. Key:	485C12EF4AB11F6537C76487626312AD
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_LIE.DT_LIE.20001.LogDescription_10_32F75F4343592643E76DC28D283FA682
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_LIE.DT_LIE.20001.LogDescription_10_32F75F4343592643E76DC28D283FA682
+msgctxt ",485C12EF4AB11F6537C76487626312AD"
+msgid "李娜想要用动物的战利品来装饰店铺以震慑敌人。收集四种主要猎物的头颅来交换大量的混合弹药补给。"
+msgstr "リナは敵を威圧するため、店を動物の戦利品で飾り立てたいと考えている。主要な獲物4種の頭部を集めてくれば、大量の混合弾薬の補給と交換してくれる。"
+
+#. Key:	65566F3249514DBA6F0387BBB0AA2193
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_LIE.DT_LIE.20001.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_LIE.DT_LIE.20001.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+msgctxt ",65566F3249514DBA6F0387BBB0AA2193"
+msgid "以物易物：丛林法则"
+msgstr "物々交換：ジャングルの法則"
+
+#. Key:	FCC140354298D08B7ADB1FB5973A1A5F
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_LIE.DT_LIE.20001.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_LIE.DT_LIE.20001.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+msgctxt ",FCC140354298D08B7ADB1FB5973A1A5F"
+msgid "看看我的店，虽然火力很足，但缺了点……杀气。那些流浪者和强盗总是以为我是个好欺负的女人。我需要在墙上挂点东西，让他们一进门就懂得把嘴闭上。听说你是个不错的猎人？我要森林里那四个霸主的脑袋：狼、鹿、猪，还有熊。别把它们拿去炖汤了，把完整的头带给我。只要你能帮我把这面墙填满，我就把你的弹匣填满。这是公道交易：用骨头换铅弹。"
+msgstr "私の店を見てください。火力は十分ですが、どこか…威圧的な雰囲気が欠けています。あの浮浪者や山賊たちは、いつも私を格好の標的だと思っています。彼らが店に入ってきた瞬間に口を閉ざすように、壁に何か掛けておかないと。あなたはかなりのハンターだと聞きましたよ？森の頂点捕食者であるオオカミ、シカ、イノシシ、クマの頭が欲しいんです。スープにするんじゃなくて、頭を丸ごと持ってきてください。この壁を埋めてくれたら、弾丸も満たしてあげましょう。骨と鉛の弾丸の交換は公平です。"
+
+#. Key:	F1CFB6A34ACA86BAE01E759F6AF3E3D0
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_LIE.DT_LIE.20002.LogDescription_10_32F75F4343592643E76DC28D283FA682
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_LIE.DT_LIE.20002.LogDescription_10_32F75F4343592643E76DC28D283FA682
+msgctxt ",F1CFB6A34ACA86BAE01E759F6AF3E3D0"
+msgid "李娜发布了一项令人作呕但报酬丰厚的悬赏。收集丧尸的牙齿作为击杀证明。作为回报，她提供了大口径的重型弹药。"
+msgstr "リナは吐き気を催すような、だが報酬の良い懸賞金を掲げた。ゾンビの歯を討伐の証として集めてこい。その見返りとして、彼女は大口径の重火器用弾薬を提供する。"
+
+#. Key:	C8C59138427F14D5AA3B8E98F3256AAE
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_LIE.DT_LIE.20002.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_LIE.DT_LIE.20002.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+msgctxt ",C8C59138427F14D5AA3B8E98F3256AAE"
+msgid "赏金任务：腐坏之牙"
+msgstr "懸賞任務：腐敗の牙"
+
+#. Key:	34D9B2A742C874E506B1A8BA389A221D
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_LIE.DT_LIE.20002.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_LIE.DT_LIE.20002.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+msgctxt ",34D9B2A742C874E506B1A8BA389A221D"
+msgid "子弹可不是大风刮来的，想从我这拿走重火力，你得证明你配得上它们。这里的规矩很简单：以牙还牙。外面那些烂肉嘴里长满了恶心的牙齿，就是那些东西咬死了我的上一任保镖。我要你把它们拔下来。别问我拿来干什么。也许我用来做项链，也许我只是单纯地享受看着一袋子牙齿的感觉，因为那意味着至少有20个混蛋再也没法咬人了。给我20颗丧尸牙齿。作为交换，我会给你一些能把它们脑袋轰成渣的好东西。"
+msgstr "弾丸は空から降っては来ない。私から強力な火力を求めるなら、それに見合うだけの実力があることを証明しなければならない。ルールはシンプル。目には目を。外にいる腐った残骸、口に不潔な歯をうずくめる奴らが、私の前のボディガードを殺した奴らだ。奴らを救い出してほしい。どうするかは聞かないでくれ。ネックレスを作るかもしれないし、歯袋を眺めるのを楽しむかもしれない。少なくとも20匹の奴らが二度と噛めなくなるからだ。ゾンビの歯を20本くれ。その代わりに、奴らの頭を粉々に吹き飛ばせるような良いものをくれてやる。"
+
+#. Key:	C7B860E24AF453FE3FDFBF8C31C13095
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_LIE.DT_LIE.20003.LogDescription_10_32F75F4343592643E76DC28D283FA682
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_LIE.DT_LIE.20003.LogDescription_10_32F75F4343592643E76DC28D283FA682
+msgctxt ",C7B860E24AF453FE3FDFBF8C31C13095"
+msgid "李娜厌倦了罐头食品，想要新鲜的鲈鱼。她缺乏耐心（且倾向于暴力捕鱼），所以委托你通过正常手段获取。奖励是军用级手雷。"
+msgstr "リナは缶詰の食料にうんざりしており、新鮮なスズキが欲しいと思っている。彼女は忍耐力に欠け（さらに暴力的な漁法に走りがちなので）、通常の手段で魚を手に入れるよう君に依頼してきた。報酬は軍用グレネードだ。"
+
+#. Key:	8FD892424C08F67B442DE3A6FF94D28C
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_LIE.DT_LIE.20003.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_LIE.DT_LIE.20003.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+msgctxt ",8FD892424C08F67B442DE3A6FF94D28C"
+msgid "爆炸美味：鲜鱼交易"
+msgstr "爆発的美味：鮮魚取引"
+
+#. Key:	E0842F214401601BE55DBEA63FEBE232
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_LIE.DT_LIE.20003.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_LIE.DT_LIE.20003.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+msgctxt ",E0842F214401601BE55DBEA63FEBE232"
+msgid "整天闻火药味，我的味觉都要退化了。我受够了那些像锯末一样的压缩饼干。我想吃鱼。特别是鲜嫩的鲈鱼。别指望我去河边傻坐着。如果是让我去，我会直接往水里扔一颗炸弹，然后捞起一堆烂肉——但那样就不好吃了。看来你有那种闲工夫。去给我弄3条鲈鱼来。如果你能满足我的胃口，我就给你点我的‘特制鱼饵’——带拉环的那种。下次你不想讲道理的时候，就用它们说话。"
+msgstr "一日中火薬の臭いを嗅いでいると、味覚がおかしくなりそうだ。あのおがくずみたいな圧縮ビスケットにはもううんざりだ。魚が欲しい。特に新鮮でプリプリのスズキが。川辺でぼんやりしていると思わないでくれ。私だったら、水中に爆弾を投げ込んで腐った身の山を釣り上げるだろうが、それは美味しくないだろう。君にはそんな暇があるようだな。スズキを3匹捕まえてこい。もし私の渇望を満たしてくれたら、私の「特製餌」を少しあげるよ。引き輪付きのやつだ。今度私と議論したくない時は、引き輪を使って話してくれ。"
+
+#. Key:	35B12CBD4D4EBBABC7AF7CB7814F074D
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_LIE.DT_LIE.20004.LogDescription_10_32F75F4343592643E76DC28D283FA682
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_LIE.DT_LIE.20004.LogDescription_10_32F75F4343592643E76DC28D283FA682
+msgctxt ",35B12CBD4D4EBBABC7AF7CB7814F074D"
+msgid "普通的钢铁无法满足李娜的工业需求，她需要大型变异生物的高密度牙齿来制作工业钻头。回报是极其稀缺的精密机械零件。"
+msgstr "普通の鋼鉄じゃ李娜の工業需要は満たせない。彼女には、工業用ドリルを作るために、大型変異生物の高密度な歯が必要なんだ。見返りは、極めて希少な精密機械部品だ。"
+
+#. Key:	AFE78C55436EFC28660433B5268E0544
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_LIE.DT_LIE.20004.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_LIE.DT_LIE.20004.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+msgctxt ",AFE78C55436EFC28660433B5268E0544"
+msgid "特殊工艺：巨兽之牙 "
+msgstr "特殊加工：巨獣の牙"
+
+#. Key:	6A9596B9498055778E5C6A969D4F3FF5
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_LIE.DT_LIE.20004.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_LIE.DT_LIE.20004.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+msgctxt ",6A9596B9498055778E5C6A969D4F3FF5"
+msgid "我的钻床钻头又断了。现在的钢材质量简直是一坨狗屎，根本切不动那些高级合金。但我发现了一种更好的材料。那些体型巨大的变异怪物……它们的牙齿密度惊人，甚至能咬穿混凝土。如果我们把那些牙齿打磨一下，能做成这个废土上最坚硬的工业切割头。去帮我猎杀那些大家伙，给我弄10颗巨型牙齿回来。我知道你在找什么——那些该死的、只有拆解旧电脑才能找到的小零件。我有满满一盒，拿牙齿来换，全是你的。"
+msgstr "ドリルの刃がまた折れた。最近の鋼鉄はまるで駄作だ。高級合金もろとも切れない。でも、もっといい素材を見つけたんだ。あの巨大なミュータントモンスター… 歯がものすごく密集していて、コンクリートさえ噛み砕ける。あの歯を削れば、この荒野で一番硬い工業用カッティングヘッドが作れる。あの大物どもを捕まえて、巨大な歯を10本持ってきてくれ。お前が何を探しているか分かってる。古いコンピューターを分解しないと見つからない、あの忌々しい小さな部品だ。箱いっぱいあるから、歯を交換してくれ。全部お前のものだ。"
+
+#. Key:	406D7E6745751CBDF2BBC2B985207267
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_LIE.DT_LIE.20005.LogDescription_10_32F75F4343592643E76DC28D283FA682
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_LIE.DT_LIE.20005.LogDescription_10_32F75F4343592643E76DC28D283FA682
+msgctxt ",406D7E6745751CBDF2BBC2B985207267"
+msgid "李娜指出你的武器缺乏保养。她需要一只成年母羊来提炼羊毛脂作为润滑剂。"
+msgstr "リナはあなたの武器が手入れ不足だと指摘する。彼女は潤滑剤として使うラノリンを精製するため、成羊の雌が一頭必要だ。"
+
+#. Key:	109593E04DE206ABA7B941969D4C09DC
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_LIE.DT_LIE.20005.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_LIE.DT_LIE.20005.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+msgctxt ",109593E04DE206ABA7B941969D4C09DC"
+msgid "维护保养：羊脂精华"
+msgstr "メンテナンス：羊脂エッセンス"
+
+#. Key:	14BBF79043AC3B362C40358CCC25B52F
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_LIE.DT_LIE.20005.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_LIE.DT_LIE.20005.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+msgctxt ",14BBF79043AC3B362C40358CCC25B52F"
+msgid "听听你的枪栓复位的声音……干涩、刺耳。再这样下去，下次你想开火的时候，它会卡住，然后你就死定了。以前的合成润滑油早就用光了，但我们有替代品。羊。具体来说，是成年母羊。它们的皮毛和脂肪里含有大量的羊毛脂。那是大自然赋予的最好的防水防锈油。给我弄一只完整的成年母羊来。我会负责提炼油脂。作为交换，这批刚刚出炉的特制枪油归你。它能让你的宝贝像刚出厂一样顺滑。"
+msgstr "ボルトが復帰する音をよく聞いてみろ……乾いていて、耳障りだ。このまま使い続ければ、次に撃とうとしたときに固着して、お前はそこで終わりだ。昔の合成潤滑油はとっくに底をついているが、代わりになるものならある。羊だ。正確に言えば、成獣の雌羊だ。あいつらの毛と脂肪にはラノリンがたっぷり含まれている。あれは自然が与えた最高の防水・防錆オイルだ。成獣の雌羊を一頭まるごと調達してこい。油の精製は俺がやる。その代わりに、今しがた出来上がった特製の銃用オイルをお前にやろう。お前の相棒を、新品同然の滑らかさにしてやれる代物だ。"
+
+#. Key:	A91A9A2D467538C3D0DE35937F0A76F7
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_LIE.DT_LIE.20006.LogDescription_10_32F75F4343592643E76DC28D283FA682
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_LIE.DT_LIE.20006.LogDescription_10_32F75F4343592643E76DC28D283FA682
+msgctxt ",A91A9A2D467538C3D0DE35937F0A76F7"
+msgid "李娜愿意用一把珍贵的古代兵器交换一道复杂的料理。这需要高超的烹饪技巧和稀有的食材（蜂蜜）。"
+msgstr "リナは貴重な古代の武器を、複雑な料理と交換するつもりだ。それには高度な料理の腕前と、希少な食材（ハチミツ）が必要となる。"
+
+#. Key:	D4A6F2E84DDED895CC42D387B047B1E3
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_LIE.DT_LIE.20006.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_LIE.DT_LIE.20006.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+msgctxt ",D4A6F2E84DDED895CC42D387B047B1E3"
+msgid "故土重温：蜜汁烧鱼"
+msgstr "故郷再訪：ハチミツ風味の魚"
+
+#. Key:	8A3999DB4609B246313A1DBDE82E54BA
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_LIE.DT_LIE.20006.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_LIE.DT_LIE.20006.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+msgctxt ",8A3999DB4609B246313A1DBDE82E54BA"
+msgid "看看这个。我在一个收藏家的保险柜里找到的。唐刀。直刃，单锋，曾在冷兵器时代以此斩断敌人的马腿。它很美，对吧？但对我来说，它太安静了。我喜欢爆炸的轰鸣声，而不是利刃划过空气的声音。看着它让我想起了我的祖父……还有他做的菜。我特别想念那种味道——蜜汁烧鱼。表皮酥脆，肉质鲜嫩，蜂蜜的甜味恰到好处。只要你能做出这道菜——要做得完美，别拿烧焦的垃圾糊弄我——这把刀就是你的了。拿着它去砍丧尸吧，我要坐下来好好享受这顿饭。"
+msgstr "これを見て。コレクターの金庫で見つけたんだ。唐代の剣だ。直刃で片刃、冷兵器の時代に敵の馬の脚を切り落とすために使われた。美しいだろう？でも、私には静かすぎる。刃が空を切り裂く音よりも、爆発の轟音の方が好きだ。これを見ると祖父を思い出す…そして彼の料理を。特にあの味が恋しい。蜂蜜がけの魚。パリッとした皮、柔らかい身、そして蜂蜜の甘さが絶妙。もし君がその料理を完璧に作れるなら、焦げたジャンクフードで私を騙そうとしないでくれ。この剣は君のものだ。これを持ってゾンビを切り刻め。私は座ってこの食事を楽しむつもりだ。"
+
+#. Key:	91F3D944436F78706847F6AC395EAC12
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_LIE.DT_LIE.20007.LogDescription_10_32F75F4343592643E76DC28D283FA682
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_LIE.DT_LIE.20007.LogDescription_10_32F75F4343592643E76DC28D283FA682
+msgctxt ",91F3D944436F78706847F6AC395EAC12"
+msgid "李娜嘲笑了你的徒步旅行方式，并提出了一项能够让你动起来的交易。用零散的机械部件交换一套完整的载具轮胎。"
+msgstr "リナは君の徒歩での移動手段を笑い飛ばし、君をもっと動かすための取引を持ちかけてきた。バラバラの機械部品と引き換えに、車両用タイヤ一式を提供するという。"
+
+#. Key:	A0A9BF8549C5580F22ECDE9D516E8F76
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_LIE.DT_LIE.20007.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_LIE.DT_LIE.20007.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+msgctxt ",A0A9BF8549C5580F22ECDE9D516E8F76"
+msgid "载具组装：重获机动"
+msgstr "車両組立：機動力の奪還"
+
+#. Key:	07B2EB774B4F161258AB9299D9E0BC37
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_LIE.DT_LIE.20007.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_LIE.DT_LIE.20007.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+msgctxt ",07B2EB774B4F161258AB9299D9E0BC37"
+msgid "我看够了你背着那个巨大的背包像蜗牛一样在公路上挪动。在这个鬼地方，速度就是生命。跑得慢的人通常都变成了丧尸的午餐。你在试图拼凑一辆车，对吧？我知道你在找什么——轮子。好的橡胶轮胎现在比黄金还稀有。我有存货，而且是加强型的越野胎。但我这边的维修工作缺了很多零碎的小部件：火花塞、传动带、油泵……拿着你的扳手，去公路上拆那些报废的车。给我带回30个标准汽车零件。只要零件够数，我就给你一套完整的4个轮胎。这样你就可以跟那双破鞋子说再见了。"
+msgstr "巨大なリュックサックを背負って、高速道路をカタツムリのようによろよろと歩く君にはもううんざりだ。この見捨てられた場所では、スピードこそ命。のろまなランナーは大抵ゾンビの餌食になる。君は車を何とか組もうとしているんだろう？君が何を探しているかは分かっている。ホイールだ。良質のゴムタイヤは近頃、金よりも希少だ。在庫はある。強化オフロードタイヤだ。でも、修理に必要な小さな部品がたくさんあるんだ。スパークプラグ、ドライブベルト、オイルポンプ… レンチを持って、高速道路で壊れた車をバラバラにしてくれ。標準的な車の部品を30個持ってきてくれ。もし足りるなら、タイヤ4本セットを全部お渡しするよ。そうすれば、古い靴とはお別れできるだろう。"
+
+#. Key:	6386E2D34DB72A0D7E2DC186C1FC9A44
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_LIE.DT_LIE.20008.LogDescription_10_32F75F4343592643E76DC28D283FA682
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_LIE.DT_LIE.20008.LogDescription_10_32F75F4343592643E76DC28D283FA682
+msgctxt ",6386E2D34DB72A0D7E2DC186C1FC9A44"
+msgid "李娜急需光学瞄准镜来提升她贩卖的枪械价值。她愿意用极其珍贵的重型载具部件来进行交换。"
+msgstr "リナは販売している銃の価値を高めるため、光学スコープを切実に必要としている。彼女はその見返りとして、非常に貴重な重車両用パーツを交換に出すつもりだ。"
+
+#. Key:	D4673C284A82C9F4A9E2FBADC33BD97C
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_LIE.DT_LIE.20008.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_LIE.DT_LIE.20008.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+msgctxt ",D4673C284A82C9F4A9E2FBADC33BD97C"
+msgid "战术升级：光瞄换引擎"
+msgstr "戦術アップグレード：光学サイトからエンジンへ交換"
+
+#. Key:	845B7E064D451ECED8D168A0D75B9FD9
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_LIE.DT_LIE.20008.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_LIE.DT_LIE.20008.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+msgctxt ",845B7E064D451ECED8D168A0D75B9FD9"
+msgid "这群新来的幸存者，枪法烂得像是在用脚扣扳机。没有瞄准镜，他们连五十米外的房子都打不中。我需要光学瞄具来‘辅助’这帮客户。搜查你的库存，我需要一套标准的战术组合：一个红点，一个全息，还有一个中距离的4倍镜。作为回报，我会带你去后面的重型仓库。那里有一台我很费劲才修好的V8 发动机，还有一套我很喜欢的防弹装甲板。你给我‘眼睛’，我给你‘心脏’和‘皮肤’。这很公平。"
+msgstr "最近流れてきた新入りの生存者どもは、銃の腕前がひどすぎて、まるで足の指でトリガーを引いてるみたいだ。スコープなしじゃ、50メートル先の建物にすらまともに当てられない。あいつらを“補助”するために、光学サイトが必要だ。自分の在庫を漁ってこい。標準的なタクティカルセットが一式欲しい。レッドドットサイト1つ、ホロサイト1つ、それから中距離用の4倍スコープ1つだ。見返りとして、奥のヘビーデポに案内してやる。そこには、俺が苦労して修理したV8エンジンが1基と、個人的に気に入っている防弾プレート一式がある。お前が俺に“目”をくれれば、俺はお前に“心臓”と“皮膚”をやる。悪くない取引だろう。"
+
+#. Key:	7139C552451DE85C23C3BDB57101D593
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_LIE.DT_LIE.20009.LogDescription_10_32F75F4343592643E76DC28D283FA682
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_LIE.DT_LIE.20009.LogDescription_10_32F75F4343592643E76DC28D283FA682
+msgctxt ",7139C552451DE85C23C3BDB57101D593"
+msgid "一伙流窜的土匪正在破坏李娜标记好的废弃车辆。她不在乎那群人的死活，但她非常在乎那些正在被暴利拆解的汽车零件。(提示：土匪拥有枪械，请注意利用掩体)"
+msgstr "流れ者の盗賊団がリーナがマークした廃車を破壊している。彼女はその連中の生死には興味がないが、暴利で解体されている車の部品には非常に執着している。（ヒント：盗賊は銃を所持しているので、遮蔽物をうまく利用しよう）"
+
+#. Key:	B55E4247469F40A51E442DBD081B9121
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_LIE.DT_LIE.20009.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_LIE.DT_LIE.20009.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+msgctxt ",B55E4247469F40A51E442DBD081B9121"
+msgid "维护库存：清理破坏者"
+msgstr "在庫管理：破壊者の一掃"
+
+#. Key:	18EE56854205FEBF5DF9B3800AA0510F
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_LIE.DT_LIE.20009.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_LIE.DT_LIE.20009.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+msgctxt ",18EE56854205FEBF5DF9B3800AA0510F"
+msgid "那是我的货！那帮混蛋……看到那一小撮土匪了吗？他们正在像野蛮人一样拆那几辆轿车。他们用石头砸玻璃，甚至直接把还能用的排气管锯断了扔在地上。这简直是暴殄天物！这种‘业余拆解’必须立刻停止。帮我个忙，过去宰掉 3 个土匪。把他们赶走，或者让他们变成废铁的一部分。"
+msgstr "あれは俺の車だ！あの野郎ども…あのチンピラどもが見えるか？野蛮なほど車を解体している。石を投げつけて窓を割り、使える排気管まで切断して地面に投げ捨てている。全くの無駄遣いだ！こんな「素人っぽい解体」は今すぐに止めろ。頼むから、あのチンピラ3人を殺してくれ。追い払うか、せめて鉄くずに変えてくれ。"
+
+#. Key:	8CD0D8AB437BA21A0A3993BEDB8FFBBA
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_LIE.DT_LIE.20010.LogDescription_10_32F75F4343592643E76DC28D283FA682
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_LIE.DT_LIE.20010.LogDescription_10_32F75F4343592643E76DC28D283FA682
+msgctxt ",8CD0D8AB437BA21A0A3993BEDB8FFBBA"
+msgid "李娜追踪到了这附近劫匪的活动源头。他们驻扎在一个废弃的营地中，囤积着大量抢来的物资。只要端掉这个老窝，附近的公路就能安宁一段时间。(提示：营地通常有哨兵把守，建议优先解决高处目标)"
+msgstr "李娜はこの近辺で活動している強盗たちの根城を突き止めた。やつらは廃棄されたキャンプに陣取り、大量の略奪品を溜め込んでいる。このアジトを叩き潰しさえすれば、しばらくの間は近くの道路も平穏になるだろう。（ヒント：キャンプにはたいてい見張りがいる。高所の敵から優先して片付けることを勧める）"
+
+#. Key:	477E797943F69D53C0AAE8BB275893AF
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_LIE.DT_LIE.20010.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_LIE.DT_LIE.20010.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+msgctxt ",477E797943F69D53C0AAE8BB275893AF"
+msgid "斩草除根：突袭营地"
+msgstr "問題の根本原因を排除する：キャンプを襲撃する"
+
+#. Key:	CE86679F408352AE13B19E9F29E4B4E3
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_LIE.DT_LIE.20010.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_LIE.DT_LIE.20010.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+msgctxt ",CE86679F408352AE13B19E9F29E4B4E3"
+msgid "我们之前在路上杀的那几个？那只是冰山一角。只要这个营地还在，他们就会像蟑螂一样源源不断地爬出来。我追踪了他们的车辙印，发现他们躲在这个废弃的据点里。听说他们在那里建了围栏，还把抢来的好东西都藏在主楼里。我不只要他们死，我要他们彻底消失。去这个营地，清理掉里面的主力。顺便说一句，如果能在里面找到什么好东西，都归你。我只要这帮人从地图上消失。"
+msgstr "この前、道中で片付けた連中がいただろう？　あれはほんの氷山の一角だ。あのキャンプがある限り、あいつらはゴキブリみたいに次から次へと湧いてくる。車のタイヤ痕を追っていったら、やつらがこの廃棄された拠点に潜んでいるのを突き止めた。どうやらそこにフェンスを張り巡らせて、奪った戦利品のほとんどを本館に隠しているらしい。俺が欲しいのは、やつらの死だけじゃない。完全に消し去りたいんだ。あのキャンプに行って、中にいる主力を片付けろ。ついでに、中で何かいい物を見つけたら全部あんたのものだ。俺が望むのは、あの連中が地図から消えることだけだ。"
+
+#. Key:	A939B73B42616840591CB89668B554FC
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_LIE.DT_LIE.20011.LogDescription_10_32F75F4343592643E76DC28D283FA682
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_LIE.DT_LIE.20011.LogDescription_10_32F75F4343592643E76DC28D283FA682
+msgctxt ",A939B73B42616840591CB89668B554FC"
+msgid "李娜计划开辟一条通往北方城市的远程贸易线，但目前的土匪密度让任何商业计划都变成了自杀。她发布了一份不限地点的“清洗令”，要求大幅削减该区域的土匪人口。"
+msgstr "リナは北方の都市へと通じる長距離交易路を開く計画を立てているが、現在の山賊の密度では、どんな商業計画も自殺行為になってしまう。彼女は場所を問わない「掃討令」を出し、この地域の山賊の数を大幅に減らすよう求めている。"
+
+#. Key:	6E4A18BD4E3B7C0FFE8BF4A69F5C8113
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_LIE.DT_LIE.20011.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_LIE.DT_LIE.20011.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+msgctxt ",6E4A18BD4E3B7C0FFE8BF4A69F5C8113"
+msgid "区域肃清：猎杀名单 "
+msgstr "エリア掃討：討伐リスト"
+
+#. Key:	433CDBF54A9FACC88591C7AE4642104C
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_LIE.DT_LIE.20011.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_LIE.DT_LIE.20011.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+msgctxt ",433CDBF54A9FACC88591C7AE4642104C"
+msgid "看看这个……抢劫、勒索、拦路设卡。这一周的‘损耗率’已经超过了我的忍耐极限。想要在这里做大生意，光靠炸毁一两个营地是没用的。我们需要从统计学上解决问题——我们需要降低人口密度。我不管他们是在树林里、营地里，还是在公路上闲逛。我给你发一份不限地点的猎杀名单。我要你干掉 60 个土匪。没错，60 个。我要让这片废土上的每一个强盗在打劫之前，都要先掂量一下会不会遇到你这个死神。去吧，把这片土地洗刷干净。当你完成指标时回来找我，我会把压箱底的宝贝拿出来。"
+msgstr "見ろよ…強盗、恐喝、検問。今週の「損失率」は私の許容範囲を超えている。キャンプを一つ二つ爆破したくらいでは、ここでは大したことはない。統計的に問題を解決しなければならない。人口密度を下げる必要がある。森の中だろうが、キャンプだろうが、街道を徘徊している者だろうが、関係ない。場所の制限なしの殺害リストを送る。盗賊を60人倒してほしい。そう、60人だ。この荒野の盗賊どもには、死神であるあなたから盗もうとする前に、もう一度よく考えてもらいたい。さあ、この地をきれいにしろ。ノルマを達成したら、私のところに戻ってきてくれ。そうすれば、私の最も大切な宝物を持ってくる。"
+
+#. Key:	E17AEADF4D055F1D57086FB533194FFD
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30000.LogDescription_10_32F75F4343592643E76DC28D283FA682
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30000.LogDescription_10_32F75F4343592643E76DC28D283FA682
+msgctxt ",E17AEADF4D055F1D57086FB533194FFD"
+msgid "Maria 正在为营地的食物短缺发愁。她需要我去附近的住宅区搜寻任何可食用的物资。罐头食品是首选，因为它们保存得最久。"
+msgstr "Maria はキャンプの食料不足に悩んでいます。彼女は近くの住宅地で食べられる物資を探してほしいと頼んでいます。缶詰食品が最適です。保存期間が最も長いからです。"
+
+#. Key:	67D5A8864126806A27A86EA66EB6BC9C
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30000.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30000.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+msgctxt ",67D5A8864126806A27A86EA66EB6BC9C"
+msgid "空荡荡的胃"
+msgstr "空っぽの胃袋"
+
+#. Key:	2A5A3CDB4CED788E94E4C7B92A548FC7
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30000.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30000.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+msgctxt ",2A5A3CDB4CED788E94E4C7B92A548FC7"
+msgid "你好，幸存者。你看起来也不太好过。听着，Hank 在外面忙着对付丧尸，但我得操心营地里的人吃什么。我们这里有老人，还有几个孩子。如果你听到过孩子饿得哭不出来的声音，你就知道那有多让人心碎了。我们的库存快见底了。我需要你去附近的民居或者那个被洗劫过的小超市看看。找点能吃的东西回来——罐头、干粮，什么都行。只要没发霉，我们就不挑剔。"
+msgstr "やあ、生存者。君もあまり元気そうじゃないな。いいか、ハンクは外でゾンビと戦っているが、キャンプの人たちが何を食べるか心配だ。ここには老人も子供もいる。飢えに苦しむ子供の叫び声を聞いたことがあるなら、それがどれほど胸が張り裂けるか分かるだろう。食料はほとんど底をついている。近くの家か、あの略奪された小さなスーパーマーケットを調べてくれ。何か食べ物を探してくれ。缶詰でも乾物でも、何でもいい。カビが生えていなければ、好き嫌いはしない。"
+
+#. Key:	B700C529437485B127674BAC48A9C3C5
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30001.LogDescription_10_32F75F4343592643E76DC28D283FA682
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30001.LogDescription_10_32F75F4343592643E76DC28D283FA682
+msgctxt ",B700C529437485B127674BAC48A9C3C5"
+msgid "Maria 需要一个完好的烹饪锅来煮沸饮用水和制作炖菜。这是防止痢疾和提升食物营养的关键。建议自己制作"
+msgstr "Maria は飲料水を沸かしたりシチューを作るために完璧な調理鍋を必要としています。これは赤痢を防ぎ、食べ物の栄養価を向上させる鍵です。自分で作ることをお勧めします。"
+
+#. Key:	04B0269D46F16652F8B206BB138F118D
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30001.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30001.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+msgctxt ",04B0269D46F16652F8B206BB138F118D"
+msgid "饮食卫生：关键炊具 "
+msgstr "衛生的な食事：重要な調理器具"
+
+#. Key:	D32B8DE74B55F67421ED1D92EB724EF1
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30001.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30001.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+msgctxt ",D32B8DE74B55F67421ED1D92EB724EF1"
+msgid "亲爱的，我知道这听起来可能有点琐碎，但这关乎生死。昨天有个新来的家伙喝了河里的生水，现在他正躺在床上发着高烧，上吐下泻。我们不能再这样下去了。为了保证大家的健康，我必须把所有的水都煮沸消毒。但我的那口旧铁锅已经烧穿了。我需要你去找一个铝壶和烹饪锅。只要有了锅，我还能给你们做点热乎的炖肉，而不是天天啃干巴巴的烤肉。"
+msgstr "親愛なる者よ、これが些細なことに聞こえるかもしれないが、これは生死に関わる問題だ。昨日、新しく来た者が川の生水を飲んでしまい、今は高熱を出しながらベッドに横たわり、嘔吐と下痢を繰り返している。我々はもうこれ以上この状況を続けることはできない。皆の健康を守るために、すべての水を沸騰させて消毒しなければならない。しかし、私の古い鉄鍋はすでに穴が開いてしまった。君にはアルミのポットと調理用の鍋を探してきてほしい。鍋さえあれば、乾いた焼き肉ばかりではなく、温かいシチューを作って皆に提供することができる。"
+
+#. Key:	4834721541E6EF554C5AE785AAC2A24C
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30002.LogDescription_10_32F75F4343592643E76DC28D283FA682
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30002.LogDescription_10_32F75F4343592643E76DC28D283FA682
+msgctxt ",4834721541E6EF554C5AE785AAC2A24C"
+msgid "Maria 正在教授高级烹饪技巧。通过将【1x 生肉】、【1x 蔬菜】和【1x 纯净水】同时放入烹饪锅，可以制作出营养价值极高的“蔬菜炖肉”。这是一种同时回复饥饿值和口渴值的最佳食物。"
+msgstr "Maria は高度な料理技術を教えています。【1x 生肉】、【1x 野菜】、【1x 純水】を同時に調理鍋に入れることで、栄養価の高い「野菜シチュー」を作ることができます。これは空腹値と渇き値を同時に回復する最適な食べ物です。"
+
+#. Key:	314317CE4F560B45C6770E9C41ED386F
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30002.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30002.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+msgctxt ",314317CE4F560B45C6770E9C41ED386F"
+msgid "烹饪进阶：一锅端的智慧"
+msgstr "料理上級：一鍋料理の知恵"
+
+#. Key:	D6806F6B4772BE13B8D404AEF1161C13
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30002.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30002.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+msgctxt ",D6806F6B4772BE13B8D404AEF1161C13"
+msgid "你还在像个野蛮人一样只吃烤肉吗？难怪你总是喊口渴。来，我教你一点真正的烹饪艺术。我们要把这口锅的潜力发挥到极致。这就像是个魔法公式，仔细听好了：拿一块生肉，随便找一种蔬菜——玉米、土豆或者蘑菇都行，最后，最关键的是，加一瓶干净的水。把这三样东西同时放进锅里煮。别问我为什么，但这三样东西混在一起，会变成一种浓郁的蔬菜炖肉。它不仅能填饱肚子，还能让你补充水分，比你分开吃这三样东西强十倍。去试试吧，做一碗给我看看。"
+msgstr "まだ野蛮人みたいに焼いた肉だけ食べてるのか？それじゃあいつも喉が渇くのも無理はないな。いいか、本当の料理ってものを少し教えてやる。この鍋の潜在能力を最大限に引き出すんだ。これはまるで魔法のレシピだ、よく聞けよ。まず生肉を一切れ用意する。それから適当な野菜をひとつ――トウモロコシでも、イモでも、キノコでもいい。最後に、いちばん大事なのが、きれいな水を一瓶だ。この三つを同時に鍋に入れて煮込むんだ。理由は聞くな、だがこの三つを一緒に煮ると、濃厚な野菜シチューになる。ただ腹を満たすだけじゃなく、水分もしっかり補給できる。別々に食べるより十倍はマシだ。さあ、試してみろ。一杯作って、俺に見せてみな。"
+
+#. Key:	4B8DA2F349ECF10D9BBC19A0DF3BA091
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30003.LogDescription_10_32F75F4343592643E76DC28D283FA682
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30003.LogDescription_10_32F75F4343592643E76DC28D283FA682
+msgctxt ",4B8DA2F349ECF10D9BBC19A0DF3BA091"
+msgid "痢疾是废土上常见的致死病因。Maria 教授了一种古老的配方：将 1 株“野生药草”和 2 瓶“纯净水”在锅中烹煮，可以制作出治疗痢疾并回复体力的“药草茶”。请留意野外的草地。"
+msgstr "荒野では赤痢が一般的な死因です。マリアは古来のレシピを教えてくれました。「野生のハーブ」1本と「純水」2本を鍋で煮ると、「ハーブティー」ができ、赤痢を治し、体力を回復させます。野生の草原に目を光らせてください。"
+
+#. Key:	0A8361EF4D9AB2F097C61ABD621583E2
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30003.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30003.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+msgctxt ",0A8361EF4D9AB2F097C61ABD621583E2"
+msgid "自然疗法：荒野茶饮"
+msgstr "自然療法：荒野の茶"
+
+#. Key:	50886AC044777BC10F0A129A74EB9556
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30003.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(0).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30003.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(0).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+msgctxt ",50886AC044777BC10F0A129A74EB9556"
+msgid "收集药草"
+msgstr "薬草を集める"
+
+#. Key:	3B5550B6408EE39FB54C07A438B5E78F
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30003.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30003.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+msgctxt ",3B5550B6408EE39FB54C07A438B5E78F"
+msgid "哎，我有麻烦了。还记得我警告过别喝生水吗？显然有人没听进去。现在的状况是，那个笨蛋得了严重的痢疾，上吐下泻，严重脱水。如果你不帮他，他甚至拿不起武器去站岗。听着，把珍贵的抗生素浪费在这种本来可以避免的蠢事上太可惜了。我们用老办法。去野外找找看，地上长着一种特殊的野生药草（通常开着小黄花/红花）。如果你能采到它，再配合两瓶纯净水一起煮——记住，必须是两瓶水，因为他需要大量补水——煮出来的药草茶能杀死肚子里的寄生虫，顺便安抚肠胃。快去煮一杯来，救救那个蠢货的命。"
+msgstr "あーあ、面倒なことになった。生水を飲むなって忠告したの、覚えてるか？どうやら聞いてなかったやつがいるらしい。今そいつはひどい赤痢で、上から下から全部出して脱水状態だ。このままじゃ武器を持って見張りに立つことすらできない。いいか、こんな本来なら防げたバカな事態のために、貴重な抗生物質を無駄遣いするのはもったいなさすぎる。昔ながらのやり方でいくぞ。外に出て探してこい。地面に生えてる、ちょっと変わった野草だ（たいてい小さな黄色い花か赤い花が咲いている）。それを採ってきて、きれいな水を二本分と一緒に煮出す――いいか、必ず二本分だ。やつには大量の水分補給が必要だからな。そうして作った薬草茶なら、腸の中の寄生虫を殺して、ついでに腹も落ち着かせてくれる。さっさと一杯煮てきて、その間抜けの命をつないでやれ。"
+
+#. Key:	FE9CF41C44490C60955B608FBD347573
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30004.LogDescription_10_32F75F4343592643E76DC28D283FA682
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30004.LogDescription_10_32F75F4343592643E76DC28D283FA682
+msgctxt ",FE9CF41C44490C60955B608FBD347573"
+msgid "Maria 分享了一份能持续恢复生命值的高级食谱。这需要优质的肉类（如鹿肉、熊肉）和药草。这种“肉药膳”能在一段时间内提供强大的生命回复效果，是持久战的必备物资。"
+msgstr "Maria は生命値を持続的に回復できる高級レシピを共有した。これには上質な肉（鹿肉や熊肉など）と薬草が必要だ。この“肉薬膳”は一定時間強力な生命回復効果を提供し、持久戦に欠かせない物資となる。"
+
+#. Key:	83E7677B4EC58DD507765485E34EE642
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30004.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30004.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+msgctxt ",83E7677B4EC58DD507765485E34EE642"
+msgid "进阶烹饪：猛兽药膳 "
+msgstr "上級料理：野獣の薬膳料理"
+
+#. Key:	CCBA2D93423B2FC7E634DD8C9FE7233D
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30004.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30004.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+msgctxt ",CCBA2D93423B2FC7E634DD8C9FE7233D"
+msgid "我看过太多人虽然包扎了伤口，但最后还是死于虚弱。绷带只能止血，它不能帮你长出新的肉。对于那些受了重伤、或者准备去挑战高难度区域的人，我有一份特殊的食谱——肉药膳。这可不是用普通的兔子肉或者那些变质的罐头肉能做出来的。你需要更强壮的猎物。去森林里猎杀鹿，或者是熊——如果你胆子够大的话。这种猛兽的肉（优质生肉）富含极高的能量，配合药草的药性一起慢炖，吃下去后，你会感觉热流涌遍全身，伤口会自己慢慢愈合。这不只是一顿饭，这是救命的药。"
+msgstr "傷口に包帯を巻いたものの、衰弱して死んでいく人々を何人も見てきました。包帯は出血を止めることはできますが、新しい肉を再生させることはできません。重傷を負った人、あるいは高難度エリアに挑もうとする人のために、私には特別なレシピがあります。それは、肉を使った薬膳料理です。これは普通のウサギ肉や腐った缶詰の肉では作れません。より強い獲物が必要です。森で鹿を狩るか、勇気があれば熊を狩ってください。これらの獣の肉（上質な生肉）は、エネルギーが非常に豊富です。薬草の効能とともにじっくり煮込んだ料理は、食べると体に温かい電流が流れ、傷がゆっくりと自然に治っていくのを感じます。これは単なる食事ではなく、命を救う薬なのです。"
+
+#. Key:	1F83AD2A46549E8C7FEA4687C67EC181
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30005.LogDescription_10_32F75F4343592643E76DC28D283FA682
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30005.LogDescription_10_32F75F4343592643E76DC28D283FA682
+msgctxt ",1F83AD2A46549E8C7FEA4687C67EC181"
+msgid "想要开始钓鱼，必须先拥有合适的工具。Maria 指导我建造“农业工作台”。这是处理有机材料的专用设施，也是制作鱼线、鱼钩和各种鱼饵的必经之路。"
+msgstr "釣りを始めるには、まず適切な道具を用意しなければならない。マリアは私に「農業作業台」の建設を指示した。これは有機素材を加工するための専用施設であり、釣り糸や釣り針、さまざまなエサを作るための必須の設備でもある。"
+
+#. Key:	E8303D204214F61E4B519F8BD222D175
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30005.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30005.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+msgctxt ",E8303D204214F61E4B519F8BD222D175"
+msgid "自给自足：工欲善其事 "
+msgstr "自給自足：工欲善其事"
+
+#. Key:	FC92268D4934BD6E821460B89F395B06
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30005.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(0).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30005.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(0).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+msgctxt ",FC92268D4934BD6E821460B89F395B06"
+msgid "解锁农业工作台"
+msgstr "農業作業台を解放する"
+
+#. Key:	EC38A4F142185E7BA7F1259D1C62DC01
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30005.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(1).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30005.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(1).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+msgctxt ",EC38A4F142185E7BA7F1259D1C62DC01"
+msgid "建造农业工作台"
+msgstr "農業作業台を建設する"
+
+#. Key:	735115D44ACC00B732530EB3C961EB8E
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30005.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30005.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+msgctxt ",735115D44ACC00B732530EB3C961EB8E"
+msgid "看着那条河了吗？那下面潜伏着巨大的蛋白质来源——鱼。相比于去森林里和熊搏斗，坐在河边钓鱼要安全得多，也惬意得多。但你不能指望用生锈的铁丝就把鱼钓上来。你需要强韧的尼龙鱼线，还有能骗过鱼眼睛的特制鱼饵。这些精细的小玩意儿在粗笨的锻造台上是做不出来的。我需要你建造一个农业工作台。别被名字骗了，它不光能处理种子和肥料。有了它，我们就能把布料搓成高强度的线，把腐肉和玉米加工成鱼儿无法抗拒的诱饵。去把它建起来，这是我们迈向渔业大亨的第一步。"
+msgstr "あの川が見えるか？あの水面の下には、巨大なタンパク源――魚が潜んでいる。森に行ってクマと殴り合うより、川辺に座って釣りをするほうがずっと安全で、ずっと快適だ。ただし、錆びた針金で魚が釣れるなんて期待するなよ。必要なのは、強靭なナイロン製の釣り糸と、魚の目をごまかせる特製のルアーだ。そんな精巧な代物は、あのゴツい鍛冶台じゃ作れない。だからお前には農業作業台を作ってほしい。名前にだまされるなよ、あれは種や肥料だけを扱う台じゃない。あれさえあれば、布をより合わせて高強度の糸にしたり、腐肉とトウモロコシを加工して、魚が抗えないエサにできる。さあ、さっさと建ててこい。これが、俺たちが漁業成金になるための第一歩だ。"
+
+#. Key:	E432FF5E403DC34A771E7A8FEC1EAD62
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30006.LogDescription_10_32F75F4343592643E76DC28D283FA682
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30006.LogDescription_10_32F75F4343592643E76DC28D283FA682
+msgctxt ",E432FF5E403DC34A771E7A8FEC1EAD62"
+msgid "Maria 厌倦了普通的烤鱼。她要求我制作一份更精致的“海鲜肉排”。这需要将生鱼肉与玉米粉结合，并用动物油脂进行煎炸。这"
+msgstr "Maria は普通の焼き魚に飽きてしまいました。彼女は私にもっと洗練された「シーフードパティ」を作るよう求めています。これは生魚の肉とコーンフラワーを組み合わせ、動物性脂肪で揚げる必要があります。"
+
+#. Key:	43FF9AD743250EFC83B5639976075933
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30006.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30006.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+msgctxt ",43FF9AD743250EFC83B5639976075933"
+msgid "顶级料理：海鲜肉排 "
+msgstr "最高級料理：シーフードステーキ"
+
+#. Key:	4DC3B57A48D557895014CBAB2667A9BF
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30006.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30006.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+msgctxt ",4DC3B57A48D557895014CBAB2667A9BF"
+msgid "哈，看看这些新鲜的渔获！你已经是个合格的渔夫了。但别急着把它们像原始人一样穿在树枝上烤。那样做只会毁了肉质，而且吃起来一股腥味。我们要用更文明的方式处理它们。把鱼肉切片，裹上一层金黄的玉米粉，然后在滚烫的动物油脂里煎到酥脆。这就是海鲜肉排。外酥里嫩，咬一口能流出汁水。在这个该死的世界里，能吃到这种东西简直就是奇迹。去厨房试试吧，做好了记得分我一块，我已经很久没闻到油炸食物的香味了。"
+msgstr "はは、見ろよ、この獲れたての魚！もう立派な漁師だな。でも、原始人みたいに枝に刺してそのまま炙るのはやめとけ。あれじゃ身は台無しだし、食ったら生臭くてたまらん。もっと文明的なやり方で調理するんだ。魚の身を切り分けて、きつね色になるまでトウモロコシ粉をまぶし、熱した獣脂でカリッと揚げ焼きにする。これがシーフードステーキだ。外はサクサク、中はふっくら、噛めば肉汁があふれ出す。このクソみたいな世界で、そんなものが食えるなんてほとんど奇跡だ。キッチンで試してみろよ。うまくできたら一切れ分けてくれ。揚げ物の匂いなんて、もうどれだけ嗅いでないか分からないんだ。"
+
+#. Key:	DE698621425DC57533B538ACA73B8094
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30007.LogDescription_10_32F75F4343592643E76DC28D283FA682
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30007.LogDescription_10_32F75F4343592643E76DC28D283FA682
+msgctxt ",DE698621425DC57533B538ACA73B8094"
+msgid "制作游戏中最顶级的食物：“全餐”。这是一个多步骤的过程。首先需要制作半成品“土豆配菜”，然后将其与肉类和水果组合。这道菜能提供巨大的属性加成。"
+msgstr "ゲーム内で最高級の料理「フルコース」を作る。これは複数の工程からなる。まず中間素材として「ポテトサイド」を作り、それを肉とフルーツと組み合わせる。この料理は非常に大きなステータスボーナスを与える。"
+
+#. Key:	06AD5046410AF8E16FED45B3884EF0C5
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30007.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30007.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+msgctxt ",06AD5046410AF8E16FED45B3884EF0C5"
+msgid "终极烹饪：幸存者全餐"
+msgstr "究極の料理：サバイバーのフルコース"
+
+#. Key:	9CAA96724BD655305F710F905BE604AA
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30007.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30007.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+msgctxt ",9CAA96724BD655305F710F905BE604AA"
+msgid "看看你，甚至不想再看那些烤焦的老鼠肉一眼了，对吧？你已经成长为一个真正的废土大厨了。是时候挑战那道传说中的菜肴了——幸存者全餐。这是旧世界文明的余晖，是对我们还活着的最高礼赞。听好了，这很复杂。首先，你需要用两个最好的土豆和水煮成泥，制作一份绵软的土豆配菜。然后，才是魔法发生的时刻。把这份土豆配菜作为基底，配上一块厚实的肉排，最后点缀上一颗新鲜多汁的水果解腻。这不仅仅是一顿饭，这是希望的味道。吃下它，你将无所畏惧。去吧，完成这道杰作！"
+msgstr "ほら、もうあの焦げたネズミの肉なんて見たくないでしょ？ 君は真のウェイストランドシェフに成長した。伝説の料理「サバイバーズミール」に挑戦する時が来た。これは旧世界文明の黄昏であり、我々の生存への最高の賛辞だ。よく聞いてくれ、これは複雑なんだ。まず、最高のジャガイモ2個を水で潰して、クリーミーなポテトサイドディッシュを作る。すると魔法が起こる。このポテトサイドディッシュをベースに、分厚いステーキを乗せ、最後に新鮮でジューシーなフルーツで濃厚さを和らげる。これは単なる食事ではない。希望の味だ。食べれば、恐れを知らない君もいるだろう。さあ、この傑作を完成させよう！"
+
+#. Key:	FAF01FA04AB3DD8116BBD8A0AF3D9378
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30008.LogDescription_10_32F75F4343592643E76DC28D283FA682
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30008.LogDescription_10_32F75F4343592643E76DC28D283FA682
+msgctxt ",FAF01FA04AB3DD8116BBD8A0AF3D9378"
+msgid "Maria 对普通的“全餐”并不满意。制作出传说中的“美味全餐”。这是一道能提供极强属性加成的终极菜肴。"
+msgstr "Maria は普通の「フルコース」に満足していません。伝説の「美味しいフルコース」を作り出してください。これは非常に強力な属性ボーナスを提供する究極の料理です。"
+
+#. Key:	394275974DECAFBD5CD53F9C7815D761
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30008.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30008.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+msgctxt ",394275974DECAFBD5CD53F9C7815D761"
+msgid "追求极致：美味全餐"
+msgstr "究極を追求：美味しい完全食"
+
+#. Key:	5CEF4338488DF8378A3A1895BD375505
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30008.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30008.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+msgctxt ",5CEF4338488DF8378A3A1895BD375505"
+msgid "大家都对那顿全餐赞不绝口，但我...我昨晚尝了一口，总觉得还缺了点什么。它能填饱肚子，但它缺少灵魂！我不仅是个厨子，我是个艺术家！我不能容忍这种‘还过得去’的作品。听着，我们要把那道菜提升到神的领域。相信我，当这道美味全餐出锅的时候，香气会把方圆十里的僵尸都引过来。快去做，我要看到完美的艺术品！"
+msgstr "みんなあのフルコースを絶賛してるけど、俺は…俺は昨夜ひと口食べてみて、どうしても何かが足りない気がしたんだ。腹は満たせる、だが魂がこもってない！　俺はただのコックじゃない、アーティストなんだ！　こんな「まあ悪くない」程度の作品は許せない。いいか、あの料理を神の領域にまで引き上げるぞ。信じろ、この究極のフルコースが仕上がったとき、その香りは半径十キロのゾンビを呼び寄せるくらいになる。さあ、やるんだ。完璧な芸術品を見せてくれ！"
+
+#. Key:	13A811EC4E8422705CFB0A8BCEFDCDAC
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30009.LogDescription_10_32F75F4343592643E76DC28D283FA682
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30009.LogDescription_10_32F75F4343592643E76DC28D283FA682
+msgctxt ",13A811EC4E8422705CFB0A8BCEFDCDAC"
+msgid "Maria 开始传授医疗知识。创口贴是基础医疗物资。它可以治愈“轻度外伤”，或使“中度流血”的出血量减少 50%。重要提示：治疗时，按住 Tab 打开人物面板，将创口贴从背包拖拽至受伤的身体部位（如左臂、右腿）即可生效。"
+msgstr "Maria は医療知識を教え始めました。ばんそうこうは基本的な医療物資です。「軽度の外傷」を治癒したり、「中度の出血」の出血量を50%減少させることができます。重要なヒント：治療する際は、Tabキーを押してキャラクターパネルを開き、ばんそうこうをバックパックから負傷した部位（左腕や右脚など）にドラッグすることで効果を発揮します。"
+
+#. Key:	F112E0DC47BB001A02C628B49328BD0A
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30009.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30009.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+msgctxt ",F112E0DC47BB001A02C628B49328BD0A"
+msgid "医疗基础：对症下药"
+msgstr "医療の基礎：対症療法"
+
+#. Key:	C5D2319744D4DBE951A51197BAAC388F
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30009.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30009.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+msgctxt ",C5D2319744D4DBE951A51197BAAC388F"
+msgid "这一路走来，我看你也受了不少皮肉伤。吃饱肚子虽然能慢慢恢复体力，但那是之后的事。如果你在战场上流血不止，只有急救用品能救你的命。我需要检查一下你的急救包。去给我找个创口贴来。别小看这东西。如果是轻微的擦伤，它能直接治好；哪怕是大口子（中度流血），贴上它也能让你的流血速度减半，给你争取逃命的时间。但有个前提——你得会用。我看过太多笨蛋把药吞下去，而不是贴在伤口上。记住，必须把这玩意儿直接按在受伤的部位上才有效。好了，别光听我说，把东西拿给我看看，我要确认它还是无菌的。"
+msgstr "ここまで来るあいだに、お前もずいぶん傷だらけになったな。腹いっぱい食えば体力は少しずつ戻るが、それはあくまで後の話だ。戦場で血が止まらないときに命を救ってくれるのは、応急用品だけだ。お前の救急キットを一度確認しておきたい。まずは絆創膏を一つ持ってきな。こんなものと侮るなよ。軽い擦り傷なら、それだけで完全に治せるし、大きくぱっくりいった傷（中程度の出血）でも、貼れば出血速度を半分に抑えられる。逃げる時間を稼げるってわけだ。ただし前提がある――正しく使えることだ。薬を傷口に貼るんじゃなくて飲み込むバカを、俺はもう何人も見てきた。いいか、これは必ず直接、傷ついた部位に押し当てて使うんだ。さあ、話はこれくらいにして、その絆創膏を見せてみろ。まだ無菌状態かどうか確認しておきたい。"
+
+#. Key:	ECD4AC944A6590861FE843A954FEFF62
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30010.LogDescription_10_32F75F4343592643E76DC28D283FA682
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30010.LogDescription_10_32F75F4343592643E76DC28D283FA682
+msgctxt ",ECD4AC944A6590861FE843A954FEFF62"
+msgid "搜刮来的药物越来越少，是时候掌握制药技术了。Maria 提供了“制药桌”的蓝图。这是制作高级药品、提炼草药精华以及合成抗生素的专用工作台。"
+msgstr "拾える薬がどんどん少なくなってきた。そろそろ製薬技術を身につける時だ。Maria が「製薬台」の設計図を提供してくれた。これは高級な薬品の製造、薬草エキスの精製、そして抗生物質の合成に特化した作業台だ。"
+
+#. Key:	12D20ECD4F4ACB90E2A1B0A85C986C0C
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30010.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30010.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+msgctxt ",12D20ECD4F4ACB90E2A1B0A85C986C0C"
+msgid "设施升级：制药桌"
+msgstr "施設アップグレード：製薬台"
+
+#. Key:	A3508D874E8397040876E79221309F68
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30010.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(0).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30010.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(0).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+msgctxt ",A3508D874E8397040876E79221309F68"
+msgid "解锁制药桌"
+msgstr "製薬台をアンロック"
+
+#. Key:	7DDA835E419203B681EC44AE65CF8E5A
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30010.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(1).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30010.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(1).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+msgctxt ",7DDA835E419203B681EC44AE65CF8E5A"
+msgid "建造制药桌"
+msgstr "製薬台を建設する"
+
+#. Key:	1346C9B04AEA2F708DFE90B0B36D6EB9
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30010.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30010.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+msgctxt ",1346C9B04AEA2F708DFE90B0B36D6EB9"
+msgid "创口贴和那些从垃圾堆里捡来的脏绷带只能应急。如果遇到真正的病毒感染或者大出血，靠那些东西就是等死。我们不能永远指望运气，去早已被洗劫一空的药店碰运气。我们需要自己生产药物。我懂怎么提炼草药，也懂怎么合成抗生素，但我不能在满是油污的地上做这些精细活。哪怕是一粒灰尘都可能毁了一整锅药剂。去给我造一张制药桌。建好它，我就能教你如何从死神手里抢人。"
+msgstr "絆創膏や、ゴミ山から拾ってきた汚れた包帯なんて応急処置にしかならない。本物のウイルス感染や大出血に遭ったら、あんなものに頼るのは死を待つのと同じだ。いつまでも、すでに荒らされ尽くした薬局で運任せに頼るわけにはいかない。自分たちで薬を作る必要がある。俺は薬草の精製も、抗生物質の合成もわかっているが、油まみれの床の上じゃそんな繊細な作業はできない。たった一粒のホコリでも、一鍋分の薬剤を台無しにしかねないんだ。製薬台を一台作ってこい。できあがったら、死神の手から人間を奪い返す方法を教えてやる。"
+
+#. Key:	6DFEC9FE4783B0656169E48BC0257E7E
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30011.LogDescription_10_32F75F4343592643E76DC28D283FA682
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30011.LogDescription_10_32F75F4343592643E76DC28D283FA682
+msgctxt ",6DFEC9FE4783B0656169E48BC0257E7E"
+msgid "感染是致命的。Maria 教导我如何利用“发霉的面包”提取青霉素。这是游戏中唯一能治愈“丧尸感染”初期症状的药物。需要在制药桌上完成。"
+msgstr "感染は致命的だ。マリアが、“カビの生えたパン”からペニシリンを抽出する方法を教えてくれた。これはゲーム中で“ゾンビ感染”の初期症状を治せる唯一の薬だ。製薬台で作業する必要がある。"
+
+#. Key:	2858596446CBE775AF154A8FF78E390A
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30011.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30011.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+msgctxt ",2858596446CBE775AF154A8FF78E390A"
+msgid "核心科技：救命的霉菌"
+msgstr "コアテクノロジー：命を救うカビ"
+
+#. Key:	235D52274E3A8B7C874968A07878FFAC
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30011.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30011.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+msgctxt ",235D52274E3A8B7C874968A07878FFAC"
+msgid "你有了桌子，现在我们要制作废土上比黄金还贵重的东西——抗生素。被丧尸抓伤后，伤口会发炎、化脓，最后把你变成它们的一员。普通的绷带救不了你，只有青霉素可以。别在那儿找药瓶子了。看那个垃圾桶，把那几块发霉的面包捡回来。是的，你没听错。我们要提取面包上的绿色霉菌，在制药桌上进行提纯，加上一点硝酸钾作为催化剂。这过程听起来很恶心，但它能从死神手里把你的命买回来。去吧，做出你的第一瓶青霉素。你会感谢这些发霉的垃圾的。"
+msgstr "さあ、テーブルが完成したら、荒野で金よりも価値のあるものを作りましょう。抗生物質です。ゾンビに引っかかれると、傷口は感染して化膿し、やがてあなたもゾンビの仲間になってしまいます。普通の包帯では助からず、ペニシリンだけが助かります。薬瓶を探すのはもうやめましょう。あのゴミ箱を見て、カビの生えたパンを拾いましょう。そうです、お聞きの通りです。パンから緑色のカビを抽出し、薬作りテーブルで精製し、触媒として少量の硝酸カリウムを加えます。気持ち悪い話に聞こえますが、あなたの命を救うことができるのです。さあ、ペニシリンの最初の瓶を作りましょう。このカビの生えたガラクタに感謝することになるでしょう。"
+
+#. Key:	B3C179B7474D149BCCF6A1B8748716A8
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40000.LogDescription_10_32F75F4343592643E76DC28D283FA682
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40000.LogDescription_10_32F75F4343592643E76DC28D283FA682
+msgctxt ",B3C179B7474D149BCCF6A1B8748716A8"
+msgid "想要维护装备或制造陷阱，必须学会加工金属。"
+msgstr "装備を整備したり罠を作ったりするには、金属加工を覚えなければならない。"
+
+#. Key:	5FF27CDE4B9D517184654BAA83C0F7A1
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40000.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40000.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+msgctxt ",5FF27CDE4B9D517184654BAA83C0F7A1"
+msgid "工业基石：简易零件 "
+msgstr "産業基盤：シンプルな部品"
+
+#. Key:	103259244AC9D7D090FD5983D7C52948
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40000.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40000.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+msgctxt ",103259244AC9D7D090FD5983D7C52948"
+msgid "如果你想当个合格的工程师，光靠捡别人的垃圾是不够的。假如你需要一颗 M10 的螺栓，难道你要去翻遍整个城市的垃圾桶碰运气吗？不，你自己造。简易零件，这是工业文明的红细胞。无论是修理你的破枪，还是组装我的炮塔，都需要成千上万个这样的小东西。"
+msgstr "優秀なエンジニアになりたいなら、他人のゴミを漁るだけでは不十分だ。M10ボルトが必要になったら、街中のゴミ箱をくまなく探すだろうか？いいえ、自分で作ればいい。シンプルな部品――産業文明の赤血球だ。壊れた銃を修理するにしても、私の砲塔を組み立てるにしても、こうした小さな部品が何千、何万と必要になる。"
+
+#. Key:	8D79BD004F2AA850FBE6D0BEBD2B81E6
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40001.LogDescription_10_32F75F4343592643E76DC28D283FA682
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40001.LogDescription_10_32F75F4343592643E76DC28D283FA682
+msgctxt ",8D79BD004F2AA850FBE6D0BEBD2B81E6"
+msgid "Mike 认为你在接触更复杂的电力系统前，必须学会整理装备。提交一个“工具箱”以换取他的进阶教学手册。"
+msgstr "Mike はより複雑な電力システムに触れる前に、装備を整理する方法を学ぶ必要があると考えています。「工具箱」を提出して彼の上級教本を交換してください。"
+
+#. Key:	3E2259B745EF0EF3F339FCAE9FBD75E3
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40001.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40001.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+msgctxt ",3E2259B745EF0EF3F339FCAE9FBD75E3"
+msgid "进阶工程：专业的象征 "
+msgstr "高度なエンジニアリング：プロフェッショナリズムの象徴"
+
+#. Key:	CC000AA9424041A8B85EB7A59209A905
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40001.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40001.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+msgctxt ",CC000AA9424041A8B85EB7A59209A905"
+msgid "你会拆东西，也会造零件，但这还不够。看看你现在的样子——口袋里塞满了散乱的螺丝，甚至把扳手别在裤腰带上。简直是个业余的笑话。如果我要教你怎么处理高压电，你就不能像个捡破烂的一样手忙脚乱。当你一只手按着带电的电缆时，你没时间去背包底部翻找绝缘胶带。我需要看到你像个专业人士。去给我搞一个工具箱来。无论是去汽修厂搜刮，还是用铁皮自己敲一个，我不在乎。把它交给我，证明你准备好升级了。作为交换，这本我珍藏的**《电气工程指南：第二卷》**就是你的了。它能教你怎么把电存起来，而不是让它们白白流失。"
+msgstr "物を分解して部品を作ることはできますが、それだけでは十分ではありません。今のあなたを見て下さい。ポケットには緩んだネジがぎっしり詰まっていて、ベルトにはレンチさえ入っています。素人の冗談のようです。私があなたに高圧電気の取り扱い方を教えるつもりなら、廃品回収人のように走り回ってはいけません。片手に通電中の電線を持っている時に、バックパックの底をひっかいて絶縁テープを探す時間はありません。私はあなたがプロのように行動するのを見なければなりません。私に工具箱を持ってきてください。自動車整備工場から拾ってくるのであれ、板金からハンマーで叩き出すのであれ、私は構いません。私に渡せば、アップグレードの準備ができている証拠になります。その代わりに、私が大切にしているこの **電気工学ガイド: 第 2 巻** をあなたのものにします。この本では、電気を無駄にするのではなく、蓄える方法が学べます。"
+
+#. Key:	BE9505994A8E087EC55010BE330D3416
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40002.LogDescription_10_32F75F4343592643E76DC28D283FA682
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40002.LogDescription_10_32F75F4343592643E76DC28D283FA682
+msgctxt ",BE9505994A8E087EC55010BE330D3416"
+msgid "关键步骤：建造并放置蓄电池组。打开它的控制面板，放入电池。使用接线钳，将发电机的输出端连接到电池组的输入端。将电池组的输出端连接到用电设备（如电灯）。"
+msgstr "Key Steps: Build and place a battery bank. Open its control panel and insert batteries. Use wire cutters to connect the generator’s output to the battery bank’s input. Then connect the battery bank’s output to electrical devices (such as lights)."
+
+#. Key:	11A355D949EB1C5317B946876A5DBCBF
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40002.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40002.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+msgctxt ",11A355D949EB1C5317B946876A5DBCBF"
+msgid "能源革命：静默储备"
+msgstr "エネルギー革命：静かな備蓄"
+
+#. Key:	692FF968474A56577E106C8A1529FB60
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40002.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(0).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40002.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(0).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+msgctxt ",692FF968474A56577E106C8A1529FB60"
+msgid "解锁电池组"
+msgstr "バッテリーパックをアンロック"
+
+#. Key:	1043B01948F7B92DC0C378AC20DDCD2F
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40002.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(1).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40002.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(1).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+msgctxt ",1043B01948F7B92DC0C378AC20DDCD2F"
+msgid "建造电池组"
+msgstr "バッテリーパックを建設する"
+
+#. Key:	72C8923D4CEC3E69CB878B8ABC1F16FA
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40002.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40002.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+msgctxt ",72C8923D4CEC3E69CB878B8ABC1F16FA"
+msgid "书看完了？很好。现在来看看你学到了多少。听着，发电机是个吵闹的野兽。它就像在向方圆五公里的丧尸大喊：‘嘿！这里有鲜肉！’ 而且一旦汽油耗尽，你的防御塔就会变成废铁。我们需要一个缓冲池。我们需要蓄电池组。它的原理很简单：发电机把电充进去，电池把电存起来。当发电机停机时，电池组会无缝接管供电。这叫不间断电源（UPS）。去造一个电池组，往里面塞进那块沉得要死的铅酸电池，然后把线路重新接一下。按照这个顺序：发电机连到电池组，电池组再连到你的灯泡上。别接反了，除非你想看烟花"
+msgstr "本を読み終えた？よし、どれだけ学んだか見てみよう。聞け、発電機は騒がしい獣だ。まるで半径5キロのゾンビに向かって『おい！ここに新鮮な肉があるぞ！』と叫んでいるようなものだ。そしてガソリンが切れたら、防御タワーはただの鉄くずになる。だからバッファーが必要だ。蓄電池ユニットが必要だ。仕組みは簡単だ：発電機が電気を充電し、バッテリーが電気を蓄える。発電機が停止したとき、バッテリーユニットが無停止で電力供給を引き継ぐ。これを無停電電源装置（UPS）と呼ぶ。バッテリーユニットを作り、あの重たい鉛蓄電池を中に入れ、配線をやり直せ。この順番でやるんだ：発電機をバッテリーユニットに接続し、バッテリーユニットを電球に接続する。逆に接続するな、花火を見たいのでなければな。"
+
+#. Key:	4A564F3A46BD9DD4C48C2C84FBFE18E9
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40003.LogDescription_10_32F75F4343592643E76DC28D283FA682
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40003.LogDescription_10_32F75F4343592643E76DC28D283FA682
+msgctxt ",4A564F3A46BD9DD4C48C2C84FBFE18E9"
+msgid "汽油是稀缺资源，但木头和煤炭到处都是。Mike 指导你建造一台使用固体燃料的“火力发电机”。"
+msgstr "ガソリンは貴重な資源だが、木材と石炭はそこら中にある。Mike は、固体燃料を使う「火力発電機」の建造方法を教えてくれる。"
+
+#. Key:	870F9B954CDA1A913C5DAA839AB675DB
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40003.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40003.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+msgctxt ",870F9B954CDA1A913C5DAA839AB675DB"
+msgid "蒸汽时代：火力发电机"
+msgstr "蒸気時代：火力発電機"
+
+#. Key:	ED33B9694FDF45F90F4AFFA4FC0CA3F2
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40003.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40003.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+msgctxt ",ED33B9694FDF45F90F4AFFA4FC0CA3F2"
+msgid "好吧，看来你还没富裕到能把汽油当水喝的地步。或者你只是单纯喜欢砍树？没关系，在内燃机统治世界之前，我们靠的是燃烧。我给你一张火力发电机的图纸。这东西是个贪吃的铁皮怪兽，它不挑食——木头、煤炭、甚至你那是旧椅子，只要能烧的东西它都吃。虽然它的功率不如燃油发电机稳定，而且会冒出呛人的黑烟，但只要你还有力气挥动斧头，你就永远不会断电。建好它，塞满煤炭，把它烧得通红！"
+msgstr "なるほど、あなたはガソリンを水のように飲めるほど裕福ではないようですね。それとも、木を切るのが好きなだけでしょうか？問題ありません。内燃機関が世界を支配する前は、私たちは燃焼に頼っていました。これが火力発電所の設計図です。これは貪欲なブリキの怪物です。好き嫌いはありません。木、石炭、古い椅子でさえも。燃えるものなら何でも食べます。出力は燃料発電機ほど安定しておらず、刺激臭のある黒煙を吐き出しますが、斧を振り回す力さえあれば、電力が尽きることはありません。さあ、建てて石炭を積み、燃え盛らせましょう！"
+
+#. Key:	79AFBA574E807AB0B50B39B396FF6577
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40004.LogDescription_10_32F75F4343592643E76DC28D283FA682
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40004.LogDescription_10_32F75F4343592643E76DC28D283FA682
+msgctxt ",79AFBA574E807AB0B50B39B396FF6577"
+msgid "手工制作已经达到极限。这是制造高级枪械、弹药和载具零件的唯一工作台。"
+msgstr "手作業による製作はすでに限界に達している。これは高級な銃器、弾薬、および乗り物の部品を製造するための唯一の作業台だ。"
+
+#. Key:	2F7E34044393292D576A88808183FB71
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40004.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40004.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+msgctxt ",2F7E34044393292D576A88808183FB71"
+msgid "工业革命：机械加工台"
+msgstr "産業革命：加工テーブル"
+
+#. Key:	A153CAF349FD852F5F6C2B926540DC2E
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40004.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40004.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+msgctxt ",A153CAF349FD852F5F6C2B926540DC2E"
+msgid "我们有了电，有了火。但说实话，看着你还在那个破铁砧上敲敲打打，像个中世纪的铁匠，我就觉得好笑。听着，你不可能用锤子敲出一根精准的步枪枪管，也不可能徒手捏出一个发动机缸体。我们需要精度。我们需要公差控制在微米级的设备。是时候建造机械加工台了。它是现代工业的结晶。有了它，我们就不再是‘生存者’，而是‘制造商’。从现在起，我们要造的是真正的穿甲弹，甚至是越野车。别心疼材料，把它造出来。这是你在这个废土上能拥有的最强大的盟友。"
+msgstr "電気はあるし、火もある。でも正直言って、君たちがまだ中世の鍛冶屋みたいに壊れた金床を叩き続けているのを見ると、ただただ笑ってしまう。いいかい、精密なライフルの銃身を叩き出すことはできないし、エンジンブロックを手作業で成形することもできない。必要なのは精度だ。マイクロメートル単位の公差を持つ設備が必要だ。今こそマシニングセンターを作る時だ。これは近代産業の集大成だ。これがあれば、我々はもはや「生き残り」ではなく「製造者」になる。これからは本物の徹甲弾、オフロード車さえも作れるようになる。材料をケチるな、とにかく作れ。この荒野で君たちが手にできる最も力強い味方だ。"
+
+#. Key:	738070724A54F1044A9998AC6922BBF3
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40005.LogDescription_10_32F75F4343592643E76DC28D283FA682
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40005.LogDescription_10_32F75F4343592643E76DC28D283FA682
+msgctxt ",738070724A54F1044A9998AC6922BBF3"
+msgid "只有钢材才能承受机械加工台的高强度作业。Mike 要求你通过拆解或制作获得“钢锭”。"
+msgstr "機械加工台での高強度作業に耐えられるのは鋼鉄だけです。マイクは、分解またはクラフトによって「鋼鉄インゴット」を入手することを要求しています。"
+
+#. Key:	7EFC504B4673A58345ADE49A59FDF8FA
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40005.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40005.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+msgctxt ",7EFC504B4673A58345ADE49A59FDF8FA"
+msgid "材料进阶：千锤百炼"
+msgstr "素材強化：千錘百煉"
+
+#. Key:	C92902C84CE7F639ACCD13A0B5216BEB
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40005.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40005.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+msgctxt ",C92902C84CE7F639ACCD13A0B5216BEB"
+msgid "机械加工台已经准备好了，但别急着开机。如果你往那台精密的机器里塞这种软趴趴的熟铁，造出来的枪管炸膛了可别怪我。铁太软了，也太重了。想要制造军用级的装备，我们需要更硬、更强、更纯粹的东西。我们需要钢。你可以去拆掉路边的路灯，或者撬开银行的保险柜，那里通常含有优质钢材。弄10个钢锭给我。一旦你搞定了这个，我就教你怎么在家里自己烧制这玩意儿，这样你就不用像个拾荒者一样到处敲路灯了。"
+msgstr "機械加工台の準備はできているが、まだ電源は入れるな。そんなフニャフニャの錬鉄をあの精密機械に突っ込んで、できた銃身が暴発しても俺のせいにするなよ。鉄は柔らかすぎるし、重すぎる。軍用レベルの装備を作りたいなら、もっと硬く、もっと強く、もっと純粋なものが必要だ。鋼が要る。街灯を解体するか、銀行の金庫をこじ開けてこい。ああいうところには、たいてい良質な鋼材が使われている。鋼インゴットを10個集めてくれ。これさえできれば、自宅で鋼を焼き上げる方法を教えてやる。そうすれば、もう拾い屋みたいに街灯を叩き壊して回る必要はなくなるさ。"
+
+#. Key:	A7A89147444F1B51F82A619A026DB47D
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40006.LogDescription_10_32F75F4343592643E76DC28D283FA682
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40006.LogDescription_10_32F75F4343592643E76DC28D283FA682
+msgctxt ",A7A89147444F1B51F82A619A026DB47D"
+msgid "Mike 认为你的木头防御工事不堪一击。他教你如何利用熔炉将粘土烧制成坚硬的砖块。"
+msgstr "Mike はあなたの木製防御工事が脆弱だと考えています。彼は粘土を炉で焼いて硬いレンガを作る方法を教えてくれます。"
+
+#. Key:	5CB1DBF44E1123E8C923A496F9A78926
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40006.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40006.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+msgctxt ",5CB1DBF44E1123E8C923A496F9A78926"
+msgid "基础建设：坚固的基石"
+msgstr "基礎建設：揺るぎない礎"
+
+#. Key:	DC26E9A94599AD494EC86E8E7FA85A84
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40006.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40006.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+msgctxt ",DC26E9A94599AD494EC86E8E7FA85A84"
+msgid "嘿，菜鸟，别再往墙上钉那些烂木板了。昨天晚上我听见有东西在挠墙，那种声音听起来像是它们要把你的木头房子拆了当牙签用。木头会腐烂，还会着火，作为防御工事它简直就是个笑话。我们需要更硬的东西。你脚下的泥土——如果是粘土的话——那是好东西。把它挖出来，扔进你那口破熔炉里烧一烧。高温会让软泥变成像石头一样硬的砖块。去给我烧 10块砖 出来。这是你摆脱住在烂木棚里的第一步"
+msgstr "おい、新米め、腐った板を壁に釘付けにするのをやめろ。昨夜、何かが壁を引っ掻く音が聞こえた。まるでお前の小屋を壊してつまようじに使おうとしているかのようだった。木は腐って燃える。防御構造としては冗談だ。もっと硬いものが必要だ。お前の足元の土 ― もし粘土なら ― は良い材料だ。掘り出してお前の壊れた炉に投げ込め。高温で柔らかい泥も石のように硬いレンガに変わる。さあ、レンガを10個焼いてくれ。それがお前の腐った小屋を処分する第一歩だ。"
+
+#. Key:	C1F870394F577837F532E09EE44FA2F1
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40007.LogDescription_10_32F75F4343592643E76DC28D283FA682
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40007.LogDescription_10_32F75F4343592643E76DC28D283FA682
+msgctxt ",C1F870394F577837F532E09EE44FA2F1"
+msgid "石制工具效率低下。Mike 坚持让你学习提炼金属。利用熔炉将废铁或矿石转化为“锻造铁”。(提示：你需要先向熔炉内添加燃料，并确保熔炉内有足够的“铁”资源储备)"
+msgstr "石の道具は効率が悪すぎる。Mike は、お前に金属精錬を覚えさせるつもりらしい。炉を使って、スクラップや鉱石を「鍛造鉄」に精錬しろ。（ヒント：まず炉に燃料を入れ、それから炉の中に十分な量の「鉄」系資源があることを確認する必要がある）"
+
+#. Key:	AB699CF2491B7D2BDE986987A57F2D91
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40007.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40007.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+msgctxt ",AB699CF2491B7D2BDE986987A57F2D91"
+msgid "冶炼入门：锻造铁 "
+msgstr "Smelting Basics: Iron Forging"
+
+#. Key:	D905A67040BF1B75471B21906E25CB95
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40007.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40007.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+msgctxt ",D905A67040BF1B75471B21906E25CB95"
+msgid "砖块烧得不错，至少你不会把房子点着了。但你手里拿的是什么？一把石斧？老天，你是原始人吗？听着，在这个鬼地方，如果你想活得久一点，光靠石头和木棍是不行的。我们需要更锋利、更坚固的东西。把你捡来的那些空罐头、拆掉的废铁片，或者刚挖出来的铁矿石，通通扔进熔炉里。让火烧旺一点，把它们化成铁水，然后给我铸造出10个锻造铁来。只要有了这个，就能造出真正的镐子和斧头。那感觉就像切豆腐一样爽。"
+msgstr "レンガの焼き上がりは悪くない。少なくとも、家を丸ごと燃やすことはなさそうだ。だが、その手に持っているのは何だ？石の斧？おいおい、お前は原始人か？いいか、このクソみたいな場所で長生きしたいなら、石と棒きれだけじゃ話にならない。もっと鋭くて、もっと頑丈なものが要る。拾い集めた空き缶、バラしたスクラップ、掘り出した鉄鉱石――そういうのを全部まとめて炉に放り込め。火力を上げて溶かし、鉄のインゴットを10個鋳造するんだ。それさえあれば、本物のツルハシと斧が作れる。岩だろうが木だろうが、豆腐みたいにサクサクいけるぞ。"
+
+#. Key:	E7B5AB5F45D46738AF1D4A8516F1ACAC
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40008.LogDescription_10_32F75F4343592643E76DC28D283FA682
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40008.LogDescription_10_32F75F4343592643E76DC28D283FA682
+msgctxt ",E7B5AB5F45D46738AF1D4A8516F1ACAC"
+msgid "是时候告别石斧了。利用之前获得的铁锭，制作一把真正的伐木工具。"
+msgstr "そろそろ石の斧とはお別れだ。前に手に入れた鉄インゴットを使って、本物の伐採用ツールを作ろう。"
+
+#. Key:	B8D502044B3156F4902238AB40FB65B4
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40008.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40008.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+msgctxt ",B8D502044B3156F4902238AB40FB65B4"
+msgid "工具升级：铁制伐木斧"
+msgstr "ツールアップグレード：鉄の伐採斧"
+
+#. Key:	0A76A9AF4A36CACBBB56F891914B4422
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40008.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40008.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+msgctxt ",0A76A9AF4A36CACBBB56F891914B4422"
+msgid "材料都齐了？很好。现在把那些铁锭放在砧子上，用锤子把它们敲打成型。别忘了用皮革缠好手柄，除非你想满手都是水泡。我要你做一把铁制消防斧。做好了拿给我看看。我要检查一下刃口的配重和锋利度。这把斧子不仅能帮你砍倒百年的老树，还能劈开那些被锁住的木门。别舍不得，如果它通过了我的测试，我会给你一些更有用的东西来保养它。"
+msgstr "素材は全部そろったか？よし。じゃあその鉄インゴットを金床の上に置いて、ハンマーで叩いて形を整えろ。柄はちゃんと革で巻くのを忘れるなよ、水ぶくれだらけになりたくないならな。お前には鉄製の消防斧を作ってもらう。できたら持ってきて見せろ。刃の重心と切れ味を確認したい。この斧は百年物の大木を倒すだけじゃなく、施錠された木の扉を叩き割ることもできる。遠慮するな、もし俺のテストに合格したら、それを手入れするのにもっと役立つものをやる。"
+
+#. Key:	DDDC4A2F4A4A8D01E25B5D9E20587D81
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40009.LogDescription_10_32F75F4343592643E76DC28D283FA682
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40009.LogDescription_10_32F75F4343592643E76DC28D283FA682
+msgctxt ",DDDC4A2F4A4A8D01E25B5D9E20587D81"
+msgid "随着物资增多，你需要更安全的存储方案。Mike 建议你制作容量更大、更坚固的“铁制储物箱”。"
+msgstr "物資が増えるにつれて、より安全な保管方法が必要になります。Mike は、より大容量で頑丈な「鉄製収納箱」を作ることを勧めています。"
+
+#. Key:	188981364A832F0C7ACF3AB6306028ED
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40009.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40009.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+msgctxt ",188981364A832F0C7ACF3AB6306028ED"
+msgid "后勤管理：铁制储物箱"
+msgstr "物流管理：鉄製収納ボックス"
+
+#. Key:	3B787DFA4989A66F01D282869F6EB08A
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40009.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40009.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+msgctxt ",3B787DFA4989A66F01D282869F6EB08A"
+msgid "哎哟！……见鬼，我差点被你丢在地上的那堆破烂绊倒。看看这地方，乱得像个垃圾场。你那些小木箱早就塞不下了吧？而且我得提醒你，如果那些绿皮怪物闯进来，它们两下就能把木箱砸烂，把你辛苦搜集的物资撒得到处都是。是时候把这里收拾一下了。用你刚炼出来的铁，做一个铁制储物箱。它不仅能装下两倍的东西，而且坚固得像个保险柜。别再把好东西扔地上了，有些东西丢了就找不回来了。"
+msgstr "うおっ……ちくしょう、床に放り出してあるガラクタの山で転びかけたぞ。見ろよこの有り様、まるでゴミ捨て場だ。お前のあの小さな木箱、もうとっくにパンパンだろ？ それに言っておくが、あの緑色の化け物どもがここに押し入ってきたら、木箱なんて一瞬でぶっ壊されて、お前が苦労して集めた物資は辺り一面にぶちまけられる。そろそろここを片付けるべきだ。さっき精錬した鉄を使って、鉄製の収納箱を作れ。あれなら収納量は木箱の二倍だし、金庫みたいに頑丈だ。もう貴重品を床に放り出すのはやめろ。失くしたら二度と手に入らないものだってあるんだからな。"
+
+#. Key:	FD6EAF9047967F44CD6954AA1F0A789E
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40010.LogDescription_10_32F75F4343592643E76DC28D283FA682
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40010.LogDescription_10_32F75F4343592643E76DC28D283FA682
+msgctxt ",FD6EAF9047967F44CD6954AA1F0A789E"
+msgid "Mike 对复古武器有着独特的品味。他提出了一笔交易：用一把做工精良的“中世纪铁制战斧”交换喷火器。"
+msgstr "Mike はレトロな武器に独特の趣味を持っています。彼は精巧に作られた「中世の鉄製戦斧」を火炎放射器と交換する取引を提案しました。"
+
+#. Key:	DE782AB341C234531801F085C981184D
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40010.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40010.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+msgctxt ",DE782AB341C234531801F085C981184D"
+msgid "特别订单：中世纪战斧"
+msgstr "特別注文：中世のバトルアックス"
+
+#. Key:	CFF85F6D40DAF742E309AEA99039749E
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40010.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40010.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+msgctxt ",CFF85F6D40DAF742E309AEA99039749E"
+msgid "嘿，听着。我们整天都在造这些实用的破烂——箱子、门板、普通的工具……这让我觉得很无聊。我有个私人的请求。你也知道，我是个工匠，我对那些经过时间考验的设计情有独钟。我一直想要一把双刃中世纪战斧 (Iron Battle Axe)。那种平衡感，那种劈砍时的空气动力学……那是现代那些廉价的消防斧根本比不了的艺术品。如果你能给我搞一把来——要那种刃口锋利、做工精良的——我就打开我的私人储备库，给你一些特别的奖励"
+msgstr "おい、いいか。一日中、箱とかドアとか、ありきたりの道具とか、そういう実用的なガラクタを作ってるんだ…そろそろ飽きてきたな。個人的なお願いがあるんだ。知っての通り、私は職人で、昔から使われてきたデザインに目がないんだ。ずっと中世の両刃の鉄の戦斧が欲しかったんだ。そのバランス、切り倒す時の空気力学的効果…現代の安っぽい火斧では到底表現できない芸術品だよ。もし私に、鋭くてよくできたものを一つ手に入れてくれたら、私の宝物庫を開けて特別なご褒美をあげるよ。"
+
+#. Key:	1BF45DE54A1A35E6C4C2488395B5632C
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40011.LogDescription_10_32F75F4343592643E76DC28D283FA682
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40011.LogDescription_10_32F75F4343592643E76DC28D283FA682
+msgctxt ",1BF45DE54A1A35E6C4C2488395B5632C"
+msgid "Mike 在暴力破拆方面遇到了阻碍，他急需一把重型破坏工具。他开出了无法拒绝的价码：整整几盒军用步枪子弹。"
+msgstr "Mike は暴力的な破壊作業で行き詰まっています。彼は重型破壊工具を急いで必要としており、拒否できない価格を提示しました：軍用ライフル弾薬の箱数個です。"
+
+#. Key:	804690DF4DE2055EA3D9CC9F3E8FD93D
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40011.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40011.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+msgctxt ",804690DF4DE2055EA3D9CC9F3E8FD93D"
+msgid "重型交易：方头大锤 "
+msgstr "ヘビートランザクション：スクエアヘッドハンマー"
+
+#. Key:	1BFB979D46FC4E1704BBB8A9E1AF33C1
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40011.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40011.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+msgctxt ",1BFB979D46FC4E1704BBB8A9E1AF33C1"
+msgid "这附近有个被封死的地下室入口，那扇该死的加固铁门把我的撬棍都崩断了。我受够了这种细致活儿。既然技术手段打不开，我们就用物理手段。给我造一把方头大锤 (Iron Sledgehammer)。要最重的那种，铁头要实心的。我要把那扇门连同门框一起砸进地狱里。作为回报……我前几天在一个死掉的士兵身上摸到了几盒子弹。120发 7.62毫米步枪弹。我知道这玩意儿在外面有多金贵。锤子给我，子弹归你。然后你可以拿着这把AK去把外面的丧尸突突了，怎么样？"
+msgstr "近くに封鎖された地下室の入り口があるのに、あの忌々しい鉄の扉のせいでバールまで真っ二つに折られた。こんな細かい作業はもううんざりだ。技術的手段は通用しないから、物理的な手段を使うしかない。鉄のスレッジハンマーを作ってくれ。一番重い、鉄の頭がしっかりしたやつを。あの扉を枠ごとぶっ壊してやる。その代わりに…先日、死んだ兵士の遺体から弾薬箱をいくつか見つけた。7.62mmライフル弾120発だ。それがどれほど貴重なものか、分かっている。ハンマーを渡してくれれば、弾はお前がやる。それからこのAKで外のゾンビをなぎ倒してくれ。どうだ？"
+
+#. Key:	D4338ABA4291AEF4E30AAD83E187B883
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40012.LogDescription_10_32F75F4343592643E76DC28D283FA682
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40012.LogDescription_10_32F75F4343592643E76DC28D283FA682
+msgctxt ",D4338ABA4291AEF4E30AAD83E187B883"
+msgid "Mike 正在寻找一种无声但致命的近战武器。他愿意用珍贵的 5.56mm 战术弹药来交换一把精制的“武士刀”。"
+msgstr "Mike は静かで致命的な近接武器を探しています。彼は貴重な5.56mm戦術弾薬を使って精巧な「武士刀」と交換することを望んでいます。"
+
+#. Key:	00093FD6441697A84FC53A91147D340E
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40012.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40012.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+msgctxt ",00093FD6441697A84FC53A91147D340E"
+msgid "冷兵器大师：武士刀"
+msgstr "冷兵器マスター：日本刀"
+
+#. Key:	D7E12EE349B3638C016666B16F7B6296
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40012.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Mike.DT_Mike.40012.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+msgctxt ",D7E12EE349B3638C016666B16F7B6296"
+msgid "大锤确实很有用，但有时候，噪音会引来更多的麻烦。在那些狭窄的走廊里，我需要一种更优雅、更安静的解决方案。一道银光闪过，丧尸的脑袋就搬家了——这才是艺术。我需要一把武士刀 (Katana)。别拿那种劣质的铁片糊弄我，我要的是那种经过千锤百炼、锋利到能切开空气的好刀。我这里有120发 5.56毫米步枪弹。这是标准的北约军用物资，精准、致命，非常适合你那把战术步枪。你给我那种致命的优雅，我给你足以清理整个街区的火力。"
+msgstr "スレッジハンマーが役に立つのは確かだが、あの騒音は余計なトラブルを呼び込むこともある。あの狭い廊下じゃ、もっと優雅で静かな解決策が必要なんだ。一筋の銀光が走り、ゾンビの頭が引っ越す――これこそが芸術だ。俺が欲しいのは日本刀（カタナ）だ。安物の鉄板を打っただけのガラクタでごまかすなよ。欲しいのは、何度も鍛え上げられて、空気すら断ち切れるような名刀だ。ここに5.56mmライフル弾が120発ある。これはNATO標準の軍用弾で、精密で致命的、お前のタクティカルライフルにぴったりだ。お前が致命的な優雅さをくれれば、俺はこの一帯を一掃できるだけの火力をくれてやる。"
+
+#. Key:	0B3795AA4AB7EA4D54B5249F1B767E6B
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50000.LogDescription_10_32F75F4343592643E76DC28D283FA682
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50000.LogDescription_10_32F75F4343592643E76DC28D283FA682
+msgctxt ",0B3795AA4AB7EA4D54B5249F1B767E6B"
+msgid "Sarah 注意到你的携带能力严重不足。她建议你利用随处可见的植物纤维制作一个简易背包，以扩充你的物品栏。"
+msgstr "Sarah はあなたの携帯能力が著しく不足していることに気づきました。彼女は植物繊維を利用して簡易バックパックを作り、アイテム欄を拡張することを提案しています。"
+
+#. Key:	8A682FB5483FE35880597A8D758F7E02
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50000.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50000.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+msgctxt ",8A682FB5483FE35880597A8D758F7E02"
+msgid "裁缝入门：简易布包 "
+msgstr "裁縫入門：簡易布バッグ"
+
+#. Key:	ECD7E43C400C7BD26F6582AD16746FA5
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50000.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(0).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50000.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(0).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+msgctxt ",ECD7E43C400C7BD26F6582AD16746FA5"
+msgid "制作简易布包"
+msgstr "簡易な布の袋を作る"
+
+#. Key:	6D844D97480FEE5234CEAE87BAFD09E8
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50000.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50000.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+msgctxt ",6D844D97480FEE5234CEAE87BAFD09E8"
+msgid "你好，幸存者。我是 Sarah。刚才看你走过来的时候，口袋里的东西都要掉出来了。在这个末世里，如果你不能把搜刮到的物资带回家，那你冒的险就毫无意义。你需要一个背包。别指望一开始就能找到军用背囊。先从基础做起吧。去外面割一些杂草，收集植物纤维，或者把你身上那件破衬衫撕成碎布。我会教你把它们编织在一起，做一个简易布包。虽然它不防水，也不能防弹，但至少能让你多带几罐豆子回来。做好了就把它背上，别拿在手里。"
+msgstr "こんにちは、生存者。サラです。あなたが来るのを見た時、あなたのポケットはもう溢れんばかりでした。この終末後の世界では、物資をかき集めて持ち帰ることができなければ、リスクを冒す意味がありません。バックパックが必要です。軍用レベルのバックパックがすぐに見つかるとは思わないでください。まずは基本的なものから始めましょう。外に出て雑草を刈り、植物の繊維を集め、ぼろぼろのシャツを裂いてください。それらを編み合わせて、簡単な布バッグを作る方法をお教えします。防水や防弾ではありませんが、少なくとも豆の缶詰をもう少し持ち帰ることができます。完成したら、背中に背負ってください。手に持たないでください。"
+
+#. Key:	5023C73D4BC5D0AC928AC8AABCD84D49
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50001.LogDescription_10_32F75F4343592643E76DC28D283FA682
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50001.LogDescription_10_32F75F4343592643E76DC28D283FA682
+msgctxt ",5023C73D4BC5D0AC928AC8AABCD84D49"
+msgid "Sarah 强调机动性的重要性。她需要布料来制作装备内衬，并愿意提供一双能提高移动速度的鞋子作为交换。"
+msgstr "Sarah は機動性の重要性を強調しています。彼女は布を使って装備の裏地を作る必要があり、移動速度を向上させる靴を交換品として提供することを約束しています。"
+
+#. Key:	87DD4B5340DD23F81E8D0EAB4B9092B8
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50001.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50001.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+msgctxt ",87DD4B5340DD23F81E8D0EAB4B9092B8"
+msgid "生存法则：保持移动"
+msgstr "サバイバルルール：動き続けろ"
+
+#. Key:	DBEA80FA4EFDFF6211DA12A4DC25AF28
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50001.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50001.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+msgctxt ",DBEA80FA4EFDFF6211DA12A4DC25AF28"
+msgid "有了背包，你确实能带更多东西了。但我看你走路的样子……那双旧靴子是不是太重了？听着，在这个世界里，你不需要跑得比丧尸快，但你至少得跑得比你旁边的倒霉蛋快。开个玩笑。实际上，速度就是生命。无论是追赶猎物还是逃避尸潮，一双轻便的鞋子能救你的命。我正在缝制一批新的内衬，急需30块碎布片。把你在外面找到的破衣服、旧窗帘都拆了，把布料给我。作为交换，我这有一双成色不错的高帮运动鞋。它能保护你的脚踝，还能让你跑起来像阵风一样。"
+msgstr "バックパックがあれば、確かにもっと多くの物を持ち運べる。でも、その歩き方を見ると……その古いブーツ、重すぎないか？いいか、この世界ではゾンビより速く走る必要はないが、少なくとも隣の不運な奴よりは速く走れないとダメだ。冗談だよ。実際のところ、スピードこそ命だ。獲物を追うにしても、死体の群れから逃げるにしても、軽い靴が命を救う。今、新しいインナーを縫っているところなんだが、布切れが30枚どうしても必要でね。外で見つけたボロ服や古いカーテンをバラして、布を持ってきてくれ。その代わりに、状態のいいハイカットスニーカーを一足やろう。足首を守ってくれるし、風みたいに走れるようになるぞ。"
+
+#. Key:	2204A9A64A353C739050578D6BDB879F
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50002.LogDescription_10_32F75F4343592643E76DC28D283FA682
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50002.LogDescription_10_32F75F4343592643E76DC28D283FA682
+msgctxt ",2204A9A64A353C739050578D6BDB879F"
+msgid "Sarah 正在讲解衣物的热调节机制。由于环境严酷，你需要根据季节和气温动态调整你的装备。寒冷：穿戴皮衣、羽绒服 (增加保暖值)炎热：穿戴背心、衬衫或赤膊 (降低保暖值/增加散热)帮 Sarah 收集石灰石以换取防御装备。"
+msgstr "Sarah は衣類の温度調節メカニズムについて説明しています。過酷な環境のため、季節や気温に応じて装備を動的に調整する必要があります。寒冷：皮の服やダウンジャケットを着用（保温値を増加）暑熱：タンクトップ、シャツ、または裸（保温値を減少/放熱を増加）Sarah を手伝って石灰石を集め、防御装備を交換してください。"
+
+#. Key:	1BA7E5DC437ADB50BC8B2E9B960B954B
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50002.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50002.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+msgctxt ",1BA7E5DC437ADB50BC8B2E9B960B954B"
+msgid "生存课堂：温度与防御"
+msgstr "サバイバル講座：温度と防御"
+
+#. Key:	E187225043CD9B1B15948E8598693BAC
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50002.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50002.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+msgctxt ",E187225043CD9B1B15948E8598693BAC"
+msgid "先别急着走，有一件至关重要的事情你必须明白。看看这件厚外套，它能防止丧尸咬穿你的皮肤，在冬天也能救你的命。但是，如果你在炎热的夏天或者沙漠里穿着它，还没等丧尸动手，中暑就会先把你变成一具干尸。衣物不仅提供防御，还调节温度。当你感到冷时（屏幕周围结霜），穿上厚实的衣服；当你感到热时（屏幕变红、耐力下降），脱掉外套，或者换上透气的背心。甚至把衣服浸湿也能降温。我正在处理一批用来制作重型护甲的皮革，需要一些石灰石来去除油脂。给我弄 20块石灰石 来。作为回报，这件军用战术背心归你了。它的防御性能极佳，但记住了——它不透气。别在大热天穿着它跑马拉松。"
+msgstr "まだ慌てて行くな。お前が絶対に理解しておかなきゃならない、極めて重要なことがある。この厚手のコートを見ろ。ゾンビに噛まれても皮膚まで届かないよう守ってくれるし、冬には命を救ってくれる。だが、真夏の炎天下や砂漠でこれを着ていたら、ゾンビにやられる前に熱中症で干からびちまうだろう。服は防御だけじゃなく、体温調節もしてくれるんだ。寒いとき（画面の周りが凍りつく）には厚着をしろ。暑いとき（画面が赤くなり、スタミナが減る）には上着を脱ぐか、通気性のいいタンクトップに着替えろ。服を水で濡らすだけでも体を冷やせるぞ。今、重装甲を作るための革を処理しているんだが、脂を落とすのに石灰岩が必要でな。石灰岩を20個、持ってきてくれ。その礼に、この軍用タクティカルベストをやる。防御性能は抜群だが、覚えておけ――まったく通気性がない。真夏にこれを着てマラソンなんかするんじゃないぞ。"
+
+#. Key:	DF67D22C4730AE55A20211BB78364198
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50003.LogDescription_10_32F75F4343592643E76DC28D283FA682
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50003.LogDescription_10_32F75F4343592643E76DC28D283FA682
+msgctxt ",DF67D22C4730AE55A20211BB78364198"
+msgid "为了制作更高级的防护装备。请收集材料并建造它。(注意：制衣台可以解锁大量高级配方，并减少制作时间)"
+msgstr "より高度な防護装備を作るために、材料を集めて製作しよう。（注意：裁縫台を使えば、多くの高度なレシピが解放され、製作時間も短縮される）"
+
+#. Key:	3476F41D4FEC7C12B9E4498EFCCD68AE
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50003.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50003.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+msgctxt ",3476F41D4FEC7C12B9E4498EFCCD68AE"
+msgid "生产升级：制衣工作台"
+msgstr "生産アップグレード：衣服作業台"
+
+#. Key:	48A8E522471E438D8F666A872B643DAA
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50003.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50003.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+msgctxt ",48A8E522471E438D8F666A872B643DAA"
+msgid "听着，随着我们的队伍壮大，光靠我手里这根针和你的膝盖来缝补衣服是远远不够的。想要制作更高级的装备——比如能挡住撕咬的加厚皮衣，或者是战术护具——你需要一个稳定的平面和专业的工具。是时候建造一个制衣工作台了。我已经把图纸整理好了。你需要一些木材做桌腿，一些铁管做支架，还要不少胶带把它们固定住。一旦你把台子搭好，你就能自己处理那些厚重的兽皮和布料了。那时候，你就再也不用求我帮你补裤子了。"
+msgstr "聞いてくれ。俺たちの隊が大きくなるにつれて、俺の手にあるこの一本の針と、お前の膝だけじゃ服の修繕はとても追いつかない。もっと上等な装備――たとえば噛みつきにも耐える分厚いレザーコートとか、戦術用の防具なんかを作りたいなら、安定した作業台と専用の道具が必要だ。そろそろ裁縫用の作業台を作る時だな。設計図はもうまとめておいた。机の脚用に木材をいくらか、支柱用に鉄パイプを何本か、それからそれらを固定するための大量のテープが要る。台を組み上げてしまえば、分厚い獣皮や布だって自分で扱えるようになる。その頃には、ズボンの修理を頼みに俺のところへ泣きついてくる必要もなくなるさ。"
+
+#. Key:	68382C984D3568690204E7BBC28A6AA3
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50004.LogDescription_10_32F75F4343592643E76DC28D283FA682
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50004.LogDescription_10_32F75F4343592643E76DC28D283FA682
+msgctxt ",68382C984D3568690204E7BBC28A6AA3"
+msgid "Sarah 需要你去野外进行狩猎练习。兔子非常警觉，建议使用弓箭并保持潜行状态接近。(提示：野兔通常出现在森林或平原生物群系)"
+msgstr "Sarah は野外で狩猟練習をするよう求めています。ウサギは非常に警戒心が高いため、弓矢を使用し潜行状態で接近することをお勧めします。（ヒント：野ウサギは通常、森林や平原のバイオームに出現します）"
+
+#. Key:	917891DD45628EFF21AFAA9406BE66D5
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50004.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50004.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+msgctxt ",917891DD45628EFF21AFAA9406BE66D5"
+msgid "狩猎练习：野兔"
+msgstr "狩猟練習：ウサギ"
+
+#. Key:	C2E1EA634A20CA0D37C184AF2A08CBE9
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50004.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(0).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50004.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(0).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+msgctxt ",C2E1EA634A20CA0D37C184AF2A08CBE9"
+msgid "击杀兔子"
+msgstr "ウサギをキルする"
+
+#. Key:	2D17869841CBCFBF19A97F83913A6F0D
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50004.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50004.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+msgctxt ",2D17869841CBCFBF19A97F83913A6F0D"
+msgid "你已经证明了你能对付那些步履蹒跚的死人，但你能对付那些活蹦乱跳的小东西吗？我们需要肉，我也需要柔软的毛皮来做衣服的内衬。去树林里或者草地上找找。我需要你猎杀3只野兔。别像个蛮牛一样冲过去，它们听到你的脚步声就会钻进地洞里。蹲下，保持安静，瞄准头部。如果你能带回猎物，我就教你如何像个真正的猎人一样处理它们。"
+msgstr "足を引きずる死体には耐えられることを証明したが、あの活発な小動物には耐えられるだろうか？ 肉が必要だし、服の裏地に使う柔らかい毛皮も必要だ。森か牧草地へ行き、野ウサギを3匹狩ってほしい。雄牛のように突進するな。足音を聞けば地面に潜ってしまう。しゃがみ込み、静かに頭を狙え。獲物を持ち帰ったら、本物のハンターのように扱う術を教えてやる。"
+
+#. Key:	DCF5D54443C54F3C36FDDC9ADE9CD5E2
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50005.LogDescription_10_32F75F4343592643E76DC28D283FA682
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50005.LogDescription_10_32F75F4343592643E76DC28D283FA682
+msgctxt ",DCF5D54443C54F3C36FDDC9ADE9CD5E2"
+msgid "Sarah 发布了狩猎挑战。鹿拥有极高的警觉性和奔跑速度。务必利用潜行伤害加成，争取一击毙命（爆头）。(提示：蹲下接近，瞄准头部。如果它跑了，不要盲目追赶)"
+msgstr "Sarah は狩猟チャレンジを発表しました。鹿は非常に警戒心が高く、走る速度も速いです。潜行ダメージボーナスを利用して、一撃で仕留める（ヘッドショット）ことを目指してください。（ヒント：しゃがんで接近し、頭部を狙います。逃げた場合は無闇に追いかけないでください）"
+
+#. Key:	008C4DB540361E4CCD99FAAD663858F2
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50005.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50005.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+msgctxt ",008C4DB540361E4CCD99FAAD663858F2"
+msgid "狩猎练习：鹿"
+msgstr "狩猟練習：シカ"
+
+#. Key:	CDDC244D4B1274EB25F4C7A18DC1EAC2
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50005.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(0).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50005.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(0).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+msgctxt ",CDDC244D4B1274EB25F4C7A18DC1EAC2"
+msgid "击杀鹿"
+msgstr "シカをキルする"
+
+#. Key:	9FD379E241491593B00DFDAC5ED64914
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50005.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50005.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+msgctxt ",9FD379E241491593B00DFDAC5ED64914"
+msgid "看看远处的那些鹿。它们机警、强壮，是这片森林里最高贵的猎物。它们不会像狼一样冲过来送死。只要听到树枝折断的声音，或者闻到你身上的火药味，它们就会消失得无影无踪。如果你不能一枪解决它们，那就准备好跑个三公里去追吧（而且你绝对追不上）。给我带回3头鹿。如果你能做到，今晚我们就吃真正的烤肉大餐，庆祝我们不仅活下来了，而且活得很好。"
+msgstr "ほら、あそこにいる鹿たちを見てごらん。あいつらは用心深くて、たくましくて、この森でいちばん高貴な獲物だ。狼みたいに自分から突っ込んできて死にに来たりはしない。枝の折れる音を聞いたり、おまえの体から火薬の匂いを嗅いだりしたら、跡形もなく消えちまう。一発で仕留められないなら、3キロは走って追いかける覚悟をしろ（それでも絶対に追いつけないがな）。鹿を3頭、俺のところに持ってこい。もしできたら、今夜は本物のロースト肉のごちそうだ。俺たちがただ生き延びただけじゃなく、ちゃんと“いい暮らし”をしているってことを祝おうじゃないか。"
+
+#. Key:	FB86C9BC43FE8E1AC45C428C3D861443
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50006.LogDescription_10_32F75F4343592643E76DC28D283FA682
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50006.LogDescription_10_32F75F4343592643E76DC28D283FA682
+msgctxt ",FB86C9BC43FE8E1AC45C428C3D861443"
+msgid "兔子只是小儿科，狼才是真正的掠食者。Sarah 要求你清理附近的狼群威胁。务必小心，它们移动迅速且凶猛。(建议：使用枪械，或者站在狼跳不上去的高处射击)"
+msgstr "ウサギなんて子どもの遊び相手だ。本当に危険な捕食者はオオカミだ。サラは、近くのオオカミの群れの脅威を排除してほしいと言っている。やつらは動きが素早くて凶暴だ、くれぐれも気をつけろ。（推奨：銃器を使うか、オオカミが飛び上がれない高所に陣取って攻撃しろ）"
+
+#. Key:	D6D69DEC42A67146078DE481C7FE3FAC
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50006.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50006.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+msgctxt ",D6D69DEC42A67146078DE481C7FE3FAC"
+msgid "狩猎进阶：狼群威胁"
+msgstr "狩猟上級：群れなすオオカミの脅威"
+
+#. Key:	B05A8BAE4D1A3C2B65C058ADF079639B
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50006.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(0).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50006.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(0).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+msgctxt ",B05A8BAE4D1A3C2B65C058ADF079639B"
+msgid "击杀狼"
+msgstr "オオカミをキルする"
+
+#. Key:	1FFB0A0A4EB604E34E831FB46AA0250A
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50006.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50006.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+msgctxt ",1FFB0A0A4EB604E34E831FB46AA0250A"
+msgid "你在抓兔子的时候表现不错，但那只是热身。现在，我们要处理真正的麻烦了。附近的树林里出现了一些狼。它们不一样，它们不害怕枪声，而且它们把我们看作食物。昨天晚上我听到了嚎叫声，它们越来越近了。我们不能坐以待毙。去猎杀5只狼。警告你： 别让它们近身。狼咬住你就不会松口，而且它们很快。找个高点的地方，或者准备好你的那把枪。"
+msgstr "ウサギを捕まえたときはよくやっていたが、あれはただの準備運動だ。これから本当の厄介事に対処しなきゃならない。近くの森に何匹かオオカミが現れた。あいつらは普通と違って、銃声を怖がらないし、俺たちを獲物として見ている。昨夜、遠吠えが聞こえたが、どんどん近づいてきている。手をこまねいているわけにはいかない。オオカミを5匹狩ってこい。忠告しておく：絶対に接近させるな。噛みつかれたら離してくれないし、動きも速い。高い場所を確保するか、お前の銃をしっかり準備しておけ。"
+
+#. Key:	D4DEC0F64DE40A95EB3DED80101D38E5
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50007.LogDescription_10_32F75F4343592643E76DC28D283FA682
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50007.LogDescription_10_32F75F4343592643E76DC28D283FA682
+msgctxt ",D4DEC0F64DE40A95EB3DED80101D38E5"
+msgid "Sarah 需要动物油脂储备。野猪是绝佳的来源，但它们生命值很高且受到攻击会疯狂反击。(警告：野猪通常会直线冲撞，注意利用掩体或侧向移动)"
+msgstr "Sarah は動物性脂肪の備蓄を必要としています。イノシシは絶好の供給源ですが、彼らは高い生命値を持ち、攻撃されると狂ったように反撃します。（警告：イノシシは通常直線的に突進するため、遮蔽物を利用したり横方向に移動することに注意してください）"
+
+#. Key:	3AC9DA594DF861ACD7457D84C03ADE07
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50007.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50007.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+msgctxt ",3AC9DA594DF861ACD7457D84C03ADE07"
+msgid "狩猎挑战：暴躁野猪"
+msgstr "狩猟チャレンジ：凶暴イノシシ"
+
+#. Key:	9B9152564C2769757ABD41AE67F774EE
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50007.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(0).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50007.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(0).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+msgctxt ",9B9152564C2769757ABD41AE67F774EE"
+msgid "击杀野猪"
+msgstr "イノシシをキルする"
+
+#. Key:	29D053EB48A9456B2EE021B236FF3300
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50007.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50007.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+msgctxt ",29D053EB48A9456B2EE021B236FF3300"
+msgid "你现在的枪法应该不错了，但如果遇到像坦克一样冲过来的东西怎么办？森林里还有一种东西——野猪。别看它们长得蠢，它们的皮比两层皮夹克还厚，而且脾气暴躁。如果你一枪打不死它，它就会像发疯的推土机一样撞断你的腿。我需要大量的油脂来制作火把和防水涂层，猪油是最好的选择。去干掉5只野猪。记得带上够劲的武器，别拿把小刀就去给它们修指甲。"
+msgstr "射撃の腕はもう十分だろう。だが、戦車のように突進してくる何かに遭遇したらどうする？森にはもう一つ、イノシシがいる。不格好な見た目に惑わされてはいけない。イノシシの皮は革ジャン2枚分も厚く、しかも驚くほど気性が荒い。一撃で仕留められなければ、狂暴なブルドーザーのように脚を折られるだろう。松明と防水コーティングを作るには大量のグリースが必要だ。ラードが最適だ。イノシシを5頭仕留めろ。強力な武器を忘れずに持参しろ。爪を切るのに小さなナイフを使うだけではダメだ。"
+
+#. Key:	5162CB824AC4746331A6E999B8D36E1F
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50008.LogDescription_10_32F75F4343592643E76DC28D283FA682
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50008.LogDescription_10_32F75F4343592643E76DC28D283FA682
+msgctxt ",5162CB824AC4746331A6E999B8D36E1F"
+msgid "面对自然界最顶级的掠食者。Sarah 警告你务必全副武装。不要尝试近战，保持距离，利用高地优势或大口径武器。(警告：熊的生命值极高且攻击力致命)"
+msgstr "自然界で最強クラスの捕食者に直面することになる。Sarah は必ず完全武装するよう警告している。近接戦闘は絶対に避け、距離を保ち、高所の優位や大口径の武器を活用しろ。（警告：クマは体力が非常に高く、攻撃力も致命的）"
+
+#. Key:	F797EDEA4C8C6B20E9F10FBC83A9A404
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50008.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50008.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+msgctxt ",F797EDEA4C8C6B20E9F10FBC83A9A404"
+msgid "终极狩猎：森林巨熊 "
+msgstr "究極の狩り：森の巨大グマ"
+
+#. Key:	6862D964462ED3CDE0814D8DD348C7E1
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50008.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(0).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50008.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(0).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
+msgctxt ",6862D964462ED3CDE0814D8DD348C7E1"
+msgid "击杀熊"
+msgstr "クマをキルする"
+
+#. Key:	F104301747E81EF407D22494DA1C97CF
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50008.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50008.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+msgctxt ",F104301747E81EF407D22494DA1C97CF"
+msgid "你已经把这片森林里的狼和猪都清理得差不多了。现在，我们要面对真正的‘森林之王’。昨天我在河边发现了一个巨大的脚印，甚至比丧尸的还要大——是熊。听好了，这可不是闹着玩的。熊能像撕纸一样撕开你的防弹衣，还能把木门拍得粉碎。普通的子弹打在它身上就像挠痒痒。我需要你去猎杀3只熊。别逞英雄。设陷阱、用炸药、或者爬到它够不到的地方开枪。只要能杀了它们，用什么手段都行。如果你能活着回来，我就承认你是这片废土上最强的猎人。"
+msgstr "この森からオオカミとブタをほぼ一掃しました。さあ、真の「森の王」と対峙しましょう。昨日、川辺でゾンビよりも巨大な足跡を見つけました。なんとクマの足跡です。よく聞きなさい、冗談じゃない。クマは防弾チョッキを紙のように引き裂き、木の扉を粉々に砕きます。普通の弾丸はクマにとってくすぐったいものです。3頭のクマを狩ってほしい。英雄ぶるな。罠を仕掛ける、爆発物を使う、あるいはクマの届かないところから飛び降りて撃つなど、どんな手段を使ってでも仕留めろ。生きて帰ってきたら、この荒野で最高のハンターとして君を称えよう。"
+
+#. Key:	CDD30CC843D1410B5F015BBFC3D76E4D
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50009.LogDescription_10_32F75F4343592643E76DC28D283FA682
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50009.LogDescription_10_32F75F4343592643E76DC28D283FA682
+msgctxt ",CDD30CC843D1410B5F015BBFC3D76E4D"
+msgid "Sarah 打算建立自己的纺织原料基地。去野外采集植物，制作或收集种子。这笔交易的报酬非常丰厚。(提示：你可以在背包制作栏里将采集到的植物转化为种子)"
+msgstr "Sarah は自分の繊維原料基地を設立する計画を立てています。野外で植物を採集し、種子を作成または収集してください。この取引の報酬は非常に豊富です。（ヒント：バックパックの作成欄で採集した植物を種子に変換できます）"
+
+#. Key:	E9E798394E29A532ECEAFAA276614ECA
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50009.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50009.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
+msgctxt ",E9E798394E29A532ECEAFAA276614ECA"
+msgid "农业计划：亚麻种植"
+msgstr "Agricultural Plan: Flax Cultivation"
+
+#. Key:	0B5FB9B24FE39DBADA46C288DC8A7FE4
+#. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50009.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+#: /Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50009.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
+msgctxt ",0B5FB9B24FE39DBADA46C288DC8A7FE4"
+msgid "我们不能永远靠扒死人身上的烂衣服来做绷带。那不仅恶心，而且迟早会用光的。如果我们想要源源不断的布料，就得自己种。我在外面的田野里看到过野生的亚麻花（或者棉花）。我要你把它们采集回来，并且处理出20份亚麻种子。只要有了种子，我明年就能种出一片花海，到时候我们就有用不完的布料了。作为交换……我知道你肯定饿坏了。我前几天在一个避难所里找到了一整箱肉罐头。把种子给我，这 10 罐肉就是你的。"
+msgstr "いつまでも死体からはぎ取ったボロ服で包帯を作るわけにはいかない。それは気持ち悪いし、いずれ尽きる。布を切らさないようにするには、自分たちで育てるしかない。外の野原で野生のアマ（か綿花）を見たことがある。あれを採ってきて、亜麻の種を 20 個分加工してほしい。種さえあれば、来年には一面の花畑にできる。そうなれば布には一生困らない。代わりに……あんた、きっと腹ペコだろう。この前、避難所で肉の缶詰がぎっしり詰まった箱を見つけた。種を渡してくれたら、この肉の缶詰 10 個はあんたのものだ。"
+
+#. Key:	437B92E243E505488EDBC69B9EFAFB3F
+#. SourceLocation:	/Game/Blueprint/QuestSystem/WBP_QuestLogEntryObjective.WBP_QuestLogEntryObjective_C:ExecuteUbergraph_WBP_QuestLogEntryObjective [Script Bytecode]
+#: /Game/Blueprint/QuestSystem/WBP_QuestLogEntryObjective.WBP_QuestLogEntryObjective_C:ExecuteUbergraph_WBP_QuestLogEntryObjective [Script Bytecode]
+msgctxt ",437B92E243E505488EDBC69B9EFAFB3F"
+msgid "{desc}   {current}/{quantity}"
+msgstr "{desc}   {current}/{quantity}"
 
 #. Key:	B57A00354900F30D42BACFBCF9434A53
 #. SourceLocation:	/Game/Blueprint/UMG/ChatSystem/WBP_ChatMenu.WBP_ChatMenu_C:WidgetTree.MessageBox.HintText
@@ -1699,6 +3603,13 @@ msgstr "20"
 msgctxt ",D631A0DB4EA8C9BD835D6C9E7182C5C0"
 msgid "在车头处按下F拉车，再次按下放下"
 msgstr "車の運転席側でFを押して車に乗車し、もう一度押すと降ります"
+
+#. Key:	7FDFB8FF4E650F5FA68921BF19665D4D
+#. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_CarInventory.WBP_CarInventory_C:WidgetTree.Repir_2.ToolTipText
+#: /Game/Blueprint/UMG/Furniture/WBP_CarInventory.WBP_CarInventory_C:WidgetTree.Repir_2.ToolTipText
+msgctxt ",7FDFB8FF4E650F5FA68921BF19665D4D"
+msgid "重置位置"
+msgstr "位置をリセット"
 
 #. Key:	719B3E1D4C94FB1547CDD4BD2E54B1B5
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_CarInventory.WBP_CarInventory_C:WidgetTree.TextBlock_84.Text
@@ -4787,10 +6698,10 @@ msgctxt ",F9AEB4DA4E4995AF5C0807AE1EEF8C90"
 msgid "transaction"
 msgstr "取引"
 
-#. Key:	EC9B0C4F4E8058B42B330694464978EA
+#. Key:	4D0C9B7842A1EB16341E5FBD01DE3B89
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_DP_XDD.Default__Furniture_DP_XDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_DP_XDD.Default__Furniture_DP_XDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
-msgctxt ",EC9B0C4F4E8058B42B330694464978EA"
+msgctxt ",4D0C9B7842A1EB16341E5FBD01DE3B89"
 msgid "地板"
 msgstr "床"
 
@@ -4815,10 +6726,10 @@ msgctxt ",ABE10B784F6D55A4DA2F40A4FBEC2520"
 msgid "用于保管物品的箱子，不会丢失物品。"
 msgstr "アイテムを紛失せずに保管するためのボックス。"
 
-#. Key:	1F9B652C4D5246BA73E615BCD523F56D
+#. Key:	3F2C111849DAB2B562A54C94C01A6E44
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_DPLDD.Default__Furniture_DPLDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_DPLDD.Default__Furniture_DPLDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
-msgctxt ",1F9B652C4D5246BA73E615BCD523F56D"
+msgctxt ",3F2C111849DAB2B562A54C94C01A6E44"
 msgid "地板"
 msgstr "床"
 
@@ -4864,12 +6775,12 @@ msgctxt ",BC879B3F4ECE110B894771976EFF65F1"
 msgid "家具"
 msgstr "家具"
 
-#. Key:	3CD527BB467535BCA63FB8A5987F2A05
+#. Key:	81C8560E4FA1F90CB89060A6C4CA72D9
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_TYNFD.Default__Furniture_TYNFD_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_TYNFD.Default__Furniture_TYNFD_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-msgctxt ",3CD527BB467535BCA63FB8A5987F2A05"
+msgctxt ",81C8560E4FA1F90CB89060A6C4CA72D9"
 msgid "受遮挡或在没有太阳的天气无法发电"
-msgstr "遮られたり、太陽がない天気では発電できません"
+msgstr "障害物や日光のない天候により発電できません。"
 
 #. Key:	B902044F444A770F5D16FEBFFB185A39
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_YSSJQ.Furniture_YSSJQ_C:ExecuteUbergraph_Furniture_YSSJQ [Script Bytecode]
@@ -4913,26 +6824,26 @@ msgctxt ",F3F8E148409A7CD56F64519CED4DC8A7"
 msgid "水不够！"
 msgstr "水が足りません！"
 
-#. Key:	5A7810D041690A94173C39AB12402025
+#. Key:	E783B6CF4BBE9E369F2AC59D0826D983
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/OutStairs_Base_Wood.Default__OutStairs_Base_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 #: /Game/HDCKBuildingSystem/MeshBP/OutStairs_Base_Wood.Default__OutStairs_Base_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-msgctxt ",5A7810D041690A94173C39AB12402025"
+msgctxt ",E783B6CF4BBE9E369F2AC59D0826D983"
 msgid "建房必备"
 msgstr "家を建てるための必需品"
 
-#. Key:	3ED9336E4919E7212F89A494538BACCB
+#. Key:	4F5E51A74D6961DBF6163C840A9B8A65
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_BL.Default__Roof_20_intersection_BL_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 #: /Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_BL.Default__Roof_20_intersection_BL_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-msgctxt ",3ED9336E4919E7212F89A494538BACCB"
+msgctxt ",4F5E51A74D6961DBF6163C840A9B8A65"
 msgid "用于连接外转角屋顶。"
-msgstr "外側の角屋根を接続するために使用します。"
+msgstr "外側コーナー屋根を接続するために使用します。"
 
-#. Key:	94DEABAA4EC3F4D38F948ABF9C3BE77B
+#. Key:	0AF1E2FF4B2F14214C9006B6613EF36C
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_Wood.Default__Roof_20_intersection_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 #: /Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_Wood.Default__Roof_20_intersection_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-msgctxt ",94DEABAA4EC3F4D38F948ABF9C3BE77B"
+msgctxt ",0AF1E2FF4B2F14214C9006B6613EF36C"
 msgid "用于连接外转角屋顶。"
-msgstr "外側の角屋根を接続するために使用します。"
+msgstr "外側コーナー屋根を接続するために使用します。"
 
 #. Key:	E8EA4D5B4493329CF32982ABD630233C
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Wattle_WoodDoor.Wattle_WoodDoor_C:ShowUI [Script Bytecode]
@@ -6047,6 +7958,174 @@ msgctxt "BuildInfo,HP"
 msgid "花瓶"
 msgstr "花瓶"
 
+#. Key:	JSDB
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,JSDB"
+msgid "金属地板"
+msgstr "金属の床"
+
+#. Key:	JSDBSJ
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,JSDBSJ"
+msgid "金属地板（三角）"
+msgstr "金属の床（三角）"
+
+#. Key:	JSDJ
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,JSDJ"
+msgid "金属地基"
+msgstr "金属土台"
+
+#. Key:	JSDJSJ
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,JSDJSJ"
+msgid "金属地基（三角）"
+msgstr "金属土台（三角）"
+
+#. Key:	JSLTHW
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,JSLTHW"
+msgid "金属楼梯(户外)"
+msgstr "金属の階段（屋外）"
+
+#. Key:	JSQT
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,JSQT"
+msgid "金属墙体"
+msgstr "金属の壁"
+
+#. Key:	JSQTDCD
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,JSQTDCD"
+msgid "金属墙体(带窗洞)"
+msgstr "金属の壁（窓枠付き）"
+
+#. Key:	JSQTMD
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,JSQTMD"
+msgid "金属墙体(带门洞)"
+msgstr "金属の壁（ドア枠付き）"
+
+#. Key:	JSQTSFZY
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,JSQTSFZY"
+msgid "金属墙体(1/3)"
+msgstr "金属の壁（1/3）"
+
+#. Key:	JSQTSJ
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,JSQTSJ"
+msgid "金属墙体(正三角)"
+msgstr "金属の壁（正三角）"
+
+#. Key:	JSQTSJ10
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,JSQTSJ10"
+msgid "金属墙体(三角)"
+msgstr "金属の壁（三角）"
+
+#. Key:	JSQTSJ100
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,JSQTSJ100"
+msgid "金属墙体(三角1/3)"
+msgstr "金属の壁（三角1/3）"
+
+#. Key:	JSWD20
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,JSWD20"
+msgid "金属屋顶(20度)"
+msgstr "金属の屋根（20度）"
+
+#. Key:	JSWD20LJ
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,JSWD20LJ"
+msgid "金属屋顶(20度连接)"
+msgstr "金属の屋根（20度接続）"
+
+#. Key:	JSWD20LJJ
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,JSWD20LJJ"
+msgid "金属屋顶(20度连接角)"
+msgstr "金属の屋根（20度接続コーナー）"
+
+#. Key:	JSWD45
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,JSWD45"
+msgid "金属屋顶(45度)"
+msgstr "金属の屋根（45度）"
+
+#. Key:	JSWD45DLJJ
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,JSWD45DLJJ"
+msgid "金属屋顶(45度连接角)"
+msgstr "金属の屋根（45度接続コーナー）"
+
+#. Key:	JSWD45LJ
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,JSWD45LJ"
+msgid "金属屋顶(45度连接)"
+msgstr "金属の屋根（45度接続）"
+
+#. Key:	JSWDDG
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,JSWDDG"
+msgid "金属屋顶(单格)"
+msgstr "金属の屋根（1マス）"
+
+#. Key:	JSWDDGJW
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,JSWDDGJW"
+msgid "金属屋顶(单格结尾)"
+msgstr "金属の屋根（1マス終端）"
+
+#. Key:	JSWDDGST
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,JSWDDGST"
+msgid "金属屋顶(单格三通)"
+msgstr "金属の屋根（1マス三叉）"
+
+#. Key:	JSWDDGSZ
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,JSWDDGSZ"
+msgid "金属屋顶(单格十字)"
+msgstr "金属の屋根（1マス十字）"
+
+#. Key:	JSWDDGWLJ
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,JSWDDGWLJ"
+msgid "金属屋顶(单格无连接)"
+msgstr "金属の屋根（1マス接続なし）"
+
+#. Key:	JSWDDGZJ
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,JSWDDGZJ"
+msgid "金属屋顶(单格转角)"
+msgstr "金属の屋根（1マスコーナー）"
+
 #. Key:	ldd
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
 #: /Game/LocalizationText/BuildInfo.BuildInfo
@@ -6088,6 +8167,13 @@ msgstr "梁（3グリッド）"
 msgctxt "BuildInfo,NPCTIPBUILDING"
 msgid "如果提供能源，可以进一步提高生产产量"
 msgstr "エネルギーが供給されれば、生産収率はさらに向上します"
+
+#. Key:	PF44343
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,PF44343"
+msgid "屏风"
+msgstr "ついたて"
 
 #. Key:	PINGJUN
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -6242,6 +8328,13 @@ msgstr "洋服ディスプレイラック（女性）"
 msgctxt "BuildInfo,ZT"
 msgid "猪头装饰"
 msgstr "イノシシの頭飾り"
+
+#. Key:	ZYTQ43243
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,ZYTQ43243"
+msgid "信号塔"
+msgstr "通信塔"
 
 #. Key:	CCBFH
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -9743,6 +11836,13 @@ msgctxt "ItemInfo,MK"
 msgid "棉裤"
 msgstr "コットンパンツ"
 
+#. Key:	MOJING43433543
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,MOJING43433543"
+msgid "墨镜"
+msgstr "サングラス"
+
 #. Key:	MWFENGMISHAOYU
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
@@ -12830,6 +14930,13 @@ msgctxt "TipMessage,ZZBS"
 msgid "与商人交易价值"
 msgstr "販売者との取引額"
 
+#. Key:	KILLZombie4243
+#. SourceLocation:	/Game/LocalizationText/Tutorial.Tutorial
+#: /Game/LocalizationText/Tutorial.Tutorial
+msgctxt "Tutorial,KILLZombie4243"
+msgid "击杀丧尸"
+msgstr "ゾンビを倒す"
+
 #. Key:	Tutorial001
 #. SourceLocation:	/Game/LocalizationText/Tutorial.Tutorial
 #: /Game/LocalizationText/Tutorial.Tutorial
@@ -13046,6 +15153,13 @@ msgstr "床"
 msgctxt "UI,BuildGuard"
 msgid "护栏"
 msgstr "柵"
+
+#. Key:	building424343345
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,building424343345"
+msgid "建造{desc}   {current}/{quantity}"
+msgstr "{desc} を建設する   {current}/{quantity}"
 
 #. Key:	Buildingadsorbent
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -13814,22 +15928,22 @@ msgstr "満タンです！"
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,FSEJXH"
-msgid "发射二级信号"
-msgstr "二次信号を送信する"
+msgid "发射二级信号（尸潮）"
+msgstr "レベル2信号を発射（ゾンビの群れ）"
 
 #. Key:	FSXJXH
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,FSXJXH"
-msgid "发射三级信号"
-msgstr "レベル3信号の送信"
+msgid "发射三级信号（尸潮）"
+msgstr "レベル3信号を発射（ゾンビの群れ）"
 
 #. Key:	FSYJXH
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,FSYJXH"
-msgid "发射一级信号"
-msgstr "第 1 レベルの信号を送信する"
+msgid "发射一级信号（尸潮）"
+msgstr "レベル1信号を発射（ゾンビの群れ）"
 
 #. Key:	Ftip
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -14048,6 +16162,13 @@ msgctxt "UI,JR"
 msgid "加热以后使用更佳"
 msgstr "加熱するとより良い"
 
+#. Key:	JSRW42343
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,JSRW42343"
+msgid "接受任务"
+msgstr "クエストを受ける"
+
 #. Key:	jujiegaibian
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
@@ -14103,6 +16224,13 @@ msgstr "ロック解除ツール："
 msgctxt "UI,KH"
 msgid "我感觉冷"
 msgstr "寒気がする"
+
+#. Key:	Killbindit45343
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,Killbindit45343"
+msgid "击杀土匪"
+msgstr "山賊を倒す"
 
 #. Key:	Knapsack_Label_ColorMessage
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -14559,6 +16687,13 @@ msgctxt "UI,NowRY"
 msgid "当前燃油："
 msgstr "現在の燃料："
 
+#. Key:	NXXSSM558
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,NXXSSM558"
+msgid "你想学习什么？"
+msgstr "何を学びたい？"
+
 #. Key:	NYCD
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
@@ -14713,6 +16848,34 @@ msgctxt "UI,quchu"
 msgid "取出"
 msgstr "取り出す"
 
+#. Key:	ques2453243
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,ques2453243"
+msgid "（进行中）"
+msgstr "（進行中）"
+
+#. Key:	quest423434
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,quest423434"
+msgid "任务"
+msgstr "クエスト"
+
+#. Key:	questfinish25543
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,questfinish25543"
+msgid "已完成"
+msgstr "完了済み"
+
+#. Key:	questing326424
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,questing326424"
+msgid "进行中"
+msgstr "進行中"
+
 #. Key:	QUITGAME
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
@@ -14797,6 +16960,20 @@ msgctxt "UI,RR"
 msgid "光线重建"
 msgstr "光線再構成"
 
+#. Key:	rwjl1313
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,rwjl1313"
+msgid "任务奖励"
+msgstr "クエスト報酬"
+
+#. Key:	rwkkni1243
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,rwkkni1243"
+msgid "让我看看你有什么好东西。"
+msgstr "どんな良い物を持っているか見せてくれ。"
+
 #. Key:	RWKS
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
@@ -14852,6 +17029,13 @@ msgstr "鮮度："
 msgctxt "UI,SaveGame"
 msgid "保存游戏"
 msgstr "ゲームを保存する"
+
+#. Key:	SBKQZ42143
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,SBKQZ42143"
+msgid "设备开启中..."
+msgstr "装置起動中…"
 
 #. Key:	SBKZ
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -15112,6 +17296,13 @@ msgctxt "UI,StudyEnd"
 msgid "已学习"
 msgstr "取得済み"
 
+#. Key:	Submit5453453
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,Submit5453453"
+msgid "提交{desc}   {current}/{quantity}"
+msgstr "{desc} を納品する   {current}/{quantity}"
+
 #. Key:	Successful
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
@@ -15203,6 +17394,13 @@ msgctxt "UI,TJDHMD"
 msgid "添加到黑名单"
 msgstr "ブラックリストに追加"
 
+#. Key:	TJRW423
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,TJRW423"
+msgid "提交任务"
+msgstr "クエストを提出"
+
 #. Key:	TLD
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
@@ -15286,6 +17484,13 @@ msgstr "Fuel level"
 msgctxt "UI,UIPUT021345340"
 msgid "试着将三种不同的食材放入锅中烹饪"
 msgstr "3種類の異なる食材を鍋に入れて調理してみてください"
+
+#. Key:	Unlock543434
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,Unlock543434"
+msgid "解锁{desc}   {current}/{quantity}"
+msgstr "{desc} を解放する   {current}/{quantity}"
 
 #. Key:	Use
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -15483,6 +17688,13 @@ msgctxt "UI,WenDu"
 msgid "摄氏度"
 msgstr "摂氏"
 
+#. Key:	WHLYJS54343
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,WHLYJS54343"
+msgid "我很乐意接受"
+msgstr "喜んで引き受けよう"
+
 #. Key:	winter
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
@@ -15630,6 +17842,13 @@ msgctxt "UI,WXCG"
 msgid "维修成功！"
 msgstr "修理に成功しました！"
 
+#. Key:	WXKKQTRENWU4242
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,WXKKQTRENWU4242"
+msgid "我想看看其他任务"
+msgstr "他のクエストを見てみたい"
+
 #. Key:	WXL
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
@@ -15644,12 +17863,26 @@ msgctxt "UI,WXMM"
 msgid "过滤需要密码的服务器："
 msgstr "パスワードを必要とするサーバーをフィルタリングします。"
 
+#. Key:	WXX2453434
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,WXX2453434"
+msgid "我这里确实有些事情需要帮忙。"
+msgstr "ちょうど手伝ってほしいことがあるんだ。"
+
 #. Key:	WXZBXY
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,WXZBXY"
 msgid "我现在不需要！"
 msgstr "今は必要ないよ！"
+
+#. Key:	WXZUODIAN142453
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,WXZUODIAN142453"
+msgid "我想做点其他的"
+msgstr "他のことがしたい"
 
 #. Key:	WYLQJSJL
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -15748,6 +17981,13 @@ msgstr "燻煙には200秒かかります"
 msgctxt "UI,YC"
 msgid "移除"
 msgstr "削除"
+
+#. Key:	yiwancheng26544
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,yiwancheng26544"
+msgid "（已完成）"
+msgstr "（完了）"
 
 #. Key:	youdangdierentip43420
 #. SourceLocation:	/Game/LocalizationText/UI.UI
