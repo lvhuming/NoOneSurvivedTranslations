@@ -1467,7 +1467,7 @@ msgstr "Comerciante"
 #: /Game/Blueprint/Ladder/BP_Ladder.BP_Ladder_C:ShowUI [Script Bytecode]
 msgctxt ",2E3B7D0B496CE27913B296A3FCDA5298"
 msgid "空格攀爬"
-msgstr "BARRA ESPACIADORA para escalar"
+msgstr "Usa SPACE para escalar"
 
 #. Key:	C1D7FCC242F157DCCAD470975F6EC8F5
 #. SourceLocation:	/Game/Blueprint/QuestSystem/E_ObjectiveType.E_ObjectiveType.DisplayNameMap(0 - Value).DisplayNameMap
@@ -1530,7 +1530,7 @@ msgstr "Desbloquear"
 #: /Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.001.LogDescription_10_32F75F4343592643E76DC28D283FA682
 msgctxt ",E01FD52D4A68651F89CE24B8C545EE29"
 msgid "收集周围散落在地面上的资源"
-msgstr "Recoge los recursos esparcidos por el suelo a tu alrededor."
+msgstr "Recoge los recursos esparcidos por el suelo."
 
 #. Key:	F6D48F90468B97A35FACB791BD4941C4
 #. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.001.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
@@ -1544,7 +1544,7 @@ msgstr "Recolección de recursos (1)"
 #: /Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.001.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(0).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
 msgctxt ",373879F24C9D7EC02BAC21B3A1E818CB"
 msgid "收集木棍"
-msgstr "Recoge ramas de madera."
+msgstr "Recoge ramas."
 
 #. Key:	910457E543D68A0DEBDEABA9FEE6DBE9
 #. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.001.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(1).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
@@ -1558,7 +1558,7 @@ msgstr "Recoge piedras."
 #: /Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.002.LogDescription_10_32F75F4343592643E76DC28D283FA682
 msgctxt ",157C18D940F9FFF1660C44BFE7FD07E2"
 msgid "收集够资源后按下Tap键打开背包界面后，在点击<Img id=\"ZZ\"/>工具图标制作石镐与石斧"
-msgstr "Cuando hayas reunido suficientes recursos, pulsa la tecla Tab para abrir la mochila y luego haz clic en el icono de herramienta <Img id=\"ZZ\"/> para fabricar un pico de piedra y un hacha de piedra."
+msgstr "Cuando hayas reunido suficientes recursos, pulsa -TAB- para abrir la mochila y luego haz clic en el icono de herramienta <Img id=\"ZZ\"/> para fabricar un pico de piedra y un hacha de piedra."
 
 #. Key:	22FFDFBB41B901F71B5CC7A2CB42612E
 #. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.002.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
@@ -1586,7 +1586,7 @@ msgstr "Fabricar pico de piedra"
 #: /Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.003.LogDescription_10_32F75F4343592643E76DC28D283FA682
 msgctxt ",79C6A1BE403688E0938C5EAA41477E55"
 msgid "装备制作好的工具，使用工具收集资源"
-msgstr "Equipa las herramientas fabricadas y úsala para recolectar recursos"
+msgstr "Equipa las herramientas fabricadas y úsalas para recolectar recursos"
 
 #. Key:	CD196B794F4608A6F97D48B7E1E51D6F
 #. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.003.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
@@ -1600,21 +1600,21 @@ msgstr "Recolección de recursos (2)"
 #: /Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.003.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(0).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
 msgctxt ",1A3D643B4E39C90D978056ABCC030BFD"
 msgid "砍伐树木"
-msgstr "tala de árboles"
+msgstr "Tala árboles"
 
 #. Key:	930D21CA482DAFF01B3DB0B9105B8877
 #. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.003.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(1).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
 #: /Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.003.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(1).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
 msgctxt ",930D21CA482DAFF01B3DB0B9105B8877"
 msgid "击碎岩石"
-msgstr "Romper la roca"
+msgstr "Rompe rocas"
 
 #. Key:	2A05595043618E5DB56E59ABBAA062AE
 #. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.004.LogDescription_10_32F75F4343592643E76DC28D283FA682
 #: /Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.004.LogDescription_10_32F75F4343592643E76DC28D283FA682
 msgctxt ",2A05595043618E5DB56E59ABBAA062AE"
 msgid "按下Tab键打开背包后点击书籍图标后，找到选择<Img id=\"KJ\"/>科技页面解锁加工台"
-msgstr "Pulsa la tecla Tab para abrir la mochila, luego haz clic en el icono del libro y, en la página de tecnología <Img id=\"KJ\"/>, desbloquea la mesa de procesamiento."
+msgstr "Pulsa -TAB- para abrir la mochila, haz clic en el icono del libro y, en la página de tecnología <Img id=\"KJ\"/>, desbloquea la mesa de procesamiento."
 
 #. Key:	9B61932C4293917783F8FF92E328F088
 #. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.004.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
@@ -1635,14 +1635,14 @@ msgstr "Desbloquea la tabla de procesamiento en el árbol tecnológico"
 #: /Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.004.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(1).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(0).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
 msgctxt ",66487B9A4529E8BFE657159299BAE41B"
 msgid "制作建造锤"
-msgstr "Fabricar martillo de construcción"
+msgstr "Fabrica un martillo de construcción"
 
 #. Key:	CEBCD9DA404E7134F18C4D8581D92998
 #. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.004.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(1).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(1).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
 #: /Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.004.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(1).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(1).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
 msgctxt ",CEBCD9DA404E7134F18C4D8581D92998"
 msgid "使用建造锤，建造加工台"
-msgstr "Utilice el martillo de construcción para construir una mesa de trabajo."
+msgstr "Utiliza el martillo para fabricar una mesa de trabajo."
 
 #. Key:	8943A9914CF37C846E231B9E3FCAFF79
 #. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.005.LogDescription_10_32F75F4343592643E76DC28D283FA682
@@ -1663,7 +1663,7 @@ msgstr "Fundición básica"
 #: /Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.005.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(0).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
 msgctxt ",05EEEF464DE6EB667FEEDAAC31A7396D"
 msgid "击碎黏土矿石"
-msgstr "Triturar mineral de arcilla"
+msgstr "Procesa el mineral de arcilla"
 
 #. Key:	59F4041244DD985D23C1ECB27D0007B9
 #. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.005.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(1).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
@@ -1684,14 +1684,14 @@ msgstr "Desbloquea el horno de carbón"
 #: /Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.005.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(1).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(1).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
 msgctxt ",1C8E65264B0418419676EB968DF43057"
 msgid "建造木炭炉"
-msgstr "Construyendo una estufa de carbón"
+msgstr "Construye un horno de carbón"
 
 #. Key:	756BC48D4620B7176340D98A5914045E
 #. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.006.LogDescription_10_32F75F4343592643E76DC28D283FA682
 #: /Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.006.LogDescription_10_32F75F4343592643E76DC28D283FA682
 msgctxt ",756BC48D4620B7176340D98A5914045E"
 msgid "[生存提示]：你现在手无寸铁，十分危险。你需要一把能保持安全距离的武器。木矛 (Wooden Spear) 是早期生存的最佳选择。近战优势：它的攻击距离长，可以让你在丧尸抓不到你的距离外进行攻击。投掷功能：它是可投掷的！按住右键瞄准，左键投掷。投掷造成的伤害极高，且能造成硬直，但投掷后需要去捡回它。"
-msgstr "[Consejo de supervivencia]: Ahora mismo estás completamente desarmado y eres muy vulnerable. Necesitas un arma que te permita mantener una distancia segura. La lanza de madera (Wooden Spear) es la mejor opción para la supervivencia temprana. Ventaja en combate cuerpo a cuerpo: su alcance es largo, lo que te permite atacar desde una distancia a la que los zombis no pueden agarrarte. Función de lanzamiento: ¡se puede lanzar! Mantén pulsado el botón derecho para apuntar y el izquierdo para lanzar. El daño por lanzamiento es muy alto y puede aturdir, pero después de lanzarla tendrás que ir a recogerla."
+msgstr "[Consejo de supervivencia]: Ahora mismo estás completamente desarmado y eres muy vulnerable. Necesitas un arma que te permita mantener una distancia segura. Una lanza (Lanza de Madera) es la mejor opción para la supervivencia temprana. Ventajasn combate cuerpo a cuerpo: su alcance es largo, lo que te permite atacar desde una distancia a la que los zombis no pueden agarrarte. Función de lanzamiento: ¡se puede lanzar! Mantén pulsado el botón derecho para apuntar y el izquierdo para lanzar. El daño por lanzamiento es muy alto y puede aturdir, pero después de lanzarla tendrás que ir a recogerla."
 
 #. Key:	FE63237444F9CD7EECAF40BBF86FF0E8
 #. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.006.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
@@ -1705,7 +1705,7 @@ msgstr "Guía de supervivencia: Lanza de madera sencilla"
 #: /Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.006.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(0).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
 msgctxt ",54E5BF104902AA90B75EAF8F0D92A9EB"
 msgid "制作木矛"
-msgstr "Fabricar lanza de madera"
+msgstr "Fabrica lanza de madera"
 
 #. Key:	4726E6FE4094B8D86D755288F268B730
 #. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.007.LogDescription_10_32F75F4343592643E76DC28D283FA682
@@ -1768,14 +1768,14 @@ msgstr "Fantasma del desierto: Visitando a Sarah"
 #: /Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.011.LogDescription_10_32F75F4343592643E76DC28D283FA682
 msgctxt ",EED926EC4E4C87162CC514BB0A428E24"
 msgid "[路边的广告牌 / 广播]：“双腿跑不过丧尸，但 V8 引擎可以。李娜的修车厂 (Li Na's Garage) 现已开业！位于主干道旁的老加油站。我们提供：载具维修、改装套件、还有只要加满油就能跑遍全图的座驾。别再背着几十公斤的石头走路了，那看起来蠢透了。带着你的扳手和白狼币过来，让我们把废铁变成战车。”"
-msgstr "[Cartel junto a la carretera / Emisión de radio]: “Tus piernas no pueden correr más rápido que un zombi, pero un motor V8 sí. ¡El taller de Li Na (Li Na's Garage) ya está abierto! Ubicado en la vieja gasolinera junto a la carretera principal. Ofrecemos: reparación de vehículos, kits de modificación y monturas con las que podrás recorrer todo el mapa con solo llenar el tanque. Deja de caminar cargando decenas de kilos de piedra; se ve ridículo. Trae tu llave inglesa y tus Monedas Lobo Blanco, y deja que convirtamos la chatarra en un vehículo de guerra.”"
+msgstr "[Cartel junto a la carretera / Emisión de radio]: “Tus piernas no pueden correr más rápido que un zombi, pero un motor V8 sí. ¡El taller de Li Na (Garaje de Li Na) ya está abierto! Ubicado en la vieja gasolinera junto a la carretera principal. Ofrecemos: reparación de vehículos, kits de modificación y monturas con las que podrás recorrer todo el mapa con solo llenar el tanque. Deja de caminar cargando decenas de kilos de piedra; se ve ridículo. Trae tu llave inglesa y tus Monedas Lobo Blanco, y deja que convirtamos la chatarra en un vehículo de guerra.”"
 
 #. Key:	93A4ABBB42637A7BC5177CA84A91C5B1
 #. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.011.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
 #: /Game/Blueprint/QuestSystem/QuestDatas/DT_AutoQuest.DT_AutoQuest.011.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
 msgctxt ",93A4ABBB42637A7BC5177CA84A91C5B1"
 msgid "全速前进：拜访李娜"
-msgstr "A toda velocidad: visita a Li Na"
+msgstr "A toda velocidad: Visita a Li Na"
 
 #. Key:	DFD5568549C96C343AD791B02BF25FE5
 #. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10000.LogDescription_10_32F75F4343592643E76DC28D283FA682
@@ -1789,7 +1789,7 @@ msgstr "Su odio por estos zombis se le notaba en la cara. Tenía razón; estas c
 #: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10000.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
 msgctxt ",6C0EF39A4AED128A40D8EBB171437ED3"
 msgid "清理污秽"
-msgstr "Limpiar la suciedad"
+msgstr "Limpia la suciedad"
 
 #. Key:	B16FF0E34FA562DBE92D1B8D400BF3E3
 #. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10000.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
@@ -1810,14 +1810,14 @@ msgstr "Pensó que estaba desperdiciando munición valiosa. Aunque sus palabras 
 #: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10001.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
 msgctxt ",730ED8A24948A5C25492359FBC679B5E"
 msgid "节省弹药"
-msgstr "Ahorrar munición"
+msgstr "Ahorra munición"
 
 #. Key:	3EFB838E45A8278D99078784EAB3070D
 #. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10001.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(0).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
 #: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10001.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(0).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
 msgctxt ",3EFB838E45A8278D99078784EAB3070D"
 msgid "爆头击杀丧尸"
-msgstr "Disparo a la cabeza para matar zombis"
+msgstr "Dispara a la cabeza para matar zombis"
 
 #. Key:	B69621A14A40293ACB983CBDA388293A
 #. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10001.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
@@ -1859,7 +1859,7 @@ msgstr "Ya puedes disparar, qué bien. Pero las balas siempre se acaban. ¿Qué 
 #: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10003.LogDescription_10_32F75F4343592643E76DC28D283FA682
 msgctxt ",7FD4C96240AC57C558937DBFCB2EC782"
 msgid "营地周围出现了一种危险的变异体——“毒爆者”（绿色爆炸丧尸）。它们体内充满易爆的酸性液体，近战极其致命，而枪声又容易引发连锁反应。Hank 建议使用弓箭进行远程、无声的清除。这是一次对潜行和精准度的终极考验。"
-msgstr "Un peligroso mutante, los \"Bombarderos\" (zombis verdes explosivos), ha aparecido en el campamento. Llenos de un líquido ácido explosivo, son extremadamente letales en combate cuerpo a cuerpo, y los disparos pueden desencadenar fácilmente una reacción en cadena. Hank sugiere usar arco y flecha para una eliminación silenciosa a distancia. Esta es la prueba definitiva de sigilo y precisión."
+msgstr "Un peligroso mutante, los \"Bombarderos\" (zombis verdes explosivos), han aparecido en el campamento. Llenos de un líquido ácido explosivo, son extremadamente letales en combate cuerpo a cuerpo, y los disparos pueden desencadenar fácilmente una reacción en cadena. Hank sugiere usar arco y flecha para una eliminación silenciosa a distancia. Esta es la prueba definitiva de sigilo y precisión."
 
 #. Key:	C99B80A24B733969FCA8F99EC2D24A41
 #. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10003.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
@@ -1873,14 +1873,14 @@ msgstr "Procesamiento silencioso"
 #: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10003.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(0).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
 msgctxt ",005E98AF4506197F0FC72FB1A3830A76"
 msgid "使用弓箭击杀毒爆者"
-msgstr "Usa un arco y una flecha para matar a los pestelings."
+msgstr "Usa un arco y una flecha para matar a los Exploradores de la Perdición."
 
 #. Key:	2FCFC4EA442911B077308BB3028CA666
 #. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10003.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
 #: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10003.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
 msgctxt ",2FCFC4EA442911B077308BB3028CA666"
 msgid "你见过那种皮肤发绿、肿得像气球一样的家伙吗？那是‘毒爆者’。如果你蠢到用刀去砍它，或者用枪近距离轰它，溅出来的毒酸能把你那张脸融化掉。而且枪声会引来更多麻烦。这种时候，就要用老派的方法。弓箭。安静、致命，而且能让你保持安全距离。我要你去找几只这种绿皮怪物，用弓箭把它们射爆。别弄出动静，别弄脏自己。"
-msgstr "¿Has visto alguna vez esas criaturas de piel verde e hinchadas como globos? Son los \"Explosores de la Perdición\". Si eres tan tonto como para intentar atacarlos con un cuchillo o dispararles a corta distancia, el ácido que salpica te derretirá la cara. Y los disparos solo traerán más problemas. En estas situaciones, necesitas el método tradicional: un arco y una flecha. Silencioso, letal y te permite mantener una distancia segura. Quiero que encuentres algunos de estos monstruos de piel verde y les dispares a todos con tu arco y flecha. No hagas ruido y no te ensucies."
+msgstr "¿Has visto alguna vez esas criaturas de piel verde e hinchadas como globos? Son los \"Exploradores de la Perdición\". Si eres tan tonto como para intentar atacarlos con un cuchillo o dispararles a corta distancia, el ácido que salpica te derretirá la cara. Y los disparos solo traerán más problemas. En estas situaciones, necesitas el método tradicional: un arco y una flecha. Silencioso, letal y te permite mantener una distancia segura. Quiero que encuentres algunos de estos monstruos de piel verde y les dispares a todos con tu arco y flecha. No hagas ruido y no te ensucies."
 
 #. Key:	301914C34E985B5150F18AA4778A11B5
 #. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10004.LogDescription_10_32F75F4343592643E76DC28D283FA682
@@ -1901,7 +1901,7 @@ msgstr "Prueba de penetración"
 #: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10004.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(0).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
 msgctxt ",6018FB504C2D6652619B228D0DA8F7AA"
 msgid "击杀武装丧尸 "
-msgstr "Matar zombis armados"
+msgstr "Mata zombis armados"
 
 #. Key:	34E1922B46C20970B5F1A9BB25FB644A
 #. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10004.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
@@ -1922,7 +1922,7 @@ msgstr "Hank me presentó una herramienta pesada: el mazo. Aunque su poder letal
 #: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10005.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
 msgctxt ",A79334A74D68BF819D62BBBF5F62B21B"
 msgid "破门而入"
-msgstr "Derribar la puerta"
+msgstr "Derriba la puerta"
 
 #. Key:	6BE77EA247E5ADDFF482E8AB9F21FE18
 #. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10005.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(0).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
@@ -1985,14 +1985,14 @@ msgstr "Escupiendo fuego"
 #: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10007.Stages_26_014DA25F4C74D41CB187CE9E6A60380F(0).Stages_26_014DA25F4C74D41CB187CE9E6A60380F.Objects_6_216852C8489C3DC50EE1A383DD829ED8(0).Objects_6_216852C8489C3DC50EE1A383DD829ED8.Description_2_05642EED4E49F7B6E5E761B23C896513
 msgctxt ",CFF7E7744A0C8E3F813691901AD680CC"
 msgid "使用 18C 击杀丧尸"
-msgstr "Usa 18C para matar zombies"
+msgstr "Usa una G18C para matar zombies"
 
 #. Key:	1DFB6CA44E56794839E65A8DCE33E6B3
 #. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10007.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
 #: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10007.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
 msgctxt ",1DFB6CA44E56794839E65A8DCE33E6B3"
 msgid "我看你捡到了一把小巧的18C 全自动手枪？那可是个暴躁的小野兽。大多数人拿它就像拿着一根滋水枪，只会对着天空乱射。我要看看你能不把它驾驭住。去，用它的全自动模式清理一波丧尸。记住，控制你的扳机，别两秒钟就把弹夹打空了还什么都没打中。完事后把枪给我，如果你表现得好，我就给你一把更适合成年人的‘扫帚’——一把能把它们轰成渣的霰弹枪。"
-msgstr "Veo que has encontrado una pequeña pistola automática 18C, ¿eh? Es una pequeña bestia temperamental. La mayoría de la gente la agarra como si fuera una pistola de agua y solo dispara al cielo sin control. Quiero ver si tú puedes dominarla. Ve y usa su modo totalmente automático para limpiar una oleada de zombis. Recuerda, controla el gatillo: no vacíes el cargador en dos segundos sin darle a nada. Cuando termines, devuélveme el arma. Si lo haces bien, te daré una ‘escoba’ más adecuada para un adulto: una escopeta capaz de hacerlos polvo."
+msgstr "Veo que has encontrado una pequeña pistola automática G18C, ¿eh? Es una pequeña bestia temperamental. La mayoría de la gente la agarra como si fuera una pistola de agua y solo dispara al cielo sin control. Quiero ver si tú puedes dominarla. Ve y usa su modo totalmente automático para limpiar una oleada de zombis. Recuerda, controla el gatillo: no vacíes el cargador en dos segundos sin darle a nada. Cuando termines, devuélveme el arma. Si lo haces bien, te daré una ‘escoba’ más adecuada para un adulto: una escopeta capaz de hacerlos polvo."
 
 #. Key:	F2B67B4F46F06939CEE247A1708DB9CD
 #. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10008.LogDescription_10_32F75F4343592643E76DC28D283FA682
@@ -2146,7 +2146,7 @@ msgstr "Hay cosas asquerosas por aquí. ¿Las has visto? Esos monstruos hinchado
 #: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10014.LogDescription_10_32F75F4343592643E76DC28D283FA682
 msgctxt ",EA92C119420A35F01D396A88D9114C15"
 msgid "出现了一种极度危险的红色毒爆者变种。这种怪物的爆炸对建筑结构具有毁灭性的破坏力。它是基地防御的首要威胁。Hank 要求我主动猎杀这些怪物，并在它们接触防御工事前将其引爆。保护基地完整性是第一要务。"
-msgstr "Ha surgido una variante altamente peligrosa del pesteling rojo. Las explosiones de estos monstruos son devastadoras para las estructuras de los edificios. Representan una amenaza fundamental para las defensas de la base. Hank me ha ordenado que los cace activamente y los detone antes de que alcancen las fortificaciones. Proteger la integridad de la base es nuestra máxima prioridad."
+msgstr "Ha surgido una variante altamente peligrosa del explorador de la perdición,  de color rojo. Las explosiones de estos monstruos son devastadoras para las estructuras de los edificios. Representan una amenaza fundamental para las defensas de la base. Hank me ha ordenado que los cace activamente y los detone antes de que alcancen las fortificaciones. Proteger la integridad de la base es nuestra máxima prioridad."
 
 #. Key:	75220B584CDBBA0BE19D8783B7AE7155
 #. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10014.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
@@ -2251,7 +2251,7 @@ msgstr "Pensé que ya habíamos visto lo peor, hasta que los exploradores trajer
 #: /Game/Blueprint/QuestSystem/QuestDatas/DT_LIE.DT_LIE.20000.LogDescription_10_32F75F4343592643E76DC28D283FA682
 msgctxt ",BBBA481F48CCF14A70CBFA84DFD4B16F"
 msgid "商人李娜需要燃油来维持设备运转。她提供了一批自制的燃烧弹作为交换。这是一种极其有效的清场武器。"
-msgstr "El empresario Lina necesitaba combustible para mantener su equipo en funcionamiento. Ofreció a cambio un lote de bombas incendiarias caseras. Esta fue un arma extremadamente eficaz para despejar la zona."
+msgstr "Lina necesitaba combustible para mantener su equipo en funcionamiento. Ofreció a cambio un lote de bombas incendiarias caseras. Esta fue un arma extremadamente eficaz para despejar la zona."
 
 #. Key:	DA70A47A4C3F9EF204474FA9BE9F2934
 #. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_LIE.DT_LIE.20000.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
@@ -2489,7 +2489,7 @@ msgstr "Li Na planea abrir una ruta de comercio de larga distancia hacia la ciud
 #: /Game/Blueprint/QuestSystem/QuestDatas/DT_LIE.DT_LIE.20011.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
 msgctxt ",6E4A18BD4E3B7C0FFE8BF4A69F5C8113"
 msgid "区域肃清：猎杀名单 "
-msgstr "Limpieza de zona: lista de caza"
+msgstr "Limpieza de zona: Lista de caza"
 
 #. Key:	433CDBF54A9FACC88591C7AE4642104C
 #. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_LIE.DT_LIE.20011.TalkDescription_12_16194C814CBBD3FB9B84849F43D07FB5
@@ -6703,7 +6703,7 @@ msgstr "Transacción"
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_DP_XDD.Default__Furniture_DP_XDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",4D0C9B7842A1EB16341E5FBD01DE3B89"
 msgid "地板"
-msgstr "piso"
+msgstr "Piso"
 
 #. Key:	3581A89C43D3A186CF54818DC0E637FF
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_DPBase.Default__Furniture_DPBase_C.BuildInfo.TipAdsorbent_45_0277CC26494BF1319349189E27EC6190
@@ -6731,7 +6731,7 @@ msgstr "Una caja para guardar objetos sin perderlos."
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_DPLDD.Default__Furniture_DPLDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",3F2C111849DAB2B562A54C94C01A6E44"
 msgid "地板"
-msgstr "piso"
+msgstr "Piso"
 
 #. Key:	7CCCED78433FBE0BEEEFD09131C4426E
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_KG.Furniture_KG_C:ShowUI [Script Bytecode]
@@ -7963,28 +7963,28 @@ msgstr "Jarrón"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,JSDB"
 msgid "金属地板"
-msgstr "Piso de metal"
+msgstr "Piso metálico"
 
 #. Key:	JSDBSJ
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,JSDBSJ"
 msgid "金属地板（三角）"
-msgstr "Piso de metal (triángulo)"
+msgstr "Piso metálico (triángulo)"
 
 #. Key:	JSDJ
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,JSDJ"
 msgid "金属地基"
-msgstr "Fundación de metal"
+msgstr "Cimiento metálico"
 
 #. Key:	JSDJSJ
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,JSDJSJ"
 msgid "金属地基（三角）"
-msgstr "Fundación metálica (triangular)"
+msgstr "Cimiento metálico (triangular)"
 
 #. Key:	JSLTHW
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -7998,28 +7998,28 @@ msgstr "Escalera metálica (exterior)"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,JSQT"
 msgid "金属墙体"
-msgstr "paredes de metal"
+msgstr "Paredes metálicas"
 
 #. Key:	JSQTDCD
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,JSQTDCD"
 msgid "金属墙体(带窗洞)"
-msgstr "Pared de metal (con aberturas para ventanas)"
+msgstr "Pared metálica (con aberturas para ventanas)"
 
 #. Key:	JSQTMD
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,JSQTMD"
 msgid "金属墙体(带门洞)"
-msgstr "Pared de metal (con puerta)"
+msgstr "Pared metálica (con puerta)"
 
 #. Key:	JSQTSFZY
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,JSQTSFZY"
 msgid "金属墙体(1/3)"
-msgstr "Pared de metal (1/3)"
+msgstr "Pared metálica (1/3)"
 
 #. Key:	JSQTSJ
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -8173,7 +8173,7 @@ msgstr "Los rendimientos de la producción pueden aumentar aún más si se propo
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,PF44343"
 msgid "屏风"
-msgstr "pantalla"
+msgstr "Pantalla"
 
 #. Key:	PINGJUN
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -8334,7 +8334,7 @@ msgstr "Decoración: Cabeza de Jabalí"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,ZYTQ43243"
 msgid "信号塔"
-msgstr "torre de señales"
+msgstr "Torre de comunicación"
 
 #. Key:	CCBFH
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -15929,21 +15929,21 @@ msgstr "¡Esta Lleno!"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,FSEJXH"
 msgid "发射二级信号（尸潮）"
-msgstr "Lanzar señal de nivel 2 (horda de cadáveres)"
+msgstr "Transmitir señal de 2º nivel (horda de cadáveres)"
 
 #. Key:	FSXJXH
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,FSXJXH"
 msgid "发射三级信号（尸潮）"
-msgstr "Lanzar señal de nivel 3 (horda de cadáveres)"
+msgstr "Transmitir señal de 3º nivel (horda de cadáveres)"
 
 #. Key:	FSYJXH
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,FSYJXH"
 msgid "发射一级信号（尸潮）"
-msgstr "Lanzar señal de nivel 1 (horda de cadáveres)"
+msgstr "Transmitir señal de 1º nivel (horda de cadáveres)"
 
 #. Key:	Ftip
 #. SourceLocation:	/Game/LocalizationText/UI.UI
