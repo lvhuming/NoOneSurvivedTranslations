@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2025-12-27 07:17\n"
-"PO-Revision-Date: 2025-12-27 07:17\n"
+"POT-Creation-Date: 2026-03-18 01:43\n"
+"PO-Revision-Date: 2026-03-18 01:43\n"
 "Language-Team: \n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
@@ -734,12 +734,19 @@ msgctxt ",2F32F7184EE08293DDC575A2F524D414"
 msgid "左轮手枪"
 msgstr "Altı Patlar"
 
-#. Key:	A9AF20C4464A2FCCD556B98049E332CC
+#. Key:	0F1D0FB0442C8C40C64E7A8191332085
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_sniper_SKS.Default__ACFGunBase_sniper_SKS_C.ItemInfo.Name
 #: /Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_sniper_SKS.Default__ACFGunBase_sniper_SKS_C.ItemInfo.Name
-msgctxt ",A9AF20C4464A2FCCD556B98049E332CC"
+msgctxt ",0F1D0FB0442C8C40C64E7A8191332085"
 msgid "SKS"
 msgstr "SKS"
+
+#. Key:	BFB15D9B444851120F7DCB8E65CA1586
+#. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_sniper_SVD.Default__ACFGunBase_sniper_SVD_C.ItemInfo.Name
+#: /Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_sniper_SVD.Default__ACFGunBase_sniper_SVD_C.ItemInfo.Name
+msgctxt ",BFB15D9B444851120F7DCB8E65CA1586"
+msgid "SVD"
+msgstr "SVD"
 
 #. Key:	1F99F44C4E0061BF010728B9C1DBDC30
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Ammo/BP_GunAmmoBase.Default__BP_GunAmmoBase_C.ItemInfo.Name
@@ -755,12 +762,12 @@ msgctxt ",E89BB0EF49E11ADED3881FAA844725DC"
 msgid "长的双手大锤"
 msgstr "Uzun İki Elli Balyoz"
 
-#. Key:	816B809E442B064BD3B914A2A04D2CF3
+#. Key:	A34DE4F84EF84BE31D36469B17B523C9
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/LongBlunt/BP_LongBluntStick_G.Default__BP_LongBluntStick_G_C.ItemInfo.Description
 #: /Game/Blueprint/ACF/Item/Weapon/LongBlunt/BP_LongBluntStick_G.Default__BP_LongBluntStick_G_C.ItemInfo.Description
-msgctxt ",816B809E442B064BD3B914A2A04D2CF3"
+msgctxt ",A34DE4F84EF84BE31D36469B17B523C9"
 msgid "露茜儿++"
-msgstr "Lucile++"
+msgstr "Lucille++"
 
 #. Key:	FD5D604D432226A201BDBD830BF11341
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/LongBlunt/Pickaxe/BP_ToolPickaxeBase.Default__BP_ToolPickaxeBase_C.ItemInfo.Name
@@ -817,6 +824,34 @@ msgstr "Tahta Mızrak"
 msgctxt ",E55D360946BFB010A48B85A3400EDE5D"
 msgid "投掷物"
 msgstr "Nesne Fırlatma"
+
+#. Key:	F8B0337E4E8750840855CD95CF9348A7
+#. SourceLocation:	/Game/Blueprint/ACF/Manager/E_MusicType.E_MusicType.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/Blueprint/ACF/Manager/E_MusicType.E_MusicType.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",F8B0337E4E8750840855CD95CF9348A7"
+msgid "Normal"
+msgstr "Normal"
+
+#. Key:	19A3850D49DC3E49494B5C803E68E69E
+#. SourceLocation:	/Game/Blueprint/ACF/Manager/E_MusicType.E_MusicType.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/Blueprint/ACF/Manager/E_MusicType.E_MusicType.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",19A3850D49DC3E49494B5C803E68E69E"
+msgid "Combat"
+msgstr "Combat"
+
+#. Key:	6FF7177D46751621AB4C33AB2EDA868E
+#. SourceLocation:	/Game/Blueprint/ACF/Manager/E_MusicType.E_MusicType.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/Blueprint/ACF/Manager/E_MusicType.E_MusicType.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",6FF7177D46751621AB4C33AB2EDA868E"
+msgid "BossCombat"
+msgstr "BossCombat"
+
+#. Key:	D564166445642802B49277A181655E9E
+#. SourceLocation:	/Game/Blueprint/ACF/Manager/E_MusicType.E_MusicType.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/Blueprint/ACF/Manager/E_MusicType.E_MusicType.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",D564166445642802B49277A181655E9E"
+msgid "Community"
+msgstr "Community"
 
 #. Key:	B09AB7414F2903DE09B2F8A4CE4DF3C4
 #. SourceLocation:	/Game/Blueprint/ACF/Manager/E_Season.E_Season.DisplayNameMap(0 - Value).DisplayNameMap
@@ -2565,8 +2600,8 @@ msgstr "Hala vahşi bir adam gibi sadece kızarmış et mi yiyorsun? Bu yüzden 
 #. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30003.LogDescription_10_32F75F4343592643E76DC28D283FA682
 #: /Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30003.LogDescription_10_32F75F4343592643E76DC28D283FA682
 msgctxt ",4B8DA2F349ECF10D9BBC19A0DF3BA091"
-msgid "痢疾是废土上常见的致死病因。Maria 教授了一种古老的配方：将 1 株“野生药草”和 2 瓶“纯净水”在锅中烹煮，可以制作出治疗痢疾并回复体力的“药草茶”。请留意野外的草地。"
-msgstr "Dizanteri, kıyamet sonrası dünyada yaygın bir ölüm nedenidir. Maria, eski bir tarif öğretti: 1 adet 'Yabani Ot' ve 2 şişe 'Saf Su'yu bir tencerede kaynatarak, dizanteriyi tedavi eden ve dayanıklılığı geri kazandıran 'Bitki Çayı' yapabilirsiniz. Dışarıdaki çayırlara dikkat edin."
+msgid "痢疾是废土上常见的致死病因。Maria 教授了一种古老的配方：将 1 株“野生药草”和 2 L“纯净水”在锅中烹煮，可以制作出治疗痢疾并回复体力的“药草茶”。请留意野外的草地。"
+msgstr "Dizanteri, kıyamet sonrası topraklarda yaygın bir ölüm sebebidir. Maria eski bir tarif öğretti: Bir tencereye 1 adet \"Yabani Şifalı Ot\" ve 2 L \"Temiz Su\" koyup kaynatarak dizanteriyi iyileştiren ve dayanıklılığı yenileyen bir \"Bitki Çayı\" yapabilirsin. Lütfen dışarıdaki çayırlara dikkat et."
 
 #. Key:	0A8361EF4D9AB2F097C61ABD621583E2
 #. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30003.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
@@ -2649,8 +2684,8 @@ msgstr "Şu nehre bir bak. Altında devasa bir protein kaynağı gizli - balık.
 #. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30006.LogDescription_10_32F75F4343592643E76DC28D283FA682
 #: /Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30006.LogDescription_10_32F75F4343592643E76DC28D283FA682
 msgctxt ",E432FF5E403DC34A771E7A8FEC1EAD62"
-msgid "Maria 厌倦了普通的烤鱼。她要求我制作一份更精致的“海鲜肉排”。这需要将生鱼肉与玉米粉结合，并用动物油脂进行煎炸。这"
-msgstr "Maria, sıradan ızgara balıktan bıktı. Benden daha zarif bir 'deniz ürünleri köftesi' yapmamı istedi. Bu, çiğ balık eti ve mısır unu birleştirilerek, hayvan yağı ile kızartılarak yapılır."
+msgid "Maria 厌倦了普通的烤鱼。她要求我制作一份更精致的“海鲜肉排”。这需要将生鱼肉与玉米粉结合，并用动物油脂进行煎炸。"
+msgstr "Maria sıradan ızgara balıktan bıkmıştı. Benden daha gösterişli bir \"deniz ürünü köftesi\" yapmamı istedi. Bunun için çiğ balık etini mısır unu ile karıştırıp hayvansal yağda kızartmak gerekiyor."
 
 #. Key:	43FF9AD743250EFC83B5639976075933
 #. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30006.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
@@ -2733,8 +2768,8 @@ msgstr "Bu yolculuk boyunca, senin de epey yara aldığını gördüm. Karnını
 #. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30010.LogDescription_10_32F75F4343592643E76DC28D283FA682
 #: /Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30010.LogDescription_10_32F75F4343592643E76DC28D283FA682
 msgctxt ",ECD4AC944A6590861FE843A954FEFF62"
-msgid "搜刮来的药物越来越少，是时候掌握制药技术了。Maria 提供了“制药桌”的蓝图。这是制作高级药品、提炼草药精华以及合成抗生素的专用工作台。"
-msgstr "Topladığın ilaçlar giderek azalıyor, artık ilaç yapma becerilerini öğrenmenin zamanı geldi. Maria, 'ilaç masası' planını sağladı. Bu, ileri düzey ilaçlar yapmak, bitkisel özler çıkarmak ve antibiyotikler sentezlemek için özel bir iş masasıdır."
+msgid "搜刮来的药物越来越少，是时候掌握制药技术了。这是制作高级药品、提炼草药精华以及合成抗生素的专用工作台。"
+msgstr "Yağmalayarak bulduğumuz ilaçlar gittikçe azalıyor, artık ilaç üretim tekniğine hâkim olmanın zamanı geldi. Bu, ileri düzey ilaçlar üretmek, bitki özlerini damıtmak ve antibiyotik sentezlemek için özel bir çalışma tezgâhıdır."
 
 #. Key:	12D20ECD4F4ACB90E2A1B0A85C986C0C
 #. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30010.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
@@ -3307,8 +3342,8 @@ msgstr "Bu ormandaki kurtları ve domuzları neredeyse tamamen temizledin. Şimd
 #. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50009.LogDescription_10_32F75F4343592643E76DC28D283FA682
 #: /Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50009.LogDescription_10_32F75F4343592643E76DC28D283FA682
 msgctxt ",CDD30CC843D1410B5F015BBFC3D76E4D"
-msgid "Sarah 打算建立自己的纺织原料基地。去野外采集植物，制作或收集种子。这笔交易的报酬非常丰厚。(提示：你可以在背包制作栏里将采集到的植物转化为种子)"
-msgstr "Sarah, kendi tekstil hammaddesi üssünü kurmayı planlıyor. Dışarıda bitki toplayın, tohum yapın veya toplayın. Bu ticaretin ödülü oldukça cömert. (İpucu: Topladığınız bitkileri sırt çantası üretim alanında tohuma dönüştürebilirsiniz.)"
+msgid "Sarah 打算建立自己的纺织原料基地。去野外采集植物，制作或收集种子。这笔交易的报酬非常丰厚。(提示：你可以在农业工作台里将采集到的植物转化为种子)"
+msgstr "Sarah kendi tekstil hammaddesi üssünü kurmayı planlıyor. Doğaya gidip bitki toplayacak, tohum üretecek veya toplayacak. Bu işin ödemesi oldukça yüksek. (İpucu: Topladığın bitkileri tarım çalışma tezgâhında tohuma dönüştürebilirsin.)"
 
 #. Key:	E9E798394E29A532ECEAFAA276614ECA
 #. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50009.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
@@ -6698,10 +6733,10 @@ msgctxt ",F9AEB4DA4E4995AF5C0807AE1EEF8C90"
 msgid "transaction"
 msgstr "işlem"
 
-#. Key:	4D0C9B7842A1EB16341E5FBD01DE3B89
+#. Key:	9467DBC740A3DCA3C6FD3B91ABB29688
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_DP_XDD.Default__Furniture_DP_XDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_DP_XDD.Default__Furniture_DP_XDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
-msgctxt ",4D0C9B7842A1EB16341E5FBD01DE3B89"
+msgctxt ",9467DBC740A3DCA3C6FD3B91ABB29688"
 msgid "地板"
 msgstr "Zemin"
 
@@ -6726,10 +6761,10 @@ msgctxt ",ABE10B784F6D55A4DA2F40A4FBEC2520"
 msgid "用于保管物品的箱子，不会丢失物品。"
 msgstr "Öğelerin kaybolmaması için öğeleri saklamaya yarayan bir kutu."
 
-#. Key:	3F2C111849DAB2B562A54C94C01A6E44
+#. Key:	A4F801E94D43DD217F0D9AA600F69E87
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_DPLDD.Default__Furniture_DPLDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_DPLDD.Default__Furniture_DPLDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
-msgctxt ",3F2C111849DAB2B562A54C94C01A6E44"
+msgctxt ",A4F801E94D43DD217F0D9AA600F69E87"
 msgid "地板"
 msgstr "Zemin"
 
@@ -6775,12 +6810,12 @@ msgctxt ",BC879B3F4ECE110B894771976EFF65F1"
 msgid "家具"
 msgstr "mobilya"
 
-#. Key:	81C8560E4FA1F90CB89060A6C4CA72D9
+#. Key:	5DE909AC4EB572FE8D3C46B84EDE3C94
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_TYNFD.Default__Furniture_TYNFD_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_TYNFD.Default__Furniture_TYNFD_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-msgctxt ",81C8560E4FA1F90CB89060A6C4CA72D9"
+msgctxt ",5DE909AC4EB572FE8D3C46B84EDE3C94"
 msgid "受遮挡或在没有太阳的天气无法发电"
-msgstr "Güneş yoksa veya engellenmişse elektrik üretilemez"
+msgstr "Güneş engellendiğinde veya güneşin olmadığı havalarda elektrik üretemez"
 
 #. Key:	B902044F444A770F5D16FEBFFB185A39
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_YSSJQ.Furniture_YSSJQ_C:ExecuteUbergraph_Furniture_YSSJQ [Script Bytecode]
@@ -6824,26 +6859,26 @@ msgctxt ",F3F8E148409A7CD56F64519CED4DC8A7"
 msgid "水不够！"
 msgstr "Yeterli Su Yok!"
 
-#. Key:	E783B6CF4BBE9E369F2AC59D0826D983
+#. Key:	EBC21F7246E6209331D60EA0265F237A
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/OutStairs_Base_Wood.Default__OutStairs_Base_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 #: /Game/HDCKBuildingSystem/MeshBP/OutStairs_Base_Wood.Default__OutStairs_Base_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-msgctxt ",E783B6CF4BBE9E369F2AC59D0826D983"
+msgctxt ",EBC21F7246E6209331D60EA0265F237A"
 msgid "建房必备"
-msgstr "Ev inşası için gerekli"
+msgstr "Ev yapımı için olmazsa olmaz"
 
-#. Key:	4F5E51A74D6961DBF6163C840A9B8A65
+#. Key:	618851AB421FBCEE730EB4A4B8283441
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_BL.Default__Roof_20_intersection_BL_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 #: /Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_BL.Default__Roof_20_intersection_BL_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-msgctxt ",4F5E51A74D6961DBF6163C840A9B8A65"
+msgctxt ",618851AB421FBCEE730EB4A4B8283441"
 msgid "用于连接外转角屋顶。"
-msgstr "Dış köşe çatıları bağlamak için kullanılır."
+msgstr "Dış köşe çatıyı bağlamak için kullanılır."
 
-#. Key:	0AF1E2FF4B2F14214C9006B6613EF36C
+#. Key:	65067D1B47100B84C38434820F153140
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_Wood.Default__Roof_20_intersection_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 #: /Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_Wood.Default__Roof_20_intersection_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-msgctxt ",0AF1E2FF4B2F14214C9006B6613EF36C"
+msgctxt ",65067D1B47100B84C38434820F153140"
 msgid "用于连接外转角屋顶。"
-msgstr "Dış köşe çatıları bağlamak için kullanılır."
+msgstr "Dış köşe çatıyı bağlamak için kullanılır."
 
 #. Key:	E8EA4D5B4493329CF32982ABD630233C
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Wattle_WoodDoor.Wattle_WoodDoor_C:ShowUI [Script Bytecode]
@@ -7929,6 +7964,13 @@ msgstr "kilim"
 msgctxt "BuildInfo,DT02"
 msgid "大地毯"
 msgstr "büyük halı"
+
+#. Key:	DTX75643
+#. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
+#: /Game/LocalizationText/BuildInfo.BuildInfo
+msgctxt "BuildInfo,DTX75643"
+msgid "大铁箱"
+msgstr "Büyük demir kasa"
 
 #. Key:	duifeitong
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -15973,6 +16015,13 @@ msgctxt "UI,GameVersionNot"
 msgid "游戏版本不一致！"
 msgstr "Oyun versiyonu tutarsız!"
 
+#. Key:	GetTip43243
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,GetTip43243"
+msgid "注意开启以后无法关闭，开启会引来大量尸潮，请勿轻易开启！！"
+msgstr "Dikkat: Açıldıktan sonra kapatılamaz, açmak büyük bir zombi sürüsü çeker, lütfen kolayca açmayın!!"
+
 #. Key:	GL
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
@@ -16791,6 +16840,13 @@ msgstr "Bu işlemin Tencerenin içeriğini sileceğini unutmayın."
 msgctxt "UI,PZWQ"
 msgid "配置武器"
 msgstr "silahları yapılandır"
+
+#. Key:	QBZY543453
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,QBZY543453"
+msgid "全部转移"
+msgstr "Hepsini aktar"
 
 #. Key:	QCCW01
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -18556,12 +18612,61 @@ msgctxt "UI,NK"
 msgid "耐渴"
 msgstr "Susuzluğa dayanıklı"
 
+#. Key:	NLFH01535356
+#. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
+#: /Game/LocalizationText/UICharacter.UICharacter
+msgctxt "UI,NLFH01535356"
+msgid "气喘"
+msgstr "Nefes darlığı"
+
 #. Key:	NLHF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,NLHF"
 msgid "耐力恢复"
 msgstr "Kendini toplamak"
+
+#. Key:	NLHF019143453
+#. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
+#: /Game/LocalizationText/UICharacter.UICharacter
+msgctxt "UI,NLHF019143453"
+msgid "深呼吸"
+msgstr "Derin nefes"
+
+#. Key:	NLSX023612656
+#. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
+#: /Game/LocalizationText/UICharacter.UICharacter
+msgctxt "UI,NLSX023612656"
+msgid "肺活量低"
+msgstr "Düşük akciğer kapasitesi"
+
+#. Key:	NLSX0292366
+#. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
+#: /Game/LocalizationText/UICharacter.UICharacter
+msgctxt "UI,NLSX0292366"
+msgid "骆驼耐性"
+msgstr "Deve dayanıklılığı"
+
+#. Key:	NLSX46349999
+#. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
+#: /Game/LocalizationText/UICharacter.UICharacter
+msgctxt "UI,NLSX46349999"
+msgid "久坐族"
+msgstr "Uzun süre oturanlar"
+
+#. Key:	NLSX53453543
+#. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
+#: /Game/LocalizationText/UICharacter.UICharacter
+msgctxt "UI,NLSX53453543"
+msgid "运动员"
+msgstr "Sporcu"
+
+#. Key:	NLSX882366
+#. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
+#: /Game/LocalizationText/UICharacter.UICharacter
+msgctxt "UI,NLSX882366"
+msgid "耐力上限"
+msgstr "Dayanıklılık üst sınırı"
 
 #. Key:	NLXH
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
