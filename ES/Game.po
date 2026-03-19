@@ -767,7 +767,7 @@ msgstr "Maza de Hierro"
 #: /Game/Blueprint/ACF/Item/Weapon/LongBlunt/BP_LongBluntStick_G.Default__BP_LongBluntStick_G_C.ItemInfo.Description
 msgctxt ",A34DE4F84EF84BE31D36469B17B523C9"
 msgid "露茜儿++"
-msgstr "Lucille++"
+msgstr "Lucile++"
 
 #. Key:	FD5D604D432226A201BDBD830BF11341
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/LongBlunt/Pickaxe/BP_ToolPickaxeBase.Default__BP_ToolPickaxeBase_C.ItemInfo.Name
@@ -837,21 +837,21 @@ msgstr "Normal"
 #: /Game/Blueprint/ACF/Manager/E_MusicType.E_MusicType.DisplayNameMap(1 - Value).DisplayNameMap
 msgctxt ",19A3850D49DC3E49494B5C803E68E69E"
 msgid "Combat"
-msgstr "Combat"
+msgstr "Combate"
 
 #. Key:	6FF7177D46751621AB4C33AB2EDA868E
 #. SourceLocation:	/Game/Blueprint/ACF/Manager/E_MusicType.E_MusicType.DisplayNameMap(2 - Value).DisplayNameMap
 #: /Game/Blueprint/ACF/Manager/E_MusicType.E_MusicType.DisplayNameMap(2 - Value).DisplayNameMap
 msgctxt ",6FF7177D46751621AB4C33AB2EDA868E"
 msgid "BossCombat"
-msgstr "BossCombat"
+msgstr "Jefe de Combate"
 
 #. Key:	D564166445642802B49277A181655E9E
 #. SourceLocation:	/Game/Blueprint/ACF/Manager/E_MusicType.E_MusicType.DisplayNameMap(3 - Value).DisplayNameMap
 #: /Game/Blueprint/ACF/Manager/E_MusicType.E_MusicType.DisplayNameMap(3 - Value).DisplayNameMap
 msgctxt ",D564166445642802B49277A181655E9E"
 msgid "Community"
-msgstr "Community"
+msgstr "Comunidad"
 
 #. Key:	B09AB7414F2903DE09B2F8A4CE4DF3C4
 #. SourceLocation:	/Game/Blueprint/ACF/Manager/E_Season.E_Season.DisplayNameMap(0 - Value).DisplayNameMap
@@ -2601,7 +2601,7 @@ msgstr "¿Sigues comiendo solo carne asada como un salvaje? Con razón tienes se
 #: /Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30003.LogDescription_10_32F75F4343592643E76DC28D283FA682
 msgctxt ",4B8DA2F349ECF10D9BBC19A0DF3BA091"
 msgid "痢疾是废土上常见的致死病因。Maria 教授了一种古老的配方：将 1 株“野生药草”和 2 L“纯净水”在锅中烹煮，可以制作出治疗痢疾并回复体力的“药草茶”。请留意野外的草地。"
-msgstr ""
+msgstr "La disentería es una causa común de muerte en el páramo. María ha enseñado una receta ancestral: hervir una \"hierba silvestre\" y dos botellas de \"agua pura\" en una olla crea una \"infusión\" que cura la disentería y restaura las fuerzas. Manténte atento a los prados en la naturaleza"
 
 #. Key:	0A8361EF4D9AB2F097C61ABD621583E2
 #. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30003.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
@@ -2685,7 +2685,7 @@ msgstr "¿Ves ese río? Bajo él yace una vasta fuente de proteínas: pescado. P
 #: /Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30006.LogDescription_10_32F75F4343592643E76DC28D283FA682
 msgctxt ",E432FF5E403DC34A771E7A8FEC1EAD62"
 msgid "Maria 厌倦了普通的烤鱼。她要求我制作一份更精致的“海鲜肉排”。这需要将生鱼肉与玉米粉结合，并用动物油脂进行煎炸。"
-msgstr ""
+msgstr "Maria está cansada del pescado asado normal. Me pide preparar un “Filete de tierra y mar” más elaborado. Para ello hay que combinar pescado crudo con harina de maíz y freírlo en grasa animal"
 
 #. Key:	43FF9AD743250EFC83B5639976075933
 #. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30006.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
@@ -2769,7 +2769,7 @@ msgstr "Veo que has sufrido bastantes cortes y moretones por el camino. Comer te
 #: /Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30010.LogDescription_10_32F75F4343592643E76DC28D283FA682
 msgctxt ",ECD4AC944A6590861FE843A954FEFF62"
 msgid "搜刮来的药物越来越少，是时候掌握制药技术了。这是制作高级药品、提炼草药精华以及合成抗生素的专用工作台。"
-msgstr ""
+msgstr "Cada vez hay menos medicinas que se puedan saquear; es hora de dominar la tecnología farmacéutica. Maria te ha proporcionado el plano de la “Mesa de Farmacia”. Es una mesa de trabajo especializada para elaborar medicamentos avanzados, refinar esencias de hierbas y sintetizar antibióticos."
 
 #. Key:	12D20ECD4F4ACB90E2A1B0A85C986C0C
 #. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30010.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
@@ -3343,7 +3343,7 @@ msgstr "Ya casi has acabado con los lobos y los cerdos de este bosque. Ahora nos
 #: /Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50009.LogDescription_10_32F75F4343592643E76DC28D283FA682
 msgctxt ",CDD30CC843D1410B5F015BBFC3D76E4D"
 msgid "Sarah 打算建立自己的纺织原料基地。去野外采集植物，制作或收集种子。这笔交易的报酬非常丰厚。(提示：你可以在农业工作台里将采集到的植物转化为种子)"
-msgstr ""
+msgstr "Sarah planea establecer su propia base de materias primas textiles. Ve al campo a recolectar plantas, fabrica o consigue semillas. La recompensa de este trato es muy generosa. (Consejo: puedes convertir las plantas recolectadas en semillas en la Mesa de Agricultura)"
 
 #. Key:	E9E798394E29A532ECEAFAA276614ECA
 #. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50009.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
@@ -6738,7 +6738,7 @@ msgstr "Transacción"
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_DP_XDD.Default__Furniture_DP_XDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",9467DBC740A3DCA3C6FD3B91ABB29688"
 msgid "地板"
-msgstr "Suelo"
+msgstr "Piso"
 
 #. Key:	3581A89C43D3A186CF54818DC0E637FF
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_DPBase.Default__Furniture_DPBase_C.BuildInfo.TipAdsorbent_45_0277CC26494BF1319349189E27EC6190
@@ -6766,7 +6766,7 @@ msgstr "Una caja para guardar objetos sin perderlos."
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_DPLDD.Default__Furniture_DPLDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 msgctxt ",A4F801E94D43DD217F0D9AA600F69E87"
 msgid "地板"
-msgstr "Suelo"
+msgstr "Piso"
 
 #. Key:	7CCCED78433FBE0BEEEFD09131C4426E
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_KG.Furniture_KG_C:ShowUI [Script Bytecode]
@@ -6815,7 +6815,7 @@ msgstr "Mobiliario"
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_TYNFD.Default__Furniture_TYNFD_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 msgctxt ",5DE909AC4EB572FE8D3C46B84EDE3C94"
 msgid "受遮挡或在没有太阳的天气无法发电"
-msgstr "No puede generar electricidad cuando está bloqueado u oculto o cuando no hay sol"
+msgstr "No se puede generar electricidad debido a obstrucciones o por condiciones climáticas sin luz solar."
 
 #. Key:	B902044F444A770F5D16FEBFFB185A39
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_YSSJQ.Furniture_YSSJQ_C:ExecuteUbergraph_Furniture_YSSJQ [Script Bytecode]
@@ -6864,21 +6864,21 @@ msgstr "¡No hay suficiente agua!"
 #: /Game/HDCKBuildingSystem/MeshBP/OutStairs_Base_Wood.Default__OutStairs_Base_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 msgctxt ",EBC21F7246E6209331D60EA0265F237A"
 msgid "建房必备"
-msgstr "Esencial para construir una casa"
+msgstr "Imprescindible para construir una casa"
 
 #. Key:	618851AB421FBCEE730EB4A4B8283441
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_BL.Default__Roof_20_intersection_BL_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 #: /Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_BL.Default__Roof_20_intersection_BL_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 msgctxt ",618851AB421FBCEE730EB4A4B8283441"
 msgid "用于连接外转角屋顶。"
-msgstr "Se usa para conectar techos en esquinas exteriores."
+msgstr "Se utiliza para conectar la esquina exterior del techo."
 
 #. Key:	65067D1B47100B84C38434820F153140
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_Wood.Default__Roof_20_intersection_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 #: /Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_Wood.Default__Roof_20_intersection_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 msgctxt ",65067D1B47100B84C38434820F153140"
 msgid "用于连接外转角屋顶。"
-msgstr "Se usa para conectar techos en esquinas exteriores."
+msgstr "Se utiliza para conectar la esquina exterior del techo."
 
 #. Key:	E8EA4D5B4493329CF32982ABD630233C
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Wattle_WoodDoor.Wattle_WoodDoor_C:ShowUI [Script Bytecode]
@@ -7970,7 +7970,7 @@ msgstr "Alfombra Grande"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,DTX75643"
 msgid "大铁箱"
-msgstr "Gran caja de hierro"
+msgstr "Caja de hierro"
 
 #. Key:	duifeitong
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -16020,7 +16020,7 @@ msgstr "¡La versión del juego es inconsistente!"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,GetTip43243"
 msgid "注意开启以后无法关闭，开启会引来大量尸潮，请勿轻易开启！！"
-msgstr "Atención: una vez activado no se puede desactivar. Al activarlo atraerá una gran horda de cadáveres, ¡no lo actives a la ligera!"
+msgstr "Atención: Una vez activado no se puede desactivar. Al activarlo atraerá una gran horda de Zombies, ¡No lo actives a la ligera!"
 
 #. Key:	GL
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -18617,7 +18617,7 @@ msgstr "Camello"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,NLFH01535356"
 msgid "气喘"
-msgstr "Dificultad para respirar"
+msgstr "Asmático"
 
 #. Key:	NLHF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -18645,14 +18645,14 @@ msgstr "Baja capacidad pulmonar"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,NLSX0292366"
 msgid "骆驼耐性"
-msgstr "Resistencia de camello"
+msgstr "Resistencia de Camello"
 
 #. Key:	NLSX46349999
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,NLSX46349999"
 msgid "久坐族"
-msgstr "Personas sedentarias"
+msgstr "Persona Sedentaria"
 
 #. Key:	NLSX53453543
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -18666,14 +18666,14 @@ msgstr "Atleta"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,NLSX882366"
 msgid "耐力上限"
-msgstr "Límite de aguante"
+msgstr "Límite del aguante"
 
 #. Key:	NLXH
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,NLXH"
 msgid "耐力消耗"
-msgstr "Consumo de resistencia"
+msgstr "Consumo de Resistencia"
 
 #. Key:	PCRH
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
