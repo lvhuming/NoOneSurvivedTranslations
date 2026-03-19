@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2026-03-18 01:43\n"
-"PO-Revision-Date: 2026-03-18 01:43\n"
+"POT-Creation-Date: 2026-03-19 03:37\n"
+"PO-Revision-Date: 2026-03-19 03:37\n"
 "Language-Team: \n"
 "Language: en-001\n"
 "MIME-Version: 1.0\n"
@@ -734,17 +734,17 @@ msgctxt ",2F32F7184EE08293DDC575A2F524D414"
 msgid "左轮手枪"
 msgstr "Revolver"
 
-#. Key:	0F1D0FB0442C8C40C64E7A8191332085
+#. Key:	2C716B0647861A2C2C7A1C9F710A8DCA
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_sniper_SKS.Default__ACFGunBase_sniper_SKS_C.ItemInfo.Name
 #: /Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_sniper_SKS.Default__ACFGunBase_sniper_SKS_C.ItemInfo.Name
-msgctxt ",0F1D0FB0442C8C40C64E7A8191332085"
+msgctxt ",2C716B0647861A2C2C7A1C9F710A8DCA"
 msgid "SKS"
 msgstr "SKS"
 
-#. Key:	BFB15D9B444851120F7DCB8E65CA1586
+#. Key:	B01BA9EE487DA4D9E68232A5EB628B9E
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_sniper_SVD.Default__ACFGunBase_sniper_SVD_C.ItemInfo.Name
 #: /Game/Blueprint/ACF/Item/Weapon/Gun/ACFGunBase_sniper_SVD.Default__ACFGunBase_sniper_SVD_C.ItemInfo.Name
-msgctxt ",BFB15D9B444851120F7DCB8E65CA1586"
+msgctxt ",B01BA9EE487DA4D9E68232A5EB628B9E"
 msgid "SVD"
 msgstr "SVD"
 
@@ -762,10 +762,10 @@ msgctxt ",E89BB0EF49E11ADED3881FAA844725DC"
 msgid "长的双手大锤"
 msgstr "Long Sledgehammer"
 
-#. Key:	A34DE4F84EF84BE31D36469B17B523C9
+#. Key:	3B1986D240C26DF46319AFB3BC9C1DE0
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/LongBlunt/BP_LongBluntStick_G.Default__BP_LongBluntStick_G_C.ItemInfo.Description
 #: /Game/Blueprint/ACF/Item/Weapon/LongBlunt/BP_LongBluntStick_G.Default__BP_LongBluntStick_G_C.ItemInfo.Description
-msgctxt ",A34DE4F84EF84BE31D36469B17B523C9"
+msgctxt ",3B1986D240C26DF46319AFB3BC9C1DE0"
 msgid "露茜儿++"
 msgstr "Lucille++"
 
@@ -2601,7 +2601,7 @@ msgstr "Are you still eating nothing but roasted meat like some kind of barbaria
 #: /Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30003.LogDescription_10_32F75F4343592643E76DC28D283FA682
 msgctxt ",4B8DA2F349ECF10D9BBC19A0DF3BA091"
 msgid "痢疾是废土上常见的致死病因。Maria 教授了一种古老的配方：将 1 株“野生药草”和 2 L“纯净水”在锅中烹煮，可以制作出治疗痢疾并回复体力的“药草茶”。请留意野外的草地。"
-msgstr ""
+msgstr "Dysentery is a common cause of death in the wasteland. Maria taught an ancient recipe: cook 1 “Wild Herb” and 2 L of “Clean Water” in a pot to make “Herbal Tea”, which cures dysentery and restores stamina. Keep an eye on grasslands in the wild."
 
 #. Key:	0A8361EF4D9AB2F097C61ABD621583E2
 #. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30003.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
@@ -2685,7 +2685,7 @@ msgstr "See that river? Beneath the surface there’s a huge source of protein l
 #: /Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30006.LogDescription_10_32F75F4343592643E76DC28D283FA682
 msgctxt ",E432FF5E403DC34A771E7A8FEC1EAD62"
 msgid "Maria 厌倦了普通的烤鱼。她要求我制作一份更精致的“海鲜肉排”。这需要将生鱼肉与玉米粉结合，并用动物油脂进行煎炸。"
-msgstr ""
+msgstr "Maria is tired of ordinary grilled fish. She asked me to make a more refined “seafood patty”. This requires combining raw fish meat with cornmeal and frying it in animal fat."
 
 #. Key:	43FF9AD743250EFC83B5639976075933
 #. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30006.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
@@ -2769,7 +2769,7 @@ msgstr "Along the way, I’ve seen you take quite a few hits. Filling your stoma
 #: /Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30010.LogDescription_10_32F75F4343592643E76DC28D283FA682
 msgctxt ",ECD4AC944A6590861FE843A954FEFF62"
 msgid "搜刮来的药物越来越少，是时候掌握制药技术了。这是制作高级药品、提炼草药精华以及合成抗生素的专用工作台。"
-msgstr ""
+msgstr "The scavenged medicines are getting fewer and fewer; it’s time to master pharmaceutical techniques. This is a dedicated workbench for making advanced medicine, extracting herbal essences, and synthesizing antibiotics."
 
 #. Key:	12D20ECD4F4ACB90E2A1B0A85C986C0C
 #. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Maria.DT_Maria.30010.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
@@ -3343,7 +3343,7 @@ msgstr "You've mostly cleared out the wolves and pigs from this forest. Now, we'
 #: /Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50009.LogDescription_10_32F75F4343592643E76DC28D283FA682
 msgctxt ",CDD30CC843D1410B5F015BBFC3D76E4D"
 msgid "Sarah 打算建立自己的纺织原料基地。去野外采集植物，制作或收集种子。这笔交易的报酬非常丰厚。(提示：你可以在农业工作台里将采集到的植物转化为种子)"
-msgstr ""
+msgstr "Sarah plans to establish her own base for textile raw materials. Go into the wild to gather plants, then make or collect seeds. The payment for this job is very generous. (Hint: you can turn collected plants into seeds at the Agriculture Workbench.)"
 
 #. Key:	E9E798394E29A532ECEAFAA276614ECA
 #. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Sarah.DT_Sarah.50009.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
