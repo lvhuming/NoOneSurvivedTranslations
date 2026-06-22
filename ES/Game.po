@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2026-03-19 03:37\n"
-"PO-Revision-Date: 2026-03-19 03:37\n"
+"POT-Creation-Date: 2026-06-22 01:53\n"
+"PO-Revision-Date: 2026-06-22 01:53\n"
 "Language-Team: \n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -1894,7 +1894,7 @@ msgstr "Ya puedes disparar, qué bien. Pero las balas siempre se acaban. ¿Qué 
 #: /Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10003.LogDescription_10_32F75F4343592643E76DC28D283FA682
 msgctxt ",7FD4C96240AC57C558937DBFCB2EC782"
 msgid "营地周围出现了一种危险的变异体——“毒爆者”（绿色爆炸丧尸）。它们体内充满易爆的酸性液体，近战极其致命，而枪声又容易引发连锁反应。Hank 建议使用弓箭进行远程、无声的清除。这是一次对潜行和精准度的终极考验。"
-msgstr "Un peligroso mutante, los "Bombarderos" (Zombis Explosivos), han aparecido en el campamento. Llenos de un líquido ácido explosivo, son extremadamente letales en combate cuerpo a cuerpo, y los disparos pueden desencadenar fácilmente una reacción en cadena. Hank sugiere usar un arco y flechas para una eliminación silenciosa a distancia. Esta es la prueba definitiva de sigilo y precisión."
+msgstr "Un peligroso mutante, los \"Bombarderos\" (Zombis Explosivos), han aparecido en el campamento. Llenos de un líquido ácido explosivo, son extremadamente letales en combate cuerpo a cuerpo, y los disparos pueden desencadenar fácilmente una reacción en cadena. Hank sugiere usar un arco y flechas para una eliminación silenciosa a distancia. Esta es la prueba definitiva de sigilo y precisión."
 
 #. Key:	C99B80A24B733969FCA8F99EC2D24A41
 #. SourceLocation:	/Game/Blueprint/QuestSystem/QuestDatas/DT_Hank.DT_Hank.10003.QuestName_2_A5D7D5824B5561D5759E3FBEC5A37722
@@ -3750,6 +3750,20 @@ msgstr "Energía "
 msgctxt ",38F6DAE24E9F7480E7C3C59E4C5D0AB4"
 msgid "1233"
 msgstr "1233"
+
+#. Key:	359C9D54471E28314D8A03B30B81608C
+#. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_HJ.WBP_HJ_C:WidgetTree.FireTIme.Text
+#: /Game/Blueprint/UMG/Furniture/WBP_HJ.WBP_HJ_C:WidgetTree.FireTIme.Text
+msgctxt ",359C9D54471E28314D8A03B30B81608C"
+msgid "燃烧时间：0"
+msgstr "Tiempo de combustión: 0"
+
+#. Key:	47AE1BFE43A5C9439A93588D76D0E1F3
+#. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_HJ.WBP_HJ_C:WidgetTree.WBP_AddButton.ToolTipText
+#: /Game/Blueprint/UMG/Furniture/WBP_HJ.WBP_HJ_C:WidgetTree.WBP_AddButton.ToolTipText
+msgctxt ",47AE1BFE43A5C9439A93588D76D0E1F3"
+msgid "拖入可燃物，比如树枝，原木"
+msgstr "Arrastra materiales combustibles, como ramas y troncos"
 
 #. Key:	8C76F3354A03EDF4BFBD1FB712E3A7F4
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_JGT.WBP_JGT_C:WidgetTree.Num.Text
@@ -6733,12 +6747,12 @@ msgctxt ",F9AEB4DA4E4995AF5C0807AE1EEF8C90"
 msgid "transaction"
 msgstr "Transacción"
 
-#. Key:	9467DBC740A3DCA3C6FD3B91ABB29688
+#. Key:	1F107E3D49EC6B7225C9C580AAD1E7EB
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_DP_XDD.Default__Furniture_DP_XDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_DP_XDD.Default__Furniture_DP_XDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
-msgctxt ",9467DBC740A3DCA3C6FD3B91ABB29688"
+msgctxt ",1F107E3D49EC6B7225C9C580AAD1E7EB"
 msgid "地板"
-msgstr "Piso"
+msgstr "Suelo"
 
 #. Key:	3581A89C43D3A186CF54818DC0E637FF
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_DPBase.Default__Furniture_DPBase_C.BuildInfo.TipAdsorbent_45_0277CC26494BF1319349189E27EC6190
@@ -6761,12 +6775,12 @@ msgctxt ",ABE10B784F6D55A4DA2F40A4FBEC2520"
 msgid "用于保管物品的箱子，不会丢失物品。"
 msgstr "Una caja para guardar objetos sin perderlos."
 
-#. Key:	A4F801E94D43DD217F0D9AA600F69E87
+#. Key:	43856BEF497A2EC4DEE975B5E5FF74EA
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_DPLDD.Default__Furniture_DPLDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_DPLDD.Default__Furniture_DPLDD_C.BuildInfo.TipBaring_44_F3F5ED5C41DE430C9433E1B20F5C6669
-msgctxt ",A4F801E94D43DD217F0D9AA600F69E87"
+msgctxt ",43856BEF497A2EC4DEE975B5E5FF74EA"
 msgid "地板"
-msgstr "Piso"
+msgstr "Suelo"
 
 #. Key:	7CCCED78433FBE0BEEEFD09131C4426E
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_KG.Furniture_KG_C:ShowUI [Script Bytecode]
@@ -6810,12 +6824,12 @@ msgctxt ",BC879B3F4ECE110B894771976EFF65F1"
 msgid "家具"
 msgstr "Mobiliario"
 
-#. Key:	5DE909AC4EB572FE8D3C46B84EDE3C94
+#. Key:	0D8CCA19468A52B27277BCB8B3CD5E92
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_TYNFD.Default__Furniture_TYNFD_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_TYNFD.Default__Furniture_TYNFD_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-msgctxt ",5DE909AC4EB572FE8D3C46B84EDE3C94"
+msgctxt ",0D8CCA19468A52B27277BCB8B3CD5E92"
 msgid "受遮挡或在没有太阳的天气无法发电"
-msgstr "No se puede generar electricidad debido a obstrucciones o por condiciones climáticas sin luz solar."
+msgstr "No puede generar electricidad cuando está bloqueado u oculto, o en días sin sol"
 
 #. Key:	B902044F444A770F5D16FEBFFB185A39
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_YSSJQ.Furniture_YSSJQ_C:ExecuteUbergraph_Furniture_YSSJQ [Script Bytecode]
@@ -6859,26 +6873,26 @@ msgctxt ",F3F8E148409A7CD56F64519CED4DC8A7"
 msgid "水不够！"
 msgstr "¡No hay suficiente agua!"
 
-#. Key:	EBC21F7246E6209331D60EA0265F237A
+#. Key:	BE70F87141502CC2CB4C99952FC9B670
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/OutStairs_Base_Wood.Default__OutStairs_Base_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 #: /Game/HDCKBuildingSystem/MeshBP/OutStairs_Base_Wood.Default__OutStairs_Base_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-msgctxt ",EBC21F7246E6209331D60EA0265F237A"
+msgctxt ",BE70F87141502CC2CB4C99952FC9B670"
 msgid "建房必备"
 msgstr "Imprescindible para construir una casa"
 
-#. Key:	618851AB421FBCEE730EB4A4B8283441
+#. Key:	891E827240C230D05AF1EE98A76EC7B7
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_BL.Default__Roof_20_intersection_BL_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 #: /Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_BL.Default__Roof_20_intersection_BL_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-msgctxt ",618851AB421FBCEE730EB4A4B8283441"
+msgctxt ",891E827240C230D05AF1EE98A76EC7B7"
 msgid "用于连接外转角屋顶。"
-msgstr "Se utiliza para conectar la esquina exterior del techo."
+msgstr "Se utiliza para conectar techos de esquina exterior."
 
-#. Key:	65067D1B47100B84C38434820F153140
+#. Key:	D8BB52F44EBBFD46724FEBA57A99DF54
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_Wood.Default__Roof_20_intersection_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
 #: /Game/HDCKBuildingSystem/MeshBP/Roof_20_intersection_Wood.Default__Roof_20_intersection_Wood_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
-msgctxt ",65067D1B47100B84C38434820F153140"
+msgctxt ",D8BB52F44EBBFD46724FEBA57A99DF54"
 msgid "用于连接外转角屋顶。"
-msgstr "Se utiliza para conectar la esquina exterior del techo."
+msgstr "Se utiliza para conectar techos de esquina exterior."
 
 #. Key:	E8EA4D5B4493329CF32982ABD630233C
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Wattle_WoodDoor.Wattle_WoodDoor_C:ShowUI [Script Bytecode]
@@ -8601,6 +8615,13 @@ msgstr "Una baranda sencilla"
 msgctxt ",HandGuardStairs"
 msgid "楼梯护栏"
 msgstr "Baranda de Escalera"
+
+#. Key:	HJ424534
+#. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
+#: /Game/LocalizationText/BuildingInfo.BuildingInfo
+msgctxt ",HJ424534"
+msgid "火炬"
+msgstr "Antorcha"
 
 #. Key:	HorizontalBeam
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -11017,6 +11038,13 @@ msgctxt "ItemInfo,HCZZ"
 msgid "花草种子"
 msgstr "Semillas de Flores"
 
+#. Key:	JGZZ43453
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,JGZZ43453"
+msgid "浆果种子"
+msgstr "Semillas de bayas"
+
 #. Key:	JK
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
@@ -13159,6 +13187,13 @@ msgctxt "ItemInfo,WSD"
 msgid "武士刀"
 msgstr "Katana"
 
+#. Key:	YCZZ453453
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,YCZZ453453"
+msgid "烟草种子"
+msgstr "Semillas de tabaco"
+
 #. Key:	YP_B_DBZBCJ
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
 #: /Game/LocalizationText/ItemInfo.ItemInfo
@@ -13445,6 +13480,13 @@ msgstr "Sopa de pescado"
 msgctxt "ItemInfo,yuxian"
 msgid "鱼线"
 msgstr "Sedal"
+
+#. Key:	YY75345345
+#. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
+#: /Game/LocalizationText/ItemInfo.ItemInfo
+msgctxt "ItemInfo,YY75345345"
+msgid "烟叶"
+msgstr "Hojas de tabaco"
 
 #. Key:	ZHAYUPAI
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -15161,6 +15203,13 @@ msgctxt "UI,Breaking"
 msgid "拆卸中..."
 msgstr "Reciclando..."
 
+#. Key:	BSKBB434
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,BSKBB434"
+msgid "不是空背包！"
+msgstr "¡La mochila no está vacía!"
+
 #. Key:	Buff
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
@@ -15475,6 +15524,13 @@ msgstr "Se utiliza para reparar motores."
 msgctxt "UI,CDDX"
 msgid "充电源"
 msgstr "Cargando "
+
+#. Key:	CDGL4343
+#. SourceLocation:	/Game/LocalizationText/UI.UI
+#: /Game/LocalizationText/UI.UI
+msgctxt "UI,CDGL4343"
+msgid "充电功率："
+msgstr "Potencia de carga:"
 
 #. Key:	CDTS
 #. SourceLocation:	/Game/LocalizationText/UI.UI
